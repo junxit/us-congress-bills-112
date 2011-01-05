@@ -1,0 +1,44 @@
+---
+legis-num: H.R. 69
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 69
+
+> To prohibit Federal funding of certain public radio programming, to provide for the transfer of certain public radio funds to reduce the public debt, and for other purposes.
+
+## § 1. Prohibition on Federal funding of certain public radio programming
+
+- **(a)** *In general* No Federal funds may be made available—
+  - **(1)** to an organization that is incorporated as of the date of the enactment of this Act for each of the purposes described in subsection (c), or to any successor organization; or
+  - **(2)** for the acquisition of radio programs (including programs to be distributed or disseminated over the Internet) from an organization described in paragraph (1).
+- **(b)** *Rule of construction* Subsection (a)(2) shall not be construed to prohibit the making available of Federal funds to any entity, including an entity that engages in the acquisition described in such subsection, for purposes other than such acquisition.
+- **(c)** *Purposes described* The purposes described in this subsection are the following:
+  - **(1)** To propose, plan and develop, to acquire, purchase and lease, to prepare, produce and record, and to distribute, license and otherwise make available radio programs to be broadcast over noncommercial educational radio broadcast stations, networks and systems.
+  - **(2)** To engage in research study activities with respect to noncommercial educational radio programming and broadcasting.
+  - **(3)** To lease, purchase, acquire and own, to order, have, use and contract for, and to otherwise obtain, arrange for and provide technical equipment and facilities for the production, recording and distribution of radio programs for broadcast over noncommercial educational radio stations, networks and systems.
+  - **(4)** To establish and maintain one or more service or services for the production, duplication, promotion and circulation of radio programs on tape, cassettes, records or any other means or mechanism suitable for noncommercial educational transmission and broadcast thereof.
+  - **(5)** To cooperate and participate with foreign broadcasting systems and networks in all aspects of international radio programming and broadcasting.
+  - **(6)** To develop, prepare and publish information, data, reports and other materials in support of or relating to noncommercial educational radio programming and broadcasting.
+  - **(7)** To otherwise forward and advance the development, production, distribution and use of noncommercial educational radio programs, materials and services, and to assist and support noncommercial educational radio broadcasting pursuant to the Public Broadcasting Act of 1967, as it may from time to time be amended.
+- **(d)** *Definition* In this section, the term Federal funds means, with respect to receipt by a non-Federal entity from the Federal Government, the following:
+  - **(1)** Grants.
+  - **(2)** Loans.
+  - **(3)** Property.
+  - **(4)** Cooperative agreements.
+  - **(5)** Direct appropriations.
+
+## § 2. Transfer of certain funds to reduce the public debt
+
+For fiscal years 2011 and 2012, the Corporation for Public Broadcasting shall transfer to the account established by section 3113(d) of title 31, United States Code, an amount equal to the amount allocated under clauses (ii) and (iii) of section 396(k)(3)(A) of the Communications Act of 1934 (47 U.S.C. 396(k)(3)(A)) that would have been made available to an organization described in subsection (a)(1) of section 1 or for the purpose described in subsection (a)(2) of such section, but for the enactment of such section.
+
+## § 3. Sense of Congress
+
+It is the sense of Congress that—
+
+- **(1)** the Congressional Budget Office, the Government Accountability Office, and the Chairman of the Board of Governors of the Federal Reserve System have found that unsustainable fiscal trends, driven by Federal spending, represent a serious threat to the United States economy and the prosperity of the American people;
+- **(2)** Government programs and services that can be funded privately, or that are otherwise available within civil society, should not depend on taxpayer funding;
+- **(3)** nondefense discretionary Federal spending should be significantly decreased, and savings should be used for the purpose of paying down the public debt; and
+- **(4)** beginning in fiscal year 2011, the annual budget deficit should be reduced by not making available Federal funds as prohibited by section 1.
