@@ -1,0 +1,46 @@
+---
+legis-num: H.R. 241
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 241
+
+> To authorize the conveyance of certain National Forest System lands in the Los Padres National Forest in California.
+
+## § 1. Definitions
+
+In this Act:
+
+- **(1)** *Federal land* The term Federal land means the approximately 5 acres of National Forest System land in Santa Barbara County, California, as generally depicted on the map.
+- **(2)** *Foundation* The term Foundation means the White Lotus Foundation, a nonprofit foundation located in Santa Barbara, California.
+- **(3)** *Map* The term map means the map entitled “San Marcos Pass Encroachment for Consideration of Legislative Remedy” and dated June 1, 2009.
+- **(4)** *Secretary* The term Secretary means the Secretary of Agriculture.
+
+## § 2. Land conveyance
+
+- **(a)** *In General* Subject to the provisions of this section, if the Foundation offers to convey to the Secretary all right, title, and interest of the Foundation in and to a parcel of non-Federal land that is acceptable to the Secretary—
+  - **(1)** the Secretary shall accept the offer; and
+  - **(2)** on receipt of acceptable title to the non-Federal land, the Secretary shall convey to the Foundation all right, title, and interest of the United States in and to the Federal land.
+- **(b)** *Applicable Law* The land exchange authorized under subsection (a) shall be subject to section 206 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716).
+- **(c)** *Time for Completion of Land Exchange* It is the intent of Congress that the land exchange under subsection (a) shall be completed not later than 2 years after the date of enactment of this Act.
+- **(d)** *Authority of Secretary To Conduct Sale of Federal Land* If the land exchange under subsection (a) is not completed by the date that is 2 years after the date of enactment of this Act, the Secretary may offer to sell to the Foundation the Federal land for fair market value.
+- **(e)** *Additional Terms and Conditions* The land exchange under subsection (a) and any sale under subsection (d) shall be subject to—
+  - **(1)** valid existing rights;
+  - **(2)** the Secretary finding that the public interest would be well served by making the exchange or sale;
+  - **(3)** any terms and conditions that the Secretary may require; and
+  - **(4)** the Foundation paying the reasonable costs of any surveys, appraisals, and any other administrative costs associated with the land exchange or sale.
+- **(f)** *Appraisals*
+  - **(1)** *In general* The land conveyed under subsection (a) or (d) shall be appraised by an independent appraiser selected by the Secretary.
+  - **(2)** *Requirements* An appraisal under paragraph (1) shall be conducted in accordance with nationally recognized appraisal standards, including—
+    - **(A)** the Uniform Appraisal Standards for Federal Land Acquisitions; and
+    - **(B)** the Uniform Standards of Professional Appraisal Practice.
+- **(g)** *Disposition of Proceeds*
+  - **(1)** *In general* The Secretary shall deposit in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”) (16 U.S.C. 484a) any amount received by the Secretary as the result of—
+    - **(A)** any cash equalization payment made under subsection (b); and
+    - **(B)** any sale carried out under subsection (d).
+  - **(2)** *Use of proceeds* Amounts deposited under paragraph (1) shall be available to the Secretary, without further appropriation and until expended, for the acquisition of land or interests in land in the Los Padres National Forest.
+- **(h)** *Management and Status of Acquired Land* Any non-Federal land acquired by the Secretary under this Act shall be managed by the Secretary in accordance with—
+  - **(1)** the Act of March 1, 1911 (commonly known as the “Weeks Law”) (16 U.S.C. 480 et seq.); and
+  - **(2)** any laws (including regulations) applicable to the National Forest System.
