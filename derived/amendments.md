@@ -1,7 +1,7 @@
 ---
 measure: H.R. 292
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 706 of title 44, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | Chapter 7 of title 44, United States Code, is amended by inserting after section 706 the following new section: | the bill names no machine-readable US Code section |
+| — | replace | by striking “There shall be printed” each place it appears and inserting “Subject to section 706A, there shall be printed”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Of concurrent and simple resolutions” and inserting “Subject to section 706A, of concurrent and simple resolutions”. | the bill names no machine-readable US Code section |
+| — | insert | The table of sections of chapter 7 of such title is amended by inserting after the item relating to section 706 the following new item: | the bill names no machine-readable US Code section |
