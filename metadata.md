@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2
@@ -16,7 +16,7 @@ Repealing the Job-Killing Health Care Law Act
 
 - Rep. Cantor, Eric [R-VA-7] (C001046)
 
-## Cosponsors (151)
+## Cosponsors (182)
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 - Rep. Kline, John [R-MN-2] (K000363)
@@ -169,6 +169,37 @@ Repealing the Job-Killing Health Care Law Act
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 - Rep. Mulvaney, Mick [R-SC-5] (M001182)
 - Rep. Hayworth, Nan A. S. [R-NY-19] (H001054)
+- Rep. Bilbray, Brian P. [R-CA-50] (B000461)
+- Rep. Canseco, Francisco "Quico" [R-TX-23] (C001082)
+- Rep. Griffin, Tim [R-AR-2] (G000567)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
+- Rep. Reed, Tom [R-NY-29] (R000585)
+- Rep. Walsh, Joe [R-IL-8] (W000811)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Cassidy, Bill [R-LA-6] (C001075)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
+- Rep. Young, Todd [R-IN-9] (Y000064)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Runyan, Jon [R-NJ-3] (R000594)
+- Rep. Gosar, Paul A. [R-AZ-1] (G000565)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Rigell, E. Scott [R-VA-2] (R000589)
+- Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
+- Rep. Hunter, Duncan D. [R-CA-52] (H001048)
+- Rep. Guinta, Frank C. [R-NH-1] (G000570)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Quayle, Benjamin [R-AZ-3] (Q000024)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Southerland, Steve II [R-FL-2] (S001186)
 
 ## Committees (8)
 
@@ -180,6 +211,11 @@ Repealing the Job-Killing Health Care Law Act
 - House — Judiciary Committee
 - House — Ways and Means Committee
 - House — Education and the Workforce Committee
+
+## Recorded votes (2)
+
+- 2011-01-19 — [House 112-1-13](votes/house-112-1-0013.md) — On Motion to Recommit with Instructions — **Failed** (185–245)
+- 2011-01-19 — [House 112-1-14](votes/house-112-1-0014.md) — On Passage — **Passed** (245–189)
 
 ## Actions
 
@@ -193,3 +229,20 @@ Repealing the Job-Killing Health Care Law Act
 - 2011-01-05 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and the Workforce, Ways and Means, the Judiciary, Natural Resources, Rules, House Administration, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-01-05 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and the Workforce, Ways and Means, the Judiciary, Natural Resources, Rules, House Administration, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-01-05 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and the Workforce, Ways and Means, the Judiciary, Natural Resources, Rules, House Administration, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-01-06 — Rules Committee Resolution H. Res. 26 Reported to House. Rule provides for consideration of H.R. 2 and H. Res. 9. Measure provides for consideration of H.R. 2, as amended, with the amendment printed in Part A of the report. H.R. 2, as amended, shall be debatable in the House for seven hours, equally divided and controlled. Measure provides for consideration of H. Res. 9 which shall be considered as read, debatable for one hour, equally divided and controlled, and makes in order the amendment printed in Part B of the report.
+- 2011-01-18 — Considered under the provisions of rule H. Res. 26. (consideration: CR H209-230; text of measure as amended in House: CR H209)
+- 2011-01-18 — DEBATE - The House proceeded with 7 hours of debate on H.R. 2.
+- 2011-01-18 — House amendment offered
+- 2011-01-18 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule 19, the Chair postponed further consideration of H.R. 2.
+- 2011-01-18 — Rule provides for consideration of H.R. 2 and H. Res. 9. Measure provides for consideration of H.R. 2, as amended, with the amendment printed in Part A of the report. H.R. 2, as amended, shall be debatable in the House for seven hours, equally divided and controlled. Measure provides for consideration of H. Res. 9 which shall be considered as read, debatable for one hour, equally divided and controlled, and makes in order the amendment printed in Part B of the report.
+- 2011-01-19 — Considered as unfinished business. (consideration: CR H262-323)
+- 2011-01-19 — DEBATE - The House proceeded with 10 minutes of debate on the Andrews motion to recommit with instructions, pending reservation of a point of order. The reservation of the point of order was subsequently withdrawn. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment which requires the health care repeal shall not take effect unless a majority of Members of U.S. House of Representatives and a majority of U.S. Senators waive Federal Employees Health Benefits Program Benefits.
+- 2011-01-19 — DEBATE - The House proceeded with the remaining five hours of debate on H.R. 2.
+- 2011-01-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-01-19 — Mr. Andrews moved to recommit with instructions to Energy and Commerce, Ways and Means, and Education and the Workforce. (consideration: CR H321-322; text: CR H321)
+- 2011-01-19 — On motion to recommit with instructions Failed by the Yeas and Nays: 185 - 245 (Roll no. 13).
+- 2011-01-19 — On passage Passed by recorded vote: 245 - 189 (Roll no. 14).
+- 2011-01-19 — Passed/agreed to in House: On passage Passed by recorded vote: 245 - 189 (Roll no. 14).
+- 2011-01-19 — The Chair announced that pursuant to clause 1(c) of rule 19, proceedings will now resume on H.R. 2.
+- 2011-01-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H322)
+- 2011-01-19 — The previous question was ordered pursuant to the rule. (consideration: CR H321)
