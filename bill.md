@@ -2,7 +2,7 @@
 legis-num: H. RES. 9
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 9
@@ -21,5 +21,6 @@ That the Committee on Education and the Workforce, the Committee on Energy and C
 - **(8)** provide the States greater flexibility to administer Medicaid programs;
 - **(9)** expand incentives to encourage personal responsibility for health care coverage and costs;
 - **(10)** prohibit taxpayer funding of abortions and provide conscience protections for health care providers;
-- **(11)** eliminate duplicative government programs and wasteful spending; or,
-- **(12)** do not accelerate the insolvency of entitlement programs or increase the tax burden on Americans.
+- **(11)** eliminate duplicative government programs and wasteful spending;
+- **(12)** do not accelerate the insolvency of entitlement programs or increase the tax burden on Americans; or
+- **(13)** enact a permanent fix to the flawed Medicare sustainable growth rate formula used to determine physician payments under title XVIII of the Social Security Act to preserve health care for the nation’s seniors and to provide a stable environment for physicians.
