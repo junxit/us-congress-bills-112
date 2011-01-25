@@ -1,7 +1,7 @@
 ---
 measure: H.R. 366
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 366
@@ -32,3 +32,12 @@ To provide for an additional temporary extension of programs under the Small Bus
 - 2011-01-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H445)
 - 2011-01-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H445)
 - 2011-01-25 — Received in the Senate, read twice.
+- 2011-01-26 — Message on Senate action sent to the House.
+- 2011-01-26 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S261)
+- 2011-01-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S261)
+- 2011-01-28 — Presented to President.
+- 2011-01-28 — Presented to President.
+- 2011-01-31 — Became Public Law No: 112-1.
+- 2011-01-31 — Became Public Law No: 112-1.
+- 2011-01-31 — Signed by President.
+- 2011-01-31 — Signed by President.
