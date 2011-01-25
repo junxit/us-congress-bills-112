@@ -1,7 +1,7 @@
 ---
 measure: H.R. 292
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 292
@@ -34,9 +34,10 @@ To amend title 44, United States Code, to eliminate the mandatory printing of bi
 - Rep. Reed, Tom [R-NY-29] (R000585)
 - Rep. Gardner, Cory [R-CO-4] (G000562)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ To amend title 44, United States Code, to eliminate the mandatory printing of bi
 - 2011-01-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 12). (text: CR H207)
 - 2011-01-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 12).(text: CR H207)
 - 2011-01-18 — The title of the measure was amended. Agreed to without objection.
+- 2011-01-25 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
