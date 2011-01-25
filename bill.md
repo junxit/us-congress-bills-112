@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 443
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 443
+
+> To provide for the conveyance of certain property from the United States to the Maniilaq Association located in Kotzebue, Alaska.
+
+## § 1. Conveyance of property
+
+- **(a)** *In general* As soon as practicable after the date of the enactment of this Act, but not later than 180 days after such date, the Secretary of Health and Human Services (in this Act referred to as the Secretary) shall convey to the Maniilaq Association located in Kotzebue, Alaska, all right, title, and interest of the United States in and to the property described in section 2 for use in connection with health and social services programs. The Secretary’s conveyance of title by warranty deed under this section shall, on its effective date, supersede and render of no future effect the Quitclaim Deed to the property described in section 2(1) executed by the Secretary and the Maniilaq Association on March 31, 2009.
+- **(b)** *Conditions* The conveyance required by this section shall be made by warranty deed without consideration and without imposing any obligation, term, or condition on the Maniilaq Association, or reversionary interest of the United States, other than that required by this Act or section 512(c)(2)(B) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 458aaa–11(c)(2)(B)).
+
+## § 2. Property described
+
+The property, including all land and appurtenances, to be conveyed pursuant to section 1 is as follows:
+
+- **(1)** Re-Plat of Friends Mission Reserve, Subdivision No. 2, U.S. Survey 2082, Lot 1, Block 12, Kotzebue, Alaska, containing 8.10 acres (352.818 sq. ft.), recorded in the Kotzebue Recording District, Kotzebue, Alaska, on October 14, 1988, including Installation No. 41231 and all land, buildings, structures, facilities, and appurtenances thereon.
+- **(2)** Re-plat of Friends Mission Reserve, Subdivision No. 2, U.S. Survey 2082, Lots 1A & lB, Block 13, Kotzebue, Alaska including Installation No. 41232 and all land, buildings, structures, facilities, and appurtenances thereon.
+- **(3)** Lot 1B, Block 26, U.S. Survey No. 2863 B, Town Site of Kotzebue, Alaska, including Installation 41233 and all land, buildings, structures, facilities, and appurtenances thereon.
+
+## § 3. Environmental liability
+
+- **(a)** *In general* Notwithstanding any other provision of Federal law, the Maniilaq Association shall not be liable for any soil, surface water, groundwater, or other contamination resulting from the disposal, release, or presence of any environmental contamination, including any oil or petroleum products, or any hazardous substances, hazardous materials, hazardous waste, pollutants, toxic substances, solid waste, or any other environmental contamination or hazard as defined in any Federal law, on any property described in section 2 as of the date of the conveyance.
+- **(b)** *Easement* The Secretary shall be accorded any easement or access to the property conveyed as may be reasonably necessary to satisfy any retained obligations and liability of the Secretary.
+- **(c)** *Notice of hazardous substance activity and warranty* The Secretary shall comply with section 120(h)(3)(A) and (B) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)(3)(A)).
