@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 3
 congress: 112
-version: Agreed to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 3
@@ -20,8 +20,15 @@ A concurrent resolution honoring the service and sacrifice of Staff Sergeant Sal
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
+## Committees (1)
+
+- House — Armed Services Committee
+
 ## Actions
 
 - 2011-01-25 — Introduced in Senate
 - 2011-01-25 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S246-247; text as passed Senate: CR S246-247; text of measure as introduced: CR S246)
 - 2011-01-25 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S246-247; text as passed Senate: CR S246-247; text of measure as introduced: CR S246)
+- 2011-01-26 — Message on Senate action sent to the House.
+- 2011-01-26 — Received in the House.
+- 2011-01-26 — Referred to the House Committee on Armed Services.
