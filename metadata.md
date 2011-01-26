@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2
@@ -246,3 +246,5 @@ Repealing the Job-Killing Health Care Law Act
 - 2011-01-19 — The Chair announced that pursuant to clause 1(c) of rule 19, proceedings will now resume on H.R. 2.
 - 2011-01-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H322)
 - 2011-01-19 — The previous question was ordered pursuant to the rule. (consideration: CR H321)
+- 2011-01-25 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-01-26 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 3.
