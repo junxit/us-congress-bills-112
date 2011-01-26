@@ -22,7 +22,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       > The provisions of this chapter shall not apply with respect to any presidential election (or any presidential nominating convention) after the date of the enactment of this section, or to any candidate in such an election.
 
     - **(B)** *Transfer of excess funds to general fund* Section 9006 of such Code is amended by adding at the end the following new subsection:
-      > - **(d)** *Transfer of funds remaining after termination* The Secretary shall transfer all amounts in the fund after the date of the enactment of this section to the general fund of the Treasury.
+      > - **(d)** *Transfer of funds remaining after termination* The Secretary shall transfer all amounts in the fund after the date of the enactment of this section to the general fund of the Treasury, to be used only for reducing the deficit.
 
   - **(2)** *Termination of account* Chapter 96 of subtitle H of such Code is amended by adding at the end the following new section:
     > ## § 9043. Termination

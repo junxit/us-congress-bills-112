@@ -1,7 +1,7 @@
 ---
 measure: H.R. 359
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,5 +35,5 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Chapter 95 of subtitle H of such Code is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 9006 of such Code is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 96 of subtitle H of such Code is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | amend | The table of sections for chapter 95 of subtitle H of such Code is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | amend | The table of sections for chapter 96 of subtitle H of such Code is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 95 of subtitle H of such Code is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 96 of subtitle H of such Code is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
