@@ -1,0 +1,121 @@
+---
+legis-num: H.R. 515
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 515
+
+> To reauthorize the Belarus Democracy Act of 2004.
+
+## § 1. Short title
+
+This Act may be cited as the “Belarus Democracy Reauthorization Act of 2011”.
+
+## § 2. Findings; Statement of policy
+
+Sections 2 and 3 of the Belarus Democracy Act of 2004 (Public Law 109–480; 22 U.S.C. 5811 note) is amended to read as follows:
+
+> ## § 2. Findings
+>
+> Congress finds the following:
+>
+> - **(1)** The Government of Belarus has engaged in a pattern of clear and uncorrected violations of human rights and fundamental freedoms.
+> - **(2)** The Government of Belarus has engaged in a pattern of clear and uncorrected violations of basic principles of democratic governance, including through a series of fundamentally flawed presidential and parliamentary elections undermining the legitimacy of executive and legislative authority in that country.
+> - **(3)** The Government of Belarus has subjected thousands of pro-democratic political activists to harassment, beatings, and jailings, particularly as a result of their attempts to peacefully exercise their right to freedom of assembly and association.
+> - **(4)** The Government of Belarus has attempted to maintain a monopoly over the country’s information space, targeting independent media, including independent journalists, for systematic reprisals and elimination, while suppressing the right to freedom of speech and expression of those dissenting from the dictatorship of Aleksandr Lukashenka, and adopted laws restricting the media, including the Internet, in a manner inconsistent with international human rights agreements.
+> - **(5)** The Government of Belarus continues a systematic campaign of harassment, repression, and closure of nongovernmental organizations, including independent trade unions and entrepreneurs, and this crackdown has created a climate of fear that inhibits the development of civil society and social solidarity.
+> - **(6)** The Government of Belarus has subjected leaders and members of select ethnic and religious minorities to harassment, including the imposition of heavy fines and denying permission to meet for religious services.
+> - **(7)** The Government of Belarus has attempted to silence dissent by persecuting human rights and pro-democracy activists with threats, firings, expulsions, beatings and other forms of intimidation, and restrictions on freedom of movement and prohibition of international travel.
+> - **(8)** The dictator of Belarus, Aleksandr Lukashenka, established himself in power by orchestrating an illegal and unconstitutional referendum that enabled him to impose a new constitution, abolishing the duly elected parliament, the 13th Supreme Soviet, installing a largely powerless National Assembly, extending his term in office, and removing applicable term limits.
+> - **(9)** The Government of Belarus has failed to make a convincing effort to solve the cases of disappeared opposition figures Yuri Zakharenka, Viktor Gonchar, and Anatoly Krasovsky and journalist Dmitry Zavadsky, even though credible allegations and evidence links top officials of the Government to these disappearance.
+> - **(10)** The Government of Belarus has restricted freedom of expression on the Internet by requiring Internet Service Providers to maintain data on Internet users and the sites they view and to provide such data to officials upon request, and by creating a government body with the authority to require Internet Service Providers to block Web sites.
+> - **(11)** On December 19, 2010, the Government of Belarus conducted a presidential election that failed to meet the standards of the Organization for Security and Cooperation in Europe (OSCE) for democratic elections.
+> - **(12)** After the December 19, 2010, presidential election the Government of Belarus responded to opposition protests by beating an unknown number of protestors and detaining more than 600 peaceful protestors.
+> - **(13)** After the December 19, 2010, presidential election the Government of Belarus jailed seven of the nine opposition presidential candidates and abused the process of criminal prosecution to persecute them.
+> - **(14)** After the December 19, 2010, presidential election, the Government of Belarus disrupted independent broadcast and Internet media, and engaged in repressive actions against independent journalists.
+> - **(15)** After the December 19, 2010, presidential election, Belarusian security services and police conducted raids targeting civil society groups, individual pro-democracy activists, and independent media.
+> - **(16)** After the December 19, 2010, presidential election, Belarusian officials refused to extend the mandate of the OSCE Office in Minsk.
+> - **(17)** The Department of State, the Department of the Treasury, and other executive branch agencies have heretofore made effective use of this Act to promote the purposes of this Act, as stated in section 3 of this Act.
+>
+> ## § 3. Statement of policy
+>
+> It is the policy of the United States to—
+>
+> - **(1)** condemn the conduct of the December 19, 2010, presidential election and crackdown on opposition candidates, political leaders, and activists, civil society representatives, and journalists;
+> - **(2)** continue to call for the immediate release without preconditions of all political prisoners in Belarus, including all those individuals detained in connection with the December 19, 2010, presidential election;
+> - **(3)** continue to support the aspirations of the people of Belarus for democracy, human rights, and the rule of law;
+> - **(4)** continue to support the aspirations of the people of Belarus to preserve the independence and sovereignty of their country;
+> - **(5)** continue to support the growth of democratic movements and institutions in Belarus, with the ultimate goal of ending tyranny in that country;
+> - **(6)** continue to refuse to accept the results of the fundamentally flawed December 19, 2010, presidential election held in Belarus, and to support calls for new presidential and parliamentary elections, conducted in a manner that is free and fair according to OSCE standards;
+> - **(7)** continue to call for the fulfillment by the Belarusian government of Belarus’s freely undertaken obligations as an OSCE participating state;
+> - **(8)** continue to call for a full accounting of the disappearances of opposition leaders and journalists in Belarus, including Victor Gonchar, Anatoly Krasovsky, Yuri Zakharenka, and Dmitry Zavadsky, and the prosecution of those individuals who are in any way responsible for the disappearance of those opposition leaders and journalists;
+> - **(9)** continue to work closely with the European Union and other countries and international organizations, to promote the conditions necessary for the integration of Belarus into the European family of democracies; and
+> - **(10)** remain open to reevaluating United States policy toward Belarus as warranted by demonstrable progress made by the Government of Belarus consistent with the aims of this Act as stated in this section. ridi
+
+## § 3. Assistance to promote democracy and civil society in Belarus
+
+Section 4 of the Belarus Democracy Act of 2004 (Public Law 109–480; 22 U.S.C. 5811 note) is amended—
+
+- **(1)** in subsection (a)—
+  - **(A)** in paragraph (1), by striking “community” and inserting “family”; and
+  - **(B)** in paragraph (2), by striking “internationally accepted standards and under the supervision of internationally recognized observers” and inserting “OSCE standards and monitored by OSCE observers”;
+- **(2)** in subsection (b), by striking “primarily for indigenous” and inserting “for independent, indigenous”;
+- **(3)** in subsection (c)—
+  - **(A)** by amending paragraph (1) to read as follows:
+    > - **(1)** facilitating the development of independent, indigenous print, radio, television, and Internet broadcasting, whether working within Belarus or from locations outside the country;
+
+  - **(B)** by redesignating paragraphs (3) through (8) as paragraphs (2) through (7), respectively; and
+- **(4)** in subsection (d)(1), by striking “such sums as may be necessary for each of the fiscal years 2007 and 2008” and inserting “an amount not to exceed the amount appropriated for fiscal year 2008 for each of fiscal years 2012 through 2014”.
+
+## § 4. Radio and television broadcasting to Belarus
+
+Section 5 of the Belarus Democracy Act of 2004 (Public Law 109–480; 22 U.S.C. 5811 note) is amended to read as follows:
+
+> ## § 5. Radio, television, and internet broadcasting to Belarus
+>
+> It is the sense of Congress that the President should continue to support radio, television, and Internet broadcasting to the people of Belarus in languages spoken in Belarus, by Radio Free Europe/Radio Liberty, the Voice of America, European Radio for Belarus, and Belsat.
+
+## § 5. Sanctions against the Government of Belarus
+
+Section 6 of the Belarus Democracy Act of 2004 (Public Law 109–480; 22 U.S.C. 5811 note) is amended—
+
+- **(1)** in subsection (b)—
+  - **(A)** in paragraph (1), by inserting “or expression, including those individuals jailed based on political beliefs or expression in connection with repression that attended the presidential election of December 19, 2010” before the period at the end;
+  - **(B)** in paragraph (2), by inserting “, including politically motivated legal charges made in connection with repression that attended the presidential election of December 19, 2010” before the period at the end;
+  - **(C)** in paragraph (5), by inserting “and violations of human rights, including violations of human rights committed in connection with the presidential election of December 19, 2010” before the period at the end; and
+  - **(D)** in paragraph (7), by striking “internationally recognized observers” and inserting “OSCE observers”;
+- **(2)** in subsection (c)—
+  - **(A)** in paragraph (2)—
+    - **(i)** by striking “subparagraph (A)” and inserting “paragraph (1)”; and
+    - **(ii)** by striking “or” at the end;
+  - **(B)** in paragraph (3), by striking the period at the end and inserting a semicolon; and
+  - **(C)** by adding at the end the following new paragraphs:
+    > - **(4)** is a member of any branch of the security or law enforcement services of Belarus and has participated in the violent crackdown on opposition leaders, journalists, and peaceful protestors that occurred in connection with the presidential election of December 19, 2010; or
+    > - **(5)** is a member of any branch of the security or law enforcement services of Belarus and has participated in the persecution or harassment of religious groups, human rights defenders, democratic opposition groups, or independent media or journalists.
+
+- **(3)** in subsection (e), by striking “of each international financial institution to which” and inserting “at each international financial institution of which”; and
+- **(4)** in subsection (f)(2)(B)(ii), by striking “(as defined in section 40102 of title 49, United States Code)”.
+
+## § 6. Report
+
+Section 8(a) of the Belarus Democracy Act of 2004 (Public Law 109–480; 22 U.S.C. 5811 note) is amended—
+
+- **(1)** in the matter preceding paragraph (1)—
+  - **(A)** by striking “this Act” and inserting “the Belarus Democracy Reauthorization Act of 2011”; and
+  - **(B)** by inserting “and the Commission on Security and Cooperation in Europe” after “appropriate congressional committees”;
+- **(2)** in paragraph (1), by striking “sale or delivery of weapons or weapons-related technologies” and inserting “sale or delivery or provision of weapons or weapons-related technologies or weapons-related training”;
+- **(3)** in paragraph (2), by striking “involved in the sale” and inserting “or weapons-related training involved in the sale or delivery or provision”;
+- **(4)** in paragraph (3), by inserting “or weapons-related training described in paragraph (1)” before the period at the end; and
+- **(5)** by adding at the end the following new paragraph:
+  > - **(5)** The cooperation of the Government of Belarus with any foreign government or organization for purposes related to the censorship or surveillance of the Internet, or the purchase or receipt by the Government of Belarus of any technology or training from any foreign government or organization for purposes related to the censorship or surveillance of the Internet.
+
+## § 7. Definitions
+
+Section 9 of the Belarus Democracy Act of 2004 (Public Law 109–480; 22 U.S.C. 5811 note) is amended—
+
+- **(1)** in paragraph (1), by striking “Committee on International Relations” and inserting “Committee on Foreign Affairs”; and
+- **(2)** in paragraph (3)—
+  - **(A)** in subparagraph (B)(i), by striking “and prosecutors” and inserting “, prosecutors, and heads of professional associations and educational institutions”; and
+  - **(B)** in subparagraph (C), by striking “Lukashenka regime” and inserting “Government of Belarus”.
