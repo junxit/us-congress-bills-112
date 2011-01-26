@@ -1,0 +1,23 @@
+---
+legis-num: S. 202
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 202
+
+> To require a full audit of the Board of Governors of the Federal Reserve System and the Federal reserve banks by the Comptroller General of the United States before the end of 2012, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Federal Reserve Transparency Act of 2011”.
+
+## § 2. Audit reform and transparency for the Board of Governors of the Federal Reserve System
+
+- **(a)** *In general* Notwithstanding section 714 of title 31, United States Code, or any other provision of law, an audit of the Board of Governors of the Federal Reserve System and the Federal reserve banks under subsection (b) of such section 714 shall be completed before the end of 2012.
+- **(b)** *Report*
+  - **(1)** *In general* A report on the audit required under subsection (a) shall be submitted by the Comptroller General to the Congress before the end of the 90-day period beginning on the date on which such audit is completed and made available to the Speaker of the House of Representatives, the majority and minority leaders of the House of Representatives, the majority and minority leaders of the Senate, the chairman and ranking member of the committee and each subcommittee of jurisdiction in the House of Representatives and the Senate, and any other Member of Congress who requests it.
+  - **(2)** *Contents* The report under paragraph (1) shall include a detailed description of the findings and conclusion of the Comptroller General with respect to the audit that is the subject of the report, together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate.
+- **(c)** *Repeal of certain limitations* Subsection (b) of section 714 of title 31, United States Code, is amended by striking all after “in writing.”.
+- **(d)** *Technical and conforming amendment* Section 714 of title 31, United States Code, is amended by striking subsection (f).
