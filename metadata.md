@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 10
 congress: 112
-version: Introduced in Senate
+version: Laid on Table in Senate
 ---
 
 # S.Res. 10
@@ -16,7 +16,7 @@ A resolution to improve the debate and consideration of legislative matters and 
 
 - Sen. Udall, Tom [D-NM] (U000039)
 
-## Cosponsors (24)
+## Cosponsors (25)
 
 - Sen. Harkin, Tom [D-IA] (H000206)
 - Sen. Merkley, Jeff [D-OR] (M001176)
@@ -42,8 +42,22 @@ A resolution to improve the debate and consideration of legislative matters and 
 - Sen. Lautenberg, Frank R. [D-NJ] (L000123)
 - Sen. Franken, Al [D-MN] (F000457)
 - Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+
+## Recorded votes (1)
+
+- 2011-01-27 — [Senate 112-1-5](votes/senate-112-1-0005.md) — On the Resolution — **Resolution Rejected** (44–51)
 
 ## Actions
 
 - 2011-01-05 — Introduced in Senate
 - 2011-01-05 — Submitted in the Senate. Placed on Senate Legislative Calendar under Over, Under the Rule. (text of measure as introduced: CR S66)
+- 2011-01-27 — Amendment SA 1 agreed to in Senate by Unanimous Consent.
+- 2011-01-27 — Amendment SA 1 proposed by Senator Udall NM. (consideration: CR S296-297; text: CR S296-297) In the nature of a substitute.
+- 2011-01-27 — Disagreed to in Senate by Yea-Nay. 44 - 51. Record Vote Number: 5.
+- 2011-01-27 — Failed of passage/not agreed to in Senate: Disagreed to in Senate by Yea-Nay. 44 - 51. Record Vote Number: 5.
+- 2011-01-27 — Measure laid before Senate by unanimous consent. (consideration: CR S296-304, S304-329)
+- 2011-01-27 — Returned to the Calendar. Under Over, Under the Rule.
+- 2011-01-27 — Senate amendment agreed to: Amendment SA 1 agreed to in Senate by Unanimous Consent.
+- 2011-01-27 — Senate amendment proposed (on the floor): Amendment SA 1 proposed by Senator Udall NM.(consideration: CR S296-297; text: CR S296-297)
+- 2011-01-27 — Senate amendment submitted

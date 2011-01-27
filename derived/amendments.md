@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 10
 congress: 112
-version: Introduced in Senate
+version: Laid on Table in Senate
 derived: true
 ---
 
@@ -34,6 +34,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | Rule VIII of the Standing Rules of the Senate is amended by striking paragraph 2 and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | Rule VIII of the Standing Rules of the Senate is amended by inserting at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Paragraph 2 of rule XXII of the Standing Rules of the Senate is amended by inserting at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the second undesignated paragraph and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | in the last undesignated paragraph by inserting “or during a period of continuous debate” after “is invoked”. | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (d), as designated by paragraph (1), by striking “Thereafter” and inserting “If the Senate agrees to bring debate to a close under subparagraphs (b) or (c), thereafter”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (b), as designated by paragraph (1), the following: | the bill names no machine-readable US Code section |
 | — | insert | The second undesignated paragraph of paragraph 2 of rule XXII of the Standing Rules of the Senate is amended by inserting at the end the following: “If the matter on which cloture is invoked is a nomination, the period of time for debate… | the bill names no machine-readable US Code section |
