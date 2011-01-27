@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 21
 congress: 112
-version: Introduced in Senate
+version: Laid on Table in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subparagraph (d), as designated by paragraph (1), by striking “Thereafter” and inserting “If the Senate agrees to bring debate to a close under paragraphs 2 or 3, thereafter”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (d), as designated by paragraph (1), by striking “Thereafter” and inserting “If the Senate agrees to bring debate to a close under subparagraphs (b) or (c), thereafter”; and | the bill names no machine-readable US Code section |
