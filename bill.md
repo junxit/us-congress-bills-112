@@ -1,0 +1,33 @@
+---
+legis-num: S. 238
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 238
+
+> To amend the Magnuson-Stevens Fishery Conservation and Management Act to require that fishery impact statements be updated each year and for other purposes.
+
+## § 1. Short titles
+
+This Act may be cited as the “Fishing Impact Statement Honesty Act of 2011” or as the “FISH Act of 2011”.
+
+## § 2. Fishery impact statements
+
+Section 303 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1853) is amended by adding at the end the following:
+
+> - **(d)** *Fishery impact statement*
+>   - **(1)** *Annual updates* Each fishery impact statement prepared pursuant to subsection (a)(9) shall be updated and republished—
+>     - **(A)** in the case of a fishery management plan or amendment submitted to the Secretary under section 304(a) after the date of the enactment of the Fishing Impact Statement Honesty Act of 2011—
+>       - **(i)** 6 months after the date the plan or amendment takes effect;
+>       - **(ii)** 1 year after such date; and
+>       - **(iii)** once each year thereafter; and
+>     - **(B)** in the case of a fishery management plan or plan amendment submitted to the Secretary under section 304(a) prior to such date, once each year.
+>   - **(2)** *Preparation of statement* Each fishery impact statement prepared pursuant to paragraph (1) shall be prepared by an objective person who is—
+>     - **(A)** not an officer, employee, or entity of the United States Government; and
+>     - **(B)** selected by the Comptroller General of the United States.
+>   - **(3)** *Determinations* Each fishery impact statement prepared pursuant to paragraph (1) or subsection (a)(9) shall determine if the fishery management plan or amendment is consistent with section 301(a)(8), including if the conservation and management measures in the plan or amendment provide for the sustained participation of fishing communities and, to the extent practicable, minimize adverse economic impacts on such communities.
+>   - **(4)** *Mitigation Plan* Not later than 60 days after the date on which a statement is published pursuant to paragraph 1, the Secretary shall prepare, publish, and begin implementation of a comprehensive mitigation plan to—
+>     - **(A)** address any negative economic or social impacts identified in a fishery impact statement prepared pursuant to paragraph (1); and
+>     - **(B)** correct any inconsistencies determined pursuant to paragraph (3).
