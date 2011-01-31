@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 22
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 22
@@ -38,3 +38,7 @@ A resolution condemning the New Year's Day attack on the Coptic Christian commun
 
 - 2011-01-25 — Introduced in Senate
 - 2011-01-25 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S245)
+- 2011-01-31 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S368)
+- 2011-01-31 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S368)
+- 2011-01-31 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S368)
+- 2011-01-31 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S368)
