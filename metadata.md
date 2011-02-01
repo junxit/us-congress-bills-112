@@ -1,7 +1,7 @@
 ---
 measure: S. 188
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 188
@@ -29,3 +29,7 @@ A bill to designate the United States courthouse under construction at 98 West F
 - 2011-01-26 — Introduced in Senate
 - 2011-01-26 — Read twice and referred to the Committee on Environment and Public Works.
 - 2011-01-26 — Sponsor introductory remarks on measure. (CR S273-274)
+- 2011-02-01 — Passed Senate without amendment by Unanimous Consent. (text: CR S429)
+- 2011-02-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S429)
+- 2011-02-01 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S429)
+- 2011-02-01 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S429)
