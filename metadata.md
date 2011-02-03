@@ -1,7 +1,7 @@
 ---
 measure: S. 109
 congress: 112
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 109
@@ -24,3 +24,6 @@ A bill to amend the Atomic Energy Act of 1954 to require congressional approval 
 
 - 2011-01-25 — Introduced in Senate
 - 2011-01-25 — Read twice and referred to the Committee on Finance.
+- 2011-02-03 — Referred to the Committee on Foreign Relations.
+- 2011-02-03 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2011-02-03 — Senate Committee on Finance discharged by Unanimous Consent.
