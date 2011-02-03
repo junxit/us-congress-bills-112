@@ -1,7 +1,7 @@
 ---
 measure: S. 126
 congress: 112
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 126
@@ -24,3 +24,6 @@ A bill to reduce the amount of financial assistance provided to the Government o
 
 - 2011-01-25 — Introduced in Senate
 - 2011-01-25 — Read twice and referred to the Committee on Rules and Administration.
+- 2011-02-03 — Referred to the Committee on Foreign Relations.
+- 2011-02-03 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2011-02-03 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
