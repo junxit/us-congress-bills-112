@@ -1,0 +1,40 @@
+---
+legis-num: S. 270
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 270
+
+> To direct the Secretary of the Interior to convey certain Federal land to Deschutes County, Oregon.
+
+## § 1. Short title
+
+This Act may be cited as the “La Pine Land Conveyance Act”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *City* The term “City” means the City of La Pine, Oregon.
+- **(2)** *County* The term “County” means the County of Deschutes, Oregon.
+- **(3)** *Map* The term “map” means the map entitled “La Pine, Oregon Land Transfer” and dated December 11, 2009.
+- **(4)** *Secretary* The term “Secretary” means the Secretary of the Interior, acting through the Director of the Bureau of Land Management.
+
+## § 3. Conveyances of land
+
+- **(a)** *In general* As soon as practicable after the date of enactment of this Act, subject to valid existing rights and the provisions of this Act, and notwithstanding the land use planning requirements of sections 202 and 203 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712, 1713), the Secretary shall convey to the City or County, without consideration, all right, title, and interest of the United States in and to each parcel of land described in subsection (b).
+- **(b)** *Description of land* The parcels of land referred to in subsection (a) consist of—
+  - **(1)** the approximately 150 acres of land managed by the Bureau of Land Management, Prineville District, Oregon, depicted on the map as “parcel A”, to be conveyed to the County, which is subject to a right-of-way retained by the Bureau of Land Management for a power substation and transmission line;
+  - **(2)** the approximately 750 acres of land managed by the Bureau of Land Management, Prineville District, Oregon, depicted on the map as “parcel B”, to be conveyed to the County; and
+  - **(3)** the approximately 10 acres of land managed by the Bureau of Land Management, Prineville District, Oregon, depicted on the map as “parcel C”, to be conveyed to the City.
+- **(c)** *Availability of map* The map shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+- **(d)** *Use of conveyed land*
+  - **(1)** *In general* Consistent with the Act of June 14, 1926 (commonly known as the “Recreation and Public Purposes Act”) (43 U.S.C. 869 et seq.), the land conveyed under subsection (a) shall be used for the following public purposes and associated uses:
+    - **(A)** The parcel described in subsection (b)(1) shall be used for outdoor recreation, open space, or public parks, including a rodeo ground.
+    - **(B)** The parcel described in subsection (b)(2) shall be used for a public sewer system.
+    - **(C)** The parcel described in subsection (b)(3) shall be used for a public library, public park, or open space.
+  - **(2)** *Additional terms and conditions* The Secretary may require such additional terms and conditions for the conveyances under subsection (a) as the Secretary determines to be appropriate to protect the interests of the United States.
+- **(e)** *Administrative costs* The Secretary shall require the County to pay all survey costs and other administrative costs associated with the conveyances to the County under this Act.
+- **(f)** *Reversion* If the land conveyed under subsection (a) ceases to be used for the public purpose for which the land was conveyed, the land shall, at the discretion of the Secretary, revert to the United States.
