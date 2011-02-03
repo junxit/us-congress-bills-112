@@ -50,7 +50,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
     >   - **(1)** if paragraph (2) does not apply, as of the actual filing date of the patent or the application for patent; or
     >   - **(2)** if the patent or application for patent is entitled to claim a right of priority under section 119, 365(a), or 365(b), or to claim the benefit of an earlier filing date under section 120, 121, or 365(c), based upon 1 or more prior filed applications for patent, as of the filing date of the earliest such application that describes the subject matter.
 
-  - **(2)** *Conforming amendment* The item relating to section 102 in the table of sections for chapter 10 of title 35, United States Code, is amended to read as follows:
+  - **(2)** *Continuity of intent under the CREATE Act* The enactment of section 102(c) of title 35, United States Code, under the preceding paragraph is done with the same intent to promote joint research activities that was expressed, including in the legislative history, through the enactment of the Cooperative Research and Technology Enhancement Act of 2004 (Public Law 108–453; the “CREATE Act”), the amendments of which are stricken by subsection (c). The United States Patent and Trademark Office shall administer section 102(c) of title 35, United States Code, in a manner consistent with the legislative history of the CREATE Act that was relevant to its administration by the United States Patent and Trademark Office.
+  - **(2)(3)** *Conforming amendment* The item relating to section 102 in the table of sections for chapter 10 of title 35, United States Code, is amended to read as follows:
 - **(c)** *Conditions for patentability; nonobvious subject matter* Section 103 of title 35, United States Code, is amended to read as follows:
   > ## § 103. Conditions for patentability; nonobvious subject matter
   >
@@ -223,7 +224,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(a)** *Damages* Section 284 of title 35, United States Code, is amended—
   - **(1)** by striking “Upon finding” and inserting the following: “(a) In general.—Upon finding”;
   - **(2)** by striking “fixed by the court” and all that follows through “When the damages” and inserting the following: “fixed by the court. When the damages”;
-  - **(3)** by striking “shall assess them.” and all that follows through “The court may receive” and inserting the following: “shall assess them. The court may receive”; and
+  - **(3)** by striking “shall assess them.” and all that follows through “The court may receive” and inserting the following: “shall assess them. In either event the court may increase the damages up to 3 times the amount found or assessed. Increased damages under this subsection shall not apply to provisional rights under section 154(d) of this title. The court may receive”; and
   - **(4)** by adding at the end the following:
     > - **(b)** *Procedure for determining damages*
     >   - **(1)** *In general* The court shall identify the methodologies and factors that are relevant to the determination of damages, and the court or jury shall consider only those methodologies and factors relevant to making such determination.
@@ -271,8 +272,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(d)** *Post-Grant review* Part III of title 35, United States Code, is amended by adding at the end the following:
 - **(e)** *Technical and conforming amendment* The table of chapters for part III of title 35, United States Code, is amended by adding at the end the following:
 - **(f)** *Regulations and effective date*
-  - **(1)** *Regulations* The Director shall, not later than the date that is 1 year after the date of the enactment of this Act, issue regulations to carry out chapter 32 of title 35, United States Code, as added by subsection (d) of this section.
-  - **(2)** *Applicability* The amendments made by subsection (d) shall take effect on the date that is 1 year after the date of the enactment of this Act and shall apply only to patents issued on or after that date. The Director may impose a limit on the number of post-grant reviews that may be instituted during each of the 4 years following the effective date of subsection (d).
+  - **(1)** *Regulations* The Director shall, not later than the date that is 1 year18 months after the date of the enactment of this Act, issue regulations to carry out chapter 32 of title 35, United States Code, as added by subsection (d) of this section.
+  - **(2)** *Applicability* The amendments made by subsection (d) shall take effect on the date that is 1 year18 months after the date of the enactment of this Act and shall apply only to patents issued on or after that date. The Director may impose a limit on the number of post-grant reviews that may be instituted during each of the 4 years following the effective date of subsection (d).
   - **(3)** *Pending interferences* The Director shall determine the procedures under which interferences commenced before the effective date of subsection (d) are to proceed, including whether any such interference is to be dismissed without prejudice to the filing of a petition for a post-grant review under chapter 32 of title 35, United States Code, or is to proceed as if this Act had not been enacted. The Director shall include such procedures in regulations issued under paragraph (1). For purposes of an interference that is commenced before the effective date of subsection (d), the Director may deem the Patent Trial and Appeal Board to be the Board of Patent Appeals and Interferences, and may allow the Patent Trial and Appeal Board to conduct any further proceedings in that interference. The authorization to appeal or have remedy from derivation proceedings in sections 141(d) and 146 of title 35, United States Code, and the jurisdiction to entertain appeals from derivation proceedings in section 1295(a)(4)(A) of title 28, United States Code, shall be deemed to extend to final decisions in interferences that are commenced before the effective date of subsection (d) and that are not dismissed pursuant to this paragraph.
 - **(g)** *Citation of prior art and written statements*
   - **(1)** *In general* Section 301 of title 35, United States Code, is amended to read as follows:
@@ -286,11 +287,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
     > - **(d)** *Limitations* A written statement submitted pursuant to subsection (a)(2), and additional information submitted pursuant to subsection (c), shall not be considered by the Office for any purpose other than to determine the proper meaning of a patent claim in a proceeding that is ordered or instituted pursuant to section 304, 314, or 324. If any such written statement or additional information is subject to an applicable protective order, it shall be redacted to exclude information that is subject to that order.
     > - **(e)** *Confidentiality* Upon the written request of the person citing prior art or written statements pursuant to subsection (a), that person’s identity shall be excluded from the patent file and kept confidential.
 
-  - **(2)** *Effective date* The amendment made by this subsection shall take effect 1 year after the date of the enactment of this Act and shall apply to patents issued before, on, or after that effective date.
+  - **(2)** *Effective date* The amendment made by this subsection shall take effect 1 year18 months after the date of the enactment of this Act and shall apply to patents issued before, on, or after that effective date.
 - **(h)** *Reexamination*
   - **(1)** *Determination by Director*
     - **(A)** *In general* Section 303(a) of title 35, United States Code, is amended by striking “section 301 of this title” and inserting “section 301 or 302”.
-    - **(B)** *Effective date* The amendment made by this paragraph shall take effect 1 year after the date of the enactment of this Act and shall apply to patents issued before, on, or after that effective date.
+    - **(B)** *Effective date* The amendment made by this paragraph shall take effect 1 year18 months after the date of the enactment of this Act and shall apply to patents issued before, on, or after that effective date.
   - **(2)** *Appeal*
     - **(A)** *In general* Section 306 of title 35, United States Code, is amended by striking “145” and inserting “144”.
     - **(B)** *Effective date* The amendment made by this paragraph shall take effect on the date of enactment of this Act and shall apply to appeals of reexaminations that are pending before the Board of Patent Appeals and Interferences or the Patent Trial and Appeal Board on or after the date of the enactment of this Act.
@@ -327,11 +328,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(3)** *Proceedings on appeal* Section 143 of title 35, United States Code, is amended—
     - **(A)** by striking the third sentence and inserting the following: “In an ex parte case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all of the issues raised in the appeal. The Director shall have the right to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board in a derivation proceeding under section 135 or in an inter partes or post-grant review under chapter 31 or 32.”; and
     - **(B)** by repealing the second of the two identical fourth sentences.
-- **(d)** *Effective date* The amendments made by this section shall take effect 1 year after the date of the enactment of this Act and shall apply to proceedings commenced on or after that effective date, except that—
+- **(d)** *Effective date* The amendments made by this section shall take effect 1 year18 months after the date of the enactment of this Act and shall apply to proceedings commenced on or after that effective date, except that—
   - **(1)** the extension of jurisdiction to the United States Court of Appeals for the Federal Circuit to entertain appeals of decisions of the Patent Trial and Appeal Board in reexaminations under the amendment made by subsection (c)(2) shall be deemed to take effect on the date of enactment of this Act and shall extend to any decision of the Board of Patent Appeals and Interferences with respect to a reexamination that is entered before, on, or after the date of the enactment of this Act;
-  - **(2)** the provisions of sections 6, 134, and 141 of title 35, United States Code, in effect on the day prior to the date of the enactment of this Act shall continue to apply to inter partes reexaminations that are requested under section 311 prior to the date that is 1 year after the date of the enactment of this Act;
-  - **(3)** the Patent Trial and Appeal Board may be deemed to be the Board of Patent Appeals and Interferences for purposes of appeals of inter partes reexaminations that are requested under section 311 prior to the date that is 1 year after the date of the enactment of this Act; and
-  - **(4)** the Director’s right under the last sentence of section 143 of title 35, United States Code, as amended by subsection (c)(3), to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board shall be deemed to extend to inter partes reexaminations that are requested under section 311 prior to the date that is 1 year after the date of the enactment of this Act.
+  - **(2)** the provisions of sections 6, 134, and 141 of title 35, United States Code, in effect on the day prior to the date of the enactment of this Act shall continue to apply to inter partes reexaminations that are requested under section 311 prior to the date that is 1 year18 months after the date of the enactment of this Act;
+  - **(3)** the Patent Trial and Appeal Board may be deemed to be the Board of Patent Appeals and Interferences for purposes of appeals of inter partes reexaminations that are requested under section 311 prior to the date that is 1 year18 months after the date of the enactment of this Act; and
+  - **(4)** the Director’s right under the last sentence of section 143 of title 35, United States Code, as amended by subsection (c)(3), to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board shall be deemed to extend to inter partes reexaminations that are requested under section 311 prior to the date that is 1 year18 months after the date of the enactment of this Act.
 
 ## § 7. Preissuance submissions by third parties
 
@@ -436,6 +437,13 @@ chamber: IN THE SENATE OF THE UNITED STATES
   >       - **(ii)** if appropriate facilities are not available in the district and division in which that judge resides, in the district and division closest to the residence of that judge in which such facilities are available, as determined by the Director.
   >   - **(2)** Nothing in this subsection may be construed to authorize or require the construction of new facilities.
 
+## § 11. Residency of Federal Circuit judges
+
+- **(a)** *In general* Section 44(c) of title 28, United States Code, is amended—
+  - **(1)** by repealing the second sentence; and
+  - **(2)** in the third sentence, by striking “state” and inserting “State”.
+- **(b)** *Effective Date* This section shall take effect on the date of enactment of this Act.
+
 ## § 12. Micro entity defined
 
 Chapter 11 of title 35, United States Code, is amended by adding at the end the following new section:
@@ -517,6 +525,11 @@ Chapter 11 of title 35, United States Code, is amended by adding at the end the 
 - **(i)** *Reviser's notes*
   - **(1)** Section 3(e)(2) of title 35, United States Code, is amended by striking “this Act,” and inserting “that Act,”.
   - **(2)** Section 202(b)(3) of title 35, United States Code, is amended by striking “the section 203(b)” and inserting “section 203(b)”.
+  - **(2)** Section 202 of title 35, United States Code, is amended—
+    - **(A)** in subsection (b)(3), by striking “the section 203(b)” and inserting “section 203(b)”; and
+    - **(B)** in subsection (c)(7)—
+      - **(i)** in subparagraph (D), by striking “except where it proves” and all that follows through “; and” and inserting: “except where it is determined to be infeasible following a reasonable inquiry, a preference in the licensing of subject inventions shall be given to small business firms; and”; and
+      - **(ii)** in subparagraph (E)(i), by striking “as described above in this clause (D);” and inserting “described above in this clause;”.
   - **(3)** Section 209(d)(1) of title 35, United States Code, is amended by striking “nontransferrable” and inserting “nontransferable”.
   - **(4)** Section 287(c)(2)(G) of title 35, United States Code, is amended by striking “any state” and inserting “any State”.
   - **(5)** Section 371(b) of title 35, United States Code, is amended by striking “of the treaty” and inserting “of the treaty.”.
@@ -539,7 +552,36 @@ Chapter 11 of title 35, United States Code, is amended by adding at the end the 
     - **(N)** The first instance of the use of such term in section 375(a).
 - **(k)** *Effective date* The amendments made by this section shall take effect 1 year after the date of the enactment of this Act and shall apply to proceedings commenced on or after that effective date.
 
-## § 17. Effective date; rule of construction
+## § 17. Clarification of jurisdiction
+
+- **(a)** *Short title* This section may be cited as the “Intellectual Property Jurisdiction Clarification Act of 2011”.
+- **(b)** *State court jurisdiction* Section 1338(a) of title 28, United States Code, is amended by striking the second sentence and inserting the following: “No State court shall have jurisdiction over any claim for relief arising under any Act of Congress relating to patents, plant variety protection, or copyrights.”.
+- **(c)** *Court of appeals for the Federal Circuit* Section 1295(a)(1) of title 28, United States Code, is amended to read as follows:
+  > - **(1)** of an appeal from a final decision of a district court of the United States, the District Court of Guam, the District Court of the Virgin Islands, or the District Court of the Northern Mariana Islands, in any civil action arising under, or in any civil action in which a party has asserted a compulsory counterclaim arising under, any Act of Congress relating to patents or plant variety protection;
+
+- **(d)** *Removal*
+  - **(1)** *In general* Chapter 89 of title 28, United States Code, is amended by adding at the end the following new section:
+    > ## § 1454. Patent, plant variety protection, and copyright cases
+    >
+    > - **(a)** *In general* A civil action in which any party asserts a claim for relief arising under any Act of Congress relating to patents, plant variety protection, or copyrights may be removed to the district court of the United States for the district and division embracing the place where such action is pending.
+    > - **(b)** *Special rules* The removal of an action under this section shall be made in accordance with section 1446 of this chapter, except that if the removal is based solely on this section—
+    >   - **(1)** the action may be removed by any party; and
+    >   - **(2)** the time limitations contained in section 1446(b) may be extended at any time for cause shown.
+    > - **(c)** *Remand* If a civil action is removed solely under this section, the district court—
+    >   - **(1)** shall remand all claims that are neither a basis for removal under subsection (a) nor within the original or supplemental jurisdiction of the district court under any Act of Congress; and
+    >   - **(2)** may, under the circumstances specified in section 1367(c), remand any claims within the supplemental jurisdiction of the district court under section 1367.
+
+  - **(2)** *Conforming amendment* The table of sections for chapter 89 of title 28, United States Code, is amended by adding at the end the following new item:
+- **(e)** *Transfer by Court of Appeals for the Federal Circuit*
+  - **(1)** *In general* Chapter 99 of title 28, United States Code, is amended by adding at the end the following new section:
+    > ## § 1632. Transfer by the Court of Appeals for the Federal Circuit
+    >
+    > When a case is appealed to the Court of Appeals for the Federal Circuit under section 1295(a)(1), and no claim for relief arising under any Act of Congress relating to patents or plant variety protection is the subject of the appeal by any party, the Court of Appeals for the Federal Circuit shall transfer the appeal to the court of appeals for the regional circuit embracing the district from which the appeal has been taken.
+
+  - **(2)** *Conforming amendment* The table of sections for chapter 99 of title 28, United States Code, is amended by adding at the end the following new item:
+- **(f)** *Effective date* The amendments made by this section shall apply to any civil action commenced on or after the date of the enactment of this Act.
+
+## § 17.18. Effective date; rule of construction
 
 - **(a)** *Effective date* Except as otherwise provided in this Act, the provisions of this Act shall take effect 1 year after the date of the enactment of this Act and shall apply to any patent issued on or after that effective date.
 - **(b)** *Continuity of intent under the Create Act* The enactment of section 102(c) of title 35, United States Code, under section (2)(b) of this Act is done with the same intent to promote joint research activities that was expressed, including in the legislative history, through the enactment of the Cooperative Research and Technology Enhancement Act of 2004 (Public Law 108–453; the “CREATE Act”), the amendments of which are stricken by section 2(c) of this Act. The United States Patent and Trademark Office shall administer section 102(c) of title 35, United States Code, in a manner consistent with the legislative history of the CREATE Act that was relevant to its administration by the United States Patent and Trademark Office.

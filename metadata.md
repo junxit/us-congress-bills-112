@@ -1,7 +1,7 @@
 ---
 measure: S. 23
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 23
@@ -16,7 +16,7 @@ America Invents Act
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (7)
+## Cosponsors (8)
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -25,6 +25,7 @@ America Invents Act
 - Sen. Kyl, Jon [R-AZ] (K000352)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Franken, Al [D-MN] (F000457)
 
 ## Committees (1)
 
@@ -35,3 +36,7 @@ America Invents Act
 - 2011-01-25 — Introduced in Senate
 - 2011-01-25 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S131-142)
 - 2011-01-25 — Sponsor introductory remarks on measure. (CR S130-131)
+- 2011-02-03 — Committee on the Judiciary. Ordered to be reported with amendments favorably.
+- 2011-02-03 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2011-02-03 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2011-02-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 6.

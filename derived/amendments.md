@@ -1,7 +1,7 @@
 ---
 measure: S. 23
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-120 amendatory instructions. 2 executed, 118 stated and not applied.
+131 amendatory instructions. 2 executed, 129 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -102,7 +102,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 111(b)(2) is amended by striking “the second through fifth paragraphs of section 112,” and inserting “subsections (b) through (e) of section 112,”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “Upon finding” and inserting the following: “(a) In general.—Upon finding”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “fixed by the court” and all that follows through “When the damages” and inserting the following: “fixed by the court. When the damages”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “shall assess them.” and all that follows through “The court may receive” and inserting the following: “shall assess them. The court may receive”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “shall assess them.” and all that follows through “The court may receive” and inserting the following: “shall assess them. In either event the court may increase the damages up to 3 times the amount found or assessed. Increas… | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 273(b)(6) of title 35, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | Section 287(a) of title 35, United States Code, is amended by inserting “, or by fixing thereon the word patent or the abbreviation pat. together with an address of a posting on the Internet, accessible to the public without charge for a… | the bill names no machine-readable US Code section |
@@ -136,6 +136,8 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Chapter 25 of title 35, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | repeal | The second sentence of section 44(c) of title 28, United States Code, is repealed. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 44 of title 28, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | repeal | by repealing the second sentence; and | the bill names no machine-readable US Code section |
+| — | replace | in the third sentence, by striking “state” and inserting “State”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 11 of title 35, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | replace | Section 282 of title 35, United State Code, is amended in its second undesignated paragraph by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Sections 119(e)(1) and 120 of title 35, United States Code, are each amended by striking “the first paragraph of section 112 of this title” and inserting “section 112(a) (other than the requirement to disclose the best mode)”. | the bill names no machine-readable US Code section |
@@ -165,7 +167,16 @@ complete account of the bill's effect, which it is not.
 | — | strike | Section 288 of title 35, United States Code, is amended by striking “, without deceptive intention,”. | the bill names no machine-readable US Code section |
 | — | replace | Section 3(e)(2) of title 35, United States Code, is amended by striking “this Act,” and inserting “that Act,”. | the bill names no machine-readable US Code section |
 | — | replace | Section 202(b)(3) of title 35, United States Code, is amended by striking “the section 203(b)” and inserting “section 203(b)”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(3), by striking “the section 203(b)” and inserting “section 203(b)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (D), by striking “except where it proves” and all that follows through “; and” and inserting: “except where it is determined to be infeasible following a reasonable inquiry, a preference in the licensing of subject invent… | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (E)(i), by striking “as described above in this clause (D);” and inserting “described above in this clause;”. | the bill names no machine-readable US Code section |
 | — | replace | Section 209(d)(1) of title 35, United States Code, is amended by striking “nontransferrable” and inserting “nontransferable”. | the bill names no machine-readable US Code section |
 | — | replace | Section 287(c)(2)(G) of title 35, United States Code, is amended by striking “any state” and inserting “any State”. | the bill names no machine-readable US Code section |
 | — | replace | Section 371(b) of title 35, United States Code, is amended by striking “of the treaty” and inserting “of the treaty.”. | the bill names no machine-readable US Code section |
 | — | strike | Title 35, United States Code, is amended by striking “of this title” each place that term appears. | the bill names no machine-readable US Code section |
+| — | replace | Section 1338(a) of title 28, United States Code, is amended by striking the second sentence and inserting the following: “No State court shall have jurisdiction over any claim for relief arising under any Act of Congress relating to pate… | the bill names no machine-readable US Code section |
+| — | amend | Section 1295(a)(1) of title 28, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 89 of title 28, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 89 of title 28, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 99 of title 28, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 99 of title 28, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
