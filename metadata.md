@@ -1,7 +1,7 @@
 ---
 measure: S. 248
 congress: 112
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 248
@@ -30,3 +30,6 @@ Empowering States to Innovate Act
 - 2011-02-01 — Introduced in Senate
 - 2011-02-01 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S417)
 - 2011-02-01 — Sponsor introductory remarks on measure. (CR S417)
+- 2011-02-07 — Referred to the Committee on Finance.
+- 2011-02-07 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2011-02-07 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
