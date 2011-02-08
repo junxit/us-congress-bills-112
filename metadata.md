@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 72
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 72

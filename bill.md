@@ -25,8 +25,9 @@ In completing the review and inventory described in the first section of this re
 - **(8)** are promulgated in such a way as to limit transparency and the opportunity for public comment, particularly by affected parties;
 - **(9)** lack specific statutory authorization;
 - **(10)** undermine labor-management relations;
-- **(11)** result in large-scale unfunded mandates on employers without due cause; or
-- **(12)** impose undue paperwork and cost burdens on small businesses.
+- **(11)** result in large-scale unfunded mandates on employers without due cause;
+- **(12)** impose undue paperwork and cost burdens on small businesses; or
+- **(13)** prevent the United States from becoming less dependent on foreign energy sources.
 
 ## § 3. Committees
 
