@@ -1,0 +1,143 @@
+---
+measure: H.R. 642
+congress: 112
+version: Introduced in House
+---
+
+# H.R. 642
+
+Broadcaster Freedom Act of 2011
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Pence, Mike [R-IN-6] (P000587)
+
+## Cosponsors (113)
+
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Akin, W. Todd [R-MO-2] (A000358)
+- Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
+- Rep. Bilbray, Brian P. [R-CA-50] (B000461)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Broun, Paul C. [R-GA-10] (B001262)
+- Rep. Canseco, Francisco "Quico" [R-TX-23] (C001082)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Fleming, John [R-LA-4] (F000456)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Gardner, Cory [R-CO-4] (G000562)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. King, Steve [R-IA-5] (K000362)
+- Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
+- Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Hunter, Duncan D. [R-CA-52] (H001048)
+- Rep. Mack, Connie [R-FL-14] (M001155)
+- Rep. Turner, Michael R. [R-OH-3] (T000463)
+- Rep. Southerland, Steve II [R-FL-2] (S001186)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Walsh, Joe [R-IL-8] (W000811)
+- Rep. Nugent, Richard B. [R-FL-5] (N000185)
+- Rep. Posey, Bill [R-FL-15] (P000599)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Amash, Justin [R-MI-3] (A000367)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Campbell, John [R-CA-48] (C001064)
+- Rep. Flake, Jeff [R-AZ-6] (F000444)
+- Rep. Dreier, David [R-CA-26] (D000492)
+- Rep. Garrett, Scott [R-NJ-5] (G000548)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Royce, Edward R. [R-CA-40] (R000487)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Hastings, Doc [R-WA-4] (H000329)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Rohrabacher, Dana [R-CA-46] (R000409)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Emerson, Jo Ann [R-MO-8] (E000172)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Manzullo, Donald A. [R-IL-16] (M001138)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Whitfield, Ed [R-KY-1] (W000413)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. LaTourette, Steven C. [R-OH-14] (L000553)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Pitts, Joseph R. [R-PA-16] (P000373)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. West, Allen B. [R-FL-22] (W000807)
+- Rep. Lankford, James [R-OK-5] (L000575)
+- Rep. Ellmers, Renee L. [R-NC-2] (E000291)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
+- Rep. Buchanan, Vern [R-FL-13] (B001260)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Heller, Dean [R-NV-2] (H001041)
+- Rep. Crenshaw, Ander [R-FL-4] (C001045)
+- Rep. Ross, Dennis A. [R-FL-12] (R000593)
+- Rep. Griffin, Tim [R-AR-2] (G000567)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Bonner, Jo [R-AL-1] (B001244)
+- Rep. Cravaack, Chip [R-MN-8] (C001086)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Stearns, Cliff [R-FL-6] (S000822)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Landry, Jeffrey M. [R-LA-3] (L000574)
+- Rep. Bono Mack, Mary [R-CA-45] (B001228)
+- Rep. Quayle, Benjamin [R-AZ-3] (Q000024)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Pompeo, Mike [R-KS-4] (P000602)
+- Rep. Kinzinger, Adam [R-IL-11] (K000378)
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+
+## Committees (1)
+
+- House — Energy and Commerce Committee
+
+## Actions
+
+- 2011-02-10 — Introduced in House
+- 2011-02-10 — Introduced in House
+- 2011-02-10 — Referred to the House Committee on Energy and Commerce.
