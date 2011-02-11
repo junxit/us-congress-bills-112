@@ -2,7 +2,7 @@
 legis-num: H. RES. 72
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 72
@@ -31,15 +31,15 @@ In completing the review and inventory described in the first section of this re
 
 ## § 3. Committees
 
-The committees referred to in the first section of this resolution are as follows—
+The committees referred to in the first section of this resolution are as follows:
 
-- **(1)** The Committee on Agriculture;
-- **(2)** The Committee on Education and the Workforce;
-- **(3)** The Committee on Energy and Commerce;
-- **(4)** The Committee on Financial Services;
-- **(5)** The Committee on the Judiciary;
-- **(6)** The Committee on Natural Resources;
-- **(7)** The Committee on Oversight and Government Reform;
-- **(8)** The Committee on Small Business;
-- **(9)** The Committee on Transportation and Infrastructure; and
+- **(1)** The Committee on Agriculture.
+- **(2)** The Committee on Education and the Workforce.
+- **(3)** The Committee on Energy and Commerce.
+- **(4)** The Committee on Financial Services.
+- **(5)** The Committee on the Judiciary.
+- **(6)** The Committee on Natural Resources.
+- **(7)** The Committee on Oversight and Government Reform.
+- **(8)** The Committee on Small Business.
+- **(9)** The Committee on Transportation and Infrastructure.
 - **(10)** The Committee on Ways and Means.
