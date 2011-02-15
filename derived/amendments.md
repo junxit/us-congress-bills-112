@@ -1,7 +1,7 @@
 ---
 measure: H.R. 514
 congress: 112
-version: Engrossed in House
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 102(b)(1) of the USA PATRIOT Improvement and Reauthorization Act of 2005 (Public Law 109–177; 50 U.S.C. 1805 note, 50 U.S.C. 1861 note, and 50 U.S.C. 1862 note) is amended by striking “February 28, 2011” and inserting “December 8… | the bill names no machine-readable US Code section |
-| — | replace | Section 6001(b)(1) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 118 Stat. 3742; 50 U.S.C. 1801 note) is amended by striking “February 28, 2011” and inserting “December 8, 2011”. | the bill names no machine-readable US Code section |
+| — | replace | Section 102(b)(1) of the USA PATRIOT Improvement and Reauthorization Act of 2005 (Public Law 109–177; 50 U.S.C. 1805 note, 50 U.S.C. 1861 note, and 50 U.S.C. 1862 note) is amended by striking “February 28, 2011” and inserting “May 27, 20… | the bill names no machine-readable US Code section |
+| — | replace | Section 6001(b)(1) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 118 Stat. 3742; 50 U.S.C. 1801 note) is amended by striking “February 28, 2011” and inserting “May 27, 2011”. | the bill names no machine-readable US Code section |

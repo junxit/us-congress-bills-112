@@ -1,7 +1,7 @@
 ---
 measure: H.R. 514
 congress: 112
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 514
@@ -16,21 +16,23 @@ FISA Sunsets Extension Act of 2011
 
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Sen. McConnell, Mitch [R-KY] (M000355)
 
 ## Committees (2)
 
 - House — Judiciary Committee
 - House — Intelligence (Permanent Select) Committee
 
-## Recorded votes (3)
+## Recorded votes (4)
 
 - 2011-02-08 — [House 112-1-26](votes/house-112-1-0026.md) — On Motion to Suspend the Rules and Pass — **Failed** (277–148)
 - 2011-02-14 — [House 112-1-35](votes/house-112-1-0035.md) — On Motion to Recommit with Instructions — **Failed** (186–234)
 - 2011-02-14 — [House 112-1-36](votes/house-112-1-0036.md) — On Passage — **Passed** (275–144)
+- 2011-02-15 — [Senate 112-1-19](votes/senate-112-1-0019.md) — On Passage of the Bill — **Bill Passed** (86–12)
 
 ## Actions
 
@@ -59,3 +61,13 @@ FISA Sunsets Extension Act of 2011
 - 2011-02-14 — Rule provides for consideration of H.R. 514 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against provisions in the bill are waived.
 - 2011-02-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H743)
 - 2011-02-14 — The previous question was ordered pursuant to the rule. (consideration: CR H742)
+- 2011-02-15 — Amendment SA 90 agreed to in Senate by Unanimous Consent.
+- 2011-02-15 — Amendment SA 90 proposed by Senator Reid. (consideration: CR S727; text: CR S727) In the nature of a substitute.
+- 2011-02-15 — Measure laid before Senate by unanimous consent. (consideration: CR S727-731)
+- 2011-02-15 — Message on Senate action sent to the House.
+- 2011-02-15 — Passed Senate with an amendment by Yea-Nay Vote. 86 - 12. Record Vote Number: 19.
+- 2011-02-15 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 86 - 12. Record Vote Number: 19.
+- 2011-02-15 — Received in the Senate.
+- 2011-02-15 — Senate amendment agreed to: Amendment SA 90 agreed to in Senate by Unanimous Consent.
+- 2011-02-15 — Senate amendment proposed (on the floor): Amendment SA 90 proposed by Senator Reid.(consideration: CR S727; text: CR S727)
+- 2011-02-15 — Senate amendment submitted
