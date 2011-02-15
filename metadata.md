@@ -1,7 +1,7 @@
 ---
 measure: H.R. 359
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 359
@@ -105,3 +105,6 @@ To reduce Federal spending and the deficit by terminating taxpayer financing of 
 - 2011-01-26 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H498-499)
 - 2011-01-26 — The previous question was ordered pursuant to the rule. (consideration: CR H496)
 - 2011-01-26 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of the Peters amendment which was debated earlier and on which further proceedings had been postponed.
+- 2011-01-27 — Received in the Senate.
+- 2011-02-14 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-02-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 11.
