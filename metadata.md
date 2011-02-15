@@ -1,7 +1,7 @@
 ---
 measure: H.R. 514
 congress: 112
-version: Engrossed Amendment Senate
+version: Received in Senate
 ---
 
 # H.R. 514
