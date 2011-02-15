@@ -1,7 +1,7 @@
 ---
 measure: H.R. 514
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 514
@@ -27,12 +27,13 @@ FISA Sunsets Extension Act of 2011
 - House — Judiciary Committee
 - House — Intelligence (Permanent Select) Committee
 
-## Recorded votes (4)
+## Recorded votes (5)
 
 - 2011-02-08 — [House 112-1-26](votes/house-112-1-0026.md) — On Motion to Suspend the Rules and Pass — **Failed** (277–148)
 - 2011-02-14 — [House 112-1-35](votes/house-112-1-0035.md) — On Motion to Recommit with Instructions — **Failed** (186–234)
 - 2011-02-14 — [House 112-1-36](votes/house-112-1-0036.md) — On Passage — **Passed** (275–144)
 - 2011-02-15 — [Senate 112-1-19](votes/senate-112-1-0019.md) — On Passage of the Bill — **Bill Passed** (86–12)
+- 2011-02-17 — [House 112-1-66](votes/house-112-1-0066.md) — On Motion to Concur in the Senate Amendment — **Passed** (279–143)
 
 ## Actions
 
@@ -71,3 +72,15 @@ FISA Sunsets Extension Act of 2011
 - 2011-02-15 — Senate amendment agreed to: Amendment SA 90 agreed to in Senate by Unanimous Consent.
 - 2011-02-15 — Senate amendment proposed (on the floor): Amendment SA 90 proposed by Senator Reid.(consideration: CR S727; text: CR S727)
 - 2011-02-15 — Senate amendment submitted
+- 2011-02-17 — DEBATE - The House proceeded with one hour of debate on the motion to concur in the Senate amendment to H.R. 514.
+- 2011-02-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-02-17 — Mr. Smith (TX) moved that the House agree to the Senate amendment. (consideration: CR H1075-1080)
+- 2011-02-17 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 279 - 143 (Roll no. 66). (text as House agreed to Senate amendment: CR H1075)
+- 2011-02-17 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 279 - 143 (Roll no. 66).(text as House agreed to Senate amendment: CR H1075)
+- 2011-02-17 — The previous question was ordered without objection. (consideration: CR H1079)
+- 2011-02-23 — Presented to President.
+- 2011-02-23 — Presented to President.
+- 2011-02-25 — Became Public Law No: 112-3.
+- 2011-02-25 — Became Public Law No: 112-3.
+- 2011-02-25 — Signed by President.
+- 2011-02-25 — Signed by President.
