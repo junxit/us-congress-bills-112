@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 17
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 17
@@ -31,3 +31,6 @@ Providing for an adjournment or recess of the two Houses.
 - 2011-02-15 — POSTPONED PROCEEDINGS - The Chair put the question on the adoption of the concurrent resolution, and by voice vote, the Chair announced the noes had prevailed. Mr. Woodall objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
 - 2011-02-15 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 243 - 176 (Roll no. 40).(text: CR H815)
 - 2011-02-16 — Received in the Senate.
+- 2011-02-17 — Message on Senate action sent to the House.
+- 2011-02-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S926; text as passed Senate: CR S926)
+- 2011-02-17 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S926; text as passed Senate: CR S926)
