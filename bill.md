@@ -1,0 +1,35 @@
+---
+legis-num: S. 363
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 363
+
+> To authorize the Secretary of Commerce to convey property of the National Oceanic and Atmospheric Administration to the City of Pascagoula, Mississippi, and for other purposes.
+
+## § 1. Exchange of National Oceanic and Atmospheric Administration property in Pascagoula, Mississippi
+
+- **(a)** *In general* Notwithstanding any other provision of law, if the Secretary of Commerce determines that it is in the best interest of the National Oceanic and Atmospheric Administration and the Federal Government to do so, the Secretary may convey to the City of Pascagoula, Mississippi, by standard quitclaim deed, real property consisting of parcels, or portions of parcels, under the administrative jurisdiction of the Under Secretary for Oceans and Atmosphere, including land and improvements thereon, within a tract roughly bounded by—
+  - **(1)** Delmas Avenue to the south;
+  - **(2)** Pascagoula River to the west;
+  - **(3)** Pol Street to the north; and
+  - **(4)** real property owned by the City of Pascagoula to the east.
+- **(b)** *Consideration*
+  - **(1)** *In general* For a conveyance under subsection (a), the Secretary shall require that the United States receive consideration of not less than the fair market value of the property or rights conveyed.
+  - **(2)** *Form* Consideration under this subsection may include any combination of—
+    - **(A)** property (either real or personal), including tracts of real property and buildings, owned by the City of Pascagoula, that are located in such city south of Delmas Avenue, as well as a contiguous portion of the street known as Delmas Avenue adjacent to real property under the administrative jurisdiction of the Under Secretary for Oceans and Atmosphere;
+    - **(B)** cash or cash equivalents; and
+    - **(C)** consideration in-kind, including—
+      - **(i)** provision of space, goods, or services of benefit, including construction, repair, remodeling, or other physical improvements;
+      - **(ii)** maintenance of property;
+      - **(iii)** provision of office, storage, or other useable space; or
+      - **(iv)** relocation services associated with conveyance of property under this section.
+  - **(3)** *Determination of fair market value* The Secretary shall determine fair market value for purposes of paragraph (1) based on a highest- and best-use appraisal of the properties conveyed under subsection (a) conducted in conformance with the Uniform Appraisal Standards for Professional Appraisal Practice.
+- **(c)** *Use of proceeds* Any amounts received under subsection (b)(2)(A) by the United States as proceeds of any conveyance under this section shall be available to the Secretary, subject to appropriation, for—
+  - **(1)** activities related to the operations of, or capital improvements, to property of the Administration; or
+  - **(2)** relocation and other costs associated with the sale or exchange.
+- **(d)** *Additional terms and conditions*
+  - **(1)** *In general* The Secretary may require such additional terms and conditions with the exchange of property by the United States under subsection (a) as the Secretary considers appropriate to protect the interest of the United States.
+  - **(2)** *Easements or rights of way* The Secretary may grant or convey to the City of Pascagoula a right of way or easement if the Secretary determines such grant or conveyance is in the best interest of the Administration and the Federal Government.
