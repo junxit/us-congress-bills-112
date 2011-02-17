@@ -1,7 +1,7 @@
 ---
 measure: S. 307
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 307
@@ -25,3 +25,7 @@ A bill to designate the Federal building and United States courthouse located at
 - 2011-02-08 — Introduced in Senate
 - 2011-02-08 — Read twice and referred to the Committee on Environment and Public Works.
 - 2011-02-08 — Sponsor introductory remarks on measure. (CR S632-633)
+- 2011-02-17 — Passed Senate without amendment by Unanimous Consent. (text: CR S924)
+- 2011-02-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S924)
+- 2011-02-17 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S924)
+- 2011-02-17 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S924)
