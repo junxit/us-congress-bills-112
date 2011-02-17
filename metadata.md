@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 6
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 6
@@ -39,8 +39,15 @@ A concurrent resolution commending the National Association for the Advancement 
 - Sen. Rockefeller, John D., IV [D-WV] (R000361)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 
+## Committees (1)
+
+- House — Judiciary Committee
+
 ## Actions
 
 - 2011-02-16 — Introduced in Senate
 - 2011-02-16 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S803-804; text as passed Senate: CR S804; text of measure as introduced: CR S799-800)
 - 2011-02-16 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S803-804; text as passed Senate: CR S804; text of measure as introduced: CR S799-800)
+- 2011-02-17 — Message on Senate action sent to the House.
+- 2011-02-17 — Received in the House.
+- 2011-02-17 — Referred to the House Committee on the Judiciary.
