@@ -1,7 +1,7 @@
 ---
 measure: S. 365
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 

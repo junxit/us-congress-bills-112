@@ -1,7 +1,7 @@
 ---
 measure: S. 365
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 365
@@ -26,3 +26,5 @@ Budget Control Act of 2011
 - 2011-02-16 — Committee on Health, Education, Labor, and Pensions. Original measure reported to Senate by Senator Harkin. Without written report.
 - 2011-02-16 — Introduced in Senate
 - 2011-02-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 12.
+- 2011-02-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S924; text as passed Senate: CR S924)
+- 2011-02-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S924; text as passed Senate: CR S924)
