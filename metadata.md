@@ -1,7 +1,7 @@
 ---
 measure: S. 365
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 365
@@ -28,3 +28,6 @@ Budget Control Act of 2011
 - 2011-02-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 12.
 - 2011-02-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S924; text as passed Senate: CR S924)
 - 2011-02-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S924; text as passed Senate: CR S924)
+- 2011-02-18 — Message on Senate action sent to the House.
+- 2011-02-18 — Received in the House.
+- 2011-02-18 — Referred to the House Committee on Education and the Workforce.
