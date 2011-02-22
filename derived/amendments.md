@@ -1,7 +1,7 @@
 ---
 measure: H.R. 705
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | strike | Section 6041 of the Internal Revenue Code of 1986 is amended by striking subsections (i) and (j). | the bill names no machine-readable US Code section |
+| — | strike | by striking “amounts in consideration for property,”, and | the bill names no machine-readable US Code section |
+| — | strike | by striking “gross proceeds,” both places it appears. | the bill names no machine-readable US Code section |
+| — | strike | Section 6041 of the Internal Revenue Code of 1986 is amended by striking subsection (h). | the bill names no machine-readable US Code section |
+| — | amend | Clause (i) of section 36B(f)(2)(B) of the Internal Revenue Code of 1986 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | Section 6041 of the Internal Revenue Code of 1986 is amended by striking subsections (i) and (j). | the bill names no machine-readable US Code section |
 | — | strike | by striking “amounts in consideration for property,”, and | the bill names no machine-readable US Code section |
 | — | strike | by striking “gross proceeds,” both places it appears. | the bill names no machine-readable US Code section |
