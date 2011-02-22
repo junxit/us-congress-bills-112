@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4
@@ -16,7 +16,7 @@ Comprehensive 1099 Taxpayer Protection and Repayment of Exchange Subsidy Overpay
 
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
 
-## Cosponsors (245)
+## Cosponsors (273)
 
 - Rep. Adams, Sandy [R-FL-24] (A000366)
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
@@ -263,6 +263,34 @@ Comprehensive 1099 Taxpayer Protection and Repayment of Exchange Subsidy Overpay
 - Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Shuler, Heath [D-NC-11] (S001171)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Owens, William L. [D-NY-23] (O000169)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. Keating, William R. [D-MA-10] (K000375)
 
 ## Committees (1)
 
@@ -273,3 +301,8 @@ Comprehensive 1099 Taxpayer Protection and Repayment of Exchange Subsidy Overpay
 - 2011-01-12 — Introduced in House
 - 2011-01-12 — Introduced in House
 - 2011-01-12 — Referred to the House Committee on Ways and Means.
+- 2011-02-17 — Committee Consideration and Mark-up Session Held.
+- 2011-02-17 — Ordered to be Reported by Voice Vote.
+- 2011-02-22 — Placed on the Union Calendar, Calendar No. 6.
+- 2011-02-22 — Reported by the Committee on Ways and Means. H. Rept. 112-15.
+- 2011-02-22 — Reported by the Committee on Ways and Means. H. Rept. 112-15.
