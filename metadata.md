@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1
@@ -21,9 +21,1462 @@ Disaster Relief Appropriations Act, 2013
 - House — Budget Committee
 - House — Appropriations Committee
 
+## Recorded votes (105)
+
+- 2011-02-15 — [House 112-1-41](votes/house-112-1-0041.md) — On Agreeing to the Amendment — **Failed** (207–223)
+- 2011-02-15 — [House 112-1-42](votes/house-112-1-0042.md) — On Agreeing to the Amendment — **Failed** (72–358)
+- 2011-02-15 — [House 112-1-43](votes/house-112-1-0043.md) — On Agreeing to the Amendment — **Failed** (105–326)
+- 2011-02-15 — [House 112-1-44](votes/house-112-1-0044.md) — On Agreeing to the Amendment — **Failed** (109–320)
+- 2011-02-16 — [House 112-1-46](votes/house-112-1-0046.md) — On Agreeing to the Amendment — **Agreed to** (233–198)
+- 2011-02-16 — [House 112-1-47](votes/house-112-1-0047.md) — On Agreeing to the Amendment — **Failed** (135–294)
+- 2011-02-16 — [House 112-1-48](votes/house-112-1-0048.md) — On Agreeing to the Amendment — **Failed** (133–299)
+- 2011-02-16 — [House 112-1-49](votes/house-112-1-0049.md) — On Agreeing to the Amendment — **Failed** (136–296)
+- 2011-02-16 — [House 112-1-50](votes/house-112-1-0050.md) — On Agreeing to the Amendment — **Agreed to** (305–127)
+- 2011-02-16 — [House 112-1-51](votes/house-112-1-0051.md) — On Agreeing to the Amendment — **Agreed to** (262–169)
+- 2011-02-16 — [House 112-1-52](votes/house-112-1-0052.md) — On Agreeing to the Amendment — **Failed** (184–247)
+- 2011-02-16 — [House 112-1-53](votes/house-112-1-0053.md) — On Agreeing to the Amendment — **Agreed to** (228–203)
+- 2011-02-16 — [House 112-1-54](votes/house-112-1-0054.md) — On Agreeing to the Amendment — **Failed** (171–259)
+- 2011-02-16 — [House 112-1-55](votes/house-112-1-0055.md) — On Agreeing to the Amendment — **Failed** (170–262)
+- 2011-02-16 — [House 112-1-56](votes/house-112-1-0056.md) — On Agreeing to the Amendment — **Failed** (159–273)
+- 2011-02-16 — [House 112-1-57](votes/house-112-1-0057.md) — On Agreeing to the Amendment — **Failed** (208–223)
+- 2011-02-16 — [House 112-1-58](votes/house-112-1-0058.md) — On Agreeing to the Amendment — **Failed** (137–293)
+- 2011-02-16 — [House 112-1-59](votes/house-112-1-0059.md) — On Agreeing to the Amendment — **Failed** (130–301)
+- 2011-02-16 — [House 112-1-60](votes/house-112-1-0060.md) — On Agreeing to the Amendment — **Agreed to** (318–113)
+- 2011-02-16 — [House 112-1-61](votes/house-112-1-0061.md) — On Agreeing to the Amendment — **Failed** (213–216)
+- 2011-02-16 — [House 112-1-62](votes/house-112-1-0062.md) — On Agreeing to the Amendment — **Failed** (73–352)
+- 2011-02-16 — [House 112-1-63](votes/house-112-1-0063.md) — On Agreeing to the Amendment — **Failed** (199–230)
+- 2011-02-16 — [House 112-1-64](votes/house-112-1-0064.md) — On Agreeing to the Amendment — **Agreed to** (239–185)
+- 2011-02-16 — [House 112-1-65](votes/house-112-1-0065.md) — On Agreeing to the Amendment — **Agreed to** (228–203)
+- 2011-02-17 — [House 112-1-67](votes/house-112-1-0067.md) — On Agreeing to the Amendment — **Failed** (171–256)
+- 2011-02-17 — [House 112-1-68](votes/house-112-1-0068.md) — On Agreeing to the Amendment — **Agreed to** (217–209)
+- 2011-02-17 — [House 112-1-69](votes/house-112-1-0069.md) — On Agreeing to the Amendment — **Agreed to** (248–177)
+- 2011-02-17 — [House 112-1-70](votes/house-112-1-0070.md) — On Agreeing to the Amendment — **Agreed to** (239–186)
+- 2011-02-17 — [House 112-1-71](votes/house-112-1-0071.md) — On Agreeing to the Amendment — **Failed** (104–322)
+- 2011-02-17 — [House 112-1-72](votes/house-112-1-0072.md) — On Agreeing to the Amendment — **Failed** (115–316)
+- 2011-02-17 — [House 112-1-73](votes/house-112-1-0073.md) — On Agreeing to the Amendment — **Agreed to** (249–179)
+- 2011-02-17 — [House 112-1-74](votes/house-112-1-0074.md) — On Agreeing to the Amendment — **Agreed to** (313–117)
+- 2011-02-17 — [House 112-1-75](votes/house-112-1-0075.md) — On Agreeing to the Amendment — **Failed** (176–250)
+- 2011-02-17 — [House 112-1-76](votes/house-112-1-0076.md) — On Agreeing to the Amendment — **Agreed to** (268–163)
+- 2011-02-17 — [House 112-1-77](votes/house-112-1-0077.md) — On Agreeing to the Amendment — **Agreed to** (274–155)
+- 2011-02-17 — [House 112-1-78](votes/house-112-1-0078.md) — On Agreeing to the Amendment — **Failed** (190–241)
+- 2011-02-17 — [House 112-1-79](votes/house-112-1-0079.md) — On Agreeing to the Amendment — **Failed** (176–250)
+- 2011-02-17 — [House 112-1-80](votes/house-112-1-0080.md) — On Agreeing to the Amendment — **Failed** (91–339)
+- 2011-02-17 — [House 112-1-81](votes/house-112-1-0081.md) — On Agreeing to the Amendment — **Agreed to** (247–175)
+- 2011-02-17 — [House 112-1-82](votes/house-112-1-0082.md) — On Agreeing to the Amendment — **Agreed to** (267–159)
+- 2011-02-17 — [House 112-1-83](votes/house-112-1-0083.md) — On Agreeing to the Amendment — **Agreed to** (244–181)
+- 2011-02-17 — [House 112-1-84](votes/house-112-1-0084.md) — On Agreeing to the Amendment — **Failed** (137–292)
+- 2011-02-17 — [House 112-1-85](votes/house-112-1-0085.md) — On Agreeing to the Amendment — **Agreed to** (232–197)
+- 2011-02-17 — [House 112-1-86](votes/house-112-1-0086.md) — On Agreeing to the Amendment — **Agreed to** (250–177)
+- 2011-02-17 — [House 112-1-87](votes/house-112-1-0087.md) — On Agreeing to the Amendment — **Agreed to** (249–179)
+- 2011-02-17 — [House 112-1-88](votes/house-112-1-0088.md) — On Agreeing to the Amendment — **Failed** (160–270)
+- 2011-02-17 — [House 112-1-89](votes/house-112-1-0089.md) — On Agreeing to the Amendment — **Failed** (163–265)
+- 2011-02-18 — [House 112-1-90](votes/house-112-1-0090.md) — On Agreeing to the Amendment — **Failed** (148–281)
+- 2011-02-18 — [House 112-1-91](votes/house-112-1-0091.md) — On Agreeing to the Amendment — **Failed** (98–331)
+- 2011-02-18 — [House 112-1-92](votes/house-112-1-0092.md) — On Agreeing to the Amendment — **Agreed to** (289–136)
+- 2011-02-18 — [House 112-1-93](votes/house-112-1-0093.md) — On Agreeing to the Amendment — **Agreed to** (240–185)
+- 2011-02-18 — [House 112-1-94](votes/house-112-1-0094.md) — On Agreeing to the Amendment — **Agreed to** (243–185)
+- 2011-02-18 — [House 112-1-95](votes/house-112-1-0095.md) — On Agreeing to the Amendment — **Failed** (196–231)
+- 2011-02-18 — [House 112-1-96](votes/house-112-1-0096.md) — On Agreeing to the Amendment — **Agreed to** (249–177)
+- 2011-02-18 — [House 112-1-97](votes/house-112-1-0097.md) — On Agreeing to the Amendment — **Agreed to** (239–187)
+- 2011-02-18 — [House 112-1-98](votes/house-112-1-0098.md) — On Agreeing to the Amendment — **Agreed to** (241–187)
+- 2011-02-18 — [House 112-1-99](votes/house-112-1-0099.md) — On Agreeing to the Amendment — **Agreed to** (237–191)
+- 2011-02-18 — [House 112-1-100](votes/house-112-1-0100.md) — On Agreeing to the Amendment — **Agreed to** (246–182)
+- 2011-02-18 — [House 112-1-101](votes/house-112-1-0101.md) — On Agreeing to the Amendment — **Failed** (183–246)
+- 2011-02-18 — [House 112-1-102](votes/house-112-1-0102.md) — On Agreeing to the Amendment — **Failed** (123–306)
+- 2011-02-18 — [House 112-1-103](votes/house-112-1-0103.md) — On Agreeing to the Amendment — **Failed** (147–281)
+- 2011-02-18 — [House 112-1-104](votes/house-112-1-0104.md) — On Agreeing to the Amendment — **Failed** (156–269)
+- 2011-02-18 — [House 112-1-105](votes/house-112-1-0105.md) — On Agreeing to the Amendment — **Failed** (68–357)
+- 2011-02-18 — [House 112-1-106](votes/house-112-1-0106.md) — On Agreeing to the Amendment — **Failed** (74–348)
+- 2011-02-18 — [House 112-1-107](votes/house-112-1-0107.md) — On Agreeing to the Amendment — **Failed** (177–243)
+- 2011-02-18 — [House 112-1-108](votes/house-112-1-0108.md) — On Agreeing to the Amendment — **Failed** (87–338)
+- 2011-02-18 — [House 112-1-109](votes/house-112-1-0109.md) — On Agreeing to the Amendment — **Failed** (174–251)
+- 2011-02-18 — [House 112-1-110](votes/house-112-1-0110.md) — On Agreeing to the Amendment — **Agreed to** (241–185)
+- 2011-02-18 — [House 112-1-111](votes/house-112-1-0111.md) — On Agreeing to the Amendment — **Agreed to** (215–210)
+- 2011-02-18 — [House 112-1-112](votes/house-112-1-0112.md) — On Agreeing to the Amendment — **Failed** (91–333)
+- 2011-02-18 — [House 112-1-113](votes/house-112-1-0113.md) — On Agreeing to the Amendment — **Agreed to** (227–197)
+- 2011-02-18 — [House 112-1-114](votes/house-112-1-0114.md) — On Agreeing to the Amendment — **Failed** (185–241)
+- 2011-02-18 — [House 112-1-115](votes/house-112-1-0115.md) — On Agreeing to the Amendment — **Agreed to** (277–149)
+- 2011-02-18 — [House 112-1-116](votes/house-112-1-0116.md) — On Agreeing to the Amendment — **Agreed to** (241–184)
+- 2011-02-18 — [House 112-1-117](votes/house-112-1-0117.md) — On Agreeing to the Amendment — **Failed** (32–394)
+- 2011-02-18 — [House 112-1-118](votes/house-112-1-0118.md) — On Agreeing to the Amendment — **Failed** (74–351)
+- 2011-02-18 — [House 112-1-119](votes/house-112-1-0119.md) — On Agreeing to the Amendment — **Agreed to** (239–186)
+- 2011-02-18 — [House 112-1-120](votes/house-112-1-0120.md) — On Agreeing to the Amendment — **Agreed to** (230–195)
+- 2011-02-18 — [House 112-1-121](votes/house-112-1-0121.md) — On Agreeing to the Amendment — **Agreed to** (241–184)
+- 2011-02-18 — [House 112-1-122](votes/house-112-1-0122.md) — On Agreeing to the Amendment — **Failed** (63–362)
+- 2011-02-18 — [House 112-1-123](votes/house-112-1-0123.md) — On Agreeing to the Amendment — **Agreed to** (237–189)
+- 2011-02-18 — [House 112-1-124](votes/house-112-1-0124.md) — On Agreeing to the Amendment — **Agreed to** (231–191)
+- 2011-02-19 — [House 112-1-125](votes/house-112-1-0125.md) — On Agreeing to the Amendment — **Agreed to** (261–158)
+- 2011-02-19 — [House 112-1-126](votes/house-112-1-0126.md) — On Agreeing to the Amendment — **Failed** (210–210)
+- 2011-02-19 — [House 112-1-127](votes/house-112-1-0127.md) — On Agreeing to the Amendment — **Agreed to** (233–187)
+- 2011-02-19 — [House 112-1-128](votes/house-112-1-0128.md) — On Agreeing to the Amendment — **Failed** (76–344)
+- 2011-02-19 — [House 112-1-129](votes/house-112-1-0129.md) — On Agreeing to the Amendment — **Agreed to** (235–185)
+- 2011-02-19 — [House 112-1-130](votes/house-112-1-0130.md) — On Agreeing to the Amendment — **Agreed to** (259–159)
+- 2011-02-19 — [House 112-1-131](votes/house-112-1-0131.md) — On Agreeing to the Amendment — **Agreed to** (245–176)
+- 2011-02-19 — [House 112-1-132](votes/house-112-1-0132.md) — On Agreeing to the Amendment — **Agreed to** (244–179)
+- 2011-02-19 — [House 112-1-133](votes/house-112-1-0133.md) — On Agreeing to the Amendment — **Failed** (191–230)
+- 2011-02-19 — [House 112-1-134](votes/house-112-1-0134.md) — On Agreeing to the Amendment — **Agreed to** (285–136)
+- 2011-02-19 — [House 112-1-135](votes/house-112-1-0135.md) — On Agreeing to the Amendment — **Agreed to** (240–182)
+- 2011-02-19 — [House 112-1-136](votes/house-112-1-0136.md) — On Agreeing to the Amendment — **Agreed to** (239–183)
+- 2011-02-19 — [House 112-1-137](votes/house-112-1-0137.md) — On Agreeing to the Amendment — **Agreed to** (234–187)
+- 2011-02-19 — [House 112-1-138](votes/house-112-1-0138.md) — On Agreeing to the Amendment — **Agreed to** (239–182)
+- 2011-02-19 — [House 112-1-139](votes/house-112-1-0139.md) — On Agreeing to the Amendment — **Failed** (209–213)
+- 2011-02-19 — [House 112-1-140](votes/house-112-1-0140.md) — On Agreeing to the Amendment — **Agreed to** (255–168)
+- 2011-02-19 — [House 112-1-141](votes/house-112-1-0141.md) — On Agreeing to the Amendment — **Agreed to** (239–183)
+- 2011-02-19 — [House 112-1-142](votes/house-112-1-0142.md) — On Agreeing to the Amendment — **Failed** (121–300)
+- 2011-02-19 — [House 112-1-143](votes/house-112-1-0143.md) — On Agreeing to the Amendment — **Failed** (93–328)
+- 2011-02-19 — [House 112-1-144](votes/house-112-1-0144.md) — On Agreeing to the Amendment — **Failed** (189–233)
+- 2011-02-19 — [House 112-1-145](votes/house-112-1-0145.md) — On Agreeing to the Amendment — **Agreed to** (235–187)
+- 2011-02-19 — [House 112-1-146](votes/house-112-1-0146.md) — On Motion to Recommit with Instructions — **Failed** (186–238)
+- 2011-02-19 — [House 112-1-147](votes/house-112-1-0147.md) — On Passage — **Passed** (235–189)
+
 ## Actions
 
 - 2011-02-11 — Introduced in House
 - 2011-02-11 — Introduced in House
 - 2011-02-11 — Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-02-11 — Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-02-14 — Rules Committee Resolution H. Res. 92 Reported to House. Rule provides for consideration of H.R. 1 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by paragraph. Specified amendments are in order. The resolution makes in order only those amendments received for printing in the Congressional Record dated at least one day before the day of consideration of the amendment (but no later that February 15, 2011). The resolution waives all points of order against consideration of the bill. The requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House is waived with respect to any resolution reported providing for consideration or disposition of H.R. 1.
+- 2011-02-15 — Amendment (A001) offered by Mr. Flake. (consideration: CR H830-844, H851; text: CR H830)
+- 2011-02-15 — Amendment (A002) offered by Mr. Pompeo. (consideration: CR H844-846, H851-852; text: CR H844)
+- 2011-02-15 — Amendment (A003) offered by Mr. Gutierrez. (consideration: CR H846-847, H852-853; text: CR H846)
+- 2011-02-15 — Amendment (A004) offered by Mr. Pompeo. (consideration: CR H849-851, H853; text: CR H849)
+- 2011-02-15 — Amendment (A005) offered by Mr. Quigley. (consideration: CR H854-855; text: CR H854)
+- 2011-02-15 — Amendment (A006) offered by Mr. Rooney. (consideration: CR H855-858; text: CR H855)
+- 2011-02-15 — Amendment (A007) offered by Mr. Jones. (consideration: CR H873-874; text: CR H873)
+- 2011-02-15 — Amendment (A008) offered by Mr. Holt. (consideration: CR H875; text: CR H875)
+- 2011-02-15 — Amendment (A009) offered by Ms. Baldwin. (consideration: CR H878-879; text: CR H878)
+- 2011-02-15 — Amendment (A010) offered by Mr. DeFazio. (consideration: CR H881-882; text: CR H881)
+- 2011-02-15 — Amendment (A011) offered by Mr. Connolly (VA). (consideration: CR H882-883; text: CR H882)
+- 2011-02-15 — Amendment (A012) offered by Mr. Michaud. (consideration: CR H886; text: CR H886)
+- 2011-02-15 — Amendment (A013) offered by Mr. Flake. (consideration: CR H886; text: CR H886)
+- 2011-02-15 — Amendment (A014) offered by Mr. Latta. (consideration: CR H888; text: CR H888)
+- 2011-02-15 — Amendment (A015) offered by Mr. Holt. (consideration: CR H888-889; text: CR H888)
+- 2011-02-15 — Amendment (A016) offered by Ms. Jackson Lee (TX). (consideration: CR H889-890; text: CR H889)
+- 2011-02-15 — Amendment (A017) offered by Mr. Weiner. (consideration: CR H890-893; text as modified: CR H890)
+- 2011-02-15 — Amendment (A018) offered by Mr. Olson. (consideration: CR H893-894; text: CR H893)
+- 2011-02-15 — Amendment (A019) offered by Mr. Cohen. (consideration: CR H895-897; text: CR H895)
+- 2011-02-15 — Amendment (A020) offered by Mr. Duncan (SC). (consideration: CR H897-899; text: CR H897)
+- 2011-02-15 — Amendment (A021) offered by Mrs. Biggert. (consideration: CR H900-901; text: CR H900)
+- 2011-02-15 — Amendment agreed to Committee of the Whole
+- 2011-02-15 — Amendment failed in Committee of the Whole
+- 2011-02-15 — Amendment failed in Committee of the Whole
+- 2011-02-15 — Amendment failed in Committee of the Whole
+- 2011-02-15 — Amendment failed in Committee of the Whole
+- 2011-02-15 — Amendment failed in Committee of the Whole
+- 2011-02-15 — By unanimous consent, the Olson amendment was withdrawn. (consideration: CR H894)
+- 2011-02-15 — Considered as unfinished business. (consideration: CR H858-913)
+- 2011-02-15 — Considered under the provisions of rule H. Res. 92. (consideration: CR H828-858; text of Division A as introduced in House: CR H828, H829, H829-830, H842-843, H843-844, H846, H848-849, H853, H855, H861, H861-862, H862, H862-871, H871-873, H874-875, H875-878, H878; text of Division B as introduced in House: CR H879-881, H881, H883-886, H887, H888, H889, H894, H895, H899-900, H902, H902-903, H904-905, H905-907, H908-909, H909-910, H912-913)
+- 2011-02-15 — DEBATE - Pursuant to the provisions of H.Res. 92, the Committee of the Whole proceeded debate on Defazio amendment number 97 under the five-minute rule.
+- 2011-02-15 — DEBATE - Pursuant to the provisions of H.Res. 92, the Committee of the Whole proceeded debate on Flake amendment number 368 under the five-minute rule.
+- 2011-02-15 — DEBATE - Pursuant to the provisions of H.Res. 92, the Committee of the Whole proceeded debate on Holt amendment number 237 under the five-minute rule.
+- 2011-02-15 — DEBATE - Pursuant to the provisions of H.Res. 92, the Committee of the Whole proceeded debate on Jones amendment number 95 under the five-minute rule.
+- 2011-02-15 — DEBATE - Pursuant to the provisions of H.Res. 92, the Committee of the Whole proceeded debate on Latta amendment number 260 under the five-minute rule.
+- 2011-02-15 — DEBATE - Pursuant to the provisions of H.Res. 92, the Committee of the Whole proceeded debate on Michaud amendment number 153 under the five-minute rule.
+- 2011-02-15 — DEBATE - Pursuant to the provisions of H.Res. 92, the Committee of the Whole proceeded with debate on the Flake amendment number 370 under the five-minute rule.
+- 2011-02-15 — DEBATE - Pursuant to the provisions of H.Res. 92, the Committee of the Whole proceeded with debate on the Gutierrez amendment number 63 under the five-minute rule.
+- 2011-02-15 — DEBATE - Pursuant to the provisions of H.Res. 92, the Committee of the Whole proceeded with debate on the Pompeo amendment number 86 under the five-minute rule.
+- 2011-02-15 — DEBATE - Pursuant to the provisions of H.Res. 92, the Committee of the Whole proceeded with debate on the Pompeo amendment number 87 under the five-minute rule.
+- 2011-02-15 — DEBATE - Pursuant to the provisions of H.Res. 92, the Committee of the Whole proceeded with debate on the Quigley amendment number 162 under the five-minute rule.
+- 2011-02-15 — DEBATE - Pursuant to the provisions of H.Res. 92, the Committee of the Whole proceeded with debate on the Rooney amendment number 2 under the five-minute rule.
+- 2011-02-15 — DEBATE - Pursuant to the provisions of H.Res. 92, the Committee of the Whole proceeded with debate on the Weiner amendment number 125, as modified under the five-minute rule.
+- 2011-02-15 — DEBATE - The Committee of the Whole proceeded with debate on the Biggert amendment No. 192 under the five-minute rule.
+- 2011-02-15 — DEBATE - The Committee of the Whole proceeded with debate on the Cohen amendment number 173 under the five-minute rule, pending reservation of a point of order.
+- 2011-02-15 — DEBATE - The Committee of the Whole proceeded with debate on the Duncan (SC) amendment No. 110 under the five-minute rule.
+- 2011-02-15 — DEBATE - The Committee of the Whole proceeded with debate on the Olson amendment number 78 under the five-minute rule.
+- 2011-02-15 — DEBATE - The Committee of the Whole resumed debate on the Rooney amendment No. 2.
+- 2011-02-15 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1.
+- 2011-02-15 — House amendment agreed to: On agreeing to the Holt amendment (A015) Agreed to by voice vote.
+- 2011-02-15 — House amendment not agreed to: On agreeing to the Flake amendment (A001) Failed by recorded vote: 207 - 223 (Roll no. 41).
+- 2011-02-15 — House amendment not agreed to: On agreeing to the Gutierrez amendment (A003) Failed by recorded vote: 105 - 326 (Roll no. 43).
+- 2011-02-15 — House amendment not agreed to: On agreeing to the Pompeo amendment (A002) Failed by recorded vote: 72 - 358 (Roll no. 42).
+- 2011-02-15 — House amendment not agreed to: On agreeing to the Pompeo amendment (A004) Failed by recorded vote: 109 - 320 (Roll no. 44).
+- 2011-02-15 — House amendment not agreed to: On agreeing to the Quigley amendment (A005) Failed by voice vote.
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered
+- 2011-02-15 — House amendment offered/reported by: Amendment (A001) offered by Mr. Flake.(consideration: CR H830-844, H851; text: CR H830)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A002) offered by Mr. Pompeo.(consideration: CR H844-846, H851-852; text: CR H844)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A003) offered by Mr. Gutierrez.(consideration: CR H846-847, H852-853; text: CR H846)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A004) offered by Mr. Pompeo.(consideration: CR H849-851, H853; text: CR H849)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A005) offered by Mr. Quigley.(consideration: CR H854-855; text: CR H854)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A006) offered by Mr. Rooney.(consideration: CR H855-858; text: CR H855)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A007) offered by Mr. Jones.(consideration: CR H873-874; text: CR H873)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A008) offered by Mr. Holt.(consideration: CR H875; text: CR H875)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A009) offered by Ms. Baldwin.(consideration: CR H878-879; text: CR H878)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A010) offered by Mr. DeFazio.(consideration: CR H881-882; text: CR H881)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A011) offered by Mr. Connolly (VA).(consideration: CR H882-883; text: CR H882)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A012) offered by Mr. Michaud.(consideration: CR H886; text: CR H886)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A013) offered by Mr. Flake.(consideration: CR H886; text: CR H886)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A014) offered by Mr. Latta.(consideration: CR H888; text: CR H888)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A015) offered by Mr. Holt.(consideration: CR H888-889; text: CR H888)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A016) offered by Ms. Jackson Lee (TX).(consideration: CR H889-890; text: CR H889)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A017) offered by Mr. Weiner.(consideration: CR H890-893; text as modified: CR H890)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A018) offered by Mr. Olson.(consideration: CR H893-894; text: CR H893)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A019) offered by Mr. Cohen.(consideration: CR H895-897; text: CR H895)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A020) offered by Mr. Duncan (SC).(consideration: CR H897-899; text: CR H897)
+- 2011-02-15 — House amendment offered/reported by: Amendment (A021) offered by Mrs. Biggert.(consideration: CR H900-901; text: CR H900)
+- 2011-02-15 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 92 and Rule XVIII.
+- 2011-02-15 — Mr. Frelinghuysen raised a point of order against the Baldwin amendment (A009). Mr. Frelinghuysen stated that the amendment seeks to amend portions of the bill not yet read for consideration. The Chair sustained the point of order.
+- 2011-02-15 — Mr. Kingston raised a point of order against the Connolly (VA) amendment (A011). Mr. Kingston stated that the amendment seeks to transfer funds between the subcommittees. The Chair sustained the point of order.
+- 2011-02-15 — Mr. Wolf raised a point of order against the Cohen amendment (A019). Mr. Wolf stated that the provisions of the amendment seek to propose a net increase in budget authority in the bill. The Chair sustained the point of order.
+- 2011-02-15 — Mr. Wolf raised a point of order against the Jackson Lee (TX) amendment (A016). Mr. Wolf stated that the amendment seeks to increase net Budget authority. The Chair sustained the point of order.
+- 2011-02-15 — Mr. Young (FL) moved that the committee rise.
+- 2011-02-15 — On agreeing to the Flake amendment (A001) Failed by recorded vote: 207 - 223 (Roll no. 41).
+- 2011-02-15 — On agreeing to the Gutierrez amendment (A003) Failed by recorded vote: 105 - 326 (Roll no. 43).
+- 2011-02-15 — On agreeing to the Holt amendment (A015) Agreed to by voice vote.
+- 2011-02-15 — On agreeing to the Pompeo amendment (A002) Failed by recorded vote: 72 - 358 (Roll no. 42).
+- 2011-02-15 — On agreeing to the Pompeo amendment (A004) Failed by recorded vote: 109 - 320 (Roll no. 44).
+- 2011-02-15 — On agreeing to the Quigley amendment (A005) Failed by voice vote.
+- 2011-02-15 — On motion that the committee rise Agreed to by voice vote.
+- 2011-02-15 — POINT OF ORDER - Mr. Frelinghuysen reserved a point of order againist the Baldwin amendment numbered 45 printed in the Congressional Record.
+- 2011-02-15 — POINT OF ORDER - Mr. Kingston reserved a point of order againist the Connolly (VA) amendment numbered 93 printed in the Congressional Record.
+- 2011-02-15 — POINT OF ORDER - Mr. Wolf reserved a point of order againist the Jackson Lee amendment numbered 240 printed in the Congressional Record.
+- 2011-02-15 — POSTPONED CONSIDERATION - At the conclusion of debate on the Weiner amendment, as modified, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Weiner demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Defazio amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Kingston demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Duncan (SC) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Duncan (SC) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Dicks demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Dicks demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2011-02-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gutierrez amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Gutierrez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2011-02-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Holt amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Holt demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jones amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Jones demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Latta amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Latta demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Michaud amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Michaud demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pompeo amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Dicks demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2011-02-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pompeo amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Pompeo demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2011-02-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rooney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Rooney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-15 — Roll call votes on amendments in House
+- 2011-02-15 — Roll call votes on amendments in House
+- 2011-02-15 — Roll call votes on amendments in House
+- 2011-02-15 — Roll call votes on amendments in House
+- 2011-02-15 — Rule H. Res. 92 passed House.
+- 2011-02-15 — Rule provides for consideration of H.R. 1 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by paragraph. Specified amendments are in order. The resolution makes in order only those amendments received for printing in the Congressional Record dated at least one day before the day of consideration of the amendment (but no later that February 15, 2011). The resolution waives all points of order against consideration of the bill. The requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House is waived with respect to any resolution reported providing for consideration or disposition of H.R. 1.
+- 2011-02-15 — Subsequently, the Committee resumed it's sitting.
+- 2011-02-15 — The Committee of the Whole rose informally to receive a message from the Senate.
+- 2011-02-15 — The Speaker designated the Honorable Frank D. Lucas to act as Chairman of the Committee.
+- 2011-02-15 — Weiner amendment (A017) modified by unanimous consent. The modication makes a technical correction.
+- 2011-02-16 — Amendment (A022) offered by Mr. Inslee. (consideration: CR 2/15/2011 H901-902; text: CR 2/15/2011 H901)
+- 2011-02-16 — Amendment (A023) offered by Mr. McClintock. (consideration: CR 2/15/2011 H902; text: CR 2/15/2011 H902)
+- 2011-02-16 — Amendment (A024) offered by Mr. McClintock. (consideration: CR 2/15/2011 H903; text: CR 2/15/2011 H903)
+- 2011-02-16 — Amendment (A025) offered by Mr. Tonko. (consideration: CR 2/15/2011 H903-904; text: CR 2/15/2011 H903)
+- 2011-02-16 — Amendment (A026) offered by Mr. Latta. (consideration: CR 2/15/2011 H904; text: CR 2/15/2011 H904)
+- 2011-02-16 — Amendment (A027) offered by Mr. DeFazio. (consideration: CR H907-908; text: CR H907)
+- 2011-02-16 — Amendment (A028) offered by Mr. Pascrell. (consideration: CR 2/15/2011 H910-912; text: CR 2/15/2011 H910)
+- 2011-02-16 — Amendment (A029) offered by Mr. Burton (IN). (consideration: CR H968-970; text: CR H968)
+- 2011-02-16 — Amendment (A030) offered by Mr. Pearce. (consideration: CR H970-976; text: CR H970)
+- 2011-02-16 — Amendment (A031) offered by Mrs. Lummis. (consideration: CR H976-981, H994-995; text: CR H976)
+- 2011-02-16 — Amendment (A032) offered by Mr. McClintock. (consideration: CR H981-982; text: CR H981)
+- 2011-02-16 — Amendment (A033) offered by Mr. Moran. (consideration: CR H982-984, H995; text: CR H982)
+- 2011-02-16 — Amendment (A034) offered by Mrs. Lummis. (consideration: CR H984; text: CR H984)
+- 2011-02-16 — Amendment (A035) offered by Mr. Flake. (consideration: CR H986-987, H995-996; text: CR H986)
+- 2011-02-16 — Amendment (A036) offered by Mr. Hall. (consideration: CR H987-988; text: CR H987)
+- 2011-02-16 — Amendment (A037) offered by Mr. Pompeo. (consideration: CR H988-989, H996; text: CR H988)
+- 2011-02-16 — Amendment (A038) offered by Mr. Reed. (consideration: CR H989-990, H997 text: CR H989)
+- 2011-02-16 — Amendment (A039) offered by Ms. Edwards. (consideration: CR H990-992; text: CR H990)
+- 2011-02-16 — Amendment (A040) offered by Mr. Braley (IA). (consideration: CR H992-994; text: CR H992)
+- 2011-02-16 — Amendment (A041) offered by Mr. Pompeo. (consideration: CR H999-1000; text: CR H999)
+- 2011-02-16 — Amendment (A042) offered by Mr. Walberg. (consideration: CR H1001-1002; text: CR H1001)
+- 2011-02-16 — Amendment (A043) offered by Mr. Canseco. (consideration: CR H1002-1003; text: CR H1002)
+- 2011-02-16 — Amendment (A044) offered by Mr. Reed. (consideration: CR H1003-1004; text: CR H1003)
+- 2011-02-16 — Amendment (A045) offered by Mr. Bass (NH). (consideration: CR H1007; text: CR H1007)
+- 2011-02-16 — Amendment (A046) offered by Mr. Markey. (consideration: CR H1007-1014; text: CR H1007-1008)
+- 2011-02-16 — Amendment (A047) offered by Mr. Barletta. (consideration: CR H1014-1016; text: CR H1014)
+- 2011-02-16 — Amendment (A048) offered by Mr. Flake. (consideration: CR H1016-1019; text: CR H1016)
+- 2011-02-16 — Amendment (A049) offered by Mrs. McMorris Rodgers. (consideration: CR H1020-1023; text: CR H1020)
+- 2011-02-16 — Amendment (A050) offered by Mr. Young (AK). (consideration: CR H1023-1024; text: CR H1023)
+- 2011-02-16 — Amendment (A051) offered by Ms. Chu. (consideration: CR H1024-1025; text: CR H1024)
+- 2011-02-16 — Amendment (A052) offered by Ms. Jackson Lee (TX). (consideration: CR H1025-1028; text: CR H1025)
+- 2011-02-16 — Amendment (A053) offered by Mr. Blumenauer. (consideration: CR H1028-1031; text: CR H1028)
+- 2011-02-16 — Amendment agreed to Committee of the Whole
+- 2011-02-16 — Amendment agreed to Committee of the Whole
+- 2011-02-16 — Amendment agreed to Committee of the Whole
+- 2011-02-16 — Amendment agreed to Committee of the Whole
+- 2011-02-16 — Amendment agreed to Committee of the Whole
+- 2011-02-16 — Amendment agreed to Committee of the Whole
+- 2011-02-16 — Amendment agreed to Committee of the Whole
+- 2011-02-16 — Amendment agreed to Committee of the Whole
+- 2011-02-16 — Amendment agreed to Committee of the Whole
+- 2011-02-16 — Amendment failed in Committee of the Whole
+- 2011-02-16 — Amendment failed in Committee of the Whole
+- 2011-02-16 — Amendment failed in Committee of the Whole
+- 2011-02-16 — Amendment failed in Committee of the Whole
+- 2011-02-16 — Amendment failed in Committee of the Whole
+- 2011-02-16 — Amendment failed in Committee of the Whole
+- 2011-02-16 — Amendment failed in Committee of the Whole
+- 2011-02-16 — Amendment failed in Committee of the Whole
+- 2011-02-16 — Amendment failed in Committee of the Whole
+- 2011-02-16 — Amendment failed in Committee of the Whole
+- 2011-02-16 — Amendment failed in Committee of the Whole
+- 2011-02-16 — Amendment failed in Committee of the Whole
+- 2011-02-16 — Amendment failed in Committee of the Whole
+- 2011-02-16 — Amendment failed in Committee of the Whole
+- 2011-02-16 — Amendment failed in Committee of the Whole
+- 2011-02-16 — By unanimous consent, the Barletta amendment was withdrawn. (consideration: CR H1014)
+- 2011-02-16 — Committee of the Whole House on the state of the Union rises leaving H.R. 1 as unfinished business.
+- 2011-02-16 — Considered as unfinished business. (consideration: CR H957-1068; text of Division B as introduced in House: CR H968, H970, H976, H981, H982, H984-985, H985-986, H988, H989, H992, H999, H1000-1001, H1001, H1002, H1003, H1004-1005, H1006-1007, H1007, H1016, H1019-1020, H1023, H1024, H1028, H1031, H1032, H1033, H1036, CR 2/17/2011 H1045, H1047-1048, H1048-1049, H1049, H1051, H1056, H1057, H1058-1060, H1062-1063, H1064, H1065, H1066-1067; text of Division C as introduced in House: CR 2/17/2011 H1067, H1068; text of Division D as introduced in House: CR 2/17/2011 H1068)
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on pro forma amendments to H.R. 1.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on pro forma amendments to H.R. 1.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on pro forma amendments to H.R. 1.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Barletta amendment number 111 under the five-minute rule, pending reservation of a point of order.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Bass (NH) amendment number 565 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Blumenauer amendment under the five-minute rule pending reservation of a point of order.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Braley(IA) amendment number 521 under the five-minute rule. Pending a point of order.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Burton amendment number 30 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Canseco amendment number 249 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Chu amendment under the five-minute rule pending reservation of a point of order.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the DeFazio amendment numbered 98 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Flake amendment number 376 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Flake amendment number 457 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Hall(TX) amendment number 407 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Inslee amendment number 395 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Jackson Lee amendment under the five-minute rule pending reservation of a point of order.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Latta amendment numbered 259 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Lummis amendment number 193 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Lummis amendment number 194 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Markey (MA) amendment number 160 under the five-minute rule, pending reservation of a point of order.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the McClintock amendment number 295 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the McClintock amendment numbered 297 under the five minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the McClintock amendment numbered 315 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the McMorris Rogers amendment under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Moran amendment number 338 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Pascrell amendment numbered 223 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Pearce amendment under the five-minute rule pending reservation of a point of order.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Pompeo amendment number 84 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Pompeo amendment number 85 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Reed amendment number 379 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Reed amendment number 381 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Tonko amendment numbered 4 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Walberg amendment number 196 under the five-minute rule.
+- 2011-02-16 — DEBATE - The Committee of the Whole proceeded with debate on the Young (AK) amendment under the five-minute rule.
+- 2011-02-16 — House amendment agreed to: On agreeing to the Burton (IN) amendment (A029) Agreed to by voice vote.
+- 2011-02-16 — House amendment agreed to: On agreeing to the Flake amendment (A013) Agreed to by recorded vote: 262 - 169 (Roll no. 51).(consideration: CR H961)
+- 2011-02-16 — House amendment agreed to: On agreeing to the McClintock amendment (A023) Agreed to by voice vote.
+- 2011-02-16 — House amendment agreed to: On agreeing to the Michaud amendment (A012) Agreed to by recorded vote: 305 - 127 (Roll no. 50).(consideration: CR H960-961)
+- 2011-02-16 — House amendment agreed to: On agreeing to the Pascrell amendment (A028) Agreed to by recorded vote: 318 - 113 (Roll no. 60).(consideration: CR H967)
+- 2011-02-16 — House amendment agreed to: On agreeing to the Pompeo amendment (A037) Agreed to by recorded vote: 239 - 185 (Roll no. 64).
+- 2011-02-16 — House amendment agreed to: On agreeing to the Reed amendment (A038) Agreed to by recorded vote: 228 - 203 (Roll no. 65).
+- 2011-02-16 — House amendment agreed to: On agreeing to the Rooney amendment (A006) Agreed to by recorded vote: 233 - 198, 1 Present (Roll no. 46).(consideration: CR H957-958)
+- 2011-02-16 — House amendment agreed to: On agreeing to the Weiner amendment (A017) as modified Agreed to by recorded vote: 228 - 203 (Roll no. 53).(consideration: CR H962-963)
+- 2011-02-16 — House amendment not agreed to: On agreeing to the Biggert amendment (A021) Failed by recorded vote: 170 - 262 (Roll no. 55).(consideration: CR H963-964)
+- 2011-02-16 — House amendment not agreed to: On agreeing to the DeFazio amendment (A010) Failed by recorded vote: 136 - 296 (Roll no. 49).(consideration: CR H959-960)
+- 2011-02-16 — House amendment not agreed to: On agreeing to the DeFazio amendment (A027) Failed by recorded vote: 130 - 301 (Roll no. 59).(consideration: CR H966-967)
+- 2011-02-16 — House amendment not agreed to: On agreeing to the Duncan (SC) amendment (A020) Failed by recorded vote: 171 - 259 (Roll no. 54).(consideration: CR H963)
+- 2011-02-16 — House amendment not agreed to: On agreeing to the Flake amendment (A035) Failed by recorded vote: 199 - 230 (Roll no. 63).
+- 2011-02-16 — House amendment not agreed to: On agreeing to the Holt amendment (A008) Failed by recorded vote: 133 - 299 (Roll no. 48).(consideration: CR H959)
+- 2011-02-16 — House amendment not agreed to: On agreeing to the Inslee amendment (A022) Failed by recorded vote: 159 - 273 (Roll no. 56).(consideration: CR H964-965)
+- 2011-02-16 — House amendment not agreed to: On agreeing to the Jones amendment (A007) Failed by recorded vote: 135 - 294 (Roll no. 47).(consideration: CR H958-959)
+- 2011-02-16 — House amendment not agreed to: On agreeing to the Latta amendment (A014) Failed by recorded vote: 184 - 247 (Roll no. 52).(consideration: CR H961-962)
+- 2011-02-16 — House amendment not agreed to: On agreeing to the Latta amendment (A026) Failed by recorded vote: 137 - 293 (Roll no. 58).(consideration: CR H965-966)
+- 2011-02-16 — House amendment not agreed to: On agreeing to the Lummis amendment (A031) Failed by recorded vote: 213 - 216 (Roll no. 61).
+- 2011-02-16 — House amendment not agreed to: On agreeing to the McClintock amendment (A024) Failed by voice vote.
+- 2011-02-16 — House amendment not agreed to: On agreeing to the McClintock amendment (A032) Failed by voice vote.
+- 2011-02-16 — House amendment not agreed to: On agreeing to the Moran amendment (A033) Failed by recorded vote: 73 - 352, 2 Present (Roll no. 62).
+- 2011-02-16 — House amendment not agreed to: On agreeing to the Tonko amendment (A025) Failed by recorded vote: 208 - 223 (Roll no. 57).(consideration: CR H965)
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered
+- 2011-02-16 — House amendment offered/reported by: Amendment (A022) offered by Mr. Inslee.(consideration: CR 2/15/2011 H901-902; text: CR 2/15/2011 H901)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A023) offered by Mr. McClintock.(consideration: CR 2/15/2011 H902; text: CR 2/15/2011 H902)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A024) offered by Mr. McClintock.(consideration: CR 2/15/2011 H903; text: CR 2/15/2011 H903)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A025) offered by Mr. Tonko.(consideration: CR 2/15/2011 H903-904; text: CR 2/15/2011 H903)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A026) offered by Mr. Latta.(consideration: CR 2/15/2011 H904; text: CR 2/15/2011 H904)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A027) offered by Mr. DeFazio.(consideration: CR H907-908; text: CR H907)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A028) offered by Mr. Pascrell.(consideration: CR 2/15/2011 H910-912; text: CR 2/15/2011 H910)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A029) offered by Mr. Burton (IN).(consideration: CR H968-970; text: CR H968)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A030) offered by Mr. Pearce.(consideration: CR H970-976; text: CR H970)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A031) offered by Mrs. Lummis.(consideration: CR H976-981, H994-995; text: CR H976)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A032) offered by Mr. McClintock.(consideration: CR H981-982; text: CR H981)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A033) offered by Mr. Moran.(consideration: CR H982-984, H995; text: CR H982)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A034) offered by Mrs. Lummis.(consideration: CR H984; text: CR H984)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A035) offered by Mr. Flake.(consideration: CR H986-987, H995-996; text: CR H986)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A036) offered by Mr. Hall.(consideration: CR H987-988; text: CR H987)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A037) offered by Mr. Pompeo.(consideration: CR H988-989, H996; text: CR H988)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A038) offered by Mr. Reed.(consideration: CR H989-990, H997 text: CR H989)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A039) offered by Ms. Edwards.(consideration: CR H990-992; text: CR H990)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A040) offered by Mr. Braley (IA).(consideration: CR H992-994; text: CR H992)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A041) offered by Mr. Pompeo.(consideration: CR H999-1000; text: CR H999)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A042) offered by Mr. Walberg.(consideration: CR H1001-1002; text: CR H1001)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A043) offered by Mr. Canseco.(consideration: CR H1002-1003; text: CR H1002)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A044) offered by Mr. Reed.(consideration: CR H1003-1004; text: CR H1003)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A045) offered by Mr. Bass (NH).(consideration: CR H1007; text: CR H1007)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A046) offered by Mr. Markey.(consideration: CR H1007-1014; text: CR H1007-1008)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A047) offered by Mr. Barletta.(consideration: CR H1014-1016; text: CR H1014)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A048) offered by Mr. Flake.(consideration: CR H1016-1019; text: CR H1016)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A049) offered by Mrs. McMorris Rodgers.(consideration: CR H1020-1023; text: CR H1020)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A050) offered by Mr. Young (AK).(consideration: CR H1023-1024; text: CR H1023)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A051) offered by Ms. Chu.(consideration: CR H1024-1025; text: CR H1024)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A052) offered by Ms. Jackson Lee (TX).(consideration: CR H1025-1028; text: CR H1025)
+- 2011-02-16 — House amendment offered/reported by: Amendment (A053) offered by Mr. Blumenauer.(consideration: CR H1028-1031; text: CR H1028)
+- 2011-02-16 — Mr. Moran raised a point of order against the Lummis amendment (A034). Mr. Moran stated that the amendment seeks to change exisitng law. The Chair sustained the point of order.
+- 2011-02-16 — Mr. Rehberg raised a point of order against the Blumenauer amendment (A053). Mr. Rehberg stated that the amendment proposes a limitation in an appropriation bill. The Chair sustained the point of order.
+- 2011-02-16 — Mr. Rehberg raised a point of order against the Chu amendment (A051). Mr. Rehberg stated that the amendment proposes a net increase in budget authority in the bill. The Chair sustained the point of order.
+- 2011-02-16 — Mr. Rehberg raised a point of order against the Jackson Lee (TX) amendment (A052). Mr. Rehberg stated that the amendment proposes a net increase in budget authority in the bill. The Chair sustained the point of order.
+- 2011-02-16 — Mr. Rehberg raised a point of order against the Markey amendment (A046). stating that the amendment seeks to change existing law and constitutes legislation in an appropriations bill. The Chair sustained the point of order.
+- 2011-02-16 — Mr. Rogers (KY) moved that the Committee rise.
+- 2011-02-16 — Mr. Simpson raised a point of order against the Braley (IA) amendment (A040). Mr. Simpson stated that the amendment seeks to change existing law and constitutes legislation in an appropriations bill. The Chair sustained the point of order.
+- 2011-02-16 — Mr. Simpson raised a point of order against the Edwards amendment (A039). Mr. Simpson stated that the amendment seeks to amend portionof the bill not yet read for consideration. The Chair sustained the point of order.
+- 2011-02-16 — Mr. Simpson raised a point of order against the Hall amendment (A036). Mr. Simpson stated that the amendment seeks to change existing law and constitutes legislation in an appropriation bill. The Chair sustained the point of order.
+- 2011-02-16 — Mr. Simpson raised a point of order against the Pearce amendment (A030). Mr. Simpson stated that the provisions of the amendment seek to propose a new limitation on transfer of funds. The Chair sustained the point of order.
+- 2011-02-16 — On agreeing to the Biggert amendment (A021) Failed by recorded vote: 170 - 262 (Roll no. 55). (consideration: CR H963-964)
+- 2011-02-16 — On agreeing to the Burton (IN) amendment (A029) Agreed to by voice vote.
+- 2011-02-16 — On agreeing to the DeFazio amendment (A010) Failed by recorded vote: 136 - 296 (Roll no. 49). (consideration: CR H959-960)
+- 2011-02-16 — On agreeing to the DeFazio amendment (A027) Failed by recorded vote: 130 - 301 (Roll no. 59). (consideration: CR H966-967)
+- 2011-02-16 — On agreeing to the Duncan (SC) amendment (A020) Failed by recorded vote: 171 - 259 (Roll no. 54). (consideration: CR H963)
+- 2011-02-16 — On agreeing to the Flake amendment (A013) Agreed to by recorded vote: 262 - 169 (Roll no. 51). (consideration: CR H961)
+- 2011-02-16 — On agreeing to the Flake amendment (A035) Failed by recorded vote: 199 - 230 (Roll no. 63).
+- 2011-02-16 — On agreeing to the Holt amendment (A008) Failed by recorded vote: 133 - 299 (Roll no. 48). (consideration: CR H959)
+- 2011-02-16 — On agreeing to the Inslee amendment (A022) Failed by recorded vote: 159 - 273 (Roll no. 56). (consideration: CR H964-965)
+- 2011-02-16 — On agreeing to the Jones amendment (A007) Failed by recorded vote: 135 - 294 (Roll no. 47). (consideration: CR H958-959)
+- 2011-02-16 — On agreeing to the Latta amendment (A014) Failed by recorded vote: 184 - 247 (Roll no. 52). (consideration: CR H961-962)
+- 2011-02-16 — On agreeing to the Latta amendment (A026) Failed by recorded vote: 137 - 293 (Roll no. 58). (consideration: CR H965-966)
+- 2011-02-16 — On agreeing to the Lummis amendment (A031) Failed by recorded vote: 213 - 216 (Roll no. 61).
+- 2011-02-16 — On agreeing to the McClintock amendment (A023) Agreed to by voice vote.
+- 2011-02-16 — On agreeing to the McClintock amendment (A024) Failed by voice vote.
+- 2011-02-16 — On agreeing to the McClintock amendment (A032) Failed by voice vote.
+- 2011-02-16 — On agreeing to the Michaud amendment (A012) Agreed to by recorded vote: 305 - 127 (Roll no. 50). (consideration: CR H960-961)
+- 2011-02-16 — On agreeing to the Moran amendment (A033) Failed by recorded vote: 73 - 352, 2 Present (Roll no. 62).
+- 2011-02-16 — On agreeing to the Pascrell amendment (A028) Agreed to by recorded vote: 318 - 113 (Roll no. 60). (consideration: CR H967)
+- 2011-02-16 — On agreeing to the Pompeo amendment (A037) Agreed to by recorded vote: 239 - 185 (Roll no. 64).
+- 2011-02-16 — On agreeing to the Reed amendment (A038) Agreed to by recorded vote: 228 - 203 (Roll no. 65).
+- 2011-02-16 — On agreeing to the Rooney amendment (A006) Agreed to by recorded vote: 233 - 198, 1 Present (Roll no. 46). (consideration: CR H957-958)
+- 2011-02-16 — On agreeing to the Tonko amendment (A025) Failed by recorded vote: 208 - 223 (Roll no. 57). (consideration: CR H965)
+- 2011-02-16 — On agreeing to the Weiner amendment (A017) as modified Agreed to by recorded vote: 228 - 203 (Roll no. 53). (consideration: CR H962-963)
+- 2011-02-16 — On motion that the Committee rise Agreed to by voice vote.
+- 2011-02-16 — POINT OF ORDER - Mr. Moran reserved a point of order against the Lummis amendment numbered 193 printed in the Congressional Record. Subsequently, the reservation was withdrawn.
+- 2011-02-16 — POINT OF ORDER - Mr. Moran reserved a point of order against the Lummis amendment numbered 194 printed in the Congressional Record.
+- 2011-02-16 — POINT OF ORDER - Mr. Simpson reserved a point of order against the Edwards(MD) amendment numbered 415 printed in the Congressional Record.
+- 2011-02-16 — POINT OF ORDER - Mr. Simpson reserved a point of order against the Hall(TX) amendment numbered 407 printed in the Congressional Record.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bass (NH) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Ms. DeLauro demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Biggert amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mrs. Biggert demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Canseco amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Canseco demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeFazio amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. DeFazio demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Inslee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Inslee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Latta amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Latta demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lummis amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Dicks demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McMorris Rogers amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Ms. DeLauro demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moran amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Moran demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pascrell amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Aderholt demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pompeo amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Pompeo demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pompeo amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Pompeo demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Reed amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Reed demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Reed amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Reed demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tonko amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Tonko demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Walberg amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Walberg demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Young (AK) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Ms. DeLauro demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — Roll call votes on amendments in House
+- 2011-02-16 — The Committee of the Whole proceeded with pro forma amendments under the five-minute rule.
+- 2011-02-16 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-02-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which had been debated earlier and on which further proceedings were postponed.
+- 2011-02-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-02-17 — Amendment (A054) offered by Mr. Price (GA). (consideration: CR 2/16/2011 H1031-1032; text: CR 2/16/2011 H1031)
+- 2011-02-17 — Amendment (A055) offered by Mr. Tonko. (consideration: CR 2/16/2011 H1032-1033; text: CR 2/16/2011 H1032)
+- 2011-02-17 — Amendment (A056) offered by Mr. Tonko. (consideration: CR 2/16/2011 H1033-1035; text: CR 2/16/2011 H1033)
+- 2011-02-17 — Amendment (A057) offered by Ms. Lee (CA). (consideration: CR 2/16/2011 H1036; text: CR 2/16/2011 H1036)
+- 2011-02-17 — Amendment (A058) offered by Mr. Whitfield. (consideration: CR H1045-1047; text: CR H1045)
+- 2011-02-17 — Amendment (A059) offered by Mr. Weiner. (consideration: CR H1051-1055; text: CR H1051)
+- 2011-02-17 — Amendment (A060) offered by Mr. Canseco. (consideration: CR H1055-1056; text: CR H1055)
+- 2011-02-17 — Amendment (A061) offered by Mr. McClintock. (consideration: CR H1056-1057; text: CR H1056)
+- 2011-02-17 — Amendment (A062) offered by Mr. Heller. (consideration: CR H1057-1058; text: CR H1057)
+- 2011-02-17 — Amendment (A063) offered by Mr. Franks (AZ). (consideration: CR H1060-1062; text: CR H1060)
+- 2011-02-17 — Amendment (A064) offered by Mr. Nadler. (consideration: CR H1063-1064; text: CR H1063)
+- 2011-02-17 — Amendment (A065) offered by Mr. Sessions. (consideration: CR H1064-1065; text: CR H1064)
+- 2011-02-17 — Amendment (A066) offered by Mr. Polis. (consideration: CR H1067-1068; text: CR H1067)
+- 2011-02-17 — Amendment (A067) offered by Ms. Woolsey. (consideration: CR H1091-1094, H1137-1138; text: CR H1091)
+- 2011-02-17 — Amendment (A068) offered by Mr. Cole. (consideration: CR H1094-1095; text: CR H1094)
+- 2011-02-17 — Amendment (A069) offered by Mr. Price (NC). (consideration: CR H1095-1096, H1139; text: CR H1095)
+- 2011-02-17 — Amendment (A070) offered by Mr. Walden. (consideration: CR H1096-1102, H1139-1140; text: CR H1096)
+- 2011-02-17 — Amendment (A071) offered by Mrs. Lowey. (consideration: CR H1102-1103; text: CR H1102)
+- 2011-02-17 — Amendment (A072) offered by Ms. Woolsey. (consideration: CR H1103; text: CR H1103)
+- 2011-02-17 — Amendment (A073) offered by Mr. Camp. (consideration: CR H1103-1106, H1140; text: CR H1103-1104)
+- 2011-02-17 — Amendment (A074) offered by Ms. Eshoo. (consideration: CR H1106-1111; text: CR H1106)
+- 2011-02-17 — Amendment (A075) offered by Mrs. Lummis. (consideration: CR H1111-1114, H1141-1142; text: CR H1111)
+- 2011-02-17 — Amendment (A076) offered by Ms. Lee (CA). (consideration: CR H1114-1115; text: CR H1114)
+- 2011-02-17 — Amendment (A077) offered by Ms. Wasserman Schultz. (consideration: CR H1115; text: CR H1115)
+- 2011-02-17 — Amendment (A078) offered by Mr. Carter. (consideration: CR H1115-1121; text: CR H1115)
+- 2011-02-17 — Amendment (A079) offered by Mr. Scalise. (consideration: CR H1121-1125, H1142-1143; text: CR H1121)
+- 2011-02-17 — Amendment (A080) offered by Mr. Frank (MA). (consideration: CR H1125-1131, H1143; text: CR H1125)
+- 2011-02-17 — Amendment (A081) offered by Mr. Holt. (consideration: CR H1131-1137, H1144; text: CR H1131)
+- 2011-02-17 — Amendment (A082) offered by Ms. McCollum. (consideration: CR H1144-1145; text: CR H1144)
+- 2011-02-17 — Amendment (A083) offered by Mr. Nadler. (consideration: CR H1145-1149; text: CR H1145)
+- 2011-02-17 — Amendment (A084) offered by Mr. Kline. (consideration: CR H1149-1155; text: CR H1149)
+- 2011-02-17 — Amendment (A085) offered by Mr. Pence. (consideration: CR H1155-1162; text: CR H1155-1156)
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment agreed to Committee of the Whole
+- 2011-02-17 — Amendment failed in Committee of the Whole
+- 2011-02-17 — Amendment failed in Committee of the Whole
+- 2011-02-17 — Amendment failed in Committee of the Whole
+- 2011-02-17 — Amendment failed in Committee of the Whole
+- 2011-02-17 — Amendment failed in Committee of the Whole
+- 2011-02-17 — Amendment failed in Committee of the Whole
+- 2011-02-17 — Amendment failed in Committee of the Whole
+- 2011-02-17 — Amendment failed in Committee of the Whole
+- 2011-02-17 — Amendment failed in Committee of the Whole
+- 2011-02-17 — Amendment failed in Committee of the Whole
+- 2011-02-17 — Amendment failed in Committee of the Whole
+- 2011-02-17 — By unanimous consent, the Franks (AZ) amendment was withdrawn. (consideration: CR H1060)
+- 2011-02-17 — Committee of the Whole House on the state of the Union rises leaving H.R. 1 as unfinished business.
+- 2011-02-17 — Committee of the Whole House on the state of the Union rises leaving H.R. 1 as unfinished business.
+- 2011-02-17 — Considered as unfinished business. (consideration: CR H1080-1162, H1162-1175)
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Camp amendment number 516 under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Canseco amendment under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Carter amendment number 165 under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Cole amendment under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Eshoo amendment number 576 under the five-minute rule pending reservation of a point of order.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Frank (MA) amendment number 458 under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Franks (AZ) amendment under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Heller amendment under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Holt amendment number 506 under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Kline amendment number 214 under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Lee (CA) amendment number 222 under the five-minute rule, pending reservation of a point of order.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Lee (CA) amendment under the five-minute rule pending reservation of a point of order.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Lowey amendment number 334 under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Lummis amendment number 195 under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the McClintock amendment under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the McCollum amendment number 50 under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Nadler amendment number 232 under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Nadler amendment under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Pence amendment number 11 under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Polis amendment under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Price (GA) amendment under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Price (NC) amendment under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Scalise amendment number 204 under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Sessions amendment under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Tonko amendment under the five-minute rule pending reservation of a point of order.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Tonko amendment under the five-minute rule pending reservation of a point of order.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Wadlen amendment under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Wasserman Schultz amendment number 211 under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Weiner amendment under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Whitfield amendment under the five-minute rule.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Woolsey amendment number 413 under the five-minute rule pending reservation of a point of order.
+- 2011-02-17 — DEBATE - The Committee of the Whole proceeded with debate on the Woolsey amendment under the five-minute rule pending a reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2011-02-17 — House amendment agreed to: On agreeing to the Canseco amendment (A043) Agreed to by recorded vote: 248 - 177 (Roll no. 69).(consideration: CR H1081-1082)
+- 2011-02-17 — House amendment agreed to: On agreeing to the Canseco amendment (A060) Agreed to by recorded vote: 274 - 155 (Roll no. 77).(consideration: CR H1087)
+- 2011-02-17 — House amendment agreed to: On agreeing to the Carter amendment (A078) Agreed to by recorded vote: 250 - 177 (Roll no. 86).(consideration: CR H1142)
+- 2011-02-17 — House amendment agreed to: On agreeing to the Cole amendment (A068) Agreed to by recorded vote: 247 - 175 (Roll no. 81).(consideration: CR H1138-1139)
+- 2011-02-17 — House amendment agreed to: On agreeing to the Lowey amendment (A071) Agreed to by voice vote.
+- 2011-02-17 — House amendment agreed to: On agreeing to the Lummis amendment (A075) Agreed to by recorded vote: 232 - 197 (Roll no. 85).(consideration: CR H1141-1142)
+- 2011-02-17 — House amendment agreed to: On agreeing to the McClintock amendment (A061) Agreed to by voice vote.
+- 2011-02-17 — House amendment agreed to: On agreeing to the McMorris Rodgers amendment (A049) Agreed to by recorded vote: 249 - 179 (Roll no. 73).(consideration: CR H1084-1085)
+- 2011-02-17 — House amendment agreed to: On agreeing to the Price (NC) amendment (A069) Agreed to by recorded vote: 267 - 159, 1 Present (Roll no. 82).(consideration: CR H1139)
+- 2011-02-17 — House amendment agreed to: On agreeing to the Reed amendment (A044) Agreed to by recorded vote: 239 - 186 (Roll no. 70).(consideration: CR H1082-1083)
+- 2011-02-17 — House amendment agreed to: On agreeing to the Scalise amendment (A079) Agreed to by recorded vote: 249 - 179, 1 Present (Roll no. 87).(consideration: CR H1142-1143)
+- 2011-02-17 — House amendment agreed to: On agreeing to the Walberg amendment (A042) Agreed to by recorded vote: 217 - 209 (Roll no. 68).(consideration: CR H1081)
+- 2011-02-17 — House amendment agreed to: On agreeing to the Walden amendment (A070) Agreed to by recorded vote: 244 - 181 (Roll no. 83).(consideration: CR H1139-1140)
+- 2011-02-17 — House amendment agreed to: On agreeing to the Wasserman Schultz amendment (A077) Agreed to by voice vote.
+- 2011-02-17 — House amendment agreed to: On agreeing to the Weiner amendment (A059) Agreed to by recorded vote: 268 - 163 (Roll no. 76).(consideration: CR H1086-1087)
+- 2011-02-17 — House amendment agreed to: On agreeing to the Whitfield amendment (A058) Agreed to by voice vote.
+- 2011-02-17 — House amendment agreed to: On agreeing to the Young (AK) amendment (A050) Agreed to by recorded vote: 313 - 117 (Roll no. 74).(consideration: CR H1085)
+- 2011-02-17 — House amendment not agreed to: On agreeing to the Bass (NH) amendment (A045) Failed by recorded vote: 104 - 322, 2 Present (Roll no. 71).(consideration: CR H1083)
+- 2011-02-17 — House amendment not agreed to: On agreeing to the Camp amendment (A073) Failed by recorded vote: 137 - 292, 1 Present (Roll no. 84).(consideration: CR H1140-1141)
+- 2011-02-17 — House amendment not agreed to: On agreeing to the Flake amendment (A048) Failed by recorded vote: 115 - 316 (Roll no. 72).(consideration: CR H1084)
+- 2011-02-17 — House amendment not agreed to: On agreeing to the Frank (MA) amendment (A080) Failed by recorded vote: 160 - 270 (Roll no. 88).(consideration: CR H1143)
+- 2011-02-17 — House amendment not agreed to: On agreeing to the Heller amendment (A062) Failed by recorded vote: 190 - 241 (Roll no. 78).(consideration: CR H1087-1088)
+- 2011-02-17 — House amendment not agreed to: On agreeing to the Holt amendment (A081) Failed by recorded vote: 163 - 265 (Roll no. 89).(consideration: CR H1144)
+- 2011-02-17 — House amendment not agreed to: On agreeing to the Polis amendment (A066) Failed by voice vote.
+- 2011-02-17 — House amendment not agreed to: On agreeing to the Pompeo amendment (A041) Failed by recorded vote: 171 - 256 (Roll no. 67).(consideration: CR H1080-1081)
+- 2011-02-17 — House amendment not agreed to: On agreeing to the Price (GA) amendment (A054) Failed by recorded vote: 176 - 250 (Roll no. 75).(consideration: CR H1086)
+- 2011-02-17 — House amendment not agreed to: On agreeing to the Sessions amendment (A065) Failed by recorded vote: 176 - 250 (Roll no. 79).(consideration: CR H1088-1089)
+- 2011-02-17 — House amendment not agreed to: On agreeing to the Woolsey amendment (A067) Failed by recorded vote: 91 - 339 (Roll no. 80).(consideration: CR H1137-1138)
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered
+- 2011-02-17 — House amendment offered/reported by: Amendment (A054) offered by Mr. Price (GA).(consideration: CR 2/16/2011 H1031-1032; text: CR 2/16/2011 H1031)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A055) offered by Mr. Tonko.(consideration: CR 2/16/2011 H1032-1033; text: CR 2/16/2011 H1032)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A056) offered by Mr. Tonko.(consideration: CR 2/16/2011 H1033-1035; text: CR 2/16/2011 H1033)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A057) offered by Ms. Lee (CA).(consideration: CR 2/16/2011 H1036; text: CR 2/16/2011 H1036)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A058) offered by Mr. Whitfield.(consideration: CR H1045-1047; text: CR H1045)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A059) offered by Mr. Weiner.(consideration: CR H1051-1055; text: CR H1051)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A060) offered by Mr. Canseco.(consideration: CR H1055-1056; text: CR H1055)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A061) offered by Mr. McClintock.(consideration: CR H1056-1057; text: CR H1056)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A062) offered by Mr. Heller.(consideration: CR H1057-1058; text: CR H1057)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A063) offered by Mr. Franks (AZ).(consideration: CR H1060-1062; text: CR H1060)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A064) offered by Mr. Nadler.(consideration: CR H1063-1064; text: CR H1063)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A065) offered by Mr. Sessions.(consideration: CR H1064-1065; text: CR H1064)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A066) offered by Mr. Polis.(consideration: CR H1067-1068; text: CR H1067)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A067) offered by Ms. Woolsey.(consideration: CR H1091-1094, H1137-1138; text: CR H1091)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A068) offered by Mr. Cole.(consideration: CR H1094-1095; text: CR H1094)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A069) offered by Mr. Price (NC).(consideration: CR H1095-1096, H1139; text: CR H1095)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A070) offered by Mr. Walden.(consideration: CR H1096-1102, H1139-1140; text: CR H1096)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A071) offered by Mrs. Lowey.(consideration: CR H1102-1103; text: CR H1102)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A072) offered by Ms. Woolsey.(consideration: CR H1103; text: CR H1103)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A073) offered by Mr. Camp.(consideration: CR H1103-1106, H1140; text: CR H1103-1104)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A074) offered by Ms. Eshoo.(consideration: CR H1106-1111; text: CR H1106)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A075) offered by Mrs. Lummis.(consideration: CR H1111-1114, H1141-1142; text: CR H1111)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A076) offered by Ms. Lee (CA).(consideration: CR H1114-1115; text: CR H1114)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A077) offered by Ms. Wasserman Schultz.(consideration: CR H1115; text: CR H1115)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A078) offered by Mr. Carter.(consideration: CR H1115-1121; text: CR H1115)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A079) offered by Mr. Scalise.(consideration: CR H1121-1125, H1142-1143; text: CR H1121)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A080) offered by Mr. Frank (MA).(consideration: CR H1125-1131, H1143; text: CR H1125)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A081) offered by Mr. Holt.(consideration: CR H1131-1137, H1144; text: CR H1131)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A082) offered by Ms. McCollum.(consideration: CR H1144-1145; text: CR H1144)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A083) offered by Mr. Nadler.(consideration: CR H1145-1149; text: CR H1145)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A084) offered by Mr. Kline.(consideration: CR H1149-1155; text: CR H1149)
+- 2011-02-17 — House amendment offered/reported by: Amendment (A085) offered by Mr. Pence.(consideration: CR H1155-1162; text: CR H1155-1156)
+- 2011-02-17 — Mr. Frelinghuysen raised a point of order against the Eshoo amendment (A074). Mr. Frelinghuysen stated that the amendment seeks to change existing law and constitutes legislation in an appropriations bill. The Chair sustained the point of order.
+- 2011-02-17 — Mr. Frelinghuysen raised a point of order against the Lee (CA) amendment (A076). Mr. Frelinghuysen stated that the amendment seeks to change existing law and constitutes legislation in an appropriation bill. The Chair sustained the point of order.
+- 2011-02-17 — Mr. Frelinghuysen raised a point of order against the Woolsey amendment (A072). Mr. Frelinghuysen stated that the amendment seeks to change existing law and constitutes legislation in an appropriations bill. The Chair sustained the point of order.
+- 2011-02-17 — Mr. Latham raised a point of order against the Nadler amendment (A064). Mr. Latham stated that the amendment proposes a net gain in budget authority in the bill. The Chair sustained the point of order.
+- 2011-02-17 — Mr. Rehberg raised a point of order against the Lee (CA) amendment (A057). Mr. Rehberg stated that the amendment proposes to change existing law. The Chair sustained the point of order.
+- 2011-02-17 — Mr. Rehberg raised a point of order against the Tonko amendment (A055). Mr. Rehberg stated that the amendment proposes a net increase in budget authority in the bill. The Chair sustained the point of order.
+- 2011-02-17 — Mr. Rehberg raised a point of order against the Tonko amendment (A056). Mr. Rehberg stated that the amendment proposes an increase in net budget authority in the bill. The Chair sustained the point of order.
+- 2011-02-17 — Mr. Rogers (KY) moved that the Committee rise.
+- 2011-02-17 — Mr. Rogers (KY) moved that the Committee rise.
+- 2011-02-17 — ORDER OF PROCEDURE - Mr. Rogers of Kentucky asked unanimous consent that during further consideration of H.R. 1 in the Committee of the Whole pursuant to House Resolution 92, no further amendment to the bill may be offered except: (1) pro forma amendments offered at any point in the reading by the chair or ranking minority member of the Committee on Appropriations for the purpose of debate; (2) amendments printed in the Congressional Record and contained on a list submitted to the desk. Upon removal of reservations of objection, the unanimous consent request was subsequently agreed to.
+- 2011-02-17 — On agreeing to the Bass (NH) amendment (A045) Failed by recorded vote: 104 - 322, 2 Present (Roll no. 71). (consideration: CR H1083)
+- 2011-02-17 — On agreeing to the Camp amendment (A073) Failed by recorded vote: 137 - 292, 1 Present (Roll no. 84). (consideration: CR H1140-1141)
+- 2011-02-17 — On agreeing to the Canseco amendment (A043) Agreed to by recorded vote: 248 - 177 (Roll no. 69). (consideration: CR H1081-1082)
+- 2011-02-17 — On agreeing to the Canseco amendment (A060) Agreed to by recorded vote: 274 - 155 (Roll no. 77). (consideration: CR H1087)
+- 2011-02-17 — On agreeing to the Carter amendment (A078) Agreed to by recorded vote: 250 - 177 (Roll no. 86). (consideration: CR H1142)
+- 2011-02-17 — On agreeing to the Cole amendment (A068) Agreed to by recorded vote: 247 - 175 (Roll no. 81). (consideration: CR H1138-1139)
+- 2011-02-17 — On agreeing to the Flake amendment (A048) Failed by recorded vote: 115 - 316 (Roll no. 72). (consideration: CR H1084)
+- 2011-02-17 — On agreeing to the Frank (MA) amendment (A080) Failed by recorded vote: 160 - 270 (Roll no. 88). (consideration: CR H1143)
+- 2011-02-17 — On agreeing to the Heller amendment (A062) Failed by recorded vote: 190 - 241 (Roll no. 78). (consideration: CR H1087-1088)
+- 2011-02-17 — On agreeing to the Holt amendment (A081) Failed by recorded vote: 163 - 265 (Roll no. 89). (consideration: CR H1144)
+- 2011-02-17 — On agreeing to the Lowey amendment (A071) Agreed to by voice vote.
+- 2011-02-17 — On agreeing to the Lummis amendment (A075) Agreed to by recorded vote: 232 - 197 (Roll no. 85). (consideration: CR H1141-1142)
+- 2011-02-17 — On agreeing to the McClintock amendment (A061) Agreed to by voice vote.
+- 2011-02-17 — On agreeing to the McMorris Rodgers amendment (A049) Agreed to by recorded vote: 249 - 179 (Roll no. 73). (consideration: CR H1084-1085)
+- 2011-02-17 — On agreeing to the Polis amendment (A066) Failed by voice vote.
+- 2011-02-17 — On agreeing to the Pompeo amendment (A041) Failed by recorded vote: 171 - 256 (Roll no. 67). (consideration: CR H1080-1081)
+- 2011-02-17 — On agreeing to the Price (GA) amendment (A054) Failed by recorded vote: 176 - 250 (Roll no. 75). (consideration: CR H1086)
+- 2011-02-17 — On agreeing to the Price (NC) amendment (A069) Agreed to by recorded vote: 267 - 159, 1 Present (Roll no. 82). (consideration: CR H1139)
+- 2011-02-17 — On agreeing to the Reed amendment (A044) Agreed to by recorded vote: 239 - 186 (Roll no. 70). (consideration: CR H1082-1083)
+- 2011-02-17 — On agreeing to the Scalise amendment (A079) Agreed to by recorded vote: 249 - 179, 1 Present (Roll no. 87). (consideration: CR H1142-1143)
+- 2011-02-17 — On agreeing to the Sessions amendment (A065) Failed by recorded vote: 176 - 250 (Roll no. 79). (consideration: CR H1088-1089)
+- 2011-02-17 — On agreeing to the Walberg amendment (A042) Agreed to by recorded vote: 217 - 209 (Roll no. 68). (consideration: CR H1081)
+- 2011-02-17 — On agreeing to the Walden amendment (A070) Agreed to by recorded vote: 244 - 181 (Roll no. 83). (consideration: CR H1139-1140)
+- 2011-02-17 — On agreeing to the Wasserman Schultz amendment (A077) Agreed to by voice vote.
+- 2011-02-17 — On agreeing to the Weiner amendment (A059) Agreed to by recorded vote: 268 - 163 (Roll no. 76). (consideration: CR H1086-1087)
+- 2011-02-17 — On agreeing to the Whitfield amendment (A058) Agreed to by voice vote.
+- 2011-02-17 — On agreeing to the Woolsey amendment (A067) Failed by recorded vote: 91 - 339 (Roll no. 80). (consideration: CR H1137-1138)
+- 2011-02-17 — On agreeing to the Young (AK) amendment (A050) Agreed to by recorded vote: 313 - 117 (Roll no. 74). (consideration: CR H1085)
+- 2011-02-17 — On motion that the Committee rise Agreed to by voice vote.
+- 2011-02-17 — On motion that the Committee rise Agreed to by voice vote.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Camp amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Camp demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Canseco amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Canseco demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Carter amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Moran (VA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cole amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Frank(MA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Dicks demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Heller amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Heller demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Holt amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Holt demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kline amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Kline demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lummis amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Moran (VA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McCollum amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nadler amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pence amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Pence demanded a recorded vote and the Chai r postponed further proceedings on the question of adoption of the amendment until a time to be announced
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Price (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. George Miller (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Price (NC) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Aderholt demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scalise amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Carter demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sessions amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Olver demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Walden amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Walden demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Weiner amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Cravaack demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Woolsey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Woolsey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — Roll call votes on amendments in House
+- 2011-02-17 — The Committee resumed its sitting and continued with debate on the Pence amendment.
+- 2011-02-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-02-18 — AMENDMENTS IN ORDER - Pursuant to a previous order of the House, during further consideration of HR. 1 in the Committee of the Whole and pursuant to H. Res. 92, the following amendments are in order: Nos. 8, 13, 19, 23, 27, 38, 42, 46, 47, 48, 49, 51, 54, 55, 79, 80, 83, 88, 89, 94, 99, 101, 104, 109, 117, 120, 126, 127, 137, 141, 144, 145, 146, 149, 151, 154, 159, 164, 166, 172, 174, 177, 185, 199, 200, 207, 216, 217, 233, 241, 246, 251, 255, 261, 263, 266, 267, 268, 273, 274, 278, 280, 281, 296, 323, 329, 330, 331, 333, 336, 342, 344, 345, 348, 367, 369, 377, 392, 396, 400, 401, 405, 408, 409, 414, 424, 429, 430, 439, 445, 448, 463, 464, 465, 466, 467, 471, 480, 482, 483, 495, 496, 497, 498, 504, 507, 515, 519, 524, 525, 526, 533, 534, 536, 540, 543, 545, 548, 552, 560, 563, 566, 567, 569, 570, 575, 577, 578, and 583.
+- 2011-02-18 — Amendment (A086) offered by Mr. Young (AK). (consideration: CR 2/17/2011 H1182-1183; text: CR 2/17/2011 H1182)
+- 2011-02-18 — Amendment (A087) offered by Mr. Nadler. (consideration: CR 2/17/2011 H1183-1184; text: CR 2/17/2011 H1183)
+- 2011-02-18 — Amendment (A088) offered by Mr. Fortenberry. (consideration: CR 2/17/2011 H1184-1185; text: CR 2/17/2011 H1184)
+- 2011-02-18 — Amendment (A089) offered by Mr. Hastings (FL). (consideration: CR 2/17/2011 H1185-1186; text: CR 2/17/2011 H1185)
+- 2011-02-18 — Amendment (A090) offered by Mr. Fortenberry. (consideration: CR 2/17/2011 H1186; text: CR 2/17/2011 H1186)
+- 2011-02-18 — Amendment (A091) offered by Mr. Poe (TX). (consideration: CR 2/17/2011 H1186-1189; text: CR 2/17/2011 H1186)
+- 2011-02-18 — Amendment (A092) offered by Mr. Rehberg. (consideration: CR H1202-1213; text: CR H1202)
+- 2011-02-18 — Amendment (A092) offered by Mr. Rehberg. (consideration: CR H1237-1238)
+- 2011-02-18 — Amendment (A093) offered by Mr. King (IA). (consideration: CR H1213-1215; text: CR H1213)
+- 2011-02-18 — Amendment (A094) offered by Mr. King (IA). (consideration: CR H1215-1217; text: CR H1215)
+- 2011-02-18 — Amendment (A095) offered by Mr. King (IA). (consideration: CR H1217-1219; text: CR H1217)
+- 2011-02-18 — Amendment (A096) offered by Mrs. Emerson. (consideration: CR H1219-1221; text: CR H1220)
+- 2011-02-18 — Amendment (A097) offered by Mr. Schrader. (consideration: CR H1221-1222; text: CR H1221)
+- 2011-02-18 — Amendment (A098) offered by Mr. Kind. (consideration: CR H1222-1223; text: CR H1222)
+- 2011-02-18 — Amendment (A099) offered by Mr. Kind. (consideration: CR H1223-1224, H1241; text: CR H1223)
+- 2011-02-18 — Amendment (A100) offered by Mr. Polis. (consideration: CR H1224-1225; text: CR H1224-1225)
+- 2011-02-18 — Amendment (A101) offered by Mrs. Blackburn. (consideration: CR H1226-1227, H1227-1231, H1241-1242; text: CR H1226)
+- 2011-02-18 — Amendment (A102) offered by Mr. Poe (TX). (consideration: CR H1231-1232; text: CR H1231)
+- 2011-02-18 — Amendment (A103) offered by Mr. Bishop (NY). (consideration: CR H1243-1244; text: CR H1243)
+- 2011-02-18 — Amendment (A104) offered by Mr. Bishop (NY). (consideration: CR H1245-1246, H1293-1294; text: CR H1245)
+- 2011-02-18 — Amendment (A105) offered by Mr. Campbell. (consideration: CR H1246-1247, H1294; text: CR H1246)
+- 2011-02-18 — Amendment (A106) offered by Mr. Broun (GA). (consideration: CR H1247-1249, H1294-1295; text: CR H1247)
+- 2011-02-18 — Amendment (A107) offered by Mr. Broun (GA). (consideration: CR H1249, H1295-1296; text: CR H1249)
+- 2011-02-18 — Amendment (A108) offered by Mr. Wu. (consideration: CR H1257-1258, H1296; text: CR H1257)
+- 2011-02-18 — Amendment (A109) offered by Mr. Markey. (consideration: CR H1258-1261, H1296-1297; text: CR H1258)
+- 2011-02-18 — Amendment (A110) offered by Mr. Price (GA). (consideration: CR H1261-1262, H1297-1298; text: CR H1261)
+- 2011-02-18 — Amendment (A111) offered by Mr. McClintock. (consideration: CR H1262-1265, H1298; text: CR H1262)
+- 2011-02-18 — Amendment (A112) offered by Mr. McDermott. (consideration: CR H1265-1268, H1298-1299; text: CR H1265)
+- 2011-02-18 — Amendment (A113) offered by Mr. Herger. (consideration: CR H1268-1269, H1299-1300; text: CR H1268)
+- 2011-02-18 — Amendment (A114) offered by Mr. Blumenauer. (consideration: CR H1269-1271, H1300; text: CR H1269)
+- 2011-02-18 — Amendment (A115) offered by Mr. Clyburn. (consideration: CR H1271; text: CR H1271)
+- 2011-02-18 — Amendment (A116) offered by Mr. Boren. (consideration: CR H1271-1273, H1300-1301; text: CR H1272)
+- 2011-02-18 — Amendment (A117) offered by Mr. Forbes. (consideration: CR H1273-1275; text: CR H1273)
+- 2011-02-18 — Amendment (A118) offered by Mr. Forbes. (consideration: CR H1275, H1301; text: CR H1275)
+- 2011-02-18 — Amendment (A119) offered by Ms. Kaptur. (consideration: CR H1275-1277, H1302; text: CR H1275)
+- 2011-02-18 — Amendment (A120) offered by Mr. Polis. (consideration: CR H1277-1279, H1302-1303; text: CR H1277)
+- 2011-02-18 — Amendment (A121) offered by Mr. Johnson (OH). (consideration: CR H1279-1280, H1303-1304; text: CR H1279)
+- 2011-02-18 — Amendment (A122) offered by Mr. Reed. (consideration: CR H1280; text: CR H1280)
+- 2011-02-18 — Amendment (A123) offered by Mr. Matheson. (consideration: CR H1280; text: CR H1280)
+- 2011-02-18 — Amendment (A124) offered by Mr. Matheson. (consideration: CR H1280-1281; text: CR H1280)
+- 2011-02-18 — Amendment (A125) offered by Mrs. McMorris Rodgers. (consideration: CR H1281-1282; text: CR H1281)
+- 2011-02-18 — Amendment (A126) offered by Mr. Goodlatte. (consideration: CR H1282-1284, H1304; text: CR H1282)
+- 2011-02-18 — Amendment (A127) offered by Mr. Matheson. (consideration: CR H1284-1285; text: CR H1284)
+- 2011-02-18 — Amendment (A128) offered by Mr. Gardner. (consideration: CR H1285-1286, H1304-1305; text: CR H1285)
+- 2011-02-18 — Amendment (A130) offered by Mr. Weiner. (consideration: CR H1288; text: CR H1288)
+- 2011-02-18 — Amendment (A131) offered by Mr. Weiner. (consideration: CR H1288; text: CR H1288)
+- 2011-02-18 — Amendment (A132) offered by Mr. Neugebauer. (consideration: CR H1289-1290, H1305; text: CR H1289)
+- 2011-02-18 — Amendment (A133) offered by Mr. Rooney. (consideration: CR H1290-1291, H1305-1306; text: CR H1290)
+- 2011-02-18 — Amendment (A134) offered by Mr. Stearns. (consideration: CR H1291-1293, H1306-1307; text: CR H1291)
+- 2011-02-18 — Amendment (A135) offered by Mr. Flake. (consideration: CR H1308, H1329-1330; text: CR H1308)
+- 2011-02-18 — Amendment (A136) offered by Mr. Flake. (consideration: CR H1308; text: CR H1308)
+- 2011-02-18 — Amendment (A137) offered by Mr. Guinta. (consideration: CR H1308-1310, H1330; text: CR H1308)
+- 2011-02-18 — Amendment (A138) offered by Mr. Hall. (consideration: CR H1310-1311, H1330-1331; text: CR H1310)
+- 2011-02-18 — Amendment (A139) offered by Mr. Kucinich. (consideration: CR H1311-1312; text: CR H1311)
+- 2011-02-18 — Amendment (A140) offered by Ms. Lee (CA). (consideration: CR H1312, H1331-1332; text: CR H1312)
+- 2011-02-18 — Amendment (A141) offered by Mr. Griffith (VA). (consideration: CR H1312-1313, H1332; text: CR H1312)
+- 2011-02-18 — Amendment (A142) offered by Mr. Jones. (consideration: CR H1313-1314, H1332-1333; text: CR H1313)
+- 2011-02-18 — Amendment (A143) offered by Mr. Luetkemeyer. (consideration: CR H1314-1315, H1333-1334; text: CR H1314)
+- 2011-02-18 — Amendment (A144) offered by Mr. Luetkemeyer. (consideration: CR H1315-1316, H1334; text: CR H1315)
+- 2011-02-18 — Amendment (A145) offered by Mr. Issa. (consideration: CR H1316-1317, H1334-1335; text: CR H1316)
+- 2011-02-18 — Amendment (A146) offered by Mr. Sullivan. (consideration: CR H1317-1318, H1335-1336; text: CR H1317)
+- 2011-02-18 — Amendment (A147) offered by Mr. McKinley. (consideration: CR H1318-1319, H1336; text: CR H1318)
+- 2011-02-18 — Amendment (A148) offered by Mr. McKinley. (consideration: CR H1319-1320, H1336-1337; text: CR H1319)
+- 2011-02-18 — Amendment (A149) offered by Mr. Pompeo. (consideration: CR H1320-1322, H1337-1338; text: CR H1320)
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment agreed to Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendment failed in Committee of the Whole
+- 2011-02-18 — Amendments en bloc (A129) offered by Ms. Kaptur. (consideration: CR H1286-1288; text en bloc: CR H1286-1287)
+- 2011-02-18 — By unanimous consent, the Flake amendment was withdrawn. (consideration: CR H1308)
+- 2011-02-18 — By unanimous consent, the Fortenberry amendment was withdrawn. (consideration: CR 2/17/2011 H1186)
+- 2011-02-18 — By unanimous consent, the Polis amendment was withdrawn. (consideration: CR H1225)
+- 2011-02-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 1 as unfinished business.
+- 2011-02-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 1 as unfinished business.
+- 2011-02-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 1 as unfinished business.
+- 2011-02-18 — Considered as unfinished business. (consideration: CR 2/17/2011 H1181, H1182-1189)
+- 2011-02-18 — Considered as unfinished business. (consideration: CR H1202-1227, H1227-1244)
+- 2011-02-18 — Considered as unfinished business. (consideration: CR H1244-1249, H1255-1308)
+- 2011-02-18 — Considered as unfinished business. (consideration: CR H1308-1357)
+- 2011-02-18 — DEBATE - At the conclusion of debate on the Johnson (OH) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Garamendi demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Bishop (NY) amendment number 336, pending reservation of a point of order.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Bishop (NY) amendment number 414.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer amendment number 323.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Boren amendment number 566.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Broun (GA) amendment number 246.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Broun (GA) amendment number 263.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Campbell amendment number 519.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Clyburn amendment number 408, pending the reservation of a point of order.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Emerson amendment number 83.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Forbes amendment number 145.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Forbes amendment number 146.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Fortenberry amendment number 424.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Fortenberry amendment number 483 pending reservation of a point of order.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Gardner amendment number 79.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Goodlatte amendment number 467.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (FL) amendment number 23.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Herger amendment number 177.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (OH) amendment number 498.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Kaptur amendment number 333.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Kaptur amendments en bloc, pending the reservation of a point of order.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Kind amendment number 88.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Kind amendment number 89.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment number 266, pending reservation of a point of order.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment number 267.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment number 268, pending the reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Matheson amendment number 38.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Matheson amendment number 496.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Matheson amendment number 497.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment number 296.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the McDermott amendment number 99, pending the reservation of a point of order. Subsequently, the reservation of the point of order was withdrawn.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the McMorris Rodgers amendment number 274, pending the reservation of a point of order.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler amendment number 524.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Neugebauer amendment number 151.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Poe amendment number 199, pending the reservation of a point of order.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment number 46.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment number 48.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Price (GA) amendment number 409.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Reed amendment number 583.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Rooney amendment number 13.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Schrader amendment number 552, pending the reservation of a point of order.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Stearns amendment number 8.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Weiner amendment number 101.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Weiner amendment number 126.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Wu amendment number 526.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Young (AK) amendment number 533.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 20 minutes of debate on the Markey (MA) amendment number 27.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 20 minutes of debate on the Poe amendment number 466.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 20 minutes of debate on the Pompeo amendment number 545.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 30 minutes of debate on the Blackburn amendment number 104.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Flake amendment number 377.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Griffith (VA) amendment number 109.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Guinta amendment number 166.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Hall(TX) amendment number 495.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Issa amendment number 569.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Jones amendment number 548.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Kucinich amendment number 233.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Lee (CA) amendment number 141.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Luetkemeyer amendment number 149.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Luetkemeyer amendment number 47.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the McKinley amendment number 216.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the McKinley amendment number 217.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Sullivan amendment number 94.
+- 2011-02-18 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 60 minutes of debate on the Rehberg amendment.
+- 2011-02-18 — DEBATE - The Committee continued with further debate on the Blackburn amendment number 104.
+- 2011-02-18 — House amendment agreed to: On agreeing to the Boren amendment (A116) Agreed to by recorded vote: 277 - 149 (Roll no. 115).
+- 2011-02-18 — House amendment agreed to: On agreeing to the Emerson amendment (A096) Agreed to by recorded vote: 246 - 182 (Roll no. 100).(consideration: CR H1239-1240)
+- 2011-02-18 — House amendment agreed to: On agreeing to the Forbes amendment (A117) Agreed to by voice vote.
+- 2011-02-18 — House amendment agreed to: On agreeing to the Forbes amendment (A118) Agreed to by recorded vote: 241 - 184 (Roll no. 116).
+- 2011-02-18 — House amendment agreed to: On agreeing to the Fortenberry amendment (A088) Agreed to by voice vote.
+- 2011-02-18 — House amendment agreed to: On agreeing to the Gardner amendment (A128) Agreed to by recorded vote: 241 - 184 (Roll no. 121).
+- 2011-02-18 — House amendment agreed to: On agreeing to the Goodlatte amendment (A126) Agreed to by recorded vote: 230 - 195 (Roll no. 120).
+- 2011-02-18 — House amendment agreed to: On agreeing to the Hastings (FL) amendment (A089) Agreed to by voice vote.
+- 2011-02-18 — House amendment agreed to: On agreeing to the Herger amendment (A113) Agreed to by recorded vote: 227 - 197 (Roll no. 113).
+- 2011-02-18 — House amendment agreed to: On agreeing to the Johnson (OH) amendment (A121) Agreed to by recorded vote: 239 - 186 (Roll no. 119).
+- 2011-02-18 — House amendment agreed to: On agreeing to the King (IA) amendment (A094) Agreed to by recorded vote: 241 - 187 (Roll no. 98).(consideration: CR H1238-1239)
+- 2011-02-18 — House amendment agreed to: On agreeing to the King (IA) amendment (A095) Agreed to by recorded vote: 237 - 191 (Roll no. 99).(consideration: CR H1239)
+- 2011-02-18 — House amendment agreed to: On agreeing to the Kline amendment (A084) Agreed to by recorded vote: 289 - 136, 1 Present (Roll no. 92).(consideration: CR H1234-1235)
+- 2011-02-18 — House amendment agreed to: On agreeing to the Matheson amendment Agreed to by voice vote.
+- 2011-02-18 — House amendment agreed to: On agreeing to the McClintock amendment (A111) Agreed to by recorded vote: 215 - 210 (Roll no. 111).
+- 2011-02-18 — House amendment agreed to: On agreeing to the Pence amendment (A085) Agreed to by recorded vote: 240 - 185, 1 Present (Roll no. 93).(consideration: CR H1235)
+- 2011-02-18 — House amendment agreed to: On agreeing to the Poe (TX) amendment (A091) Agreed to by recorded vote: 249 - 177 (Roll no. 96).(consideration: CR H1237)
+- 2011-02-18 — House amendment agreed to: On agreeing to the Price (GA) amendment (A110) Agreed to by recorded vote: 241 - 185 (Roll no. 110).
+- 2011-02-18 — House amendment agreed to: On agreeing to the Reed amendment (A122) Agreed to by voice vote.
+- 2011-02-18 — House amendment agreed to: On agreeing to the Rehberg amendment Agreed to by recorded vote: 239 - 187 (Roll no. 97).(consideration: CR H1237-1238)
+- 2011-02-18 — House amendment agreed to: On agreeing to the Rooney amendment (A133) Agreed to by recorded vote: 237 - 189 (Roll no. 123).
+- 2011-02-18 — House amendment agreed to: On agreeing to the Stearns amendment (A134) Agreed to by recorded vote: 231 - 191 (Roll no. 124).
+- 2011-02-18 — House amendment agreed to: On agreeing to the Weiner amendment (A130) Agreed to by voice vote.
+- 2011-02-18 — House amendment agreed to: On agreeing to the Weiner amendment (A131) Agreed to by voice vote.
+- 2011-02-18 — House amendment agreed to: On agreeing to the Young (AK) amendment (A086) Agreed to by recorded vote: 243 - 185 (Roll no. 94).(consideration: CR H1235-1236)
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Bishop (NY) amendment (A104) Failed by recorded vote: 156 - 269 (Roll no. 104).
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Blackburn amendment (A101) Failed by recorded vote: 147 - 281 (Roll no. 103).(consideration: CR H1241-1242)
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Blumenauer amendment (A114) Failed by recorded vote: 185 - 241 (Roll no. 114).
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A106) Failed by recorded vote: 74 - 348 (Roll no. 106).
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A107) Failed by recorded vote: 177 - 243 (Roll no. 107).
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Campbell amendment (A105) Failed by recorded vote: 68 - 357 (Roll no. 105).
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Kaptur amendment (A119) Failed by recorded vote: 32 - 394 (Roll no. 117).
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Kind amendment (A098) Failed by recorded vote: 183 - 246 (Roll no. 101).(consideration: CR H1240-1241)
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Kind amendment (A099) Failed by recorded vote: 123 - 306 (Roll no. 102).(consideration: CR H1241)
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Kucinich amendment (A139) Failed by voice vote.
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Markey amendment (A109) Failed by recorded vote: 174 - 251 (Roll no. 109).
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Matheson amendment Failed by voice vote.
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Matheson amendment Failed by voice vote.
+- 2011-02-18 — House amendment not agreed to: On agreeing to the McCollum amendment (A082) Failed by recorded vote: 148 - 281 (Roll no. 90).(consideration: CR H1232-1233)
+- 2011-02-18 — House amendment not agreed to: On agreeing to the McDermott amendment (A112) Failed by recorded vote: 91 - 333 (Roll no. 112).
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Nadler amendment (A083) Failed by recorded vote: 98 - 331 (Roll no. 91).(consideration: CR H1233-1234)
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Nadler amendment (A087) Failed by recorded vote: 196 - 231 (Roll no. 95).(consideration: CR H1236-1237)
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Neugebauer amendment (A132) Failed by recorded vote: 63 - 362 (Roll no. 122).
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Polis amendment (A120) Failed by recorded vote: 74 - 351 (Roll no. 118).
+- 2011-02-18 — House amendment not agreed to: On agreeing to the Wu amendment (A108) Failed by recorded vote: 87 - 338 (Roll no. 108).
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered
+- 2011-02-18 — House amendment offered/reported by: Amendment (A086) offered by Mr. Young (AK).(consideration: CR 2/17/2011 H1182-1183; text: CR 2/17/2011 H1182)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A087) offered by Mr. Nadler.(consideration: CR 2/17/2011 H1183-1184; text: CR 2/17/2011 H1183)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A088) offered by Mr. Fortenberry.(consideration: CR 2/17/2011 H1184-1185; text: CR 2/17/2011 H1184)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A089) offered by Mr. Hastings (FL).(consideration: CR 2/17/2011 H1185-1186; text: CR 2/17/2011 H1185)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A090) offered by Mr. Fortenberry.(consideration: CR 2/17/2011 H1186; text: CR 2/17/2011 H1186)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A091) offered by Mr. Poe (TX).(consideration: CR 2/17/2011 H1186-1189; text: CR 2/17/2011 H1186)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A092) offered by Mr. Rehberg.(consideration: CR H1202-1213; text: CR H1202)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A092) offered by Mr. Rehberg.(consideration: CR H1237-1238)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A093) offered by Mr. King (IA).(consideration: CR H1213-1215; text: CR H1213)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A094) offered by Mr. King (IA).(consideration: CR H1215-1217; text: CR H1215)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A095) offered by Mr. King (IA).(consideration: CR H1217-1219; text: CR H1217)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A096) offered by Mrs. Emerson.(consideration: CR H1219-1221; text: CR H1220)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A097) offered by Mr. Schrader.(consideration: CR H1221-1222; text: CR H1221)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A098) offered by Mr. Kind.(consideration: CR H1222-1223; text: CR H1222)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A099) offered by Mr. Kind.(consideration: CR H1223-1224, H1241; text: CR H1223)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A100) offered by Mr. Polis.(consideration: CR H1224-1225; text: CR H1224-1225)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A101) offered by Mrs. Blackburn.(consideration: CR H1226-1227, H1227-1231, H1241-1242; text: CR H1226)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A102) offered by Mr. Poe (TX).(consideration: CR H1231-1232; text: CR H1231)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A103) offered by Mr. Bishop (NY).(consideration: CR H1243-1244; text: CR H1243)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A104) offered by Mr. Bishop (NY).(consideration: CR H1245-1246, H1293-1294; text: CR H1245)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A105) offered by Mr. Campbell.(consideration: CR H1246-1247, H1294; text: CR H1246)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A106) offered by Mr. Broun (GA).(consideration: CR H1247-1249, H1294-1295; text: CR H1247)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A107) offered by Mr. Broun (GA).(consideration: CR H1249, H1295-1296; text: CR H1249)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A108) offered by Mr. Wu.(consideration: CR H1257-1258, H1296; text: CR H1257)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A109) offered by Mr. Markey.(consideration: CR H1258-1261, H1296-1297; text: CR H1258)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A110) offered by Mr. Price (GA).(consideration: CR H1261-1262, H1297-1298; text: CR H1261)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A111) offered by Mr. McClintock.(consideration: CR H1262-1265, H1298; text: CR H1262)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A112) offered by Mr. McDermott.(consideration: CR H1265-1268, H1298-1299; text: CR H1265)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A113) offered by Mr. Herger.(consideration: CR H1268-1269, H1299-1300; text: CR H1268)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A114) offered by Mr. Blumenauer.(consideration: CR H1269-1271, H1300; text: CR H1269)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A115) offered by Mr. Clyburn.(consideration: CR H1271; text: CR H1271)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A116) offered by Mr. Boren.(consideration: CR H1271-1273, H1300-1301; text: CR H1272)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A117) offered by Mr. Forbes.(consideration: CR H1273-1275; text: CR H1273)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A118) offered by Mr. Forbes.(consideration: CR H1275, H1301; text: CR H1275)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A119) offered by Ms. Kaptur.(consideration: CR H1275-1277, H1302; text: CR H1275)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A120) offered by Mr. Polis.(consideration: CR H1277-1279, H1302-1303; text: CR H1277)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A121) offered by Mr. Johnson (OH).(consideration: CR H1279-1280, H1303-1304; text: CR H1279)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A122) offered by Mr. Reed.(consideration: CR H1280; text: CR H1280)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A123) offered by Mr. Matheson.(consideration: CR H1280; text: CR H1280)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A124) offered by Mr. Matheson.(consideration: CR H1280-1281; text: CR H1280)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A125) offered by Mrs. McMorris Rodgers.(consideration: CR H1281-1282; text: CR H1281)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A126) offered by Mr. Goodlatte.(consideration: CR H1282-1284, H1304; text: CR H1282)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A127) offered by Mr. Matheson.(consideration: CR H1284-1285; text: CR H1284)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A128) offered by Mr. Gardner.(consideration: CR H1285-1286, H1304-1305; text: CR H1285)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A130) offered by Mr. Weiner.(consideration: CR H1288; text: CR H1288)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A131) offered by Mr. Weiner.(consideration: CR H1288; text: CR H1288)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A132) offered by Mr. Neugebauer.(consideration: CR H1289-1290, H1305; text: CR H1289)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A133) offered by Mr. Rooney.(consideration: CR H1290-1291, H1305-1306; text: CR H1290)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A134) offered by Mr. Stearns.(consideration: CR H1291-1293, H1306-1307; text: CR H1291)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A135) offered by Mr. Flake.(consideration: CR H1308, H1329-1330; text: CR H1308)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A136) offered by Mr. Flake.(consideration: CR H1308; text: CR H1308)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A137) offered by Mr. Guinta.(consideration: CR H1308-1310, H1330; text: CR H1308)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A138) offered by Mr. Hall.(consideration: CR H1310-1311, H1330-1331; text: CR H1310)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A139) offered by Mr. Kucinich.(consideration: CR H1311-1312; text: CR H1311)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A140) offered by Ms. Lee (CA).(consideration: CR H1312, H1331-1332; text: CR H1312)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A141) offered by Mr. Griffith (VA).(consideration: CR H1312-1313, H1332; text: CR H1312)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A142) offered by Mr. Jones.(consideration: CR H1313-1314, H1332-1333; text: CR H1313)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A143) offered by Mr. Luetkemeyer.(consideration: CR H1314-1315, H1333-1334; text: CR H1314)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A144) offered by Mr. Luetkemeyer.(consideration: CR H1315-1316, H1334; text: CR H1315)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A145) offered by Mr. Issa.(consideration: CR H1316-1317, H1334-1335; text: CR H1316)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A146) offered by Mr. Sullivan.(consideration: CR H1317-1318, H1335-1336; text: CR H1317)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A147) offered by Mr. McKinley.(consideration: CR H1318-1319, H1336; text: CR H1318)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A148) offered by Mr. McKinley.(consideration: CR H1319-1320, H1336-1337; text: CR H1319)
+- 2011-02-18 — House amendment offered/reported by: Amendment (A149) offered by Mr. Pompeo.(consideration: CR H1320-1322, H1337-1338; text: CR H1320)
+- 2011-02-18 — House amendment offered/reported by: Amendments en bloc (A129) offered by Ms. Kaptur.(consideration: CR H1286-1288; text en bloc: CR H1286-1287)
+- 2011-02-18 — Mr. Aderholt raised a point of order against the Bishop (NY) amendment (A103). stating that the amendment seeks to change existing law and constitutes legislation in an appropriation bill. The Chair sustained the point of order.
+- 2011-02-18 — Mr. Carter moved that the Committee rise.
+- 2011-02-18 — Mr. Fattah raised a point of order against the Poe (TX) amendment (A102). Mr. Fattah stated that the amendment seeks to change existing law and constitutes legislation in an appropriations bill. The Chair sustained the point of order.
+- 2011-02-18 — Mr. Frelinghuysen raised a point of order against the Clyburn amendment (A115). Mr. Frelinghuysen states that the amendment seeks to change existing law and constitutes legislation in an appropriation bill. The Chair sustained the point of order.
+- 2011-02-18 — Mr. Rogers (KY) moved that the committee rise.
+- 2011-02-18 — Mr. Rogers (KY) moved that the committee rise.
+- 2011-02-18 — Mr. Rogers (KY) raised a point of order against the Kaptur amendments (A129). Mr. Rogers (KY) stated that the provisions of the amendments violate the Budget Act. The Chair sustained the point of order.
+- 2011-02-18 — Mr. Rogers (KY) raised a point of order against the Schrader amendment (A097). Mr. Rogers (KY) stated that the amendment seeks to change existing law and constitutes legislation in an appropriationbill. The Chair sustained the point of order.
+- 2011-02-18 — Mr. Serrano raised a point of order against the McMorris Rodgers amendment (A125). Mr. Serrano stated that the provisions of the amendment violate the Budget Act. The Chair sustained the point of order.
+- 2011-02-18 — Ms. DeLauro raised a point of order against the King (IA) amendment (A093). Ms. DeLauro stated that the amendment seeks to change existing law and constitutes legislation in an appropriation bill. The Chair sustained the point of order.
+- 2011-02-18 — Ms. DeLauro raised a point of order against the Rehberg amendment (A092). Ms. Delauro stated that the amendment proposes an increase in net budget authority in the bill. Point of order overruled by the Chair.
+- 2011-02-18 — On agreeing to the Bishop (NY) amendment (A104) Failed by recorded vote: 156 - 269 (Roll no. 104).
+- 2011-02-18 — On agreeing to the Blackburn amendment (A101) Failed by recorded vote: 147 - 281 (Roll no. 103). (consideration: CR H1241-1242)
+- 2011-02-18 — On agreeing to the Blumenauer amendment (A114) Failed by recorded vote: 185 - 241 (Roll no. 114).
+- 2011-02-18 — On agreeing to the Boren amendment (A116) Agreed to by recorded vote: 277 - 149 (Roll no. 115).
+- 2011-02-18 — On agreeing to the Broun (GA) amendment (A106) Failed by recorded vote: 74 - 348 (Roll no. 106).
+- 2011-02-18 — On agreeing to the Broun (GA) amendment (A107) Failed by recorded vote: 177 - 243 (Roll no. 107).
+- 2011-02-18 — On agreeing to the Campbell amendment (A105) Failed by recorded vote: 68 - 357 (Roll no. 105).
+- 2011-02-18 — On agreeing to the Emerson amendment (A096) Agreed to by recorded vote: 246 - 182 (Roll no. 100). (consideration: CR H1239-1240)
+- 2011-02-18 — On agreeing to the Forbes amendment (A117) Agreed to by voice vote.
+- 2011-02-18 — On agreeing to the Forbes amendment (A118) Agreed to by recorded vote: 241 - 184 (Roll no. 116).
+- 2011-02-18 — On agreeing to the Fortenberry amendment (A088) Agreed to by voice vote.
+- 2011-02-18 — On agreeing to the Gardner amendment (A128) Agreed to by recorded vote: 241 - 184 (Roll no. 121).
+- 2011-02-18 — On agreeing to the Goodlatte amendment (A126) Agreed to by recorded vote: 230 - 195 (Roll no. 120).
+- 2011-02-18 — On agreeing to the Hastings (FL) amendment (A089) Agreed to by voice vote.
+- 2011-02-18 — On agreeing to the Herger amendment (A113) Agreed to by recorded vote: 227 - 197 (Roll no. 113).
+- 2011-02-18 — On agreeing to the Johnson (OH) amendment (A121) Agreed to by recorded vote: 239 - 186 (Roll no. 119).
+- 2011-02-18 — On agreeing to the Kaptur amendment (A119) Failed by recorded vote: 32 - 394 (Roll no. 117).
+- 2011-02-18 — On agreeing to the Kind amendment (A098) Failed by recorded vote: 183 - 246 (Roll no. 101). (consideration: CR H1240-1241)
+- 2011-02-18 — On agreeing to the Kind amendment (A099) Failed by recorded vote: 123 - 306 (Roll no. 102). (consideration: CR H1241)
+- 2011-02-18 — On agreeing to the King (IA) amendment (A094) Agreed to by recorded vote: 241 - 187 (Roll no. 98). (consideration: CR H1238-1239)
+- 2011-02-18 — On agreeing to the King (IA) amendment (A095) Agreed to by recorded vote: 237 - 191 (Roll no. 99). (consideration: CR H1239)
+- 2011-02-18 — On agreeing to the Kline amendment (A084) Agreed to by recorded vote: 289 - 136, 1 Present (Roll no. 92). (consideration: CR H1234-1235)
+- 2011-02-18 — On agreeing to the Kucinich amendment (A139) Failed by voice vote.
+- 2011-02-18 — On agreeing to the Markey amendment (A109) Failed by recorded vote: 174 - 251 (Roll no. 109).
+- 2011-02-18 — On agreeing to the Matheson amendment Agreed to by voice vote.
+- 2011-02-18 — On agreeing to the Matheson amendment Failed by voice vote.
+- 2011-02-18 — On agreeing to the Matheson amendment Failed by voice vote.
+- 2011-02-18 — On agreeing to the McClintock amendment (A111) Agreed to by recorded vote: 215 - 210 (Roll no. 111).
+- 2011-02-18 — On agreeing to the McCollum amendment (A082) Failed by recorded vote: 148 - 281 (Roll no. 90). (consideration: CR H1232-1233)
+- 2011-02-18 — On agreeing to the McDermott amendment (A112) Failed by recorded vote: 91 - 333 (Roll no. 112).
+- 2011-02-18 — On agreeing to the Nadler amendment (A083) Failed by recorded vote: 98 - 331 (Roll no. 91). (consideration: CR H1233-1234)
+- 2011-02-18 — On agreeing to the Nadler amendment (A087) Failed by recorded vote: 196 - 231 (Roll no. 95). (consideration: CR H1236-1237)
+- 2011-02-18 — On agreeing to the Neugebauer amendment (A132) Failed by recorded vote: 63 - 362 (Roll no. 122).
+- 2011-02-18 — On agreeing to the Pence amendment (A085) Agreed to by recorded vote: 240 - 185, 1 Present (Roll no. 93). (consideration: CR H1235)
+- 2011-02-18 — On agreeing to the Poe (TX) amendment (A091) Agreed to by recorded vote: 249 - 177 (Roll no. 96). (consideration: CR H1237)
+- 2011-02-18 — On agreeing to the Polis amendment (A120) Failed by recorded vote: 74 - 351 (Roll no. 118).
+- 2011-02-18 — On agreeing to the Price (GA) amendment (A110) Agreed to by recorded vote: 241 - 185 (Roll no. 110).
+- 2011-02-18 — On agreeing to the Reed amendment (A122) Agreed to by voice vote.
+- 2011-02-18 — On agreeing to the Rehberg amendment Agreed to by recorded vote: 239 - 187 (Roll no. 97). (consideration: CR H1237-1238)
+- 2011-02-18 — On agreeing to the Rooney amendment (A133) Agreed to by recorded vote: 237 - 189 (Roll no. 123).
+- 2011-02-18 — On agreeing to the Stearns amendment (A134) Agreed to by recorded vote: 231 - 191 (Roll no. 124).
+- 2011-02-18 — On agreeing to the Weiner amendment (A130) Agreed to by voice vote.
+- 2011-02-18 — On agreeing to the Weiner amendment (A131) Agreed to by voice vote.
+- 2011-02-18 — On agreeing to the Wu amendment (A108) Failed by recorded vote: 87 - 338 (Roll no. 108).
+- 2011-02-18 — On agreeing to the Young (AK) amendment (A086) Agreed to by recorded vote: 243 - 185 (Roll no. 94). (consideration: CR H1235-1236)
+- 2011-02-18 — On motion that the Committee rise Agreed to by voice vote.
+- 2011-02-18 — On motion that the committee rise Agreed to by voice vote.
+- 2011-02-18 — On motion that the committee rise Agreed to by voice vote.
+- 2011-02-18 — POINT OF ORDER - Ms. DeLauro reserved a point of order against the King (IA) amendment numbered 266 printed in the Congressional Record.
+- 2011-02-18 — POINT OF ORDER - Ms. Delauro reserved a point of order against the Rehberg amendment numbered 575 printed in the Congressional Record.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bishop (NY) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Bishop (NY) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mrs Blackburn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Blumenauer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boren amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Rehberg demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Broun (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Broun (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Broun (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Broun (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Campbell amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Campbell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Emerson amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Serrano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Forbes amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Dicks demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gardner amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Ms. DeLauro demanded a recorded vote and the Chai r postponed further proceedings on the question of adoption of the amendment until a time to be announced
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Goodlatte amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Moran (VA) demanded a recorded vote and the Chai r postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Griffith (VA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Moran demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Guinta amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Guinta demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hall(TX) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Dicks demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Herger amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Herger demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Issa amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Issa demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jones amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Jones demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kaptur amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kind amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Kind demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kind amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Kind demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Ms. DeLauro demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Ms. DeLauro demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee(CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Luetkemeyer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Waxman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Luetkemeyer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Luetkemeyer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Markey (MA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Markey (MA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. McClintock demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McDermott amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. McDermott demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McKinley amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. McKinley demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McKinley amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. McKinley demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Nadler amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Nadler demanded a recorded vote and the Chair postponed further proceedings on the adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Neugebauer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Neugebauer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Poe amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Poe demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Price (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Ms. DeLauro demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rehberg amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Rehberg demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rooney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Rooney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Stearns amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Stearns demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sullivan amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Sullivan demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Wu amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Wu demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Young (AK) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Moran demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-18 — Pursuant to the provisions of the unanimous consent agreement adopted just prior to midnight, the House proceeded with further consideration of H.R. 1.
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — Roll call votes on amendments in House
+- 2011-02-18 — The Committee resumed its sitting.
+- 2011-02-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-02-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-02-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-02-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-02-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings were postponed.
+- 2011-02-19 — Amendment (A150) offered by Mr. Bishop (UT). (consideration: CR 2/18/2011 H1322; text: CR 2/18/2011 H1322)
+- 2011-02-19 — Amendment (A151) offered by Mr. Burgess. (consideration: CR 2/18/2011 H1322-1323, H1338; text: CR 2/18/2011 H1322)
+- 2011-02-19 — Amendment (A152) offered by Mr. Heller. (consideration: CR 2/18/2011 H1323-1324, H1338-1339; text: CR 2/18/2011 H1323)
+- 2011-02-19 — Amendment (A153) offered by Mr. Heller. (consideration: CR 2/18/2011 H1324-1325; text: CR 2/18/2011 H1324)
+- 2011-02-19 — Amendment (A154) offered by Mrs. Noem. (consideration: CR 2/18/2011 H1325-1326, H1339; text: CR 2/18/2011 H1325)
+- 2011-02-19 — Amendment (A155) offered by Mr. Pitts. (consideration: CR 2/18/2011 H1326-1327, H1340; text: CR 2/18/2011 H1327)
+- 2011-02-19 — Amendment (A156) offered by Mr. Carney. (consideration: CR 2/18/2011 H1327-1328, H1340-1341; text: CR 2/18/2011 H1327)
+- 2011-02-19 — Amendment (A157) offered by Mr. Mulvaney. (consideration: CR 2/18/2011 H1328-1329, H1341-1342; text: CR 2/18/2011 H1328)
+- 2011-02-19 — Amendment (A158) offered by Mr. Huelskamp. (consideration: CR 2/18/2011 H1342; text: CR 2/18/2011 H1342)
+- 2011-02-19 — Amendment (A159) offered by Mr. King (IA). (consideration: CR 2/18/2011 H1342-1345, H1354; text: CR 2/18/2011 H1342)
+- 2011-02-19 — Amendment (A160) offered by Ms. Hayworth. (consideration: CR 2/18/2011 H1345-1346; text: CR 2/18/2011 H1345)
+- 2011-02-19 — Amendment (A161) offered by Mr. Burgess. (consideration: CR 2/18/2011 H1346-1349, H1354-1355; text: CR 2/18/2011 H1346)
+- 2011-02-19 — Amendment (A162) in the nature of a substitute offered by Mr. LaTourette. (consideration: CR 2/18/2011 H1349-1354; text: CR 2/18/2011 H1349-1351)
+- 2011-02-19 — Amendment agreed to Committee of the Whole
+- 2011-02-19 — Amendment agreed to Committee of the Whole
+- 2011-02-19 — Amendment agreed to Committee of the Whole
+- 2011-02-19 — Amendment agreed to Committee of the Whole
+- 2011-02-19 — Amendment agreed to Committee of the Whole
+- 2011-02-19 — Amendment agreed to Committee of the Whole
+- 2011-02-19 — Amendment agreed to Committee of the Whole
+- 2011-02-19 — Amendment agreed to Committee of the Whole
+- 2011-02-19 — Amendment agreed to Committee of the Whole
+- 2011-02-19 — Amendment agreed to Committee of the Whole
+- 2011-02-19 — Amendment agreed to Committee of the Whole
+- 2011-02-19 — Amendment agreed to Committee of the Whole
+- 2011-02-19 — Amendment agreed to Committee of the Whole
+- 2011-02-19 — Amendment agreed to Committee of the Whole
+- 2011-02-19 — Amendment agreed to Committee of the Whole
+- 2011-02-19 — Amendment failed in Committee of the Whole
+- 2011-02-19 — Amendment failed in Committee of the Whole
+- 2011-02-19 — Amendment failed in Committee of the Whole
+- 2011-02-19 — Amendment failed in Committee of the Whole
+- 2011-02-19 — Amendment failed in Committee of the Whole
+- 2011-02-19 — Amendment failed in Committee of the Whole
+- 2011-02-19 — Amendment failed in Committee of the Whole
+- 2011-02-19 — Amendment failed in Committee of the Whole
+- 2011-02-19 — By unanimous consent, the Bishop (UT) amendment was withdrawn. (consideration: CR 2/18/2011 H1322)
+- 2011-02-19 — By unanimous consent, the Huelskamp amendment was withdrawn. (consideration: CR 2/18/2011 H1342)
+- 2011-02-19 — By unanimous consent, the LaTourette amendment was withdrawn. (consideration: CR 2/18/2011 H1354)
+- 2011-02-19 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 30 minutes of debate on the LaTourette amendment number 540.
+- 2011-02-19 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 40 minutes of debate on the King (IA) amendment number 273.
+- 2011-02-19 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Bishop (UT) amendment number 515.
+- 2011-02-19 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Burgess amendment number 154.
+- 2011-02-19 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Burgess amendment number 200.
+- 2011-02-19 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Carney amendment number 241.
+- 2011-02-19 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Hayworth amendment number 567.
+- 2011-02-19 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Heller amendment number 174.
+- 2011-02-19 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Heller amendment number 482.
+- 2011-02-19 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Huelskamp amendment number 255.
+- 2011-02-19 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Mulvaney amendment number 164.
+- 2011-02-19 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Noem amendment number 563.
+- 2011-02-19 — DEBATE - Pursuant to a previous order of the House, the Committee of the Whole proceeded with 6 minutes of debate on the Pitts amendment number 430.
+- 2011-02-19 — DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions, pending the reservation of a point of order. Subsequently, the reservation was withdrawn.
+- 2011-02-19 — House amendment agreed to: On agreeing to the Burgess amendment (A151) Agreed to by recorded vote: 239 - 182 (Roll no. 138).
+- 2011-02-19 — House amendment agreed to: On agreeing to the Burgess amendment (A161) Agreed to by recorded vote: 235 - 187 (Roll no. 145).
+- 2011-02-19 — House amendment agreed to: On agreeing to the Flake amendment (A135) Agreed to by recorded vote: 261 - 158 (Roll no. 125).
+- 2011-02-19 — House amendment agreed to: On agreeing to the Griffith (VA) amendment (A141) Agreed to by recorded vote: 235 - 185 (Roll no. 129).
+- 2011-02-19 — House amendment agreed to: On agreeing to the Hall amendment (A138) Agreed to by recorded vote: 233 - 187 (Roll no. 127).
+- 2011-02-19 — House amendment agreed to: On agreeing to the Hayworth amendment (A160) Agreed to by voice vote.
+- 2011-02-19 — House amendment agreed to: On agreeing to the Jones amendment (A142) Agreed to by recorded vote: 259 - 159 (Roll no. 130).
+- 2011-02-19 — House amendment agreed to: On agreeing to the Luetkemeyer amendment (A143) Agreed to by recorded vote: 245 - 176 (Roll no. 131).
+- 2011-02-19 — House amendment agreed to: On agreeing to the Luetkemeyer amendment (A144) Agreed to by recorded vote: 244 - 179 (Roll no. 132).
+- 2011-02-19 — House amendment agreed to: On agreeing to the McKinley amendment (A147) Agreed to by recorded vote: 240 - 182 (Roll no. 135).
+- 2011-02-19 — House amendment agreed to: On agreeing to the McKinley amendment (A148) Agreed to by recorded vote: 239 - 183 (Roll no. 136).
+- 2011-02-19 — House amendment agreed to: On agreeing to the Noem amendment (A154) Agreed to by recorded vote: 255 - 168 (Roll no. 140).
+- 2011-02-19 — House amendment agreed to: On agreeing to the Pitts amendment (A155) Agreed to by recorded vote: 239 - 183 (Roll no. 141).
+- 2011-02-19 — House amendment agreed to: On agreeing to the Pompeo amendment (A149) Agreed to by recorded vote: 234 - 187 (Roll no. 137).
+- 2011-02-19 — House amendment agreed to: On agreeing to the Sullivan amendment (A146) Agreed to by recorded vote: 285 - 136 (Roll no. 134).
+- 2011-02-19 — House amendment not agreed to: On agreeing to the Carney amendment (A156) Failed by recorded vote: 121 - 300 (Roll no. 142).
+- 2011-02-19 — House amendment not agreed to: On agreeing to the Guinta amendment (A137) Failed by recorded vote: 210 - 210 (Roll no. 126).
+- 2011-02-19 — House amendment not agreed to: On agreeing to the Heller amendment (A152) Failed by recorded vote: 209 - 213 (Roll no. 139).
+- 2011-02-19 — House amendment not agreed to: On agreeing to the Heller amendment (A153) Failed by voice vote.
+- 2011-02-19 — House amendment not agreed to: On agreeing to the Issa amendment (A145) Failed by recorded vote: 191 - 230 (Roll no. 133).
+- 2011-02-19 — House amendment not agreed to: On agreeing to the King (IA) amendment (A159) Failed by recorded vote: 189 - 233 (Roll no. 144).
+- 2011-02-19 — House amendment not agreed to: On agreeing to the Lee (CA) amendment (A140) Failed by recorded vote: 76 - 344 (Roll no. 128).
+- 2011-02-19 — House amendment not agreed to: On agreeing to the Mulvaney amendment (A157) Failed by recorded vote: 93 - 328 (Roll no. 143).
+- 2011-02-19 — House amendment offered
+- 2011-02-19 — House amendment offered
+- 2011-02-19 — House amendment offered
+- 2011-02-19 — House amendment offered
+- 2011-02-19 — House amendment offered
+- 2011-02-19 — House amendment offered
+- 2011-02-19 — House amendment offered
+- 2011-02-19 — House amendment offered
+- 2011-02-19 — House amendment offered
+- 2011-02-19 — House amendment offered
+- 2011-02-19 — House amendment offered
+- 2011-02-19 — House amendment offered
+- 2011-02-19 — House amendment offered
+- 2011-02-19 — House amendment offered/reported by: Amendment (A150) offered by Mr. Bishop (UT).(consideration: CR 2/18/2011 H1322; text: CR 2/18/2011 H1322)
+- 2011-02-19 — House amendment offered/reported by: Amendment (A151) offered by Mr. Burgess.(consideration: CR 2/18/2011 H1322-1323, H1338; text: CR 2/18/2011 H1322)
+- 2011-02-19 — House amendment offered/reported by: Amendment (A152) offered by Mr. Heller.(consideration: CR 2/18/2011 H1323-1324, H1338-1339; text: CR 2/18/2011 H1323)
+- 2011-02-19 — House amendment offered/reported by: Amendment (A153) offered by Mr. Heller.(consideration: CR 2/18/2011 H1324-1325; text: CR 2/18/2011 H1324)
+- 2011-02-19 — House amendment offered/reported by: Amendment (A154) offered by Mrs. Noem.(consideration: CR 2/18/2011 H1325-1326, H1339; text: CR 2/18/2011 H1325)
+- 2011-02-19 — House amendment offered/reported by: Amendment (A155) offered by Mr. Pitts.(consideration: CR 2/18/2011 H1326-1327, H1340; text: CR 2/18/2011 H1327)
+- 2011-02-19 — House amendment offered/reported by: Amendment (A156) offered by Mr. Carney.(consideration: CR 2/18/2011 H1327-1328, H1340-1341; text: CR 2/18/2011 H1327)
+- 2011-02-19 — House amendment offered/reported by: Amendment (A157) offered by Mr. Mulvaney.(consideration: CR 2/18/2011 H1328-1329, H1341-1342; text: CR 2/18/2011 H1328)
+- 2011-02-19 — House amendment offered/reported by: Amendment (A158) offered by Mr. Huelskamp.(consideration: CR 2/18/2011 H1342; text: CR 2/18/2011 H1342)
+- 2011-02-19 — House amendment offered/reported by: Amendment (A159) offered by Mr. King (IA).(consideration: CR 2/18/2011 H1342-1345, H1354; text: CR 2/18/2011 H1342)
+- 2011-02-19 — House amendment offered/reported by: Amendment (A160) offered by Ms. Hayworth.(consideration: CR 2/18/2011 H1345-1346; text: CR 2/18/2011 H1345)
+- 2011-02-19 — House amendment offered/reported by: Amendment (A161) offered by Mr. Burgess.(consideration: CR 2/18/2011 H1346-1349, H1354-1355; text: CR 2/18/2011 H1346)
+- 2011-02-19 — House amendment offered/reported by: Amendment (A162) in the nature of a substitute offered by Mr. LaTourette.(consideration: CR 2/18/2011 H1349-1354; text: CR 2/18/2011 H1349-1351)
+- 2011-02-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-02-19 — Mr. Heinrich moved to recommit with instructions to Appropriations. (consideration: CR 2/18/2011 H1355-1356; text: CR 2/18/2011 H1355)
+- 2011-02-19 — Mr. Rogers (KY) moved for the Committee of the Whole to rise and report.
+- 2011-02-19 — On agreeing to the Burgess amendment (A151) Agreed to by recorded vote: 239 - 182 (Roll no. 138).
+- 2011-02-19 — On agreeing to the Burgess amendment (A161) Agreed to by recorded vote: 235 - 187 (Roll no. 145).
+- 2011-02-19 — On agreeing to the Carney amendment (A156) Failed by recorded vote: 121 - 300 (Roll no. 142).
+- 2011-02-19 — On agreeing to the Flake amendment (A135) Agreed to by recorded vote: 261 - 158 (Roll no. 125).
+- 2011-02-19 — On agreeing to the Griffith (VA) amendment (A141) Agreed to by recorded vote: 235 - 185 (Roll no. 129).
+- 2011-02-19 — On agreeing to the Guinta amendment (A137) Failed by recorded vote: 210 - 210 (Roll no. 126).
+- 2011-02-19 — On agreeing to the Hall amendment (A138) Agreed to by recorded vote: 233 - 187 (Roll no. 127).
+- 2011-02-19 — On agreeing to the Hayworth amendment (A160) Agreed to by voice vote.
+- 2011-02-19 — On agreeing to the Heller amendment (A152) Failed by recorded vote: 209 - 213 (Roll no. 139).
+- 2011-02-19 — On agreeing to the Heller amendment (A153) Failed by voice vote.
+- 2011-02-19 — On agreeing to the Issa amendment (A145) Failed by recorded vote: 191 - 230 (Roll no. 133).
+- 2011-02-19 — On agreeing to the Jones amendment (A142) Agreed to by recorded vote: 259 - 159 (Roll no. 130).
+- 2011-02-19 — On agreeing to the King (IA) amendment (A159) Failed by recorded vote: 189 - 233 (Roll no. 144).
+- 2011-02-19 — On agreeing to the Lee (CA) amendment (A140) Failed by recorded vote: 76 - 344 (Roll no. 128).
+- 2011-02-19 — On agreeing to the Luetkemeyer amendment (A143) Agreed to by recorded vote: 245 - 176 (Roll no. 131).
+- 2011-02-19 — On agreeing to the Luetkemeyer amendment (A144) Agreed to by recorded vote: 244 - 179 (Roll no. 132).
+- 2011-02-19 — On agreeing to the McKinley amendment (A147) Agreed to by recorded vote: 240 - 182 (Roll no. 135).
+- 2011-02-19 — On agreeing to the McKinley amendment (A148) Agreed to by recorded vote: 239 - 183 (Roll no. 136).
+- 2011-02-19 — On agreeing to the Mulvaney amendment (A157) Failed by recorded vote: 93 - 328 (Roll no. 143).
+- 2011-02-19 — On agreeing to the Noem amendment (A154) Agreed to by recorded vote: 255 - 168 (Roll no. 140).
+- 2011-02-19 — On agreeing to the Pitts amendment (A155) Agreed to by recorded vote: 239 - 183 (Roll no. 141).
+- 2011-02-19 — On agreeing to the Pompeo amendment (A149) Agreed to by recorded vote: 234 - 187 (Roll no. 137).
+- 2011-02-19 — On agreeing to the Sullivan amendment (A146) Agreed to by recorded vote: 285 - 136 (Roll no. 134).
+- 2011-02-19 — On motion to recommit with instructions Failed by recorded vote: 186 - 238 (Roll no. 146).
+- 2011-02-19 — On motion to rise and report Agreed to by voice vote.
+- 2011-02-19 — On passage Passed by the Yeas and Nays: 235 - 189 (Roll no. 147).
+- 2011-02-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Burgess amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Doggett demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Burgess amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Ms. DeLauro demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Carney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Carney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Heller amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Dicks demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. King (IA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mulvaney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Mulvaney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Noem amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Waxman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pitts amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Ms. DeLauro demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pompeo amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Pompeo demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-02-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 235 - 189 (Roll no. 147).
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — Roll call votes on amendments in House
+- 2011-02-19 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2011-02-19 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1.
+- 2011-02-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR 2/18/2011 H1356)
+- 2011-02-19 — The previous question was ordered pursuant to the rule. (consideration: CR 2/18/2011 H1355)
+- 2011-02-19 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of amendments which had been debated earlier and on which further proceedings were postponed.
+- 2011-02-19 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings were postponed.
