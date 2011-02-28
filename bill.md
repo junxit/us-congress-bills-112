@@ -32,7 +32,3 @@ This Act may be cited as the “Removal Clarification Act of 2011”.
   > - **(g)** Where the civil action or criminal prosecution that is removable under section 1442(a) is a proceeding in which a judicial order for testimony or documents is sought or issued or sought to be enforced, the 30-day requirement of subsections (b) and (c) is satisfied if the person or entity desiring to remove the proceeding files the notice of removal not later than 30 days after receiving, through service, notice of any such proceeding.
 
 - **(d)** *Reviewability on appeal* Section 1447(d) of title 28, United States Code, is amended by inserting “1442 or” before “1443”.
-
-## § 3. PAYGO compliance
-
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
