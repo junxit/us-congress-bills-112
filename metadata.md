@@ -1,7 +1,7 @@
 ---
 measure: H.R. 347
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 347
@@ -24,6 +24,10 @@ Federal Restricted Buildings and Grounds Improvement Act of 2011
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2011-02-28 — [House 112-1-149](votes/house-112-1-0149.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (399–3)
+
 ## Actions
 
 - 2011-01-19 — Introduced in House
@@ -36,3 +40,11 @@ Federal Restricted Buildings and Grounds Improvement Act of 2011
 - 2011-02-11 — Placed on the Union Calendar, Calendar No. 2.
 - 2011-02-11 — Reported by the Committee on Judiciary. H. Rept. 112-9.
 - 2011-02-11 — Reported by the Committee on Judiciary. H. Rept. 112-9.
+- 2011-02-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-02-28 — Considered as unfinished business. (consideration: CR H1375)
+- 2011-02-28 — Considered under suspension of the rules. (consideration: CR H1372-1374)
+- 2011-02-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 347.
+- 2011-02-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-02-28 — Mr. Lungren, Daniel E. moved to suspend the rules and pass the bill, as amended.
+- 2011-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 3 (Roll no. 149). (text: CR H1373)
+- 2011-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 3 (Roll no. 149).(text: CR H1373)

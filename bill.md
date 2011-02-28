@@ -13,11 +13,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Federal Restricted Buildings and Grounds Improvement Act of 2011”.
 
-## § 2. Restricted buildings or grounds
+## § 2. Restricted building or grounds
 
 Section 1752 of title 18, United States Code, is amended to read as follows:
 
-> ## § 1752. Restricted buildings or grounds
+> ## § 1752. Restricted building or grounds
 >
 > - **(a)** Whoever—
 >   - **(1)** knowingly enters or remains in any restricted building or grounds without lawful authority to do so;
