@@ -15,7 +15,7 @@ This Act may be cited as the “Securing Aircraft Cockpits Against Lasers Act of
 
 ## § 2. Prohibition against aiming a laser pointer at an aircraft
 
-- **(a)** *Offense* Chapter 2 of title 18, United States Code, is amended by adding at the end the following:
+- **(a)** *Offense* Chapter 2 of title 18, United States Code, is amended by inserting after section 39 the following:
   > ## § 39A. Aiming a laser pointer at an aircraft
   >
   > - **(a)** Whoever knowingly aims the beam of a laser pointer at an aircraft in the special aircraft jurisdiction of the United States, or at the flight path of such an aircraft, shall be fined under this title or imprisoned not more than 5 years, or both.

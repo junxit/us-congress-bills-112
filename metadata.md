@@ -1,7 +1,7 @@
 ---
 measure: H.R. 386
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 386
@@ -49,3 +49,9 @@ Securing Aircraft Cockpits Against Lasers Act of 2011
 - 2011-02-11 — Placed on the Union Calendar, Calendar No. 4.
 - 2011-02-11 — Reported by the Committee on Judiciary. H. Rept. 112-11, Part I.
 - 2011-02-11 — Reported by the Committee on Judiciary. H. Rept. 112-11, Part I.
+- 2011-02-28 — Considered under suspension of the rules. (consideration: CR H1370-1371)
+- 2011-02-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 386.
+- 2011-02-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-02-28 — Mr. Lungren, Daniel E. moved to suspend the rules and pass the bill, as amended.
+- 2011-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1370)
+- 2011-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1370)
