@@ -1,7 +1,7 @@
 ---
 measure: H.R. 347
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 347
@@ -20,9 +20,10 @@ Federal Restricted Buildings and Grounds Improvement Act of 2011
 
 - Rep. Deutch, Theodore E. [D-FL-19] (D000610)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Federal Restricted Buildings and Grounds Improvement Act of 2011
 - 2011-02-28 — Mr. Lungren, Daniel E. moved to suspend the rules and pass the bill, as amended.
 - 2011-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 3 (Roll no. 149). (text: CR H1373)
 - 2011-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 3 (Roll no. 149).(text: CR H1373)
+- 2011-03-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
