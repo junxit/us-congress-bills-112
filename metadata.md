@@ -1,7 +1,7 @@
 ---
 measure: H.R. 368
 congress: 112
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 368
@@ -20,10 +20,11 @@ Removal Clarification Act of 2011
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Removal Clarification Act of 2011
 - 2011-02-28 — Placed on the Union Calendar, Calendar No. 8.
 - 2011-02-28 — Reported by the Committee on Judiciary. H. Rept. 112-17, Part I.
 - 2011-02-28 — Reported by the Committee on Judiciary. H. Rept. 112-17, Part I.
+- 2011-03-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
