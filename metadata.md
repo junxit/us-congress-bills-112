@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 44
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 44
@@ -21,10 +21,11 @@ Further Continuing Appropriations Amendments, 2011
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2011-03-01 — [House 112-1-153](votes/house-112-1-0153.md) — On Motion to Recommit with Instructions — **Failed** (176–249)
 - 2011-03-01 — [House 112-1-154](votes/house-112-1-0154.md) — On Passage — **Passed** (335–91)
+- 2011-03-02 — [Senate 112-1-29](votes/senate-112-1-0029.md) — On the Joint Resolution — **Joint Resolution Passed** (91–9)
 
 ## Actions
 
@@ -45,3 +46,13 @@ Further Continuing Appropriations Amendments, 2011
 - 2011-03-01 — Rule H. Res. 115 passed House.
 - 2011-03-01 — Rule provides for consideration of H.J. Res. 44 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the joint resolution are waived.
 - 2011-03-01 — The previous question was ordered pursuant to the rule. (consideration: CR H1426)
+- 2011-03-02 — Became Public Law No: 112-4.
+- 2011-03-02 — Became Public Law No: 112-4.
+- 2011-03-02 — Measure laid before Senate by unanimous consent. (consideration: CR S1088-1089)
+- 2011-03-02 — Message on Senate action sent to the House.
+- 2011-03-02 — Passed Senate without amendment by Yea-Nay Vote. 91 - 9. Record Vote Number: 29.
+- 2011-03-02 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 91 - 9. Record Vote Number: 29.
+- 2011-03-02 — Presented to President.
+- 2011-03-02 — Presented to President.
+- 2011-03-02 — Signed by President.
+- 2011-03-02 — Signed by President.
