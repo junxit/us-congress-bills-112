@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 8
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 8
@@ -26,8 +26,15 @@ A concurrent resolution recognizing women serving in the United States Armed For
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Lautenberg, Frank R. [D-NJ] (L000123)
 
+## Committees (1)
+
+- House — Armed Services Committee
+
 ## Actions
 
 - 2011-02-28 — Introduced in Senate
 - 2011-02-28 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S1021; text as passed Senate: CR S1021; text of measure as introduced: CR S979)
 - 2011-02-28 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1021; text as passed Senate: CR S1021; text of measure as introduced: CR S979)
+- 2011-03-01 — Message on Senate action sent to the House.
+- 2011-03-01 — Received in the House.
+- 2011-03-01 — Referred to the House Committee on Armed Services.
