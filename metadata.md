@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1
@@ -1480,3 +1480,5 @@ Disaster Relief Appropriations Act, 2013
 - 2011-02-19 — The previous question was ordered pursuant to the rule. (consideration: CR 2/18/2011 H1355)
 - 2011-02-19 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of amendments which had been debated earlier and on which further proceedings were postponed.
 - 2011-02-19 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings were postponed.
+- 2011-02-28 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-03-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 14.
