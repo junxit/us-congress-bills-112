@@ -1,7 +1,7 @@
 ---
 measure: H.R. 386
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 386
@@ -29,10 +29,11 @@ Securing Aircraft Cockpits Against Lasers Act of 2011
 - Rep. Chu, Judy [D-CA-32] (C001080)
 - Rep. Coble, Howard [R-NC-6] (C000556)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Securing Aircraft Cockpits Against Lasers Act of 2011
 - 2011-02-28 — Mr. Lungren, Daniel E. moved to suspend the rules and pass the bill, as amended.
 - 2011-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1370)
 - 2011-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1370)
+- 2011-03-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
