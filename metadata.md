@@ -1,7 +1,7 @@
 ---
 measure: H.R. 394
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 394
@@ -22,9 +22,10 @@ Federal Courts Jurisdiction and Venue Clarification Act of 2011
 - Rep. Coble, Howard [R-NC-6] (C000556)
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Federal Courts Jurisdiction and Venue Clarification Act of 2011
 - 2011-02-28 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2011-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 148). (text: CR H1367-1368)
 - 2011-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 148).(text: CR H1367-1368)
+- 2011-03-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
