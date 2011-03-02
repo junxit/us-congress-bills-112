@@ -1,7 +1,7 @@
 ---
 measure: H.R. 662
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -71,7 +71,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 4213(d) of SAFETEA–LU (49 U.S.C. 14710 note; 119 Stat. 1759) is amended by striking “March 4, 2011” and inserting “September 30, 2011”. | the bill names no machine-readable US Code section |
 | — | replace | Section 7131(c) of SAFETEA–LU (119 Stat. 1910) is amended by striking “through 2010 and $531,000 for the period beginning on October 1, 2010, and ending on March 4, 2011” and inserting “through 2011”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a) by striking “through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,” and inserting “through 2011,”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b)(1)(A) by striking “through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,” and inserting “through 2011”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(1)(A) by striking “through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,” and inserting “through 2011,”. | the bill names no machine-readable US Code section |
 | — | replace | Section 5305(g) of title 49, United States Code, is amended by striking “2010, and for the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “2011”. | the bill names no machine-readable US Code section |
 | — | replace | by striking the paragraph heading and inserting “Special rule for fiscal years 2005 through 2011.—”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A) by striking “2010, and the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “2011,”; and | the bill names no machine-readable US Code section |
@@ -86,9 +86,9 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking clause (ii); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subclauses (I) through (VIII) as clauses (i) through (viii), respectively, and moving the text of such clauses 2 ems to the left; and | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting a period at the end of clause (iv) (as so redesignated); | the bill names no machine-readable US Code section |
-| — | strike | by striking “for the period beginning October 1, 2010 and ending March 4, 2011”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “$5,732,000 for the period beginning October 1, 2010 and ending March 4, 2011”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding after clause (v) the following: | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (C) by striking “, and during the period beginning October 1, 2010 and ending March 4, 2011,”; | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (C) by striking “, and during the period beginning October 1, 2010, and ending March 4, 2011,”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (D) by striking “, and not less than $14,863,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,”; and | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (E) by striking “, and $1,273,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,”. | the bill names no machine-readable US Code section |
 | — | amend | Section 5311(c)(1)(F) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -131,8 +131,8 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “and” at the end of paragraph (5); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (6) and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (7) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “March 5, 2011” in subsections (b)(6)(B) and (c)(1) and inserting “October 1, 2011”, | the bill names no machine-readable US Code section |
-| — | replace | by striking “the Surface Transportation Extension Act of 2010, Part II” in subsections (c)(1) and (e)(3) and inserting “the Surface Transportation Extension Act of 2011”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “March 5, 2011” in subsections (b)(6)(B) and (c)(1) and inserting “October 1, 2011”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “the Surface Transportation Extension Act of 2010, Part II” in subsections (c)(1) and (e)(3) and inserting “the Surface Transportation Extension Act of 2011”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “March 5, 2011” in subsection (e)(3) and inserting “October 1, 2011”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “Surface Transportation Extension Act of 2010, Part II” each place it appears in subsection (b)(2) and inserting “Surface Transportation Extension Act of 2011”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Surface Transportation Extension Act of 2010, Part II” each place it appears in subsection (b)(2) and inserting “Surface Transportation Extension Act of 2011”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “March 5, 2011” in subsection (d)(2) and inserting “October 1, 2011”. | the bill names no machine-readable US Code section |

@@ -13,4 +13,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Short title* This Act may be cited as the “Surface Transportation Extension Act of 2011”.
 - **(b)** *Reconciliation of funds* The Secretary of Transportation shall reduce the amount apportioned or allocated for a program, project, or activity under this Act in fiscal year 2011 by amounts apportioned or allocated pursuant to the Surface Transportation Extension Act of 2010 and the Surface Transportation Extension Act of 2010, Part II for the period beginning on October 1, 2010, and ending on March 4, 2011.
-- **(c)** *Table of contents*
+- **(c)** *Table of contents* The table of contents for this Act is as follows:
