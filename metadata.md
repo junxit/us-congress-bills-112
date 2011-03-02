@@ -1,7 +1,7 @@
 ---
 measure: H.R. 570
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 570
@@ -16,7 +16,7 @@ Dental Emergency Responder Act of 2011
 
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
 
-## Cosponsors (23)
+## Cosponsors (26)
 
 - Rep. Terry, Lee [R-NE-2] (T000459)
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
@@ -41,6 +41,9 @@ Dental Emergency Responder Act of 2011
 - Rep. Stearns, Cliff [R-FL-6] (S000822)
 - Rep. Whitfield, Ed [R-KY-1] (W000413)
 - Rep. Dold, Robert J. [R-IL-10] (D000613)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
 
 ## Committees (1)
 
@@ -51,3 +54,11 @@ Dental Emergency Responder Act of 2011
 - 2011-02-09 — Introduced in House
 - 2011-02-09 — Introduced in House
 - 2011-02-09 — Referred to the House Committee on Energy and Commerce.
+- 2011-02-10 — Referred to the Subcommittee on Health.
+- 2011-02-11 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2011-02-11 — Subcommittee Consideration and Mark-up Session Held.
+- 2011-02-15 — Committee Consideration and Mark-up Session Held.
+- 2011-02-15 — Ordered to be Reported by Voice Vote.
+- 2011-03-02 — Placed on the Union Calendar, Calendar No. 12.
+- 2011-03-02 — Reported by the Committee on Energy and Commerce. H. Rept. 112-24.
+- 2011-03-02 — Reported by the Committee on Energy and Commerce. H. Rept. 112-24.
