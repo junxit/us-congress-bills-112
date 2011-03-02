@@ -1,7 +1,7 @@
 ---
 measure: H.R. 662
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -14,13 +14,465 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-105 amendatory instructions. 0 executed, 105 stated and not applied.
+105 amendatory instructions. 50 executed, 55 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 49 U.S.C. § 31104
+
+> in paragraph (1) by striking “2009” and all that follows before the period and inserting “2011”;
+
+| | |
+|---|---|
+| Removed | `2009` |
+| Inserted | `2011` |
+
+### 49 U.S.C. § 31104
+
+> in paragraph (2) by striking “, 2007” and all that follows before the period and inserting “through 2011”;
+
+| | |
+|---|---|
+| Removed | `, 2007` |
+| Inserted | `through 2011` |
+
+### 49 U.S.C. § 31104
+
+> in paragraph (3) by striking “, 2007” and all that follows before the period and inserting “through 2011”;
+
+| | |
+|---|---|
+| Removed | `, 2007` |
+| Inserted | `through 2011` |
+
+### 49 U.S.C. § 31104
+
+> in paragraph (4) by striking “2009” and all that follows before the period and inserting “2011”; and
+
+| | |
+|---|---|
+| Removed | `2009` |
+| Inserted | `2011` |
+
+### 49 U.S.C. § 31104
+
+> in paragraph (5) by striking “2009” and all that follows before the period and inserting “2011”.
+
+| | |
+|---|---|
+| Removed | `2009` |
+| Inserted | `2011` |
+
+### 49 U.S.C. § 31104
+
+> Section 31104(k)(2) of title 49, United States Code, is amended by striking “through 2010 and $6,370,000 for the period beginning October 1, 2010, and ending on March 4, 2011” and inserting “through 2011”.
+
+| | |
+|---|---|
+| Removed | `through 2010 and $6,370,000 for the period beginning October 1, 2010, and ending on March 4, 2011` |
+| Inserted | `through 2011` |
+
+### 49 U.S.C. § 31104
+
+> Section 4127(e) of SAFETEA–LU (119 Stat. 1741) is amended by striking “2010,” and all that follows before “to carry out” and inserting “2010, and 2011”.
+
+| | |
+|---|---|
+| Removed | `2010,” and all that follows before “to carry out` |
+| Inserted | `2010, and 2011` |
+
+### 49 U.S.C. § 31104
+
+> Section 4134(c) of SAFETEA–LU (119 Stat. 1744) is amended by striking “2009” and all that follows before “to carry out” and inserting “2011”.
+
+| | |
+|---|---|
+| Removed | `2009” and all that follows before “to carry out` |
+| Inserted | `2011` |
+
+### 49 U.S.C. § 31104
+
+> Section 4144(d) of SAFETEA–LU (119 Stat. 1748) is amended by striking “March 4, 2011” and inserting “September 30, 2011”.
+
+| | |
+|---|---|
+| Removed | `March 4, 2011` |
+| Inserted | `September 30, 2011` |
+
+### 49 U.S.C. § 14710
+
+> Section 4213(d) of SAFETEA–LU (49 U.S.C. 14710 note; 119 Stat. 1759) is amended by striking “March 4, 2011” and inserting “September 30, 2011”.
+
+| | |
+|---|---|
+| Removed | `March 4, 2011` |
+| Inserted | `September 30, 2011` |
+
+### 16 U.S.C. § 777c
+
+> Section 7131(c) of SAFETEA–LU (119 Stat. 1910) is amended by striking “through 2010 and $531,000 for the period beginning on October 1, 2010, and ending on March 4, 2011” and inserting “through 2011”.
+
+| | |
+|---|---|
+| Removed | `through 2010 and $531,000 for the period beginning on October 1, 2010, and ending on March 4, 2011` |
+| Inserted | `through 2011` |
+
+### 16 U.S.C. § 777c
+
+> in subsection (a) by striking “through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,” and inserting “through 2011,”; and
+
+| | |
+|---|---|
+| Removed | `through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,` |
+| Inserted | `through 2011,` |
+
+### 16 U.S.C. § 777c
+
+> in subsection (b)(1)(A) by striking “through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,” and inserting “through 2011,”.
+
+| | |
+|---|---|
+| Removed | `through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,` |
+| Inserted | `through 2011,` |
+
+### 49 U.S.C. § 5305
+
+> Section 5305(g) of title 49, United States Code, is amended by striking “2010, and for the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “2011”.
+
+| | |
+|---|---|
+| Removed | `2010, and for the period beginning October 1, 2010, and ending March 4, 2011,` |
+| Inserted | `2011` |
+
+### 49 U.S.C. § 5307
+
+> in subparagraph (A) by striking “2010, and the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “2011,”; and
+
+| | |
+|---|---|
+| Removed | `2010, and the period beginning October 1, 2010, and ending March 4, 2011,` |
+| Inserted | `2011,` |
+
+### 49 U.S.C. § 5307
+
+> in the matter preceding clause (i) by striking “In fiscal years 2008 through 2010, and during the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “In each of fiscal years 2008 through 2011”.
+
+| | |
+|---|---|
+| Removed | `In fiscal years 2008 through 2010, and during the period beginning October 1, 2010, and ending March 4, 2011,` |
+| Inserted | `In each of fiscal years 2008 through 2011` |
+
+### 49 U.S.C. § 5309
+
+> in the matter preceding subparagraph (A) by striking “2010, and during the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “2011”; and
+
+| | |
+|---|---|
+| Removed | `2010, and during the period beginning October 1, 2010, and ending March 4, 2011,` |
+| Inserted | `2011` |
+
+### 49 U.S.C. § 5309
+
+> in subparagraph (A)(i) by striking “2010, and $84,931,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “2011”;
+
+| | |
+|---|---|
+| Removed | `2010, and $84,931,000 for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `2011` |
+
+### 49 U.S.C. § 5309
+
+> in subparagraph (B) by striking “2010, and $6,369,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “2011”; and
+
+| | |
+|---|---|
+| Removed | `2010, and $6,369,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `2011` |
+
+### 49 U.S.C. § 5309
+
+> in subparagraph (C) by striking “2010, and $2,123,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “2011”; and
+
+| | |
+|---|---|
+| Removed | `2010, and $2,123,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `2011` |
+
+### 49 U.S.C. § 5337
+
+> in subsection (a), in the matter preceding paragraph (1), by striking “2010” and inserting “2011”; and
+
+| | |
+|---|---|
+| Removed | `2010` |
+| Inserted | `2011` |
+
+### 49 U.S.C. § 5338
+
+> in subparagraph (A) by striking “$48,198,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$113,500,000 for fiscal year 2011”;
+
+| | |
+|---|---|
+| Removed | `$48,198,000 for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `$113,500,000 for fiscal year 2011` |
+
+### 49 U.S.C. § 5338
+
+> in subparagraph (B) by striking “$1,766,730,000 for the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “$4,160,365,000 for fiscal year 2011”;
+
+| | |
+|---|---|
+| Removed | `$1,766,730,000 for the period beginning October 1, 2010, and ending March 4, 2011,` |
+| Inserted | `$4,160,365,000 for fiscal year 2011` |
+
+### 49 U.S.C. § 5338
+
+> in subparagraph (C) by striking “$21,869,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$51,500,000 for fiscal year 2011”;
+
+| | |
+|---|---|
+| Removed | `$21,869,000 for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `$51,500,000 for fiscal year 2011` |
+
+### 49 U.S.C. § 5338
+
+> in subparagraph (D) by striking “$707,691,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$1,666,500,000 for fiscal year 2011”;
+
+| | |
+|---|---|
+| Removed | `$707,691,000 for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `$1,666,500,000 for fiscal year 2011` |
+
+### 49 U.S.C. § 5338
+
+> in subparagraph (E) by striking “$417,863,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$984,000,000 for fiscal year 2011”;
+
+| | |
+|---|---|
+| Removed | `$417,863,000 for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `$984,000,000 for fiscal year 2011` |
+
+### 49 U.S.C. § 5338
+
+> in subparagraph (F) by striking “$56,691,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$133,500,000 for fiscal year 2011”;
+
+| | |
+|---|---|
+| Removed | `$56,691,000 for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `$133,500,000 for fiscal year 2011` |
+
+### 49 U.S.C. § 5338
+
+> in subparagraph (G) by striking “$197,465,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$465,000,000 for fiscal year 2011”;
+
+| | |
+|---|---|
+| Removed | `$197,465,000 for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `$465,000,000 for fiscal year 2011` |
+
+### 49 U.S.C. § 5338
+
+> in subparagraph (H) by striking “$69,856,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$164,500,000 for fiscal year 2011”;
+
+| | |
+|---|---|
+| Removed | `$69,856,000 for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `$164,500,000 for fiscal year 2011` |
+
+### 49 U.S.C. § 5338
+
+> in subparagraph (I) by striking “$39,280,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$92,500,000 for fiscal year 2011”;
+
+| | |
+|---|---|
+| Removed | `$39,280,000 for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `$92,500,000 for fiscal year 2011` |
+
+### 49 U.S.C. § 5338
+
+> in subparagraph (J) by striking “$11,423,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$26,900,000 for fiscal year 2011”;
+
+| | |
+|---|---|
+| Removed | `$11,423,000 for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `$26,900,000 for fiscal year 2011` |
+
+### 49 U.S.C. § 5338
+
+> in subparagraph (K) by striking “$1,486,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$3,500,000 for fiscal year 2011”;
+
+| | |
+|---|---|
+| Removed | `$1,486,000 for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `$3,500,000 for fiscal year 2011` |
+
+### 49 U.S.C. § 5338
+
+> in subparagraph (L) by striking “$10,616,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$25,000,000 for fiscal year 2011”;
+
+| | |
+|---|---|
+| Removed | `$10,616,000 for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `$25,000,000 for fiscal year 2011` |
+
+### 49 U.S.C. § 5338
+
+> in subparagraph (M) by striking “$197,465,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$465,000,000 for fiscal year 2011”; and
+
+| | |
+|---|---|
+| Removed | `$197,465,000 for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `$465,000,000 for fiscal year 2011` |
+
+### 49 U.S.C. § 5338
+
+> in subparagraph (N) by striking “$3,736,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$8,800,000 for fiscal year 2011”.
+
+| | |
+|---|---|
+| Removed | `$3,736,000 for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `$8,800,000 for fiscal year 2011` |
+
+### 49 U.S.C. § 5338
+
+> in the matter preceding subparagraph (A) by striking “$29,619,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$69,750,000 for fiscal year 2011”; and
+
+| | |
+|---|---|
+| Removed | `$29,619,000 for the period beginning October 1, 2010 and ending March 4, 2011,` |
+| Inserted | `$69,750,000 for fiscal year 2011` |
+
+### 49 U.S.C. § 5338
+
+> in subparagraph (A) by striking “fiscal year 2009” and inserting “each of fiscal years 2009, 2010, and 2011”;
+
+| | |
+|---|---|
+| Removed | `fiscal year 2009` |
+| Inserted | `each of fiscal years 2009, 2010, and 2011` |
+
+### 49 U.S.C. § 5338
+
+> in clauses (i), (ii), and (iii) by striking “2009” and inserting “2011”; and
+
+| | |
+|---|---|
+| Removed | `2009` |
+| Inserted | `2011` |
+
+### 49 U.S.C. § 5338
+
+> in clauses (v), (vi), (vii), and (viii) by striking “and 2009” and inserting “through 2011”; and
+
+| | |
+|---|---|
+| Removed | `and 2009` |
+| Inserted | `through 2011` |
+
+### 49 U.S.C. § 5309
+
+> Section 3009(i)(1) of SAFETEA–LU (119 Stat. 1572) is amended by striking “2010, and for the period beginning October 1, 2010, and ending March 4, 2011” and inserting “2011”.
+
+| | |
+|---|---|
+| Removed | `2010, and for the period beginning October 1, 2010, and ending March 4, 2011` |
+| Inserted | `2011` |
+
+### 49 U.S.C. § 5309
+
+> in subsection (c)(5) by striking “2010 and the period beginning October 1, 2010, and ending March 4, 2011” and inserting “2011”; and
+
+| | |
+|---|---|
+| Removed | `2010 and the period beginning October 1, 2010, and ending March 4, 2011` |
+| Inserted | `2011` |
+
+### 49 U.S.C. § 5309
+
+> in subsection (d) by striking “2010, and for the period beginning October 1, 2010, and ending March 4, 2011” and inserting “2011”.
+
+| | |
+|---|---|
+| Removed | `2010, and for the period beginning October 1, 2010, and ending March 4, 2011` |
+| Inserted | `2011` |
+
+### 49 U.S.C. § 5310
+
+> Section 3012(b)(8) of SAFETEA–LU (49 U.S.C. 5310 note; 119 Stat. 1593) is amended by striking “March 4, 2011” and inserting “September 30, 2011”.
+
+| | |
+|---|---|
+| Removed | `March 4, 2011` |
+| Inserted | `September 30, 2011` |
+
+### 49 U.S.C. § 5309
+
+> in subsection (b), in the matter preceding paragraph (1), by striking “2010, and for the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “2011”; and
+
+| | |
+|---|---|
+| Removed | `2010, and for the period beginning October 1, 2010, and ending March 4, 2011,` |
+| Inserted | `2011` |
+
+### 49 U.S.C. § 5309
+
+> in subsection (c), in the matter preceding paragraph (1), by striking “2010, and for the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “2011”.
+
+| | |
+|---|---|
+| Removed | `2010, and for the period beginning October 1, 2010, and ending March 4, 2011,` |
+| Inserted | `2011` |
+
+### 26 U.S.C. § 9503
+
+> by striking “March 5, 2011” in subsections (b)(6)(B) and (c)(1) and inserting “October 1, 2011”;
+
+| | |
+|---|---|
+| Removed | `March 5, 2011` |
+| Inserted | `October 1, 2011` |
+
+### 26 U.S.C. § 9503
+
+> by striking “the Surface Transportation Extension Act of 2010, Part II” in subsections (c)(1) and (e)(3) and inserting “the Surface Transportation Extension Act of 2011”; and
+
+| | |
+|---|---|
+| Removed | `the Surface Transportation Extension Act of 2010, Part II` |
+| Inserted | `the Surface Transportation Extension Act of 2011` |
+
+### 26 U.S.C. § 9503
+
+> by striking “March 5, 2011” in subsection (e)(3) and inserting “October 1, 2011”.
+
+| | |
+|---|---|
+| Removed | `March 5, 2011` |
+| Inserted | `October 1, 2011` |
+
+### 26 U.S.C. § 9504
+
+> by striking “Surface Transportation Extension Act of 2010, Part II” each place it appears in subsection (b)(2) and inserting “Surface Transportation Extension Act of 2011”; and
+
+| | |
+|---|---|
+| Removed | `Surface Transportation Extension Act of 2010, Part II` |
+| Inserted | `Surface Transportation Extension Act of 2011` |
+
+### 26 U.S.C. § 9504
+
+> by striking “March 5, 2011” in subsection (d)(2) and inserting “October 1, 2011”.
+
+| | |
+|---|---|
+| Removed | `March 5, 2011` |
+| Inserted | `October 1, 2011` |
 
 ## Stated, not applied
 
@@ -55,84 +507,34 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 2001(a)(9) of SAFETEA–LU (119 Stat. 1520) is amended by striking “and $2,973,000 for the period beginning on October 1, 2010, and ending on March 4, 2011.” and inserting “and $7,000,000 for fiscal year 2011.”. | the bill names no machine-readable US Code section |
 | — | replace | Section 2001(a)(10) of SAFETEA–LU (119 Stat. 1520) is amended by striking “and $2,973,000 for the period beginning on October 1, 2010, and ending on March 4, 2011.” and inserting “and $7,000,000 for fiscal year 2011.”. | the bill names no machine-readable US Code section |
 | — | replace | Section 2001(a)(11) of SAFETEA–LU (119 Stat. 1520) is amended by striking “and $10,756,000 for the period beginning on October 1, 2010, and ending on March 4, 2011.” and inserting “and $25,328,000 for fiscal year 2011.”. | the bill names no machine-readable US Code section |
-| — | amend | Section 31104(a)(7) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 31104(i)(1)(G) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1) by striking “2009” and all that follows before the period and inserting “2011”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2) by striking “, 2007” and all that follows before the period and inserting “through 2011”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3) by striking “, 2007” and all that follows before the period and inserting “through 2011”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (4) by striking “2009” and all that follows before the period and inserting “2011”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (5) by striking “2009” and all that follows before the period and inserting “2011”. | the bill names no machine-readable US Code section |
-| — | replace | Section 31104(k)(2) of title 49, United States Code, is amended by striking “through 2010 and $6,370,000 for the period beginning October 1, 2010, and ending on March 4, 2011” and inserting “through 2011”. | the bill names no machine-readable US Code section |
-| — | strike | Section 31144(g)(5)(B) of title 49, United States Code, is amended by striking “(and up to $12,315,000 for the period beginning October 1, 2010, and ending on March 4, 2011)”. | the bill names no machine-readable US Code section |
-| — | amend | Section 4123(d)(6) of SAFETEA–LU (119 Stat. 1736) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Section 4127(e) of SAFETEA–LU (119 Stat. 1741) is amended by striking “2010,” and all that follows before “to carry out” and inserting “2010, and 2011”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4134(c) of SAFETEA–LU (119 Stat. 1744) is amended by striking “2009” and all that follows before “to carry out” and inserting “2011”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4144(d) of SAFETEA–LU (119 Stat. 1748) is amended by striking “March 4, 2011” and inserting “September 30, 2011”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4213(d) of SAFETEA–LU (49 U.S.C. 14710 note; 119 Stat. 1759) is amended by striking “March 4, 2011” and inserting “September 30, 2011”. | the bill names no machine-readable US Code section |
-| — | replace | Section 7131(c) of SAFETEA–LU (119 Stat. 1910) is amended by striking “through 2010 and $531,000 for the period beginning on October 1, 2010, and ending on March 4, 2011” and inserting “through 2011”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a) by striking “through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,” and inserting “through 2011,”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b)(1)(A) by striking “through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,” and inserting “through 2011,”. | the bill names no machine-readable US Code section |
-| — | replace | Section 5305(g) of title 49, United States Code, is amended by striking “2010, and for the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “2011”. | the bill names no machine-readable US Code section |
-| — | replace | by striking the paragraph heading and inserting “Special rule for fiscal years 2005 through 2011.—”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A) by striking “2010, and the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “2011,”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the subparagraph heading and inserting “Maximum amounts in fiscal years 2008 through 2011.—”; and | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding clause (i) by striking “In fiscal years 2008 through 2010, and during the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “In each of fiscal years 2008 through 2011”. | the bill names no machine-readable US Code section |
-| — | replace | by striking the paragraph heading and inserting “Fiscal years 2006 through 2011.—”; | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding subparagraph (A) by striking “2010, and during the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “2011”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A)(i) by striking “2010, and $84,931,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “2011”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B) by striking “2010, and $6,369,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “2011”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (C) by striking “2010, and $2,123,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “2011”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “(A) Ferry boat systems.—” and all that follows through “(i) Fiscal years 2006 through 2010.—$10,000,000 shall be available in each of fiscal years 2006 through 2010” and inserting the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking clause (ii); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subclauses (I) through (VIII) as clauses (i) through (viii), respectively, and moving the text of such clauses 2 ems to the left; and | the bill names no machine-readable US Code section |
-| — | redesignate | by inserting a period at the end of clause (iv) (as so redesignated); | the bill names no machine-readable US Code section |
-| — | strike | by striking “$5,732,000 for the period beginning October 1, 2010 and ending March 4, 2011”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding after clause (v) the following: | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (C) by striking “, and during the period beginning October 1, 2010, and ending March 4, 2011,”; | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (D) by striking “, and not less than $14,863,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,”; and | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (E) by striking “, and $1,273,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,”. | the bill names no machine-readable US Code section |
-| — | amend | Section 5311(c)(1)(F) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), in the matter preceding paragraph (1), by striking “2010” and inserting “2011”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (g). | the bill names no machine-readable US Code section |
-| — | replace | by striking paragraph (1)(F) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A) by striking “$48,198,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$113,500,000 for fiscal year 2011”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B) by striking “$1,766,730,000 for the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “$4,160,365,000 for fiscal year 2011”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (C) by striking “$21,869,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$51,500,000 for fiscal year 2011”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (D) by striking “$707,691,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$1,666,500,000 for fiscal year 2011”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (E) by striking “$417,863,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$984,000,000 for fiscal year 2011”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (F) by striking “$56,691,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$133,500,000 for fiscal year 2011”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (G) by striking “$197,465,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$465,000,000 for fiscal year 2011”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (H) by striking “$69,856,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$164,500,000 for fiscal year 2011”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (I) by striking “$39,280,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$92,500,000 for fiscal year 2011”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (J) by striking “$11,423,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$26,900,000 for fiscal year 2011”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (K) by striking “$1,486,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$3,500,000 for fiscal year 2011”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (L) by striking “$10,616,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$25,000,000 for fiscal year 2011”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (M) by striking “$197,465,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$465,000,000 for fiscal year 2011”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (N) by striking “$3,736,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$8,800,000 for fiscal year 2011”. | the bill names no machine-readable US Code section |
-| — | amend | Section 5338(c)(6) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding subparagraph (A) by striking “$29,619,000 for the period beginning October 1, 2010 and ending March 4, 2011,” and inserting “$69,750,000 for fiscal year 2011”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A) by striking “fiscal year 2009” and inserting “each of fiscal years 2009, 2010, and 2011”; | the bill names no machine-readable US Code section |
-| — | replace | in clauses (i), (ii), and (iii) by striking “2009” and inserting “2011”; and | the bill names no machine-readable US Code section |
-| — | replace | in clauses (v), (vi), (vii), and (viii) by striking “and 2009” and inserting “through 2011”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 5338(e)(6) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Section 3009(i)(1) of SAFETEA–LU (119 Stat. 1572) is amended by striking “2010, and for the period beginning October 1, 2010, and ending March 4, 2011” and inserting “2011”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c)(5) by striking “2010 and the period beginning October 1, 2010, and ending March 4, 2011” and inserting “2011”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d) by striking “2010, and for the period beginning October 1, 2010, and ending March 4, 2011” and inserting “2011”. | the bill names no machine-readable US Code section |
-| — | replace | Section 3012(b)(8) of SAFETEA–LU (49 U.S.C. 5310 note; 119 Stat. 1593) is amended by striking “March 4, 2011” and inserting “September 30, 2011”. | the bill names no machine-readable US Code section |
-| — | amend | Section 3040(7) of SAFETEA–LU (119 Stat. 1639) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b), in the matter preceding paragraph (1), by striking “2010, and for the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “2011”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c), in the matter preceding paragraph (1), by striking “2010, and for the period beginning October 1, 2010, and ending March 4, 2011,” and inserting “2011”. | the bill names no machine-readable US Code section |
-| — | strike | in subsection (b) by striking “or period”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking “and” at the end of paragraph (5); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of paragraph (6) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking paragraph (7) and inserting the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking “and” at the end of paragraph (5); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of paragraph (6) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking paragraph (7) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “March 5, 2011” in subsections (b)(6)(B) and (c)(1) and inserting “October 1, 2011”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “the Surface Transportation Extension Act of 2010, Part II” in subsections (c)(1) and (e)(3) and inserting “the Surface Transportation Extension Act of 2011”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “March 5, 2011” in subsection (e)(3) and inserting “October 1, 2011”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “Surface Transportation Extension Act of 2010, Part II” each place it appears in subsection (b)(2) and inserting “Surface Transportation Extension Act of 2011”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “March 5, 2011” in subsection (d)(2) and inserting “October 1, 2011”. | the bill names no machine-readable US Code section |
+| `49 U.S.C. § 31104` | amend | Section 31104(a)(7) of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 31104` | amend | Section 31104(i)(1)(G) of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 31144` | strike | Section 31144(g)(5)(B) of title 49, United States Code, is amended by striking “(and up to $12,315,000 for the period beginning October 1, 2010, and ending on March 4, 2011)”. | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 31104` | amend | Section 4123(d)(6) of SAFETEA–LU (119 Stat. 1736) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5307` | replace | by striking the paragraph heading and inserting “Special rule for fiscal years 2005 through 2011.—”; | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 5307` | replace | by striking the subparagraph heading and inserting “Maximum amounts in fiscal years 2008 through 2011.—”; and | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 5309` | replace | by striking the paragraph heading and inserting “Fiscal years 2006 through 2011.—”; | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 5309` | replace | by striking “(A) Ferry boat systems.—” and all that follows through “(i) Fiscal years 2006 through 2010.—$10,000,000 shall be available in each of fiscal years 2006 through 2010” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 5309` | strike | by striking clause (ii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5309` | redesignate | by redesignating subclauses (I) through (VIII) as clauses (i) through (viii), respectively, and moving the text of such clauses 2 ems to the left; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5309` | redesignate | by inserting a period at the end of clause (iv) (as so redesignated); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5309` | strike | by striking “$5,732,000 for the period beginning October 1, 2010 and ending March 4, 2011”; and | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 5309` | amend | by adding after clause (v) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5309` | strike | in subparagraph (C) by striking “, and during the period beginning October 1, 2010, and ending March 4, 2011,”; | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 5309` | strike | in subparagraph (D) by striking “, and not less than $14,863,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,”; and | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 5309` | strike | in subparagraph (E) by striking “, and $1,273,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,”. | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 5311` | amend | Section 5311(c)(1)(F) of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5337` | strike | by striking subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5338` | replace | by striking paragraph (1)(F) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5338` | amend | Section 5338(c)(6) of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5338` | replace | by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5338` | amend | Section 5338(e)(6) of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5309` | amend | Section 3040(7) of SAFETEA–LU (119 Stat. 1639) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5338` | strike | in subsection (b) by striking “or period”; and | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 5338` | replace | by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 901` | strike | by striking “and” at the end of paragraph (5); | the bill quotes the text struck but describes what replaces it |
+| `2 U.S.C. § 901` | replace | by striking the period at the end of paragraph (6) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `2 U.S.C. § 901` | replace | by striking paragraph (7) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 901` | strike | by striking “and” at the end of paragraph (5); | the bill quotes the text struck but describes what replaces it |
+| `2 U.S.C. § 901` | replace | by striking the period at the end of paragraph (6) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `2 U.S.C. § 901` | replace | by striking paragraph (7) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
