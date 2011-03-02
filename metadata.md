@@ -1,7 +1,7 @@
 ---
 measure: H.R. 662
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 662
@@ -78,3 +78,13 @@ Surface Transportation Extension Act of 2011
 - 2011-03-02 — Rule provides for consideration of H.R. 662 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived. The amendment printed in the report of the Committee on Rules accompanying this resolution, if offered by Representative Mica of Florida or his designee, which shall be in order without intervention of any point of order, shall be considered as read, shall be separately debatable for 10 minutes equally divided and controlled by the proponent and an opponent and shall not be subject to a demand for a division of the question.
 - 2011-03-02 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1493)
 - 2011-03-02 — The previous question was ordered pursuant to the rule. (consideration: CR H1491-1493)
+- 2011-03-03 — Measure laid before Senate by unanimous consent. (consideration: CR S1202-1204)
+- 2011-03-03 — Message on Senate action sent to the House.
+- 2011-03-03 — Passed Senate without amendment by Voice Vote.
+- 2011-03-03 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2011-03-03 — Presented to President.
+- 2011-03-03 — Presented to President.
+- 2011-03-04 — Became Public Law No: 112-5.
+- 2011-03-04 — Became Public Law No: 112-5.
+- 2011-03-04 — Signed by President.
+- 2011-03-04 — Signed by President.
