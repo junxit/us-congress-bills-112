@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4
@@ -296,6 +296,11 @@ Comprehensive 1099 Taxpayer Protection and Repayment of Exchange Subsidy Overpay
 
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2011-03-03 — [House 112-1-161](votes/house-112-1-0161.md) — On Motion to Table the Appeal of the Ruling of the Chair — **Passed** (243–181)
+- 2011-03-03 — [House 112-1-162](votes/house-112-1-0162.md) — On Passage — **Passed** (314–112)
+
 ## Actions
 
 - 2011-01-12 — Introduced in House
@@ -306,3 +311,24 @@ Comprehensive 1099 Taxpayer Protection and Repayment of Exchange Subsidy Overpay
 - 2011-02-22 — Placed on the Union Calendar, Calendar No. 6.
 - 2011-02-22 — Reported by the Committee on Ways and Means. H. Rept. 112-15.
 - 2011-02-22 — Reported by the Committee on Ways and Means. H. Rept. 112-15.
+- 2011-03-01 — Rules Committee Resolution H. Res. 129 Reported to House. Rule provides for consideration of H.R. 4 with 2 hours and 30 minutes of general debate. Motion to recommit with or without installowed. Measure will be considered read. Bill is closed to amendments. The resolution provides that an amendment in the nature of a substitute consisting of the text of the amendment recommended by the Committee on Ways and Means now printed in H.R. 705 shall be considered as adopted. The resolution waives all points of order against provisions in the bill, as amended. The waiver of all points of order against provisions in the bill, as amended, is prophylactic in nature.
+- 2011-03-02 — Rule H. Res. 129 passed House.
+- 2011-03-03 — Considered under the provisions of rule H. Res. 129. (consideration: CR H1529-1553)
+- 2011-03-03 — DEBATE - The House proceeded with two hours and thirty minutes of debate on H.R. 4, as amended.
+- 2011-03-03 — DEBATE - The House resumed debate on H.R. 4.
+- 2011-03-03 — House amendment offered
+- 2011-03-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-03-03 — Mr. Camp moved to table the motion to appeal the ruling of the chair
+- 2011-03-03 — Mr. Camp raised a point of order against the motion to recommit with instructions. Mr Camp stated that the motion violated clause 10 of rule XXI by proposing an increase in mandatory spending over a relevant period of time. Sustained by the Chair.
+- 2011-03-03 — Mr. Levin appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair. (consideration: CR H1551)
+- 2011-03-03 — Mr. McNerney moved to recommit with instructions to Ways and Means. (consideration: CR H1549-1551; text: CR H1549)
+- 2011-03-03 — On motion to table the motion to appeal the ruling of the chair Agreed to by the Yeas and Nays: 243 - 181 (Roll no. 161).
+- 2011-03-03 — On passage Passed by recorded vote: 314 - 112 (Roll No. 162). (text: CR H1529-1530)
+- 2011-03-03 — Passed/agreed to in House: On passage Passed by recorded vote: 314 - 112 (Roll No. 162).(text: CR H1529-1530)
+- 2011-03-03 — Point of order raised by Mr. Weiner on the voice vote of the measure. Mr Weiner stated that the bill purportedly included a Federal income tax increase making the clause 5b of Rule XXI requirement for a three-fifths majority for passage of the measure applicable. Point of order overruled by the Chair.
+- 2011-03-03 — Point of order sustained against the motion to recommit with instructions.
+- 2011-03-03 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-03-03 — Rule provides for consideration of H.R. 4 with 2 hours and 30 minutes of general debate. Motion to recommit with or without instructions is allowed. Measure will be considered read. Bill is closed to amendments. The resolution provides that an amendment in the nature of a substitute consisting of the text of the amendment recommended by the Committee on Ways and Means now printed in H.R. 705 shall be considered as adopted. The resolution waives all points of order against provisions in the bill, as amended. The waiver of all points of order against provisions in the bill, as amended, is prophylactic in nature.
+- 2011-03-03 — The instructions contained in the McNerney motion seek to require the Committee on Ways and Means to report the bill back to the House forthwith with an amendment which inserts sections entitled "NONREFUNDABLE PERSONAL CREDIT FOR TAXPAYERS SUBJECT TO A TAX INCREASE UNDER THE SMALL BUSINESS PAPERWORK MANDATE ELIMINATION ACT OF 2011", "INCOME ATTRIBUTABLE TO DOMESTIC PRODUCTION ACTIVITIES", and "MAJOR INTEGRATED OIL COMPANIES INELIGIBLE FOR LAST-IN, FIRST-OUT MEHTOD OF INVENTORY".
+- 2011-03-03 — The previous question was ordered pursuant to the rule. (consideration: CR H1549)
+- 2011-03-03 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used in debate. Subsequently, unanimous consent was granted to withdraw the words and the House resumed debate on H.R. 4.
