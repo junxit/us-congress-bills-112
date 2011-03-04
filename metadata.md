@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4
@@ -332,3 +332,4 @@ Comprehensive 1099 Taxpayer Protection and Repayment of Exchange Subsidy Overpay
 - 2011-03-03 — The instructions contained in the McNerney motion seek to require the Committee on Ways and Means to report the bill back to the House forthwith with an amendment which inserts sections entitled "NONREFUNDABLE PERSONAL CREDIT FOR TAXPAYERS SUBJECT TO A TAX INCREASE UNDER THE SMALL BUSINESS PAPERWORK MANDATE ELIMINATION ACT OF 2011", "INCOME ATTRIBUTABLE TO DOMESTIC PRODUCTION ACTIVITIES", and "MAJOR INTEGRATED OIL COMPANIES INELIGIBLE FOR LAST-IN, FIRST-OUT MEHTOD OF INVENTORY".
 - 2011-03-03 — The previous question was ordered pursuant to the rule. (consideration: CR H1549)
 - 2011-03-03 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used in debate. Subsequently, unanimous consent was granted to withdraw the words and the House resumed debate on H.R. 4.
+- 2011-03-04 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.
