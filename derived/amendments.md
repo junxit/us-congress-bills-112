@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 6041` | strike | Section 6041 of the Internal Revenue Code of 1986 is amended by striking subsections (i) and (j). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6041` | strike | by striking “amounts in consideration for property,”, and | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 6041` | strike | by striking “gross proceeds,” both places it appears. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 6041` | strike | Section 6041 of the Internal Revenue Code of 1986 is amended by striking subsection (h). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 36B` | amend | Clause (i) of section 36B(f)(2)(B) of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | Section 6041 of the Internal Revenue Code of 1986 is amended by striking subsections (i) and (j). | the bill names no machine-readable US Code section |
+| — | strike | by striking “amounts in consideration for property,”, and | the bill names no machine-readable US Code section |
+| — | strike | by striking “gross proceeds,” both places it appears. | the bill names no machine-readable US Code section |
+| — | strike | Section 6041 of the Internal Revenue Code of 1986 is amended by striking subsection (h). | the bill names no machine-readable US Code section |
+| — | amend | Clause (i) of section 36B(f)(2)(B) of the Internal Revenue Code of 1986 is amended to read as follows: | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4
@@ -16,7 +16,7 @@ Comprehensive 1099 Taxpayer Protection and Repayment of Exchange Subsidy Overpay
 
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
 
-## Cosponsors (273)
+## Cosponsors (275)
 
 - Rep. Adams, Sandy [R-FL-24] (A000366)
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
@@ -291,15 +291,19 @@ Comprehensive 1099 Taxpayer Protection and Repayment of Exchange Subsidy Overpay
 - Rep. Braley, Bruce L. [D-IA-1] (B001259)
 - Rep. Costello, Jerry F. [D-IL-12] (C000794)
 - Rep. Keating, William R. [D-MA-10] (K000375)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
 
-## Recorded votes (2)
+## Recorded votes (4)
 
 - 2011-03-03 — [House 112-1-161](votes/house-112-1-0161.md) — On Motion to Table the Appeal of the Ruling of the Chair — **Passed** (243–181)
 - 2011-03-03 — [House 112-1-162](votes/house-112-1-0162.md) — On Passage — **Passed** (314–112)
+- 2011-04-05 — [Senate 112-1-48](votes/senate-112-1-0048.md) — On the Amendment — **Amendment Rejected** (41–58)
+- 2011-04-05 — [Senate 112-1-49](votes/senate-112-1-0049.md) — On Passage of the Bill — **Bill Passed** (87–12)
 
 ## Actions
 
@@ -333,3 +337,19 @@ Comprehensive 1099 Taxpayer Protection and Repayment of Exchange Subsidy Overpay
 - 2011-03-03 — The previous question was ordered pursuant to the rule. (consideration: CR H1549)
 - 2011-03-03 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used in debate. Subsequently, unanimous consent was granted to withdraw the words and the House resumed debate on H.R. 4.
 - 2011-03-04 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.
+- 2011-04-04 — Senate amendment submitted
+- 2011-04-05 — Amendment SA 284 proposed by Senator Menendez. (consideration: CR S2099-2107; text: CR S2099) To protect small businesses from health insurance premium increases or losses of health insurance coverage.
+- 2011-04-05 — Amendment SA 284, under the order of 3/31/2011, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay. 41 - 58. Record Vote Number: 48.
+- 2011-04-05 — Measure laid before Senate by unanimous consent. (consideration: CR S2099-2108)
+- 2011-04-05 — Message on Senate action sent to the House.
+- 2011-04-05 — Passed Senate, under the order of 3/31/2011, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 87 - 12. Record Vote Number: 49.
+- 2011-04-05 — Passed/agreed to in Senate: Passed Senate, under the order of 3/31/2011, having achieved 60 votes in the affirmative, without amendment by Yea-Nay Vote. 87 - 12. Record Vote Number: 49.
+- 2011-04-05 — Roll call votes on amendments in Senate: Amendment SA 284, under the order of 3/31/2011, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay. 41 - 58. Record Vote Number: 48.
+- 2011-04-05 — Senate amendment not agreed to: Amendment SA 284, under the order of 3/31/2011, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay. 41 - 58. Record Vote Number: 48.
+- 2011-04-05 — Senate amendment proposed (on the floor): Amendment SA 284 proposed by Senator Menendez.(consideration: CR S2099-2107; text: CR S2099)
+- 2011-04-06 — Presented to President.
+- 2011-04-06 — Presented to President.
+- 2011-04-14 — Became Public Law No: 112-9.
+- 2011-04-14 — Became Public Law No: 112-9.
+- 2011-04-14 — Signed by President.
+- 2011-04-14 — Signed by President.
