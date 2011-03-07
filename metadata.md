@@ -1,7 +1,7 @@
 ---
 measure: H.R. 836
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 836
@@ -30,3 +30,9 @@ Emergency Mortgage Relief Program Termination Act
 - 2011-02-28 — Introduced in House
 - 2011-02-28 — Introduced in House
 - 2011-02-28 — Referred to the House Committee on Financial Services.
+- 2011-03-02 — Committee Hearings Held.
+- 2011-03-03 — Committee Consideration and Mark-up Session Held.
+- 2011-03-03 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 22.
+- 2011-03-07 — Placed on the Union Calendar, Calendar No. 14.
+- 2011-03-07 — Reported (Amended) by the Committee on Financial Services. H. Rept. 112-26.
+- 2011-03-07 — Reported (Amended) by the Committee on Financial Services. H. Rept. 112-26.
