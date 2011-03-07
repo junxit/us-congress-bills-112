@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 55
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 55
@@ -32,3 +32,7 @@ A resolution expressing support for designation of a "Welcome Home Vietnam Veter
 
 - 2011-02-16 — Introduced in Senate
 - 2011-02-16 — Referred to the Committee on Veterans' Affairs. (text of measure as introduced: CR S798)
+- 2011-03-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S1332-1333)
+- 2011-03-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S1332-1333)
+- 2011-03-07 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S1332-1333)
+- 2011-03-07 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S1332-1333)
