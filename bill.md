@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Patent Reform Act of 2011”.
+- **(a)** *Short title* This Act may be cited as the “America Invents Act”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. First inventor to file
@@ -51,7 +51,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
     >   - **(2)** if the patent or application for patent is entitled to claim a right of priority under section 119, 365(a), or 365(b), or to claim the benefit of an earlier filing date under section 120, 121, or 365(c), based upon 1 or more prior filed applications for patent, as of the filing date of the earliest such application that describes the subject matter.
 
   - **(2)** *Continuity of intent under the CREATE Act* The enactment of section 102(c) of title 35, United States Code, under the preceding paragraph is done with the same intent to promote joint research activities that was expressed, including in the legislative history, through the enactment of the Cooperative Research and Technology Enhancement Act of 2004 (Public Law 108–453; the “CREATE Act”), the amendments of which are stricken by subsection (c). The United States Patent and Trademark Office shall administer section 102(c) of title 35, United States Code, in a manner consistent with the legislative history of the CREATE Act that was relevant to its administration by the United States Patent and Trademark Office.
-  - **(2)(3)** *Conforming amendment* The item relating to section 102 in the table of sections for chapter 10 of title 35, United States Code, is amended to read as follows:
+  - **(3)** *Conforming amendment* The item relating to section 102 in the table of sections for chapter 10 of title 35, United States Code, is amended to read as follows:
 - **(c)** *Conditions for patentability; nonobvious subject matter* Section 103 of title 35, United States Code, is amended to read as follows:
   > ## § 103. Conditions for patentability; nonobvious subject matter
   >
@@ -61,7 +61,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(e)** *Repeal of statutory invention registration*
   - **(1)** *In general* Section 157 of title 35, United States Code, and the item relating to that section in the table of sections for chapter 14 of title 35, United States Code, are repealed.
   - **(2)** *Removal of cross references* Section 111(b)(8) of title 35, United States Code, is amended by striking “sections 115, 131, 135, and 157” and inserting “sections 131 and 135”.
-  - **(3)** *Effective date* The amendments made by this subsection shall take effect 1 year after the date of the enactment of this Act, and shall apply to any request for a statutory invention registration filed on or after that date.
+  - **(3)** *Effective date* The amendments made by this subsection shall take effect 18 months after the date of the enactment of this Act, and shall apply to any request for a statutory invention registration filed on or after that date.
 - **(f)** *Earlier filing date for inventor and joint inventor* Section 120 of title 35, United States Code, is amended by striking “which is filed by an inventor or inventors named” and inserting “which names an inventor or joint inventor”.
 - **(g)** *Conforming amendments*
   - **(1)** *Right of priority* Section 172 of title 35, United States Code, is amended by striking “and the time specified in section 102(d)”.
@@ -219,36 +219,18 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(2)** Section 111(b)(2) is amended by striking “the second through fifth paragraphs of section 112,” and inserting “subsections (b) through (e) of section 112,”.
 - **(e)** *Effective date* The amendments made by this section shall take effect 1 year after the date of the enactment of this Act and shall apply to patent applications that are filed on or after that effective date.
 
-## § 4. Damages
+## § 4. Virtual marking and advice of counsel
 
-- **(a)** *Damages* Section 284 of title 35, United States Code, is amended—
-  - **(1)** by striking “Upon finding” and inserting the following: “(a) In general.—Upon finding”;
-  - **(2)** by striking “fixed by the court” and all that follows through “When the damages” and inserting the following: “fixed by the court. When the damages”;
-  - **(3)** by striking “shall assess them.” and all that follows through “The court may receive” and inserting the following: “shall assess them. In either event the court may increase the damages up to 3 times the amount found or assessed. Increased damages under this subsection shall not apply to provisional rights under section 154(d) of this title. The court may receive”; and
-  - **(4)** by adding at the end the following:
-    > - **(b)** *Procedure for determining damages*
-    >   - **(1)** *In general* The court shall identify the methodologies and factors that are relevant to the determination of damages, and the court or jury shall consider only those methodologies and factors relevant to making such determination.
-    >   - **(2)** *Disclosure of claims* By no later than the entry of the final pretrial order, unless otherwise ordered by the court, the parties shall state, in writing and with particularity, the methodologies and factors the parties propose for instruction to the jury in determining damages under this section, specifying the relevant underlying legal and factual bases for their assertions.
-    >   - **(3)** *Sufficiency of evidence* Prior to the introduction of any evidence concerning the determination of damages, upon motion of either party or sua sponte, the court shall consider whether one or more of a party's damages contentions lacks a legally sufficient evidentiary basis. After providing a nonmovant the opportunity to be heard, and after any further proffer of evidence, briefing, or argument that the court may deem appropriate, the court shall identify on the record those methodologies and factors as to which there is a legally sufficient evidentiary basis, and the court or jury shall consider only those methodologies and factors in making the determination of damages under this section. The court shall only permit the introduction of evidence relating to the determination of damages that is relevant to the methodologies and factors that the court determines may be considered in making the damages determination.
-    > - **(c)** *Sequencing* Any party may request that a patent-infringement trial be sequenced so that the trier of fact decides questions of the patent's infringement and validity before the issues of damages and willful infringement are tried to the court or the jury. The court shall grant such a request absent good cause to reject the request, such as the absence of issues of significant damages or infringement and validity. The sequencing of a trial pursuant to this subsection shall not affect other matters, such as the timing of discovery. This subsection does not authorize a party to request that the issues of damages and willful infringement be tried to a jury different than the one that will decide questions of the patent's infringement and validity.
-    > - **(d)** *Willful Infringement*
-    >   - **(1)** *In general* The court may increase damages up to 3 times the amount found or assessed if the court or the jury, as the case may be, determines that the infringement of the patent was willful. Increased damages under this subsection shall not apply to provisional rights under section 154(d). Infringement is not willful unless the claimant proves by clear and convincing evidence that the accused infringer's conduct with respect to the patent was objectively reckless. An accused infringer's conduct was objectively reckless if the infringer was acting despite an objectively high likelihood that his actions constituted infringement of a valid patent, and this objectively-defined risk was either known or so obvious that it should have been known to the accused infringer.
-    >   - **(2)** *Pleading standards* A claimant asserting that a patent was infringed willfully shall comply with the pleading requirements set forth under Federal Rule of Civil Procedure 9(b).
-    >   - **(3)** *Knowledge alone insufficient* Infringement of a patent may not be found to be willful solely on the basis that the infringer had knowledge of the infringed patent.
-    >   - **(4)** *Pre-suit notification* A claimant seeking to establish willful infringement may not rely on evidence of pre-suit notification of infringement unless that notification identifies with particularity the asserted patent, identifies the product or process accused, and explains with particularity, to the extent possible following a reasonable investigation or inquiry, how the product or process infringes one or more claims of the patent.
-    >   - **(5)** *Close case* The court shall not increase damages under this subsection if the court determines that there is a close case as to infringement, validity, or enforceability. On the motion of either party, the court shall determine whether a close case as to infringement, validity, or enforceability exists, and the court shall explain its decision. Once the court determines that such a close case exists, the issue of willful infringement shall not thereafter be tried to the jury.
-    >   - **(6)** *Accrued damages* If a court or jury finds that the infringement of patent was willful, the court may increase only those damages that accrued after the infringement became willful.
-
-- **(b)** *Defense to infringement based on earlier inventor* Section 273(b)(6) of title 35, United States Code, is amended to read as follows:
+- **(a)** *Defense to infringement based on earlier inventor* Section 273(b)(6) of title 35, United States Code, is amended to read as follows:
   > - **(6)** *Personal defense* The defense under this section may be asserted only by the person who performed or caused the performance of the acts necessary to establish the defense as well as any other entity that controls, is controlled by, or is under common control with such person and, except for any transfer to the patent owner, the right to assert the defense shall not be licensed or assigned or transferred to another person except as an ancillary and subordinate part of a good faith assignment or transfer for other reasons of the entire enterprise or line of business to which the defense relates. Notwithstanding the preceding sentence, any person may, on its own behalf, assert a defense based on the exhaustion of rights provided under paragraph (3), including any necessary elements thereof.
 
-- **(c)** *Virtual marking* Section 287(a) of title 35, United States Code, is amended by inserting “, or by fixing thereon the word “patent” or the abbreviation “pat.” together with an address of a posting on the Internet, accessible to the public without charge for accessing the address, that associates the patented article with the number of the patent” before “, or when”.
-- **(d)** *Advice of counsel* Chapter 29 of title 35, United States Code, is amended by adding at the end the following:
+- **(b)** *Virtual marking* Section 287(a) of title 35, United States Code, is amended by inserting “, or by fixing thereon the word “patent” or the abbreviation “pat.” together with an address of a posting on the Internet, accessible to the public without charge for accessing the address, that associates the patented article with the number of the patent” before “, or when”.
+- **(c)** *Advice of counsel* Chapter 29 of title 35, United States Code, is amended by adding at the end the following:
   > ## § 298. Advice of Counsel
   >
   > The failure of an infringer to obtain the advice of counsel with respect to any allegedly infringed patent or the failure of the infringer to present such advice to the court or jury may not be used to prove that the accused infringer willfully infringed the patent or that the infringer intended to induce infringement of the patent.
 
-- **(e)** *Effective date* The amendments made by this section shall apply to any civil action commenced on or after the date of the enactment of this Act.
+- **(d)** *Effective date* The amendments made by this section shall apply to any civil action commenced on or after the date of the enactment of this Act.
 
 ## § 5. Post-grant review proceedings
 
@@ -272,8 +254,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(d)** *Post-Grant review* Part III of title 35, United States Code, is amended by adding at the end the following:
 - **(e)** *Technical and conforming amendment* The table of chapters for part III of title 35, United States Code, is amended by adding at the end the following:
 - **(f)** *Regulations and effective date*
-  - **(1)** *Regulations* The Director shall, not later than the date that is 1 year18 months after the date of the enactment of this Act, issue regulations to carry out chapter 32 of title 35, United States Code, as added by subsection (d) of this section.
-  - **(2)** *Applicability* The amendments made by subsection (d) shall take effect on the date that is 1 year18 months after the date of the enactment of this Act and shall apply only to patents issued on or after that date. The Director may impose a limit on the number of post-grant reviews that may be instituted during each of the 4 years following the effective date of subsection (d).
+  - **(1)** *Regulations* The Director shall, not later than the date that is 1 year after the date of the enactment of this Act, issue regulations to carry out chapter 32 of title 35, United States Code, as added by subsection (d) of this section.
+  - **(2)** *Applicability* The amendments made by subsection (d) shall take effect on the date that is 1 year after the date of the enactment of this Act and, except as provided in section 18 and in paragraph (3), shall apply only to patents that are described in section 2(o)(1). The Director may impose a limit on the number of post-grant reviews that may be instituted during each of the 4 years following the effective date of subsection (d).
   - **(3)** *Pending interferences* The Director shall determine the procedures under which interferences commenced before the effective date of subsection (d) are to proceed, including whether any such interference is to be dismissed without prejudice to the filing of a petition for a post-grant review under chapter 32 of title 35, United States Code, or is to proceed as if this Act had not been enacted. The Director shall include such procedures in regulations issued under paragraph (1). For purposes of an interference that is commenced before the effective date of subsection (d), the Director may deem the Patent Trial and Appeal Board to be the Board of Patent Appeals and Interferences, and may allow the Patent Trial and Appeal Board to conduct any further proceedings in that interference. The authorization to appeal or have remedy from derivation proceedings in sections 141(d) and 146 of title 35, United States Code, and the jurisdiction to entertain appeals from derivation proceedings in section 1295(a)(4)(A) of title 28, United States Code, shall be deemed to extend to final decisions in interferences that are commenced before the effective date of subsection (d) and that are not dismissed pursuant to this paragraph.
 - **(g)** *Citation of prior art and written statements*
   - **(1)** *In general* Section 301 of title 35, United States Code, is amended to read as follows:
@@ -287,11 +269,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
     > - **(d)** *Limitations* A written statement submitted pursuant to subsection (a)(2), and additional information submitted pursuant to subsection (c), shall not be considered by the Office for any purpose other than to determine the proper meaning of a patent claim in a proceeding that is ordered or instituted pursuant to section 304, 314, or 324. If any such written statement or additional information is subject to an applicable protective order, it shall be redacted to exclude information that is subject to that order.
     > - **(e)** *Confidentiality* Upon the written request of the person citing prior art or written statements pursuant to subsection (a), that person’s identity shall be excluded from the patent file and kept confidential.
 
-  - **(2)** *Effective date* The amendment made by this subsection shall take effect 1 year18 months after the date of the enactment of this Act and shall apply to patents issued before, on, or after that effective date.
+  - **(2)** *Effective date* The amendment made by this subsection shall take effect 1 year after the date of the enactment of this Act and shall apply to patents issued before, on, or after that effective date.
 - **(h)** *Reexamination*
   - **(1)** *Determination by Director*
     - **(A)** *In general* Section 303(a) of title 35, United States Code, is amended by striking “section 301 of this title” and inserting “section 301 or 302”.
-    - **(B)** *Effective date* The amendment made by this paragraph shall take effect 1 year18 months after the date of the enactment of this Act and shall apply to patents issued before, on, or after that effective date.
+    - **(B)** *Effective date* The amendment made by this paragraph shall take effect 1 year after the date of the enactment of this Act and shall apply to patents issued before, on, or after that effective date.
   - **(2)** *Appeal*
     - **(A)** *In general* Section 306 of title 35, United States Code, is amended by striking “145” and inserting “144”.
     - **(B)** *Effective date* The amendment made by this paragraph shall take effect on the date of enactment of this Act and shall apply to appeals of reexaminations that are pending before the Board of Patent Appeals and Interferences or the Patent Trial and Appeal Board on or after the date of the enactment of this Act.
@@ -328,11 +310,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(3)** *Proceedings on appeal* Section 143 of title 35, United States Code, is amended—
     - **(A)** by striking the third sentence and inserting the following: “In an ex parte case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all of the issues raised in the appeal. The Director shall have the right to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board in a derivation proceeding under section 135 or in an inter partes or post-grant review under chapter 31 or 32.”; and
     - **(B)** by repealing the second of the two identical fourth sentences.
-- **(d)** *Effective date* The amendments made by this section shall take effect 1 year18 months after the date of the enactment of this Act and shall apply to proceedings commenced on or after that effective date, except that—
+- **(d)** *Effective date* The amendments made by this section shall take effect 1 year after the date of the enactment of this Act and shall apply to proceedings commenced on or after that effective date, except that—
   - **(1)** the extension of jurisdiction to the United States Court of Appeals for the Federal Circuit to entertain appeals of decisions of the Patent Trial and Appeal Board in reexaminations under the amendment made by subsection (c)(2) shall be deemed to take effect on the date of enactment of this Act and shall extend to any decision of the Board of Patent Appeals and Interferences with respect to a reexamination that is entered before, on, or after the date of the enactment of this Act;
-  - **(2)** the provisions of sections 6, 134, and 141 of title 35, United States Code, in effect on the day prior to the date of the enactment of this Act shall continue to apply to inter partes reexaminations that are requested under section 311 prior to the date that is 1 year18 months after the date of the enactment of this Act;
-  - **(3)** the Patent Trial and Appeal Board may be deemed to be the Board of Patent Appeals and Interferences for purposes of appeals of inter partes reexaminations that are requested under section 311 prior to the date that is 1 year18 months after the date of the enactment of this Act; and
-  - **(4)** the Director’s right under the last sentence of section 143 of title 35, United States Code, as amended by subsection (c)(3), to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board shall be deemed to extend to inter partes reexaminations that are requested under section 311 prior to the date that is 1 year18 months after the date of the enactment of this Act.
+  - **(2)** the provisions of sections 6, 134, and 141 of title 35, United States Code, in effect on the day prior to the date of the enactment of this Act shall continue to apply to inter partes reexaminations that are requested under section 311 prior to the date that is 1 year after the date of the enactment of this Act;
+  - **(3)** the Patent Trial and Appeal Board may be deemed to be the Board of Patent Appeals and Interferences for purposes of appeals of inter partes reexaminations that are requested under section 311 prior to the date that is 1 year after the date of the enactment of this Act; and
+  - **(4)** the Director’s right under the last sentence of section 143 of title 35, United States Code, as amended by subsection (c)(3), to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board shall be deemed to extend to inter partes reexaminations that are requested under section 311 prior to the date that is 1 year after the date of the enactment of this Act.
 
 ## § 7. Preissuance submissions by third parties
 
@@ -352,17 +334,14 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 8. Venue
 
-- **(a)** *Change of venue* Section 1400 of title 28, United States Code, is amended by adding at the end the following:
-  > - **(c)** *Change of venue* For the convenience of parties and witnesses, in the interest of justice, a district court shall transfer any civil action arising under any Act of Congress relating to patents upon a showing that the transferee venue is clearly more convenient than the venue in which the civil action is pending.
-
-- **(b)** *Technical amendments relating to venue* Sections 32, 145, 146, 154(b)(4)(A), and 293 of title 35, United States Code, and section 21(b)(4) of the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946” or the “Lanham Act”; 15 U.S.C. 1071(b)(4)), are each amended by striking “United States District Court for the District of Columbia” each place that term appears and inserting “United States District Court for the Eastern District of Virginia”.
-- **(c)** *Effective date* The amendments made by this section shall take effect upon the date of the enactment of this Act and shall apply to civil actions commenced on or after that date.
+- **(a)** *Technical amendments relating to venue* Sections 32, 145, 146, 154(b)(4)(A), and 293 of title 35, United States Code, and section 21(b)(4) of the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946” or the “Lanham Act”; 15 U.S.C. 1071(b)(4)), are each amended by striking “United States District Court for the District of Columbia” each place that term appears and inserting “United States District Court for the Eastern District of Virginia”.
+- **(b)** *Effective date* The amendments made by this section shall take effect upon the date of the enactment of this Act and shall apply to civil actions commenced on or after that date.
 
 ## § 9. Fee setting authority
 
 - **(a)** *Fee setting*
-  - **(1)** *In general* The Director shall have authority to set or adjust by rule any fee established or charged by the Office under sections 41 and 376 of title 35, United States Code, or under section 31 of the Trademark Act of 1946 (15 U.S.C. 1113), or any other fee established or charged by the Office under any other provision of law, notwithstanding the fee amounts established or charged thereunder, for the filing or processing of any submission to, and for all other services performed by or materials furnished by, the Office, provided that patent and trademark fee amounts are in the aggregate set to recover the estimated cost to the Office for processing, activities, services and materials relating to patents and trademarks, respectively, including proportionate shares of the administrative costs of the Office.
-  - **(2)** *Small and micro entities* The fees established under paragraph (1) for filing, processing, issuing, and maintaining patent applications and patents shall be reduced by 50 percent with respect to their application to any small entity that qualifies for reduced fees under section 41(h)(1) of title 35, United States Code, and shall be reduced by 75 percent with respect to their application to any micro entity as defined in section 123 of that title.
+  - **(1)** *In general* The Director shall have authority to set or adjust by rule any fee established, authorized, or charged under title 35, United States Code, and the Trademark Act of 1946 (15 U.S.C. 1051 et seq.), notwithstanding the fee amounts established, authorized, or charged thereunder, for all services performed by or materials furnished by, the Office, provided that patent and trademark fee amounts are in the aggregate set to recover the estimated cost to the Office for processing, activities, services, and materials relating to patents and trademarks, respectively, including proportionate shares of the administrative costs of the Office.
+  - **(2)** *Small and micro entities* The fees established under paragraph (1) for filing, searching, examining, issuing, appealing, and maintaining patent applications and patents shall be reduced by 50 percent with respect to their application to any small entity that qualifies for reduced fees under section 41(h)(1) of title 35, United States Code, and shall be reduced by 75 percent with respect to their application to any micro entity as defined in section 123 of that title.
   - **(3)** *Reduction of fees in certain fiscal years* In any fiscal year, the Director—
     - **(A)** shall consult with the Patent Public Advisory Committee and the Trademark Public Advisory Committee on the advisability of reducing any fees described in paragraph (1); and
     - **(B)** after the consultation required under subparagraph (A), may reduce such fees.
@@ -403,7 +382,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(h)** *Electronic filing incentive*
   - **(1)** *In general* Notwithstanding any other provision of this section, a fee of $400 shall be established for each application for an original patent, except for a design, plant, or provisional application, that is not filed by electronic means as prescribed by the Director. The fee established by this subsection shall be reduced 50 percent for small entities that qualify for reduced fees under section 41(h)(1) of title 35, United States Code. All fees paid under this subsection shall be deposited in the Treasury as an offsetting receipt that shall not be available for obligation or expenditure.
   - **(2)** *Effective date* This subsection shall become effective 60 days after the date of the enactment of this Act.
-- **(i)** *Effective date* Except as provided in subsection (h), the provisions of this section shall take effect upon the date of the enactment of this Act.
+- **(i)** *Reduction in fees for small entity patents* The Director shall reduce fees for providing prioritized examination of utility and plant patent applications by 50 percent for small entities that qualify for reduced fees under section 41(h)(1) of title 35, United States Code, so long as the fees of the prioritized examination program are set to recover the estimated cost of the program.
+- **(j)** *Effective date* Except as provided in subsection (h), the provisions of this section shall take effect upon the date of the enactment of this Act.
 
 ## § 10. Supplemental examination
 
@@ -427,22 +407,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 11. Residency of Federal Circuit judges
 
-- **(a)** *Residency* The second sentence of section 44(c) of title 28, United States Code, is repealed.
-- **(b)** *Facilities* Section 44 of title 28, United States Code, is amended by adding at the end the following:
-  > - **(e)**
-  >   - **(1)** The Director of the Administrative Office of the United States Courts shall provide—
-  >     - **(A)** a judge of the Federal judicial circuit who lives within 50 miles of the District of Columbia with appropriate facilities and administrative support services in the District of the District of Columbia; and
-  >     - **(B)** a judge of the Federal judicial circuit who does not live within 50 miles of the District of Columbia with appropriate facilities and administrative support services—
-  >       - **(i)** in the district and division in which that judge resides; or
-  >       - **(ii)** if appropriate facilities are not available in the district and division in which that judge resides, in the district and division closest to the residence of that judge in which such facilities are available, as determined by the Director.
-  >   - **(2)** Nothing in this subsection may be construed to authorize or require the construction of new facilities.
-
-## § 11. Residency of Federal Circuit judges
-
 - **(a)** *In general* Section 44(c) of title 28, United States Code, is amended—
   - **(1)** by repealing the second sentence; and
   - **(2)** in the third sentence, by striking “state” and inserting “State”.
-- **(b)** *Effective Date* This section shall take effect on the date of enactment of this Act.
+- **(b)** *No provision of facilities authorized* The repeal made by the amendment in subsection (a)(1) shall not be construed to authorize the provision of any court facilities or administrative support services outside of the District of Columbia.
+- **(c)** *Effective Date* This section shall take effect on the date of enactment of this Act.
 
 ## § 12. Micro entity defined
 
@@ -450,17 +419,18 @@ Chapter 11 of title 35, United States Code, is amended by adding at the end the 
 
 > ## § 123. Micro entity defined
 >
-> - **(a)** *In general* For purposes of this title, the term micro entity means an applicant who makes a certification under either subsection (b) or (c).
-> - **(b)** *Unassigned application* For an unassigned application, each applicant shall certify that the applicant—
+> - **(a)** *In general* For purposes of this title, the term micro entity means an applicant who makes a certification that the applicant—
 >   - **(1)** qualifies as a small entity, as defined in regulations issued by the Director;
->   - **(2)** has not been named on 5 or more previously filed patent applications;
->   - **(3)** has not assigned, granted, or conveyed, and is not under an obligation by contract or law to assign, grant, or convey, a license or any other ownership interest in the particular application; and
->   - **(4)** does not have a gross income, as defined in section 61(a) of the Internal Revenue Code (26 U.S.C. 61(a)), exceeding 2.5 times the average gross income, as reported by the Department of Labor, in the calendar year immediately preceding the calendar year in which the examination fee is being paid.
-> - **(c)** *Assigned application* For an assigned application, each applicant shall certify that the applicant—
->   - **(1)** qualifies as a small entity, as defined in regulations issued by the Director, and meets the requirements of subsection (b)(4);
->   - **(2)** has not been named on 5 or more previously filed patent applications; and
->   - **(3)** has assigned, granted, conveyed, or is under an obligation by contract or law to assign, grant, or convey, a license or other ownership interest in the particular application to an entity that has 5 or fewer employees and that such entity has a gross income, as defined in section 61(a) of the Internal Revenue Code (26 U.S.C. 61(a)), that does not exceed 2.5 times the average gross income, as reported by the Department of Labor, in the calendar year immediately preceding the calendar year in which the examination fee is being paid.
-> - **(d)** *Income level adjustment* The gross income levels established under subsections (b) and (c) shall be adjusted by the Director on October 1, 2009, and every year thereafter, to reflect any fluctuations occurring during the previous 12 months in the Consumer Price Index, as determined by the Secretary of Labor.
+>   - **(2)** has not been named on 5 or more previously filed patent applications, not including applications filed in another country, provisional applications under section 111(b), or international applications filed under the treaty defined in section 351(a) for which the basic national fee under section 41(a) was not paid;
+>   - **(3)** did not in the prior calendar year have a gross income, as defined in section 61(a) of the Internal Revenue Code (26 U.S.C. 61(a)), exceeding 3 times the most recently reported median household income, as reported by the Bureau of Census; and
+>   - **(4)** has not assigned, granted, conveyed, and is not under an obligation by contract or law to assign, grant, or convey, a license or other ownership interest in the particular application to an entity that had a gross income, as defined in section 61(a) of the Internal Revenue Code (26 U.S.C. 61(a)), exceeding 3 times the most recently reported median household income, as reported by the Bureau of the Census, in the calendar year preceding the calendar year in which the fee is being paid, other than an entity of higher education where the applicant is not an employee, a relative of an employee, or have any affiliation with the entity of higher education.
+> - **(b)** *Applications resulting from prior employment* An applicant is not considered to be named on a previously filed application for purposes of subsection (a)(2) if the applicant has assigned, or is under an obligation by contract or law to assign, all ownership rights in the application as the result of the applicant’s previous employment.
+> - **(c)** *Foreign currency exchange rate* If an applicant’s or entity’s gross income in the preceding year is not in United States dollars, the average currency exchange rate, as reported by the Internal Revenue Service, during the preceding year shall be used to determine whether the applicant’s or entity’s gross income exceeds the threshold specified in paragraphs (3) or (4) of subsection (a).
+> - **(d)** *State institutions of higher education*
+>   - **(1)** *In General* For purposes of this section, a micro entity shall include an applicant who certifies that—
+>     - **(A)** the applicant's employer, from which the applicant obtains the majority of the applicant's income, is a State public institution of higher education, as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002); or
+>     - **(B)** the applicant has assigned, granted, conveyed, or is under an obligation by contract or law to assign, grant, or convey, a license or other ownership interest in the particular application to such State public institution.
+>   - **(2)** *Director's Authority* The Director may, in the Director's discretion, impose income limits, annual filing limits, or other limits on who may qualify as a micro entity pursuant to this subsection if the Director determines that such additional limits are reasonably necessary to avoid an undue impact on other patent applicants or owners or are otherwise reasonably necessary and appropriate. At least 3 months before any limits proposed to be imposed pursuant to this paragraph shall take effect, the Director shall inform the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate of any such proposed limits.
 
 ## § 13. Funding agreements
 
@@ -473,7 +443,9 @@ Chapter 11 of title 35, United States Code, is amended by adding at the end the 
 
 - **(a)** *In general* For purposes of evaluating an invention under section 102 or 103 of title 35, United States Code, any strategy for reducing, avoiding, or deferring tax liability, whether known or unknown at the time of the invention or application for patent, shall be deemed insufficient to differentiate a claimed invention from the prior art.
 - **(b)** *Definition* For purposes of this section, the term “tax liability” refers to any liability for a tax under any Federal, State, or local law, or the law of any foreign jurisdiction, including any statute, rule, regulation, or ordinance that levies, imposes, or assesses such tax liability.
-- **(c)** *Effective date; applicability* This section shall take effect on the date of enactment of this Act and shall apply to any patent application pending and any patent issued on or after that date.
+- **(c)** *Rule of construction* Nothing in this section shall be construed to imply that other business methods are patentable or that other business-method patents are valid.
+- **(d)** *Effective date; applicability* This section shall take effect on the date of enactment of this Act and shall apply to any patent application pending and any patent issued on or after that date.
+- **(e)** *Exclusion* This section does not apply to that part of an invention that is a method, apparatus, computer program product, or system, that is used solely for preparing a tax or information return or other tax filing, including one that records, transmits, transfers, or organizes data related to such filing.
 
 ## § 15. Best mode requirement
 
@@ -524,7 +496,6 @@ Chapter 11 of title 35, United States Code, is amended by adding at the end the 
 - **(h)** *Action for infringement* Section 288 of title 35, United States Code, is amended by striking “, without deceptive intention,”.
 - **(i)** *Reviser's notes*
   - **(1)** Section 3(e)(2) of title 35, United States Code, is amended by striking “this Act,” and inserting “that Act,”.
-  - **(2)** Section 202(b)(3) of title 35, United States Code, is amended by striking “the section 203(b)” and inserting “section 203(b)”.
   - **(2)** Section 202 of title 35, United States Code, is amended—
     - **(A)** in subsection (b)(3), by striking “the section 203(b)” and inserting “section 203(b)”; and
     - **(B)** in subsection (c)(7)—
@@ -567,7 +538,8 @@ Chapter 11 of title 35, United States Code, is amended by adding at the end the 
     > - **(b)** *Special rules* The removal of an action under this section shall be made in accordance with section 1446 of this chapter, except that if the removal is based solely on this section—
     >   - **(1)** the action may be removed by any party; and
     >   - **(2)** the time limitations contained in section 1446(b) may be extended at any time for cause shown.
-    > - **(c)** *Remand* If a civil action is removed solely under this section, the district court—
+    > - **(c)** *Derivative jurisdiction not required* The court to which a civil action is removed under this section is not precluded from hearing and determining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
+    > - **(d)** *Remand* If a civil action is removed solely under this section, the district court—
     >   - **(1)** shall remand all claims that are neither a basis for removal under subsection (a) nor within the original or supplemental jurisdiction of the district court under any Act of Congress; and
     >   - **(2)** may, under the circumstances specified in section 1367(c), remand any claims within the supplemental jurisdiction of the district court under section 1367.
 
@@ -581,7 +553,124 @@ Chapter 11 of title 35, United States Code, is amended by adding at the end the 
   - **(2)** *Conforming amendment* The table of sections for chapter 99 of title 28, United States Code, is amended by adding at the end the following new item:
 - **(f)** *Effective date* The amendments made by this section shall apply to any civil action commenced on or after the date of the enactment of this Act.
 
-## § 17.18. Effective date; rule of construction
+## § 18. Transitional program for covered business-method patents
 
-- **(a)** *Effective date* Except as otherwise provided in this Act, the provisions of this Act shall take effect 1 year after the date of the enactment of this Act and shall apply to any patent issued on or after that effective date.
-- **(b)** *Continuity of intent under the Create Act* The enactment of section 102(c) of title 35, United States Code, under section (2)(b) of this Act is done with the same intent to promote joint research activities that was expressed, including in the legislative history, through the enactment of the Cooperative Research and Technology Enhancement Act of 2004 (Public Law 108–453; the “CREATE Act”), the amendments of which are stricken by section 2(c) of this Act. The United States Patent and Trademark Office shall administer section 102(c) of title 35, United States Code, in a manner consistent with the legislative history of the CREATE Act that was relevant to its administration by the United States Patent and Trademark Office.
+- **(a)** *References* Except as otherwise expressly provided, wherever in this section language is expressed in terms of a section or chapter, the reference shall be considered to be made to that section or chapter in title 35, United States Code.
+- **(b)** *Transitional program*
+  - **(1)** *Establishment* Not later than 1 year after the date of enactment of this Act, the Director shall issue regulations establishing and implementing a transitional post-grant review proceeding for review of the validity of covered business-method patents. The transitional proceeding implemented pursuant to this subsection shall be regarded as, and shall employ the standards and procedures of, a post-grant review under chapter 32, subject to the following exceptions and qualifications:
+    - **(A)** Section 321(c) and subsections (e)(2), (f), and (g) of section 325 shall not apply to a transitional proceeding.
+    - **(B)** A person may not file a petition for a transitional proceeding with respect to a covered business-method patent unless the person or his real party in interest has been sued for infringement of the patent or has been charged with infringement under that patent.
+    - **(C)** A petitioner in a transitional proceeding who challenges the validity of 1 or more claims in a covered business-method patent on a ground raised under section 102 or 103 as in effect on the day prior to the date of enactment of this Act may support such ground only on the basis of—
+      - **(i)** prior art that is described by section 102(a) (as in effect on the day prior to the date of enactment of this Act); or
+      - **(ii)** prior art that—
+        - **(I)** discloses the invention more than 1 year prior to the date of the application for patent in the United States; and
+        - **(II)** would be described by section 102(a) (as in effect on the day prior to the date of enactment of this Act) if the disclosure had been made by another before the invention thereof by the applicant for patent.
+    - **(D)** The petitioner in a transitional proceeding, or his real party in interest, may not assert either in a civil action arising in whole or in part under section 1338 of title 28, United States Code, or in a proceeding before the International Trade Commission that a claim in a patent is invalid on any ground that the petitioner raised during a transitional proceeding that resulted in a final written decision.
+    - **(E)** The Director may institute a transitional proceeding only for a patent that is a covered business-method patent.
+  - **(2)** *Effective date* The regulations issued pursuant to paragraph (1) shall take effect on the date that is 1 year after the date of enactment of this Act and shall apply to all covered business-method patents issued before, on, or after such date of enactment, except that the regulations shall not apply to a patent described in the first sentence of section 5(f)(2) of this Act during the period that a petition for post-grant review of that patent would satisfy the requirements of section 321(c).
+  - **(3)** *Sunset*
+    - **(A)** *In general* This subsection, and the regulations issued pursuant to this subsection, are repealed effective on the date that is 4 years after the date that the regulations issued pursuant to paragraph (1) take effect.
+    - **(B)** *Applicability* Notwithstanding subparagraph (A), this subsection and the regulations implemented pursuant to this subsection shall continue to apply to any petition for a transitional proceeding that is filed prior to the date that this subsection is repealed pursuant to subparagraph (A).
+- **(c)** *Request for stay*
+  - **(1)** *In general* If a party seeks a stay of a civil action alleging infringement of a patent under section 281 in relation to a transitional proceeding for that patent, the court shall decide whether to enter a stay based on—
+    - **(A)** whether a stay, or the denial thereof, will simplify the issues in question and streamline the trial;
+    - **(B)** whether discovery is complete and whether a trial date has been set;
+    - **(C)** whether a stay, or the denial thereof, would unduly prejudice the nonmoving party or present a clear tactical advantage for the moving party; and
+    - **(D)** whether a stay, or the denial thereof, will reduce the burden of litigation on the parties and on the court.
+  - **(2)** *Review* A party may take an immediate interlocutory appeal from a district court’s decision under paragraph (1). The United States Court of Appeals for the Federal Circuit shall review the district court’s decision to ensure consistent application of established precedent, and such review may be de novo.
+- **(d)** *Definition* For purposes of this section, the term “covered business method patent” means a patent that claims a method or corresponding apparatus for performing data processing operations utilized in the practice, administration, or management of a financial product or service, except that the term shall not include patents for technological inventions. Solely for the purpose of implementing the transitional proceeding authorized by this subsection, the Director shall prescribe regulations for determining whether a patent is for a technological invention.
+- **(e)** *Rule of construction* Nothing in this section shall be construed as amending or interpreting categories of patent-eligible subject matter set forth under section 101.
+
+## § 19. Travel expenses and payment of administrative judges
+
+- **(a)** *Authority To cover certain travel related expenses* Section 2(b)(11) of title 35, United States Code, is amended by inserting “, and the Office is authorized to expend funds to cover the subsistence expenses and travel-related expenses, including per diem, lodging costs, and transportation costs, of non-federal employees attending such programs” after “world”.
+- **(b)** *Payment of administrative judges* Section 3(b) of title 35, United States Code, is amended by adding at the end the following:
+  > - **(6)** *Administrative patent judges and administrative trademark judges* The Director has the authority to fix the rate of basic pay for the administrative patent judges appointed pursuant to section 6 of this title and the administrative trademark judges appointed pursuant to section 17 of the Trademark Act of 1946 (15 U.S.C. 1067) at not greater than the rate of basic pay payable for Level III of the Executive Schedule. The payment of a rate of basic pay under this paragraph shall not be subject to the pay limitation of section 5306(e) or 5373 of title 5.
+
+## § 20. Patent and Trademark Office funding
+
+- **(a)** *Definitions* In this section, the following definitions shall apply:
+  - **(1)** *Director* The term “Director” means the Director of the United States Patent and Trademark Office.
+  - **(2)** *Fund* The term “Fund” means the public enterprise revolving fund established under subsection (c).
+  - **(3)** *Office* The term “Office” means the United States Patent and Trademark Office.
+  - **(4)** *Trademark Act of 1946* The term “Trademark Act of 1946” means an Act entitled “Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 (15 U.S.C. 1051 et seq.) (commonly referred to as the “Trademark Act of 1946” or the “Lanham Act”).
+  - **(5)** *Under Secretary* The term “Under Secretary” means the Under Secretary of Commerce for Intellectual Property.
+- **(b)** *Funding*
+  - **(1)** *In general* Section 42 of title 35, United States Code, is amended—
+    - **(A)** in subsection (b), by striking “Patent and Trademark Office Appropriation Account” and inserting “United States Patent and Trademark Office Public Enterprise Fund”; and
+    - **(B)** in subsection (c), in the first sentence—
+      - **(i)** by striking “To the extent” and all that follows through “fees” and inserting “Fees”; and
+      - **(ii)** by striking “shall be collected by and shall be available to the Director” and inserting “shall be collected by the Director and shall be available until expended”.
+  - **(2)** *Effective date* The amendments made by paragraph (1) shall take effect on the later of—
+    - **(A)** October 1, 2011; or
+    - **(B)** the first day of the first fiscal year that begins after the date of the enactment of this Act.
+- **(c)** *USPTO Revolving fund*
+  - **(1)** *Establishment* There is established in the Treasury of the United States a revolving fund to be known as the “United States Patent and Trademark Office Public Enterprise Fund”. Any amounts in the Fund shall be available for use by the Director without fiscal year limitation.
+  - **(2)** *Derivation of resources* There shall be deposited into the Fund on or after the effective date of subsection (b)(1)—
+    - **(A)** any fees collected under sections 41, 42, and 376 of title 35, United States Code, provided that notwithstanding any other provision of law, if such fees are collected by, and payable to, the Director, the Director shall transfer such amounts to the Fund, provided, however, that no funds collected pursuant to section 9(h) of this Act or section 1(a)(2) of Public Law 111–45 shall be deposited in the Fund; and
+    - **(B)** any fees collected under section 31 of the Trademark Act of 1946 (15 U.S.C. 1113).
+  - **(3)** *Expenses* Amounts deposited into the Fund under paragraph (2) shall be available, without fiscal year limitation, to cover—
+    - **(A)** all expenses to the extent consistent with the limitation on the use of fees set forth in section 42(c) of title 35, United States Code, including all administrative and operating expenses, determined in the discretion of the Under Secretary to be ordinary and reasonable, incurred by the Under Secretary and the Director for the continued operation of all services, programs, activities, and duties of the Office relating to patents and trademarks, as such services, programs, activities, and duties are described under—
+      - **(i)** title 35, United States Code; and
+      - **(ii)** the Trademark Act of 1946; and
+    - **(B)** all expenses incurred pursuant to any obligation, representation, or other commitment of the Office.
+- **(d)** *Annual report* Not later than 60 days after the end of each fiscal year, the Under Secretary and the Director shall submit a report to Congress which shall—
+  - **(1)** summarize the operations of the Office for the preceding fiscal year, including financial details and staff levels broken down by each major activity of the Office;
+  - **(2)** detail the operating plan of the Office, including specific expense and staff needs for the upcoming fiscal year;
+  - **(3)** describe the long term modernization plans of the Office;
+  - **(4)** set forth details of any progress towards such modernization plans made in the previous fiscal year; and
+  - **(5)** include the results of the most recent audit carried out under subsection (f).
+- **(e)** *Annual spending plan*
+  - **(1)** *In general* Not later than 30 days after the beginning of each fiscal year, the Director shall notify the Committees on Appropriations of both Houses of Congress of the plan for the obligation and expenditure of the total amount of the funds for that fiscal year in accordance with section 605 of the Science, State, Justice, Commerce, and Related Agencies Appropriations Act, 2006 (Public Law 109–108; 119 Stat. 2334).
+  - **(2)** *Contents* Each plan under paragraph (1) shall—
+    - **(A)** summarize the operations of the Office for the current fiscal year, including financial details and staff levels with respect to major activities; and
+    - **(B)** detail the operating plan of the Office, including specific expense and staff needs, for the current fiscal year.
+- **(f)** *Audit* The Under Secretary shall, on an annual basis, provide for an independent audit of the financial statements of the Office. Such audit shall be conducted in accordance with generally acceptable accounting procedures.
+- **(g)** *Budget* The Fund shall prepare and submit each year to the President a business-type budget in a manner, and before a date, as the President prescribes by regulation for the budget program.
+
+## § 21. Satellite Offices
+
+- **(a)** *Establishment* Subject to available resources, the Director may establish 3 or more satellite offices in the United States to carry out the responsibilities of the Patent and Trademark Office.
+- **(b)** *Purpose* The purpose of the satellite offices established under subsection (a) are to—
+  - **(1)** increase outreach activities to better connect patent filers and innovators with the Patent and Trademark Office;
+  - **(2)** enhance patent examiner retention;
+  - **(3)** improve recruitment of patent examiners; and
+  - **(4)** decrease the number of patent applications waiting for examination and improve the quality of patent examination.
+- **(c)** *Required considerations* In selecting the locale of each satellite office to be established under subsection (a), the Director—
+  - **(1)** shall ensure geographic diversity among the offices, including by ensuring that such offices are established in different States and regions throughout the Nation;
+  - **(2)** may rely upon any previous evaluations by the Patent and Trademark Office of potential locales for satellite offices, including any evaluations prepared as part of the Patent and Trademark Office's Nationwide Workforce Program that resulted in the 2010 selection of Detroit, Michigan as the first ever satellite office of the Patent and Trademark Office; and
+  - **(3)** nothing in the preceding paragraph shall constrain the Patent and Trademark Office to only consider its prior work from 2010. The process for site selection shall be open.
+- **(d)** *Phase-in* The Director shall satisfy the requirements of subsection (a) over the 3-year period beginning on the date of enactment of this Act.
+- **(e)** *Report to Congress* Not later than the end of the first fiscal year that occurs after the date of the enactment of this Act, and each fiscal year thereafter, the Director shall submit a report to Congress on—
+  - **(1)** the rationale of the Director in selecting the locale of any satellite office required under subsection (a);
+  - **(2)** the progress of the Director in establishing all such satellite offices; and
+  - **(3)** whether the operation of existing satellite offices is achieving the purposes required under subsection (b).
+- **(f)** *Definitions* In this section, the following definitions shall apply:
+  - **(1)** *Director* The term “Director” means the Director of the United States Patent and Trademark Office.
+  - **(2)** *Patent and Trademark Office* The term “Patent and Trademark Office” means the United States Patent and Trademark Office.
+
+## § 22. Patent Ombudsman Program for small business concerns
+
+Subject to available resources, the Director may establish in the United States Patent and Trademark Office a Patent Ombudsman Program. The duties of the Program's staff shall include providing support and services relating to patent filings to small business concerns.
+
+## § 23. Priority examination for technologies important to American competitiveness
+
+Section 2(b)(2) of title 35, United States Code, is amended—
+
+- **(1)** in subparagraph (E), by striking “; and” and inserting a semicolon;
+- **(2)** in subparagraph (F), by striking the semicolon and inserting “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(G)** may, subject to any conditions prescribed by the Director and at the request of the patent applicant, provide for prioritization of examination of applications for products, processes, or technologies that are important to the national economy or national competitiveness without recovering the aggregate extra cost of providing such prioritization, notwithstanding section 41 or any other provision of law;
+
+## § 24. Designation of Detroit satellite office
+
+- **(a)** *Designation* The satellite office of the United States Patent and Trademark Office to be located in Detroit, Michigan shall be known and designated as the “Elijah J. McCoy United States Patent and Trademark Office”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the satellite office of the United States Patent and Trademark Office to be located in Detroit, Michigan referred to in subsection (a) shall be deemed to be a reference to the “Elijah J. McCoy United States Patent and Trademark Office”.
+
+## § 25. Effective date
+
+-  Except as otherwise provided in this Act, the provisions of this Act shall take effect 1 year after the date of the enactment of this Act and shall apply to any patent issued on or after that effective date.
+
+## § 26. Budgetary effects
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.
