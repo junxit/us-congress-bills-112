@@ -1,7 +1,7 @@
 ---
 measure: H.R. 525
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 525
@@ -26,6 +26,10 @@ Veterinary Public Health Amendments Act of 2011
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2011-03-08 — [House 112-1-164](votes/house-112-1-0164.md) — On Motion to Suspend the Rules and Pass — **Passed** (280–138)
+
 ## Actions
 
 - 2011-02-08 — Introduced in House
@@ -39,3 +43,11 @@ Veterinary Public Health Amendments Act of 2011
 - 2011-03-02 — Placed on the Union Calendar, Calendar No. 10.
 - 2011-03-02 — Reported by the Committee on Energy and Commerce. H. Rept. 112-22.
 - 2011-03-02 — Reported by the Committee on Energy and Commerce. H. Rept. 112-22.
+- 2011-03-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-03-08 — Considered as unfinished business. (consideration: CR H1602-1603)
+- 2011-03-08 — Considered under suspension of the rules. (consideration: CR H1600-1601)
+- 2011-03-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 525.
+- 2011-03-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-03-08 — Mr. Burgess moved to suspend the rules and pass the bill.
+- 2011-03-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 280 - 138 (Roll no. 164). (text: CR H1600)
+- 2011-03-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 280 - 138 (Roll no. 164).(text: CR H1600)

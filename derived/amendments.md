@@ -1,7 +1,7 @@
 ---
 measure: H.R. 525
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -34,4 +34,4 @@ complete account of the bill's effect, which it is not.
 | — | insert | Subsections (b)(1)(A) and (d)(6) of section 765 of the Public Health Service Act (42 U.S.C. 295) are amended by inserting “veterinary public health,” after “preventive medicine,” each place it appears. | the bill names no machine-readable US Code section |
 | — | replace | Subparagraphs (A) and (B) of section 776(b)(1) of the Public Health Service Act (42 U.S.C. 295f–1(b)(1)) are amended by striking “public health or health professions degree or certificate” each place it appears and inserting “public heal… | the bill names no machine-readable US Code section |
 | — | amend | Subparagraph (A) of section 776(b)(1) of the Public Health Service Act (42 U.S.C. 295f–1(b)(1)) is amended by adding “or” at the end. | the bill names no machine-readable US Code section |
-| — | amend | Section 799B of the Public Health Service Act (42 U.S.C. 295p) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 799B of the Public Health Service Act (42 U.S.C. 295p) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
