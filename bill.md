@@ -1,0 +1,107 @@
+---
+legis-num: S. 508
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 508
+
+> To establish the Chimney Rock National Monument in the State of Colorado.
+
+## § 1. Short title
+
+This Act may be cited as the “Chimney Rock National Monument Establishment Act”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *National monument* The term national monument means the Chimney Rock National Monument established by section 3(a).
+- **(2)** *Secretary* The term Secretary means the Secretary of Agriculture.
+- **(3)** *State* The term State means the State of Colorado.
+
+## § 3. Establishment of chimney rock national monument
+
+- **(a)** *Establishment* There is established in the State the Chimney Rock National Monument—
+  - **(1)** to preserve, protect, and restore the archeological, cultural, historic, geologic, hydrologic, natural, educational, and scenic resources of Chimney Rock and adjacent land; and
+  - **(2)** to provide for public interpretation and recreation consistent with the protection of the resources described in paragraph (1).
+- **(b)** *Boundaries*
+  - **(1)** *In general* The national monument shall consist of approximately 4,726 acres of land and interests in land, as generally depicted on the map entitled “Boundary Map, Chimney Rock National Monument” and dated January 5, 2010.
+  - **(2)** *Minor adjustments* The Secretary may make minor adjustments to the boundary of the national monument to reflect the inclusion of significant archeological resources discovered after the date of enactment of this Act on adjacent National Forest System land.
+  - **(3)** *Availability of map* The map described in paragraph (1) shall be on file and available for public inspection in the appropriate offices of the Forest Service.
+
+## § 4. Administration
+
+- **(a)** *In general* The Secretary shall—
+  - **(1)** administer the national monument—
+    - **(A)** in furtherance of the purposes for which the national monument was established; and
+    - **(B)** in accordance with—
+      - **(i)** this Act; and
+      - **(ii)** any laws generally applicable to the National Forest System; and
+  - **(2)** allow only such uses of the national monument that the Secretary determines would further the purposes described in section 3(a).
+- **(b)** *Tribal uses*
+  - **(1)** *In general* The Secretary shall administer the national monument in accordance with—
+    - **(A)** the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001 et seq.); and
+    - **(B)** the policy described in Public Law 95–341 (commonly known as the “American Indian Religious Freedom Act”) (42 U.S.C. 1996).
+  - **(2)** *Traditional uses* Subject to any terms and conditions the Secretary determines to be necessary and in accordance with applicable law, the Secretary shall allow for the continued use of the national monument by members of Indian tribes—
+    - **(A)** for traditional ceremonies; and
+    - **(B)** as a source of traditional plants and other materials.
+- **(c)** *Vegetation management* The Secretary may carry out vegetation management treatments within the national monument, except that the harvesting of timber shall only be used if the Secretary determines that the harvesting is necessary for—
+  - **(1)** ecosystem restoration in furtherance of section 3(a); or
+  - **(2)** the control of fire, insects, or diseases.
+- **(d)** *Motor vehicles and mountain bikes* The use of motor vehicles and mountain bikes in the national monument shall be limited to the roads and trails identified by the Secretary as appropriate for the use of motor vehicles and mountain bikes.
+- **(e)** *Grazing* The Secretary shall permit grazing within the national monument, where established before the date of enactment of this Act—
+  - **(1)** subject to all applicable laws (including regulations); and
+  - **(2)** consistent with the purposes described in section 3(a).
+- **(f)** *Utility right-of-Way upgrades* Nothing in this Act precludes the Secretary from renewing or authorizing the upgrading of a utility right-of-way in existence as of the date of enactment of this Act through the national monument—
+  - **(1)** in accordance with—
+    - **(A)** the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
+    - **(B)** any other applicable law; and
+  - **(2)** subject to such terms and conditions as the Secretary determines to be appropriate.
+- **(g)** *Education and interpretive center* The Secretary may develop and construct an education and interpretive center to interpret the scientific and cultural resources of the national monument for the public.
+- **(h)** *Designation of manager*
+  - **(1)** *In general* As soon as practicable after the management plan is developed under section 5(a), the Secretary shall designate an individual as manager of the national monument.
+  - **(2)** *Other duties* The manager designated under paragraph (1) shall not be precluded from fulfilling other responsibilities within the San Juan National Forest.
+
+## § 5. Management plan
+
+- **(a)** *In general* Not later than 3 years after the date of enactment of this Act, the Secretary, in consultation with Indian tribes with a cultural or historic tie to Chimney Rock, shall develop a management plan for the national monument.
+- **(b)** *Public comment* In developing the management plan, the Secretary shall provide an opportunity for public comment by—
+  - **(1)** State and local governments;
+  - **(2)** tribal governments; and
+  - **(3)** any other interested organizations and individuals.
+
+## § 6. Land acquisition
+
+The Secretary may acquire land and any interest in land within or adjacent to the boundary of the national monument by—
+
+- **(1)** purchase from willing sellers with donated or appropriated funds;
+- **(2)** donation; or
+- **(3)** exchange.
+
+## § 7. Withdrawal
+
+- **(a)** *In general* Subject to valid existing rights, all Federal land within the national monument (including any land or interest in land acquired after the date of enactment of this Act) is withdrawn from—
+  - **(1)** entry, appropriation, or disposal under the public land laws;
+  - **(2)** location, entry, and patent under the mining laws; and
+  - **(3)** subject to subsection (b), operation of the mineral leasing, mineral materials, and geothermal leasing laws.
+- **(b)** *Limitation* Notwithstanding subsection (a)(3), the Federal land is not withdrawn for the purposes of issuance of gas pipeline rights-of-way within easements in existence as of the date of enactment of this Act.
+
+## § 8. Effect
+
+- **(a)** *Water rights*
+  - **(1)** *In general* Nothing in this Act affects any valid water rights, including water rights held by the United States.
+  - **(2)** *Reserved water right* The designation of the national monument does not create a Federal reserved water right.
+- **(b)** *Tribal rights* Nothing in this Act affects—
+  - **(1)** the rights of any Indian tribe on Indian land;
+  - **(2)** any individually held trust land or Indian allotment; or
+  - **(3)** any treaty rights providing for nonexclusive access to or within the national monument by members of Indian tribes for traditional and cultural purposes.
+- **(c)** *Fish and wildlife* Nothing in this Act affects the jurisdiction of the State with respect to the management of fish and wildlife on public land in the State.
+- **(d)** *Adjacent uses* Nothing in this Act—
+  - **(1)** creates a protective perimeter or buffer zone around the national monument; or
+  - **(2)** affects private property outside of the boundary of the national monument.
+
+## § 9. Authorization of appropriations
+
+There are authorized to be appropriated such sums as are necessary to carry out this Act.
