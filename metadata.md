@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 63
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 63
@@ -34,3 +34,7 @@ A resolution designating the first week of April 2011 as "National Asbestos Awar
 
 - 2011-02-17 — Introduced in Senate
 - 2011-02-17 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S914)
+- 2011-03-09 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S1512)
+- 2011-03-09 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S1512)
+- 2011-03-09 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1512)
+- 2011-03-09 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1512)
