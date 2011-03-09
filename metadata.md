@@ -1,7 +1,7 @@
 ---
 measure: H.R. 570
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 570
@@ -45,9 +45,10 @@ Dental Emergency Responder Act of 2011
 - Rep. Green, Gene [D-TX-29] (G000410)
 - Rep. McKinley, David B. [R-WV-1] (M001180)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -74,3 +75,4 @@ Dental Emergency Responder Act of 2011
 - 2011-03-08 — Mr. Burgess moved to suspend the rules and pass the bill.
 - 2011-03-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 12 (Roll no. 163). (text: CR H1599)
 - 2011-03-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 12 (Roll no. 163).(text: CR H1599)
+- 2011-03-09 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.

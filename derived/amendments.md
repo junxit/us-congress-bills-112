@@ -1,7 +1,7 @@
 ---
 measure: H.R. 570
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+3 amendatory instructions. 1 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 247d-6
+
+> Section 319F(a)(5)(B) of the Public Health Service Act (42 U.S.C. 247d–6(a)(5)(B)) is amended by striking “public health or medical” and inserting “public health, medical, or dental”.
+
+| | |
+|---|---|
+| Removed | `public health or medical` |
+| Inserted | `public health, medical, or dental` |
 
 ## Stated, not applied
 
@@ -31,6 +42,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in the matter preceding subparagraph (A), by inserting “and which may include dental health facilities” after “mental health facilities”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (D), by inserting “(which may include such dental health assets)” after “medical assets”. | the bill names no machine-readable US Code section |
-| — | replace | Section 319F(a)(5)(B) of the Public Health Service Act (42 U.S.C. 247d–6(a)(5)(B)) is amended by striking “public health or medical” and inserting “public health, medical, or dental”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 300hh-1` | insert | in the matter preceding subparagraph (A), by inserting “and which may include dental health facilities” after “mental health facilities”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300hh-1` | insert | in subparagraph (D), by inserting “(which may include such dental health assets)” after “medical assets”. | the bill quotes the text inserted but describes where it goes |
