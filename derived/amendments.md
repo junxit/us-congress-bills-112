@@ -1,7 +1,7 @@
 ---
 measure: H.R. 525
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+4 amendatory instructions. 1 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 295f-1
+
+> Subparagraphs (A) and (B) of section 776(b)(1) of the Public Health Service Act (42 U.S.C. 295f–1(b)(1)) are amended by striking “public health or health professions degree or certificate” each place it appears and inserting “public health (including veterinary public health) or health professions degree or certificate”.
+
+| | |
+|---|---|
+| Removed | `public health or health professions degree or certificate` |
+| Inserted | `public health (including veterinary public health) or health professions degree or certificate` |
 
 ## Stated, not applied
 
@@ -31,7 +42,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Subsections (b)(1)(A) and (d)(6) of section 765 of the Public Health Service Act (42 U.S.C. 295) are amended by inserting “veterinary public health,” after “preventive medicine,” each place it appears. | the bill names no machine-readable US Code section |
-| — | replace | Subparagraphs (A) and (B) of section 776(b)(1) of the Public Health Service Act (42 U.S.C. 295f–1(b)(1)) are amended by striking “public health or health professions degree or certificate” each place it appears and inserting “public heal… | the bill names no machine-readable US Code section |
-| — | amend | Subparagraph (A) of section 776(b)(1) of the Public Health Service Act (42 U.S.C. 295f–1(b)(1)) is amended by adding “or” at the end. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 799B of the Public Health Service Act (42 U.S.C. 295p) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 295` | insert | Subsections (b)(1)(A) and (d)(6) of section 765 of the Public Health Service Act (42 U.S.C. 295) are amended by inserting “veterinary public health,” after “preventive medicine,” each place it appears. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 295f-1` | amend | Subparagraph (A) of section 776(b)(1) of the Public Health Service Act (42 U.S.C. 295f–1(b)(1)) is amended by adding “or” at the end. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 295p` | add-at-end | Section 799B of the Public Health Service Act (42 U.S.C. 295p) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
