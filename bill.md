@@ -1,0 +1,52 @@
+---
+legis-num: H.R. 972
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 972
+
+> To amend the National Labor Relations Act to ensure the right of employees to a secret ballot election conducted by the National Labor Relations Board.
+
+## § 1. Short title
+
+This Act may be cited as the “Secret Ballot Protection Act”.
+
+## § 2. Findings
+
+Congress finds that—
+
+- **(1)** the importance of a secret ballot election has been recognized by the United States for over 100 years;
+- **(2)** the fundamental democratic right to choose by secret ballot is the only method that ensures a choice free of coercion, intimidation, irregularity, or illegality;
+- **(3)** the recognition of a labor organization by way of a private agreement, rather than a secret ballot election supervised by a neutral third party, threatens an employee’s right, codified in the National Labor Relations Act, to choose whether or not to be represented by a labor organization; and
+- **(4)** preserving workers’ right to choose whether or not to be represented by a labor organization through a secret ballot election is important to the strength of the national economy.
+
+## § 3. National Labor Relations Act
+
+- **(a)** *Recognition of representative*
+  - **(1)** *In general* Section 8(a)(2) of the National Labor Relations Act (29 U.S.C. 158(a)(2)) is amended by inserting before the colon the following: “or to recognize or bargain collectively with a labor organization that has not been selected by a majority of employees in a unit appropriate for such purposes in a secret ballot election conducted by the National Labor Relations Board in accordance with section 9”.
+  - **(2)** *Application* The amendment made by paragraph (1) shall not apply to collective bargaining relationships that were recognized before the date of enactment of this Act.
+- **(b)** *Election required*
+  - **(1)** *In general* Section 8(b) of the National Labor Relations Act (29 U.S.C. 158(b)), as amended by subsection (c) of this section, is amended—
+    - **(A)** by striking “and” at the end of paragraph (6);
+    - **(B)** by striking the period at the end of paragraph (7) and inserting “; and”; and
+    - **(C)** by adding at the end the following:
+      > - **(8)** to cause or attempt to cause an employer to recognize or bargain collectively with a representative of a labor organization that has not been selected by a majority of employees in a unit appropriate for such purposes in a secret ballot election conducted by the National Labor Relations Board in accordance with section 9.
+
+  - **(2)** *Application* The amendment made by paragraph (1) shall not apply to collective bargaining relationships that were recognized before the date of enactment of this Act.
+- **(c)** *Secret ballot election required* Section 9(a) of the National Labor Relations Act (29 U.S.C. 159(a)), is amended—
+  - **(1)** by inserting “(1)” after “(a)”;
+  - **(2)** by inserting after “designated or selected” the following: “by a secret ballot election conducted by the National Labor Relations Board in accordance with this section”; and
+  - **(3)** by adding at the end the following:
+    > - **(2)** The secret ballot election requirement of paragraph (1) shall not apply to collective bargaining relationships that were recognized before the date of enactment of the Secret Ballot Protection Act.
+
+- **(d)** *Conforming amendments* Section 9(c)(1) of such Act (29 U.S.C. 159(c)(1)) is amended—
+  - **(1)** in subparagraph (A)—
+    - **(A)** in clause (i), by striking “and that their employer declines to recognize their representative as the representative defined in section 9(a)” and inserting “by a representative”; and
+    - **(B)** in clause (ii), by striking “section 9(a);” and inserting “subsection (a),”; and
+  - **(2)** in subparagraph (B), by striking “alleging” and all that follows through “defined in section 9(a)”.
+
+## § 4. Regulations
+
+Not later than 6 months after the date of the enactment of this Act the National Labor Relations Board shall review and revise all regulations promulgated before such date to implement the amendments made in this Act to the National Labor Relations Act.
