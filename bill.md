@@ -1,0 +1,33 @@
+---
+legis-num: H.R. 1035
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1035
+
+> To amend title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to permit Medicaid coverage for citizens of the Freely Associated States lawfully residing in the United States under the Compacts of Free Association between the Government of the United States and the Governments of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
+
+## § 1. Short title
+
+This Act may be cited as the “Medicaid Coverage for Citizens of Freely Associated States Act of 2011”.
+
+## § 2. Medicaid coverage for citizens of Freely Associated States
+
+- **(a)** *In general* Section 402(b)(2) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1612(b)(2)) is amended by adding at the end the following new subparagraph:
+  > - **(G)** *Medicaid exception for citizens of Freely Associated States* With respect to eligibility for benefits for the designated Federal program defined in paragraph (3)(C) (relating to the Medicaid program), section 401(a) and paragraph (1) shall not apply to any individual who lawfully resides in 1 of the 50 States or the District of Columbia in accordance with the Compacts of Free Association between the Government of the United States and the Governments of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau and shall not apply, at the option of the Governor of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa as communicated to the Secretary of Health and Human Services in writing, to any individual who lawfully resides in the respective territory in accordance with such Compacts.
+
+- **(b)** *Exception to 5-Year limited eligibility* Section 403(d) of such Act (8 U.S.C. 1613(d)) is amended—
+  - **(1)** in paragraph (1), by striking “or” at the end;
+  - **(2)** in paragraph (2), by striking the period at the end and inserting “; or”; and
+  - **(3)** by adding at the end the following new paragraph:
+    > - **(3)** an individual described in section 402(b)(2)(G), but only with respect to the designated Federal program defined in section 402(b)(3)(C).
+
+- **(c)** *Definition of qualified alien* Section 431(b) of such Act (8 U.S.C. 1641(b)) is amended—
+  - **(1)** in paragraph (6), by striking “; or” at the end and inserting a comma;
+  - **(2)** in paragraph (7), by striking the period at the end and inserting “, or”; and
+  - **(3)** by adding at the end the following new paragraph:
+    > - **(8)** an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in section 402(b)(2)(G), but only with respect to the designated Federal program defined in section 402(b)(3)(C) (relating to the Medicaid program).
+
+- **(d)** *Effective date* The amendments made by this section shall apply to benefits for items and services furnished on or after the date of the enactment of this Act.
