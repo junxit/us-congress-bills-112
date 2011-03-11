@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 147
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 147
@@ -25,3 +25,8 @@ Providing for the expenses of certain committees of the House of Representatives
 - 2011-03-08 — Introduced in House
 - 2011-03-08 — Introduced in House
 - 2011-03-08 — Referred to the House Committee on House Administration.
+- 2011-03-09 — Committee Consideration and Mark-up Session Held.
+- 2011-03-09 — Ordered to be Reported by Voice Vote.
+- 2011-03-11 — Placed on the House Calendar, Calendar No. 16.
+- 2011-03-11 — Reported by the Committee on House Administration. H. Rept. 112-30.
+- 2011-03-11 — Reported by the Committee on House Administration. H. Rept. 112-30.
