@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 27
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 27
@@ -37,8 +37,20 @@ Providing for the acceptance of a statue of Gerald R. Ford from the people of Mi
 
 - House — Committee on House Administration
 
+## Recorded votes (1)
+
+- 2011-03-14 — [House 112-1-176](votes/house-112-1-0176.md) — On Motion to Suspend the Rules and Agree — **Passed** (396–0)
+
 ## Actions
 
 - 2011-03-08 — Introduced in House
 - 2011-03-08 — Introduced in House
 - 2011-03-08 — Referred to the House Committee on House Administration.
+- 2011-03-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-03-14 — Considered as unfinished business. (consideration: CR H1779-1780)
+- 2011-03-14 — Considered under suspension of the rules. (consideration: CR H1776-1778)
+- 2011-03-14 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 27.
+- 2011-03-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-03-14 — Mr. Lungren, Daniel E. moved to suspend the rules and agree to the resolution.
+- 2011-03-14 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 176). (text: CR H1776)
+- 2011-03-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 176).(text: CR H1776)
