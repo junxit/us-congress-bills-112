@@ -1,7 +1,7 @@
 ---
 measure: H.R. 836
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 836
@@ -21,9 +21,10 @@ Emergency Mortgage Relief Program Termination Act
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (3)
 
@@ -89,3 +90,4 @@ Emergency Mortgage Relief Program Termination Act
 - 2011-03-11 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1749)
 - 2011-03-11 — The previous question was ordered pursuant to the rule. (consideration: CR H1748)
 - 2011-03-11 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which had been debated earlier and on which further proceedings were postponed.
+- 2011-03-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
