@@ -1,7 +1,7 @@
 ---
 measure: H.R. 793
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 793
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 12781 S
 
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 
-## Cosponsors (44)
+## Cosponsors (52)
 
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Bass, Karen [D-CA-33] (B001270)
@@ -62,13 +62,36 @@ To designate the facility of the United States Postal Service located at 12781 S
 - Rep. Thompson, Mike [D-CA-1] (T000460)
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Denham, Jeff [R-CA-19] (D000612)
+- Rep. Campbell, John [R-CA-48] (C001064)
+- Rep. Dreier, David [R-CA-26] (D000492)
+- Rep. McCarthy, Kevin [R-CA-22] (M001165)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Nunes, Devin [R-CA-21] (N000181)
+- Rep. Royce, Edward R. [R-CA-40] (R000487)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2011-03-14 — [House 112-1-175](votes/house-112-1-0175.md) — On Motion to Suspend the Rules and Pass — **Passed** (394–0)
 
 ## Actions
 
 - 2011-02-17 — Introduced in House
 - 2011-02-17 — Introduced in House
 - 2011-02-17 — Referred to the House Committee on Oversight and Government Reform.
+- 2011-02-18 — Referred to the Subcommittee on Federal Workforce, U.S. Postal Service, and Labor Policy     .
+- 2011-03-10 — Committee Consideration and Mark-up Session Held.
+- 2011-03-10 — Ordered to be Reported by Unanimous Consent.
+- 2011-03-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-03-14 — Considered as unfinished business. (consideration: CR H1779)
+- 2011-03-14 — Considered under suspension of the rules. (consideration: CR H1775-1776)
+- 2011-03-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 793.
+- 2011-03-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-03-14 — Mr. Ross (FL) moved to suspend the rules and pass the bill.
+- 2011-03-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 0, 1 Present (Roll no. 175). (text: CR H1775)
+- 2011-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 0, 1 Present (Roll no. 175).(text: CR H1775)
