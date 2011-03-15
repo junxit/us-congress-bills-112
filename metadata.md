@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 30
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 30
@@ -31,3 +31,6 @@ Providing for a conditional adjournment of the House of Representatives and a co
 - 2011-03-15 — POSPONED PROCEEDINGS - At the conclusion of debate on H.Con.Res. 30, the Chair put the question on agreeing to the resolution, and by voice vote, announced that the ayes ha d prevailed. Mr. McGovern demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption until later in the legislative day.
 - 2011-03-15 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 232 - 197 (Roll no. 180).(text: CR H1810)
 - 2011-03-15 — Received in the Senate.
+- 2011-03-17 — Message on Senate action sent to the House.
+- 2011-03-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S1878; text as passed Senate: CR S1878)
+- 2011-03-17 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1878; text as passed Senate: CR S1878)
