@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 27
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 27
@@ -54,3 +54,4 @@ Providing for the acceptance of a statue of Gerald R. Ford from the people of Mi
 - 2011-03-14 — Mr. Lungren, Daniel E. moved to suspend the rules and agree to the resolution.
 - 2011-03-14 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 176). (text: CR H1776)
 - 2011-03-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 176).(text: CR H1776)
+- 2011-03-15 — Received in the Senate.
