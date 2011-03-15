@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 7
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 7
@@ -29,3 +29,7 @@ A joint resolution providing for the reappointment of Shirley Ann Jackson as a c
 
 - 2011-02-28 — Introduced in Senate
 - 2011-02-28 — Read twice and referred to the Committee on Rules and Administration.
+- 2011-03-15 — Passed Senate without amendment by Unanimous Consent. (text: CR S1707)
+- 2011-03-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S1707)
+- 2011-03-15 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S1707)
+- 2011-03-15 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S1707)
