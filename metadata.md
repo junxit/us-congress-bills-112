@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 8
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 8
@@ -21,9 +21,10 @@ A joint resolution providing for the appointment of Stephen M. Case as a citizen
 - Sen. Cochran, Thad [R-MS] (C000567)
 - Sen. Reed, Jack [D-RI] (R000122)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Rules and Administration Committee
+- House — Committee on House Administration
 
 ## Actions
 
@@ -33,3 +34,6 @@ A joint resolution providing for the appointment of Stephen M. Case as a citizen
 - 2011-03-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S1707)
 - 2011-03-15 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S1707)
 - 2011-03-15 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S1707)
+- 2011-03-16 — Message on Senate action sent to the House.
+- 2011-03-16 — Received in the House.
+- 2011-03-16 — Referred to the House Committee on House Administration.
