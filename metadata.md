@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 94
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 94
@@ -16,7 +16,7 @@ A resolution to express the sense of the Senate in support of reducing its budge
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Sen. Coats, Daniel [R-IN] (C000542)
 - Sen. Johanns, Mike [R-NE] (J000291)
@@ -31,6 +31,7 @@ A resolution to express the sense of the Senate in support of reducing its budge
 - Sen. Chambliss, Saxby [R-GA] (C000286)
 - Sen. Corker, Bob [R-TN] (C001071)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Merkley, Jeff [D-OR] (M001176)
 
 ## Committees (1)
 
@@ -40,3 +41,7 @@ A resolution to express the sense of the Senate in support of reducing its budge
 
 - 2011-03-08 — Introduced in Senate
 - 2011-03-08 — Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S1412)
+- 2011-03-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S1768)
+- 2011-03-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S1768)
+- 2011-03-16 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S1768)
+- 2011-03-16 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S1768)
