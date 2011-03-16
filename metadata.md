@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 8
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 8
@@ -37,3 +37,16 @@ A joint resolution providing for the appointment of Stephen M. Case as a citizen
 - 2011-03-16 — Message on Senate action sent to the House.
 - 2011-03-16 — Received in the House.
 - 2011-03-16 — Referred to the House Committee on House Administration.
+- 2011-04-12 — Committee on House Administration discharged.
+- 2011-04-12 — Committee on House Administration discharged.
+- 2011-04-12 — Considered by unanimous consent. (consideration: CR H2584)
+- 2011-04-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-04-12 — Mr. Lungren, Daniel E. asked unanimous consent to discharge from committee and consider.
+- 2011-04-12 — On passage Passed without objection. (text: CR H2584)
+- 2011-04-12 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2584)
+- 2011-04-14 — Presented to President.
+- 2011-04-14 — Presented to President.
+- 2011-04-25 — Became Public Law No: 112-12.
+- 2011-04-25 — Became Public Law No: 112-12.
+- 2011-04-25 — Signed by President.
+- 2011-04-25 — Signed by President.
