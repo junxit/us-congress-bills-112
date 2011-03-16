@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 48
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 

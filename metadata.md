@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 48
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 48
@@ -20,10 +20,11 @@ Additional Continuing Appropriations Amendments, 2011
 
 - House — Appropriations Committee
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2011-03-15 — [House 112-1-178](votes/house-112-1-0178.md) — On Motion to Recommit with Instructions — **Failed** (190–239)
 - 2011-03-15 — [House 112-1-179](votes/house-112-1-0179.md) — On Passage — **Passed** (271–158)
+- 2011-03-17 — [Senate 112-1-44](votes/senate-112-1-0044.md) — On the Joint Resolution — **Joint Resolution Passed** (87–13)
 
 ## Actions
 
@@ -45,3 +46,13 @@ Additional Continuing Appropriations Amendments, 2011
 - 2011-03-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1824)
 - 2011-03-15 — The previous question was ordered pursuant to the rule. (consideration: CR H1823)
 - 2011-03-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 20.
+- 2011-03-17 — Measure laid before Senate by unanimous consent. (consideration: CR S1788-1800)
+- 2011-03-17 — Message on Senate action sent to the House.
+- 2011-03-17 — Passed Senate without amendment by Yea-Nay Vote. 87 - 13. Record Vote Number: 44.
+- 2011-03-17 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 87 - 13. Record Vote Number: 44.
+- 2011-03-17 — Presented to President.
+- 2011-03-17 — Presented to President.
+- 2011-03-18 — Became Public Law No: 112-6.
+- 2011-03-18 — Became Public Law No: 112-6.
+- 2011-03-18 — Signed by President.
+- 2011-03-18 — Signed by President.
