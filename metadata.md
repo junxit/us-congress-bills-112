@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 147
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 147
@@ -30,3 +30,7 @@ Providing for the expenses of certain committees of the House of Representatives
 - 2011-03-11 — Placed on the House Calendar, Calendar No. 16.
 - 2011-03-11 — Reported by the Committee on House Administration. H. Rept. 112-30.
 - 2011-03-11 — Reported by the Committee on House Administration. H. Rept. 112-30.
+- 2011-03-17 — Considered as privileged matter. (consideration: CR H1911)
+- 2011-03-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-03-17 — On agreeing to the resolution Agreed to by voice vote. (text: CR H1911)
+- 2011-03-17 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H1911)
