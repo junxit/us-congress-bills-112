@@ -41,28 +41,29 @@ The purpose of this Act is to provide low-income parents residing in the Distric
 ## § 5. Applications
 
 - **(a)** *In general* In order to receive a grant under section 4(a), an eligible entity shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require.
-- **(b)** *Contents* The Secretary may not approve the request of an eligible entity for a grant under section 4(a) unless the entity’s application includes a detailed description of—
-  - **(1)** how the entity will address the priorities described in section 6;
-  - **(2)** how the entity will ensure that if more eligible students seek admission in the program of the entity than the program can accommodate, eligible students are selected for admission through a random selection process which gives weight to the priorities described in section 6;
-  - **(3)** how the entity will ensure that if more participating eligible students seek admission to a participating school than the school can accommodate, participating eligible students are selected for admission through a random selection process;
-  - **(4)** how the entity will notify parents of eligible students of the expanded choice opportunities in order to allow the parents to make informed decisions;
-  - **(5)** the activities that the entity will carry out to provide parents of eligible students with expanded choice opportunities through the awarding of scholarships under section 7(a);
-  - **(6)** how the entity will determine the amount that will be provided to parents for the tuition, fees, and transportation expenses, if any;
-  - **(7)** how the entity will seek out private elementary schools and secondary schools in the District of Columbia to participate in the program;
-  - **(8)** how the entity will ensure that each participating school will meet the reporting and other program requirements under this Act;
-  - **(9)** how the entity will ensure that participating schools submit to site visits by the entity as determined to be necessary by the entity, except that a participating school may not be required to submit to more than 1 site visit per school year;
-  - **(10)** how the entity will ensure that participating schools are financially responsible and will use the funds received under section 7 effectively;
-  - **(11)** how the entity will address the renewal of scholarships to participating eligible students, including continued eligibility;
-  - **(12)** how the entity will ensure that a majority of its voting board members or governing organization are residents of the District of Columbia; and
-  - **(13)** an assurance that the entity will comply with all requests regarding any evaluation carried out under section 9(a).
+- **(b)** *Contents* The Secretary may not approve the request of an eligible entity for a grant under section 4(a) unless the entity’s application includes—
+  - **(1)** a detailed description of—
+    - **(A)** how the entity will address the priorities described in section 6;
+    - **(B)** how the entity will ensure that if more eligible students seek admission in the program of the entity than the program can accommodate, eligible students are selected for admission through a random selection process which gives weight to the priorities described in section 6;
+    - **(C)** how the entity will ensure that if more participating eligible students seek admission to a participating school than the school can accommodate, participating eligible students are selected for admission through a random selection process;
+    - **(D)** how the entity will notify parents of eligible students of the expanded choice opportunities in order to allow the parents to make informed decisions;
+    - **(E)** the activities that the entity will carry out to provide parents of eligible students with expanded choice opportunities through the awarding of scholarships under section 7(a);
+    - **(F)** how the entity will determine the amount that will be provided to parents under section 7(a)(2) for the payment of tuition, fees, and transportation expenses, if any;
+    - **(G)** how the entity will seek out private elementary schools and secondary schools in the District of Columbia to participate in the program;
+    - **(H)** how the entity will ensure that each participating school will meet the reporting and other program requirements under this Act;
+    - **(I)** how the entity will ensure that participating schools submit to site visits by the entity as determined to be necessary by the entity, except that a participating school may not be required to submit to more than 1 site visit per school year;
+    - **(J)** how the entity will ensure that participating schools are financially responsible and will use the funds received under section 7 effectively;
+    - **(K)** how the entity will address the renewal of scholarships to participating eligible students, including continued eligibility; and
+    - **(L)** how the entity will ensure that a majority of its voting board members or governing organization are residents of the District of Columbia; and
+  - **(2)** an assurance that the entity will comply with all requests regarding any evaluation carried out under section 9(a).
 
 ## § 6. Priorities
 
 In awarding grants under section 4(a), the Secretary shall give priority to applications from eligible entities that will most effectively—
 
 - **(1)** in awarding scholarships under section 7(a), give priority to—
-  - **(A)** eligible students who, in the school year preceding the school year for which the eligible student is seeking a scholarship, attended an elementary school or secondary school identified for improvement, corrective action, or restructuring under section 1116 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316);
-  - **(B)** students who have been awarded a scholarship in a preceding year under this Act or the DC School Choice Incentive Act of 2003 (sec. 38–1851.01 et seq., D.C. Official Code), as such Act was in effect on the day before the date of the enactment of this Act, but who have not used the scholarship; and
+  - **(A)** eligible students who, in the school year preceding the school year for which the eligible students are seeking a scholarship, attended an elementary school or secondary school identified for improvement, corrective action, or restructuring under section 1116 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316);
+  - **(B)** students who have been awarded a scholarship in a preceding year under this Act or the DC School Choice Incentive Act of 2003 (sec. 38–1851.01 et seq., D.C. Official Code), as such Act was in effect on the day before the date of the enactment of this Act, but who have not used the scholarship, including eligible students who were provided notification of selection for a scholarship for school year 2009-2010, which was later rescinded in accordance with direction from the Secretary of Education; and
   - **(C)** students whose household includes a sibling or other child who is already participating in the program of the eligible entity under this Act, regardless of whether such students have, in the past, been assigned as members of a control study group for the purposes of an evaluation under section 9(a);
 - **(2)** target resources to students and families that lack the financial resources to take advantage of available educational options; and
 - **(3)** provide students and families with the widest range of educational options.
@@ -78,19 +79,20 @@ In awarding grants under section 4(a), the Secretary shall give priority to appl
       - **(i)** *Limit for school year 2011–2012* The amount of assistance provided to any eligible student by an eligible entity under the entity’s program under this Act for school year 2011–2012 may not exceed—
         - **(I)** $8,000 for attendance in kindergarten through grade 8; and
         - **(II)** $12,000 for attendance in grades 9 through 12.
-      - **(ii)** *Cumulative inflation adjustment* Beginning the school year following the year of the date of the enactment of this Act, the Secretary shall adjust the maximum amounts of assistance described in clause (i) for inflation, as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor.
+      - **(ii)** *Cumulative inflation adjustment* Beginning the school year following the school year of the date of the enactment of this Act, the Secretary shall adjust the maximum amounts of assistance described in clause (i) for inflation, as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor.
   - **(4)** *Participating school requirements* None of the funds provided under this Act for opportunity scholarships may be used by an eligible student to enroll in a participating private school unless the participating school—
     - **(A)** has and maintains a valid certificate of occupancy issued by the District of Columbia;
     - **(B)** makes readily available to all prospective students information on its school accreditation;
     - **(C)** in the case of a school that has been operating for 5 years or less, submits to the eligible entity administering the program proof of adequate financial resources reflecting the financial sustainability of the school and the school’s ability to be in operation through the school year;
-    - **(D)** agrees to submit to site visits as determined to be necessary by the eligible entity pursuant to section 5(b)(9);
+    - **(D)** agrees to submit to site visits as determined to be necessary by the eligible entity pursuant to section 5(b)(1)(I);
     - **(E)** has financial systems, controls, policies, and procedures to ensure that funds are used according to this Act; and
-    - **(F)** ensures that each teacher of core subject matter in the school has a baccalaureate degree or equivalent degree.
+    - **(F)** ensures that each teacher of core subject matter in the school has a baccalaureate degree or equivalent degree, whether such degree was awarded in or outside of the United States.
 - **(b)** *Administrative expenses* An eligible entity receiving a grant under section 4(a) may use not more than 3 percent of the amount provided under the grant each year for the administrative expenses of carrying out its program under this Act during the year, including—
   - **(1)** determining the eligibility of students to participate;
   - **(2)** selecting eligible students to receive scholarships;
-  - **(3)** determining the amount of scholarships and issuing the scholarships to eligible students; and
-  - **(4)** compiling and maintaining financial and programmatic records.
+  - **(3)** determining the amount of scholarships and issuing the scholarships to eligible students;
+  - **(4)** compiling and maintaining financial and programmatic records; and
+  - **(5)** conducting site visits as described in section 5(b)(1)(I).
 - **(c)** *Parental assistance* An eligible entity receiving a grant under section 4(a) may use not more than 2 percent of the amount provided under the grant each year for the expenses of educating parents about the entity’s program under this Act, and assisting parents through the application process, under this Act, including—
   - **(1)** providing information about the program and the participating schools to parents of eligible students;
   - **(2)** providing funds to assist parents of students in meeting expenses that might otherwise preclude the participation of eligible students in the program; and
@@ -112,7 +114,7 @@ In awarding grants under section 4(a), the Secretary shall give priority to appl
 - **(f)** *Requests for data and information* Each school participating in a program funded under this Act shall comply with all requests for data and information regarding evaluations conducted under section 9(a).
 - **(g)** *Rules of conduct and other school policies* A participating school, including the schools described in subsection (d), may require eligible students to abide by any rules of conduct and other requirements applicable to all other students at the school.
 - **(h)** *Nationally Norm-Referenced standardized tests*
-  - **(1)** *In general* Each participating school shall administer a nationally norm-referenced standardized test in reading and math to each student enrolled in the school who is receiving an opportunity scholarship. The results of such test shall be reported to the student’s parents or legal guardians and the Secretary (through the Institute of Education Sciences of the Department of Education) for the purposes of conducting the evaluation under section 9(a).
+  - **(1)** *In general* Each participating school shall comply with any testing requirements determined to be necessary for evaluation under section 9(a)(2)(A)(i).
   - **(2)** *Make-up session* If a participating school does not administer a nationally norm-referenced standardized test or the Institute of Education Sciences does not receive data on a student who is receiving an opportunity scholarship, then the Secretary (through the Institute of Education Sciences of the Department of Education) shall administer such test at least one time during a school year for each student receiving an opportunity scholarship.
 
 ## § 9. Evaluations
@@ -120,8 +122,8 @@ In awarding grants under section 4(a), the Secretary shall give priority to appl
 - **(a)** *In general*
   - **(1)** *Duties of the Secretary and the Mayor* The Secretary and the Mayor of the District of Columbia shall—
     - **(A)** jointly enter into an agreement with the Institute of Education Sciences of the Department of Education to evaluate annually the performance of students who received scholarships under the 5-year program under this Act;
-    - **(B)** jointly enter into an agreement to monitor and evaluate the use of funds authorized and appropriated for the District of Columbia public schools and the District of Columbia public charter schools; and
-    - **(C)** make the evaluations public in accordance with subsection (c).
+    - **(B)** jointly enter into an agreement to monitor and evaluate the use of funds authorized and appropriated for the District of Columbia public schools and the District of Columbia public charter schools under this Act; and
+    - **(C)** make the evaluations described in subparagraph (A) and (B) public in accordance with subsection (c).
   - **(2)** *Duties of the Secretary* The Secretary, through a grant, contract, or cooperative agreement, shall—
     - **(A)** ensure that the evaluation under paragraph (1)(A)—
       - **(i)** is conducted using the strongest possible research design for determining the effectiveness of the opportunity scholarship program under this Act; and
@@ -130,21 +132,20 @@ In awarding grants under section 4(a), the Secretary shall give priority to appl
       - **(i)** in increasing the academic growth and achievement of participating eligible students; and
       - **(ii)** on students and schools in the District of Columbia.
   - **(3)** *Duties of the Institute of Education Sciences* The Institute of Education Sciences of the Department of Education shall—
-    - **(A)** use a grade appropriate measurement each school year to assess participating eligible students;
+    - **(A)** use a grade appropriate, nationally norm-referenced standardized test each school year to assess participating eligible students;
     - **(B)** measure the academic achievement of all participating eligible students; and
     - **(C)** work with the eligible entities to ensure that the parents of each student who applies for a scholarship under this Act (regardless of whether the student receives the scholarship) and the parents of each student participating in the scholarship program under this Act, agree that the student will participate in the measurements given annually by the Institute of Educational Sciences for the period for which the student applied for or received the scholarship, respectively, except that nothing in this subparagraph shall affect a student’s priority for an opportunity scholarship as provided under section 6.
   - **(4)** *Issues to be evaluated* The issues to be evaluated under paragraph (1)(A) shall include the following:
-    - **(A)** A comparison of the academic growth and achievement of participating eligible students in the measurements described in paragraph (3) to the academic growth and achievement of the eligible students in the same grades in the District of Columbia public schools and the District of Columbia public charter schools who sought to participate in the scholarship program under this Act but were not selected.
+    - **(A)** A comparison of the academic growth and achievement of participating eligible students in the measurements described in paragraph (3) to the academic growth and achievement of the eligible students in the same grades who sought to participate in the scholarship program under this Act but were not selected.
     - **(B)** The success of the program in expanding choice options for parents of participating eligible students, improving parental and student satisfaction of such parents and students, respectively, and increasing parental involvement of such parents in the education of their children.
-    - **(C)** The reasons parents of participating eligible students choose for their children to participate in the program.
-    - **(D)** A comparison of the retention rates, drop out rates, and (if appropriate) graduation and college admission rates, of participating eligible students with the retention rates, dropout rates, and (if appropriate) graduation and college admission rates of students of similar backgrounds who do not participate in such program.
-    - **(E)** The impact of the program on students, and public elementary schools and secondary schools, in the District of Columbia.
-    - **(F)** A comparison of the safety of the schools attended by participating eligible students and the schools in the District of Columbia attended by students who do not participate in the program, based on the perceptions of the students and parents and on objective measures of safety.
-    - **(G)** Such other issues with respect to participating eligible students as the Secretary considers appropriate for inclusion in the evaluation.
-    - **(H)** Carrying out an analysis of the issues described in subparagraphs (A) through (G) by substituting “the subgroup of participating eligible students who have used each opportunity scholarship awarded to such students under this Act to attend a participating school” for “participating eligible students”.
+    - **(C)** The reasons parents of participating eligible students choose for their children to participate in the program, including important characteristics for selecting schools.
+    - **(D)** A comparison of the retention rates, high school graduation rates, and college admission rates of participating eligible students with the retention rates, high school graduation rates, and college admission rates of students of similar backgrounds who do not participate in such program.
+    - **(E)** A comparison of the safety of the schools attended by participating eligible students and the schools in the District of Columbia attended by students who do not participate in the program, based on the perceptions of the students and parents.
+    - **(F)** Such other issues with respect to participating eligible students as the Secretary considers appropriate for inclusion in the evaluation, such as the impact of the program on public elementary schools and secondary schools in the District of Columbia.
+    - **(G)** An analysis of the issues described in subparagraphs (A) through (F) by applying such subparagraphs by substituting “the subgroup of participating eligible students who have used each opportunity scholarship awarded to such students under this Act to attend a participating school” for “participating eligible students” each place such term appears.
   - **(5)** *Prohibition* Personally identifiable information regarding the results of the measurements used for the evaluations may not be disclosed, except to the parents of the student to whom the information relates.
-- **(b)** *Reports* The Secretary shall submit to the Committees on Appropriations, Education, and the Workforce, and Oversight and Government Reform, of the House of Representatives and the Committees on Appropriations, Health, Education, Labor, and Pensions, and Homeland Security and Governmental Affairs, of the Senate—
-  - **(1)** annual interim reports, not later than December 1 of each year for which a grant is made under section 4(a), on the progress and preliminary results of the evaluation of the opportunity scholarship program funded under this Act; and
+- **(b)** *Reports* The Secretary shall submit to the Committees on Appropriations, Education and the Workforce, and Oversight and Government Reform of the House of Representatives and the Committees on Appropriations, Health, Education, Labor, and Pensions, and Homeland Security and Governmental Affairs of the Senate—
+  - **(1)** annual interim reports, not later than April 1 of the year following the year of the date of enactment of this Act, and each subsequent year through the year in which the final report is submitted under paragraph (2), on the progress and preliminary results of the evaluation of the opportunity scholarship program funded under this Act; and
   - **(2)** a final report, not later than 1 year after the final year for which a grant is made under section 4(a), on the results of the evaluation of the program.
 - **(c)** *Public availability* All reports and underlying data gathered pursuant to this section shall be made available to the public upon request, in a timely manner following submission of the applicable report under subsection (b), except that personally identifiable information shall not be disclosed or made available to the public.
 - **(d)** *Limit on amount expended* The amount expended by the Secretary to carry out this section for any fiscal year may not exceed 5 percent of the total amount appropriated under section 14(a)(1) for the fiscal year.
@@ -155,23 +156,23 @@ In awarding grants under section 4(a), the Secretary shall give priority to appl
 - **(b)** *Achievement reports*
   - **(1)** *In general* In addition to the reports required under subsection (a), each eligible entity receiving funds under section 4(a) shall, not later than September 1 of the year during which the second school year of the entity’s program is completed and each of the next 2 years thereafter, submit to the Secretary a report, including any pertinent data collected in the preceding 2 school years, concerning—
     - **(A)** the academic growth and achievement of students participating in the program;
-    - **(B)** the graduation and college admission rates of students who participate in the program, where appropriate; and
+    - **(B)** the high school graduation and college admission rates of students who participate in the program, where appropriate; and
     - **(C)** parental satisfaction with the program.
   - **(2)** *Prohibiting disclosure of personal information* No report under this subsection may contain any personally identifiable information.
-- **(c)** *Reports to parent*
+- **(c)** *Reports to parents*
   - **(1)** *In general* Each eligible entity receiving funds under section 4(a) shall ensure that each school participating in the entity’s program under this Act during a school year reports at least once during the year to the parents of each of the school’s students who are participating in the program on—
     - **(A)** the student’s academic achievement, as measured by a comparison with the aggregate academic achievement of other participating students at the student’s school in the same grade or level, as appropriate, and the aggregate academic achievement of the student’s peers at the student’s school in the same grade or level, as appropriate;
     - **(B)** the safety of the school, including the incidence of school violence, student suspensions, and student expulsions; and
     - **(C)** the accreditation status of the school.
   - **(2)** *Prohibiting disclosure of personal information* No report under this subsection may contain any personally identifiable information, except as to the student who is the subject of the report to that student’s parent.
-- **(d)** *Report to Congress* Not later than 6 months after the first appropriation of funds under section 14, and each succeeding year thereafter, the Secretary shall submit to the Committees on Appropriations, Education and the Workforce, and Oversight and Government Reform, of the House of Representatives and the Committees on Appropriations, Health, Education, Labor, and Pensions, and Homeland Security and Governmental Affairs, of the Senate, an annual report on the findings of the reports submitted under subsections (a) and (b).
+- **(d)** *Report to Congress* Not later than 6 months after the first appropriation of funds under section 14, and each succeeding year thereafter, the Secretary shall submit to the Committees on Appropriations, Education and the Workforce, and Oversight and Government Reform of the House of Representatives and the Committees on Appropriations, Health, Education, Labor, and Pensions, and Homeland Security and Governmental Affairs of the Senate, an annual report on the findings of the reports submitted under subsections (a) and (b).
 
 ## § 11. DC Public Schools and DC Public Charter Schools
 
 - **(a)** *Condition of receipt of funds* As a condition of receiving funds under this Act on behalf of the District of Columbia public schools and the District of Columbia public charter schools, the Mayor shall agree to carry out the following:
   - **(1)** *Information requests* Ensure that all the District of Columbia public schools and the District of Columbia public charter schools comply with all reasonable requests for information for purposes of the evaluation under section 9(a).
-  - **(2)** *Agreement with the Secretary* Enter into the agreement described in section 9(a)(1)(B) to monitor and evaluate the use of funds authorized and appropriated for the District of Columbia public schools and the District of Columbia public charter schools.
-  - **(3)** *Submission of report* Not later than 6 months after the first appropriation of funds under section 14, and each succeeding year thereafter, submit to the Committee on Appropriations, the Committee on Education and the Workforce, and the Committee on Oversight and Government Reform, of the House of Representatives, and the Committee on Appropriations, the Committee on Health, Education, Labor, and Pensions, and the Committee on Homeland Security and Governmental Affairs, of the Senate, information on—
+  - **(2)** *Agreement with the Secretary* Enter into the agreement described in section 9(a)(1)(B) to monitor and evaluate the use of funds authorized and appropriated for the District of Columbia public schools and the District of Columbia public charter schools under this Act.
+  - **(3)** *Submission of report* Not later than 6 months after the first appropriation of funds under section 14, and each succeeding year thereafter, submit to the Committee on Appropriations, the Committee on Education and the Workforce, and the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Appropriations, the Committee on Health, Education, Labor, and Pensions, and the Committee on Homeland Security and Governmental Affairs of the Senate, information on—
     - **(A)** how the funds authorized and appropriated under this Act for the District of Columbia public schools and the District of Columbia public charter schools were used in the preceding school year; and
     - **(B)** how such funds are contributing to student achievement.
 - **(b)** *Enforcement* If, after reasonable notice and an opportunity for a hearing for the Mayor, the Secretary determines that the Mayor has not been in compliance with 1 or more of the requirements described in subsection (a), the Secretary may withhold from the Mayor, in whole or in part, further funds under this Act for the District of Columbia public schools and the District of Columbia public charter schools.
@@ -182,7 +183,7 @@ In awarding grants under section 4(a), the Secretary shall give priority to appl
 - **(a)** *Repeal* The DC School Choice Incentive Act of 2003 (sec. 38–1851.01 et seq., D.C. Official Code) is repealed.
 - **(b)** *Special rules* Notwithstanding any other provision of law—
   - **(1)** funding appropriated to provide opportunity scholarships for students in the District of Columbia under the heading “Federal Payment for School Improvement” in title IV of division D of the Omnibus Appropriations Act, 2009 (Public Law 111–8; 123 Stat. 653), the heading “Federal Payment for School Improvement” in title IV of division C of the Consolidated Appropriations Act, 2010 (Public Law 111–117; 123 Stat. 3181), or any other Act, may be used to provide opportunity scholarships under section 7(a) for the 2011–2012 school year to students who have not previously received such scholarships;
-  - **(2)** the fourth and fifth provisos under the heading “Federal Payment for School Improvement” of title IV of Division C of the Consolidated Appropriations Act of 2010 (Public Law 111–117; 123 Stat. 3181) are repealed; and
+  - **(2)** the fourth and fifth provisos under the heading “Federal Payment for School Improvement” of title IV of Division C of the Consolidated Appropriations Act, 2010 (Public Law 111–117; 123 Stat. 3181) shall not apply; and
   - **(3)** any unobligated amounts reserved to carry out the provisos described in paragraph (2) shall be made available to an eligible entity receiving a grant under section 4(a)—
     - **(A)** for administrative expenses described in section 7(b); or
     - **(B)** to provide opportunity scholarships under section 7(a), including to provide such scholarships for the 2011–2012 school year to students who have not previously received such scholarships.
@@ -206,12 +207,14 @@ As used in this Act:
   - **(A)** receiving assistance under the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.); or
   - **(B)** whose income does not exceed—
     - **(i)** 185 percent of the poverty line; or
-    - **(ii)** in the case of a student participating in the opportunity scholarship program in the preceding year, 300 percent of the poverty line.
+    - **(ii)** in the case of a student participating in the opportunity scholarship program in the preceding year under this Act or the DC School Choice Incentive Act of 2003 (sec. 38–1851.01 et seq., D.C. Official Code), as such Act was in effect on the day before the date of enactment of this Act, 300 percent of the poverty line.
 - **(4)** *Mayor* The term Mayor means the Mayor of the District of Columbia.
 - **(5)** *Parent* The term parent has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
-- **(6)** *Poverty line* The term poverty line has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
-- **(7)** *Secondary school* The term secondary school means an institutional day or residential school, including a public secondary charter school, that provides secondary education, as determined under District of Columbia law, except that the term does not include any education beyond grade 12.
-- **(8)** *Secretary* The term Secretary means the Secretary of Education.
+- **(6)** *Participating eligible student* The term participating eligible student means an eligible student awarded an opportunity scholarship under this Act, without regard to whether the student uses the scholarship to attend a participating school.
+- **(7)** *Participating school* The term participating school means a private elementary school or secondary school participating in the opportunity scholarship program of an eligible entity under this Act.
+- **(8)** *Poverty line* The term poverty line has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+- **(9)** *Secondary school* The term secondary school means an institutional day or residential school, including a public secondary charter school, that provides secondary education, as determined under District of Columbia law, except that the term does not include any education beyond grade 12.
+- **(10)** *Secretary* The term Secretary means the Secretary of Education.
 
 ## § 14. Authorization of appropriations
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 471
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,4 +32,3 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | repeal | The DC School Choice Incentive Act of 2003 (sec. 38–1851.01 et seq., D.C. Official Code) is repealed. | the bill names no machine-readable US Code section |
-| — | repeal | the fourth and fifth provisos under the heading “Federal Payment for School Improvement” of title IV of Division C of the Consolidated Appropriations Act of 2010 (Public Law 111–117; 123 Stat. 3181) are repealed; and | the bill names no machine-readable US Code section |
