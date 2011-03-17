@@ -1,7 +1,7 @@
 ---
 measure: H.R. 861
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 861
@@ -23,9 +23,10 @@ NSP Termination Act
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (7)
 
@@ -143,3 +144,4 @@ NSP Termination Act
 - 2011-03-16 — The previous question was ordered pursuant to the rule. (consideration: CR H1893)
 - 2011-03-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which had been debated earlier and on which further proceedings were postponed.
 - 2011-03-16 — VACATED PROCEEDINGS - Mr. Ellison asked unanimous consent to vacate the proceedings by which his amendment numbered 1 printed in Part B of House Report 112-34, was postponed, to the end that the Chair put the question on the amendment de novo. Agreed to without objection.
+- 2011-03-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
