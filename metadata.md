@@ -1,7 +1,7 @@
 ---
 measure: S. 193
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 193
@@ -25,3 +25,7 @@ USA PATRIOT Act Sunset Extension Act of 2011
 - 2011-01-26 — Introduced in Senate
 - 2011-01-26 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S275-281)
 - 2011-01-26 — Sponsor introductory remarks on measure. (CR S274-275)
+- 2011-03-10 — Committee on the Judiciary. Ordered to be reported with amendments favorably.
+- 2011-03-17 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2011-03-17 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2011-03-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 18.

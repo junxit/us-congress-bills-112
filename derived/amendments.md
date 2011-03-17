@@ -1,7 +1,7 @@
 ---
 measure: S. 193
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-99 amendatory instructions. 0 executed, 99 stated and not applied.
+109 amendatory instructions. 0 executed, 109 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 102(b)(1) of the USA PATRIOT Improvement and Reauthorization Act of 2005 (Public Law 109–177; 50 U.S.C. 1805 note, 50 U.S.C. 1861 note, and 50 U.S.C. 1862 note) is amended by striking “February, 28, 2011” and inserting “ December… | the bill names no machine-readable US Code section |
+| — | replace | Section 102(b)(1) of the USA PATRIOT Improvement and Reauthorization Act of 2005 (Public Law 109–177; 50 U.S.C. 1805 note, 50 U.S.C. 1861 note, and 50 U.S.C. 1862 note) is amended by striking “February, 28, 2011May 27, 2011” and insertin… | the bill names no machine-readable US Code section |
 | — | replace | in the table of contents in the first section, by striking the items relating to title V and sections 501, 502, and 503 and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | in the title heading, by striking “and other tangible things”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking section 503; and | the bill names no machine-readable US Code section |
@@ -51,13 +51,17 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (D), by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (E); and | the bill names no machine-readable US Code section |
 | — | strike | the table of sections for the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended by striking the item relating to section 627. | the bill names no machine-readable US Code section |
+| — | replace | Section 403(b)(1) of the FISA Amendments Act of 2008 (Public Law 110–261; 50 U.S.C. 1881 note) is amended by striking “December 31, 2012” and inserting “December 31, 2013”. | the bill names no machine-readable US Code section |
+| — | replace | Section 403(b)(2) of such Act (Public Law 110–261; 122 Stat. 2474) is amended by striking “December 31, 2012” and inserting “December 31, 2013”. | the bill names no machine-readable US Code section |
+| — | replace | Section 404(b)(1) of such Act (Public Law 110–261; 50 U.S.C. 1801 note) is amended in the heading by striking “December 31, 2012” and inserting “December 31, 2013”. | the bill names no machine-readable US Code section |
 | — | insert | in the section heading, by inserting “and other tangible things” after “certain business records”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “a statement of facts showing” and inserting “a statement of the facts and circumstances relied upon by the applicant to justify the belief of the applicant”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “clandestine intelligence activities,” and all that follows and inserting “clandestine intelligence activities;”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and that the proposed minimization procedures meet the definition of minimization procedures under subsection (g)” after “subsections (a) and (b)”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, and directing that the minimization procedures be followed” after “release of tangible things”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking the second sentence. | the bill names no machine-readable US Code section |
+| — | strike | by striking the second sentence.; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title V of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1861 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Title V of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1861 et seq.) is amended in the title heading by inserting “and other tangible things” after “certain business records”. | the bill names no machine-readable US Code section |
 | — | replace | by striking the items relating to title V and section 501 and inserting the following: | the bill names no machine-readable US Code section |
@@ -130,3 +134,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “The reports submitted under subsections (c)(1) or (c)(2)” and inserting “Each report submitted under subsection (c)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “subsection (d)(2)” and inserting “subsection (e)(2)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 3103a(b)(3) of title 18, United States Code, is amended by striking “30 days” and inserting “7 days”. | the bill names no machine-readable US Code section |
+| — | insert | Section 105(c)(1)(A) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1805(c)(1)(A)) is amended by inserting “with particularity” after “description”. | the bill names no machine-readable US Code section |
+| — | insert | Section 832(c) of title 18, United States Code, is amended by inserting “punished by death if death results to any person from the offense, or” after “shall be”. | the bill names no machine-readable US Code section |
+| — | insert | Section 2332g(c)(3) of title 18, United States Code, is amended by inserting “punished by death or” after “shall be”. | the bill names no machine-readable US Code section |
+| — | insert | The last sentence of section 222 b. of the Atomic Energy Act of 1954 (42 U.S.C. 2272) is amended by inserting “death or” before “imprisonment for life” the last place it appears. | the bill names no machine-readable US Code section |
+| — | insert | Section 2332h(c)(3) of title 18, United States Code, is amended by inserting “death or” before “imprisonment for life”. | the bill names no machine-readable US Code section |
+| — | insert | Section 175c(c)(3) of title 18, United States Code, is amended by inserting “death or” before “imprisonment for life”. | the bill names no machine-readable US Code section |

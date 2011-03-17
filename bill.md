@@ -16,7 +16,7 @@ This Act may be cited as the “USA PATRIOT Act Sunset Extension Act of 2011”.
 ## § 2. Sunsets
 
 - **(a)** *Sections 206 and 215 sunset*
-  - **(1)** *In general* Section 102(b)(1) of the USA PATRIOT Improvement and Reauthorization Act of 2005 (Public Law 109–177; 50 U.S.C. 1805 note, 50 U.S.C. 1861 note, and 50 U.S.C. 1862 note) is amended by striking “February, 28, 2011” and inserting “ December 31, 2013”.
+  - **(1)** *In general* Section 102(b)(1) of the USA PATRIOT Improvement and Reauthorization Act of 2005 (Public Law 109–177; 50 U.S.C. 1805 note, 50 U.S.C. 1861 note, and 50 U.S.C. 1862 note) is amended by striking “February, 28, 2011May 27, 2011” and inserting “ December 31, 2013”.
   - **(2)** *Conforming amendments*
     - **(A)** *In general* The Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), as amended by section 3 of this Act, is amended—
       - **(i)** in the table of contents in the first section, by striking the items relating to title V and sections 501, 502, and 503 and inserting the following:
@@ -55,6 +55,10 @@ This Act may be cited as the “USA PATRIOT Act Sunset Extension Act of 2011”.
       - **(ii)** in subparagraph (D), by striking “; and” and inserting a period; and
       - **(iii)** by striking subparagraph (E); and
     - **(C)** the table of sections for the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) is amended by striking the item relating to section 627.
+- **(d)** *FISA Amendments Act of 2008*
+  - **(1)** *Extension* Section 403(b)(1) of the FISA Amendments Act of 2008 (Public Law 110–261; 50 U.S.C. 1881 note) is amended by striking “December 31, 2012” and inserting “December 31, 2013”.
+  - **(2)** *Technical and conforming amendments* Section 403(b)(2) of such Act (Public Law 110–261; 122 Stat. 2474) is amended by striking “December 31, 2012” and inserting “December 31, 2013”.
+  - **(3)** *Orders in effect* Section 404(b)(1) of such Act (Public Law 110–261; 50 U.S.C. 1801 note) is amended in the heading by striking “December 31, 2012” and inserting “December 31, 2013”.
 
 ## § 3. Orders for access to certain business records and tangible things
 
@@ -65,18 +69,25 @@ This Act may be cited as the “USA PATRIOT Act Sunset Extension Act of 2011”.
       - **(i)** by striking “a statement of facts showing” and inserting “a statement of the facts and circumstances relied upon by the applicant to justify the belief of the applicant”; and
       - **(ii)** by striking “clandestine intelligence activities,” and all that follows and inserting “clandestine intelligence activities;”; and
     - **(B)** by striking subparagraph (B) and inserting the following:
-      > - **(B)** if the records sought are the circulation records or patron lists of a library (as defined in section 213(1) of the Library Services and Technology Act (20 U.S.C. 9122(1)), a statement of facts showing that there are reasonable grounds to believe that the records sought—
-      >   - **(i)** are relevant to an authorized investigation (other than a threat assessment) conducted in accordance with subsection (a)(2) to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities; and
-      >   - **(ii)**
-      >     - **(I)** pertain to a foreign power or an agent of a foreign power;
-      >     - **(II)** are relevant to the activities of a suspected agent of a foreign power who is the subject of such authorized investigation; or
-      >     - **(III)** pertain to an individual in contact with, or known to, a suspected agent of a foreign power; and
-      > - **(C)** a statement of proposed minimization procedures.
-
+    - **(“(B)** if the records sought are the circulation records or patron lists of a library (as defined in section 213(1) of the Library Services and Technology Act (20 U.S.C. 9122(1)), a statement of facts showing that there are reasonable grounds to believe that the records sought—
+    - **(“(B)** if the records sought contain bookseller records, or are from a library and contain personally identifiable information about a patron of the library, a statement of facts showing that there are reasonable grounds to believe that the records sought—
+      - **(“(i)** are relevant to an authorized investigation (other than a threat assessment) conducted in accordance with subsection (a)(2) to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities; and
+    - **(“(ii)**
+      - **(I)** pertain to a foreign power or an agent of a foreign power;
+        - **(“(II)** are relevant to the activities of a suspected agent of a foreign power who is the subject of such authorized investigation; or
+        - **(“(III)** pertain to an individual in contact with, or known to, a suspected agent of a foreign power; and
+    - **(“(C)** a statement of proposed minimization procedures.”; and
   - **(3)** in subsection (c)(1)—
     - **(A)** by inserting “and that the proposed minimization procedures meet the definition of minimization procedures under subsection (g)” after “subsections (a) and (b)”;
     - **(B)** by inserting “, and directing that the minimization procedures be followed” after “release of tangible things”; and
-    - **(C)** by striking the second sentence.
+    - **(C)** by striking the second sentence.; and
+  - **(4)** by adding at the end the following:
+    > - **(i)** *Definitions* In this section—
+    >   - **(1)** the term bookseller records means transactional records reflecting the purchase (including subscription purchase) or rental of books, journals, or magazines, whether in digital form or in print, of an individual or entity engaged in the sale or rental of books, journals, or magazines;
+    >   - **(2)** the term library has the meaning given that term in section 213(1) of the Library Services and Technology Act (20 U.S.C. 9122(1));
+    >   - **(3)** the term patron means a purchaser, renter, borrower, user, or subscriber of goods or services from a library; and
+    >   - **(4)** the term personally identifiable information includes information that identifies a person as having used, requested, or obtained specific reading materials or services from a library.
+
 - **(b)** *Transition procedures* Notwithstanding the amendments made by this Act, an order entered under section 501(c)(1) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1861(c)(1)) that is in effect on the effective date of the amendments made by this section shall remain in effect until the expiration of the order.
 - **(c)** *Technical and conforming amendments*
   - **(1)** *Definitions* Title V of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1861 et seq.) is amended by adding at the end the following:
@@ -362,8 +373,8 @@ This Act may be cited as the “USA PATRIOT Act Sunset Extension Act of 2011”.
 
       - **(ii)** in subparagraph (D), by striking “(as such term is defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)))”;
   - **(2)** in subsection (c), by adding at the end the following:
-    > - **(3)** *Calendar years 2007, 2008, and 2009* Not later than September 30, 2011, the Inspector General of the Department of Justice shall submit to the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on the Judiciary and the Select Committee on Intelligence of the Senate a report containing the results of the audit conducted under subsection (a) for calendar years 2007, 2008, and 2009.
-    > - **(4)** *Calendar years 2010 and 2011* Not later than December 31, 2012, the Inspector General of the Department of Justice shall submit to the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on the Judiciary and the Select Committee on Intelligence of the Senate a report containing the results of the audit conducted under subsection (a) for calendar years 2010 and 2011.
+    > - **(3)** *Calendar years 2007, 2008, and 2009* Not later than September 30, 2011March 31, 2012, the Inspector General of the Department of Justice shall submit to the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on the Judiciary and the Select Committee on Intelligence of the Senate a report containing the results of the audit conducted under subsection (a) for calendar years 2007, 2008, and 2009.
+    > - **(4)** *Calendar years 2010 and 2011* Not later than December 31, 2012March 31, 2013, the Inspector General of the Department of Justice shall submit to the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on the Judiciary and the Select Committee on Intelligence of the Senate a report containing the results of the audit conducted under subsection (a) for calendar years 2010 and 2011.
 
   - **(3)** by redesignating subsections (d) and (e) as subsections (e) and (f), respectively;
   - **(4)** by inserting after subsection (c) the following:
@@ -374,8 +385,8 @@ This Act may be cited as the “USA PATRIOT Act Sunset Extension Act of 2011”.
     >     - **(C)** describe any noteworthy facts or circumstances relating to orders under title V of the Foreign Intelligence Surveillance Act of 1978 as the orders relate to the element of the intelligence community; and
     >     - **(D)** examine any minimization procedures used by the element of the intelligence community under title V of the Foreign Intelligence Surveillance Act of 1978 and whether the minimization procedures protect the constitutional rights of United States persons.
     >   - **(2)** *Submission dates for assessment*
-    >     - **(A)** *Calendar years 2007 through 2009* Not later than September 30, 2011, the Inspector General of each element of the intelligence community that conducts an assessment under this subsection shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representative a report containing the results of the assessment for calendar years 2007 through 2009.
-    >     - **(B)** *Calendar years 2010 and 2011* Not later than December 31, 2012, the Inspector General of each element of the intelligence community that conducts an assessment under this subsection shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives a report containing the results of the assessment for calendar years 2010 and 2011.
+    >     - **(A)** *Calendar years 2007 through 2009* Not later than September 30, 2011March 31, 2012, the Inspector General of each element of the intelligence community that conducts an assessment under this subsection shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representative a report containing the results of the assessment for calendar years 2007 through 2009.
+    >     - **(B)** *Calendar years 2010 and 2011* Not later than December 31, 2012March 31, 2013, the Inspector General of each element of the intelligence community that conducts an assessment under this subsection shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives a report containing the results of the assessment for calendar years 2010 and 2011.
 
   - **(5)** in subsection (e), as redesignated by paragraph (3)—
     - **(A)** in paragraph (1)—
@@ -395,8 +406,8 @@ This Act may be cited as the “USA PATRIOT Act Sunset Extension Act of 2011”.
     - **(A)** in paragraph (1), by striking “2006” and inserting “2011”; and
     - **(B)** in paragraph (3)(C), by striking “(as such term is defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)))”;
   - **(2)** in subsection (c), by adding at the end the following:
-    > - **(3)** *Calendar years 2007, 2008, and 2009* Not later than September 30, 2011, the Inspector General of the Department of Justice shall submit to the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on the Judiciary and the Select Committee on Intelligence of the Senate a report containing the results of the audit conducted under subsection (a) for calendar years 2007, 2008, and 2009.
-    > - **(4)** *Calendar years 2010 and 2011* Not later than December 31, 2012, the Inspector General of the Department of Justice shall submit to the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on the Judiciary and the Select Committee on Intelligence of the Senate a report containing the results of the audit conducted under subsection (a) for calendar years 2010 and 2011.
+    > - **(3)** *Calendar years 2007, 2008, and 2009* Not later than September 30, 2011March 31, 2012, the Inspector General of the Department of Justice shall submit to the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on the Judiciary and the Select Committee on Intelligence of the Senate a report containing the results of the audit conducted under subsection (a) for calendar years 2007, 2008, and 2009.
+    > - **(4)** *Calendar years 2010 and 2011* Not later than December 31, 2012March 31, 2013, the Inspector General of the Department of Justice shall submit to the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on the Judiciary and the Select Committee on Intelligence of the Senate a report containing the results of the audit conducted under subsection (a) for calendar years 2010 and 2011.
 
   - **(3)** by striking subsection (g) and inserting the following:
     > - **(h)** *Definitions* In this section—
@@ -418,8 +429,8 @@ This Act may be cited as the “USA PATRIOT Act Sunset Extension Act of 2011”.
     >     - **(C)** assess the importance of information received under the national security letters to the intelligence activities of the element of the intelligence community; and
     >     - **(D)** examine the manner in which information received under the national security letters was collected, retained, analyzed, and disseminated.
     >   - **(2)** *Submission dates for assessment*
-    >     - **(A)** *Calendar years 2007 through 2009* Not later than September 30, 2011, the Inspector General of each element of the intelligence community that conducts an assessment under this subsection shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives a report containing the results of the assessment for calendar years 2007 through 2009.
-    >     - **(B)** *Calendar years 2010 and 2011* Not later than December 31, 2012, the Inspector General of any element of the intelligence community that conducts an assessment under this subsection shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives a report containing the results of the assessment for calendar years 2010 and 2011.
+    >     - **(A)** *Calendar years 2007 through 2009* Not later than September 30, 2011March 31, 2012, the Inspector General of each element of the intelligence community that conducts an assessment under this subsection shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives a report containing the results of the assessment for calendar years 2007 through 2009.
+    >     - **(B)** *Calendar years 2010 and 2011* Not later than December 31, 2012March 31, 2013, the Inspector General of any element of the intelligence community that conducts an assessment under this subsection shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives a report containing the results of the assessment for calendar years 2010 and 2011.
 
   - **(6)** in subsection (e), as redesignated by paragraph (4)—
     - **(A)** in paragraph (1)—
@@ -442,8 +453,8 @@ This Act may be cited as the “USA PATRIOT Act Sunset Extension Act of 2011”.
       - **(iv)** whether, and how often, the Federal Bureau of Investigation used information acquired under a pen register or trap and trace device under title IV of the Foreign Intelligence Surveillance Act of 1978 to produce an analytical intelligence product for distribution within the Federal Bureau of Investigation, to the intelligence community, or to another department, agency, or instrumentality of Federal, State, local, or tribal governments; and
       - **(v)** whether, and how often, the Federal Bureau of Investigation provided information acquired under a pen register or trap and trace device under title IV of the Foreign Intelligence Surveillance Act of 1978 to law enforcement authorities for use in criminal proceedings.
   - **(3)** *Submission dates*
-    - **(A)** *Calendar years 2007 through 2009* Not later than September 30, 2011, the Inspector General of the Department of Justice shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives a report containing the results of the audits conducted under paragraph (1) for calendar years 2007 through 2009.
-    - **(B)** *Calendar years 2010 and 2011* Not later than December 31, 2012, the Inspector General of the Department of Justice shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives a report containing the results of the audits conducted under paragraph (1) for calendar years 2010 and 2011.
+    - **(A)** *Calendar years 2007 through 2009* Not later than September 30, 2011March 31, 2012, the Inspector General of the Department of Justice shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives a report containing the results of the audits conducted under paragraph (1) for calendar years 2007 through 2009.
+    - **(B)** *Calendar years 2010 and 2011* Not later than December 31, 2012March 31, 2013, the Inspector General of the Department of Justice shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives a report containing the results of the audits conducted under paragraph (1) for calendar years 2010 and 2011.
   - **(4)** *Intelligence assessment*
     - **(A)** *In general* For the period beginning January 1, 2007 and ending on December 31, 2011, the Inspector General of any element of the intelligence community outside of the Department of Justice that used information acquired under a pen register or trap and trace device under title IV of the Foreign Intelligence Surveillance Act of 1978 in the intelligence activities of the element of the intelligence community shall—
       - **(i)** assess the importance of the information to the intelligence activities of the element of the intelligence community;
@@ -451,8 +462,8 @@ This Act may be cited as the “USA PATRIOT Act Sunset Extension Act of 2011”.
       - **(iii)** describe any noteworthy facts or circumstances relating to orders under title IV of the Foreign Intelligence Surveillance Act of 1978 as the orders relate to the element of the intelligence community; and
       - **(iv)** examine any minimization procedures used by the element of the intelligence community in relation to pen registers and trap and trace devices under title IV of the Foreign Intelligence Surveillance Act of 1978 and whether the minimization procedures protect the constitutional rights of United States persons.
     - **(B)** *Submission dates for assessment*
-      - **(i)** *Calendar years 2007 through 2009* Not later than September 30, 2011, the Inspector General of each element of the intelligence community that conducts an assessment under this paragraph shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representative a report containing the results of the assessment for calendar years 2007 through 2009.
-      - **(ii)** *Calendar years 2010 and 2011* Not later than December 31, 2012, the Inspector General of each element of the intelligence community that conducts an assessment under this paragraph shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representative a report containing the results of the assessment for calendar years 2010 and 2011.
+      - **(i)** *Calendar years 2007 through 2009* Not later than September 30, 2011March 31, 2012, the Inspector General of each element of the intelligence community that conducts an assessment under this paragraph shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representative a report containing the results of the assessment for calendar years 2007 through 2009.
+      - **(ii)** *Calendar years 2010 and 2011* Not later than December 31, 2012March 31, 2013, the Inspector General of each element of the intelligence community that conducts an assessment under this paragraph shall submit to the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representative a report containing the results of the assessment for calendar years 2010 and 2011.
   - **(5)** *Prior notice to attorney general and director of national intelligence; comments*
     - **(A)** *Notice* Not later than 30 days before the submission of any report paragraph (3) or (4), the Inspector General of the Department of Justice and any Inspector General of an element of the intelligence community that submits a report under this subsection shall provide the report to the Attorney General and the Director of National Intelligence.
     - **(B)** *Comments* The Attorney General or the Director of National Intelligence may provide such comments to be included in any report submitted under paragraph (3) or (4) as the Attorney General or the Director of National Intelligence may consider necessary.
@@ -479,6 +490,18 @@ If any provision of this Act or an amendment made by this Act, or the applicatio
 
 Of the unobligated balances available in the Department of Justice Assets Forfeiture Fund established under section 524(c)(1) of title 28, United States Code, $5,000,000 are permanently rescinded and shall be returned to the general fund of the Treasury.
 
-## § 15. Effective date
+## § 15. Electronic surveillance
+
+Section 105(c)(1)(A) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1805(c)(1)(A)) is amended by inserting “with particularity” after “description”.
+
+## § 16. Death penalty for certain terror related crimes
+
+- **(a)** *Participation in nuclear and weapons of mass destruction threats to the United States* Section 832(c) of title 18, United States Code, is amended by inserting “punished by death if death results to any person from the offense, or” after “shall be”.
+- **(b)** *Missile systems to destroy aircraft* Section 2332g(c)(3) of title 18, United States Code, is amended by inserting “punished by death or” after “shall be”.
+- **(c)** *Atomic weapons* The last sentence of section 222 b. of the Atomic Energy Act of 1954 (42 U.S.C. 2272) is amended by inserting “death or” before “imprisonment for life” the last place it appears.
+- **(d)** *Radiological dispersal devices* Section 2332h(c)(3) of title 18, United States Code, is amended by inserting “death or” before “imprisonment for life”.
+- **(e)** *Variola virus* Section 175c(c)(3) of title 18, United States Code, is amended by inserting “death or” before “imprisonment for life”.
+
+## § 1517. Effective date
 
 The amendments made by sections 3, 4, 5, 6, 7, and 11 shall take effect on the date that is 120 days after the date of enactment of this Act.
