@@ -1,0 +1,25 @@
+---
+legis-num: S. 610
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 610
+
+> To provide for the conveyance of approximately 140 acres of land in the Ouachita National Forest in Oklahoma to the Indian Nations Council, Inc., of the Boy Scouts of America, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Help to Access Land for the Education of Scouts” or “HALE Scouts Act”.
+
+## § 2. Land conveyance, Ouachita National Forest, Oklahoma
+
+- **(a)** *Finding* Congress finds that it is in the public interest to provide for the sale of certain federally owned land in the Ouachita National Forest in Oklahoma to the Indian Nations Council, Inc., of the Boy Scouts of America, for market value consideration.
+- **(b)** *Conveyance required* Subject to valid existing rights, the Secretary of Agriculture shall convey, by quitclaim deed, to the Indian Nations Council, Inc., of the Boy Scouts of America (in this section referred to as the “Council”) all right, title, and interest of the United States in and to certain National Forest System land in the Ouachita National Forest in the State of Oklahoma consisting of approximately 140 acres, depending on the final measurement of the road set back and the actual size of the affected sections, as more fully described in subsection (c). The conveyance may not include any land located within the Indian Nations National Scenic and Wildlife Area designated by section 10 of the Winding Stair Mountain National Recreation and Wilderness Area Act (16 U.S.C. 460vv–8).
+- **(c)** *Covered lands* The National Forest System land to be conveyed under subsection (b) is depicted on the map entitled “Boy Scout Land Request—Ouachita NF”. The map shall be on file and available for public inspection in the Forest Service Regional Office in Atlanta, Georgia.
+- **(d)** *Consideration* As consideration for the land conveyed under subsection (b), the Council shall pay to the Secretary an amount equal to the fair market value of the land, as determined by an appraisal approved by the Secretary and done in conformity with the Uniform Appraisal Standards for Federal Land Acquisitions and section 206 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716).
+- **(e)** *Use of proceeds* The consideration received under subsection (d) shall be deposited in the fund established by Public Law 90–171 (commonly known as the “Sisk Act”; 16 U.S.C. 484a). The amount so deposited shall be available to the Secretary, without further appropriation, for expenditure for the acquisition of land and interests in land in the Ouachita National Forest.
+- **(f)** *Survey and administrative costs* The exact acreage and legal description of the land to be conveyed under subsection (b) shall be determined by a survey satisfactory to the Secretary. The Council shall pay the reasonable costs of survey, appraisal, and any administrative analyses required by law.
+- **(g)** *Access* Access to the land conveyed under subsection (b) shall be from the adjacent land of the Council or its successor. Notwithstanding section 1323(a) of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3210(a)), the Secretary shall not be required to provide additional access to the conveyed land.
+- **(h)** *Additional terms and conditions* The Secretary may prescribe such terms and conditions on the conveyance under subsection (b) as the Secretary considers in the public interest, including the reservation of access rights to the conveyed land for administrative purposes.
