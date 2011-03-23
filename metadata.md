@@ -1,7 +1,7 @@
 ---
 measure: H.R. 658
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 658
@@ -16,7 +16,7 @@ FAA Modernization and Reform Act of 2012
 
 - Rep. Mica, John L. [R-FL-7] (M000689)
 
-## Cosponsors (21)
+## Cosponsors (24)
 
 - Rep. Petri, Thomas E. [R-WI-6] (P000265)
 - Rep. Hultgren, Randy [R-IL-14] (H001059)
@@ -39,13 +39,31 @@ FAA Modernization and Reform Act of 2012
 - Rep. Lankford, James [R-OK-5] (L000575)
 - Rep. Shuster, Bill [R-PA-9] (S001154)
 - Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Cravaack, Chip [R-MN-8] (C001086)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Guinta, Frank C. [R-NH-1] (G000570)
 
-## Committees (1)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
+- House — Judiciary Committee
+- House — Science, Space, and Technology Committee
 
 ## Actions
 
 - 2011-02-11 — Introduced in House
 - 2011-02-11 — Introduced in House
 - 2011-02-11 — Referred to the House Committee on Transportation and Infrastructure.
+- 2011-02-16 — Committee Consideration and Mark-up Session Held.
+- 2011-02-16 — Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 25.
+- 2011-03-10 — Referred jointly and sequentially to the House Committee on Science, Space, and Technology for a period ending not later than March 23, 2011 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(p), rule X.
+- 2011-03-10 — Referred jointly and sequentially to the House Committee on the Judiciary for a period ending not later than March 23, 2011 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(l), rule X.
+- 2011-03-10 — Reported (Amended) by the Committee on 112-29, Part I.
+- 2011-03-10 — Reported (Amended) by the Committee on 112-29, Part I.
+- 2011-03-16 — Supplemental report filed by the Committee on Transportation, H. Rept. 112-29, Part II.
+- 2011-03-16 — Supplemental report filed by the Committee on Transportation, H. Rept. 112-29, Part II.
+- 2011-03-23 — Committee on Judiciary discharged.
+- 2011-03-23 — Committee on Judiciary discharged.
+- 2011-03-23 — Committee on Science, Space, and Technology discharged.
+- 2011-03-23 — Committee on Science, Space, and Technology discharged.
+- 2011-03-23 — Placed on the Union Calendar, Calendar No. 19.
