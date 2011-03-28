@@ -1,0 +1,97 @@
+---
+legis-num: S. 657
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 657
+
+> To encourage, enhance, and integrate Blue Alert plans throughout the United States in order to disseminate information when a law enforcement officer is seriously injured or killed in the line of duty.
+
+## § 1. Short title
+
+This Act may be cited as the “National Blue Alert Act of 2011”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Coordinator* The term Coordinator means the Blue Alert Coordinator of the Department of Justice designated under section 4(a).
+- **(2)** *Blue Alert* The term Blue Alert means information relating to the serious injury or death of a law enforcement officer in the line of duty sent through the network.
+- **(3)** *Blue Alert plan* The term Blue Alert plan means the plan of a State, unit of local government, or Federal agency participating in the network for the dissemination of information received as a Blue Alert.
+- **(4)** *Network* The term network means the Blue Alert communications network established by the Attorney General under section 3.
+- **(5)** *State* The term State means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+## § 3. Blue Alert communications network
+
+The Attorney General shall establish a national Blue Alert communications network within the Department of Justice to issue Blue Alerts through the initiation, facilitation, and promotion of Blue Alert plans, in coordination with States, units of local government, law enforcement agencies, and other appropriate entities.
+
+## § 4. Blue Alert Coordinator; guidelines
+
+- **(a)** *Coordination within Department of Justice* The Attorney General shall assign an officer of the Department of Justice to act as the national coordinator of the Blue Alert communications network.
+- **(b)** *Duties of the Coordinator* The Coordinator shall—
+  - **(1)** encourage States and units of local government to develop additional Blue Alert plans;
+  - **(2)** establish voluntary guidelines for States and units of local government to use in developing Blue Alert plans that will promote compatible and integrated Blue Alert plans throughout the United States, including—
+    - **(A)** a list of the resources necessary to establish a Blue Alert plan;
+    - **(B)** criteria for evaluating whether a situation warrants issuing a Blue Alert;
+    - **(C)** guidelines to protect the privacy, dignity, independence, and autonomy of any law enforcement officer who may be the subject of a Blue Alert and the family of the law enforcement officer;
+    - **(D)** guidelines that a Blue Alert should only be issued with respect to a law enforcement officer if—
+      - **(i)** the law enforcement agency involved—
+        - **(I)** confirms—
+          - **(aa)** the death or serious injury of the law enforcement officer; or
+          - **(bb)** the attack on the law enforcement officer and that there is an indication of the death or serious injury of the officer; or
+        - **(II)** concludes that the law enforcement officer is missing in the line of duty;
+      - **(ii)** there is an indication of serious injury to or death of the law enforcement officer;
+      - **(iii)** the suspect involved has not been apprehended; and
+      - **(iv)** there is sufficient descriptive information of the suspect involved and any relevant vehicle and tag numbers;
+    - **(E)** guidelines—
+      - **(i)** that information relating to a law enforcement officer who is seriously injured or killed in the line of duty should be provided to the National Crime Information Center database operated by the Federal Bureau of Investigation under section 534 of title 28, United States Code, and any relevant crime information repository of the State involved;
+      - **(ii)** that a Blue Alert should, to the maximum extent practicable (as determined by the Coordinator in consultation with law enforcement agencies of States and units of local governments), be limited to the geographic areas most likely to facilitate the apprehension of the suspect involved or which the suspect could reasonably reach, which should not be limited to State lines;
+      - **(iii)** for law enforcement agencies of States or units of local government to develop plans to communicate information to neighboring States to provide for seamless communication of a Blue Alert; and
+      - **(iv)** providing that a Blue Alert should be suspended when the suspect involved is apprehended or when the law enforcement agency involved determines that the Blue Alert is no longer effective; and
+    - **(F)** guidelines for—
+      - **(i)** the issuance of Blue Alerts through the network; and
+      - **(ii)** the extent of the dissemination of alerts issued through the network;
+  - **(3)** develop protocols for efforts to apprehend suspects that address activities during the period beginning at the time of the initial notification of a law enforcement agency that a suspect has not been apprehended and ending at the time of apprehension of a suspect or when the law enforcement agency involved determines that the Blue Alert is no longer effective, including protocols regulating—
+    - **(A)** the use of public safety communications;
+    - **(B)** command center operations; and
+    - **(C)** incident review, evaluation, debriefing, and public information procedures;
+  - **(4)** work with States to ensure appropriate regional coordination of various elements of the network;
+  - **(5)** establish an advisory group to assist States, units of local government, law enforcement agencies, and other entities involved in the network with initiating, facilitating, and promoting Blue Alert plans, which shall include—
+    - **(A)** to the maximum extent practicable, representation from the various geographic regions of the United States; and
+    - **(B)** members who are—
+      - **(i)** representatives of law enforcement organizations, law enforcement agencies, and public safety communications;
+      - **(ii)** broadcasters, first responders, dispatchers, and radio station personnel; and
+      - **(iii)** representatives of any other individuals or organizations that the Coordinator determines are necessary to the success of the network; and
+  - **(6)** act as the nationwide point of contact for—
+    - **(A)** the development of the network; and
+    - **(B)** regional coordination of Blue Alerts through the network.
+- **(c)** *Limitations*
+  - **(1)** *Voluntary participation* The guidelines established under subsection (b)(2), protocols developed under subsection (b)(3), and other programs established under subsection (b), shall not be mandatory.
+  - **(2)** *Dissemination of information* The guidelines established under subsection (b)(2) shall, to the maximum extent practicable (as determined by the Coordinator in consultation with law enforcement agencies of States and units of local government), provide that appropriate information relating to a Blue Alert is disseminated to the appropriate officials of law enforcement agencies, public health agencies, and other agencies.
+  - **(3)** *Privacy and civil liberties protections* The guidelines established under subsection (b) shall—
+    - **(A)** provide mechanisms that ensure that Blue Alerts comply with all applicable Federal, State, and local privacy laws and regulations; and
+    - **(B)** include standards that specifically provide for the protection of the civil liberties, including the privacy, of law enforcement officers who are seriously injured or killed in the line of duty and the families of the officers.
+- **(d)** *Cooperation with other agencies* The Coordinator shall cooperate with the Secretary of Homeland Security, the Secretary of Transportation, the Chairman of the Federal Communications Commission, and appropriate offices of the Department of Justice in carrying out activities under this Act.
+- **(e)** *Reports* Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the Blue Alert plans that are in effect or being developed.
+
+## § 5. Grant program for support of Blue Alert plans
+
+Section 1701(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd(b)) is amended—
+
+- **(1)** in paragraph (16), by striking “and” at the end;
+- **(2)** by redesignating paragraph (17) as paragraph (18); and
+- **(3)** by inserting after paragraph (16) the following:
+  > - **(17)** to assist a State in the development or enhancement of programs and activities in support of a Blue Alert plan and the network (as those terms are defined in section 2 of the National Blue Alert Act of 2010), including—
+  >   - **(A)** developing and implementing education and training programs, and associated materials, relating to Blue Alert plans;
+  >   - **(B)** developing and implementing law enforcement programs, and associated equipment, relating to Blue Alert plans; and
+  >   - **(C)** developing and implementing new technologies to improve the communication of Blue Alerts; and
+
+## § 6. Authorization of appropriations
+
+Section 1001(a)(11) of the Omnibus Crime Control and Safe Streets Act of 1968 is amended by adding at the end the following:
+
+> - **(C)**
+>   - **(i)** Of amounts authorized to be appropriated to carry out part Q in any fiscal year, $10,000,000 is authorized to be appropriated for grants for the purposes described in section 1701(b)(17).
+>   - **(ii)** Amounts appropriated pursuant to clause (i) shall remain available until expended.
