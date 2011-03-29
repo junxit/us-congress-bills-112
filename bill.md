@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 1079
-congress: 112th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 1079
