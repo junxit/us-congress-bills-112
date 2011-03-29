@@ -1,7 +1,7 @@
 ---
 measure: H.R. 362
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 362
@@ -16,7 +16,7 @@ To redesignate the Federal building and United States Courthouse located at 200 
 
 - Rep. Conaway, K. Michael [R-TX-11] (C001062)
 
-## Cosponsors (21)
+## Cosponsors (25)
 
 - Rep. Gohmert, Louie [R-TX-1] (G000552)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
@@ -39,6 +39,10 @@ To redesignate the Federal building and United States Courthouse located at 200 
 - Rep. Farenthold, Blake [R-TX-27] (F000460)
 - Rep. Carter, John R. [R-TX-31] (C001051)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
 
 ## Committees (1)
 
@@ -49,3 +53,10 @@ To redesignate the Federal building and United States Courthouse located at 200 
 - 2011-01-20 — Introduced in House
 - 2011-01-20 — Introduced in House
 - 2011-01-20 — Referred to the House Committee on Transportation and Infrastructure.
+- 2011-01-21 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2011-02-16 — Committee Consideration and Mark-up Session Held.
+- 2011-02-16 — Ordered to be Reported by Voice Vote.
+- 2011-02-16 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2011-03-29 — Placed on the House Calendar, Calendar No. 20.
+- 2011-03-29 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-42.
+- 2011-03-29 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-42.
