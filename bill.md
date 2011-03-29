@@ -13,10 +13,45 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “The HAMP Termination Act of 2011”.
 
-## § 2. Termination of authority
+## § 2. Congressional findings
+
+The Congress finds the following:
+
+- **(1)** According to the Department of the Treasury—
+  - **(A)** the Home Affordable Modification Program (HAMP) is designed to “help as many as 3 to 4 million financially struggling homeowners avoid foreclosure by modifying loans to a level that is affordable for borrowers now and sustainable over the long term”; and
+  - **(B)** as of February 2011, only 607,600 active permanent mortgage modifications were made under HAMP.
+- **(2)** Many homeowners whose HAMP modifications were canceled suffered because they made futile payments and some of those homeowners were even forced into foreclosure.
+- **(3)** The Special Inspector General for TARP reported that HAMP “benefits only a small portion of distressed homeowners, offers others little more than false hope, and in certain cases causes more harm than good”.
+- **(4)** Approximately $30 billion was obligated by the Department of the Treasury to HAMP, however, approximately only $840 million has been disbursed.
+- **(5)** Terminating HAMP would save American taxpayers approximately $1.4 billion, according to the Congressional Budget Office.
+
+## § 3. Termination of authority
 
 Section 120 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5230) is amended by adding at the end the following new subsection:
 
 > - **(c)** *Termination of authority To provide new assistance under the Home Affordable Modification Program*
 >   - **(1)** *In general* Except as provided under paragraph (2), after the date of the enactment of this subsection the Secretary may not provide any assistance under the Home Affordable Modification Program under the Making Home Affordable initiative of the Secretary, authorized under this Act, on behalf of any homeowner.
 >   - **(2)** *Protection of existing obligations on behalf of homeowners already extended an offer to participate in the Program* Paragraph (1) shall not apply with respect to assistance provided on behalf of a homeowner who, before the date of the enactment of this subsection, was extended an offer to participate in the Home Affordable Modification Program on a trial or permanent basis.
+>   - **(3)** *Deficit reduction*
+>     - **(A)** *Use of unobligated funds* Notwithstanding any other provision of this title, the amounts described in subparagraph (B) shall not be available after the date of the enactment of this subsection for obligation or expenditure under the Home Affordable Modification Program of the Secretary, but should be covered into the General Fund of the Treasury and should be used only for reducing the budget deficit of the Federal Government.
+>     - **(B)** *Identification of unobligated funds* The amounts described in this subparagraph are any amounts made available under title I of the Emergency Economic Stabilization Act of 2008 that—
+>       - **(i)** have been allocated for use, but not yet obligated as of the date of the enactment of this subsection, under the Home Affordable Modification Program of the Secretary; and
+>       - **(ii)** are not necessary for providing assistance under such Program on behalf of homeowners who, pursuant to paragraph (2), may be provided assistance after the date of the enactment of this subsection.
+>   - **(4)** *Study of use of program by members of the Armed Forces, veterans, and Gold Star recipients*
+>     - **(A)** *Study* The Secretary shall conduct a study to determine the extent of usage of the Home Affordable Modification Program by, and the impact of such Program on, covered homeowners.
+>     - **(B)** *Report* Not later than the expiration of the 90-day period beginning on the date of the enactment of this subsection, the Secretary shall submit to the Congress a report setting forth the results of the study under subparagraph (A) and identifying best practices, derived from studying the Home Affordable Modification Program, that could be applied to existing mortgage assistance programs available to covered homeowners.
+>     - **(C)** *Covered homeowner* For purposes of this subsection, the term “covered homeowner” means a homeowner who is—
+>       - **(i)** a member of the Armed Forces of the United States on active duty or the spouse or parent of such a member;
+>       - **(ii)** a veteran, as such term is defined in section 101 of title 38, United States Code; or
+>       - **(iii)** eligible to receive a Gold Star lapel pin under section 1126 of title 10, United States Code, as a widow, parent, or next of kin of a member of the Armed Forces person who died in a manner described in subsection (a) of such section.
+>   - **(5)** *Publication of Member Availability for Assistance* Not later than 5 days after the date of the enactment of this subsection, the Secretary of the Treasury shall publish to its Website on the World Wide Web in a prominent location, large point font, and boldface type the following statement: “The Home Affordable Modification Program (HAMP) has been terminated. If you are having trouble paying your mortgage and need help contacting your lender or servicer for purposes of negotiating or acquiring a loan modification, please contact your Member of Congress to assist you in contacting your lender or servicer for the purpose of negotiating or acquiring a loan modification.”.
+>   - **(6)** *Notification to HAMP Applicants Required*
+>     - **(A)** *In general* Not later than 30 days after the date of the enactment of this subsection, the Secretary of the Treasury shall inform each individual who applied for the Home Affordable Modification Program and will not be considered for a modification under such Program due to termination of such Program under this subsection—
+>       - **(i)** that such Program has been terminated;
+>       - **(ii)** that loan modifications under such Program are no longer available;
+>       - **(iii)** of the name and contact information of such individual’s Member of Congress; and
+>       - **(iv)** that the individual should contact his or her Member of Congress to assist the individual in contacting the individual’s lender or servicer for the purpose of negotiating or acquiring a loan modification.
+
+## § 4. Sense of Congress
+
+The Congress encourages banks to work with homeowners to provide loan modifications to those that are eligible. The Congress also encourages banks to work and assist homeowners and prospective homeowners with foreclosure prevention programs and information on loan modifications.
