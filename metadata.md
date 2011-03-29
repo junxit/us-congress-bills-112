@@ -1,0 +1,27 @@
+---
+measure: H.R. 1234
+congress: 112
+version: Introduced in House
+---
+
+# H.R. 1234
+
+To amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian tribes.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+
+## Committees (1)
+
+- House — Natural Resources Committee
+
+## Actions
+
+- 2011-03-29 — Introduced in House
+- 2011-03-29 — Introduced in House
+- 2011-03-29 — Referred to the House Committee on Natural Resources.
