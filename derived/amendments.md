@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1079
 congress: 112
-version: Received in Senate
+version: Reported in House
 derived: true
 ---
 
