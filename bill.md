@@ -123,7 +123,7 @@ In awarding grants under section 4(a), the Secretary shall give priority to appl
   - **(1)** *Duties of the Secretary and the Mayor* The Secretary and the Mayor of the District of Columbia shall—
     - **(A)** jointly enter into an agreement with the Institute of Education Sciences of the Department of Education to evaluate annually the performance of students who received scholarships under the 5-year program under this Act;
     - **(B)** jointly enter into an agreement to monitor and evaluate the use of funds authorized and appropriated for the District of Columbia public schools and the District of Columbia public charter schools under this Act; and
-    - **(C)** make the evaluations described in subparagraph (A) and (B) public in accordance with subsection (c).
+    - **(C)** make the evaluations described in subparagraphs (A) and (B) public in accordance with subsection (c).
   - **(2)** *Duties of the Secretary* The Secretary, through a grant, contract, or cooperative agreement, shall—
     - **(A)** ensure that the evaluation under paragraph (1)(A)—
       - **(i)** is conducted using the strongest possible research design for determining the effectiveness of the opportunity scholarship program under this Act; and

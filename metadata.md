@@ -1,7 +1,7 @@
 ---
 measure: H.R. 471
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 471
@@ -73,6 +73,12 @@ Scholarships for Opportunity and Results Act
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (3)
+
+- 2011-03-30 — [House 112-1-202](votes/house-112-1-0202.md) — On Agreeing to the Amendment — **Failed** (185–237)
+- 2011-03-30 — [House 112-1-203](votes/house-112-1-0203.md) — On Motion to Recommit with Instructions — **Failed** (185–238)
+- 2011-03-30 — [House 112-1-204](votes/house-112-1-0204.md) — On Passage — **Passed** (225–195)
+
 ## Actions
 
 - 2011-01-26 — Introduced in House
@@ -84,3 +90,25 @@ Scholarships for Opportunity and Results Act
 - 2011-03-17 — Placed on the Union Calendar, Calendar No. 17.
 - 2011-03-17 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-36.
 - 2011-03-17 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-36.
+- 2011-03-29 — Rules Committee Resolution H. Res. 186 Reported to House. Rule provides for consideration of H.R. 471 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. The amendment recommended by the Committee on Oversight and Government Reform now printed in the bill shall be considered as adopted. All points of order against consideration of the bill are waived.
+- 2011-03-30 — Amendment (A002) in the nature of a substitute offered by Ms. Norton. (consideration: CR H2074-2075, H2079; text: CR H2074-2075)
+- 2011-03-30 — Amendment failed by House: On agreeing to the Norton amendment (A002) Failed by the Yeas and Nays: 185 - 237 (Roll no. 202).
+- 2011-03-30 — Considered under the provisions of rule H. Res. 186. (consideration: CR H2060-2082; text of measure as reported in House: CR H2060-2063)
+- 2011-03-30 — DEBATE - Pursuant to the provisions of H.Res. 186, the House proceeded with 40 minutes of debate on the Norton substitute amendment.
+- 2011-03-30 — DEBATE - The House proceeded with 10 minutes of debate on the Cummings motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment which strikes all after the enacting clause and inserts two sections. Section 1 is entitled "FUNDING FOR DC PUBLIC SCHOOLS AND DC PUBLIC CHARTER SCHOOLS". Section 2 is entitled "AUTHORIZATION FOR APPROPRIATIONS".
+- 2011-03-30 — DEBATE - The House proceeded with one hour of debate on H.R. 471.
+- 2011-03-30 — House amendment not agreed to: On agreeing to the Norton amendment (A002) Failed by the Yeas and Nays: 185 - 237 (Roll no. 202).
+- 2011-03-30 — House amendment offered
+- 2011-03-30 — House amendment offered
+- 2011-03-30 — House amendment offered/reported by: Amendment (A002) in the nature of a substitute offered by Ms. Norton.(consideration: CR H2074-2075, H2079; text: CR H2074-2075)
+- 2011-03-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-03-30 — Mr. Cummings moved to recommit with instructions to Oversight and Government. (consideration: CR H2080-2082; text: CR H2080)
+- 2011-03-30 — On agreeing to the Norton amendment (A002) Failed by the Yeas and Nays: 185 - 237 (Roll no. 202).
+- 2011-03-30 — On motion to recommit with instructions Failed by recorded vote: 185 - 238 (Roll no. 203).
+- 2011-03-30 — On passage Passed by recorded vote: 225 - 195 (Roll no. 204).
+- 2011-03-30 — Passed/agreed to in House: On passage Passed by recorded vote: 225 - 195 (Roll no. 204).
+- 2011-03-30 — Point of order raised by Mr. Weiner on the content of the measure. Mr. Weiner stated that the provisions of bill violates clause 10(a) of Rule XXI. The Chair stated that the point of order was not timely.
+- 2011-03-30 — Roll call votes on amendments in House
+- 2011-03-30 — Rule H. Res. 186 passed House.
+- 2011-03-30 — Rule provides for consideration of H.R. 471 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. The amendment recommended by the Committee on Oversight and Government Reform now printed in the bill shall be considered as adopted. All points of order against consideration of the bill are waived.
+- 2011-03-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2081)
