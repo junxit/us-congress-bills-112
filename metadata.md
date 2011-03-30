@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 112
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 112
@@ -28,3 +28,7 @@ A resolution congratulating the Pennsylvania State University IFC/Panhellenic Da
 
 - 2011-03-29 — Introduced in Senate
 - 2011-03-29 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1938)
+- 2011-03-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S2000)
+- 2011-03-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2000)
+- 2011-03-30 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1999-2000)
+- 2011-03-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1999-2000)
