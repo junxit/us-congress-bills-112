@@ -1,7 +1,7 @@
 ---
 measure: H.R. 839
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 839
@@ -27,9 +27,10 @@ HAMP Termination Act of 2011
 - Rep. Capito, Shelley Moore [R-WV-2] (C001047)
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (5)
 
@@ -145,3 +146,4 @@ HAMP Termination Act of 2011
 - 2011-03-29 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2021)
 - 2011-03-29 — The previous question was ordered pursuant to the rule. (consideration: CR H2020)
 - 2011-03-29 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-03-30 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
