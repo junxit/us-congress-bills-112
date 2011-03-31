@@ -1,0 +1,100 @@
+---
+legis-num: H.R. 1280
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1280
+
+> To amend the Atomic Energy Act of 1954 to require congressional approval of agreements for peaceful nuclear cooperation with foreign countries, and for other purposes.
+
+## § 1. Requirement for congressional approval of agreements for peaceful nuclear cooperation
+
+- **(a)** *Cooperation with other nations* Section 123 of the Atomic Energy Act of 1954 (42 U.S.C. 2153) is amended—
+  - **(1)** in the matter preceding subsection a., by striking “No cooperation” and inserting “Subject to subsection f., no cooperation”;
+  - **(2)** in subsection a.—
+    - **(A)** in paragraph (3), by inserting “or acquired from any other source” after “pursuant to such agreement” each place it appears;
+    - **(B)** in paragraph (4)—
+      - **(i)** by striking “or terminates or” and inserting “, terminates,”; and
+      - **(ii)** by inserting “, or violates or abrogates any provision contained within such agreement” after “IAEA safeguards”;
+    - **(C)** in paragraph (6), by inserting “or acquired from any other source” after “agreement” each place it appears;
+    - **(D)** in paragraph (8), by striking “and” at the end;
+    - **(E)** in paragraph (9), by striking the period at the end and inserting a semicolon; and
+    - **(F)** by adding at the end the following new paragraphs:
+      > - **(10)** a guaranty by the cooperating party that no nationals of a third country shall be permitted access to any reactor, related equipment, or sensitive materials transferred under the agreement for cooperation without the prior consent of the United States; and
+      > - **(11)** if the cooperating party does not operate, as of April 1, 2011, enrichment or reprocessing facilities, a requirement as part of the agreement for cooperation or other legally binding document that is considered part of the agreement that no enrichment or reprocessing activities, or acquisition or construction of facilities for such activities, will occur within the territory over which the cooperating party exercises sovereignty.
+
+  - **(3)** in subsection c., by striking “and” at the end;
+  - **(4)** in subsection d.—
+    - **(A)** in the first sentence—
+      - **(i)** by striking “not” the first and second place it appears;
+      - **(ii)** by inserting “only” after “effective” the first place it appears; and
+      - **(iii)** by striking “: Provided further,” and all that follows through “such agreement”; and
+    - **(B)** by striking the final period and inserting “; and”;
+  - **(5)** by redesignating subsection e. as subsection f.; and
+  - **(6)** by inserting immediately after subsection d. the following new subsection:
+    > - **(e)** the cooperating party—
+    >   - **(1)** has acceded to and is fully implementing the provisions and guidelines of—
+    >     - **(A)** the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction (commonly known as the “Chemical Weapons Convention”);
+    >     - **(B)** the Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological and Toxin Weapons and on their Destruction (commonly known as the “Biological Weapons Convention”); and
+    >     - **(C)** all other international agreements to which the United States is a party regarding the export of nuclear, chemical, biological, and advanced conventional weapons, including missiles and other delivery systems;
+    >   - **(2)** has established and is fully implementing an effective export control system, including fully implementing the provisions and guidelines of United Nations Security Council Resolution 1540;
+    >   - **(3)** is in full compliance with all United Nations conventions to which the United States is a party and all Security Council resolutions regarding the prevention of the proliferation of weapons of mass destruction, including—
+    >     - **(A)** the Convention on the Physical Protection of Nuclear Material; and
+    >     - **(B)** the United Nations International Convention for the Suppression of Acts of Nuclear Terrorism;
+    >   - **(4)** is not a Destination of Diversion Concern under section 303 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (Public Law 111–195);
+    >   - **(5)** is closely cooperating with the United States to prevent state sponsors of terrorism (the term “state sponsor of terrorism” means a country the government of which has been determined by the Secretary of State, for purposes of section 6(j) of the Export Administration Act of 1979, section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or other provision of law, is a government that has repeatedly provided support for acts of international terrorism) from—
+    >     - **(A)** acquiring or developing chemical, biological, or nuclear weapons or related technologies; or
+    >     - **(B)** acquiring or developing destabilizing numbers and types of advanced conventional weapons, including ballistic missiles; and
+    >   - **(6)** has signed, ratified, and is fully implementing an Additional Protocol to its safeguards agreement with the International Atomic Energy Agency.
+
+- **(b)** *Subsequent arrangements* Section 131 a. (1) of such Act (42 U.S.C. 2160 a.(1)) is amended—
+  - **(1)** in the second sentence, by striking “security,” and all that follows through “publication.” and inserting “security.”; and
+  - **(2)** by inserting after the second sentence the following new sentences: “Such subsequent arrangement shall become effective only if Congress enacts a joint resolution of approval according to the procedures of sections 123 d. and 130 i. of this Act. Any such nuclear proliferation assessment statement shall be submitted to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate not later than the 31st day of continuous session after submission of the subsequent arrangement.”.
+
+## § 2. Withdrawal from the Treaty on the Non-Proliferation of Nuclear Weapons
+
+- **(a)** *Statement of policy* It is the policy of the United States to oppose the withdrawal of any country that is a party to the Treaty on the Non-Proliferation of Nuclear Weapons (in this section referred to as the “Treaty”) and to use all political, economic, and diplomatic means at its disposal to deter, prevent, or reverse any such withdrawal from the Treaty.
+- **(b)** *Prohibition on certain assistance* Notwithstanding any other provision of law, no assistance (other than humanitarian assistance) under any provision of law may be provided to a country that has withdrawn from the Treaty.
+- **(c)** *Return of all United States-Origin materials and equipment* The United States shall seek the return of any material, equipment, or components transferred under an agreement for civil nuclear cooperation that is in force pursuant to section 123 of the Atomic Energy Act of 1954 (42 U.S.C. 2153) on or after the date of the enactment of this Act, and any special fissionable material produced through the use of such material, equipment, or components previously provided to a country that withdraws from the Treaty.
+
+## § 3. Report on comparability of nonproliferation conditions by foreign nuclear suppliers
+
+Not later than 180 days after the date of the enactment of this Act, the President shall transmit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the extent to which each country that engages in civil nuclear exports (including power and research nuclear reactors) requires nuclear nonproliferation requirements as conditions for export comparable to those under this Act. Such report shall also—
+
+- **(1)** detail the extent to which the exports of each such country incorporate United States-origin components, technology, or materials that require United States approval for re-export;
+- **(2)** detail the civil nuclear-related trade and investments in the United States by any entity from each such country; and
+- **(3)** list any United States grant, concessionary loan or loan guarantee, or any other incentive or inducement to any such country or entity related to nuclear exports or investments in the United States.
+
+## § 4. Initiatives and negotiations relating to agreements for peaceful nuclear cooperation
+
+Subsection f. of section 123 of the Atomic Energy Act of 1954 (42 U.S.C. 2153), as redesignated pursuant to section 1(a)(5) of this Act, is amended to read as follows:
+
+> - **(f)** The President shall keep the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate fully and currently informed of any initiative or negotiations relating to a new or amended agreement for peaceful nuclear cooperation pursuant to this section prior to the President’s announcement of such initiative or negotiations. The President shall consult with the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate concerning such initiative or negotiations beginning not later than 15 calendar days after the initiation of any such negotiations, or the receipt or transmission of a draft agreement, whichever occurs first, and monthly thereafter until such time as the negotiations are concluded.
+
+## § 5. Conduct resulting in termination of nuclear exports
+
+Section 129 a. (2) of the Atomic Energy Act of 1954 (42 U.S.C. 2158) is amended—
+
+- **(1)** in subparagraph (C), by inserting “or” after the semicolon; and
+- **(2)** by inserting after subparagraph (C) the following new subparagraph:
+  > - **(D)** been determined to be a “country of proliferation concern” under section 1055(g)(2) of the National Defense Authorization Act for Fiscal Year 2010 (50 U.S.C. 2371(g)(2));
+
+## § 6. Congressional review procedures
+
+Section 130 i. of the Atomic Energy Act of 1954 (42 U.S.C. 2159 i.) is amended—
+
+- **(1)** by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and
+- **(2)** by inserting after subparagraph (A) the following new subparagraph:
+  > - **(B)** for an agreement for cooperation pursuant to section 123 of this Act, a joint resolution, the matter after the resolving clause of which—
+  >   - **(i)** is as follows: “That the Congress does favor the proposed agreement for cooperation transmitted to the Congress by the President on __________.”; and
+  >   - **(ii)** includes, immediately after the language specified in clause (i), any other provisions to accompany such proposed agreement for cooperation.
+
+## § 7. Requirement of liability protection for United States nuclear suppliers
+
+The Atomic Energy Act of 1954 is amended by inserting after section 134 (42 U.S.C. 2160d) the following new section:
+
+> ## § 135. Requirement of liability protection for United States nuclear suppliers
+>
+> The President may not issue a license for the export of nuclear material, facilities, components, or other goods, services, or technology to a country pursuant to an agreement that has entered into force after the date of the enactment of this Act unless the President determines that such country has liability protection for United States nuclear suppliers that is equivalent to the liability protection specified under the Convention on Supplementary Compensation for Nuclear Damage.
