@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 189
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 189
@@ -20,6 +20,10 @@ Providing for consideration of the bill (H.R. 658) to amend title 49, United Sta
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2011-03-31 — [House 112-1-205](votes/house-112-1-0205.md) — On Agreeing to the Resolution — **Passed** (249–171)
+
 ## Actions
 
 - 2011-03-30 — In lieu of the amendment in the nature of a substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill, it shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule an amendment in the nature of a substitute consisting of the text of the Rules Committee Print dated March 22, 2011.
@@ -27,3 +31,9 @@ Providing for consideration of the bill (H.R. 658) to amend title 49, United Sta
 - 2011-03-30 — Placed on the House Calendar, Calendar No. 22.
 - 2011-03-30 — The House Committee on Rules reported an original measure, H. Rept. 112-46, by Mr. Webster.
 - 2011-03-30 — The House Committee on Rules reported an original measure, H. Rept. 112-46, by Mr. Webster.
+- 2011-03-31 — Considered as privileged matter. (consideration: CR H2122-2129)
+- 2011-03-31 — DEBATE - The House proceeded with one hour of debate on H. Res. 189.
+- 2011-03-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-03-31 — On agreeing to the resolution Agreed to by the Yeas and Nays: 249 - 171 (Roll no. 205). (text: CR H2122)
+- 2011-03-31 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 249 - 171 (Roll no. 205).(text: CR H2122)
+- 2011-03-31 — The previous question was ordered without objection. (consideration: CR H2129)
