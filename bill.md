@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 194
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 194
+
+> Providing for consideration of the bill (H.R. 1255) to prevent a shutdown of the government of the United States, and for other purposes.
+
+That upon the adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1255) to prevent a shutdown of the government of the United States, and for other purposes. All points of order against consideration of the bill are waived. The bill shall be considered as read. All points of order against provisions in the bill are waived. The previous question shall be considered as ordered on the bill to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the Majority Leader and Minority Leader or their respective designees; and (2) one motion to recommit.
