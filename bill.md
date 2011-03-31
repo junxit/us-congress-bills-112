@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 1291
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1291
+
+> To amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian tribes, and for other purposes.
+
+## § 1. Authority reaffirmed
+
+- **(a)** *Clarification* Section 5 of the Act of June 18, 1934 (commonly known as the “Indian Reorganization Act”; 25 U.S.C. 465), is amended in the first sentence by striking “The Secretary” and inserting “Except in Alaska, the Secretary”.
+- **(b)** *Reaffirmation* Section 19 of the Act of June 18, 1934 (commonly known as the “Indian Reorganization Act”; 25 U.S.C. 479), is amended—
+  - **(1)** in the first sentence—
+    - **(A)** by striking “The term” and inserting “Effective beginning on June 18, 1934, the term”; and
+    - **(B)** by striking “any recognized Indian tribe now under Federal jurisdiction” and inserting “any federally recognized Indian tribe”; and
+  - **(2)** by striking the third sentence and inserting the following: “In this section, the term “Indian tribe” means any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe.”.
+- **(c)** *Effective Date* The amendments made by this section shall take effect as if included in the Act of June 18, 1934 (commonly known as the “Indian Reorganization Act”; 25 U.S.C. 479), on the date of enactment of that Act.
