@@ -1,7 +1,7 @@
 ---
 measure: H.R. 872
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 872
@@ -161,6 +161,10 @@ Reducing Regulatory Burdens Act of 2011
 - House — Agriculture Committee
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2011-03-31 — [House 112-1-206](votes/house-112-1-0206.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (292–130)
+
 ## Actions
 
 - 2011-03-02 — Introduced in House
@@ -178,3 +182,11 @@ Reducing Regulatory Burdens Act of 2011
 - 2011-03-29 — Reported (Amended) by the Committee on Agriculture. H. Rept. 112-43, Part II.
 - 2011-03-29 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 112-43, Part I.
 - 2011-03-29 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 112-43, Part I.
+- 2011-03-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-03-30 — Considered under suspension of the rules. (consideration: CR H2083-2091)
+- 2011-03-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 872.
+- 2011-03-30 — Mr. Gibbs moved to suspend the rules and pass the bill, as amended.
+- 2011-03-31 — Considered as unfinished business. (consideration: CR H2129-2130)
+- 2011-03-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-03-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 292 - 130 (Roll no. 206). (text: CR 3/30/2011 H2083)
+- 2011-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 292 - 130 (Roll no. 206).(text: CR 3/30/2011 H2083)
