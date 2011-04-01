@@ -71,3 +71,12 @@ Section 209(b) of the Clean Air Act (42 U.S.C. 7543) is amended by adding at the
 > - **(4)** With respect to standards for emissions of greenhouse gases (as defined in section 330) for model year 2017 or any subsequent model year new motor vehicles and new motor vehicle engines—
 >   - **(A)** the Administrator may not waive application of subsection (a); and
 >   - **(B)** no waiver granted prior to the date of enactment of this paragraph may be construed to waive the application of subsection (a).
+
+## § 4. Sense of Congress
+
+It is the sense of the Congress that—
+
+- **(1)** there is established scientific concern over warming of the climate system based upon evidence from observations of increases in global average air and ocean temperatures, widespread melting of snow and ice, and rising global average sea level;
+- **(2)** addressing climate change is an international issue, involving complex scientific and economic considerations;
+- **(3)** the United States has a role to play in resolving global climate change matters on an international basis; and
+- **(4)** Congress should fulfill that role by developing policies that do not adversely affect the American economy, energy supplies, and employment.
