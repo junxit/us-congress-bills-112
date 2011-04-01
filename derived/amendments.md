@@ -1,7 +1,7 @@
 ---
 measure: H.R. 658
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-297 amendatory instructions. 0 executed, 297 stated and not applied.
+334 amendatory instructions. 0 executed, 334 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -68,7 +68,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 45301(b) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 45301 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 453 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The analysis for chapter 453 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 453 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “A fee” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (B) by striking “and” at the end; | the bill names no machine-readable US Code section |
@@ -108,11 +108,13 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (B) by striking “separated from” and inserting “discharged or released from active duty in”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking “Vietnam-era veterans and disabled veterans” and inserting “Vietnam-era veterans, Persian Gulf veterans, Afghanistan-Iraq war veterans, disabled veterans, and small business concerns (as defined in section 3 … | the bill names no machine-readable US Code section |
-| — | amend | Section 47113 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 47113 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 47114(d) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraphs (F) and (G); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (E) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 47114 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Chapter 471 is amended by striking “$3,200,000,000” and inserting “$3,000,000,000” in each of the following sections: | the bill names no machine-readable US Code section |
+| — | replace | Section 47114(f)(1) is amended by striking subparagraphs (A) and (B) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 47115(j) is amended by striking “fiscal years 2004 through 2010, and for the portion of fiscal year 2011 ending before April 1, 2011,” and inserting “fiscal years 2010 through 2014,”. | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1) by striking “or” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking “delays.” and inserting “delays; or”; and | the bill names no machine-readable US Code section |
@@ -170,7 +172,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 47175 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 47141(f) is amended by striking “March 31, 2011” and inserting “September 30, 2014”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 445 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The analysis for chapter 445 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 445 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding paragraph (1) by striking “5 airports” and inserting “10 airports”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (C). | the bill names no machine-readable US Code section |
@@ -230,6 +232,10 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 44729(h) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 44711 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 106 (as amended by this Act) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 447 (as amended by this Act) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for such chapter (as amended by this Act) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 447 (as amended by this Act) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for such chapter (as amended by this Act) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (E) as subparagraph (F); | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subparagraph (D); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (D) the following: | the bill names no machine-readable US Code section |
@@ -260,8 +266,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
-| — | amend | Subchapter I of chapter 417 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The analysis for such subchapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter I of chapter 417 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for such subchapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Subtitle VII is amended by inserting after chapter 421 the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 46301 is amended in subsections (a)(1)(A) and (c)(1)(A) by inserting “chapter 423,” after “chapter 421,”. | the bill names no machine-readable US Code section |
 | — | insert | The analysis for subtitle VII is amended by inserting after the item relating to chapter 421 the following: | the bill names no machine-readable US Code section |
@@ -275,7 +281,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the first sentence by striking “prescribe regulations” and inserting “issue guidance”; and | the bill names no machine-readable US Code section |
 | — | replace | in the second sentence by striking “regulations” and inserting “guidance”. | the bill names no machine-readable US Code section |
 | — | insert | Section 47128(b)(4) is amended by inserting before the semicolon the following: “, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), State and local environmental policy acts, Executive orders, agency regu… | the bill names no machine-readable US Code section |
-| — | amend | Section 47128 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 47128 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 47171(a) is amended in the matter preceding paragraph (1) by striking “and aviation security projects” and inserting “aviation security projects, and NextGen environmental efficiency projects”. | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in the heading by striking “and aviation security projects” and inserting “projects, aviation security projects, and any NextGen environmental efficiency projects”; | the bill names no machine-readable US Code section |
@@ -285,14 +291,14 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 47171(d) is amended by striking “each airport capacity enhancement project at a congested airport” and inserting “a project described in subsection (b)(1)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 47171(h) is amended by striking “airport capacity enhancement projects at congested airports” and inserting “projects described in subsection (b)(1)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 47171(k) is amended by striking “an airport capacity enhancement project at a congested airport” and inserting “a project described in subsection (b)(1)”. | the bill names no machine-readable US Code section |
-| — | amend | Section 47171 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 47171 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 47173(a) is amended by striking “services of consultants in order to” and all that follows through the period at the end and inserting | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” after the semicolon in subparagraph (D); | the bill names no machine-readable US Code section |
 | — | replace | by striking “operations.” in subparagraph (E) and inserting “operations; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 47504 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 47504 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 47504 (as amended by this Act) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Subchapter II of chapter 475 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter II of chapter 475 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in the section heading by striking “for violating sections 47528–47530”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “47529, or 47530” and inserting “47529, 47530, or 47534”. | the bill names no machine-readable US Code section |
 | — | insert | Section 47532 is amended by inserting “or 47534” after “47528–47531”. | the bill names no machine-readable US Code section |
@@ -310,9 +316,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | The first sentence of section 44303(b) is amended by striking “ending on” and all that follows through “the Secretary may certify” and inserting “ending on December 31, 2013, the Secretary may certify”. | the bill names no machine-readable US Code section |
 | — | replace | The second sentence of section 44304 is amended by striking “the carrier” and inserting “any insurance carrier”. | the bill names no machine-readable US Code section |
 | — | replace | The second sentence of section 44308(c)(1) is amended by striking “agent” and inserting “agent, or a claims adjuster who is independent of the underwriting agent,”. | the bill names no machine-readable US Code section |
-| — | amend | Section 40119(b) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 40119(b) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 401 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The analysis for chapter 401 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 401 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a)(1)(A) by inserting “chapter 451,” before “section 47107(b)”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “or chapter 449” and inserting “chapter 449”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “44909)” the following: “, or chapter 451”; | the bill names no machine-readable US Code section |
@@ -324,7 +330,38 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after “44909)” the following: “, or chapter 451”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 445 (as amended by this Act) is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for chapter 445 (as amended by this Act) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a)(4) by inserting “(unless the volunteer was operating an aircraft in furtherance of the purpose of a volunteer pilot nonprofit organization that flies for public benefit and was properly licensed and insured for the oper… | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(i)” before the first sentence; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title I of the Railway Labor Act (45 U.S.C. 151 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title I of the Railway Labor Act (as amended by section 901 of this Act) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “space flight participant” each place it appears and inserting “space flight passenger”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “space flight participants” each place it appears and inserting “space flight passengers”. | the bill names no machine-readable US Code section |
+| — | replace | in the matter before paragraph (1) by striking “of this title” and inserting “of this title and, for each of fiscal years 2011 through 2014, under subsection (g)”; | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (K) by inserting “and” at the end; and | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (L) by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (13) by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (14) by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 48102 is amended by inserting after subsection (f) the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (6) by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (7) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (4) by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5)(C) by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3) through (6) as paragraphs (5) through (8); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (d) as subsection (e); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) by striking “establish a 4-year pilot” and inserting “maintain an”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Not later than 6 months after the expiration of the program under this subsection, ” and inserting “Not later than September 30, 2012,”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “program, including recommendations as to the need for establishing a permanent airport cooperative research program” and inserting “program”. | the bill names no machine-readable US Code section |
+| — | amend | Section 44513(f) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 44513 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “April 1, 2011” and inserting “October 1, 2014”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or the FAA Reauthorization and Reform Act of 2011” before the semicolon at the end of subparagraph (A). | the bill names no machine-readable US Code section |
+| — | replace | Paragraph (2) of section 9502(e) of such Code is amended by striking “April 1, 2011” and inserting “October 1, 2014”. | the bill names no machine-readable US Code section |
+| — | replace | Subparagraph (B) of section 4081(d)(2) of the Internal Revenue Code of 1986 is amended by striking “March 31, 2011” and inserting “September 30, 2014”. | the bill names no machine-readable US Code section |
+| — | replace | Clause (ii) of section 4261(j)(1)(A) of such Code is amended by striking “March 31, 2011” and inserting “September 30, 2014”. | the bill names no machine-readable US Code section |
+| — | replace | Clause (ii) of section 4271(d)(1)(A) of such Code is amended by striking “March 31, 2011” and inserting “September 30, 2014”. | the bill names no machine-readable US Code section |
+| — | replace | Section 50905(c)(3) of title 51, United States Code, is amended by striking “the date of enactment of the Commercial Space Launch Amendments Act of 2004” and inserting “the first licensed launch of a space flight participant”. | the bill names no machine-readable US Code section |

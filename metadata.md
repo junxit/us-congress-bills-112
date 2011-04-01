@@ -1,7 +1,7 @@
 ---
 measure: H.R. 658
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 658
@@ -49,6 +49,22 @@ FAA Modernization and Reform Act of 2012
 - House — Judiciary Committee
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (13)
+
+- 2011-03-31 — [House 112-1-207](votes/house-112-1-0207.md) — On Agreeing to the Amendment — **Agreed to** (251–168)
+- 2011-03-31 — [House 112-1-208](votes/house-112-1-0208.md) — On Agreeing to the Amendment — **Failed** (120–303)
+- 2011-03-31 — [House 112-1-209](votes/house-112-1-0209.md) — On Agreeing to the Amendment — **Failed** (161–263)
+- 2011-03-31 — [House 112-1-210](votes/house-112-1-0210.md) — On Agreeing to the Amendment — **Failed** (174–241)
+- 2011-03-31 — [House 112-1-211](votes/house-112-1-0211.md) — On Agreeing to the Amendment — **Failed** (187–235)
+- 2011-03-31 — [House 112-1-212](votes/house-112-1-0212.md) — On Agreeing to the Amendment — **Failed** (195–227)
+- 2011-04-01 — [House 112-1-214](votes/house-112-1-0214.md) — On Agreeing to the Amendment — **Failed** (207–215)
+- 2011-04-01 — [House 112-1-215](votes/house-112-1-0215.md) — On Agreeing to the Amendment — **Failed** (178–243)
+- 2011-04-01 — [House 112-1-216](votes/house-112-1-0216.md) — On Agreeing to the Amendment — **Failed** (183–238)
+- 2011-04-01 — [House 112-1-217](votes/house-112-1-0217.md) — On Agreeing to the Amendment — **Failed** (206–220)
+- 2011-04-01 — [House 112-1-218](votes/house-112-1-0218.md) — On Agreeing to the Amendment — **Agreed to** (215–209)
+- 2011-04-01 — [House 112-1-219](votes/house-112-1-0219.md) — On Motion to Recommit with Instructions — **Failed** (184–235)
+- 2011-04-01 — [House 112-1-220](votes/house-112-1-0220.md) — On Passage — **Passed** (223–196)
+
 ## Actions
 
 - 2011-02-11 — Introduced in House
@@ -67,3 +83,251 @@ FAA Modernization and Reform Act of 2012
 - 2011-03-23 — Committee on Science, Space, and Technology discharged.
 - 2011-03-23 — Committee on Science, Space, and Technology discharged.
 - 2011-03-23 — Placed on the Union Calendar, Calendar No. 19.
+- 2011-03-30 — Rules Committee Resolution H. Res. 189 Reported to House. Rule provides for consideration of H.R. 658 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. In lieu of the amendment in the nature of a substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill, it shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule an amendment in the nature of a substitute consisting of the text of the Rules Committee Print dated March 22, 2011.
+- 2011-03-31 — Amendment (A001) offered by Mr. Mica. (consideration: CR H2170-2176, H2194; text: CR H2170-2172)
+- 2011-03-31 — Amendment (A002) offered by Ms. Waters. (consideration: CR H2176; text: CR H2176)
+- 2011-03-31 — Amendment (A003) offered by Mr. Pierluisi. (consideration: CR H2176-2177; text: CR H2177)
+- 2011-03-31 — Amendment (A004) offered by Ms. Hirono. (consideration: CR H2177-2180; text: CR H2177)
+- 2011-03-31 — Amendment (A005) offered by Mr. Neugebauer. (consideration: CR H2180-2181; text: CR H2180)
+- 2011-03-31 — Amendment (A006) offered by Mr. LoBiondo. (consideration: CR H2181; text: CR H2181)
+- 2011-03-31 — Amendment (A007) offered by Mr. Garrett. (consideration: CR H2181-2183, H2194-2195; text: CR H2181-2182)
+- 2011-03-31 — Amendment (A008) offered by Mr. DeFazio. (consideration: CR H2183-2184, H2195-2196 ; text: CR H2183)
+- 2011-03-31 — Amendment (A009) offered by Ms. Hirono. (consideration: CR H2184-2185, H2196; text: CR H2184)
+- 2011-03-31 — Amendment (A010) offered by Ms. Jackson Lee (TX). (consideration: CR H2185-2187; text: CR H2185)
+- 2011-03-31 — Amendment (A011) offered by Mrs. Miller (MI). (consideration: CR H2187; text: CR H2187)
+- 2011-03-31 — Amendment (A012) offered by Mr. Woodall. (consideration: CR H2187-2188; text: CR H2187-2188)
+- 2011-03-31 — Amendment (A013) offered by Mr. Pierluisi. (consideration: CR H2188; text: CR H2188)
+- 2011-03-31 — Amendment (A014) offered by Mr. Schweikert. (consideration: CR H2188-2189; text: CR H2188-2189)
+- 2011-03-31 — Amendment (A015) offered by Ms. Richardson. (consideration: CR H2189-2190; text: CR H2189-2190)
+- 2011-03-31 — Amendment (A016) offered by Mr. Capuano. (consideration: CR H2190-2192, H2196-2197; text: CR H2191)
+- 2011-03-31 — Amendment (A017) offered by Mr. Gingrey (GA). (consideration: CR H2192-2194, H2197-2198; text: CR H2192)
+- 2011-03-31 — Amendment (A018) offered by Mr. Graves (MO). (consideration: CR H2198-2199; text: CR H2198)
+- 2011-03-31 — Amendment (A019) offered by Mr. Sessions. (consideration: CR H2199-2200; text: CR H2199)
+- 2011-03-31 — Amendment (A020) offered by Mr. LaTourette. (consideration: CR H2200-2203; text: CR H2200)
+- 2011-03-31 — Amendment (A021) offered by Mr. Graves (MO). (consideration: CR H2203-2204; text: CR H2203)
+- 2011-03-31 — Amendment (A022) offered by Mr. Waxman. (consideration: CR H2204; text: CR H2204)
+- 2011-03-31 — Amendment (A023) offered by Mr. Shuster. (consideration: CR H2204-2205; text: CR H2204)
+- 2011-03-31 — Amendment (A024) offered by Ms. Moore. (consideration: CR H2205-2206; text: CR H2205-2206)
+- 2011-03-31 — Amendment (A025) offered by Mr. Graves (MO). (consideration: CR H2206-2207; text: CR H2206)
+- 2011-03-31 — Amendment (A026) offered by Mr. Pearce. (consideration: CR H2207-2208; text: CR H2207)
+- 2011-03-31 — Amendment (A027) offered by Mr. Schiff. (consideration: CR H2208-2209; text: CR H2208)
+- 2011-03-31 — Amendment (A028) offered by Mr. Matheson. (consideration: CR H2209-2210; text: CR H2209)
+- 2011-03-31 — Amendment (A029) offered by Mr. Schiff. (consideration: CR H2210; text: CR H2210)
+- 2011-03-31 — Amendment (A030) offered by Ms. Moore. (consideration: CR H2210-2212; text: CR H2210-2211)
+- 2011-03-31 — Amendment agreed to Committee of the Whole
+- 2011-03-31 — Amendment agreed to Committee of the Whole
+- 2011-03-31 — Amendment agreed to Committee of the Whole
+- 2011-03-31 — Amendment agreed to Committee of the Whole
+- 2011-03-31 — Amendment agreed to Committee of the Whole
+- 2011-03-31 — Amendment agreed to Committee of the Whole
+- 2011-03-31 — Amendment agreed to Committee of the Whole
+- 2011-03-31 — Amendment agreed to Committee of the Whole
+- 2011-03-31 — Amendment agreed to Committee of the Whole
+- 2011-03-31 — Amendment agreed to Committee of the Whole
+- 2011-03-31 — Amendment agreed to Committee of the Whole
+- 2011-03-31 — Amendment agreed to Committee of the Whole
+- 2011-03-31 — Amendment agreed to Committee of the Whole
+- 2011-03-31 — Amendment failed in Committee of the Whole
+- 2011-03-31 — Amendment failed in Committee of the Whole
+- 2011-03-31 — Amendment failed in Committee of the Whole
+- 2011-03-31 — Amendment failed in Committee of the Whole
+- 2011-03-31 — Amendment failed in Committee of the Whole
+- 2011-03-31 — Amendment failed in Committee of the Whole
+- 2011-03-31 — By unanimous consent, the Graves (MO) amendment was withdrawn. (consideration: CR H2199)
+- 2011-03-31 — By unanimous consent, the Jackson Lee (TX) amendment was withdrawn. (consideration: CR H2187)
+- 2011-03-31 — By unanimous consent, the Moore amendment was withdrawn. (consideration: CR H2212)
+- 2011-03-31 — By unanimous consent, the Pierluisi amendment was withdrawn. (consideration: CR H2188)
+- 2011-03-31 — By unanimous consent, the Schweikert amendment was withdrawn. (consideration: CR H2189)
+- 2011-03-31 — By unanimous consent, the Waters amendment was withdrawn. (consideration: CR H2176)
+- 2011-03-31 — Committee of the Whole House on the state of the Union rises leaving H.R. 658 as unfinished business.
+- 2011-03-31 — Committee of the Whole House on the state of the Union rises leaving H.R. 658 as unfinished business.
+- 2011-03-31 — Considered as unfinished business. (consideration: CR H2198-2212)
+- 2011-03-31 — Considered under the provisions of rule H. Res. 189. (consideration: CR H2130-2198, H2198-2212; text of amendment in the nature of a substitute: CR H2141-2170)
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H. Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Graves (MO) amendment no. 26.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H. Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Matheson amendment no. 30.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H. Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Moore (WI) amendment no. 25.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H. Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Moore (WI) amendment no. 32.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H. Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment no. 27.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H. Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Schiff amendment no. 29.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H. Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Schiff amendment no. 31.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Capuano amendment no. 17.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the DeFazio amendment.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Garrett (NJ) amendment.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Gingrey amendment no. 18.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Graves (MO) amendment no. 19.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Graves (MO) amendment no. 22.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Hirono amendment no.10.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Hirono amendment.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the LaTourette amendment no. 21.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the LoBiondo amendment.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Mica amendment.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Miller (MI) amendment.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Neugebauer amendment.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Pierluisi amendment no. 14.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Pierluisi amendment.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Richardson amendment no. 16.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Schweikert amendment no. 15.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Sessions amendment no. 20.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Shuster amendment no. 24.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Waters amendment.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Waxman amendment no. 23.
+- 2011-03-31 — DEBATE - Pursuant to the provisions of H.Res. 189, the Committee of the Whole proceeded with 10 minutes of debate on the Woodall amendment.
+- 2011-03-31 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 658.
+- 2011-03-31 — House amendment agreed to: On agreeing to the Graves (MO) amendment Agreed to by voice vote.
+- 2011-03-31 — House amendment agreed to: On agreeing to the Graves (MO) amendment Agreed to by voice vote.
+- 2011-03-31 — House amendment agreed to: On agreeing to the Hirono amendment (A004) Agreed to by voice vote.
+- 2011-03-31 — House amendment agreed to: On agreeing to the LoBiondo amendment (A006) Agreed to by voice vote.
+- 2011-03-31 — House amendment agreed to: On agreeing to the Matheson amendment Agreed to by voice vote.
+- 2011-03-31 — House amendment agreed to: On agreeing to the Mica amendment (A001) Agreed to by recorded vote: 251 - 168 (Roll no. 207).
+- 2011-03-31 — House amendment agreed to: On agreeing to the Miller (MI) amendment (A011) Agreed to by voice vote.
+- 2011-03-31 — House amendment agreed to: On agreeing to the Moore amendment (A024) Agreed to by voice vote.
+- 2011-03-31 — House amendment agreed to: On agreeing to the Neugebauer amendment (A005) Agreed to by voice vote.
+- 2011-03-31 — House amendment agreed to: On agreeing to the Pierluisi amendment (A003) Agreed to by voice vote.
+- 2011-03-31 — House amendment agreed to: On agreeing to the Schiff amendment (A029) Agreed to by voice vote.
+- 2011-03-31 — House amendment agreed to: On agreeing to the Waxman amendment (A022) Agreed to by voice vote.
+- 2011-03-31 — House amendment agreed to: On agreeing to the Woodall amendment (A012) Agreed to by voice vote.
+- 2011-03-31 — House amendment not agreed to: On agreeing to the Capuano amendment (A016) Failed by recorded vote: 187 - 235 (Roll no. 211).
+- 2011-03-31 — House amendment not agreed to: On agreeing to the DeFazio amendment (A008) Failed by recorded vote: 161 - 263 (Roll no. 209).
+- 2011-03-31 — House amendment not agreed to: On agreeing to the Garrett amendment (A007) Failed by recorded vote: 120 - 303 (Roll no. 208).
+- 2011-03-31 — House amendment not agreed to: On agreeing to the Gingrey (GA) amendment (A017) Failed by recorded vote: 195 - 227 (Roll no. 212).
+- 2011-03-31 — House amendment not agreed to: On agreeing to the Hirono amendment (A009) Failed by recorded vote: 174 - 241 (Roll no. 210).
+- 2011-03-31 — House amendment not agreed to: On agreeing to the Richardson amendment (A015) Failed by voice vote.
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered
+- 2011-03-31 — House amendment offered/reported by: Amendment (A001) offered by Mr. Mica.(consideration: CR H2170-2176, H2194; text: CR H2170-2172)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A002) offered by Ms. Waters.(consideration: CR H2176; text: CR H2176)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A003) offered by Mr. Pierluisi.(consideration: CR H2176-2177; text: CR H2177)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A004) offered by Ms. Hirono.(consideration: CR H2177-2180; text: CR H2177)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A005) offered by Mr. Neugebauer.(consideration: CR H2180-2181; text: CR H2180)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A006) offered by Mr. LoBiondo.(consideration: CR H2181; text: CR H2181)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A007) offered by Mr. Garrett.(consideration: CR H2181-2183, H2194-2195; text: CR H2181-2182)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A008) offered by Mr. DeFazio.(consideration: CR H2183-2184, H2195-2196 ; text: CR H2183)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A009) offered by Ms. Hirono.(consideration: CR H2184-2185, H2196; text: CR H2184)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A010) offered by Ms. Jackson Lee (TX).(consideration: CR H2185-2187; text: CR H2185)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A011) offered by Mrs. Miller (MI).(consideration: CR H2187; text: CR H2187)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A012) offered by Mr. Woodall.(consideration: CR H2187-2188; text: CR H2187-2188)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A013) offered by Mr. Pierluisi.(consideration: CR H2188; text: CR H2188)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A014) offered by Mr. Schweikert.(consideration: CR H2188-2189; text: CR H2188-2189)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A015) offered by Ms. Richardson.(consideration: CR H2189-2190; text: CR H2189-2190)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A016) offered by Mr. Capuano.(consideration: CR H2190-2192, H2196-2197; text: CR H2191)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A017) offered by Mr. Gingrey (GA).(consideration: CR H2192-2194, H2197-2198; text: CR H2192)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A018) offered by Mr. Graves (MO).(consideration: CR H2198-2199; text: CR H2198)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A019) offered by Mr. Sessions.(consideration: CR H2199-2200; text: CR H2199)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A020) offered by Mr. LaTourette.(consideration: CR H2200-2203; text: CR H2200)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A021) offered by Mr. Graves (MO).(consideration: CR H2203-2204; text: CR H2203)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A022) offered by Mr. Waxman.(consideration: CR H2204; text: CR H2204)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A023) offered by Mr. Shuster.(consideration: CR H2204-2205; text: CR H2204)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A024) offered by Ms. Moore.(consideration: CR H2205-2206; text: CR H2205-2206)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A025) offered by Mr. Graves (MO).(consideration: CR H2206-2207; text: CR H2206)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A026) offered by Mr. Pearce.(consideration: CR H2207-2208; text: CR H2207)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A027) offered by Mr. Schiff.(consideration: CR H2208-2209; text: CR H2208)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A028) offered by Mr. Matheson.(consideration: CR H2209-2210; text: CR H2209)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A029) offered by Mr. Schiff.(consideration: CR H2210; text: CR H2210)
+- 2011-03-31 — House amendment offered/reported by: Amendment (A030) offered by Ms. Moore.(consideration: CR H2210-2212; text: CR H2210-2211)
+- 2011-03-31 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 189 and Rule XVIII.
+- 2011-03-31 — Mr. Mica moved that the Committee rise.
+- 2011-03-31 — Mr. Woodall moved that the Committee now rise.
+- 2011-03-31 — On agreeing to the Capuano amendment (A016) Failed by recorded vote: 187 - 235 (Roll no. 211).
+- 2011-03-31 — On agreeing to the DeFazio amendment (A008) Failed by recorded vote: 161 - 263 (Roll no. 209).
+- 2011-03-31 — On agreeing to the Garrett amendment (A007) Failed by recorded vote: 120 - 303 (Roll no. 208).
+- 2011-03-31 — On agreeing to the Gingrey (GA) amendment (A017) Failed by recorded vote: 195 - 227 (Roll no. 212).
+- 2011-03-31 — On agreeing to the Graves (MO) amendment Agreed to by voice vote.
+- 2011-03-31 — On agreeing to the Graves (MO) amendment Agreed to by voice vote.
+- 2011-03-31 — On agreeing to the Hirono amendment (A004) Agreed to by voice vote.
+- 2011-03-31 — On agreeing to the Hirono amendment (A009) Failed by recorded vote: 174 - 241 (Roll no. 210).
+- 2011-03-31 — On agreeing to the LoBiondo amendment (A006) Agreed to by voice vote.
+- 2011-03-31 — On agreeing to the Matheson amendment Agreed to by voice vote.
+- 2011-03-31 — On agreeing to the Mica amendment (A001) Agreed to by recorded vote: 251 - 168 (Roll no. 207).
+- 2011-03-31 — On agreeing to the Miller (MI) amendment (A011) Agreed to by voice vote.
+- 2011-03-31 — On agreeing to the Moore amendment (A024) Agreed to by voice vote.
+- 2011-03-31 — On agreeing to the Neugebauer amendment (A005) Agreed to by voice vote.
+- 2011-03-31 — On agreeing to the Pierluisi amendment (A003) Agreed to by voice vote.
+- 2011-03-31 — On agreeing to the Richardson amendment (A015) Failed by voice vote.
+- 2011-03-31 — On agreeing to the Schiff amendment (A029) Agreed to by voice vote.
+- 2011-03-31 — On agreeing to the Waxman amendment (A022) Agreed to by voice vote.
+- 2011-03-31 — On agreeing to the Woodall amendment (A012) Agreed to by voice vote.
+- 2011-03-31 — On motion that the Committee now rise Agreed to by voice vote.
+- 2011-03-31 — On motion that the Committee rise Agreed to by voice vote.
+- 2011-03-31 — POSTPONED POSTPONED - At the conclusion of debate on the Sessions amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Sessions demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-03-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Capuano amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Capuano demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-03-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeFazio amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. DeFazio demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-03-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garrett (NJ) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Garrett (NJ) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-03-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gingrey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Costello demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-03-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hirono amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Hirono demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-03-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on the LaTorette amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Mica demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-03-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mica amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rahall demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-03-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pearce amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rahall demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-03-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schiff amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Schiff demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-03-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Shuster amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rahall demanded a recorded vote and the Chair postponed further proceedings on the question of the adoption of the amendment until a time to be announced.
+- 2011-03-31 — Roll call votes on amendments in House
+- 2011-03-31 — Roll call votes on amendments in House
+- 2011-03-31 — Roll call votes on amendments in House
+- 2011-03-31 — Roll call votes on amendments in House
+- 2011-03-31 — Roll call votes on amendments in House
+- 2011-03-31 — Roll call votes on amendments in House
+- 2011-03-31 — Rule H. Res. 189 passed House.
+- 2011-03-31 — Rule provides for consideration of H.R. 658 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. In lieu of the amendment in the nature of a substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill, it shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule an amendment in the nature of a substitute consisting of the text of the Rules Committee Print dated March 22, 2011.
+- 2011-03-31 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-03-31 — The Speaker designated the Honorable Jo Ann Emerson to act as Chairwoman of the Committee.
+- 2011-03-31 — UNFINIHSED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-04-01 — Amendment agreed to Committee of the Whole
+- 2011-04-01 — Amendment failed in Committee of the Whole
+- 2011-04-01 — Amendment failed in Committee of the Whole
+- 2011-04-01 — Amendment failed in Committee of the Whole
+- 2011-04-01 — Amendment failed in Committee of the Whole
+- 2011-04-01 — Considered as unfinished business. (consideration: CR H2232-2237)
+- 2011-04-01 — DEBATE - The House proceeded with 10 minutes of debate on the Loretta Sanchez motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment adding Title XIII- Security of Highest-Risk Airline Passenger Flights. A point of order was reserved, but was subsequently removed.
+- 2011-04-01 — House amendment agreed to: On agreeing to the Shuster amendment (A023) Agreed to by recorded vote: 215 - 209 (Roll no. 218).(consideration: CR H2234-2235)
+- 2011-04-01 — House amendment not agreed to: On agreeing to the LaTourette amendment (A020) Failed by recorded vote: 206 - 220 (Roll no. 217).(consideration: CR H2234)
+- 2011-04-01 — House amendment not agreed to: On agreeing to the Pearce amendment (A026) Failed by recorded vote: 207 - 215 (Roll no. 214).(consideration: CR H2232)
+- 2011-04-01 — House amendment not agreed to: On agreeing to the Schiff amendment (A027) Failed by recorded vote: 178 - 243 (Roll no. 215).(consideration: CR H2233)
+- 2011-04-01 — House amendment not agreed to: On agreeing to the Sessions amendment (A019) Failed by recorded vote: 183 - 238 (Roll no. 216).(consideration: CR H2233-2234)
+- 2011-04-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-04-01 — Ms. Sanchez, Loretta moved to recommit with instructions to Transportation. (consideration: CR H2235-2237; text: CR H2235)
+- 2011-04-01 — On agreeing to the LaTourette amendment (A020) Failed by recorded vote: 206 - 220 (Roll no. 217). (consideration: CR H2234)
+- 2011-04-01 — On agreeing to the Pearce amendment (A026) Failed by recorded vote: 207 - 215 (Roll no. 214). (consideration: CR H2232)
+- 2011-04-01 — On agreeing to the Schiff amendment (A027) Failed by recorded vote: 178 - 243 (Roll no. 215). (consideration: CR H2233)
+- 2011-04-01 — On agreeing to the Sessions amendment (A019) Failed by recorded vote: 183 - 238 (Roll no. 216). (consideration: CR H2233-2234)
+- 2011-04-01 — On agreeing to the Shuster amendment (A023) Agreed to by recorded vote: 215 - 209 (Roll no. 218). (consideration: CR H2234-2235)
+- 2011-04-01 — On motion to recommit with instructions Failed by the Yeas and Nays: 184 - 235 (Roll no. 219).
+- 2011-04-01 — On passage Passed by recorded vote: 223 - 196 (Roll no. 220).
+- 2011-04-01 — Passed/agreed to in House: On passage Passed by recorded vote: 223 - 196 (Roll no. 220).
+- 2011-04-01 — Roll call votes on amendments in House
+- 2011-04-01 — Roll call votes on amendments in House
+- 2011-04-01 — Roll call votes on amendments in House
+- 2011-04-01 — Roll call votes on amendments in House
+- 2011-04-01 — Roll call votes on amendments in House
+- 2011-04-01 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2011-04-01 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-04-01 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 658.
+- 2011-04-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2236)
+- 2011-04-01 — The previous question was ordered pursuant to the rule. (consideration: CR H2235)
