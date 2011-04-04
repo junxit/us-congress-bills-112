@@ -1,7 +1,7 @@
 ---
 measure: H.R. 471
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 471
@@ -112,3 +112,5 @@ Scholarships for Opportunity and Results Act
 - 2011-03-30 — Rule H. Res. 186 passed House.
 - 2011-03-30 — Rule provides for consideration of H.R. 471 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. The amendment recommended by the Committee on Oversight and Government Reform now printed in the bill shall be considered as adopted. All points of order against consideration of the bill are waived.
 - 2011-03-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2081)
+- 2011-03-31 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-04-04 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 24.
