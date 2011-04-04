@@ -1,7 +1,7 @@
 ---
 measure: H.R. 658
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 658
@@ -43,13 +43,14 @@ FAA Modernization and Reform Act of 2012
 - Rep. Rokita, Todd [R-IN-4] (R000592)
 - Rep. Guinta, Frank C. [R-NH-1] (G000570)
 
-## Committees (3)
+## Committees (4)
 
 - House — Transportation and Infrastructure Committee
 - House — Judiciary Committee
 - House — Science, Space, and Technology Committee
+- House — Homeland Security Committee
 
-## Recorded votes (13)
+## Recorded votes (15)
 
 - 2011-03-31 — [House 112-1-207](votes/house-112-1-0207.md) — On Agreeing to the Amendment — **Agreed to** (251–168)
 - 2011-03-31 — [House 112-1-208](votes/house-112-1-0208.md) — On Agreeing to the Amendment — **Failed** (120–303)
@@ -64,6 +65,8 @@ FAA Modernization and Reform Act of 2012
 - 2011-04-01 — [House 112-1-218](votes/house-112-1-0218.md) — On Agreeing to the Amendment — **Agreed to** (215–209)
 - 2011-04-01 — [House 112-1-219](votes/house-112-1-0219.md) — On Motion to Recommit with Instructions — **Failed** (184–235)
 - 2011-04-01 — [House 112-1-220](votes/house-112-1-0220.md) — On Passage — **Passed** (223–196)
+- 2012-02-03 — [House 112-2-33](votes/house-112-2-0033.md) — On Agreeing to the Conference Report — **Passed** (248–169)
+- 2012-02-06 — [Senate 112-2-15](votes/senate-112-2-0015.md) — On the Conference Report — **Conference Report Agreed to** (75–20)
 
 ## Actions
 
@@ -332,3 +335,47 @@ FAA Modernization and Reform Act of 2012
 - 2011-04-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2236)
 - 2011-04-01 — The previous question was ordered pursuant to the rule. (consideration: CR H2235)
 - 2011-04-04 — Received in the Senate.
+- 2011-04-07 — Measure laid before Senate by unanimous consent. (consideration: CR S2285)
+- 2011-04-07 — Passed Senate with an amendment by Unanimous Consent.
+- 2011-04-07 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2011-04-07 — See also S. 223.
+- 2011-04-07 — Senate insists on its amendment, asks for a conference, appoints conferees Rockefeller; Boxer; Nelson FL; Cantwell; Hutchison; Ensign; DeMint. (consideration: CR S2285)
+- 2011-04-07 — Senate requests a conference. Appoints conferees. Baucus; Hatch. from the Committee on Finance.
+- 2011-04-07 — Senate struck all after the Enacting Clause and substituted the language of S. 223 amended, pursuant to the order of 2/17/2011.
+- 2011-04-08 — Message on Senate action sent to the House.
+- 2011-05-03 — Senator(s) Ensign removed as conferee(s).
+- 2011-05-05 — Senate appointed conferee(s) Isakson.
+- 2011-05-09 — Message on Senate action sent to the House.
+- 2012-01-31 — Conference committee actions: Conference held.
+- 2012-01-31 — Conference held.
+- 2012-01-31 — Mr. Cravaack asked unanimous consent that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H192)
+- 2012-01-31 — On motion that the House disagree to the Senate amendment, and agree to a conference. Agreed to without objection. (consideration: CR H192)
+- 2012-01-31 — The Speaker appointed conferees - from the Committee on Science, Space, and Technology for consideration of secs. 102, 105, 201, 202, 204, 208, 209, 212, 220, 321, 324, 326, 812, title X and title XIII of the House bill and secs. 102, 103, 106, 216, 301, 302, 309, 320, 327, title VI, and sec. 732 of the Senate amendment, and modifications committed to conference: Hall, Palazzo, and Johnson, E. B. (consideration: CR H192)
+- 2012-01-31 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of the House bill and the Senate amendment, and modifications committed to conference: Mica, Petri, Duncan (TN), Graves (MO), Shuster, Schmidt, Cravaack, Rahall, DeFazio, Costello, Boswell, and Carnahan. (consideration: CR H192)
+- 2012-01-31 — The Speaker appointed conferees - from the Committee on Ways and Means for consideration of title XI of the House bill and titles VIII and XI of the Senate amendment, and modifications committed to conference: Camp, Tiberi, and Levin. (consideration: CR H192)
+- 2012-02-01 — Conferees agreed to file conference report.
+- 2012-02-01 — Conference committee actions: Conferees agreed to file conference report.
+- 2012-02-01 — Conference report H. Rept. 112-381 filed. (text of conference report: CR H230-304)
+- 2012-02-01 — Conference report filed: Conference report H. Rept. 112-381 filed.(text of conference report: CR H230-304)
+- 2012-02-01 — Rules Committee Resolution H. Res. 533 Reported to House. Rule provides for consideration of the conference report to H.R. 658. The resolution waives all points of order against the conference report and against its consideration. The conference report shall be considered as read and shall be debatable for not to exceed one hour.
+- 2012-02-03 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 248 - 169 (Roll no. 33).
+- 2012-02-03 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 658.
+- 2012-02-03 — Motions to reconsider laid on the table Agreed to without objection.
+- 2012-02-03 — Mr. Mica brought up conference report H. Rept. 112-381 for consideration under the provisions of H. Res. 533. (consideration: CR H447-456)
+- 2012-02-03 — On agreeing to the conference report Agreed to by the Yeas and Nays: 248 - 169 (Roll no. 33).
+- 2012-02-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the conference report to H.R. 658, the Chair put the question on agreeing to the conference report and by voice vote, announced that the ayes had prevailed. Mr. Petri demanded the yeas and nays and the Chair postponed further proceedings on the question of agreeing to the conference report until later in the legislative day.
+- 2012-02-03 — Rule H. Res. 533 passed House.
+- 2012-02-03 — The House proceeded to consider the conference report H.Rept. 112-381 as unfinished business. (consideration: CR H459)
+- 2012-02-03 — The previous question was ordered pursuant to the rule. (consideration: CR H456)
+- 2012-02-06 — Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.
+- 2012-02-06 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 75 - 20. Record Vote Number: 15.(consideration: CR S343-344)
+- 2012-02-06 — Conference report considered in Senate. (consideration: CR S333-344)
+- 2012-02-06 — Having achieved 60 votes in the affirmative, the conference report was agreed to.
+- 2012-02-06 — Message on Senate action sent to the House.
+- 2012-02-06 — Senate agreed to conference report by Yea-Nay Vote. 75 - 20. Record Vote Number: 15. (consideration: CR S343-344)
+- 2012-02-08 — Presented to President.
+- 2012-02-08 — Presented to President.
+- 2012-02-14 — Became Public Law No: 112-95.
+- 2012-02-14 — Became Public Law No: 112-95.
+- 2012-02-14 — Signed by President.
+- 2012-02-14 — Signed by President.
