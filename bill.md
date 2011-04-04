@@ -15,12 +15,11 @@ This Act may be cited as the “Food Safety Accountability Act of 2011”.
 
 ## § 2. Criminal penalties
 
-- **(a)** *In general* Chapter 47 of title 18, United States Code, is amended by adding at the end the following:
-  > ## § 1041. Misbranded and adulterated food
-  >
-  > - **(a)** *Definition* In this section, the term food has the meaning given that term in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321).
-  > - **(b)** *Offense* Any person who violates subsection (a), (b), (c), or (k) of section 301 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331) with respect to any food—
-  >   - **(1)** knowingly and intentionally to defraud or mislead; and
-  >   - **(2)** with conscious or reckless disregard of a risk of death or serious bodily injury,
+Section 303(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 333(a)) is amended—
 
-- **(b)** *Technical and conforming amendment* The table of sections for chapter 47 of title 18, United States Code, is amended by adding at the end the following:
+- **(1)** in paragraph (1), by striking “Any” and inserting “Except as provided in paragraph (2) or (3), any”;
+- **(2)** in paragraph (2), by striking “Notwithstanding the provisions of paragraph (1) of this section, if” and inserting “If”; and
+- **(3)** by adding at the end the following:
+  > - **(3)** Any person who violates subsection (a), (b), (c), or (k) of section 301 with respect to any food—
+  >   - **(A)** knowingly and intentionally to defraud or mislead; and
+  >   - **(B)** with conscious or reckless disregard of a risk of death or serious bodily injury,

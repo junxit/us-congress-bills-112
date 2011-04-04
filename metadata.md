@@ -1,7 +1,7 @@
 ---
 measure: S. 216
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 216
