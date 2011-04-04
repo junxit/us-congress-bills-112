@@ -1,7 +1,7 @@
 ---
 measure: H.R. 872
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 3(f) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a(f)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `7 U.S.C. § 136a` | add-at-end | Section 3(f) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a(f)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1342` | add-at-end | Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

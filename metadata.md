@@ -1,7 +1,7 @@
 ---
 measure: H.R. 872
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 872
@@ -156,10 +156,11 @@ Reducing Regulatory Burdens Act of 2011
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (1)
 
@@ -190,3 +191,4 @@ Reducing Regulatory Burdens Act of 2011
 - 2011-03-31 — Motion to reconsider laid on the table Agreed to without objection.
 - 2011-03-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 292 - 130 (Roll no. 206). (text: CR 3/30/2011 H2083)
 - 2011-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 292 - 130 (Roll no. 206).(text: CR 3/30/2011 H2083)
+- 2011-04-04 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
