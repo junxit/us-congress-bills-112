@@ -1,7 +1,7 @@
 ---
 measure: H.R. 970
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 970
@@ -29,3 +29,8 @@ Federal Aviation Research and Development Reauthorization Act of 2011
 - 2011-03-09 — Introduced in House
 - 2011-03-09 — Introduced in House
 - 2011-03-09 — Referred to the House Committee on Science, Space, and Technology.
+- 2011-03-17 — Committee Consideration and Mark-up Session Held.
+- 2011-03-17 — Ordered to be Reported (Amended) by the Yeas and Nays: 17 - 13.
+- 2011-04-04 — Placed on the Union Calendar, Calendar No. 26.
+- 2011-04-04 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 112-52.
+- 2011-04-04 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 112-52.

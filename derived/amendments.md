@@ -1,7 +1,7 @@
 ---
 measure: H.R. 970
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -34,16 +34,16 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the matter before paragraph (1) by striking “of this title” and inserting “of this title and, for each of fiscal years 2011 through 2014, under subsection (g)”; | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (K) by inserting “and” at the end; and | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (L) by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (12)(L) by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (13) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (14) by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 48102 is amended by inserting after subsection (f) the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (6) by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (7) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (4) by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5)(C) by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (3) through (6) as paragraphs (5) through (8); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (d) as subsection (e); and | the bill names no machine-readable US Code section |
