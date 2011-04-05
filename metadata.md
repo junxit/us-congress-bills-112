@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1246
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1246
@@ -16,9 +16,10 @@ To reduce the amounts otherwise authorized to be appropriated to the Department 
 
 - Rep. West, Allen B. [R-FL-22] (W000807)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (1)
 
@@ -37,3 +38,4 @@ To reduce the amounts otherwise authorized to be appropriated to the Department 
 - 2011-04-04 — Mr. West moved to suspend the rules and pass the bill.
 - 2011-04-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 225). (text: CR H2273)
 - 2011-04-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 225).(text: CR H2273)
+- 2011-04-05 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
