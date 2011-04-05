@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 129
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 129
@@ -32,3 +32,7 @@ A resolution honoring the 29 coal miners who perished in the explosion at the Up
 
 - 2011-04-04 — Introduced in Senate
 - 2011-04-04 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2092)
+- 2011-04-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S2142-2143)
+- 2011-04-05 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2142-2143)
+- 2011-04-05 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S2142-2143)
+- 2011-04-05 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S2142-2143)
