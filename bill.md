@@ -1,0 +1,34 @@
+---
+legis-num: H.R. 1402
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1402
+
+> To authorize the Architect of the Capitol to establish battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the House of Representatives at no net cost to the Federal Government.
+
+## § 1. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the House of Representatives at no net cost to the Federal Government
+
+- **(a)** *Definition* In this Act, the term covered employee means—
+  - **(1)** an employee whose pay is disbursed by the Chief Administrative Officer of the House of Representatives; or
+  - **(2)** any other individual who is authorized to park in any parking area under the jurisdiction of the House of Representatives on Capitol Grounds.
+- **(b)** *Authority*
+  - **(1)** *In general* Subject to paragraph (3), funds appropriated to the Architect of the Capitol under the heading “Capitol Power Plant” under the heading “Architect of the Capitol” in any fiscal year are available to construct, operate, and maintain on a reimbursable basis battery recharging stations in parking areas under the jurisdiction of the House of Representatives on Capitol Grounds for use by privately owned vehicles used by Members of the House of Representatives (including the Delegates or Resident Commissioner to the Congress) or covered employees.
+  - **(2)** *Vendors authorized* In carrying out paragraph (1), the Architect of the Capitol may use 1 or more vendors on a commission basis.
+  - **(3)** *Approval of construction* The Architect of the Capitol may construct or direct the construction of battery recharging stations described under paragraph (1) after—
+    - **(A)** submission of written notice detailing the numbers and locations of the battery recharging stations to the Committee on House Administration of the House of Representatives; and
+    - **(B)** approval by that Committee.
+- **(c)** *Fees and charges*
+  - **(1)** *In general* Subject to paragraph (2), the Architect of the Capitol shall charge fees or charges for electricity provided to Members and covered employees sufficient to cover the costs to the Architect of the Capitol to carry out this section, including costs to any vendors or other costs associated with maintaining the battery recharging stations.
+  - **(2)** *Approval of fees or charges* The Architect of the Capitol may establish and adjust fees or charges under paragraph (1) after—
+    - **(A)** submission of written notice detailing the amount of the fee or charge to be established or adjusted to the Committee on House Administration of the House of Representatives; and
+    - **(B)** approval by that Committee.
+- **(d)** *Deposit and availability of fees, charges, and commissions* Any fees, charges, or commissions collected by the Architect of the Capitol under this section shall be—
+  - **(1)** deposited in the Treasury to the credit of the appropriations account described under subsection (b); and
+  - **(2)** available for obligation without further appropriation during—
+    - **(A)** the fiscal year collected; and
+    - **(B)** the fiscal year following the fiscal year collected.
+- **(e)** *Annual reports* Not later than 30 days after the end of each fiscal year, the Architect of the Capitol shall submit a report on the financial administration and cost recovery of activities under this section with respect to that fiscal year to the Committee on House Administration of the House of Representatives.
+- **(f)** *Effective date* This Act shall apply with respect to fiscal year 2011 and each fiscal year thereafter.
