@@ -25,12 +25,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 2. Disallowance of refundable credit for coverage under qualified health plan which provides coverage for abortion
 
 - **(a)** *In general* Subparagraph (A) of section 36B(c)(3) of the Internal Revenue Code of 1986 is amended by inserting before the period at the end the following: “or any health plan that includes coverage for abortions (other than any abortion or treatment described in section 213(g)(2))”.
-- **(b)** *Option To purchase or offer separate coverage or plan* Paragraph (3) of section 36B(c) of such Code is amended by adding at the end the following new subparagraphs:
+- **(b)** *Option to purchase or offer separate coverage or plan* Paragraph (3) of section 36B(c) of such Code is amended by adding at the end the following new subparagraph:
   > - **(C)** *Separate abortion coverage or plan allowed*
   >   - **(i)** *Option to purchase separate coverage or plan* Nothing in subparagraph (A) shall be construed as prohibiting any individual from purchasing separate coverage for abortions described in such subparagraph, or a health plan that includes such abortions, so long as no credit is allowed under this section with respect to the premiums for such coverage or plan.
   >   - **(ii)** *Option to offer coverage or plan* Nothing in subparagraph (A) shall restrict any non-Federal health insurance issuer offering a health plan from offering separate coverage for abortions described in such subparagraph, or a plan that includes such abortions, so long as premiums for such separate coverage or plan are not paid for with any amount attributable to the credit allowed under this section (or the amount of any advance payment of the credit under section 1412 of the Patient Protection and Affordable Care Act).
 
-- **(c)** *Effective date* The amendment made by this section shall apply to taxable years ending after December 31, 2011.
+- **(c)** *Effective date* The amendment made by this section shall apply to taxable years ending after December 31, 2013.
 
 ## § 3. Disallowance of small employer health insurance expense credit for plan which includes coverage for abortion
 

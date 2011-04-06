@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1232
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,9 +33,9 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Section 213 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Subparagraph (A) of section 36B(c)(3) of the Internal Revenue Code of 1986 is amended by inserting before the period at the end the following: “or any health plan that includes coverage for abortions (other than any abortion or treatment… | the bill names no machine-readable US Code section |
-| — | add-at-end | Paragraph (3) of section 36B(c) of such Code is amended by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | Paragraph (3) of section 36B(c) of such Code is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Any term” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 125 of the Internal Revenue Code of 1986 is amended by redesignating subsections (k) and (l) as subsections (l) and (m), respectively, and by inserting after subsection (j) the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Paragraph (1) of section 220(f) of such Code is amended by inserting before the period at the end the following: “, except that any such amount used to pay for an abortion (other than any abortion or treatment described in section 213(g)… | the bill names no machine-readable US Code section |
 | — | insert | Paragraph (1) of section 223(f) of such Code is amended by inserting before the period at the end the following: “, except that any such amount used to pay for an abortion (other than any abortion or treatment described in section 213(g)… | the bill names no machine-readable US Code section |
