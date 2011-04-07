@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1363
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1363
