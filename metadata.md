@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3
@@ -16,7 +16,7 @@ No Taxpayer Funding for Abortion Act
 
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Cosponsors (161)
+## Cosponsors (227)
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 - Rep. Akin, W. Todd [R-MO-2] (A000358)
@@ -179,6 +179,72 @@ No Taxpayer Funding for Abortion Act
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Amash, Justin [R-MI-3] (A000367)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Gosar, Paul A. [R-AZ-1] (G000565)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Mack, Connie [R-FL-14] (M001155)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Rivera, David [R-FL-25] (R000590)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Ross, Dennis A. [R-FL-12] (R000593)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. Campbell, John [R-CA-48] (C001064)
+- Rep. Denham, Jeff [R-CA-19] (D000612)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Latham, Tom [R-IA-4] (L000111)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Quayle, Benjamin [R-AZ-3] (Q000024)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Schweikert, David [R-AZ-5] (S001183)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Southerland, Steve II [R-FL-2] (S001186)
+- Rep. Stearns, Cliff [R-FL-6] (S000822)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Walsh, Joe [R-IL-8] (W000811)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Young, Todd [R-IN-9] (Y000064)
+- Rep. Berg, Rick [R-ND-At Large] (B001272)
+- Rep. Griffin, Tim [R-AR-2] (G000567)
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Nunes, Devin [R-CA-21] (N000181)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Labrador, Raul R. [R-ID-1] (L000573)
+- Rep. West, Allen B. [R-FL-22] (W000807)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Yoder, Kevin [R-KS-3] (Y000063)
+- Rep. Adams, Sandy [R-FL-24] (A000366)
+- Rep. Bilbray, Brian P. [R-CA-50] (B000461)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Heck, Joseph J. [R-NV-3] (H001055)
+- Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
+- Rep. Mica, John L. [R-FL-7] (M000689)
+- Rep. Reed, Tom [R-NY-29] (R000585)
+- Rep. Rooney, Thomas J. [R-FL-16] (R000583)
+- Rep. Rehberg, Denny [R-MT-At Large] (R000571)
+- Rep. Guinta, Frank C. [R-NH-1] (G000570)
+- Rep. Lewis, Jerry [R-CA-41] (L000274)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Nugent, Richard B. [R-FL-5] (N000185)
+- Rep. Graves, Tom [R-GA-9] (G000560)
 
 ## Committees (3)
 
@@ -193,3 +259,19 @@ No Taxpayer Funding for Abortion Act
 - 2011-01-20 — Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-01-20 — Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-01-20 — Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-02-01 — Referred to the Subcommittee on Health.
+- 2011-02-04 — Referred to the Subcommittee on the Constitution.
+- 2011-02-08 — Subcommittee Hearings Held.
+- 2011-02-28 — Subcommittee on the Constitution Discharged.
+- 2011-03-03 — Committee Consideration and Mark-up Session Held.
+- 2011-03-03 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 14.
+- 2011-03-17 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than April 7, 2011.
+- 2011-03-17 — House Committee on Ways and Means Granted an extension for further consideration ending not later than April 7, 2011.
+- 2011-03-17 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-38, Part I.
+- 2011-03-17 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-38, Part I.
+- 2011-04-07 — Committee on Energy and Commerce discharged.
+- 2011-04-07 — Committee on Energy and Commerce discharged.
+- 2011-04-07 — Committee on Ways and Means discharged.
+- 2011-04-07 — Committee on Ways and Means discharged.
+- 2011-04-07 — Committee on Ways and Means discharged.
+- 2011-04-07 — Placed on the Union Calendar, Calendar No. 28.
