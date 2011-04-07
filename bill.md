@@ -35,7 +35,7 @@ Title III of the Clean Air Act (42 U.S.C. 7601 et seq.) is amended by adding at 
 >   - **(2)** *Exceptions* Paragraph (1) does not prohibit the following:
 >     - **(A)** Notwithstanding paragraph (4)(B), implementation and enforcement of the rule entitled “Light-Duty Vehicle Greenhouse Gas Emission Standards and Corporate Average Fuel Economy Standards” (as published at 75 Fed. Reg. 25324 (May 7, 2010) and without further revision) and finalization, implementation, enforcement, and revision of the proposed rule entitled “Greenhouse Gas Emissions Standards and Fuel Efficiency Standards for Medium- and Heavy-Duty Engines and Vehicles” published at 75 Fed. Reg. 74152 (November 30, 2010).
 >     - **(B)** Implementation and enforcement of section 211(o).
->     - **(C)** Statutorily authorized Federal research, development, and demonstration programs addressing climate change.
+>     - **(C)** Statutorily authorized Federal research, development, demonstration programs and voluntary programs addressing climate change.
 >     - **(D)** Implementation and enforcement of title VI to the extent such implementation or enforcement only involves one or more class I substances or class II substances (as such terms are defined in section 601).
 >     - **(E)** Implementation and enforcement of section 821 (42 U.S.C. 7651k note) of Public Law 101–549 (commonly referred to as the “Clean Air Act Amendments of 1990”).
 >   - **(3)** *Inapplicability of provisions* Nothing listed in paragraph (2) shall cause a greenhouse gas to be subject to part C of title I (relating to prevention of significant deterioration of air quality) or considered an air pollutant for purposes of title V (relating to permits).

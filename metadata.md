@@ -1,7 +1,7 @@
 ---
 measure: H.R. 910
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 910
@@ -118,6 +118,20 @@ Energy Tax Prevention Act of 2011
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (11)
+
+- 2011-04-06 — [House 112-1-233](votes/house-112-1-0233.md) — On Agreeing to the Amendment — **Failed** (161–259)
+- 2011-04-06 — [House 112-1-234](votes/house-112-1-0234.md) — On Agreeing to the Amendment — **Failed** (157–266)
+- 2011-04-06 — [House 112-1-235](votes/house-112-1-0235.md) — On Agreeing to the Amendment — **Failed** (182–240)
+- 2011-04-06 — [House 112-1-236](votes/house-112-1-0236.md) — On Agreeing to the Amendment — **Failed** (184–240)
+- 2011-04-06 — [House 112-1-237](votes/house-112-1-0237.md) — On Agreeing to the Amendment — **Failed** (168–257)
+- 2011-04-06 — [House 112-1-238](votes/house-112-1-0238.md) — On Agreeing to the Amendment — **Failed** (156–266)
+- 2011-04-06 — [House 112-1-239](votes/house-112-1-0239.md) — On Agreeing to the Amendment — **Failed** (165–260)
+- 2011-04-06 — [House 112-1-240](votes/house-112-1-0240.md) — On Agreeing to the Amendment — **Failed** (173–250)
+- 2011-04-06 — [House 112-1-241](votes/house-112-1-0241.md) — On Agreeing to the Amendment — **Failed** (160–264)
+- 2011-04-07 — [House 112-1-248](votes/house-112-1-0248.md) — On Motion to Recommit with Instructions — **Failed** (175–251)
+- 2011-04-07 — [House 112-1-249](votes/house-112-1-0249.md) — On Passage — **Passed** (255–172)
+
 ## Actions
 
 - 2011-02-09 — Hearings Held Prior to Referral.
@@ -133,3 +147,131 @@ Energy Tax Prevention Act of 2011
 - 2011-04-01 — Placed on the Union Calendar, Calendar No. 24.
 - 2011-04-01 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-50.
 - 2011-04-01 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-50.
+- 2011-04-05 — Rules Committee Resolution H. Res. 203 Reported to House. Rule provides for consideration of H.R. 910 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived. The bill shall be considered for amendment under the five-minute rule. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Energy and Commerce. All points of order againist the committee amendment in the nature of a substitute are waived.
+- 2011-04-06 — Amendment (A001) offered by Ms. Jackson Lee (TX). (consideration: CR H2362-2366, H2385-2386; text: CR H2362)
+- 2011-04-06 — Amendment (A002) offered by Ms. Jackson Lee (TX). (consideration: CR H2366-2368, H2386-2387; text: CR H2366)
+- 2011-04-06 — Amendment (A003) offered by Mr. McNerney. (consideration: CR H2368; text: CR H2368)
+- 2011-04-06 — Amendment (A004) offered by Mr. Cuellar. (consideration: CR H2368-2369; text: CR H2368)
+- 2011-04-06 — Amendment (A005) offered by Mr. Murphy (CT). (consideration: CR H2369-2372, H2387; text: CR H2369)
+- 2011-04-06 — Amendment (A006) offered by Mr. Waxman. (consideration: CR H2372-2374, H2387-2388; text: CR H2372)
+- 2011-04-06 — Amendment (A007) offered by Mr. Quigley. (consideration: CR H2374-2375; text: CR H2374)
+- 2011-04-06 — Amendment (A008) offered by Mr. Polis. (consideration: CR H2375-2379, H2388-2389; text: CR H2375)
+- 2011-04-06 — Amendment (A009) offered by Mr. Markey. (consideration: CR H2379-2380, H2389; text: CR H2379)
+- 2011-04-06 — Amendment (A010) offered by Mr. Rush. (consideration: CR H2380-2381, H2389-2390; text: CR H2380)
+- 2011-04-06 — Amendment (A011) offered by Mr. Doyle. (consideration: CR H2382-2383, H2390-2391; text: CR H2382)
+- 2011-04-06 — Amendment (A012) in the nature of a substitute offered by Mr. Kind. (consideration: CR H2383-2385, H2391; text: CR H2383-2384)
+- 2011-04-06 — Amendment agreed to Committee of the Whole
+- 2011-04-06 — Amendment failed in Committee of the Whole
+- 2011-04-06 — Amendment failed in Committee of the Whole
+- 2011-04-06 — Amendment failed in Committee of the Whole
+- 2011-04-06 — Amendment failed in Committee of the Whole
+- 2011-04-06 — Amendment failed in Committee of the Whole
+- 2011-04-06 — Amendment failed in Committee of the Whole
+- 2011-04-06 — Amendment failed in Committee of the Whole
+- 2011-04-06 — Amendment failed in Committee of the Whole
+- 2011-04-06 — Amendment failed in Committee of the Whole
+- 2011-04-06 — Amendment failed in Committee of the Whole
+- 2011-04-06 — Amendment failed in Committee of the Whole
+- 2011-04-06 — Considered under the provisions of rule H. Res. 203. (consideration: CR H2350-2391)
+- 2011-04-06 — DEBATE - Pursuant to the provisions of H.Res. 203, the Committee of the Whole proceeded with 10 minutes of debate on the Cuellar amendment number 4.
+- 2011-04-06 — DEBATE - Pursuant to the provisions of H.Res. 203, the Committee of the Whole proceeded with 10 minutes of debate on the Doyle amendment number 11.
+- 2011-04-06 — DEBATE - Pursuant to the provisions of H.Res. 203, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee (TX) amendment number 1.
+- 2011-04-06 — DEBATE - Pursuant to the provisions of H.Res. 203, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee (TX) amendment number 2.
+- 2011-04-06 — DEBATE - Pursuant to the provisions of H.Res. 203, the Committee of the Whole proceeded with 10 minutes of debate on the Kind amendment in the nature of a substitute number 12.
+- 2011-04-06 — DEBATE - Pursuant to the provisions of H.Res. 203, the Committee of the Whole proceeded with 10 minutes of debate on the Markey amendment number 9.
+- 2011-04-06 — DEBATE - Pursuant to the provisions of H.Res. 203, the Committee of the Whole proceeded with 10 minutes of debate on the McNerney amendment number 3.
+- 2011-04-06 — DEBATE - Pursuant to the provisions of H.Res. 203, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (CT) amendment number 5.
+- 2011-04-06 — DEBATE - Pursuant to the provisions of H.Res. 203, the Committee of the Whole proceeded with 10 minutes of debate on the Polis (CO) amendment number 8.
+- 2011-04-06 — DEBATE - Pursuant to the provisions of H.Res. 203, the Committee of the Whole proceeded with 10 minutes of debate on the Quigley amendment number 7.
+- 2011-04-06 — DEBATE - Pursuant to the provisions of H.Res. 203, the Committee of the Whole proceeded with 10 minutes of debate on the Rush amendment number 10.
+- 2011-04-06 — DEBATE - Pursuant to the provisions of H.Res. 203, the Committee of the Whole proceeded with 10 minutes of debate on the Waxman amendment number 6.
+- 2011-04-06 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 910.
+- 2011-04-06 — House amendment agreed to: On agreeing to the McNerney amendment (A003) Agreed to by voice vote.
+- 2011-04-06 — House amendment not agreed to: On agreeing to the Cuellar amendment (A004) Failed by voice vote.
+- 2011-04-06 — House amendment not agreed to: On agreeing to the Doyle amendment (A011) Failed by recorded vote: 173 - 250 (Roll no. 240).
+- 2011-04-06 — House amendment not agreed to: On agreeing to the Jackson Lee (TX) amendment (A001) Failed by recorded vote: 161 - 259 (Roll no. 233).
+- 2011-04-06 — House amendment not agreed to: On agreeing to the Jackson Lee (TX) amendment (A002) Failed by recorded vote: 157 - 266 (Roll no. 234).
+- 2011-04-06 — House amendment not agreed to: On agreeing to the Kind amendment (A012) Failed by recorded vote: 160 - 264 (Roll no. 241).
+- 2011-04-06 — House amendment not agreed to: On agreeing to the Markey amendment (A009) Failed by recorded vote: 156 - 266 (Roll no. 238).
+- 2011-04-06 — House amendment not agreed to: On agreeing to the Murphy (CT) amendment (A005) Failed by recorded vote: 182 - 240 (Roll no. 235).
+- 2011-04-06 — House amendment not agreed to: On agreeing to the Polis amendment (A008) Failed by recorded vote: 168 - 257 (Roll no. 237).
+- 2011-04-06 — House amendment not agreed to: On agreeing to the Quigley amendment (A007) Failed by voice vote.
+- 2011-04-06 — House amendment not agreed to: On agreeing to the Rush amendment (A010) Failed by recorded vote: 165 - 260 (Roll no. 239).
+- 2011-04-06 — House amendment not agreed to: On agreeing to the Waxman amendment (A006) Failed by recorded vote: 184 - 240 (Roll no. 236).
+- 2011-04-06 — House amendment offered
+- 2011-04-06 — House amendment offered
+- 2011-04-06 — House amendment offered
+- 2011-04-06 — House amendment offered
+- 2011-04-06 — House amendment offered
+- 2011-04-06 — House amendment offered
+- 2011-04-06 — House amendment offered
+- 2011-04-06 — House amendment offered
+- 2011-04-06 — House amendment offered
+- 2011-04-06 — House amendment offered
+- 2011-04-06 — House amendment offered
+- 2011-04-06 — House amendment offered
+- 2011-04-06 — House amendment offered/reported by: Amendment (A001) offered by Ms. Jackson Lee (TX).(consideration: CR H2362-2366, H2385-2386; text: CR H2362)
+- 2011-04-06 — House amendment offered/reported by: Amendment (A002) offered by Ms. Jackson Lee (TX).(consideration: CR H2366-2368, H2386-2387; text: CR H2366)
+- 2011-04-06 — House amendment offered/reported by: Amendment (A003) offered by Mr. McNerney.(consideration: CR H2368; text: CR H2368)
+- 2011-04-06 — House amendment offered/reported by: Amendment (A004) offered by Mr. Cuellar.(consideration: CR H2368-2369; text: CR H2368)
+- 2011-04-06 — House amendment offered/reported by: Amendment (A005) offered by Mr. Murphy (CT).(consideration: CR H2369-2372, H2387; text: CR H2369)
+- 2011-04-06 — House amendment offered/reported by: Amendment (A006) offered by Mr. Waxman.(consideration: CR H2372-2374, H2387-2388; text: CR H2372)
+- 2011-04-06 — House amendment offered/reported by: Amendment (A007) offered by Mr. Quigley.(consideration: CR H2374-2375; text: CR H2374)
+- 2011-04-06 — House amendment offered/reported by: Amendment (A008) offered by Mr. Polis.(consideration: CR H2375-2379, H2388-2389; text: CR H2375)
+- 2011-04-06 — House amendment offered/reported by: Amendment (A009) offered by Mr. Markey.(consideration: CR H2379-2380, H2389; text: CR H2379)
+- 2011-04-06 — House amendment offered/reported by: Amendment (A010) offered by Mr. Rush.(consideration: CR H2380-2381, H2389-2390; text: CR H2380)
+- 2011-04-06 — House amendment offered/reported by: Amendment (A011) offered by Mr. Doyle.(consideration: CR H2382-2383, H2390-2391; text: CR H2382)
+- 2011-04-06 — House amendment offered/reported by: Amendment (A012) in the nature of a substitute offered by Mr. Kind.(consideration: CR H2383-2385, H2391; text: CR H2383-2384)
+- 2011-04-06 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 203 and Rule XVIII.
+- 2011-04-06 — ORDER OF PROCEDURE - Mr. Upton asked unanimous consent to extend debate time by 1 minute on each side on the amendment. Agreed to without objection.
+- 2011-04-06 — On agreeing to the Cuellar amendment (A004) Failed by voice vote.
+- 2011-04-06 — On agreeing to the Doyle amendment (A011) Failed by recorded vote: 173 - 250 (Roll no. 240).
+- 2011-04-06 — On agreeing to the Jackson Lee (TX) amendment (A001) Failed by recorded vote: 161 - 259 (Roll no. 233).
+- 2011-04-06 — On agreeing to the Jackson Lee (TX) amendment (A002) Failed by recorded vote: 157 - 266 (Roll no. 234).
+- 2011-04-06 — On agreeing to the Kind amendment (A012) Failed by recorded vote: 160 - 264 (Roll no. 241).
+- 2011-04-06 — On agreeing to the Markey amendment (A009) Failed by recorded vote: 156 - 266 (Roll no. 238).
+- 2011-04-06 — On agreeing to the McNerney amendment (A003) Agreed to by voice vote.
+- 2011-04-06 — On agreeing to the Murphy (CT) amendment (A005) Failed by recorded vote: 182 - 240 (Roll no. 235).
+- 2011-04-06 — On agreeing to the Polis amendment (A008) Failed by recorded vote: 168 - 257 (Roll no. 237).
+- 2011-04-06 — On agreeing to the Quigley amendment (A007) Failed by voice vote.
+- 2011-04-06 — On agreeing to the Rush amendment (A010) Failed by recorded vote: 165 - 260 (Roll no. 239).
+- 2011-04-06 — On agreeing to the Waxman amendment (A006) Failed by recorded vote: 184 - 240 (Roll no. 236).
+- 2011-04-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Doyle amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Doyle demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-04-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Jackson Lee (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-04-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Jackson Lee (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-04-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kind amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Kind demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-04-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Markey amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Markey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-04-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Murphy (CT) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Murphy (CT) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-04-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis (CO) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Polis (CO) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-04-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rush amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Rush demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-04-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Waxman amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Waxman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-04-06 — Roll call votes on amendments in House
+- 2011-04-06 — Roll call votes on amendments in House
+- 2011-04-06 — Roll call votes on amendments in House
+- 2011-04-06 — Roll call votes on amendments in House
+- 2011-04-06 — Roll call votes on amendments in House
+- 2011-04-06 — Roll call votes on amendments in House
+- 2011-04-06 — Roll call votes on amendments in House
+- 2011-04-06 — Roll call votes on amendments in House
+- 2011-04-06 — Roll call votes on amendments in House
+- 2011-04-06 — Rule H. Res. 203 passed House.
+- 2011-04-06 — Rule provides for consideration of H.R. 910 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived. The bill shall be considered for amendment under the five-minute rule. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Energy and Commerce. All points of order againist the committee amendment in the nature of a substitute are waived.
+- 2011-04-06 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H2361-2362)
+- 2011-04-06 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 910.
+- 2011-04-06 — The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee.
+- 2011-04-06 — The previous question was ordered pursuant to the rule. (consideration: CR H2391)
+- 2011-04-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-04-07 — Amendment (A013) offered by Mr. Polis. (consideration: CR H2507; text: CR H2507)
+- 2011-04-07 — Amendment failed by House: On agreeing to the Polis amendment (A013) Failed by voice vote.
+- 2011-04-07 — Considered as unfinished business. (consideration: CR H2505-2507)
+- 2011-04-07 — DEBATE - The House proceeded with 10 minutes of debate on the McNerney motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prohibit the underlying bill from limiting EPA's Clean Air Act authority to protect the health of children, seniors, and those with asthma and lung diseases from the effects of air pollution emitted by large sources (those that emit 75,000 tons or more of carbon pollution annually).
+- 2011-04-07 — House amendment not agreed to: On agreeing to the Polis amendment (A013) Failed by voice vote.
+- 2011-04-07 — House amendment offered
+- 2011-04-07 — House amendment offered/reported by: Amendment (A013) offered by Mr. Polis.(consideration: CR H2507; text: CR H2507)
+- 2011-04-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-04-07 — Mr. McNerney moved to recommit with instructions to Energy and Commerce. (consideration: CR H2505-2507; text: CR H2505)
+- 2011-04-07 — On agreeing to the Polis amendment (A013) Failed by voice vote.
+- 2011-04-07 — On motion to recommit with instructions Failed by recorded vote: 175 - 251 (Roll No. 248).
+- 2011-04-07 — On passage Passed by the Yeas and Nays: 255 - 172 (Roll No. 249).
+- 2011-04-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 255 - 172 (Roll No. 249).
+- 2011-04-07 — The previous question was ordered without objection. (consideration: CR H2506)
