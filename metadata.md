@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1363
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1363
@@ -15,6 +15,10 @@ Further Additional Continuing Appropriations Amendments, 2011
 ## Sponsor
 
 - Rep. Rogers, Harold [R-KY-5] (R000395)
+
+## Cosponsors (1)
+
+- Sen. McConnell, Mitch [R-KY] (M000355)
 
 ## Committees (2)
 
@@ -54,3 +58,12 @@ Further Additional Continuing Appropriations Amendments, 2011
 - 2011-04-07 — Rule provides for consideration of H.R. 1363 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill and the provisions of the bill are waived.
 - 2011-04-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2504)
 - 2011-04-07 — The previous question was ordered pursuant to the rule. (consideration: CR H2501)
+- 2011-04-08 — Amendment SA 291 agreed to in Senate by Unanimous Consent.
+- 2011-04-08 — Amendment SA 291 proposed by Senator Reid. (consideration: CR S2341; text: CR S2341) In the nature of a substitute.
+- 2011-04-08 — Measure laid before Senate by unanimous consent. (consideration: CR S2340-2342)
+- 2011-04-08 — Message on Senate action sent to the House.
+- 2011-04-08 — Passed Senate with an amendment by Voice Vote.
+- 2011-04-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2011-04-08 — Senate amendment agreed to: Amendment SA 291 agreed to in Senate by Unanimous Consent.
+- 2011-04-08 — Senate amendment proposed (on the floor): Amendment SA 291 proposed by Senator Reid.(consideration: CR S2341; text: CR S2341)
+- 2011-04-08 — Senate amendment submitted

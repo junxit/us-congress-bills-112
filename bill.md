@@ -2,13 +2,55 @@
 legis-num: H.R. 1363
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1363
 
-> Making appropriations for the Department of Defense for the fiscal year ending September 30, 2011, and for other purposes.
+That the bill from the House of Representatives (H.R. 1363) entitled “An Act making appropriations for the Department of Defense for the fiscal year ending September 30, 2011, and for other purposes.”, do pass with the following
 
-## § 1. Table of contents
+*Strike all after the enacting clause and insert the following:*
 
-The table of contents for this Act is as follows:
+## § 1.
+
+The Continuing Appropriations Act, 2011 (Public Law 111–242) is further amended—
+
+- **(1)** by striking the date specified in section 106(3) and inserting “April 15, 2011”;
+- **(2)** by adding after section 294, as added by the Additional Continuing Appropriations Amendments, 2011 (section 1 of Public Law 112–6), the following new sections:
+  > ## § 295.
+  >
+  > Notwithstanding section 101, amounts are provided for “Department of Transportation—Office of the Secretary—Transportation Planning, Research, and Development” at a rate for operations of $9,800,000.
+  >
+  > ## § 296.
+  >
+  > Notwithstanding section 101, amounts are provided for “Department of Transportation—Federal Aviation Administration—Facilities and Equipment” at a rate for operations of $2,927,500,000.
+  >
+  > ## § 297.
+  >
+  > Notwithstanding section 101, amounts are provided for “Department of Transportation—Federal Aviation Administration—Research, Engineering, and Development” at a rate for operations of $187,000,000.
+  >
+  > ## § 298.
+  >
+  > Notwithstanding section 101, amounts are provided for “Department of Transportation—Federal Railroad Administration—Capital Assistance for High Speed Rail Corridors and Intercity Passenger Rail Service” at a rate for operations of $1,000,000,000.
+  >
+  > ## § 299.
+  >
+  > Notwithstanding section 101, amounts are provided for “Department of Transportation—Federal Railroad Administration—Railroad Research and Development” at a rate for operations of $35,100,000.
+  >
+  > ## § 300.
+  >
+  > Notwithstanding section 101, amounts are provided for “Department of Transportation—Federal Transit Administration—Capital Investment Grants” at a rate for operations of $1,720,000,000.
+  >
+  > ## § 301.
+  >
+  > Notwithstanding section 101, amounts are provided for “Department of Transportation—Federal Transit Administration—Research and University Research Centers” at a rate for operations of $64,200,000.
+  >
+  > ## § 302.
+  >
+  > Notwithstanding section 101, amounts are provided for “Department of Housing and Urban Development—Public and Indian Housing—Public Housing Operating Fund” at a rate for operations of $4,626,000,000.
+  >
+  > ## § 303.
+  >
+  > Notwithstanding sections 101 and 226, amounts are provided for “Department of Housing and Urban Development—Community Planning and Development—Community Development Fund” at a rate for operations of $4,230,068,480, of which $0 shall be for grants for the Economic Development Initiative (EDI), $0 shall be for neighborhood initiatives, and $0 shall be for grants specified in the last proviso of the last paragraph under such heading in title II of division A of Public Law 111–117: Provided, That the second and third paragraphs under such heading in title II of division A of Public Law 111–117 shall not apply to funds appropriated by this Act.
+
+This Act may be cited as the “Further Additional Continuing Appropriations Amendments, 2011”.
