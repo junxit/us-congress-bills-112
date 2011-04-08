@@ -1,7 +1,7 @@
 ---
 measure: H.R. 910
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Title III of the Clean Air Act (42 U.S.C. 7601 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | repeal | The following rules and actions (including any supplement or revision to such rules and actions) are repealed and shall have no legal effect: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 209(b) of the Clean Air Act (42 U.S.C. 7543) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 7601` | add-at-end | Title III of the Clean Air Act (42 U.S.C. 7601 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7651k` | repeal | The following rules and actions (including any supplement or revision to such rules and actions) are repealed and shall have no legal effect: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7543` | add-at-end | Section 209(b) of the Clean Air Act (42 U.S.C. 7543) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

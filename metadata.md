@@ -1,7 +1,7 @@
 ---
 measure: H.R. 910
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 910
@@ -114,9 +114,10 @@ Energy Tax Prevention Act of 2011
 - Rep. Emerson, Jo Ann [R-MO-8] (E000172)
 - Rep. Thornberry, Mac [R-TX-13] (T000238)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (11)
 
@@ -275,3 +276,4 @@ Energy Tax Prevention Act of 2011
 - 2011-04-07 — On passage Passed by the Yeas and Nays: 255 - 172 (Roll No. 249).
 - 2011-04-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 255 - 172 (Roll No. 249).
 - 2011-04-07 — The previous question was ordered without objection. (consideration: CR H2506)
+- 2011-04-08 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
