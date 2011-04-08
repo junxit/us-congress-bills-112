@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1255
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1255
@@ -93,3 +93,6 @@ Government Shutdown Prevention Act of 2011
 - 2011-04-01 — Rule provides for consideration of H.R. 1255 with 1 hour of general debate. Motion to recommit allowed. Measure will be considered read. Bill is closed to amendments. The resolution waives all points of order against consideration of the bill.
 - 2011-04-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2250)
 - 2011-04-01 — The previous question was ordered without objection. (consideration: CR H2248)
+- 2011-04-04 — Received in the Senate.
+- 2011-04-05 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-04-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 29.
