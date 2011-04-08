@@ -1,7 +1,7 @@
 ---
 measure: S. 627
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 627
@@ -31,3 +31,7 @@ Budget Control Act of 2011
 - 2011-03-17 — Introduced in Senate
 - 2011-03-17 — Read twice and referred to the Committee on the Judiciary.
 - 2011-03-17 — Sponsor introductory remarks on measure. (CR S1840)
+- 2011-04-07 — Committee on the Judiciary. Ordered to be reported with an amendment favorably.
+- 2011-04-08 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2011-04-08 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2011-04-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 31.
