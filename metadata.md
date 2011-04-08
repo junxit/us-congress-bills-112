@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1363
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1363
@@ -25,11 +25,12 @@ Further Additional Continuing Appropriations Amendments, 2011
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (3)
+## Recorded votes (4)
 
 - 2011-04-07 — [House 112-1-245](votes/house-112-1-0245.md) — Table Appeal of the Ruling of the Chair — **Passed** (236–187)
 - 2011-04-07 — [House 112-1-246](votes/house-112-1-0246.md) — On Motion to Recommit with Instructions — **Failed** (191–236)
 - 2011-04-07 — [House 112-1-247](votes/house-112-1-0247.md) — On Passage — **Passed** (247–181)
+- 2011-04-09 — [House 112-1-253](votes/house-112-1-0253.md) — On Motion to Concur in the Senate Amendment — **Passed** (348–70)
 
 ## Actions
 
@@ -67,3 +68,16 @@ Further Additional Continuing Appropriations Amendments, 2011
 - 2011-04-08 — Senate amendment agreed to: Amendment SA 291 agreed to in Senate by Unanimous Consent.
 - 2011-04-08 — Senate amendment proposed (on the floor): Amendment SA 291 proposed by Senator Reid.(consideration: CR S2341; text: CR S2341)
 - 2011-04-08 — Senate amendment submitted
+- 2011-04-09 — Became Public Law No: 112-8.
+- 2011-04-09 — Became Public Law No: 112-8.
+- 2011-04-09 — DEBATE - Pursuant to a previous order of the House, the House proceeded with 20 minutes of debate on agreeing to the Senate amendment to H.R. 1363.
+- 2011-04-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-04-09 — Mr. Rogers (KY) moved that the House agree to the Senate amendment. (consideration: CR 4/8/2011 H2565-2567)
+- 2011-04-09 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 348 - 70 (Roll no. 253). (text as House agreed to Senate amendment: CR 4/8/2011 H2565-2566)
+- 2011-04-09 — Presented to President.
+- 2011-04-09 — Presented to President.
+- 2011-04-09 — Pursuant to a previous order of the House, the Chair recognized Mr. Rogers (KY) for a motion.
+- 2011-04-09 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 348 - 70 (Roll no. 253).(text as House agreed to Senate amendment: CR 4/8/2011 H2565-2566)
+- 2011-04-09 — Signed by President.
+- 2011-04-09 — Signed by President.
+- 2011-04-09 — The previous question was ordered pursuant to a previous special order. (consideration: CR 4/8/2011 H2566)
