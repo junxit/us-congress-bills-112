@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 37
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 37
@@ -81,6 +81,12 @@ Disapproving the rule submitted by the Federal Communications Commission with re
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (3)
+
+- 2011-04-08 — [House 112-1-250](votes/house-112-1-0250.md) — On Consideration of the Joint Resolution — **Passed** (238–174)
+- 2011-04-08 — [House 112-1-251](votes/house-112-1-0251.md) — Table Appeal of the Ruling of the Chair — **Passed** (235–181)
+- 2011-04-08 — [House 112-1-252](votes/house-112-1-0252.md) — On Passage — **Passed** (240–179)
+
 ## Actions
 
 - 2011-02-16 — Introduced in House
@@ -96,3 +102,22 @@ Disapproving the rule submitted by the Federal Communications Commission with re
 - 2011-04-01 — Placed on the Union Calendar, Calendar No. 25.
 - 2011-04-01 — Reported by the Committee on Energy and Commerce. H. Rept. 112-51.
 - 2011-04-01 — Reported by the Committee on Energy and Commerce. H. Rept. 112-51.
+- 2011-04-04 — Rules Committee Resolution H. Res. 200 Reported to House. Rule provides for consideration of H.J. Res. 37 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. All points of order against consideration of the joint resolution are waived. All points of order against provisions in the joint resolution are waived.
+- 2011-04-05 — Rule H. Res. 200 passed House.
+- 2011-04-08 — Considered under the provisions of rule H. Res. 200. (consideration: CR H2552-2565)
+- 2011-04-08 — DEBATE - The House proceeded with 10 minutes of debate on the Hoyer motion to recommit with instructions, pending reservation of a point of order. The instructions contained in the motion seek to require the joint resolution to be reported back to the House with an amendment stating that the Continuing Appropriations Act, 2011, is further amended by striking the date specified and inserting "April 15, 2011".
+- 2011-04-08 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 37.
+- 2011-04-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-04-08 — Mr. Hoyer appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair.
+- 2011-04-08 — Mr. Hoyer moved to recommit with instructions to Energy and Commerce. (consideration: CR H2562-2564; text: CR H2562)
+- 2011-04-08 — Mr. Walden moved to consider the joint resolution.
+- 2011-04-08 — Mr. Walden moved to table the motion to appeal the ruling of the chair
+- 2011-04-08 — Mr. Walden raised a point of order against the motion to recommit with instructions. Mr. Walden stated that the provisions of the motion to recommit are not germane to the joint resolution. Sustained by the Chair.
+- 2011-04-08 — On motion to consider the joint resolution Agreed to by the Yeas and Nays: 238 - 174 (Roll no. 250).
+- 2011-04-08 — On motion to table the appeal of the ruling of the chair Agreed to by recorded vote: 235 - 181 (Roll no. 251).
+- 2011-04-08 — On passage Passed by recorded vote: 240 - 179 (Roll no. 252). (text: CR H2552)
+- 2011-04-08 — Passed/agreed to in House: On passage Passed by recorded vote: 240 - 179 (Roll no. 252).(text: CR H2552)
+- 2011-04-08 — Point of order sustained against the motion to recommit with instructions.
+- 2011-04-08 — QUESTION OF CONSIDERATION - Mr. McGovern demanded the yeas and nays on the question of consideration pursuant to clause 3 of rule XVI.
+- 2011-04-08 — Rule provides for consideration of H.J. Res. 37 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. All points of order against consideration of the joint resolution are waived. All points of order against provisions in the joint resolution are waived.
+- 2011-04-08 — The previous question was ordered pursuant to the rule. (consideration: CR H2562)
