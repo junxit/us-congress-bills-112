@@ -1,7 +1,7 @@
 ---
 measure: S. 307
 congress: 112
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 307
@@ -52,3 +52,9 @@ A bill to designate the Federal building and United States courthouse located at
 - 2011-04-12 — Placed on the House Calendar, Calendar No. 28.
 - 2011-04-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-59.
 - 2011-04-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-59.
+- 2011-04-14 — Presented to President.
+- 2011-04-14 — Presented to President.
+- 2011-04-25 — Became Public Law No: 112-11.
+- 2011-04-25 — Became Public Law No: 112-11.
+- 2011-04-25 — Signed by President.
+- 2011-04-25 — Signed by President.

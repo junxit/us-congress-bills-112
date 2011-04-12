@@ -1,8 +1,8 @@
 ---
 legis-num: S. 307
-congress: 112th CONGRESS
+congress: One Hundred Twelfth Congress of the United States of America
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 307
