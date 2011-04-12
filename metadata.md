@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 109
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 109
@@ -16,7 +16,7 @@ A resolution honoring and supporting women in North Africa and the Middle East w
 
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
 
-## Cosponsors (16)
+## Cosponsors (24)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Murray, Patty [D-WA] (M001111)
@@ -34,6 +34,14 @@ A resolution honoring and supporting women in North Africa and the Middle East w
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Merkley, Jeff [D-OR] (M001176)
 
 ## Committees (1)
 
@@ -44,3 +52,7 @@ A resolution honoring and supporting women in North Africa and the Middle East w
 - 2011-03-28 — Introduced in Senate
 - 2011-03-28 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1899)
 - 2011-03-28 — Sponsor introductory remarks on measure. (CR S1899-1900)
+- 2011-04-12 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2011-04-12 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
+- 2011-04-12 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
+- 2011-04-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.
