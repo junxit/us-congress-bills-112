@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 197
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 197
@@ -29,3 +29,10 @@ Electing Members to the Joint Committee on Printing and the Joint Committee of C
 - 2011-04-01 — Introduced in House
 - 2011-04-01 — Introduced in House
 - 2011-04-01 — Referred to the House Committee on House Administration.
+- 2011-04-12 — Committee on House Administration discharged.
+- 2011-04-12 — Committee on House Administration discharged.
+- 2011-04-12 — Considered by unanimous consent. (consideration: CR H2584)
+- 2011-04-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-04-12 — Mr. Lungren, Daniel E. asked unanimous consent to discharge from committee and consider.
+- 2011-04-12 — On agreeing to the resolution Agreed to without objection. (text: CR H2584)
+- 2011-04-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H2584)
