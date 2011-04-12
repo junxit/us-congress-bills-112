@@ -1,7 +1,7 @@
 ---
 measure: S. 307
 congress: 112
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 307
@@ -16,9 +16,14 @@ A bill to designate the Federal building and United States courthouse located at
 
 - Sen. Rockefeller, John D., IV [D-WV] (R000361)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
+
+## Recorded votes (1)
+
+- 2011-04-12 — [House 112-1-255](votes/house-112-1-0255.md) — On Motion to Suspend the Rules and Pass — **Passed** (408–3)
 
 ## Actions
 
@@ -32,3 +37,18 @@ A bill to designate the Federal building and United States courthouse located at
 - 2011-02-18 — Message on Senate action sent to the House.
 - 2011-02-18 — Received in the House.
 - 2011-02-18 — Referred to the House Committee on Transportation and Infrastructure.
+- 2011-02-19 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2011-03-16 — Committee Consideration and Mark-up Session Held.
+- 2011-03-16 — Ordered to be Reported by Voice Vote.
+- 2011-03-16 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2011-04-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-04-12 — Considered as unfinished business. (consideration: CR H2585-2586)
+- 2011-04-12 — Considered under suspension of the rules. (consideration: CR H2582-2584)
+- 2011-04-12 — DEBATE - The House proceeded with forty minutes of debate on S. 307.
+- 2011-04-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-04-12 — Mr. Crawford moved to suspend the rules and pass the bill.
+- 2011-04-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 3, 1 Present (Roll no. 255). (text: CR H2582)
+- 2011-04-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 3, 1 Present (Roll no. 255).(text: CR H2582)
+- 2011-04-12 — Placed on the House Calendar, Calendar No. 28.
+- 2011-04-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-59.
+- 2011-04-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-59.
