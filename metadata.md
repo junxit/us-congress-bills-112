@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 33
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 33
@@ -37,3 +37,4 @@ Permitting the use of the rotunda of the Capitol for a ceremony as part of the c
 - 2011-04-12 — Mr. Lungren, Daniel E. asked unanimous consent to discharge from committee and consider.
 - 2011-04-12 — On agreeing to the resolution Agreed to without objection. (text: CR H2584)
 - 2011-04-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H2584)
+- 2011-04-13 — Received in the Senate.
