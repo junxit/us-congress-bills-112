@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 37
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 37
@@ -121,3 +121,5 @@ Disapproving the rule submitted by the Federal Communications Commission with re
 - 2011-04-08 — QUESTION OF CONSIDERATION - Mr. McGovern demanded the yeas and nays on the question of consideration pursuant to clause 3 of rule XVI.
 - 2011-04-08 — Rule provides for consideration of H.J. Res. 37 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. All points of order against consideration of the joint resolution are waived. All points of order against provisions in the joint resolution are waived.
 - 2011-04-08 — The previous question was ordered pursuant to the rule. (consideration: CR H2562)
+- 2011-04-12 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-04-13 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 34.
