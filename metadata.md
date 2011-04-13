@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1308
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1308
@@ -41,3 +41,4 @@ To amend the Ronald Reagan Centennial Commission Act to extend the termination d
 - 2011-04-12 — Mr. Kelly moved to suspend the rules and pass the bill.
 - 2011-04-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 18 (Roll no. 254). (text: CR H2581)
 - 2011-04-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 18 (Roll no. 254).(text: CR H2581)
+- 2011-04-13 — Received in the Senate, read twice.
