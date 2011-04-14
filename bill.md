@@ -19,7 +19,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas women in Egypt have utilized social media to galvanize support among men and women for peaceful protest;
 - Whereas huge crowds came out to protest peacefully in Egypt, and women were among those that faced tear gas and who pitched their tents and slept in the cold in Tahrir Square;
 - Whereas hundreds of women took part in a rally in Cairo on March 8, 2011, the 100th Anniversary of International Women’s Day, to remind women in Egypt that they must have a voice in their nation’s future;
-- Whereas, on February 25, 2011, the United Nations Security Council and the international community condemned the violence and use of force against civilians in Libya;
+- Whereas, on February 25, 2011, the international community condemned the violence and use of force against civilians in Libya;
 - Whereas, according to press reports, women in Libya have been working behind the scenes making a profound difference to promote reform and keep the momentum of the uprising alive, listening to worried fathers whose sons are fighting on the frontlines, keeping up with the day-to-day clashes and casualty numbers, and holding meetings about health and education issues, as well as participating in the demonstrations themselves;
 - Whereas, according to press reports, women are among the leaders of demonstrations calling for reform in Yemen;
 - Whereas women’s groups in countries such as Morocco, Jordan, Lebanon, and Iran have attempted to harness critical support regarding legislation affecting their rights;
@@ -32,7 +32,7 @@ That the Senate—
 - **(1)** honors the women in North Africa and the Middle East who have worked to ensure that women are guaranteed equality and basic human rights;
 - **(2)** recognizes that the empowerment of women is inextricably linked to the potential of nations to generate economic growth and sustainable democracy;
 - **(3)** acknowledges that women in North Africa and the Middle East are demanding to be included in making choices that will affect their own lives and their families;
-- **(4)** reaffirms the commitment of the United States to the universal rights of freedom of assembly, freedom of speech, and freedom of association, including via the Internet, and supports the calls for representative and responsive democratic governments that respect these rights;
+- **(4)** reaffirms the commitment of the United States to the universal rights of freedom of assembly, freedom of speech, and freedom of association, including via the Internet;
 - **(5)** celebrates this year’s centennial anniversary of International Women’s Day, a global day to celebrate the economic, political, and social achievements of women past, present, and future, and a day to recognize the obstacles that women still face in the struggle for equal rights and opportunities;
 - **(6)** condemns any efforts to provoke or instigate violence against women, and calls upon all parties to refrain from all violent and criminal acts; and
 - **(7)** underscores the vital importance of women’s rights and political participation as leaders in North Africa and the Middle East consider constitutional reforms and shape new governments.

@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 109
 congress: 112
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 109
@@ -56,3 +56,16 @@ A resolution honoring and supporting women in North Africa and the Middle East w
 - 2011-04-12 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2011-04-12 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2011-04-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.
+- 2011-04-14 — Amendment SA 301 agreed to in Senate by Unanimous Consent.
+- 2011-04-14 — Amendment SA 301 proposed by Senator Reid for Senator Snowe. (consideration: CR S2552; text: CR S2552) To amend the resolution.
+- 2011-04-14 — Amendment SA 302 agreed to in Senate by Unanimous Consent.
+- 2011-04-14 — Amendment SA 302 proposed by Senator Reid for Senator Snowe. (consideration: CR S2552; text: CR S2552) To amend the preamble.
+- 2011-04-14 — Measure laid before Senate by unanimous consent. (consideration: CR S2552-2553)
+- 2011-04-14 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(text: CR S2552-2553)
+- 2011-04-14 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (text: CR S2552-2553)
+- 2011-04-14 — Senate amendment agreed to: Amendment SA 301 agreed to in Senate by Unanimous Consent.
+- 2011-04-14 — Senate amendment agreed to: Amendment SA 302 agreed to in Senate by Unanimous Consent.
+- 2011-04-14 — Senate amendment proposed (on the floor): Amendment SA 301 proposed by Senator Reid for Senator Snowe.(consideration: CR S2552; text: CR S2552)
+- 2011-04-14 — Senate amendment proposed (on the floor): Amendment SA 302 proposed by Senator Reid for Senator Snowe.(consideration: CR S2552; text: CR S2552)
+- 2011-04-14 — Senate amendment submitted
+- 2011-04-14 — Senate amendment submitted
