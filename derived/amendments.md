@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1473
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -43,13 +43,13 @@ complete account of the bill's effect, which it is not.
 | — | strike | Section 814 of division C of Public Law 111–117 shall be applied to funds appropriated by this division by striking “Federal”. | the bill names no machine-readable US Code section |
 | — | amend | The Consumer Financial Protection Act of 2010 is amended by adding after section 1016 the following new sections: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents for the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended by inserting after the item relating to section 1016 the following new items: | the bill names no machine-readable US Code section |
-| — | amend | Section 1403(8) of the Virginia Graeme Baker Pool and Spa Safety Act (15 U.S.C. 8002(8)) is amended by adding at the end the following: “For purposes of eligibility for the grants authorized under section 1405, such term shall also inclu… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1403(8) of the Virginia Graeme Baker Pool and Spa Safety Act (15 U.S.C. 8002(8)) is amended by adding at the end the following: “For purposes of eligibility for the grants authorized under section 1405, such term shall also inclu… | the bill names no machine-readable US Code section |
 | — | replace | Section 1405(e) of the Virginia Graeme Baker Pool and Spa Safety Act (15 U.S.C. 8004 (e)) is amended by striking “2010” and inserting “2011”. | the bill names no machine-readable US Code section |
-| — | amend | Section 503 of the Department of Homeland Security Appropriations Act, 2010 (Public Law 111-83) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 550(b) of the Department of Homeland Security Appropriations Act, 2007 (Public Law 109-295; 6 U.S.C. 121 note) is amended by striking “on October 4, 2010” and inserting “on October 4, 2011”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 503 of the Department of Homeland Security Appropriations Act, 2010 (Public Law 111–83) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 550(b) of the Department of Homeland Security Appropriations Act, 2007 (Public Law 109–295; 6 U.S.C. 121 note) is amended by striking “on October 4, 2010” and inserting “on October 4, 2011”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “Until September 30, 2010” and inserting “Until September 30, 2011”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d)(1), by striking “September 30, 2010” and inserting “September 30, 2011”. | the bill names no machine-readable US Code section |
-| — | replace | Section 532(a) of Public Law 109-295 (120 Stat. 1384) is amended by striking “2010” and inserting “2011”. | the bill names no machine-readable US Code section |
+| — | replace | Section 532(a) of Public Law 109–295 (120 Stat. 1384) is amended by striking “2010” and inserting “2011”. | the bill names no machine-readable US Code section |
 | — | replace | Section 121 of division A of Public Law 111–88 (123 Stat. 2930), concerning joint ticketing at the Pearl Harbor Naval Complex, is amended in subsection (b)(1) by striking “may enter” and inserting “may, for this fiscal year and each fisc… | the bill names no machine-readable US Code section |
 | — | replace | Notwithstanding section 1101, the level for “John F. Kennedy Center for the Performing Arts, Operations and Maintenance” shall be $22,500,000: Provided, That the amounts included under such heading in division A of Public Law 111–88 shal… | the bill names no machine-readable US Code section |
 | — | replace | Section 409 of division A of Public Law 111–88 (123 Stat. 2957) is amended by striking “and 111–8” and inserting “111–8, and 111–88”, and by striking “2009” and inserting “2010”. | the bill names no machine-readable US Code section |
@@ -85,7 +85,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Notwithstanding section 1101, the level for each of the following accounts shall be as follows: “International Security Assistance, Department of State, Nonproliferation, Anti-terrorism, Demining and Related Programs”, $740,000,000; and … | the bill names no machine-readable US Code section |
 | — | insert | Notwithstanding section 1101, the level for each of the following accounts shall be as follows: “International Security Assistance, Funds Appropriated to the President, International Military Education and Training”, $106,000,000; and “I… | the bill names no machine-readable US Code section |
 | — | add-at-end | Division F of Public Law 111–117 shall be applied to funds appropriated by this division under the heading “International Organizations, Contributions for International Peacekeeping Activities” by adding at the end before the period the … | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end before the period the following: “: Provided further, That funds appropriated under this heading may be made available for activities to support the economic and social development and reconciliation goals of Public … | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end before the period the following: “: Provided further, That funds appropriated under this heading may be made available for activities to support the economic and social development and reconciliation goals of Public … | the bill names no machine-readable US Code section |
 | — | amend | The second proviso of section 7081(d) of division F of Public Law 111–117 is amended to read as follows: “: Provided further, That funds appropriated by this division that are made available for tropical forest programs shall be used for… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7004 of division F of Public Law 111–117 shall be applied to funds appropriated by this division by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | The second proviso in the second paragraph under the heading “International Security Assistance, Funds Appropriated to the President, Foreign Military Financing Program” in division F of Public Law 111–117 shall be applied to funds appro… | the bill names no machine-readable US Code section |
@@ -99,6 +99,6 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | The Asian Development Bank Act (22 U.S.C. 285 et seq.), is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Notwithstanding section 1101, section 231 of title II of division A of Public Law 111–117 (123 Stat. 3105) is amended to read as follows: “The Secretary of Housing and Urban Development is authorized to transfer up to 5 percent or $5,000… | the bill names no machine-readable US Code section |
 | — | replace | Notwithstanding section 1101, the level for “Department of Housing and Urban Development, Public and Indian Housing, Tenant-Based Rental Assistance” shall be $14,407,688,000, to remain available until expended, which shall be available o… | the bill names no machine-readable US Code section |
-| — | replace | Section 209 of the McKinney-Vento Homeless Assistance Act (42 U.S.C.11319) is amended by striking all that follows “on” and inserting “October 1, 2013.”. | the bill names no machine-readable US Code section |
+| — | replace | Section 209 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11319) is amended by striking all that follows “on” and inserting “October 1, 2013.”. | the bill names no machine-readable US Code section |
 | — | replace | The heading “Department of Housing and Urban Development, Management and Administration, Transformation Initiative” in title II of division A of Public Law 111–117 is amended by striking the second paragraph and inserting the following: … | the bill names no machine-readable US Code section |
 | — | repeal | The DC School Choice Incentive Act of 2003 (sec. 38–1851.01 et seq., D.C. Official Code) is repealed. | the bill names no machine-readable US Code section |
