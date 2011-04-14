@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1473
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1473
@@ -45,3 +45,9 @@ Department of Defense and Full-Year Continuing Appropriations Act, 2011
 - 2011-04-14 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Yea-Nay. 81 - 19. Record Vote Number: 61. (consideration: CR S2493)
 - 2011-04-14 — Rule provides for consideration of H.R. 1473, H. Con. Res. 35 and H. Con. Res. 36 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of H.R. 1473 are waived. All points of order against consideration of H.R. 1473 are waived.
 - 2011-04-14 — The previous question was ordered pursuant to the rule. (consideration: CR H2793)
+- 2011-04-15 — Became Public Law No: 112-10.
+- 2011-04-15 — Became Public Law No: 112-10.
+- 2011-04-15 — Presented to President.
+- 2011-04-15 — Presented to President.
+- 2011-04-15 — Signed by President.
+- 2011-04-15 — Signed by President.
