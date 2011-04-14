@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 43
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 43
@@ -32,3 +32,4 @@ Providing for a conditional adjournment of the House of Representatives and a co
 - 2011-04-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 243 - 178 (Roll no. 269).(text: CR H2686)
 - 2011-04-14 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S2551; text as passed Senate: CR S2551)
 - 2011-04-14 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2551; text as passed Senate: CR S2551)
+- 2011-04-15 — Message on Senate action sent to the House.
