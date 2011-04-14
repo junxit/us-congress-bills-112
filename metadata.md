@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 128
 congress: 112
-version: Agreed to Senate
+version: Reported to Senate
 ---
 
 # S.Res. 128
