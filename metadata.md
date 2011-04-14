@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1217
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1217
@@ -22,9 +22,10 @@ To repeal the Prevention and Public Health Fund.
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (4)
 
@@ -85,3 +86,4 @@ To repeal the Prevention and Public Health Fund.
 - 2011-04-13 — The Speaker designated the Honorable K. Michael Conaway to act as Chairman of the Committee.
 - 2011-04-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2646)
 - 2011-04-13 — The previous question was ordered pursuant to the rule. (consideration: CR H2645)
+- 2011-04-14 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
