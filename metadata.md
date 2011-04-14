@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1473
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1473
