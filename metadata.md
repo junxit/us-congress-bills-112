@@ -1,7 +1,7 @@
 ---
 measure: S. 216
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 216
@@ -25,9 +25,11 @@ Food Safety Accountability Act of 2011
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Judiciary Committee
+- House — Energy and Commerce Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -38,3 +40,9 @@ Food Safety Accountability Act of 2011
 - 2011-03-31 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2011-03-31 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2011-03-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 21.
+- 2011-04-14 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2552; text as passed Senate: CR S2552)
+- 2011-04-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S2552; text as passed Senate: CR S2552)
+- 2011-04-15 — Message on Senate action sent to the House.
+- 2011-04-15 — Received in the House.
+- 2011-04-15 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-04-15 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
