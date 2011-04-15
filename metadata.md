@@ -1,0 +1,35 @@
+---
+measure: H.R. 1627
+congress: 112
+version: Introduced in House
+---
+
+# H.R. 1627
+
+Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+
+## Cosponsors (3)
+
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+
+## Committees (2)
+
+- House — Armed Services Committee
+- House — Veterans' Affairs Committee
+
+## Actions
+
+- 2011-04-15 — Introduced in House
+- 2011-04-15 — Introduced in House
+- 2011-04-15 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-04-15 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
