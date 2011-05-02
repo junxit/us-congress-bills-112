@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1423
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1423
@@ -27,8 +27,22 @@ To designate the facility of the United States Postal Service located at 115 4th
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2011-05-02 — [House 112-1-278](votes/house-112-1-0278.md) — On Motion to Suspend the Rules and Pass — **Passed** (399–0)
+
 ## Actions
 
 - 2011-04-07 — Introduced in House
 - 2011-04-07 — Introduced in House
 - 2011-04-07 — Referred to the House Committee on Oversight and Government Reform.
+- 2011-04-13 — Committee Consideration and Mark-up Session Held.
+- 2011-04-13 — Ordered to be Reported by Unanimous Consent.
+- 2011-05-02 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-05-02 — Considered as unfinished business. (consideration: CR H2923-2924)
+- 2011-05-02 — Considered under suspension of the rules. (consideration: CR H2920-2922)
+- 2011-05-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1423.
+- 2011-05-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-05-02 — Mr. Lankford moved to suspend the rules and pass the bill.
+- 2011-05-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 278). (text: CR H2921)
+- 2011-05-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 278).(text: CR H2921)
