@@ -1,7 +1,7 @@
 ---
 measure: S. 680
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 680
@@ -16,7 +16,7 @@ National Women's History Museum Act of 2011
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (18)
+## Cosponsors (21)
 
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. Boxer, Barbara [D-CA] (B000711)
@@ -36,6 +36,9 @@ National Women's History Museum Act of 2011
 - Sen. Begich, Mark [D-AK] (B001265)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
@@ -46,3 +49,7 @@ National Women's History Museum Act of 2011
 - 2011-03-30 — Introduced in Senate
 - 2011-03-30 — Read twice and referred to the Committee on Environment and Public Works.
 - 2011-03-30 — Sponsor introductory remarks on measure. (CR S1990-1991)
+- 2011-04-14 — Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.
+- 2011-05-02 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 112-14.
+- 2011-05-02 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 112-14.
+- 2011-05-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 37.

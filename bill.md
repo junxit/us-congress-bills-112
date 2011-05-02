@@ -34,11 +34,16 @@ In this Act, the following definitions apply:
   - **(2)** *Selection of appraiser* The appraisal shall be performed by an appraiser mutually acceptable to the Administrator and the Museum.
   - **(3)** *Terms and conditions for appraisal*
     - **(A)** *In general* Except as provided by subparagraph (B), the assumptions, scope of work, and other terms and conditions related to the appraisal assignment shall be mutually acceptable to the Administrator and the Museum.
-    - **(B)** *Required terms* The appraisal shall assume that the Property does not contain hazardous substances (as defined in section 101 of CERCLA (42 U.S.C. 9601)) which require response action (as defined in such section).
+    - **(B)** *Required terms* The appraisal shall assume that the Property does not contain hazardous substances (as defined in section 101 of CERCLA (42 U.S.C. 9601)) which require response action (as defined in such section).or any other hazardous waste or pollutant that requires a response action or corrective action under any applicable environmental law.
 - **(c)** *Application of proceeds* The purchase price shall be paid into the Federal Buildings Fund established under section 592 of title 40, United States Code. Upon deposit, the Administrator may expend, in amounts specified in authorizations and appropriations Acts, the proceeds from the conveyance for any lawful purpose consistent with existing authorities granted to the Administrator.
 - **(d)** *Quit claim deed* The Property shall be conveyed pursuant to a quit claim deed.
 - **(e)** *Use restriction* The Property shall be dedicated for use as a site for a national women’s history museum for the 99-year period beginning on the date of conveyance to the Museum.
 - **(f)** *Funding restriction* No Federal funds shall be made available to the Museum for the purchase of the Property or the design and construction of any facility on the Property.
+- **(f)** *Funding Restriction* No Federal funds shall be made available—
+  - **(1)** to the Museum for—
+    - **(A)** the purchase of the Property; or
+    - **(B)** the design and construction of any facility on the Property; or
+  - **(2)** by the Museum or any affiliate of the Museum as a credit pursuant to section 4(b).
 - **(g)** *Reversion*
   - **(1)** *Bases for reversion* The Property shall revert to the United States, at the option of the United States, without any obligation for repayment by the United States of any amount of the purchase price for the property, if—
     - **(A)** the Property is not used as a site for a national women’s history museum at any time during the 99-year period referred to in subsection (e); or
@@ -49,8 +54,10 @@ In this Act, the following definitions apply:
 
 ## § 4. Environmental matters
 
-- **(a)** *Authorization To contract for environmental response actions* The Administrator is authorized to contract with the Museum or an affiliate thereof for the performance (on behalf of the Administrator) of response actions on the Property.
-- **(b)** *Crediting of response costs* Any costs incurred by the Museum or an affiliate thereof pursuant to subsection (a) shall be credited to the purchase price for the Property.
+- **(a)** *Authorization To contract for environmental response actions* The Administrator is authorized to contract with the Museum or an affiliate thereofIn fulfilling the responsibility of the Administrator to address contamination on the Property, the Administrator may contract with the Museum or an affiliate of the Museum for the performance (on behalf of the Administrator) of response actions on the Property.
+- **(b)** *Crediting of response costs* Any costs
+  - **(1)** *In general* Any costs incurred by the Museum or an affiliate thereofof the Museum using non-Federal funds pursuant to subsection (a) shall be credited to the purchase price for the Property.
+  - **(2)** *Limitation* A credit under paragraph (1) shall not exceed the purchase price of the Property.
 - **(c)** *No effect on compliance With environmental laws* Nothing in this Act, or any amendment made by this Act, affects or limits the application of or obligation to comply with any environmental law, including section 120(h) of CERCLA (42 U.S.C. 9620(h)).
 
 ## § 5. Incidental costs
