@@ -1,7 +1,7 @@
 ---
 measure: H.R. 362
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 362
@@ -60,3 +60,9 @@ To redesignate the Federal building and United States Courthouse located at 200 
 - 2011-03-29 — Placed on the House Calendar, Calendar No. 20.
 - 2011-03-29 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-42.
 - 2011-03-29 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-42.
+- 2011-05-02 — Considered under suspension of the rules. (consideration: CR H2922-2923)
+- 2011-05-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 362.
+- 2011-05-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-05-02 — Mr. Hultgren moved to suspend the rules and pass the bill.
+- 2011-05-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2922)
+- 2011-05-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2922)
