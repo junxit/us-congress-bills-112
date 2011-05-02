@@ -292,3 +292,11 @@ Section 704 of the Public Works and Economic Development Act of 1965 (42 U.S.C. 
 >   - **(4)** if the total amount made available under section 701(a) for the fiscal year is equal to or greater than $350,000,000, an amount equal to the greater of—
 >     - **(A)** $35,000,000; and
 >     - **(B)** 10 percent of the total amount made available under section 701(a) for the fiscal year.
+
+## § 21. Report on duplicative programs
+
+Not later than 90 days after the date of enactment of this Act, the Government Accountability Office shall submit to the Committee on Environment and Public Works of the Senate a report that describes a list of the specific programs and portions of specific programs of other Federal agencies that are duplicative of programs or portions of programs administered by the Economic Development Administration, including the programs or portions of programs carried out by—
+
+- **(1)** the Department of Housing and Urban Development;
+- **(2)** the Department of Agriculture; and
+- **(3)** the Small Business Administration.
