@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 34
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.Con.Res. 34
@@ -16,9 +16,10 @@ Establishing the budget for the United States Government for fiscal year 2012 an
 
 - Rep. Ryan, Paul [R-WI-1] (R000570)
 
-## Committees (1)
+## Committees (2)
 
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (5)
 
@@ -94,3 +95,7 @@ Establishing the budget for the United States Government for fiscal year 2012 an
 - 2011-04-15 — The previous question was ordered pursuant to the rule. (consideration: CR H2901)
 - 2011-04-15 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2011-04-15 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have words taken down. Mr. Brooks asked unanimous consent to withdraw the words. Without objection the words were withdrawn. The Committee of the Whole resumed with debate on the Grijalva substitute amendment.
+- 2011-05-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.
+- 2011-05-02 — Received in the Senate and referred to the Committee on the Budget.
+- 2011-05-02 — Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.
+- 2011-05-02 — Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.
