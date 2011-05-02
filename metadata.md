@@ -1,0 +1,37 @@
+---
+measure: S.Res. 158
+congress: 112
+version: Introduced in Senate
+---
+
+# S.Res. 158
+
+A resolution congratulating the students, parents, teachers, and administrators of charter schools across the United States for ongoing contributions to education, and supporting the ideals and goals of the 12th annual National Charter Schools Week.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+
+## Cosponsors (8)
+
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Vitter, David [R-LA] (V000127)
+
+## Committees (1)
+
+- Senate — Health, Education, Labor, and Pensions Committee
+
+## Actions
+
+- 2011-05-02 — Introduced in Senate
+- 2011-05-02 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2583-2584)
