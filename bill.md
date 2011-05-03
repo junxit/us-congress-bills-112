@@ -1,0 +1,53 @@
+---
+legis-num: S. 869
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 869
+
+> To provide for an exchange of land between the Department of Homeland Security and the South Carolina State Ports Authority.
+
+## § 1. Short title
+
+This Act may be cited as the “Former Charleston Naval Base Land Exchange Act of 2011”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Federal land* The term Federal land means the parcels consisting of approximately 10.499 acres of land (including improvements) that are owned by the United States, located on the former U.S. Naval Base Complex in North Charleston, South Carolina, and described on the map entitled “Charleston County Assessors Map” as Tax Map Number 400-00-00-004, with the deed recorded in the Charleston County RMC Office on Book X23, at page 245.
+- **(2)** *Non-Federal land* The term non-Federal land means the 3 parcels of land (including improvements) to be conveyed to the United States under this Act.
+- **(3)** *Secretary* The term Secretary means the Secretary of Homeland Security.
+- **(4)** *State Ports Authority* The term State Ports Authority means the South Carolina State Ports Authority, an agency of the State of South Carolina.
+
+## § 3. Land exchange
+
+In exchange for the conveyance to the Secretary of the non-Federal land owned by the State Ports Authority, the Secretary is authorized to convey to the State Ports Authority, by quitclaim deed, all right, title, and interest of the United States in and to the Federal land.
+
+- **(a)** *Land exchange required* If the State Ports Authority offers to convey to the Secretary all right, title, and interest of the State Ports Authority in and to the non-Federal parcels identified in subsection (b)—
+  - **(1)** the Secretary shall accept the offer; and
+  - **(2)** the Secretary shall simultaneously convey to the State Ports Authority all right, title, and interest of the United States in and to approximately 10.499 acres of Federal land.
+- **(b)** *Non-Federal land described* The non-Federal land (including improvements) to be conveyed under this section consists of—
+  - **(1)** the approximately 18.736 acres of land that is owned by the State Ports Authority, located on S. Hobson Avenue, and depicted on the map entitled “Charleston Country Assessors Map” as Tax Map Number 400-00-00-051, with the deed recorded in the Charleston County RMC Office in Book EL, at page 280;
+  - **(2)** the approximately 4.069 acres of land that is owned by the State Ports Authority, located on Juneau Avenue and the Cooper River, and depicted on the map entitled “Charleston County Assessors Map” as a Tax Map Number 400-00-00-004, with the deed recorded in the Charleston County RMC Office in Book L09, at page 0391; and
+  - **(3)** the approximately 2.568 acres of land that is owned by the State Ports Authority, located on Partridge Avenue, and depicted on the map entitled “Charleston County Assessors Map” as Tax Map Number 400-00-00-004, with the deed recorded in the Charleston County RMC Office in Book L09, at page 0391.
+- **(c)** *Land title* Title to the non-Federal land conveyed to the Secretary under this section shall—
+  - **(1)** be acceptable to the Secretary; and
+  - **(2)** conform to the title approval standards of the Attorney General of the United States applicable to land acquisitions by the Federal Government.
+
+## § 4. Exchange terms and conditions
+
+- **(a)** *In general* The conveyance of Federal land under section 3 shall be subject to—
+  - **(1)** any valid existing rights; and
+  - **(2)** any additional terms and conditions that the Secretary determines to be appropriate to protect the interests of the United States.
+- **(b)** *Costs* The costs of carrying out the exchange of land under section 3 shall be shared equally by the Secretary and the State Ports Authority.
+- **(c)** *Equal value exchange* Notwithstanding the appraised value of the land exchanged under section 3, the values of the Federal and non-Federal land in the land exchange under section 3 shall be considered to be equal.
+
+## § 5. Boundary adjustment
+
+On acceptance of title to the non-Federal land by the Secretary—
+
+- **(1)** the non-Federal land shall be added to and administered as part of the Federal Law Enforcement Training Center; and
+- **(2)** the boundaries of the Federal Law Enforcement Training Center shall be adjusted to exclude the exchanged Federal land.
