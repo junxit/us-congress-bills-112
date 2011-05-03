@@ -1,7 +1,7 @@
 ---
 measure: H.R. 754
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 754
@@ -25,3 +25,8 @@ Intelligence Authorization Act for Fiscal Year 2011
 - 2011-02-17 — Introduced in House
 - 2011-02-17 — Introduced in House
 - 2011-02-17 — Referred to the House Committee on Intelligence (Permanent Select).
+- 2011-03-10 — Committee Consideration and Mark-up Session Held.
+- 2011-03-10 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 7 - 6.
+- 2011-05-03 — Placed on the Union Calendar, Calendar No. 38.
+- 2011-05-03 — Reported (Amended) by the Committee on Intelligence. H. Rept. 112-72.
+- 2011-05-03 — Reported (Amended) by the Committee on Intelligence. H. Rept. 112-72.
