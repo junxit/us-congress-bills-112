@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 236
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 236
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 1213) to repeal mandatory funding 
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2011-05-03 — [House 112-1-279](votes/house-112-1-0279.md) — On Ordering the Previous Question — **Passed** (234–185)
+- 2011-05-03 — [House 112-1-280](votes/house-112-1-0280.md) — On Agreeing to the Resolution — **Passed** (237–185)
+
 ## Actions
 
 - 2011-05-02 — All points of order against provisions in the bills are waived. In the case of H.R. 1214, the resolution makes in order only those amendments that are received for printing in the portion of the Congressional Record designated for that purpose in clause 8 of rule XVIII in a daily issue dated May 2, 2011, and pro forma amendments for the purpose of debate. In the case of H.R. 1214, the resolution makes in order only those amendments that are received for printing in the portion of the Congressional Record designated for that purpose in clause 8 of rule XVIII in a daily issue dated May 2, 2011, and pro forma amendments for the purpose of debate.
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 1213) to repeal mandatory funding 
 - 2011-05-02 — Placed on the House Calendar, Calendar No. 32.
 - 2011-05-02 — The House Committee on Rules reported an original measure, H. Rept. 112-70, by Mr. Reed.
 - 2011-05-02 — The House Committee on Rules reported an original measure, H. Rept. 112-70, by Mr. Reed.
+- 2011-05-03 — Considered as privileged matter. (consideration: CR H2943-2952)
+- 2011-05-03 — DEBATE - The House proceeded with one hour of debate on H. Res. 236.
+- 2011-05-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-05-03 — On agreeing to the resolution Agreed to by recorded vote: 237 - 185 (Roll no. 280). (text: CR H2943)
+- 2011-05-03 — On ordering the previous question Agreed to by the Yeas and Nays: 234 - 185 (Roll no. 279). (consideration: CR H2951-2952)
+- 2011-05-03 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 237 - 185 (Roll no. 280).(text: CR H2943)
