@@ -1,7 +1,7 @@
 ---
 measure: H.R. 362
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 362
@@ -44,9 +44,10 @@ To redesignate the Federal building and United States Courthouse located at 200 
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Hensarling, Jeb [R-TX-5] (H001036)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ To redesignate the Federal building and United States Courthouse located at 200 
 - 2011-05-02 — Mr. Hultgren moved to suspend the rules and pass the bill.
 - 2011-05-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2922)
 - 2011-05-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2922)
+- 2011-05-03 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
