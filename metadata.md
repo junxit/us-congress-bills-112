@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3
@@ -252,6 +252,11 @@ No Taxpayer Funding for Abortion Act
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
 
+## Recorded votes (2)
+
+- 2011-05-04 — [House 112-1-291](votes/house-112-1-0291.md) — On Motion to Recommit with Instructions — **Failed** (192–235)
+- 2011-05-04 — [House 112-1-292](votes/house-112-1-0292.md) — On Passage — **Passed** (251–175)
+
 ## Actions
 
 - 2011-01-20 — Introduced in House
@@ -275,3 +280,20 @@ No Taxpayer Funding for Abortion Act
 - 2011-04-07 — Committee on Ways and Means discharged.
 - 2011-04-07 — Committee on Ways and Means discharged.
 - 2011-04-07 — Placed on the Union Calendar, Calendar No. 28.
+- 2011-05-02 — Rules Committee Resolution H. Res. 237 Reported to House. Rule provides for consideration of H.R. 3 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute printed in the report of the Committee on Rules 112-71 shall be considered as adopted. All points of order against provisions in the bill, as amended, are waived.
+- 2011-05-04 — CONTINUATION OF PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair announced that proceedings would now resume on H.R. 3 which had been considered earlier in the day.
+- 2011-05-04 — Considered as unfinished business. (consideration: CR H3041-3043)
+- 2011-05-04 — Considered under the provisions of rule H. Res. 237. (consideration: CR H3023-3037; text of amendment in the nature of a substitute: CR H3023-3024)
+- 2011-05-04 — DEBATE - The House proceeded with one hour of debate on H.R. 3.
+- 2011-05-04 — Floor summary: DEBATE - The House proceeded with ten minutes of debate on the Speier motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment adding a new section providing that nothing in the bill would permit the Federal Government to gain access to the private medical records of the victims of rape and incest.
+- 2011-05-04 — House amendment offered
+- 2011-05-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-05-04 — Ms. Speier moved to recommit with instructions to Judiciary. (consideration: CR H3041-3043; text: CR H3041)
+- 2011-05-04 — On motion to recommit with instructions Failed by recorded vote: 192 - 235 (Roll no. 291).
+- 2011-05-04 — On passage Passed by recorded vote: 251 - 175 (Roll no. 292).
+- 2011-05-04 — POSTPONED PROCEEDINGS - The Chair announced that pursuant to clause 1(c) of rule XIX, further proceedings on H.R. 3 would be postponed until a time to be announced.
+- 2011-05-04 — Passed/agreed to in House: On passage Passed by recorded vote: 251 - 175 (Roll no. 292).
+- 2011-05-04 — Rule H. Res. 237 passed House.
+- 2011-05-04 — Rule provides for consideration of H.R. 3 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute printed in the report of the Committee on Rules 112-71 shall be considered as adopted. All points of order against provisions in the bill, as amended, are waived.
+- 2011-05-04 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3042)
+- 2011-05-04 — The previous question was ordered pursuant to the rule. (consideration: CR H3037)
