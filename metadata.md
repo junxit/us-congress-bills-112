@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1213
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1213
@@ -103,3 +103,5 @@ To repeal mandatory funding provided to States in the Patient Protection and Aff
 - 2011-05-03 — The Speaker designated the Honorable Steven C. LaTourette to act as Chairman of the Committee.
 - 2011-05-03 — The previous question was ordered pursuant to the rule. (consideration: CR H2980)
 - 2011-05-03 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which had been debated earlier and on which further proceedings were postponed.
+- 2011-05-04 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-05-05 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 39.
