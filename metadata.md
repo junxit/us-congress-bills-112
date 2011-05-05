@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 158
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 158
@@ -35,3 +35,13 @@ A resolution congratulating the students, parents, teachers, and administrators 
 
 - 2011-05-02 — Introduced in Senate
 - 2011-05-02 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2583-2584)
+- 2011-05-05 — Amendment SA 318 agreed to in Senate by Unanimous Consent.
+- 2011-05-05 — Amendment SA 318 proposed by Senator Reid for Senator Paul. (consideration: CR S2751; text: CR S2751) To amend the preamble.
+- 2011-05-05 — Measure laid before Senate by unanimous consent. (consideration: CR S2749-2752)
+- 2011-05-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(text: CR S2752)
+- 2011-05-05 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S2752)
+- 2011-05-05 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2011-05-05 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2011-05-05 — Senate amendment agreed to: Amendment SA 318 agreed to in Senate by Unanimous Consent.
+- 2011-05-05 — Senate amendment proposed (on the floor): Amendment SA 318 proposed by Senator Reid for Senator Paul.(consideration: CR S2751; text: CR S2751)
+- 2011-05-05 — Senate amendment submitted
