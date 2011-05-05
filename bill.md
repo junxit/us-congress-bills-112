@@ -1,0 +1,31 @@
+---
+legis-num: S. 909
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 909
+
+> To amend title 49, United States Code, to permit certain revenues of private providers of public transportation by vanpool received from providing public transportation to be used for the purpose of acquiring rolling stock, and to permit certain expenditures of private vanpool contractors to be credited toward the local matching share of the costs of public transportation projects, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Private Investment in Commuter Vanpooling Act of 2011”.
+
+## § 2. Government’s share of costs for public transportation projects
+
+Section 5323 of title 49, United States Code, is amended by adding at the end the following:
+
+> - **(q)** *Costs incurred by private providers of public transportation by vanpool*
+>   - **(1)** *Definitions* In this subsection, the following definitions shall apply:
+>     - **(A)** *Private provider of public transportation by vanpool* The term private provider of public transportation by vanpool means a private entity that—
+>       - **(i)** provides vanpool services in the service area of a recipient of assistance under this chapter using a commuter highway vehicle or vanpool vehicle; and
+>       - **(ii)** has entered into a service agreement with a recipient of assistance under this chapter.
+>     - **(B)** *Commuter highway vehicle or vanpool vehicle* The term commuter highway vehicle or vanpool vehicle means any vehicle—
+>       - **(i)** the seating capacity of which is not fewer than 6 adults (not including the driver); and
+>       - **(ii)** not less than 80 percent of the mileage use of which is reasonably expected to be for the purpose of transporting commuters in connection with travel between their residences and their place of employment.
+>   - **(2)** *Local matching share* The non-Federal share of the cost of a capital project under this chapter may include an amount equal to—
+>     - **(A)** any amount expended by a private provider of public transportation by vanpool for the acquisition of rolling stock to be used by the private provider of public transportation by vanpool in the service area of the recipient; less
+>     - **(B)** any amount the private provider of public transportation by vanpool has received from the Federal Government or a State or local government for the acquisition of the rolling stock.
+>   - **(3)** *Use of revenues* A private provider of public transportation by vanpool may use revenues received from providing public transportation service in the service area of a recipient of assistance under this chapter that are in excess of the operating costs of the private provider of public transportation by vanpool for the purpose of acquiring rolling stock, if the private provider of public transportation by vanpool enters into a legally binding agreement with the recipient that requires the private provider of public transportation by vanpool to use the rolling stock in the service area of the recipient.
