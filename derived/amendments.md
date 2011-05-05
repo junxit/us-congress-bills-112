@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1214
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | repeal | Subsection (a) of section 4101 of the Patient Protection and Affordable Care Act (42 U.S.C. 280h–4) is repealed. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 280h-4` | repeal | Subsection (a) of section 4101 of the Patient Protection and Affordable Care Act (42 U.S.C. 280h–4) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

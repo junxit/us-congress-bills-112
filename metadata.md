@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1214
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1214
@@ -23,10 +23,11 @@ To repeal mandatory funding for school-based health center construction.
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (4)
 
@@ -92,3 +93,4 @@ To repeal mandatory funding for school-based health center construction.
 - 2011-05-04 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3040)
 - 2011-05-04 — The previous question was ordered pursuant to the rule. (consideration: CR H3038)
 - 2011-05-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-05-05 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
