@@ -30,5 +30,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
 That the Senate—
 
 - **(1)** recognizes the 25th anniversary of the Chernobyl nuclear disaster and the courage of the Ukrainian people in persevering to address the consequences of the disaster;
-- **(2)** commends efforts to mitigate the consequences of the Chernobyl nuclear disaster, including the assistance that the United States and the international community have given to the Chernobyl Shelter Fund and the Interim Spent Fuel Storage Facility; and
+- **(2)** commends efforts to mitigate the consequences of the Chernobyl nuclear disaster; and
 - **(3)** requests that the Secretary of the Senate transmit an enrolled copy of this resolution to the Ambassador of Ukraine to the United States.
