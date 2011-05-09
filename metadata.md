@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3
@@ -297,3 +297,5 @@ No Taxpayer Funding for Abortion Act
 - 2011-05-04 — Rule provides for consideration of H.R. 3 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute printed in the report of the Committee on Rules 112-71 shall be considered as adopted. All points of order against provisions in the bill, as amended, are waived.
 - 2011-05-04 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3042)
 - 2011-05-04 — The previous question was ordered pursuant to the rule. (consideration: CR H3037)
+- 2011-05-05 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-05-09 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 40.
