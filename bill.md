@@ -18,3 +18,7 @@ This Act may be cited as the “Independent Task and Delivery Order Review Exten
 Section 4106(f)(3) of title 41, United States Code, is amended to read as follows:
 
 > - **(3)** *Effective period* Paragraph 1(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016.
+
+## § 3. Use of existing resources to process task and delivery order protests
+
+No amounts are authorized to be appropriated for the specific purpose of processing protests authorized under section 4106(f) of title 41, United States Code, as amended by section 2, and all such protests shall be processed using the existing resources of the Government Accountability Office and executive agencies.
