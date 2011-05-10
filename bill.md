@@ -1,0 +1,599 @@
+---
+legis-num: S. 929
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 929
+
+> To establish a comprehensive literacy program.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Literacy Education for All, Results for the Nation Act” or the “LEARN Act”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Findings
+
+Congress finds that in order for a comprehensive, effective literacy program to address the needs of readers and writers it is critical to address the following:
+
+- **(1)** Literacy development is an ongoing process that requires a sustained investment beginning in early childhood and continuing through elementary school and secondary school.
+- **(2)** Developing literacy skills begins at birth as infants and toddlers associate sounds, gestures, and marks on paper with consequences and meaning. Many low-income children from birth through kindergarten entry lack oral and print language-rich environments in their homes and early childhood education programs and teachers and staff in early childhood education programs are often not provided with high-quality professional development on how to support children’s language and literacy development.
+- **(3)** Early childhood educators whose professional preparation and ongoing development includes study of language learning and early childhood development promote early language and literacy as part of the overall curriculum for children’s readiness for school, particularly for young English language learners and children with disabilities or developmental delays.
+- **(4)** Research shows that writing leads to improved reading achievement, reading leads to better writing performance, and combined instruction leads to improvements in both areas. Children in kindergarten through grade 12 need to be engaged in combined reading and writing experiences that lead to a higher level of thinking than when either process is taught alone.
+- **(5)** Environments rich in language and literacy experiences, books, resources, and models facilitate reading and writing development. Schools, principals, librarians, and teachers must have the knowledge, skills, and tools to create environments appropriate to meet the diverse literacy needs of children from birth through grade 12, especially for children whose home environments lack support for literacy development.
+- **(6)** Middle school and secondary school teachers need professional development to improve the reading and writing abilities of students who are reading and writing several years below grade level. Middle school and secondary school teachers in core academic subjects must have the tools and skills to teach reading and writing for subject area understanding and to differentiate and provide instruction for students with varying literacy skills.
+- **(7)** The intellectual and linguistic skills necessary for writing and reading must be developed through explicit, intentional, and systematic language activities, to which many low-income and minority students do not currently have access.
+- **(8)** Between 1971 and 2004, the reading levels of America's 17-year-olds showed little to no improvement at all. The ability of secondary school students to read complex texts is strongly predictive of their performance in college mathematics and science courses.
+- **(9)** Fewer than 2 in 10 eighth graders from the secondary school graduating classes of 2005 and 2006 met all 4 EXPLORE College Readiness Benchmarks (English, Mathematics, Reading, and Science), the minimum level of achievement that ACT has shown is necessary if students are to be college and career ready upon their secondary school graduation.
+- **(10)** Seventy percent of eighth graders read below the proficient level on the 2007 National Assessment of Educational Progress, indicating that students in middle schools and secondary schools struggle to graduate because the students' literacy achievement is alarmingly low. Only one-third of secondary school students who enter grade 9 each year can expect to graduate in 4 years with the skills the student needs to succeed in college and the workplace.
+- **(11)** Secondary school graduation rates for low-income students and students of color hover around 50 percent, as do graduation rates for students in urban school districts and students with disabilities. Graduation rates for English language learners are particularly low.
+- **(12)** Only 71 percent of secondary school students graduate on time with a diploma, meaning that every year 1,230,000 students fail to graduate from secondary school. These 1,230,000 nongraduates cost the Nation more than $319,000,000,000 in lost wages, taxes, and productivity over the lifetimes of the nongraduates.
+- **(13)** About 40 percent of secondary school graduates lack the literacy skills employers seek. The 25 fastest growing professions have far greater than average literacy demands, while the fastest declining professions have lower than average literacy demands.
+- **(14)** Research shows that low expectations for the reading and writing achievement of students in schools results in curriculum that does not challenge or adequately support the student’s literacy learning and in subsequent low achievement, while high academic expectations can help boost student learning and achievement.
+- **(15)** Children learn best in settings where teachers understand the developmental continuum of language, reading, and writing and are skilled in a variety of strategies that help the children achieve.
+- **(16)** Meaningful engagement of families in their children’s early learning supports school readiness and later academic success.
+- **(17)** Parental literacy habits are positively associated with parental reading beliefs, parent-child literacy and language activities in the home, children’s print knowledge, and parents' and children's interest in reading and writing.
+
+## § 3. Purposes
+
+The purposes of this Act are—
+
+- **(1)** to improve reading, writing, and academic achievement for children and students by providing Federal support to State educational agencies to develop, coordinate, and implement comprehensive literacy plans that ensure high quality instruction and effective practices in reading and writing from early childhood education through grade 12; and
+- **(2)** to assist State educational agencies in achieving the purposes described in paragraph (1) by—
+  - **(A)** supporting the development and implementation of comprehensive early childhood education through grade 12 literacy programs in every State that are based on scientifically valid research, to ensure that every child can read and write at grade level or above;
+  - **(B)** providing children from birth through kindergarten entry with learning opportunities in high quality, language rich, literature rich, informational text rich, culturally relevant, developmentally appropriate environments, such as child care, Early Head Start, Head Start, public library programs, and other early childhood education settings, so that the children develop the fundamental knowledge and skills necessary for literacy engagement, development, and achievement in kindergarten and beyond;
+  - **(C)** educating parents in the ways the parents can support their child’s communication and literacy development;
+  - **(D)** supporting efforts to link and align standards and research-based teaching practices and instruction in early childhood education programs serving children from birth through kindergarten entry;
+  - **(E)** supporting high-quality and effective educational, and developmental, environments for children from birth through grade 12 to develop oral language, reading comprehension, and writing abilities through high quality research-based instruction and practices;
+  - **(F)** improving student achievement by establishing adolescent literacy initiatives that provide explicit and systematic instruction in oral language, reading, and writing development across the curriculum;
+  - **(G)** identifying and supporting students reading and writing significantly below grade level by providing research-based, intensive interventions, including those conducted during extended learning time, to help the students acquire the language and literacy skills the students need to stay on track for graduation;
+  - **(H)** providing assistance to local educational agencies in order to provide educators with ongoing, job-embedded professional development and other support focusing on imparting and employing—
+    - **(i)** the characteristics of effective language and literacy instruction;
+    - **(ii)** the special knowledge and skills necessary to teach and support literacy development effectively across the developmental span and age span;
+    - **(iii)** the essential components of reading instruction; and
+    - **(iv)** the essential components of writing instruction;
+  - **(I)** supporting State educational agencies and local educational agencies in improving reading, writing, and literacy-based academic achievement for children and students, especially children and students who are low-income, are English language learners, are migratory, are children with disabilities, are Indian or Alaskan Native, are neglected or delinquent, are homeless, are in the custody of the child welfare system, or have dropped out of school;
+  - **(J)** supporting State educational agencies and local educational agencies in using age appropriate and developmentally appropriate instructional materials and strategies that assist teachers as the teachers work with students to develop reading and writing competencies appropriate to the students' grade and skill levels;
+  - **(K)** strengthening coordination among schools, early literacy programs, family literacy programs, juvenile justice programs, public libraries, and outside-of-school programs that provide children and youth with strategies, curricula, interventions, and assessments designed to advance early and continuing language and literacy development in ways appropriate for each context;
+  - **(L)** supporting professional development for educators based on scientific approaches to adult learning; and
+  - **(M)** evaluating whether the professional development activities and approaches supported under this Act are effective in building—
+    - **(i)** the knowledge and skills of educators; and
+    - **(ii)** the educators' use of appropriate and effective practices.
+
+## § 4. Definitions
+
+- **(a)** *In general* Unless otherwise specified, the terms used in this Act have the meanings given the terms in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+- **(b)** *Other terms* In this Act:
+  - **(1)** *Characteristics of effective literacy strategies and instruction* The term characteristics of effective literacy strategies and instruction means—
+    - **(A)** for children from birth through kindergarten entry—
+      - **(i)** providing high quality professional development opportunities for early childhood educators, teachers, and school leaders in—
+        - **(I)** literacy development;
+        - **(II)** language development;
+        - **(III)** English language acquisition (as appropriate); and
+        - **(IV)** effective language and literacy instruction and teaching strategies aligned to State standards;
+      - **(ii)** reading aloud to children, engaging children in shared reading experiences, discussing reading with children, and modeling age and developmentally appropriate reading strategies;
+      - **(iii)** encouraging children’s early attempts at communication, reading, writing, and drawing, and talking about the meaning of the reading, writing, and drawing with others;
+      - **(iv)** creating conversation rich classrooms and using oral modeling techniques to build oral language skills;
+      - **(v)** multiplying opportunities for children to use language with peers and adults;
+      - **(vi)** providing strategic and explicit instruction in the identification of speech sounds, letters, and letter-sound correspondence;
+      - **(vii)** integrating oral and written language;
+      - **(viii)** stimulating vocabulary development;
+      - **(ix)** using differentiated instructional approaches or teaching strategies, including—
+        - **(I)** individual and small group instruction or interactions; and
+        - **(II)** professional development, curriculum development, and classroom instruction;
+      - **(x)** applying the principles of universal design for learning;
+      - **(xi)** using age-appropriate screening assessments, diagnostic assessments, formative assessments, and summative assessments to identify individual learning needs, to inform instruction, and to monitor—
+        - **(I)** student progress and the effects of instruction over time; and
+        - **(II)** for children between the ages of birth and kindergarten entry, progress and development within established norms;
+      - **(xii)** coordinating the involvement of families, early childhood education program staff, principals, other school leaders, and teachers in the reading and writing achievement of children served under this Act;
+      - **(xiii)** using a variety of age and developmentally appropriate, high quality materials for language development, reading, and writing;
+      - **(xiv)** encouraging family literacy experiences and practices, and educating teachers, public librarians, and parents and other caregivers about literacy development and child literacy development; and
+      - **(xv)** using strategies to enhance children's—
+        - **(I)** motivation to communicate, read, and write; and
+        - **(II)** engagement in self-directed learning;
+    - **(B)** for students in kindergarten through grade 3—
+      - **(i)** providing high quality professional development opportunities, for teachers, literacy coaches, literacy specialists, English as a second language specialists (as appropriate), school librarians, and principals, on literacy development, language development, English language acquisition, and effective literacy instruction that—
+        - **(I)** aligns to State standards as well as local curricula and instructional assessments; and
+        - **(II)** addresses literacy development opportunities across the curricula;
+      - **(ii)** providing age appropriate direct and explicit instruction;
+      - **(iii)** providing strategic, systematic, and explicit instruction in phonological awareness, phonic decoding, vocabulary, reading fluency, and reading comprehension;
+      - **(iv)** making available and using diverse texts at the reading, development, and interest level of students;
+      - **(v)** providing multiple opportunities for students to write individually and collaboratively with instruction and feedback;
+      - **(vi)** using differentiated instructional approaches, including individual, small group, and classroom-based instruction and discussion;
+      - **(vii)** using oral modeling techniques and opportunities for students to use language with the students' peers and adults to build student language skills;
+      - **(viii)** providing time and opportunities for systematic and intensive instruction, intervention, and practice to supplement regular instruction, which can be provided inside and outside the classroom as well as during and outside regular school hours;
+      - **(ix)** providing instruction in uses of print materials and technological resources for research and for generating and presenting content and ideas;
+      - **(x)** using screening assessments, diagnostic assessments, formative assessments, and summative assessments to identify student learning needs, to inform instruction, and to monitor student progress and the effects of instruction over time;
+      - **(xi)** coordinating the involvement of families, caregivers, teachers, principals, other school leaders, and teacher literacy teams in the reading and writing achievement of children served under this Act;
+      - **(xii)** encouraging family literacy experiences and practices; and
+      - **(xiii)** using strategies to enhance students'—
+        - **(I)** motivation to read and write; and
+        - **(II)** engagement in self-directed learning; and
+    - **(C)** for students in grades 4 through 12—
+      - **(i)** providing high quality professional development opportunities for teachers, literacy coaches, literacy specialists, English as a second language specialists (as appropriate), school librarians, and principals, including professional development on literacy development, language development, and effective literacy instruction embedded in schools and aligned to State standards;
+      - **(ii)** providing direct and explicit comprehension instruction;
+      - **(iii)** providing direct and explicit instruction that builds academic vocabulary and strategies and knowledge of text structure for reading different kinds of texts within and across core academic subjects;
+      - **(iv)** making available and using diverse texts at the reading, development, and interest level of the students;
+      - **(v)** providing multiple opportunities for students to write with clear purposes and critical reasoning appropriate to the topic and purpose and with specific instruction and feedback from teachers and peers;
+      - **(vi)** using differentiated instructional approaches;
+      - **(vii)** using strategies to enhance students’—
+        - **(I)** motivation to read and write; and
+        - **(II)** engagement in self-directed learning;
+      - **(viii)** providing for text-based learning across content areas;
+      - **(ix)** providing systematic, strategic, and individual and small group instruction, including intensive supplemental intervention for students reading significantly below grade level, which may be provided inside and outside the classroom as well as during and outside regular school hours;
+      - **(x)** providing instruction in the uses of technology and multimedia resources for classroom research and for generating and presenting content and ideas;
+      - **(xi)** using screening assessments, diagnostic assessments, formative assessments, and summative assessments to identify learning needs, inform instruction, and monitor student progress and the effects of instruction;
+      - **(xii)** coordinating the involvement of families and caregivers, to the extent feasible and appropriate as determined by the Secretary, to improve reading, writing, and academic achievement; and
+      - **(xiii)** coordinating the involvement of school librarians, teachers, principals, other school leaders, teacher literacy teams, and English as a second language specialists (as appropriate), that analyze student work and plan or deliver instruction over time.
+  - **(2)** *Child* The term child means an individual from the ages of birth through the final year for which the State provides free public education.
+  - **(3)** *Classroom-based instructional assessment* The term classroom-based instructional assessment means an assessment, for children between birth through grade 3, that—
+    - **(A)** is valid and reliable for the age and population of children being assessed;
+    - **(B)** is used to evaluate children’s developmental progress and learning, including systematic observations by teachers of children performing tasks, including academic and literacy tasks, that are part of their daily classroom experience; and
+    - **(C)** is used to improve classroom instruction.
+  - **(4)** *Comprehensive literacy instruction* The term comprehensive literacy instruction means instruction that—
+    - **(A)** involves the characteristics of effective literacy instruction; and
+    - **(B)** is designed to support the essential components of reading instruction and the essential components of writing instruction.
+  - **(5)** *Developmental delay* The term developmental delay has the meaning given the term in section 632 of the Individuals with Disabilities Education Act (20 U.S.C. 1432).
+  - **(6)** *Diagnostic assessment* The term diagnostic assessment means an assessment that—
+    - **(A)** is valid, reliable, and based on scientifically valid research on language, literacy, and English language acquisition;
+    - **(B)** is used for the purposes of—
+      - **(i)** identifying a student’s specific areas of strengths and weaknesses in oral language and literacy;
+      - **(ii)** determining any difficulties that the student may have in oral language and literacy and the potential cause of such difficulties; and
+      - **(iii)** helping to determine possible literacy intervention strategies and related special needs of the student; and
+    - **(C)** in the case of young children, is conducted after a screening assessment that identifies potential risks or a lack of school preparedness, including oral language and literacy development, or delayed development.
+  - **(7)** *Eligible entity* The term eligible entity means—
+    - **(A)** when used with respect to children from birth through kindergarten entry—
+      - **(i)** 1 or more local educational agencies providing early childhood education programs, or 1 or more public or private early childhood education programs, serving children from birth through kindergarten entry (such as a Head Start program, a child care program, a State-funded prekindergarten program, a public library program, or a family literacy program), that has a demonstrated record of providing effective literacy instruction for the age group such agency or program proposes to serve under section 9; or
+      - **(ii)** 1 or more entities described in clause (i) acting in partnership with 1 or more public agencies or private nonprofit organizations that have a demonstrated record of effectiveness—
+        - **(I)** in improving the early literacy development of children from birth through kindergarten entry; and
+        - **(II)** in providing professional development aligned with the activities described in section 9(e)(1); or
+    - **(B)** when used with respect to students in kindergarten through grade 12, a local educational agency, a consortium of local educational agencies, or a local educational agency or consortium of local educational agencies that—
+      - **(i)**
+        - **(I)** is among, or consists of, the local educational agencies in the State with the highest numbers or percentages of students reading or writing below grade level, based on the most currently available State assessment data;
+        - **(II)** has jurisdiction over a significant number or percentage of schools that are identified for school improvement under section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b)); or
+        - **(III)** has the highest numbers or percentages of children who are counted under section 1124(c) of such Act (20 U.S.C. 6333(c)), in comparison to other local educational agencies in the State; and
+      - **(ii)** may act in partnership with 1 or more public agencies or private nonprofit organizations, which agencies or organizations shall have a demonstrated record of effectiveness, consistent with the purposes of their participation, in improving literacy achievement of students from kindergarten through grade 12 and in providing professional development described in section 10(a)(3)(B).
+  - **(8)** *English language acquisition*
+    - **(A)** *In general* The term English language acquisition means the process by which a non-native English speaker acquires proficiency in speaking, listening, reading, and writing the English language.
+    - **(B)** *Inclusions for English language learners in school* For an English language learner in school, such term includes not only the social language proficiency needed to participate in the school environment, but also the academic language proficiency needed to acquire literacy and academic content and demonstrate the student's learning.
+  - **(9)** *Essential components of reading instruction* The term essential components of reading instruction means developmentally appropriate, contextually explicit, systematic instruction, and frequent practice, in reading across content areas.
+  - **(10)** *Essential components of writing instruction* The term essential components of writing instruction means developmentally appropriate and contextually explicit instruction, and frequent practice, in writing across content areas.
+  - **(11)** *Family literacy services* The term family literacy services means literacy services provided on a voluntary basis that are of sufficient intensity in terms of hours and duration and that integrate all of the following activities:
+    - **(A)** Interactive literacy activities between or among parents and their children, including parent literacy training.
+    - **(B)** Training for parents regarding how to be the primary teacher for their children and full partners in the education of their children.
+  - **(12)** *Formative assessment* The term formative assessment means a process that—
+    - **(A)** is teacher-generated or selected by teachers and students during instructional learning;
+    - **(B)** is embedded within the learning activity and linked directly to the current unit of instruction; and
+    - **(C)** provides feedback to adjust ongoing teaching and learning to improve students’ achievement of intended instructional outcomes.
+  - **(13)** *High-quality professional development* The term high-quality professional development means professional development that—
+    - **(A)** is job-embedded, ongoing, and based on scientifically valid research;
+    - **(B)** is sustained, intensive, and classroom-focused, and is not limited in scope to a 1-day or short-term workshop or conference;
+    - **(C)** is designed to increase the knowledge and expertise of teachers, early childhood educators and administrators, principals, other school leaders, and other program staff in applying—
+      - **(i)** the characteristics of effective literacy instruction;
+      - **(ii)** the essential components of reading instruction;
+      - **(iii)** the essential components of writing instruction; and
+      - **(iv)** instructional strategies and practices that are appropriate to the age, development, and needs of children and improve student learning, including strategies and practices consistent with the principles of universal design for learning;
+    - **(D)** includes and supports teachers in effectively administering age appropriate and developmentally appropriate assessments, and analyzing the results of such assessments for the purposes of planning, monitoring, adapting, and improving effective classroom instruction or teaching strategies to improve student literacy;
+    - **(E)** for educators working with students in kindergarten through grade 12—
+      - **(i)** supports the characteristics of effective literacy instruction through core academic subjects, and through career and technical education subjects where such career and technical education subjects provide for the integration of core academic subjects; and
+      - **(ii)** includes explicit instruction in discipline-specific thinking and how to read and interpret discipline-specific text structures and features;
+    - **(F)** includes instructional strategies utilizing one-to-one, small group, and classroom-based instructional materials and approaches based on scientifically valid research on literacy;
+    - **(G)** provides ongoing instructional literacy coaching—
+      - **(i)** to ensure high-quality implementation of effective practices of literacy instruction that are content-centered, integrated across the curricula, collaborative, and embedded in the school, classroom, or other setting; and
+      - **(ii)** that uses student data to improve instruction;
+    - **(H)** includes and supports teachers in setting high reading and writing achievement goals for all students and provides the teachers with the instructional tools and skills to help students reach such goals; and
+    - **(I)** is differentiated for educators working with children from birth through kindergarten entry, students in kindergarten through grade 5, and students in grades 6 through 12, and, as appropriate, by student grade or student need.
+  - **(14)** *Literacy coach* The term literacy coach means a professional—
+    - **(A)** who—
+      - **(i)** has previous teaching experience and—
+        - **(I)** a master’s degree with a concentration in reading and writing education;
+        - **(II)** demonstrated proficiency in teaching reading or writing in a core academic subject consistent with the characteristics of effective literacy instruction; or
+        - **(III)** in the case of a literacy coach for children from birth through kindergarten entry, a concentration, credential, or significant experience in child development and early literacy development; and
+      - **(ii)** is able to demonstrate the ability to help teachers—
+        - **(I)** apply research on how students become successful readers, writers, and communicators;
+        - **(II)** apply multiple forms of assessment to guide instructional decisionmaking and use data to improve literacy instruction;
+        - **(III)** improve student writing and reading in and across content areas such as mathematics, science, social studies, and language arts;
+        - **(IV)** develop and implement differentiated instruction and teaching approaches to serve the needs of the full range of learners, including English language learners and children with disabilities;
+        - **(V)** apply principles of universal design for learning;
+        - **(VI)** employ best practices in engaging principals, early childhood educators and administrators, teachers, and other professionals supporting literacy instruction to change school cultures to better encourage and support literacy development and achievement; and
+        - **(VII)**
+          - **(aa)** for children from birth through kindergarten entry, set developmentally appropriate expectations for language; and
+          - **(bb)** for all children, set literacy development and high reading and writing achievement goals and select, acquire, and use instructional tools and skills to help the children reach such goals; and
+    - **(B)** whose role with teachers and professionals supporting literacy instruction is—
+      - **(i)** to provide high-quality professional development;
+      - **(ii)** to work cooperatively and collaboratively with principals, teachers, and other professionals in employing strategies to help teachers identify and support student language and literacy needs and teach literacy across content areas and developmental domains; and
+      - **(iii)** to work cooperatively and collaboratively with other professionals in employing strategies to help teachers teach literacy across content areas so that the teachers can meet the needs of all students, including children with disabilities, English language learners, and students who are reading at or above grade level.
+  - **(15)** *Local educational agency* The term local educational agency—
+    - **(A)** has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801); and
+    - **(B)** includes any public charter school that constitutes a local educational agency under State law.
+  - **(16)** *Multitier system of support* The term multitier system of support means a comprehensive system of differentiated supports that includes evidence-based instruction, universal screening, progress monitoring, formative assessments, summative assessments, research-based interventions matched to student needs, and educational decisionmaking using academic progress over time
+  - **(17)** *Reading* The term reading means a complex system of deriving meaning from print that requires, in ways that are developmentally, content, and contextually appropriate, all of the following:
+    - **(A)** *Phonemes* The skills and knowledge to understand how phonemes, or speech sounds, are connected to print.
+    - **(B)** *Accuracy, fluency, and understanding* The ability to read accurately, fluently, and with understanding.
+    - **(C)** *Reading comprehension* The use of background knowledge and vocabulary to make meaning from a text.
+    - **(D)** *Active strategies* The development and use of appropriate active strategies to interpret and construct meaning from print.
+    - **(E)** *Engaged and self-directed reader* The development and maintenance of an engaged and self-directed reader.
+  - **(18)** *School leader* The term school leader means an individual who—
+    - **(A)** is an employee or officer of a school; and
+    - **(B)** is responsible for—
+      - **(i)** the school's performance; and
+      - **(ii)** the daily instructional and managerial operations of the school.
+  - **(19)** *Scientifically valid research* The term scientifically valid research has the meaning given the term in section 200 of the Higher Education Act of 1965 (20 U.S.C. 1021).
+  - **(20)** *Screening assessment* The term screening assessment means an assessment that—
+    - **(A)** is valid, reliable, and based on scientifically valid research on literacy and English language acquisition; and
+    - **(B)** is a procedure designed as a first step in identifying children who may be at high risk for delayed development or academic failure and in need of further diagnosis of the children's need for special services or additional literacy instruction.
+  - **(21)** *State* The term State has the meaning given the term in section 103 of the Higher Education Act of 1965 (20 U.S.C. 1003).
+  - **(22)** *State literacy leadership team*
+    - **(A)** *In general* The term State literacy leadership team means a team that—
+      - **(i)** is appointed and coordinated by the State educational agency;
+      - **(ii)** assumes the responsibility to guide the development and implementation of a statewide, comprehensive literacy plan;
+      - **(iii)** is composed of not less than 11 individuals;
+      - **(iv)** shall include—
+        - **(I)** not less than 3 individuals who have literacy expertise in one of each of the areas of—
+          - **(aa)** birth through school entry, such as the State Head Start collaboration director;
+          - **(bb)** kindergarten entry through grade 5; and
+          - **(cc)** grades 6 through 12;
+        - **(II)** a school principal;
+        - **(III)** a teacher with literacy expertise or an administrator with special education and literacy expertise;
+        - **(IV)** a teacher or administrator with expertise in teaching the English language to English language learners;
+        - **(V)** a representative from the State educational agency who oversees literacy initiatives; and
+        - **(VI)** a representative from higher education who is actively involved in research, development, or teacher preparation in literacy instruction and intervention based on scientifically valid research; and
+      - **(v)** may include—
+        - **(I)** a literacy specialist serving in a school district within the State;
+        - **(II)** a literacy coach;
+        - **(III)** a library media specialist;
+        - **(IV)** a representative from the family literacy community;
+        - **(V)** a representative from a State agency serving children, with expertise in literacy instruction;
+        - **(VI)** a school counselor;
+        - **(VII)** a teacher of a core academic subject;
+        - **(VIII)** a special education administrator;
+        - **(IX)** a professor of a 4-year institution of higher education;
+        - **(X)** a parent;
+        - **(XI)** a business leader;
+        - **(XII)** a representative from the Governor’s office;
+        - **(XIII)** a representative from the State board of education;
+        - **(XIV)** a representative from the State legislature;
+        - **(XV)** a nonprofit and community-based organization providing literacy instruction and support; and
+        - **(XVI)** a representative from a school district superintendent's office.
+    - **(B)** *Inclusion of a preexisting partnership* If, before the date of enactment of this Act, a State educational agency established a consortium, partnership, or any other similar body that was considered a literacy partnership for purposes of subpart 1 or 2 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6361 et seq., 6371 et seq.) and that includes the individuals required under subparagraph (A)(iv), such consortium, partnership, or body may be considered a State literacy leadership team for purposes of subparagraph (A).
+  - **(23)** *Summative assessment* The term summative assessment means an assessment that—
+    - **(A)** is valid, reliable, and based on scientifically valid research on literacy and English language acquisition; and
+    - **(B)** measures—
+      - **(i)** for children from birth through kindergarten entry, how the children have progressed over time relative to developmental norms; and
+      - **(ii)** for students in kindergarten through grade 12, what the students have learned over time, relative to academic content standards.
+  - **(24)** *Universal design for learning* The term universal design for learning has the meaning given the term in section 103 of the Higher Education Act of 1965 (20 U.S.C. 1003).
+  - **(25)** *Writing* The term writing means—
+    - **(A)** composing meaning in print or through other media, including technologies, to communicate and to create new knowledge in ways appropriate to the context of the writing and the literacy development stage of the writer;
+    - **(B)** composing ideas individually and collaboratively in ways that are appropriate for a variety of purposes, audiences, and occasions;
+    - **(C)** choosing vocabulary, tone, genre, and conventions, such as spelling and punctuation, suitable to the purpose, audience, and occasion; and
+    - **(D)** revising compositions for clarity of ideas, coherence, logical development, and precision of language use.
+
+## § 5. Program authorized
+
+- **(a)** *In general* The Secretary is authorized—
+  - **(1)** to award State planning grants in accordance with section 6; and
+  - **(2)** to award State implementation grants in accordance with section 7 to enable the State educational agency to—
+    - **(A)** carry out the State activities described in section 8;
+    - **(B)** award subgrants to eligible entities in accordance with section 9; and
+    - **(C)** award subgrants to eligible entities in accordance with section 10.
+- **(b)** *Awards to State educational agencies*
+  - **(1)** *Amounts less than $500,000,000* If the amount appropriated under section 14 for a fiscal year is less than $500,000,000, then the Secretary shall—
+    - **(A)** reserve not more than a total of 5 percent of such amount for the national evaluation, dissemination of information, and technical assistance under section 11;
+    - **(B)** reserve not more than 5 percent to award planning grants, on a competitive basis, to State educational agencies, in accordance with section 6; and
+    - **(C)** use the amount not reserved under subparagraphs (A) and (B) to make awards, on a competitive basis, to State educational agencies serving States that have applications approved under section 7 to enable the State educational agencies to carry out sections 7 and 8.
+  - **(2)** *Amounts equal to or exceeding $500,000,000*
+    - **(A)** *In general* If the amount appropriated under section 14 for a fiscal year equals or exceeds $500,000,000, then the Secretary shall—
+      - **(i)** reserve a total of 1 percent of such amount for—
+        - **(I)** allotments for the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, to be distributed among such outlying areas on the basis of their relative need, as determined by the Secretary in accordance with the purposes of this Act; and
+        - **(II)** the Secretary of the Interior for programs under sections 6, 7, 8, 9, and 10 in schools operated or funded by the Bureau of Indian Education;
+      - **(ii)** reserve not more than 5 percent to award planning grants, to State educational agencies serving States, in accordance with section 6;
+      - **(iii)** reserve not more than 5 percent for the national evaluation, dissemination of information, and technical assistance under section 11; and
+      - **(iv)** use the amount not reserved under clauses (i), (ii), and (iii) to make awards, from allotments under subparagraph (C), to State educational agencies serving States that have applications approved under section 7 and that are not receiving an allotment under clause (i)(I), to enable the State educational agencies to carry out sections 7 and 8.
+    - **(B)** *Special rules*
+      - **(i)** *Proportional division* In each fiscal year, the amount reserved under subparagraph (A)(i) shall be divided between the uses described in subclauses (I) and (II) of subparagraph (A)(i) in the same proportion as the amount reserved under section 1121(a) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6331(a)) is divided between the uses described in paragraphs (1) and (2) of such section 1121(a) for such fiscal year.
+      - **(ii)** *Consultation* A State educational agency that receives an allotment under this paragraph shall engage in timely and meaningful consultation with representatives of Indian tribes located in the State in order to improve the coordination and quality of activities designed to develop effective approaches to achieve the purposes of this Act consistent with he cultural, language, and educational needs of Indian students.
+    - **(C)** *State allotment formula* The Secretary shall allot the amount made available under subparagraph (A)(iv) for a fiscal year among the States not receiving an allotment from the reservation under subparagraph (A)(i)(I) in proportion to the number of children, from birth through age 17, who reside within the State and are from families with incomes below the poverty line for the most recent fiscal year for which satisfactory data are available, compared to the number of such children who reside in all such States for that fiscal year.
+  - **(3)** *Minimum award amount* Notwithstanding paragraphs (1) and (2), no State educational agency receiving an award under this section for a fiscal year may receive less than one-fourth of 1 percent of the total amount appropriated under section 14 for the fiscal year, except as provided under paragraph (2)(A)(i).
+- **(c)** *Peer review*
+  - **(1)** *In general* The Secretary shall convene a peer review panel to evaluate the application for each grant awarded to a State educational agency under sections 6 and 7 using the evaluation criteria described in paragraph (2).
+  - **(2)** *Development of evaluation criteria* The Secretary shall report to Congress the peer review process and evaluation criteria that shall be used to evaluate the grant applications under sections 6 and 7.
+  - **(3)** *Membership*
+    - **(A)** *Composition* A peer review panel convened under paragraph (1) shall be composed of not less than 9 members, of whom—
+      - **(i)** 3 shall be appointed by the Secretary;
+      - **(ii)** 3 shall be appointed by the Secretary from among individuals—
+        - **(I)** recommended by the Chairman of the National Research Council of the National Academy of Sciences; and
+        - **(II)** with expertise in literacy instruction and learning at various developmental stages; and
+      - **(iii)** 3 shall be appointed by the Secretary from among individuals—
+        - **(I)** recommended by the Director of the National Institute of Child Health and Human Development; and
+        - **(II)** with expertise concerning literacy development from birth through grade 12.
+    - **(B)** *Competency and expertise; expertise* The peer review panel appointed under this paragraph may include—
+      - **(i)** classroom teachers with expertise in literacy, and literacy coaches, including—
+        - **(I)** special education teachers;
+        - **(II)** teachers of students who are English language learners; and
+        - **(III)** early childhood educators;
+      - **(ii)** experts who provide high-quality professional development to teachers and other individuals to support children’s literacy development;
+      - **(iii)** experts in the screening assessment, diagnostic assessment, or other assessment of children’s literacy (including reading and writing) development and progress; and
+      - **(iv)** experts in strategies and instruction in reading and writing, language development, and English language acquisition (as appropriate), including reading and writing in core academic subjects.
+  - **(4)** *Distribution of recommendations* Not later than 120 days after a peer review panel submits to the Secretary the panel's recommendation regarding an application by a State educational agency for a grant under section 6 or 7, the Secretary shall notify the State educational agency that the application has been approved or disapproved and shall provide to such State educational agency a copy of the peer review panel's recommendation.
+- **(d)** *Supplement not supplant* Award funds provided under this Act shall supplement, and not supplant, non-Federal funds that would, in the absence of such award funds, be made available for literacy instruction and support of children and students participating in programs assisted under this Act.
+- **(e)** *Maintenance of effort* Each State educational agency that receives an award under this section, and each eligible entity that receives a subgrant under section 9 or 10, shall maintain for the fiscal year for which the grant or subgrant is received and for each subsequent fiscal year the expenditures of the State educational agency or eligible entity, respectively, for literacy instruction at a level not less than the level of such expenditures maintained by the State educational agency or eligible entity, respectively, for the fiscal year preceding such fiscal year for which the grant or subgrant is received.
+
+## § 6. State planning grants
+
+- **(a)** *Planning grants authorized*
+  - **(1)** *In general* From any amounts made available under paragraph (1)(B) or (2)(A)(ii) of section 5(b), the Secretary may award planning grants to State educational agencies to enable the State educational agencies to complete comprehensive planning to carry out activities that improve literacy for children and students from birth through grade 12.
+  - **(2)** *Grant period* A planning grant awarded under this section shall be for a period of not more than 1 year.
+  - **(3)** *Nonrenewability* The Secretary shall not award a State educational agency more than 1 planning grant under this section.
+- **(b)** *Application*
+  - **(1)** *In general* Each State educational agency desiring a planning grant under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require.
+  - **(2)** *Contents* Each application submitted under this subsection shall, at a minimum, include a description of how the State educational agency proposes to use the planning grant funds awarded under this section to develop a plan for improving State efforts to develop, coordinate, and implement comprehensive literacy activities that ensure high-quality language development and effective strategies and instruction in reading and writing for all students in early childhood education programs serving children from birth through kindergarten entry through grade 12 programs, with a particular focus on students who are reading or writing below grade level and children whose early literacy skills are below the appropriate age or developmental level. Such plan for improvement shall—
+    - **(A)** describe the activities for which assistance under this section is sought;
+    - **(B)** provide a budget for the use of the planning grant funds to complete the required activities described in subsection (c);
+    - **(C)** include an assessment of child and student language and literacy data to identify baseline and benchmark levels to monitor progress and improvement; and
+    - **(D)** provide an assurance that all State agencies responsible for administering early childhood education programs and services (including the State Head Start Collaboration Office), including the State agency responsible for administering child care and the State Advisory Council on Early Childhood Education and Care established under section 642B(b) of the Head Start Act (42 U.S.C. 9837b(b)), collaborated with the State educational agency to write the early learning portion of the grant application submitted under this subsection.
+  - **(3)** *Approval of applications*
+    - **(A)** *In general* The Secretary, in consultation with the peer review panel described in subparagraph (B), shall evaluate State educational agency applications under this subsection based on the responsiveness of the applications to the application requirements under this subsection.
+    - **(B)** *Peer review* The Secretary shall convene a peer review panel in accordance with section 5(c) to evaluate planning grant applications under this section.
+- **(c)** *Required activities* A State educational agency receiving planning grant funds under this section shall carry out each of the following activities:
+  - **(1)** *Review* Reviewing reading, writing, or other literacy resources and programs, such as school library programs, and data across the State to identify any literacy needs and gaps in the State.
+  - **(2)** *State literacy leadership team* Forming or designating a State literacy leadership team which shall execute the following functions:
+    - **(A)** *Comprehensive State literacy plan* Creating a comprehensive State literacy plan that—
+      - **(i)** is designed to improve language, reading, writing, and academic achievement for children and students, especially those reading below grade level;
+      - **(ii)** includes a needs assessment and an implementation plan, including an analysis of child and student literacy data to identify baseline and benchmark levels of literacy and early literacy skills in order to monitor progress and improvement, and a plan to improve literacy levels among all children and students;
+      - **(iii)** ensures high quality strategies and instruction in early literacy development (which includes communication, reading, and writing) in early childhood education programs serving children from birth through kindergarten entry and in kindergarten through grade 12 programs;
+      - **(iv)** provides for activities designed to improve literacy achievement for students who—
+        - **(I)** read or write below grade level;
+        - **(II)** attend schools that are identified for school improvement under section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b)); and
+        - **(III)** are counted under section 1124(c) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333(c)); and
+      - **(v)** is submitted to the Secretary.
+    - **(B)** *Standards* Providing recommendations to guide the State educational agency in the State educational agency's process of strengthening State literacy standards and embedding State literacy standards with the State’s challenging academic content standards and academic achievement standards under section 1111(b) of the Elementary and Secondary Education Act of 1965, and early learning and development standards.
+    - **(C)** *Progress* Providing recommendations to guide the State educational agency in the State educational agency's process of measuring, assessing, and monitoring progress in literacy at the school, local educational agency, and State levels.
+    - **(D)** *Criteria* Identifying criteria for high quality professional development providers, which providers may include qualified teachers within the State, for the State educational agency and local educational agencies.
+    - **(E)** *Data* Advising the State educational agency on how to help ensure that local educational agencies and schools provide timely and appropriate data to teachers to inform and improve instruction.
+    - **(F)** *Educator capacity* Providing recommendations to guide the State educational agency in the State educational agency's planning process of building educators’ capacity to provide high-quality literacy instruction.
+  - **(3)** *Reporting requirement* Not later than 1 year after a State educational agency receives a planning grant under this section, the State educational agency shall submit a report to the Secretary on the State educational agency's performance of the activities described in this subsection.
+
+## § 7. State implementation grants
+
+- **(a)** *Implementation grants authorized*
+  - **(1)** *In general* From awards made available under paragraph (1)(C) or (2)(A)(iv) of section 5(b), the Secretary shall, on a competitive basis or through allotments, respectively, award implementation grants to State educational agencies to enable the State educational agencies—
+    - **(A)** to implement a comprehensive literacy plan that meets the criteria in section 6(c)(2)(A) for early childhood education programs serving children from birth through kindergarten entry through grade 12 programs;
+    - **(B)** to carry out State activities under section 8; and
+    - **(C)** to award subgrants under sections 9 and 10.
+  - **(2)** *Duration of grants* An implementation grant under this section shall be awarded for a period of not more than 5 years.
+  - **(3)** *Renewals*
+    - **(A)** *In general* Implementation grants under this section may be renewed.
+    - **(B)** *Conditions* In order to be eligible to have an implementation grant renewed under this paragraph, the State educational agency shall demonstrate to the satisfaction of the Secretary that—
+      - **(i)** the State educational agency has complied with the terms of the grant, including using the funds to—
+        - **(I)** increase access to high-quality professional development;
+        - **(II)** use developmentally appropriate curricula and teaching materials; and
+        - **(III)** use developmentally appropriate classroom-based instructional assessments and developmentally appropriate screening and diagnostic assessments; and
+      - **(ii)** with respect to students in kindergarten through grade 12, during the period of the grant there has been significant progress in student achievement, as measured by appropriate assessments, including meeting the measurable annual objectives established pursuant to section 1111(b)(2)(C)(v) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(C)(v)).
+- **(b)** *State applications*
+  - **(1)** *In general* A State educational agency that desires to receive an implementation grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. The State educational agency shall collaborate with all State agencies responsible for administering early childhood education programs, and the State agency responsible for administering child care programs, in the State in writing and implementing the early learning portion of the grant application under this subsection.
+  - **(2)** *Contents* An application described in paragraph (1) shall include the following:
+    - **(A)** *State literacy leadership team; comprehensive State literacy leadership plan* A description of the members of the State literacy leadership team and a description of how the State educational agency has developed a comprehensive State literacy plan, as described in section 6(c)(2)(A).
+    - **(B)** *Implementation* An implementation plan that includes a description of how the State educational agency will—
+      - **(i)** carry out the State activities described in section 8;
+      - **(ii)** assist eligible entities with—
+        - **(I)** providing strategic and intensive literacy instruction based on scientifically valid research for students who are reading and writing below grade level, including through the use of multitier systems of support, including addressing the literacy needs of children and youth with disabilities or developmental delays and English language learners in early childhood education programs serving children from birth through kindergarten entry and programs serving students from birth through grade 12;
+        - **(II)** providing training to parents, as appropriate, so that the parents can participate in the literacy related activities described in sections 9 and 10 to assist in the language and literacy development of their children;
+        - **(III)** selecting and using reading and writing assessments;
+        - **(IV)** providing classroom-based instruction that is supported by one-to-one and small group work;
+        - **(V)** using curricular materials and instructional tools, which may include technology, to improve instruction and literacy achievement;
+        - **(VI)** providing for high-quality professional development; and
+        - **(VII)** using the principles of universal design for learning; and
+      - **(iii)** ensure that local educational agencies in the State have leveraged and are effectively leveraging the resources needed to implement effective literacy instruction, and have the capacity to implement literacy initiatives effectively;
+      - **(iv)** continually coordinate and align the activities assisted under this section and sections 9 and 10 with reading, writing, and other literacy resources and programs across the State and locally that serve children and students and their families and promote literacy instruction and learning, including strengthening partnerships among schools, libraries, local youth-serving agencies, and programs, in order to improve literacy for all children and youth; and
+      - **(v)** ensure that funds provided under this section are awarded in a manner that will provide services to all grade levels, including proportionally to middle schools and high schools.
+    - **(C)** *Key data metrics* A description of the key data metrics that will be used and reported annually under section 12(b)(1)(E), which shall include progress in meeting the annual objectives established pursuant to section 1111(b)(2)(C)(v) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(C)(v)) for students in grades 3 through 12.
+    - **(D)** *National evaluation* An assurance that the State educational agency, and any eligible entity receiving a subgrant from the State educational agency under section 9 or 10, will, if requested, participate in the national evaluation under section 11.
+    - **(E)** *Literacy programs* An assurance that the State educational agency will use implementation grant funds under this section for literacy programs as follows:
+      - **(i)** *Learners from birth through kindergarten entry* Not less than 10 percent of such grant funds shall be used for State and local programs and activities pertaining to learners from birth through kindergarten entry.
+      - **(ii)** *Students in kindergarten through grade 5* Not less than 40 percent of such implementation grant funds shall be used for State and local programs and activities allocated equitably among the grades of kindergarten through grade 5.
+      - **(iii)** *Students in grades 6 through 12* Not less than 40 percent of such implementation grant funds shall be used for State and local programs and activities, allocated equitably among grades 6 through 12.
+      - **(iv)** *State activities* Not more than 10 percent of such implementation grant funds shall be used for the State activities described in section 8.
+    - **(F)** *Priority* An assurance that the State educational agency shall give priority to awarding a subgrant to an eligible entity—
+      - **(i)** under section 9 based on the number or percentage of children younger than the age of kindergarten entry and the number of students from birth through 17 who are—
+        - **(I)** served by the eligible entity; and
+        - **(II)** from families with income below the poverty line, based on the most recent satisfactory data provided to the Secretary by the Bureau of the Census for determining eligibility under section 1124(c)(1)(A) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333(c)(1)(A)); and
+      - **(ii)** under section 10 based on—
+        - **(I)** the number or percentage described in clause (i); and
+        - **(II)** the number or percentage of students served by the eligible entity that are reading and writing below grade level according to State assessments.
+- **(c)** *Approval of applications*
+  - **(1)** *In general* The Secretary, in consultation with the peer review panel established under paragraph (2), shall evaluate State educational agency applications under subsection (b) based on the responsiveness of the applications to the application requirements under such subsection.
+  - **(2)** *Peer review* The Secretary shall convene a peer review panel in accordance with section 5(c) to evaluate applications for each implementation grant awarded to a State educational agency under this section.
+  - **(3)** *Early learning* In order for a State educational agency’s application under this section to be approved by the Secretary, the application shall contain an assurance that the State agencies responsible for administering early childhood education programs and services, including the State agency responsible for administering child care programs and the State Advisory Council on Early Childhood Education and Care established under section 642B(b) of the Head Start Act (42 U.S.C. 9837b(b)), approves of, and will be extensively consulted in the implementation of related activities and services consistent with section 9 with respect to, the early learning portion of the application.
+
+## § 8. State activities
+
+- **(a)** *Required activities* A State educational agency shall use funds made available under section 5(a)(2)(A) and described in section 7(b)(2)(E)(iv) to carry out the activities proposed in a State's plan consistent with section 7(b)(2), including the following activities:
+  - **(1)** *Carrying out assurances and activities in application* Carrying out the assurances and activities provided in the State application under section 7(b)(2).
+  - **(2)** *Technical assistance* In consultation with the State literacy leadership team, providing technical assistance or engaging qualified providers to provide technical assistance to eligible entities to enable the eligible entities to design and implement a literacy program under sections 9 and 10.
+  - **(3)** *Preservice coursework review* Continuing to consult with the State literacy leadership team and continuing to coordinate with institutions of higher education in the State—
+    - **(A)** in order to provide recommendations to strengthen and enhance preservice courses for students preparing, at institutions of higher education in the State, to teach children from birth through grade 12 in explicit, systematic, and intensive instruction in evidence-based literacy methods; and
+    - **(B)** by following up reviews completed by the State literacy leadership team with recommendations to ensure that such institutions offer courses that meet the highest standards.
+  - **(4)** *State licensure and certification recommendations* Reviewing and updating, in collaboration with teachers, statewide educational and professional organizations representing teachers, and statewide educational and professional organizations representing institutions of higher education, State licensure and certification standards in the area of literacy instruction in early childhood education through grade 12.
+  - **(5)** *Effective practices* Making publicly available, including on the State educational agency's website, information on promising instructional practices to improve student literacy achievement.
+- **(b)** *Permissive activities* After carrying out activities described in subsection (a), a State educational agency may use remaining funds made available under section 5(a)(2)(A) and described in section 7(b)(2)(E)(iv) to carry out 1 or more of the following activities:
+  - **(1)** *Data systems training* Training the personnel of eligible entities to use data systems that track student literacy achievement.
+  - **(2)** *Literacy coach training* Developing literacy coach training programs and training literacy coaches.
+  - **(3)** *Public support* Building public support among local educational agency personnel, early childhood education programs, and the community for comprehensive literacy instruction for children and students from birth through grade 12.
+
+## § 9. Subgrants to eligible entities in support of birth through kindergarten entry literacy
+
+- **(a)** *Subgrants* A State educational agency, in consultation with the State agencies responsible for administering early childhood education programs and services, including the State agency responsible for administering child care programs and the State Advisory Council on Early Childhood Education and Care established under section 642B(b) of the Head Start Act (42 U.S.C. 9837b(b)), shall use implementation grant funds provided under section 5(a)(2)(B) to award subgrants, on a competitive basis, to eligible entities to enable the eligible entities to support high-quality early literacy initiatives for children from birth through kindergarten entry.
+- **(b)** *Sufficient size and scope* Each subgrant awarded under this section shall be of sufficient size and scope to allow the eligible entity to carry out high-quality early literacy initiatives for children from birth through kindergarten entry.
+- **(c)** *Local applications* An eligible entity desiring to receive a subgrant under this section shall submit an application to the State educational agency, at such time, in such manner, and containing such information as the State educational agency may require. Such application shall include a description of—
+  - **(1)** how the subgrant funds will be used to enhance the language and literacy aspects of school readiness of children, from birth through kindergarten entry, in early childhood education programs, including an analysis of the data used to identify how funds will be used to improve language and literacy;
+  - **(2)** the programs assisted under the subgrant, including demographic and socioeconomic information on the children enrolled in the programs;
+  - **(3)** a budget for the eligible entity that projects the cost of developing and implementing literacy initiatives to carry out the activities described in subsection (e);
+  - **(4)** how, if the eligible entity is requesting a planning period, the eligible entity will use that planning period to prepare for successful implementation of a plan to support the development of learning and literacy consistent with the purposes of this Act;
+  - **(5)** the literacy initiatives, if any, in place and how these initiatives will be coordinated and integrated with activities supported under this section;
+  - **(6)** how the subgrant funds will be used to prepare and provide ongoing assistance to staff in the programs, through high-quality professional development;
+  - **(7)** how the subgrant funds will be used to provide services, incorporate activities, and select and use literacy instructional materials that meet the diverse developmental and linguistic needs of children, including English language learners and children with disabilities and developmental delays, and that are based on scientifically valid research on child development and learning for children from birth through kindergarten entry;
+  - **(8)** how the subgrant funds will be used to provide screening assessments, diagnostic assessments, classroom-based instructional assessments, and assessments of developmental progress;
+  - **(9)** how families and caregivers will be involved, as appropriate, in supporting their children's literacy development, instruction, and assessment;
+  - **(10)** how the subgrant funds will be used to help children, particularly children experiencing difficulty with oral and written language, to make the transition from early childhood education to formal classroom instruction;
+  - **(11)** how the activities assisted under the subgrant will be coordinated with literacy instruction at the kindergarten through grade 5 level;
+  - **(12)** how the subgrant funds will be used—
+    - **(A)** to evaluate the success of the activities assisted under the subgrant in enhancing the early language and literacy development of children from birth through kindergarten entry; and
+    - **(B)** to evaluate data for program improvement; and
+  - **(13)** such other information as the State educational agency may require.
+- **(d)** *Approval of local applications* The State educational agency, in consultation with the State agencies responsible for administering early childhood education programs, including the State agency responsible for administering child care programs and the State Advisory Council on Early Childhood Education and Care established under section 642B(b) of the Head Start Act (42 U.S.C. 9837b(b)), shall—
+  - **(1)** select applications for funding under this section based on the quality of the applications submitted, including the relationship between literacy activities proposed and the research base or data supporting such activities, as appropriate, and the recommendations of—
+    - **(A)** the State literacy leadership team; and
+    - **(B)** other experts in the area of early literacy; and
+  - **(2)** place priority for funding programs based on the criteria in section 7(b)(2)(F).
+- **(e)** *Local uses of funds*
+  - **(1)** *In general* An eligible entity that receives a subgrant under this section shall use the subgrant funds consistent with the application proposed in subsection (c) to carry out the following activities:
+    - **(A)** *Early childhood education programs* Enhancing and improving early childhood education programs to ensure that children in such programs are provided with high-quality oral language and literature- and print-rich environments in which to develop early literacy skills.
+    - **(B)** *Professional development* Providing high-quality professional development.
+    - **(C)** *Screening assessments and other measures* Acquiring, providing training for, and implementing screening assessments, diagnostic assessments, and classroom-based instructional assessments.
+    - **(D)** *Multitier system of support* Selecting, developing, and implementing a multitier system of support.
+    - **(E)** *Integrating* Integrating research-based instructional materials, activities, tools, and measures into the programs offered by the eligible entity to improve development of early learning language and literacy skills.
+    - **(F)** *Training* Training providers and personnel to support, develop, and administer high-quality early learning literacy initiatives that—
+      - **(i)** utilize data—
+        - **(I)** to inform instructional design; and
+        - **(II)** to assess literacy needs; and
+      - **(ii)** provide time and support for personnel to meet to plan literacy instruction.
+    - **(G)** *Family literacy services* Providing for family literacy services, as appropriate, and partnering with families to support their child’s learning.
+    - **(H)** *Data* Annually collecting, summarizing, and reporting to the State educational agency data—
+      - **(i)** to document and monitor, for the purpose of improving or increasing early literacy and language skills development pursuant to activities carried out under this section;
+      - **(ii)** to stimulate and accelerate improvement by identifying the programs served by the eligible entity that produce significant gains in skills development; and
+      - **(iii)** for all subgroups of students and categories of students, including students described in section 1111(b)(2)(C)(v)(II) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(C)(v)(II)), in a manner that—
+        - **(I)** utilizes a variety of data; and
+        - **(II)** is consistent across the State.
+  - **(2)** *Curricula and assessment materials limitation* Each eligible entity that receives a subgrant under this section shall not use more than 10 percent of the subgrant funds to purchase curricula and assessment materials.
+- **(f)** *Prohibition* The use of assessment items and data on any assessment authorized under this section to provide rewards or sanctions for individual children, early childhood educators, teachers, program directors, or principals is prohibited.
+
+## § 10. Subgrants to local educational agencies in support of kindergarten through grade 12 literacy
+
+- **(a)** *Subgrants to local educational agencies*
+  - **(1)** *Subgrants* A State educational agency shall use the implementation grant funds provided under section 5(a)(2)(C) to award subgrants, on a competitive basis, to eligible entities to enable the eligible entities to carry out the authorized activities described in subsections (b) and (c).
+  - **(2)** *Sufficient size and scope* A State educational agency shall award subgrants under this section of sufficient size and scope to allow the eligible entities to carry out high-quality literacy initiatives in each grade level for which the subgrant funds are provided.
+  - **(3)** *Local applications* An eligible entity desiring to receive a subgrant under this section shall submit an application to the State educational agency at such time, in such manner, and containing such information as the State educational agency may require. Such application shall include, for each school that the eligible entity identifies as participating in a subgrant program under this section, the following information:
+    - **(A)** *Capacity survey* A description of the eligible entity’s capacity survey conducted to identify how subgrant funds will be used to inform and improve literacy instruction at the school.
+    - **(B)** *Professional development* How the school, local educational agency, or a provider of high-quality professional development will provide ongoing high-quality professional development to all teachers (including early childhood educators), principals, and other school leaders served by the school (including early childhood program administrators).
+    - **(C)** *Interventions* How the school will identify students in need of literacy interventions or other support services and provide appropriate scientifically valid instructional interventions or other support services which may include extended learning time for struggling students.
+    - **(D)** *Budget* A budget for the school that projects the cost of developing and implementing literacy initiatives to carry out the activities described in subsections (b) and (c), as applicable.
+    - **(E)** *Integration* An explanation of how the school will integrate literacy instruction into core academic subjects.
+    - **(F)** *Coordination* A description of how the school will coordinate literacy instruction with early childhood education and after-school programs and activities in the area served by the local educational agency, such as library programs.
+    - **(G)** *Assessments* A description of the assessments that will be used in an assessment system to improve literacy instruction and track student literacy progress.
+    - **(H)** *Families and caregivers* A description of how families and caregivers will be involved in supporting their children’s literacy instruction and assessment.
+    - **(I)** *Planning period* A description of how, if an eligible entity is requesting a planning period, the eligible entity will use that planning period to prepare for successful implementation of a plan to support the development of learning and literacy consistent with the purposes of this Act.
+    - **(J)** *Initiatives* A description of the literacy initiatives, if any, in place and how these initiatives will be coordinated and integrated with activities supported under this section.
+    - **(K)** *Participation in evaluation* An assurance that the eligible entity will, if requested, participate in the national evaluation described in section 11.
+- **(b)** *Local uses of funds for kindergarten through grade 5* An eligible entity that receives a subgrant under this section shall use the subgrant funds to carry out the following activities pertaining to students in kindergarten through grade 5:
+  - **(1)** *Literacy plan* Developing and implementing a literacy plan across content areas that—
+    - **(A)** serves the needs of all students, including children with disabilities and English language learners, especially the students who are reading or writing below grade level;
+    - **(B)** provides intensive, supplemental, accelerated, and explicit intervention and support in reading and writing for students whose literacy skills are below grade level; and
+    - **(C)** supports activities that are provided primarily during the regular school day but which may be augmented by after-school and out-of-school time instruction.
+  - **(2)** *Assessments* Acquiring, providing training for, selecting, and administering assessments, and managing, monitoring, and planning instruction based on the assessment data.
+  - **(3)** *Professional development* Providing high quality professional development.
+  - **(4)** *Training* Training principals, pupil services personnel, and other school district personnel to support, develop, administer, and evaluate high-quality kindergarten through grade 5 literacy initiatives that—
+    - **(A)** utilize data—
+      - **(i)** to inform instructional decisions; and
+      - **(ii)** to assess professional development needs; and
+    - **(B)** provide time and support for teachers to meet to plan literacy instruction.
+- **(c)** *Local uses of funds for grades 6 through 12*
+  - **(1)** *Required uses* An eligible entity that receives a subgrant under this section shall use subgrant funds to carry out the following activities pertaining to students in grades 6 through 12:
+    - **(A)** *Literacy plan* Developing and implementing a literacy plan across content areas that—
+      - **(i)** serves the needs of all students, including children with disabilities and English language learners, especially students who are reading or writing below grade level;
+      - **(ii)** provides intensive, supplemental, accelerated, and explicit intervention and support in reading and writing for students whose literacy skills are below grade level; and
+      - **(iii)** supports activities that are provided primarily during the regular school day but which may be augmented by after-school and out-of-school time instruction.
+    - **(B)** *Assessments* Acquiring, providing training for, selecting and administering assessments, and managing, monitoring, and planning instruction based on the assessment data.
+    - **(C)** *Professional development* Providing high-quality professional development.
+    - **(D)** *Training* Training principals, pupil service personnel, and other school leaders to support, develop, administer, and evaluate high-quality adolescent literacy initiatives that—
+      - **(i)** utilize data—
+        - **(I)** to inform instructional decisions and allow for personalization of instruction based on student need; and
+        - **(II)** to assess professional development needs;
+      - **(ii)** assess the quality of adolescent literacy instruction in core academic subjects, and career and technical education subjects where such career and technical education subjects provide for the integration of core academic subjects;
+      - **(iii)** provide time for teachers to meet to plan research-based adolescent literacy instruction in core academic subjects, and career and technical education subjects where such career and technical education subjects provide for the integration of core academic subjects; and
+      - **(iv)** include explicit instruction in discipline-specific thinking and how to read and interpret discipline-specific text structures and features.
+    - **(E)** *Data* Annually collecting, summarizing, and reporting to the State educational agency, data—
+      - **(i)** to document and monitor, for the purpose of improving practice, the improvements or increases in student reading and writing pursuant to activities carried out under this section;
+      - **(ii)** to stimulate and accelerate improvement by identifying the schools that produce significant gains in literacy achievement; and
+      - **(iii)** for all students and categories of students, including students described in section 1111(b)(2)(C)(v)(II) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(C)(v)(II)), in a manner that utilizes a variety of data and that is consistent across the State.
+  - **(2)** *Limitation to certain schools* An eligible entity receiving a subgrant under this section shall, in distributing subgrant funds under this subsection, provide the subgrant funds only to schools, including public charter schools, that have the highest percentages or numbers of children counted under section 1124(c) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333(c)) after carrying out the activities described in this subsection and subsection (b).
+- **(d)** *Allowable uses* An eligible entity that receives a subgrant under this section may use remaining subgrant funds to carry out the following activities pertaining to learners in kindergarten through grade 12:
+  - **(1)** *Planning* Providing a planning period of not more than 1 year for the eligible entity to establish the elements necessary for successful implementation of a literacy program for kindergarten through grade 12.
+  - **(2)** *Literacy coaches* Recruiting, placing, training, and compensating literacy coaches.
+  - **(3)** *Connecting learning opportunities* Connecting out-of-school learning opportunities to in-school learning in order to improve the literacy achievement of the students.
+  - **(4)** *Training* Training families and caregivers to support the improvement of adolescent literacy.
+  - **(5)** *Multitier system of support* Providing for a multitier system of support.
+  - **(6)** *School literacy leadership team* Forming a school literacy leadership team to help implement, assess, and identify necessary changes to the literacy initiatives in 1 or more schools to ensure success.
+  - **(7)** *Literacy-rich environment* Providing high-quality, literacy-rich environments that engage students with materials and experiences at the students' reading and writing levels.
+  - **(8)** *Planning among teachers and other staff* Providing time for teachers to meet with school librarians and other building staff to plan literacy instruction, as appropriate.
+
+## § 11. National evaluation, information dissemination, and technical assistance
+
+- **(a)** *National evaluation*
+  - **(1)** *In general* From funds reserved under paragraph (1)(A) or (2)(A)(iii) of section 5(b), the Secretary shall enter into a contract with an organization independent of the Department of Education for a 5-year national evaluation of the grant and subgrant programs assisted under this Act. Such evaluation shall include scientifically valid research that applies rigorous and systematic procedures to obtain valid knowledge relevant to the implementation and effect of the programs.
+  - **(2)** *Contents of evaluation* The evaluation described in this subsection shall include an analysis of each of the following:
+    - **(A)** *Impact* The impact of the implementation of literacy initiatives and practices supported under this Act on promoting the appropriate development of young children in the precursors to literacy and increasing student academic outcomes, including student literacy development in reading and writing, and speaking (as appropriate), grade promotion, and graduation to the extent predictable.
+    - **(B)** *Implementation of core features* The fidelity of implementation of core program features, such as coherence of program across grades, quality of technical assistance, State and school district leadership, professional development for teachers and administrators, use of quality materials and pedagogy, and use of assessment.
+    - **(C)** *Student academic outcomes* The relationship between implementation of core features, and student academic outcomes.
+    - **(D)** *Other inquiries* Other inquiries as designated by the Secretary, such as—
+      - **(i)** the core functions of literacy initiatives that have demonstrated the greatest impact on student literacy achievement, especially among students reading below grade level;
+      - **(ii)** effective strategies to integrate State and local standards, curricula, assessments, and interventions to improve literacy;
+      - **(iii)** the types of literacy activities and professional development that most effectively improve the early reading, writing, and language skills of children from birth through kindergarten entry;
+      - **(iv)** the impact of adolescent literacy initiatives on student motivation, engagement, and participation in adolescent literacy activities;
+      - **(v)** the relationship between students’ literacy achievement and secondary schools' success, including improving graduation rates; and
+      - **(vi)** effective strategies to integrate school and public library programs to improve literacy.
+  - **(3)** *Program improvement* The findings of the evaluation conducted under this subsection shall be—
+    - **(A)** provided to State educational agencies and grant recipients for use in program improvement;
+    - **(B)** made publicly available, including on the Department's website; and
+    - **(C)** submitted to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives.
+- **(b)** *Information dissemination and technical assistance*
+  - **(1)** *In general* From amounts reserved under paragraph (1)(A) or (2)(A)(iii) of section 5(b) for a fiscal year, the Secretary, in collaboration with the regional educational laboratories established under section 174 of the Education Sciences Reform Act of 2002 (20 U.S.C. 9564), the comprehensive centers established under section 203 of the Educational Technical Assistance Act of 2002 (20 U.S.C. 9602), and the Director of the National Institute of Child Health and Human Development, shall distribute information on literacy instruction, including best practices and model programs identified in the evaluation, other inquiries described in subsection (a)(2)(D), or related Federal studies of literacy activities and provide technical assistance in order to assist States and local educational agencies in improving literacy instruction and learning.
+  - **(2)** *Dissemination and coordination* The Secretary shall disseminate the information described in paragraph (1) to—
+    - **(A)** recipients of Federal financial assistance under this Act, the Head Start Act, the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and the Adult Education and Family Literacy Act (20 U.S.C. 9201 et seq.); and
+    - **(B)** each Bureau-funded school (as defined in section 1141 of the Education Amendments of 1978 (25 U.S.C. 2021)).
+  - **(3)** *Use of networks* In carrying out this subsection, the Secretary shall, to the extent practicable, use information and dissemination networks developed and maintained through other public and private entities.
+
+## § 12. Consequences of insufficient progress, reporting requirements, and conflicts of interest
+
+- **(a)** *Consequences of insufficient progress*
+  - **(1)** *Consequences for grant recipients* If the Secretary determines that a State educational agency receiving an award under section 5(b) or an eligible entity receiving a subgrant under section 9 or 10 is not making significant progress in meeting the purposes of this Act and the key metrics identified by the State educational agency under section 7(b)(2)(C) after the submission of a report described in subsection (b), then the Secretary may withhold, in whole or in part, further payments under this Act in accordance with section 455 of the General Education Provisions Act (20 U.S.C. 1234d) or take such other action authorized by law as the Secretary determines necessary, including providing technical assistance upon request of the State educational agency or eligible entity, respectively.
+  - **(2)** *Consequences for subgrant recipients*
+    - **(A)** *In general* A State educational agency receiving an award under section 5(b) may refuse to award subgrant funds to an eligible entity under section 9 or 10 if the State educational agency finds that the eligible entity is not making significant progress in meeting the purposes of this Act, after—
+      - **(i)** affording the eligible entity notice, a period for correction, and an opportunity for a hearing; and
+      - **(ii)** providing technical assistance to the eligible entity.
+    - **(B)** *Funds available* Subgrant funds not awarded under subparagraph (A) shall be redirected to an eligible entity serving similar children and students in the same area or region as the eligible entity not awarded the subgrant funds, to the greatest extent practicable.
+- **(b)** *Reporting requirements*
+  - **(1)** *State educational agency reports* Each State educational agency receiving an award under section 5(b) shall report annually to the Secretary regarding the State educational agency’s progress in addressing the purposes of this Act. Such report shall include, at a minimum, a description of—
+    - **(A)** the professional development activities provided under the award, including types of activities and entities involved in providing professional development to classroom teachers and other program staff, such as school librarians;
+    - **(B)** the instruction, strategies, activities, curricula, materials, and assessments used in the programs funded under the award;
+    - **(C)**
+      - **(i)** the types of programs and, for children from birth to kindergarten entry, program settings, funded under the award; and
+      - **(ii)** the ages and demographic information that is not individually identifiable of children served by the programs funded under the award;
+    - **(D)** the experience and qualifications of the program staff who provide literacy instruction under the programs funded under the award, including the experience and qualifications of those staff working with children with disabilities or developmental delays and with English language learners and children from birth to kindergarten entry;
+    - **(E)** key data metrics identified under section 7(b)(2)(C) used for literacy initiatives;
+    - **(F)** student performance on relevant program metrics, as identified in the State education agency’s implementation plan under section 7(b)(2)(C), such as—
+      - **(i)** the number and percentage of children reading and writing on grade level by the end of grade 3;
+      - **(ii)** the percent of students served under the award who receive special education services; and
+      - **(iii)** the instruction and activities delivered to at-risk students served under the award; and
+    - **(G)** the outcomes of programs and activities provided under the award.
+  - **(2)** *Eligible entity reports* Each eligible entity receiving a subgrant under section 9 or 10 shall report annually to the State educational agency regarding the eligible entity's progress in addressing the purposes of this Act. Such report shall include, at a minimum, a description of—
+    - **(A)** how the subgrant funds were used;
+    - **(B)** the degree of appropriate developmental progress or literacy achievement growth of students, disaggregated by the categories described in section 1111(b)(2)(C)(v)(II) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(C)(v)(II)); and
+    - **(C)** the results of an external evaluation, if the Secretary determines applicable.
+- **(c)** *Conflicts of interest* The Secretary shall ensure that each member of the peer review panel described in section 5(c) and each member of a State literacy leadership team participating in a program or activity assisted under this Act does not stand to benefit financially from a grant or subgrant awarded under this Act.
+
+## § 13. Rules of construction
+
+- **(a)** *Student eligibility* Nothing in this Act shall be construed to prohibit students eligible for assistance under title I or III of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq., 6801 et seq.) or students eligible for assistance under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) from receiving literacy instruction and intervention under this Act.
+- **(b)** *IDEA evaluation* The screening assessments, diagnostic assessments, and formative assessments of reading and writing authorized under this Act shall not be construed to constitute an evaluation required under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.).
+
+## § 14. Authorization of appropriations
+
+There are authorized to be appropriated to carry out this Act—
+
+- **(1)** $2,350,000,000 for fiscal year 2012;
+- **(2)** $2,350,000,000 for fiscal year 2013;
+- **(3)** $2,350,000,000 for fiscal year 2014;
+- **(4)** $2,350,000,000 for fiscal year 2015; and
+- **(5)** $2,350,000,000 for fiscal year 2016.
