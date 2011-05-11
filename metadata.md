@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 16
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 16
@@ -20,8 +20,15 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 
 - Sen. Inouye, Daniel K. [D-HI] (I000025)
 
+## Committees (1)
+
+- House — Committee on House Administration
+
 ## Actions
 
 - 2011-05-10 — Introduced in Senate
 - 2011-05-10 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S2850; text as passed Senate: CR S2850; text of measure as introduced: CR S2849)
 - 2011-05-10 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2850; text as passed Senate: CR S2850; text of measure as introduced: CR S2849)
+- 2011-05-11 — Message on Senate action sent to the House.
+- 2011-05-11 — Received in the House.
+- 2011-05-11 — Referred to the House Committee on House Administration.
