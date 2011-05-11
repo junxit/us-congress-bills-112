@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 16
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 16
@@ -32,3 +32,9 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 - 2011-05-11 — Message on Senate action sent to the House.
 - 2011-05-11 — Received in the House.
 - 2011-05-11 — Referred to the House Committee on House Administration.
+- 2011-05-31 — Considered under suspension of the rules. (consideration: CR H3780-3781)
+- 2011-05-31 — DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 16.
+- 2011-05-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-05-31 — Mr. Lungren, Daniel E. moved to suspend the rules and agree to the resolution.
+- 2011-05-31 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3780)
+- 2011-05-31 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3780)
