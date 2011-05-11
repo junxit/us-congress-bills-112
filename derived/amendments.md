@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1229
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 

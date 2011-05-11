@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1229
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1229
@@ -94,6 +94,20 @@ Putting the Gulf of Mexico Back to Work Act
 - House — Judiciary Committee
 - House — Natural Resources Committee
 
+## Recorded votes (11)
+
+- 2011-05-10 — [House 112-1-299](votes/house-112-1-0299.md) — On Agreeing to the Amendment — **Failed** (167–245)
+- 2011-05-10 — [House 112-1-300](votes/house-112-1-0300.md) — On Agreeing to the Amendment — **Failed** (169–240)
+- 2011-05-10 — [House 112-1-301](votes/house-112-1-0301.md) — On Agreeing to the Amendment — **Failed** (176–237)
+- 2011-05-11 — [House 112-1-302](votes/house-112-1-0302.md) — On Agreeing to the Amendment — **Failed** (187–235)
+- 2011-05-11 — [House 112-1-303](votes/house-112-1-0303.md) — On Agreeing to the Amendment — **Failed** (179–247)
+- 2011-05-11 — [House 112-1-304](votes/house-112-1-0304.md) — On Agreeing to the Amendment — **Failed** (174–254)
+- 2011-05-11 — [House 112-1-305](votes/house-112-1-0305.md) — On Agreeing to the Amendment — **Failed** (169–258)
+- 2011-05-11 — [House 112-1-306](votes/house-112-1-0306.md) — On Agreeing to the Amendment — **Failed** (205–222)
+- 2011-05-11 — [House 112-1-307](votes/house-112-1-0307.md) — On Agreeing to the Amendment — **Failed** (185–239)
+- 2011-05-11 — [House 112-1-308](votes/house-112-1-0308.md) — On Motion to Recommit with Instructions — **Failed** (186–239)
+- 2011-05-11 — [House 112-1-309](votes/house-112-1-0309.md) — On Passage — **Passed** (263–163)
+
 ## Actions
 
 - 2011-03-29 — Introduced in House
@@ -110,3 +124,124 @@ Putting the Gulf of Mexico Back to Work Act
 - 2011-05-02 — Placed on the Union Calendar, Calendar No. 35.
 - 2011-05-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-67, Part I.
 - 2011-05-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-67, Part I.
+- 2011-05-04 — Rules Committee Resolution H. Res. 245 Reported to House. Rule provides for consideration of H.R. 1229 and H.R. 1230. Measure will be considered read. Specified amendments are in order. H.R. 1229 and H.R. 1230 shall each be debatable for not to exceed one hour, equally divided and controlled. In each case, the previous question shall be considered as ordered and in each case, a motion to recommit, with or without instructions is allowed.
+- 2011-05-10 — Amendment (A001) offered by Mr. Polis. (consideration: CR H3132-3134, H3141; text: CR H3132)
+- 2011-05-10 — Amendment (A002) offered by Mr. Garamendi. (consideration: CR H3134-3135, H3141-3142; text: CR H3134)
+- 2011-05-10 — Amendment (A003) offered by Mr. Markey. (consideration: CR H3135-3137, H3142-3143; text: CR H3135-3136)
+- 2011-05-10 — Amendment (A004) offered by Ms. Hanabusa. (consideration: CR H3137-3138; text: CR H3137)
+- 2011-05-10 — Amendment (A005) offered by Mr. Holt. (consideration: CR H3138-3140; text: CR H3138)
+- 2011-05-10 — Amendment (A006) offered by Mr. Polis. (consideration: CR H3140-3141; text: CR H3140)
+- 2011-05-10 — Amendment (A007) offered by Mr. Hastings (FL). (consideration: CR H3143-3144; text: CR H3143)
+- 2011-05-10 — Amendment (A008) offered by Mr. Deutch. (consideration: CR H3144-3145; text: CR H3144)
+- 2011-05-10 — Amendment (A009) offered by Mr. Hastings (FL). (consideration: CR H3145-3146; text: CR H3145)
+- 2011-05-10 — Amendment (A010) offered by Mr. Hastings (FL). (consideration: CR H3146-3147; text: CR H3146)
+- 2011-05-10 — Amendment failed in Committee of the Whole
+- 2011-05-10 — Amendment failed in Committee of the Whole
+- 2011-05-10 — Amendment failed in Committee of the Whole
+- 2011-05-10 — Amendment failed in Committee of the Whole
+- 2011-05-10 — Committee of the Whole House on the state of the Union rises leaving H.R. 1229 as unfinished business.
+- 2011-05-10 — Committee of the Whole House on the state of the Union rises leaving H.R. 1229 as unfinished business.
+- 2011-05-10 — Committee of the Whole House on the state of the Union rises leaving H.R. 1229 as unfinished business.
+- 2011-05-10 — Considered as unfinished business. (consideration: CR H3131-3143)
+- 2011-05-10 — Considered as unfinished business. (consideration: CR H3143-3147)
+- 2011-05-10 — Considered under the provisions of rule H. Res. 245. (consideration: CR H3120-3126)
+- 2011-05-10 — DEBATE - Pursuant to the provisions of H. Res. 245, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (FL) amendment No. 11.
+- 2011-05-10 — DEBATE - Pursuant to the provisions of H.Res. 245, the Committee of the Whole proceeded with 10 minutes of debate on the Deutch amendment.
+- 2011-05-10 — DEBATE - Pursuant to the provisions of H.Res. 245, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment.
+- 2011-05-10 — DEBATE - Pursuant to the provisions of H.Res. 245, the Committee of the Whole proceeded with 10 minutes of debate on the Hanabusa amendment.
+- 2011-05-10 — DEBATE - Pursuant to the provisions of H.Res. 245, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (FL) amendment No. 10.
+- 2011-05-10 — DEBATE - Pursuant to the provisions of H.Res. 245, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (FL) amendment No. 8.
+- 2011-05-10 — DEBATE - Pursuant to the provisions of H.Res. 245, the Committee of the Whole proceeded with 10 minutes of debate on the Holt amendment.
+- 2011-05-10 — DEBATE - Pursuant to the provisions of H.Res. 245, the Committee of the Whole proceeded with 10 minutes of debate on the Markey amendment.
+- 2011-05-10 — DEBATE - Pursuant to the provisions of H.Res. 245, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 7.
+- 2011-05-10 — DEBATE - Pursuant to the provisions of H.Res. 245, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment no. 1.
+- 2011-05-10 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1229.
+- 2011-05-10 — House amendment not agreed to: On agreeing to the Garamendi amendment (A002) Failed by recorded vote: 169 - 240 (Roll no. 300).
+- 2011-05-10 — House amendment not agreed to: On agreeing to the Hastings (FL) amendment (A009) Failed by voice vote.
+- 2011-05-10 — House amendment not agreed to: On agreeing to the Markey amendment (A003) Failed by recorded vote: 176 - 237 (Roll no. 301).
+- 2011-05-10 — House amendment not agreed to: On agreeing to the Polis amendment (A001) Failed by recorded vote: 167 - 245 (Roll no. 299).
+- 2011-05-10 — House amendment offered
+- 2011-05-10 — House amendment offered
+- 2011-05-10 — House amendment offered
+- 2011-05-10 — House amendment offered
+- 2011-05-10 — House amendment offered
+- 2011-05-10 — House amendment offered
+- 2011-05-10 — House amendment offered
+- 2011-05-10 — House amendment offered
+- 2011-05-10 — House amendment offered
+- 2011-05-10 — House amendment offered
+- 2011-05-10 — House amendment offered/reported by: Amendment (A001) offered by Mr. Polis.(consideration: CR H3132-3134, H3141; text: CR H3132)
+- 2011-05-10 — House amendment offered/reported by: Amendment (A002) offered by Mr. Garamendi.(consideration: CR H3134-3135, H3141-3142; text: CR H3134)
+- 2011-05-10 — House amendment offered/reported by: Amendment (A003) offered by Mr. Markey.(consideration: CR H3135-3137, H3142-3143; text: CR H3135-3136)
+- 2011-05-10 — House amendment offered/reported by: Amendment (A004) offered by Ms. Hanabusa.(consideration: CR H3137-3138; text: CR H3137)
+- 2011-05-10 — House amendment offered/reported by: Amendment (A005) offered by Mr. Holt.(consideration: CR H3138-3140; text: CR H3138)
+- 2011-05-10 — House amendment offered/reported by: Amendment (A006) offered by Mr. Polis.(consideration: CR H3140-3141; text: CR H3140)
+- 2011-05-10 — House amendment offered/reported by: Amendment (A007) offered by Mr. Hastings (FL).(consideration: CR H3143-3144; text: CR H3143)
+- 2011-05-10 — House amendment offered/reported by: Amendment (A008) offered by Mr. Deutch.(consideration: CR H3144-3145; text: CR H3144)
+- 2011-05-10 — House amendment offered/reported by: Amendment (A009) offered by Mr. Hastings (FL).(consideration: CR H3145-3146; text: CR H3145)
+- 2011-05-10 — House amendment offered/reported by: Amendment (A010) offered by Mr. Hastings (FL).(consideration: CR H3146-3147; text: CR H3146)
+- 2011-05-10 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 245 and Rule XVIII.
+- 2011-05-10 — Mr. Bishop (UT) moved that the Committee rise.
+- 2011-05-10 — Mr. Lamborn moved that the Committee rise.
+- 2011-05-10 — Mr. Lamborn moved that the committee rise.
+- 2011-05-10 — On agreeing to the Garamendi amendment (A002) Failed by recorded vote: 169 - 240 (Roll no. 300).
+- 2011-05-10 — On agreeing to the Hastings (FL) amendment (A009) Failed by voice vote.
+- 2011-05-10 — On agreeing to the Markey amendment (A003) Failed by recorded vote: 176 - 237 (Roll no. 301).
+- 2011-05-10 — On agreeing to the Polis amendment (A001) Failed by recorded vote: 167 - 245 (Roll no. 299).
+- 2011-05-10 — On motion that the Committee rise Agreed to by voice vote.
+- 2011-05-10 — On motion that the Committee rise Agreed to by voice vote.
+- 2011-05-10 — On motion that the committee rise Agreed to by voice vote.
+- 2011-05-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Deutch amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes prevailed. Mr. Deutch demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2011-05-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes prevailed. Mr. Garamendi demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2011-05-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hanabusa amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes prevailed. Ms. Hanabusa demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2011-05-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hastings (FL) amendment No. 8, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes prevailed. Mr. Hastings (FL) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2011-05-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hastings (FL) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hastings (FL) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Holt amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes prevailed. Mr. Holt demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2011-05-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Markey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes prevailed. Mr. Markey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2011-05-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis (CO) amendment No. 7, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes prevailed. Mr. Polis (CO) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2011-05-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis (CO) amendment no. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes prevailed. Mr. Polis (CO) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption until a time to be announced.
+- 2011-05-10 — Roll call votes on amendments in House
+- 2011-05-10 — Roll call votes on amendments in House
+- 2011-05-10 — Roll call votes on amendments in House
+- 2011-05-10 — Rule provides for consideration of H.R. 1229 and H.R. 1230. Measure will be considered read. Specified amendments are in order. H.R. 1229 and H.R. 1230 shall each be debatable for not to exceed one hour, equally divided and controlled. In each case, the previous question shall be considered as ordered and in each case, a motion to recommit, with or without instructions is allowed.
+- 2011-05-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-05-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-05-10 — The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee.
+- 2011-05-10 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-05-11 — Amendment failed in Committee of the Whole
+- 2011-05-11 — Amendment failed in Committee of the Whole
+- 2011-05-11 — Amendment failed in Committee of the Whole
+- 2011-05-11 — Amendment failed in Committee of the Whole
+- 2011-05-11 — Amendment failed in Committee of the Whole
+- 2011-05-11 — Amendment failed in Committee of the Whole
+- 2011-05-11 — Considered as unfinished business. (consideration: CR H3180-3186)
+- 2011-05-11 — DEBATE - The House proceeded with 10 minutes of debate on the Connolly (VA) motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House with an amendment to prohibit the Secretary of Interior from issuing a permit to any applicant that has been required to pay a civil penalty, criminal fine or monetary damages resulting from the applicant's drilling activities on the Outer Continental Shelf, until the penalties have been paid in full, or the applicant has entered a formal agreement to pay the penalties in order to redress economic and environmental harm caused to the Gulf of Mexico Region.
+- 2011-05-11 — House amendment not agreed to: On agreeing to the Deutch amendment (A008) Failed by recorded vote: 205 - 222 (Roll no. 306).(consideration: CR H3182-3183)
+- 2011-05-11 — House amendment not agreed to: On agreeing to the Hanabusa amendment (A004) Failed by recorded vote: 187 - 235 (Roll no. 302).(consideration: CR H3180)
+- 2011-05-11 — House amendment not agreed to: On agreeing to the Hastings (FL) amendment (A007) Failed by recorded vote: 169 - 258 (Roll no. 305).(consideration: CR H3182)
+- 2011-05-11 — House amendment not agreed to: On agreeing to the Hastings (FL) amendment (A010) Failed by recorded vote: 185 - 239 (Roll no. 307).(consideration: CR H3183-3184)
+- 2011-05-11 — House amendment not agreed to: On agreeing to the Holt amendment (A005) Failed by recorded vote: 179 - 247 (Roll no. 303).(consideration: CR H3180-3181)
+- 2011-05-11 — House amendment not agreed to: On agreeing to the Polis amendment (A006) Failed by recorded vote: 174 - 254 (Roll no. 304).(consideration: CR H3181-3182)
+- 2011-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-05-11 — Mr. Connolly (VA) moved to recommit with instructions to Natural Resources. (consideration: CR H3184-3186; text: CR H3184)
+- 2011-05-11 — On agreeing to the Deutch amendment (A008) Failed by recorded vote: 205 - 222 (Roll no. 306). (consideration: CR H3182-3183)
+- 2011-05-11 — On agreeing to the Hanabusa amendment (A004) Failed by recorded vote: 187 - 235 (Roll no. 302). (consideration: CR H3180)
+- 2011-05-11 — On agreeing to the Hastings (FL) amendment (A007) Failed by recorded vote: 169 - 258 (Roll no. 305). (consideration: CR H3182)
+- 2011-05-11 — On agreeing to the Hastings (FL) amendment (A010) Failed by recorded vote: 185 - 239 (Roll no. 307). (consideration: CR H3183-3184)
+- 2011-05-11 — On agreeing to the Holt amendment (A005) Failed by recorded vote: 179 - 247 (Roll no. 303). (consideration: CR H3180-3181)
+- 2011-05-11 — On agreeing to the Polis amendment (A006) Failed by recorded vote: 174 - 254 (Roll no. 304). (consideration: CR H3181-3182)
+- 2011-05-11 — On motion to recommit with instructions Failed by recorded vote: 186 - 239 (Roll no. 308).
+- 2011-05-11 — On passage Passed by recorded vote: 263 - 163 (Roll no. 309).
+- 2011-05-11 — Passed/agreed to in House: On passage Passed by recorded vote: 263 - 163 (Roll no. 309).
+- 2011-05-11 — Roll call votes on amendments in House
+- 2011-05-11 — Roll call votes on amendments in House
+- 2011-05-11 — Roll call votes on amendments in House
+- 2011-05-11 — Roll call votes on amendments in House
+- 2011-05-11 — Roll call votes on amendments in House
+- 2011-05-11 — Roll call votes on amendments in House
+- 2011-05-11 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR 5/10/2011 H3131-3132)
+- 2011-05-11 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-05-11 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1229.
+- 2011-05-11 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3185)
+- 2011-05-11 — The previous question was ordered pursuant to the rule. (consideration: CR H3184)
+- 2011-05-11 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
