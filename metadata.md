@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 46
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 46
@@ -29,3 +29,11 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers' Memo
 - 2011-05-02 — Introduced in House
 - 2011-05-02 — Introduced in House
 - 2011-05-02 — Referred to the House Committee on Transportation and Infrastructure.
+- 2011-05-03 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2011-05-11 — Committee on Transportation discharged.
+- 2011-05-11 — Committee on Transportation discharged.
+- 2011-05-11 — Considered by unanimous consent. (consideration: CR H3189)
+- 2011-05-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-05-11 — Mr. Denham asked unanimous consent to discharge from committee and consider.
+- 2011-05-11 — On agreeing to the resolution Agreed to without objection. (text: CR H3189)
+- 2011-05-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3189)
