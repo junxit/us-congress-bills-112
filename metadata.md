@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 86
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 86
@@ -16,7 +16,7 @@ A resolution recognizing the Defense Intelligence Agency on its 50th Anniversary
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (13)
+## Cosponsors (20)
 
 - Sen. Chambliss, Saxby [R-GA] (C000286)
 - Sen. Warner, Mark R. [D-VA] (W000805)
@@ -31,6 +31,13 @@ A resolution recognizing the Defense Intelligence Agency on its 50th Anniversary
 - Sen. Levin, Carl [D-MI] (L000261)
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Webb, Jim [D-VA] (W000803)
 
 ## Committees (1)
 
@@ -41,3 +48,7 @@ A resolution recognizing the Defense Intelligence Agency on its 50th Anniversary
 - 2011-03-01 — Introduced in Senate
 - 2011-03-01 — Referred to the Select Committee on Intelligence. (text of measure as introduced: CR S1069)
 - 2011-03-01 — Sponsor introductory remarks on measure. (CR S1069-1070)
+- 2011-05-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S2970)
+- 2011-05-12 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2970)
+- 2011-05-12 — Senate Select Committee on Intelligence discharged by Unanimous Consent. (consideration: CR S2969-2970)
+- 2011-05-12 — Senate Select Committee on Intelligence discharged by Unanimous Consent.(consideration: CR S2969-2970)
