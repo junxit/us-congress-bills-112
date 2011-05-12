@@ -1,7 +1,7 @@
 ---
 measure: H.R. 793
 congress: 112
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 793
@@ -102,3 +102,12 @@ To designate the facility of the United States Postal Service located at 12781 S
 - 2011-05-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2011-05-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2011-05-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 48.
+- 2011-05-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3000)
+- 2011-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3000)
+- 2011-05-17 — Message on Senate action sent to the House.
+- 2011-05-26 — Presented to President.
+- 2011-05-26 — Presented to President.
+- 2011-05-31 — Became Public Law No: 112-15.
+- 2011-05-31 — Became Public Law No: 112-15.
+- 2011-05-31 — Signed by President.
+- 2011-05-31 — Signed by President.
