@@ -1,7 +1,7 @@
 ---
 measure: S. 739
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 739
@@ -35,3 +35,7 @@ A bill to authorize the Architect of the Capitol to establish battery recharging
 - 2011-04-06 — Introduced in Senate
 - 2011-04-06 — Read twice and referred to the Committee on Rules and Administration. (text of measure as introduced: CR S2189-2190)
 - 2011-04-06 — Sponsor introductory remarks on measure. (CR S2189)
+- 2011-05-11 — Committee on Rules and Administration. Ordered to be reported without amendment favorably.
+- 2011-05-12 — Committee on Rules and Administration. Reported by Senator Schumer without amendment. Without written report.
+- 2011-05-12 — Committee on Rules and Administration. Reported by Senator Schumer without amendment. Without written report.
+- 2011-05-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.
