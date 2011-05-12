@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 174
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 174
@@ -16,9 +16,10 @@ A resolution expressing the sense of the Senate that effective sharing of passen
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A resolution expressing the sense of the Senate that effective sharing of passen
 
 - 2011-05-09 — Introduced in Senate
 - 2011-05-09 — Referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S2798-2799)
+- 2011-05-11 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2011-05-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment and with a preamble. Without written report.
+- 2011-05-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment and with a preamble. Without written report.
+- 2011-05-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 49.
