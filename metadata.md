@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 16
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 16
@@ -42,3 +42,5 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2011-05-11 — Mr. Denham asked unanimous consent to discharge from committee and consider.
 - 2011-05-11 — On agreeing to the resolution Agreed to without objection. (text: CR H3188-3189)
 - 2011-05-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3188-3189)
+- 2011-05-12 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S2971-2972)
+- 2011-05-12 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2971-2972)
