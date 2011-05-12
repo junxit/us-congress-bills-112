@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 46
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 46
@@ -37,3 +37,5 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers' Memo
 - 2011-05-11 — Mr. Denham asked unanimous consent to discharge from committee and consider.
 - 2011-05-11 — On agreeing to the resolution Agreed to without objection. (text: CR H3189)
 - 2011-05-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3189)
+- 2011-05-12 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S2972)
+- 2011-05-12 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2972)
