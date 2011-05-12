@@ -1,7 +1,7 @@
 ---
 measure: S. 498
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 498
@@ -34,3 +34,5 @@ Independent Task and Delivery Order Review Extension Act of 2011
 - 2011-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 112-16.
 - 2011-05-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 112-16.
 - 2011-05-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 41.
+- 2011-05-12 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2969; text as passed Senate: CR S2969)
+- 2011-05-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S2969; text as passed Senate: CR S2969)
