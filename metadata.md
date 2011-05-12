@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 46
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 46
@@ -39,3 +39,4 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers' Memo
 - 2011-05-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3189)
 - 2011-05-12 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S2972)
 - 2011-05-12 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2972)
+- 2011-05-13 — Message on Senate action sent to the House.
