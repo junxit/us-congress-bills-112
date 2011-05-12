@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1231
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,4 +33,3 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Section 18(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1344(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 18(b) of the Outer Continental Shelf Lands Act (43 U.S.C. 1344(b)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 18 of the Outer Continental Shelf Lands Act (43 U.S.C. 1344) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |

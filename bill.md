@@ -17,12 +17,12 @@ This Act may be cited as the “Reversing President Obama’s Offshore Moratoriu
 
 Section 18(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1344(a)) is amended by adding at the end the following:
 
-> - **(4)**
+> - **(5)**
 >   - **(A)** In each oil and gas leasing program under this section, the Secretary shall make available for leasing and conduct lease sales including—
 >     - **(i)** at least 50 percent of the available unleased acreage within each outer Continental Shelf planning area considered to have the largest undiscovered, technically recoverable oil and gas resources (on a total btu basis) based upon the most recent national geologic assessment of the outer Continental Shelf, with an emphasis on offering the most geologically prospective parts of the planning area; and
 >     - **(ii)** any State subdivision of an outer Continental Shelf planning area that the Governor of the State that represents that subdivision requests be made available for leasing.
 >   - **(B)** In this paragraph the term “available unleased acreage” means that portion of the outer Continental Shelf that is not under lease at the time of a proposed lease sale, and that has not otherwise been made unavailable for leasing by law.
-> - **(5)**
+> - **(6)**
 >   - **(A)** In the 2012–2017 5-year oil and gas leasing program, the Secretary shall make available for leasing any outer Continental Shelf planning areas that—
 >     - **(i)** are estimated to contain more than 2,500,000,000 barrels of oil; or
 >     - **(ii)** are estimated to contain more than 7,500,000,000,000 cubic feet of natural gas.
@@ -41,16 +41,3 @@ Section 18(b) of the Outer Continental Shelf Lands Act (43 U.S.C. 1344(b)) is am
 >     - **(A)** no less than 3,000,000 barrels in the amount of oil produced per day; and
 >     - **(B)** no less than 10,000,000,000 cubic feet in the amount of natural gas produced per day.
 >   - **(3)** *Reporting* The Secretary shall report annually, beginning at the end of the 5-year period for which the program applies, to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on the progress of the program in meeting the production goal. The Secretary shall identify in the report projections for production and any problems with leasing, permitting, or production that will prevent meeting the goal.
-
-## § 4. Seismic surveying promotion
-
-Section 18 of the Outer Continental Shelf Lands Act (43 U.S.C. 1344) is amended by adding at the end the following new subsection:
-
-> - **(i)** *Seismic surveying promotion*
->   - **(1)** *In general* The Secretary shall issue regulations providing for—
->     - **(A)** issuance by the Secretary of seismic surveying cost credits for the provision of data from seismic surveying of the outer Continental Shelf described in paragraph (2); and
->     - **(B)** use of such credits by a person to whom issued, or by a transferee under paragraph (4) of whom the Secretary has received notice under that paragraph, for payment of bonus bids owed by the person or transferee, respectively, for oil and gas lease sales under this section in the planning area where the seismic survey was conducted.
->   - **(2)** *Issuance* The regulations shall provide for the issuance of such credits upon the date of the submission to the Secretary of the data produced by seismic surveying authorized under section 11 of any area for which the most recent seismic data held by the Secretary at the time of the survey is 10 years of age or older.
->   - **(3)** *Value* The value of such credits shall be equal to 50 percent of the costs incurred in conducting seismic surveying to produce the data for which the credits are issued.
->   - **(4)** *Transfer* A person to whom such a credit is issued by the Secretary may transfer the credit once, and shall notify the Secretary of such transfer.
->   - **(5)** *Expiration* A seismic surveying cost credit shall expire 10 years after the date of the submission of the date for which the credit is issued.
