@@ -1,7 +1,7 @@
 ---
 measure: S. 349
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 349
@@ -28,3 +28,8 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2011-02-15 — Introduced in Senate
 - 2011-02-15 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2011-05-03 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2011-05-11 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2011-05-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2011-05-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2011-05-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 46.
