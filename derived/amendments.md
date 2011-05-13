@@ -1,7 +1,7 @@
 ---
 measure: H.R. 754
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 0 executed, 10 stated and not applied.
+14 amendatory instructions. 0 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,11 +33,15 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | amend | Section 113A of the National Security Act of 1947 (50 U.S.C. 404h–1) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The table of contents in the first section of such Act is amended by striking the item relating to section 113A and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(1), by striking “subsection (b)” and inserting “subsections (b) and (c)”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (c) through (f) as subsections (d) through (g), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b), the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (2) as paragraph (3); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1), the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Subject” and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “on an annual basis”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b)(5), by inserting “and counterintelligence” after “human intelligence”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (c) as subsection (d); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
-| — | insert | Chapter 21 of title 10, United States Code, is amended by inserting after section 428 the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections at the beginning of subchapter I of chapter 21 of such title is amended by inserting after the item relating to section 428 the following new item: | the bill names no machine-readable US Code section |
