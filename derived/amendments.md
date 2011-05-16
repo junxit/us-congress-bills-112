@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1229
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 11(d) of the Outer Continental Shelf Lands Act (43 U.S.C. 1340(d)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| `43 U.S.C. § 1340` | amend | Section 11(d) of the Outer Continental Shelf Lands Act (43 U.S.C. 1340(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
