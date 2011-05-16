@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 177
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 177
@@ -28,3 +28,7 @@ A resolution designating the week of May 15 through May 21, 2011, as "National P
 
 - 2011-05-10 — Introduced in Senate
 - 2011-05-10 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2848)
+- 2011-05-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S3000)
+- 2011-05-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S3000)
+- 2011-05-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3000)
+- 2011-05-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3000)
