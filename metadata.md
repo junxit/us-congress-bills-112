@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1540
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1540
@@ -29,3 +29,9 @@ National Defense Authorization Act for Fiscal Year 2012
 - 2011-04-14 — Introduced in House
 - 2011-04-14 — Introduced in House
 - 2011-04-14 — Referred to the House Committee on Armed Services.
+- 2011-05-11 — Committee Consideration and Mark-up Session Held.
+- 2011-05-11 — Mr. Reed asked unanimous consent that the Committee on Armed Services have until 5:00 p.m. on May 17 to file a report on H.R. 1540. Agreed to without objection.
+- 2011-05-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 1.
+- 2011-05-17 — Placed on the Union Calendar, Calendar No. 39.
+- 2011-05-17 — Reported (Amended) by the Committee on Armed Services. H. Rept. 112-78.
+- 2011-05-17 — Reported (Amended) by the Committee on Armed Services. H. Rept. 112-78.
