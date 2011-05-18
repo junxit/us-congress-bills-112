@@ -1,7 +1,7 @@
 ---
 measure: S. 99
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 99
@@ -29,3 +29,8 @@ American Medical Isotopes Production Act of 2011
 - 2011-01-25 — Introduced in Senate
 - 2011-01-25 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S188-189)
 - 2011-01-25 — Sponsor introductory remarks on measure. (CR S188, S189-191)
+- 2011-02-01 — Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 112-4.
+- 2011-04-12 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2011-05-18 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 112-17.
+- 2011-05-18 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 112-17.
+- 2011-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 53.
