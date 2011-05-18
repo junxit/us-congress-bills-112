@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1800
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1800
@@ -33,3 +33,11 @@ FISA Sunsets Reauthorization Act of 2011
 - 2011-05-06 — Introduced in House
 - 2011-05-06 — Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-05-06 — Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-05-11 — Mr. Lungren, Daniel E. asked unanimous consent that the Committee on Judiciary have until 5:00 p.m. on May 18 to file a report on H.R. 1800. Agreed to without objection.
+- 2011-05-12 — Committee Consideration and Mark-up Session Held.
+- 2011-05-12 — Ordered to be Reported by the Yeas and Nays: 22 - 13.
+- 2011-05-18 — Committee on Intelligence (Permanent) discharged.
+- 2011-05-18 — Committee on Intelligence (Permanent) discharged.
+- 2011-05-18 — Placed on the Union Calendar, Calendar No. 40.
+- 2011-05-18 — Reported by the Committee on Judiciary. H. Rept. 112-79, Part I.
+- 2011-05-18 — Reported by the Committee on Judiciary. H. Rept. 112-79, Part I.
