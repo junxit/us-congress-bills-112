@@ -1,7 +1,7 @@
 ---
 measure: H.R. 754
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 754
@@ -130,3 +130,12 @@ Intelligence Authorization Act for Fiscal Year 2011
 - 2011-05-13 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2011-05-16 — Received in the Senate.
 - 2011-05-18 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 56.
+- 2011-05-26 — Passed Senate without amendment by Voice Vote. (consideration: CR S3458)
+- 2011-05-26 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3458)
+- 2011-05-27 — Message on Senate action sent to the House.
+- 2011-06-01 — Presented to President.
+- 2011-06-01 — Presented to President.
+- 2011-06-08 — Became Public Law No: 112-18.
+- 2011-06-08 — Became Public Law No: 112-18.
+- 2011-06-08 — Signed by President.
+- 2011-06-08 — Signed by President.

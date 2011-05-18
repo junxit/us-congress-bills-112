@@ -1,7 +1,7 @@
 ---
 measure: H.R. 754
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 1 executed, 13 stated and not applied.
+14 amendatory instructions. 0 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 50 U.S.C. § 441p
-
-> in subsection (a)(1), by striking “subsection (b)” and inserting “subsections (b) and (c)”;
-
-| | |
-|---|---|
-| Removed | `subsection (b)` |
-| Inserted | `subsections (b) and (c)` |
 
 ## Stated, not applied
 
@@ -42,16 +31,17 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `50 U.S.C. § 404h-1` | amend | Section 113A of the National Security Act of 1947 (50 U.S.C. 404h–1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 404h-1` | replace | The table of contents in the first section of such Act is amended by striking the item relating to section 113A and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 441p` | redesignate | by redesignating subsections (c) through (f) as subsections (d) through (g), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 441p` | insert | by inserting after subsection (b), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1061` | redesignate | by redesignating paragraph (2) as paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1061` | insert | by inserting after paragraph (1), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1061` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 402c` | replace | by striking “Subject” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 402c` | strike | by striking “on an annual basis”; and | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 402c` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 403-5` | insert | in subsection (b)(5), by inserting “and counterintelligence” after “human intelligence”; | the bill quotes the text inserted but describes where it goes |
-| `50 U.S.C. § 403-5` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 403-5` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 113A of the National Security Act of 1947 (50 U.S.C. 404h–1) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | The table of contents in the first section of such Act is amended by striking the item relating to section 113A and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(1), by striking “subsection (b)” and inserting “subsections (b) and (c)”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (c) through (f) as subsections (d) through (g), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b), the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (2) as paragraph (3); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1), the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Subject” and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking “on an annual basis”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b)(5), by inserting “and counterintelligence” after “human intelligence”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (c) as subsection (d); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
