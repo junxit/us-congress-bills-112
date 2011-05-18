@@ -1,7 +1,7 @@
 ---
 measure: S. 629
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 629
@@ -36,3 +36,8 @@ Hydropower Improvement Act of 2011
 - 2011-03-17 — Introduced in Senate
 - 2011-03-17 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2011-03-17 — Sponsor introductory remarks on measure. (CR S1841)
+- 2011-03-31 — Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 112-26.
+- 2011-04-12 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2011-05-18 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 112-19.
+- 2011-05-18 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 112-19.
+- 2011-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 55.
