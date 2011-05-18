@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 15
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 15
@@ -36,3 +36,7 @@ A concurrent resolution supporting the goals and ideals of World Malaria Day, an
 
 - 2011-05-05 — Introduced in Senate
 - 2011-05-05 — Read twice and referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2747)
+- 2011-05-17 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2011-05-18 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
+- 2011-05-18 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
+- 2011-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 57.
