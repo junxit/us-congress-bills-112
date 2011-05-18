@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 174
 congress: 112
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 174
@@ -16,10 +16,11 @@ A resolution expressing the sense of the Senate that effective sharing of passen
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (1)
 
@@ -33,3 +34,11 @@ A resolution expressing the sense of the Senate that effective sharing of passen
 - 2011-05-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment and with a preamble. Without written report.
 - 2011-05-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment and with a preamble. Without written report.
 - 2011-05-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 49.
+- 2011-05-18 — Amendment SA 320 agreed to in Senate by Unanimous Consent.
+- 2011-05-18 — Amendment SA 320 proposed by Senator Reid for Senator Lieberman. (consideration: CR S3114; text: CR S3114) To amend the preamble.
+- 2011-05-18 — Measure laid before Senate by unanimous consent. (consideration: CR S3114)
+- 2011-05-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(text: CR S3114)
+- 2011-05-18 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S3114)
+- 2011-05-18 — Senate amendment agreed to: Amendment SA 320 agreed to in Senate by Unanimous Consent.
+- 2011-05-18 — Senate amendment proposed (on the floor): Amendment SA 320 proposed by Senator Reid for Senator Lieberman.(consideration: CR S3114; text: CR S3114)
+- 2011-05-18 — Senate amendment submitted
