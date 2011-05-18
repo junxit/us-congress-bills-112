@@ -1,7 +1,7 @@
 ---
 measure: H.R. 754
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 754
@@ -128,3 +128,5 @@ Intelligence Authorization Act for Fiscal Year 2011
 - 2011-05-13 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 754.
 - 2011-05-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3293)
 - 2011-05-13 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-05-16 — Received in the Senate.
+- 2011-05-18 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 56.
