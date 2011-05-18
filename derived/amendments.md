@@ -1,7 +1,7 @@
 ---
 measure: S. 398
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-117 amendatory instructions. 3 executed, 114 stated and not applied.
+118 amendatory instructions. 3 executed, 115 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -109,6 +109,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subparagraph (A); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (B) as subparagraph (D); and | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting before subparagraph (D) (as redesignated by paragraph (2)) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 325(i) of the Energy Policy and Conservation Act (42 U.S.C. 6295(i)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (3) as paragraph (5); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “for any manufacturer or private labeler to distribute” and inserting “for any manufacturer (or representative of a manufacturer), distributor, retailer, or private labeler to offer for sale or distribute”; | the bill names no machine-readable US Code section |

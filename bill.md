@@ -525,7 +525,15 @@ Section 325(g)(10) of the Energy Policy and Conservation Act (42 U.S.C. 6295(g)(
   >     - **(I)** *Amendment of standard* Section 323(e)(3) shall not apply to the amended standards described in clause (i).
   >     - **(II)** *Amended standards* The amended standards required by this subparagraph shall apply to products manufactured on or after January 1, 2013.
 
-## § 16. Petition for amended standards
+## § 16. Standards for certain reflector lamps
+
+Section 325(i) of the Energy Policy and Conservation Act (42 U.S.C. 6295(i)) is amended by adding at the end the following:
+
+> - **(9)** *Reflector lamps* In conducting rulemakings for reflector lamps after January 1, 2014, the Secretary shall consider—
+>   - **(A)** incandescent and nonincandescent technologies; and
+>   - **(B)** a new energy-related measure, other than lumens per watt, that is based on the photometric distribution of those lamps.
+
+## § 16.17. Petition for amended standards
 
 Section 325(n) of the Energy Policy and Conservation Act (42 U.S.C. 6295(n)) is amended—
 
@@ -536,7 +544,7 @@ Section 325(n) of the Energy Policy and Conservation Act (42 U.S.C. 6295(n)) is 
   >   - **(A)** a final rule that contains the new or amended standards; or
   >   - **(B)** a determination that no new or amended standards are necessary.
 
-## § 17. Prohibited acts
+## § 17.18. Prohibited acts
 
 Section 332(a) of the Energy Policy and Conservation Act (42 U.S.C. 6302(a)) is amended—
 
@@ -556,7 +564,7 @@ Section 332(a) of the Energy Policy and Conservation Act (42 U.S.C. 6302(a)) is 
   > - **(9)** for any manufacturer or private labeler to distribute in commerce any new covered product that has not been properly tested in accordance with the requirements established in or prescribed under this part; and
   > - **(10)** for any manufacturer or private labeler to violate any regulation lawfully promulgated to implement any provision of this part.
 
-## § 18. Outdoor lighting
+## § 18.19. Outdoor lighting
 
 - **(a)** *Definitions*
   - **(1)** *Covered equipment* Section 340(1) of the Energy Policy and Conservation Act (42 U.S.C. 6311(1)) is amended—
@@ -606,13 +614,13 @@ Section 332(a) of the Energy Policy and Conservation Act (42 U.S.C. 6302(a)) is 
     >   - **(1)** *In general* Except as provided in paragraph (2), section 327 shall apply to high light output double-ended quartz halogen lamps to the same extent and in the same manner as described in section 325(nn)(1).
     >   - **(2)** *State energy conservation standards* Any State energy conservation standard that is adopted on or before January 1, 2015, pursuant to a statutory requirement to adopt efficiency standard for reducing outdoor lighting energy use enacted prior to January 31, 2008, shall not be preempted.
 
-## § 19. Standards for commercial furnaces
+## § 19.20. Standards for commercial furnaces
 
 Section 342(a) of the Energy Policy and Conservation Act (42 U.S.C. 6313(a)) is amended by adding at the end the following:
 
 > - **(11)** Warm air furnaces with an input rating of 225,000 Btu per hour or more and manufactured on or after the date that is 1 year after the date of enactment of this paragraph shall meet the following standard levels:
 >   - **(A)** Gas-fired units shall—
->     - **(i)** have a minimum combustion efficiency of 80 percent;
+>     - **(i)** have a minimum combustionthermal efficiency of 80 percent;
 >     - **(ii)** include an interrupted or intermittent ignition device;
 >     - **(iii)** have jacket losses not exceeding 0.75 percent of the input rating; and
 >     - **(iv)** have power venting or a flue damper.
@@ -621,7 +629,7 @@ Section 342(a) of the Energy Policy and Conservation Act (42 U.S.C. 6313(a)) is 
 >     - **(ii)** jacket losses not exceeding 0.75 percent of the input rating; and
 >     - **(iii)** power venting or a flue damper.
 
-## § 20. Service over the counter, self-contained, medium temperature commercial refrigerators
+## § 20.21. Service over the counter, self-contained, medium temperature commercial refrigerators
 
 Section 342(c) of the Energy Policy and Conservation Act (42 U.S.C. 6313(c)) is amended—
 
@@ -637,7 +645,7 @@ Section 342(c) of the Energy Policy and Conservation Act (42 U.S.C. 6313(c)) is 
 - **(3)** by inserting after paragraph (3) the following:
   > - **(4)** Each SOC–SC–M manufactured on or after January 1, 2012, shall have a total daily energy consumption (in kilowatt hours per day) of not more than 0.6 x TDA + 1.0.
 
-## § 21. Motor market assessment and commercial awareness program
+## § 21.22. Motor market assessment and commercial awareness program
 
 - **(a)** *Findings* Congress finds that—
   - **(1)** electric motor systems account for about half of the electricity used in the United States;
@@ -674,19 +682,19 @@ Section 342(c) of the Energy Policy and Conservation Act (42 U.S.C. 6313(c)) is 
   - **(2)** improvements in motor system procurement and management procedures in the selection of higher efficiency electric motors and motor-system components, including drives, controls, and driven equipment; and
   - **(3)** criteria for making decisions for new, replacement, or repair motor and motor system components.
 
-## § 22. Study of compliance with energy standards for appliances
+## § 22.23. Study of compliance with energy standards for appliances
 
 - **(a)** *In general* The Secretary of Energy shall conduct a study of the degree of compliance with energy standards for appliances, including an investigation of compliance rates and options for improving compliance, including enforcement.
 - **(b)** *Report* Not later than 18 months after the date of enactment of this Act, the Secretary of Energy shall submit to the appropriate committees of Congress a report describing the results of the study, including any recommendations.
 
-## § 23. Study of direct current electricity supply in certain buildings
+## § 23.24. Study of direct current electricity supply in certain buildings
 
 - **(a)** *In general* The Secretary of Energy shall conduct a study—
   - **(1)** of the costs and benefits (including significant energy efficiency, power quality, and other power grid, safety, and environmental benefits) of requiring high-quality, direct current electricity supply in buildings; and
   - **(2)** to determine, if the requirement described in paragraph (1) is imposed, what the policy and role of the Federal Government should be in realizing those benefits.
 - **(b)** *Report* Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to the appropriate committees of Congress a report describing the results of the study, including any recommendations.
 
-## § 24. Technical corrections
+## § 24.25. Technical corrections
 
 - **(a)** *Title III of Energy Independence and Security Act of 2007—Energy savings through improved standards for appliances and lighting*
   - **(1)** Section 325(u) of the Energy Policy and Conservation Act (42 U.S.C. 6295(u)) (as amended by section 301(c) of the Energy Independence and Security Act of 2007 (121 Stat. 1550)) is amended—
