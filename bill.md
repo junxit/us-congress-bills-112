@@ -31,5 +31,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
 That the Senate—
 
 - **(1)** honors the life, achievements, and distinguished career of Senator and Vice President Hubert H. Humphrey upon the occasion of his 100th birthday;
-- **(2)** recognizes that Hubert H. Humphrey's legislative achievements helped resolve many of this Nation’s most polarizing issues, such as civil rights, equal opportunity, and nuclear arms control; and
-- **(3)** acknowledges the importance of a vibrant and responsive public sector, as illustrated by the numerous legislative achievements of Hubert H. Humphrey and his lifetime of service to all people in the United States and to people around the world.
+- **(2)** recognizes that Hubert H. Humphrey's legislative achievements helped resolve many of this Nation’s most polarizing issues, such as civil rights, equal opportunity, and nuclear arms control.
