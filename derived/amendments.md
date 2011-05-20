@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1657
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | by striking “Any business” and inserting “(1) Any business”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “a reasonable period of time, as determined by the Secretary” and inserting “a period of not less than five years”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |

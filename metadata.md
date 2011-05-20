@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1657
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1657
@@ -25,3 +25,12 @@ To amend title 38, United States Code, to revise the enforcement penalties for m
 - 2011-04-15 — Introduced in House
 - 2011-04-15 — Introduced in House
 - 2011-04-15 — Referred to the House Committee on Veterans' Affairs.
+- 2011-04-29 — Referred to the Subcommittee on Economic Opportunity.
+- 2011-05-03 — Subcommittee Hearings Held.
+- 2011-05-05 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2011-05-05 — Subcommittee Consideration and Mark-up Session Held.
+- 2011-05-12 — Committee Consideration and Mark-up Session Held.
+- 2011-05-12 — Ordered to be Reported by Voice Vote.
+- 2011-05-20 — Placed on the Union Calendar, Calendar No. 46.
+- 2011-05-20 — Reported by the Committee on Veterans' Affairs. H. Rept. 112-85. Filed late, pursuant to previous special order.
+- 2011-05-20 — Reported by the Committee on Veterans' Affairs. H. Rept. 112-85. Filed late, pursuant to previous special order.
