@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1627
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1627
@@ -33,3 +33,15 @@ Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012
 - 2011-04-15 — Introduced in House
 - 2011-04-15 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-04-15 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-04-29 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2011-05-03 — Subcommittee Hearings Held.
+- 2011-05-05 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2011-05-05 — Subcommittee Consideration and Mark-up Session Held.
+- 2011-05-12 — Committee Consideration and Mark-up Session Held.
+- 2011-05-12 — Ordered to be Reported by Voice Vote.
+- 2011-05-18 — Referred to the Subcommittee on Military Personnel.
+- 2011-05-20 — Committee on Armed Services discharged.
+- 2011-05-20 — Committee on Armed Services discharged.
+- 2011-05-20 — Placed on the Union Calendar, Calendar No. 45.
+- 2011-05-20 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-84, Part I. Filed late, pursuant to previous special order.
+- 2011-05-20 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-84, Part I. Filed late, pursuant to previous special order.
