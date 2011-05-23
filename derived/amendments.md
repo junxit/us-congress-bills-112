@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1745
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,15 +33,14 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Section 303(a) of the Social Security Act is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (10) of section 303(a) of the Social Security Act is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Paragraph (8) of section 3304 of the Internal Revenue Code of 1986 is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Title III of the Social Security Act (42 U.S.C. 501 and following) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (8) of section 3304(a) of the Internal Revenue Code of 1986 is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title III of the Social Security Act (42 U.S.C. 501 and following) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A), by inserting “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “, and” and inserting a period; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (C). | the bill names no machine-readable US Code section |
 | — | repeal | Subsection (g) of section 4001 of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) is repealed. | the bill names no machine-readable US Code section |
-| — | amend | Title IX of the Social Security Act is amended by adding the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of contents of title IX of the Social Security Act is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | Subparagraph (D) of section 3304(a)(4) of the Internal Revenue Code of 1986 is amended by striking “may” and inserting “shall”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Title IX of the Social Security Act is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 3304(a)(4)(D) of the Internal Revenue Code of 1986 and section 303(g)(1) of the Social Security Act are amended by striking “may” and inserting “shall”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 903 of the Social Security Act is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | repeal | Section 4003 of the Supplemental Appropriations Act, 2008 is repealed. | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (F), by striking “and” after the semicolon; and | the bill names no machine-readable US Code section |
@@ -49,4 +48,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (a), by striking “January 4, 2012” and inserting “July 6, 2011”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “January 4, 2012” and inserting “the date of enactment of the JOBS Act of 2011”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (c). | the bill names no machine-readable US Code section |
-| — | replace | Section 502 of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 (Public Law 111–312; 26 U.S.C. 3304 note) is amended by striking “December 31, 2011” each place it appears and inserting “June 30, 2011”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d) (in the next to last sentence), by striking “December 31, 2011” and inserting “June 30, 2011”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (f)(2), by striking “December 31, 2011” and inserting “June 30, 2011”. | the bill names no machine-readable US Code section |
