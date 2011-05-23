@@ -1,7 +1,7 @@
 ---
 measure: S. 655
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 655
@@ -16,9 +16,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Cochran, Thad [R-MS] (C000567)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -31,3 +32,6 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2011-05-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 47.
 - 2011-05-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3000; text as passed Senate: CR S3000)
 - 2011-05-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3000; text as passed Senate: CR S3000)
+- 2011-05-17 — Message on Senate action sent to the House.
+- 2011-05-23 — Received in the House.
+- 2011-05-23 — Referred to the House Committee on Oversight and Government Reform.
