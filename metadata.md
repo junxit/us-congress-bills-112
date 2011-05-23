@@ -1,7 +1,7 @@
 ---
 measure: S. 349
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 349
@@ -25,6 +25,10 @@ A bill to designate the facility of the United States Postal Service located at 
 - Senate — Homeland Security and Governmental Affairs Committee
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2011-06-21 — [House 112-1-462](votes/house-112-1-0462.md) — On Motion to Suspend the Rules and Pass — **Passed** (397–0)
+
 ## Actions
 
 - 2011-02-15 — Introduced in Senate
@@ -39,3 +43,17 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2011-05-17 — Message on Senate action sent to the House.
 - 2011-05-23 — Received in the House.
 - 2011-05-23 — Referred to the House Committee on Oversight and Government Reform.
+- 2011-06-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-06-21 — Considered as unfinished business. (consideration: CR H4346)
+- 2011-06-21 — Considered under suspension of the rules. (consideration: CR H4341-4342)
+- 2011-06-21 — DEBATE - The House proceeded with forty minutes of debate on S. 349.
+- 2011-06-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-06-21 — Mr. Farenthold moved to suspend the rules and pass the bill.
+- 2011-06-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 462). (text: CR H4341-4342)
+- 2011-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 462).(text: CR H4341-4342)
+- 2011-06-23 — Presented to President.
+- 2011-06-23 — Presented to President.
+- 2011-06-29 — Became Public Law No: 112-22.
+- 2011-06-29 — Became Public Law No: 112-22.
+- 2011-06-29 — Signed by President.
+- 2011-06-29 — Signed by President.
