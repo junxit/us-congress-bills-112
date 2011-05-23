@@ -1,7 +1,7 @@
 ---
 measure: S. 655
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 655
@@ -35,3 +35,15 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2011-05-17 — Message on Senate action sent to the House.
 - 2011-05-23 — Received in the House.
 - 2011-05-23 — Referred to the House Committee on Oversight and Government Reform.
+- 2011-06-21 — Considered under suspension of the rules. (consideration: CR H4344)
+- 2011-06-21 — DEBATE - The House proceeded with forty minutes of debate on S. 655.
+- 2011-06-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-06-21 — Mr. Farenthold moved to suspend the rules and pass the bill.
+- 2011-06-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4344)
+- 2011-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4344)
+- 2011-06-23 — Presented to President.
+- 2011-06-23 — Presented to President.
+- 2011-06-29 — Became Public Law No: 112-23.
+- 2011-06-29 — Became Public Law No: 112-23.
+- 2011-06-29 — Signed by President.
+- 2011-06-29 — Signed by President.
