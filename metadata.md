@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1627
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1627
@@ -27,6 +27,10 @@ Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012
 - House — Armed Services Committee
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2011-05-23 — [House 112-1-330](votes/house-112-1-0330.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (380–0)
+
 ## Actions
 
 - 2011-04-15 — Introduced in House
@@ -45,3 +49,11 @@ Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012
 - 2011-05-20 — Placed on the Union Calendar, Calendar No. 45.
 - 2011-05-20 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-84, Part I. Filed late, pursuant to previous special order.
 - 2011-05-20 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-84, Part I. Filed late, pursuant to previous special order.
+- 2011-05-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-05-23 — Considered as unfinished business. (consideration: CR H3319-3320)
+- 2011-05-23 — Considered under suspension of the rules. (consideration: CR H3310-3313)
+- 2011-05-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1627.
+- 2011-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-05-23 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2011-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 330). (text: CR H3310-3311)
+- 2011-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 330).(text: CR H3310-3311)
