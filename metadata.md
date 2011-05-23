@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1657
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1657
@@ -20,6 +20,10 @@ To amend title 38, United States Code, to revise the enforcement penalties for m
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2011-05-23 — [House 112-1-332](votes/house-112-1-0332.md) — On Motion to Suspend the Rules and Pass — **Passed** (385–1)
+
 ## Actions
 
 - 2011-04-15 — Introduced in House
@@ -34,3 +38,11 @@ To amend title 38, United States Code, to revise the enforcement penalties for m
 - 2011-05-20 — Placed on the Union Calendar, Calendar No. 46.
 - 2011-05-20 — Reported by the Committee on Veterans' Affairs. H. Rept. 112-85. Filed late, pursuant to previous special order.
 - 2011-05-20 — Reported by the Committee on Veterans' Affairs. H. Rept. 112-85. Filed late, pursuant to previous special order.
+- 2011-05-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-05-23 — Considered as unfinished business. (consideration: CR H3321-3322)
+- 2011-05-23 — Considered under suspension of the rules. (consideration: CR H3316-3317)
+- 2011-05-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1657.
+- 2011-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-05-23 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
+- 2011-05-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 1 (Roll no. 332). (text: CR H3316)
+- 2011-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 1 (Roll no. 332).(text: CR H3316)
