@@ -26,6 +26,10 @@ This Act may be cited as the “Restoring GI Bill Fairness Act of 2011”.
   - **(2)** The term established charges, with respect to a program of education, means the actual charges (as determined pursuant to regulations prescribed by the Secretary of Veterans Affairs on the basis of a full academic year) for tuition and fees which similarly circumstanced nonveterans enrolled in the program of education would be required to pay.
   - **(3)** The term institution of higher learning has the meaning given that term in section 3452(f) of title 38, United States Code.
 
-## § 3. Limitation on cost of living increases for certain educational assistance programs of the Department of Veterans Affairs
+## § 3. Extension of loan guaranty fee for certain subsequent loans
 
-During the 24-month period beginning on August 1, 2011, the maximum amount of the monthly stipend payable under subparagraph (B) of paragraph (1) of subsection (c) of section 3313 of title 38, United States Code, is the amount payable under clause (i) of such subparagraph on August 1, 2011. Upon the expiration on the 24-month period, the amount of such monthly stipend shall be the amount otherwise authorized under section 3313(c)(1)(B) of title 38, United States Code.
+- **(a)** *Extension* Section 3729(b)(2)(B)(ii) of title 38, United States Code, is amended—
+  - **(1)** by striking “January 1, 2004, and before October 1, 2011” and inserting “October 1, 2011, and before October 1, 2012”; and
+  - **(2)** by striking “3.30” both places it appears and inserting “2.80”.
+- **(b)** *Conforming amendment* Section 3729(b)(2)(B)(iii) of such title is amended by striking “October 1, 2011” and inserting “October 1, 2012”.
+- **(c)** *Effective date* The amendments made by subsections (a) and (b) shall take effect on October 1, 2011.
