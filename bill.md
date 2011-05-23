@@ -23,10 +23,15 @@ This Act may be cited as “Veterans’ Compensation Cost-of-Living Adjustment A
   - **(4)** *Dependency and indemnity compensation to surviving spouse* Each of the dollar amounts under subsections (a) through (d) of section 1311 of such title.
   - **(5)** *Dependency and indemnity compensation to children* Each of the dollar amounts under sections 1313(a) and 1314 of such title.
 - **(c)** *Determination of Increase*
-  - **(1)** *Percentage* Except as provided in paragraph (2), each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 2010, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
+  - **(1)** *Percentage* Except as provided in paragraph (2), each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 2011, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
   - **(2)** *Rounding* Each dollar amount increased under paragraph (1), if not a whole dollar amount, shall be rounded to the next lower whole dollar amount.
 - **(d)** *Special rule* The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a), the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) who have not received compensation under chapter 11 of title 38, United States Code.
 
 ## § 3. Publication of adjusted rates
 
 The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2012.
+
+## § 4. Extension of authority of the Secretary of Veterans Affairs to provide specially adapted housing assistance to individuals residing temporarily in housing owned by a family member
+
+- **(a)** *Short title* This section may be cited as the “Andrew Connolly Veterans' Housing Act”.
+- **(b)** *Extension* Section 2102A(e) of title 38, United States Code, is amended by striking “December 31, 2011” and inserting “December 31, 2016”.

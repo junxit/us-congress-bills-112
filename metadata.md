@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1407
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1407
@@ -45,3 +45,9 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2011
 - 2011-05-20 — Placed on the Union Calendar, Calendar No. 43.
 - 2011-05-20 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-82. Filed late, pursuant to previous special order.
 - 2011-05-20 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-82. Filed late, pursuant to previous special order.
+- 2011-05-23 — Considered under suspension of the rules. (consideration: CR H3308-3310)
+- 2011-05-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1407.
+- 2011-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-05-23 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2011-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3308-3309)
+- 2011-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3308-3309)
