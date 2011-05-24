@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1383
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+3 amendatory instructions. 3 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -22,15 +22,31 @@ document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
-## Stated, not applied
+## Executed
 
-Each of these is reproduced as the bill writes it, with the reason
-it was not executed. They are listed rather than dropped: an
-instruction that vanished would leave this file reading as a
-complete account of the bill's effect, which it is not.
+### 38 U.S.C. § 3729
 
-| Target | Operation | Instruction | Why not applied |
-|---|---|---|---|
-| — | replace | by striking “January 1, 2004, and before October 1, 2011” and inserting “October 1, 2011, and before October 1, 2012”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “3.30” both places it appears and inserting “2.80”. | the bill names no machine-readable US Code section |
-| — | replace | Section 3729(b)(2)(B)(iii) of such title is amended by striking “October 1, 2011” and inserting “October 1, 2012”. | the bill names no machine-readable US Code section |
+> by striking “January 1, 2004, and before October 1, 2011” and inserting “October 1, 2011, and before October 1, 2012”; and
+
+| | |
+|---|---|
+| Removed | `January 1, 2004, and before October 1, 2011` |
+| Inserted | `October 1, 2011, and before October 1, 2012` |
+
+### 38 U.S.C. § 3729
+
+> by striking “3.30” both places it appears and inserting “2.80”.
+
+| | |
+|---|---|
+| Removed | `3.30` |
+| Inserted | `2.80` |
+
+### 38 U.S.C. § 3729
+
+> Section 3729(b)(2)(B)(iii) of such title is amended by striking “October 1, 2011” and inserting “October 1, 2012”.
+
+| | |
+|---|---|
+| Removed | `October 1, 2011` |
+| Inserted | `October 1, 2012` |

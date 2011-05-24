@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1383
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1383
@@ -30,9 +30,10 @@ Restoring GI Bill Fairness Act of 2011
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
 - Rep. Serrano, Jose E. [D-NY-16] (S000248)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -61,3 +62,4 @@ Restoring GI Bill Fairness Act of 2011
 - 2011-05-23 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
 - 2011-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 331). (text: CR H3313-3314)
 - 2011-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 331).(text: CR H3313-3314)
+- 2011-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
