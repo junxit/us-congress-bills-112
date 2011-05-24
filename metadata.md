@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1407
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1407
@@ -27,9 +27,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2011
 - Rep. Braley, Bruce L. [D-IA-1] (B001259)
 - Rep. Ellmers, Renee L. [R-NC-2] (E000291)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2011
 - 2011-05-23 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
 - 2011-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3308-3309)
 - 2011-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3308-3309)
+- 2011-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
