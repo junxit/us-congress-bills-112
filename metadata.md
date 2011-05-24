@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1893
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1893
@@ -45,3 +45,10 @@ Airport and Airway Extension Act of 2011, Part II
 - 2011-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3317-3318)
 - 2011-05-24 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S3263)
 - 2011-05-24 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S3263)
+- 2011-05-25 — Message on Senate action sent to the House.
+- 2011-05-26 — Presented to President.
+- 2011-05-26 — Presented to President.
+- 2011-05-31 — Became Public Law No: 112-16.
+- 2011-05-31 — Became Public Law No: 112-16.
+- 2011-05-31 — Signed by President.
+- 2011-05-31 — Signed by President.
