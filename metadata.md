@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 269
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 269
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 1216) to amend the Public Health S
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2011-05-24 — [House 112-1-333](votes/house-112-1-0333.md) — On Ordering the Previous Question — **Passed** (233–179)
+- 2011-05-24 — [House 112-1-334](votes/house-112-1-0334.md) — On Agreeing to the Resolution — **Passed** (238–181)
+
 ## Actions
 
 - 2011-05-23 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 1216) to amend the Public Health S
 - 2011-05-23 — The House Committee on Rules reported an original measure, H. Rept. 112-86, by Ms. Foxx.
 - 2011-05-23 — The House Committee on Rules reported an original measure, H. Rept. 112-86, by Ms. Foxx.
 - 2011-05-23 — The rule provides for 1 hour of general debate and waives all points of order against consideration of the measures. The rule provides one motion to recommit H.R. 1216 with or without instructions. The rule also provides that after general debate on H.R. 1540, the Committee of the Whole shall rise without motion and that no further consideration of the bill shall occur except pursuant to a subsequent order of the House. The rule provides that after general debate on H.R. 1216 the measure shall be considered for amendment under the five-minute rule and shall be considered as read. The rule makes in orderonly those amendments that are received for printing in the Congressional Record dated May 23, 2011, and pro forma amendments for the purpose of debate. The rule waives clause 6(a) of rule XIII (requiring a two-thirds vote to consider a rule on the same day it is reported from the Rules Committee) against any resolution reported from the Rules Committee providing for consideration or disposition of a measure addressing expiring provisions of the USA PATRIOT Improvement and Requthorization Act of 2005, through the legislative day of May 27, 2011.
+- 2011-05-24 — Considered as privileged matter. (consideration: CR H3353-3361)
+- 2011-05-24 — DEBATE - The House proceeded with one hour of debate on H. Res. 269.
+- 2011-05-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-05-24 — On agreeing to the resolution Agreed to by recorded vote: 238 - 181 (Roll no. 334). (text: CR H3353-3354)
+- 2011-05-24 — On ordering the previous question Agreed to by the Yeas and Nays: 233 - 179 (Roll no. 333). (consideration: CR H3360-3361)
+- 2011-05-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 238 - 181 (Roll no. 334).(text: CR H3353-3354)
