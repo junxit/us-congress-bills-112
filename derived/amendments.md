@@ -1,7 +1,7 @@
 ---
 measure: S. 990
 congress: 112
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 0 executed, 11 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,14 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking “Any” and inserting “Except as provided in section 3 of the Small Business Additional Temporary Extension Act of 2011, any”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “May 31, 2011” each place it appears and inserting “June 30, 2011”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “Termination.—” and all that follows through “the authorization” and inserting “Termination.—The authorization”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “September 30, 2008” and inserting “May 31, 2012”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraph (2). | the bill names no machine-readable US Code section |
-| — | replace | by striking “In general.—” and all that follows through “each Federal” and inserting “In general.—Each Federal”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “that fiscal year” and inserting “a fiscal year”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking clause (ii); and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 9(y)(6) of the Small Business Act (15 U.S.C. 638(y)(6)) is amended by striking “at the end of fiscal year 2010” and inserting “on May 31, 2012”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 9 of the Small Business Act (15 U.S.C. 638) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 1 of the Act entitled “An Act to extend temporarily certain authorities of the Small Business Administration”, approved October 10, 2006 (Public Law 109–316; 120 Stat. 1742), as most recently amended by section 1 of Public Law 11… | the bill names no machine-readable US Code section |
+| — | insert | Section 9 of the Small Business Act (15 U.S.C. 638) is amended by inserting after subsection (r) the following: | the bill names no machine-readable US Code section |
