@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1627
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1627
@@ -22,10 +22,11 @@ Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 - Rep. Johnson, Bill [R-OH-6] (J000292)
 
-## Committees (2)
+## Committees (3)
 
 - House — Armed Services Committee
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012
 - 2011-05-23 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
 - 2011-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 330). (text: CR H3310-3311)
 - 2011-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 330).(text: CR H3310-3311)
+- 2011-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
