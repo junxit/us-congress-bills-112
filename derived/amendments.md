@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1657
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+3 amendatory instructions. 2 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 38 U.S.C. § 8127
+
+> by striking “Any business” and inserting “(1) Any business”;
+
+| | |
+|---|---|
+| Removed | `Any business` |
+| Inserted | `(1) Any business` |
+
+### 38 U.S.C. § 8127
+
+> by striking “a reasonable period of time, as determined by the Secretary” and inserting “a period of not less than five years”; and
+
+| | |
+|---|---|
+| Removed | `a reasonable period of time, as determined by the Secretary` |
+| Inserted | `a period of not less than five years` |
 
 ## Stated, not applied
 
@@ -31,6 +51,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking “Any business” and inserting “(1) Any business”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “a reasonable period of time, as determined by the Secretary” and inserting “a period of not less than five years”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 8127` | amend | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

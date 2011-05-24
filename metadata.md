@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1657
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1657
@@ -16,9 +16,10 @@ To amend title 38, United States Code, to revise the enforcement penalties for m
 
 - Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ To amend title 38, United States Code, to revise the enforcement penalties for m
 - 2011-05-23 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
 - 2011-05-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 1 (Roll no. 332). (text: CR H3316)
 - 2011-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 1 (Roll no. 332).(text: CR H3316)
+- 2011-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
