@@ -21,3 +21,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(c)** *Technical correction* The second subpart XI of part D of title III of the Public Health Service Act (42 U.S.C. 256i), as added by section 10333 of the Patient Protection and Affordable Care Act (Public Law 111–148), is amended—
   - **(1)** by redesignating subpart XI as subpart XII; and
   - **(2)** by redesignating section 340H of the Public Health Service Act (42 U.S.C. 256i) as section 340I.
+- **(d)** *Prohibition against abortion* Section 340H of the Public Health Service Act (42 U.S.C. 256h) is amended by adding at the end the following new subsection:
+  > - **(k)** *Prohibition against abortion*
+  >   - **(1)** None of the funds made available pursuant to subsection (g) shall be used to provide any abortion or training in the provision of abortions.
+  >   - **(2)** Paragraph (1) shall not apply to an abortion—
+  >     - **(A)** if the pregnancy is the result of an act of rape or incest; or
+  >     - **(B)** in the case where a woman suffers from a physical disorder, physical injury, or physical illness, that would, as certified by a physician, place the woman in danger of death unless an abortion is performed including a life endangering physical condition caused by or arising from the pregnancy itself.
+  >   - **(3)** None of the funds made available pursuant to subsection (g) may be provided to a qualified teaching health center if such center subjects any institutional or individual health care entity to discrimination on the basis that the health care entity does not provide, pay for, provide coverage of, or refer for abortions.
+  >   - **(4)** In this subsection, the term “health care entity” includes an individual physician or other health care professional, a hospital, a provider-sponsored organization, a health maintenance organization, a health insurance plan, or any other kind of health care facility, organization, or plan.
