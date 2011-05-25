@@ -1,0 +1,43 @@
+---
+legis-num: S. 1067
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1067
+
+> To amend the Energy Policy Act of 2005 to require the Secretary of Energy to carry out a research and development and demonstration program to reduce manufacturing and construction costs relating to nuclear reactors, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Nuclear Energy Research Initiative Improvement Act of 2011”.
+
+## § 2. Nuclear energy research initiative
+
+Section 952(a) of the Energy Policy Act of 2005 (42 U.S.C. 16272(a)) is amended—
+
+- **(1)** by striking “The Secretary” and inserting the following:
+  > - **(1)** *In general* The Secretary;
+
+- **(2)** by adding at the end the following:
+  > - **(2)** *Authorized research initiatives* In carrying out the program under this subsection, the Secretary shall conduct research to lower the cost of nuclear reactor systems, including research regarding—
+  >   - **(A)** modular and small-scale reactors;
+  >   - **(B)** balance-of-plant issues;
+  >   - **(C)** cost-efficient manufacturing and construction;
+  >   - **(D)** licensing issues; and
+  >   - **(E)** enhanced proliferation controls.
+  > - **(3)** *Consultation requirement* In carrying out initiatives under paragraph (2), the Secretary shall consult with—
+  >   - **(A)** the Secretary of Commerce;
+  >   - **(B)** the Secretary of the Treasury;
+  >   - **(C)** the Nuclear Regulatory Commission; and
+  >   - **(D)** any other individual who the Secretary determines to be necessary.
+  > - **(4)** *Schedule*
+  >   - **(A)** *In general* Not later than 180 days after the date of enactment of this paragraph, the Secretary shall develop and publish on the website of the Department of Energy a schedule that contains an outline of a 5-year strategy to lower effectively the costs of nuclear reactors.
+  >   - **(B)** *Public workshops* In developing the schedule under subparagraph (A), the Secretary shall conduct public workshops to provide an opportunity for public comment.
+  >   - **(C)** *Review* Before the date on which the Secretary publishes the schedule under subparagraph (A), the Nuclear Energy Advisory Committee shall conduct a review of the schedule.
+  >   - **(D)** *Annual updates*
+  >     - **(i)** *In general* Not later than 180 days after the date on which the Secretary publishes the schedule under subparagraph (A) and annually thereafter, the Secretary shall update the schedule.
+  >     - **(ii)** *Public workshops* In updating the schedule under clause (i), the Secretary shall conduct public workshops in accordance with subparagraph (B).
+  > - **(5)** *Cost sharing* Section 988 shall apply to initiatives carried out under this section.
+  > - **(6)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2012 through 2016.
