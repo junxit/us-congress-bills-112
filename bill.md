@@ -2,7 +2,7 @@
 legis-num: H. RES. 276
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 276
@@ -25,3 +25,24 @@ It shall be in order at any time for the chair of the Committee on Armed Service
 ## § 4.
 
 At the conclusion of consideration of the bill for amendment the Committee shall rise and report the bill to the House with such amendments as may have been adopted. Any Member may demand a separate vote in the House on any amendment adopted in the Committee of the Whole to the bill or to the committee amendment in the nature of a substitute. The previous question shall be considered as ordered on the bill and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions.
+
+## § 5.
+
+Notwithstanding any other provision of this resolution, the amendment specified in section 6 shall be in order in lieu of amendment number 5 in House Report 111–88.
+
+## § 6.
+
+The text referred to in section 5 is as follows:
+
+Page 113, after line 17, insert the following:
+
+> ## § 317. Health assessment reports required when waste is disposed of in open-air burn pits
+>
+> Section 317 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2250; 10 U.S.C. 2701 note) is amended—
+>
+> - **(1)** by redesignating subsection (c) as subsection (d); and
+> - **(2)** by inserting after subsection (b) the following new subsection (c):
+>   > - **(c)** *Health assessment reports* Not later than 180 days after notice is due under subsection (a)(2), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a health assessment report on each open-air burn pit at a location where at least 100 personnel have been employed for 90 consecutive days or more. Each such report shall include each of the following:
+>   >   - **(1)** An epidemiological description of the short-term and long-term health risks posed to personnel in the area where the burn pit is located because of exposure to the open-air burn pit.
+>   >   - **(2)** A copy of the methodology used to determine the health risks described in paragraph (1).
+>   >   - **(3)** A copy of the assessment of the operational risks and health risks when making the determination pursuant to subsection (a) that no alternative disposal method is feasible for the open-air burn pit.
