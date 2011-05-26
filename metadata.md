@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 13
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 13
@@ -118,9 +118,11 @@ A concurrent resolution honoring the service and sacrifice of members of the Uni
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Armed Services Committee
+- House — Armed Services Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -130,3 +132,7 @@ A concurrent resolution honoring the service and sacrifice of members of the Uni
 - 2011-05-25 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S3365)
 - 2011-05-25 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S3365)
 - 2011-05-25 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S3365)
+- 2011-05-26 — Message on Senate action sent to the House.
+- 2011-05-26 — Received in the House.
+- 2011-05-26 — Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-05-26 — Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
