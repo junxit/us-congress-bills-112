@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1216
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+6 amendatory instructions. 2 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 256h
+
+> in subsection (b)(2)(A), by striking “under subsection (g)” each place it appears and inserting “pursuant to subsection (g)”;
+
+| | |
+|---|---|
+| Removed | `under subsection (g)` |
+| Inserted | `pursuant to subsection (g)` |
+
+### 42 U.S.C. § 256h
+
+> in subsection (d)(2)(B), by striking “in subsection (g)” and inserting “pursuant to subsection (g)”; and
+
+| | |
+|---|---|
+| Removed | `in subsection (g)` |
+| Inserted | `pursuant to subsection (g)` |
 
 ## Stated, not applied
 
@@ -31,9 +51,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subsection (b)(2)(A), by striking “under subsection (g)” each place it appears and inserting “pursuant to subsection (g)”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d)(2)(B), by striking “in subsection (g)” and inserting “pursuant to subsection (g)”; and | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (g) to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subpart XI as subpart XII; and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating section 340H of the Public Health Service Act (42 U.S.C. 256i) as section 340I. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 340H of the Public Health Service Act (42 U.S.C. 256h) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 256h` | amend | by amending subsection (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 256i` | redesignate | by redesignating subpart XI as subpart XII; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 256i` | redesignate | by redesignating section 340H of the Public Health Service Act (42 U.S.C. 256i) as section 340I. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 256h` | add-at-end | Section 340H of the Public Health Service Act (42 U.S.C. 256h) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1216
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1216
@@ -16,9 +16,10 @@ To amend the Public Health Service Act to convert funding for graduate medical e
 
 - Rep. Guthrie, Brett [R-KY-2] (G000558)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (6)
 
@@ -100,3 +101,4 @@ To amend the Public Health Service Act to convert funding for graduate medical e
 - 2011-05-25 — The Speaker and Democratic leader were recognized for one minute to introduce Father Patrick J. Conroy as the new Chaplin of the House of Representatives.
 - 2011-05-25 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3433)
 - 2011-05-25 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of a amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2011-05-26 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
