@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 281
 congress: 112
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 281
