@@ -1,12 +1,19 @@
 ---
 legis-num: S. 990
-congress: 112th CONGRESS
+congress: One Hundred Twelfth Congress of the United States of America
 session: 1st Session
-chamber: In the Senate of the United States,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 990
 
-That the bill from the House of Representatives (S. 990) entitled “An Act to provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.”, do pass with the following
+> To provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.
 
-*In lieu of the matter proposed to be inserted, insert the following:*
+## § 1. Short title
+
+This Act may be cited as the “PATRIOT Sunsets Extension Act of 2011”.
+
+## § 2. Sunset extensions
+
+- **(a)** *USA PATRIOT Improvement and Reauthorization Act of 2005* Section 102(b)(1) of the USA PATRIOT Improvement and Reauthorization Act of 2005 (Public Law 109–177; 50 U.S.C. 1805 note, 50 U.S.C. 1861 note, and 50 U.S.C. 1862 note) is amended by striking “May 27, 2011” and inserting “June 1, 2015”.
+- **(b)** *Intelligence Reform and Terrorism Prevention Act of 2004* Section 6001(b)(1) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 50 U.S.C. 1801 note) is amended by striking “May 27, 2011” and inserting “June 1, 2015”.
