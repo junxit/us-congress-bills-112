@@ -1,7 +1,7 @@
 ---
 measure: S. 990
 congress: 112
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 1 of the Act entitled “An Act to extend temporarily certain authorities of the Small Business Administration”, approved October 10, 2006 (Public Law 109–316; 120 Stat. 1742), as most recently amended by section 1 of Public Law 11… | the bill names no machine-readable US Code section |
-| — | insert | Section 9 of the Small Business Act (15 U.S.C. 638) is amended by inserting after subsection (r) the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 102(b)(1) of the USA PATRIOT Improvement and Reauthorization Act of 2005 (Public Law 109–177; 50 U.S.C. 1805 note, 50 U.S.C. 1861 note, and 50 U.S.C. 1862 note) is amended by striking “May 27, 2011” and inserting “June 1, 2015”. | the bill names no machine-readable US Code section |
+| — | replace | Section 6001(b)(1) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 50 U.S.C. 1801 note) is amended by striking “May 27, 2011” and inserting “June 1, 2015”. | the bill names no machine-readable US Code section |
