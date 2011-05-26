@@ -14,16 +14,16 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(a)** *Short title* This Act may be cited as the “Faster FOIA Act of 2011”.
 - **(b)** *Establishment* There is established the Commission on Freedom of Information Act Processing Delays (in this Act referred to as the Commission for the purpose of conducting a study relating to methods to help reduce delays in processing requests submitted to Federal agencies under section 552 of title 5, United States Code (commonly referred to as the “Freedom of Information Act”).
 - **(c)** *Membership*
-  - **(1)** *In general* The Commission shall be composed of 1612 members of whom—
-    - **(A)** 32 shall be appointed by the chairman of the Committee on the Judiciary of the Senate;
-    - **(B)** 32 shall be appointed by the ranking member of the Committee on the Judiciary of the Senate;
-    - **(C)** 32 shall be appointed by the chairman of the Committee on Government Reform of the House of Representatives;
-    - **(D)** 32 shall be appointed by the ranking member of the Committee on Government Reform of the House of Representatives;
+  - **(1)** *In general* The Commission shall be composed of 12 members of whom—
+    - **(A)** 2 shall be appointed by the chairman of the Committee on the Judiciary of the Senate;
+    - **(B)** 2 shall be appointed by the ranking member of the Committee on the Judiciary of the Senate;
+    - **(C)** 2 shall be appointed by the chairman of the Committee on Government Reform of the House of Representatives;
+    - **(D)** 2 shall be appointed by the ranking member of the Committee on Government Reform of the House of Representatives;
     - **(E)** 1 shall be appointed by the Attorney General of the United States;
     - **(F)** 1 shall be appointed by the Director of the Office of Management and Budget;
     - **(G)** 1 shall be appointed by the Archivist of the United States; and
     - **(H)** 1 shall be appointed by the Comptroller General of the United States.
-  - **(2)** *Qualifications of congressional appointees* Of the 32 appointees under each of subparagraphs (A), (B), (C), and (D) of paragraph (1) at least 21 shall have experience in academic researchas a FOIA requestor, or in the fields of library science, information management, or public access to Government information.
+  - **(2)** *Qualifications of congressional appointees* Of the 2 appointees under each of subparagraphs (A), (B), (C), and (D) of paragraph (1) at least 1 shall have experience as a FOIA requestor, or in the fields of library science, information management, or public access to Government information.
   - **(3)** *Timeliness of appointments* Appointments to the Commission shall be made as expeditiously as possible, but not later than 60 days after the date of enactment of this Act.
 - **(d)** *Study* The Commission shall conduct a study to—
   - **(1)** identify methods that—
@@ -33,8 +33,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(3)** examine and determine—
     - **(A)** why the Federal Government’s use of the exemptions under section 552(b) of title 5, United States Code, increased during fiscal year 2009;
     - **(B)** the reasons for any increase, including whether the increase was warranted and whether the increase contributed to FOIA processing delays;
-    - **(C)** what efforts were made by Federal agencies to comply with President Obama’s January 21, 2009 Presidential Memorandum on Freedom of Information Act Requests and whether those efforts were successful; and
-    - **(D)** makeany recommendations on how the use of exemptions under section 552(b) of title 5, United States Code, may be limited.; and
+    - **(C)** what efforts were made by Federal agencies to comply with President Obama’s January 21, 2009 Presidential Memorandum on Freedom of Information Act Requests and whether those efforts were successful;
+    - **(D)** any recommendations on how the use of exemptions under section 552(b) of title 5, United States Code, may be limited; and
     - **(E)**
       - **(i)** whether any disparities in processing, processing times, and completeness of responses to FOIA requestors have occurred based upon political considerations, ideological viewpoints, the identity of the requestors, affiliation with the media, or affiliation with advocacy groups;
       - **(ii)** if any disparities have occurred, why such disparities have occurred; and
@@ -45,7 +45,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(A)** each method identified; and
     - **(B)** the charging of fees and granting of waivers of fees; and
   - **(3)** recommendations for legislative or administrative actions to implement the conclusions of the Commission.
-- **(f)** *Staff and administrative support services* The Archivist of the United States shall provide to the Commission such staff and administrative support services, including research assistance at the request of the Commission, as necessary for the Commission to perform its functions efficiently and in accordance with this section.
 - **(f)** *Staff and administrative support services*
   - **(1)** *In general* The Archivist of the United States shall provide to the Commission such staff and administrative support services, including research assistance at the request of the Commission, as necessary for the Commission to perform its functions efficiently and in accordance with this section.
   - **(2)** *Payment of expenses*
@@ -54,7 +53,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(3)** *Appropriations requests* Expenses paid under this subsection shall not form the basis for additional appropriations requests from the National Archives and Records Administration in the future.
 - **(g)** *Information* To the extent permitted by law, the heads of executive agencies, the Government Accountability Office, and the Congressional Research Service shall provide to the Commission such information as the Commission may require to carry out its functions.
 - **(h)** *Compensation of members* Members of the Commission shall serve without compensation for services performed for the Commission.
-- **(i)** *Travel expenses* The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 - **(i)** *Travel expenses*
   - **(1)** *In general* The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
   - **(2)** *Payment of expenses* The Administrator of General Services shall pay travel expenses under this subsection from available appropriations in the operating expenses account of the General Services Administration.
