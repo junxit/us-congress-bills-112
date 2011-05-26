@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1540
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1540
@@ -24,6 +24,42 @@ National Defense Authorization Act for Fiscal Year 2012
 
 - House — Armed Services Committee
 
+## Recorded votes (33)
+
+- 2011-05-25 — [House 112-1-343](votes/house-112-1-0343.md) — On Agreeing to the Amendment — **Failed** (83–334)
+- 2011-05-25 — [House 112-1-344](votes/house-112-1-0344.md) — On Agreeing to the Amendment — **Failed** (203–213)
+- 2011-05-25 — [House 112-1-345](votes/house-112-1-0345.md) — On Agreeing to the Amendment — **Failed** (198–225)
+- 2011-05-25 — [House 112-1-346](votes/house-112-1-0346.md) — On Agreeing to the Amendment — **Failed** (208–212)
+- 2011-05-25 — [House 112-1-347](votes/house-112-1-0347.md) — On Agreeing to the Amendment — **Agreed to** (261–163)
+- 2011-05-25 — [House 112-1-348](votes/house-112-1-0348.md) — On Agreeing to the Amendment — **Failed** (168–256)
+- 2011-05-25 — [House 112-1-349](votes/house-112-1-0349.md) — On Agreeing to the Amendment — **Failed** (176–248)
+- 2011-05-25 — [House 112-1-350](votes/house-112-1-0350.md) — On Agreeing to the Amendment — **Failed** (184–240)
+- 2011-05-25 — [House 112-1-351](votes/house-112-1-0351.md) — On Agreeing to the Amendment — **Failed** (191–232)
+- 2011-05-25 — [House 112-1-352](votes/house-112-1-0352.md) — On Agreeing to the Amendment — **Failed** (178–246)
+- 2011-05-25 — [House 112-1-353](votes/house-112-1-0353.md) — On Agreeing to the Amendment — **Failed** (177–246)
+- 2011-05-26 — [House 112-1-354](votes/house-112-1-0354.md) — On Agreeing to the Amendment — **Agreed to** (260–160)
+- 2011-05-26 — [House 112-1-355](votes/house-112-1-0355.md) — On Agreeing to the Amendment — **Agreed to** (246–172)
+- 2011-05-26 — [House 112-1-356](votes/house-112-1-0356.md) — On Agreeing to the Amendment — **Failed** (165–253)
+- 2011-05-26 — [House 112-1-357](votes/house-112-1-0357.md) — On Agreeing to the Amendment — **Agreed to** (246–173)
+- 2011-05-26 — [House 112-1-358](votes/house-112-1-0358.md) — On Agreeing to the Amendment — **Failed** (91–329)
+- 2011-05-26 — [House 112-1-359](votes/house-112-1-0359.md) — On Agreeing to the Amendment — **Agreed to** (227–193)
+- 2011-05-26 — [House 112-1-360](votes/house-112-1-0360.md) — On Agreeing to the Amendment — **Failed** (172–246)
+- 2011-05-26 — [House 112-1-361](votes/house-112-1-0361.md) — On Agreeing to the Amendment — **Failed** (187–234)
+- 2011-05-26 — [House 112-1-362](votes/house-112-1-0362.md) — On Agreeing to the Amendment — **Failed** (63–354)
+- 2011-05-26 — [House 112-1-363](votes/house-112-1-0363.md) — On Agreeing to the Amendment — **Failed** (98–321)
+- 2011-05-26 — [House 112-1-364](votes/house-112-1-0364.md) — On Agreeing to the Amendment — **Failed** (123–294)
+- 2011-05-26 — [House 112-1-365](votes/house-112-1-0365.md) — On Agreeing to the Amendment — **Failed** (96–323)
+- 2011-05-26 — [House 112-1-366](votes/house-112-1-0366.md) — On Agreeing to the Amendment — **Agreed to** (416–5)
+- 2011-05-26 — [House 112-1-367](votes/house-112-1-0367.md) — On Agreeing to the Amendment — **Agreed to** (269–151)
+- 2011-05-26 — [House 112-1-368](votes/house-112-1-0368.md) — On Agreeing to the Amendment — **Failed** (176–241)
+- 2011-05-26 — [House 112-1-369](votes/house-112-1-0369.md) — On Agreeing to the Amendment — **Failed** (184–234)
+- 2011-05-26 — [House 112-1-370](votes/house-112-1-0370.md) — On Agreeing to the Amendment — **Agreed to** (419–0)
+- 2011-05-26 — [House 112-1-371](votes/house-112-1-0371.md) — On Agreeing to the Amendment — **Agreed to** (300–120)
+- 2011-05-26 — [House 112-1-372](votes/house-112-1-0372.md) — On Agreeing to the Amendment — **Agreed to** (226–194)
+- 2011-05-26 — [House 112-1-373](votes/house-112-1-0373.md) — On Agreeing to the Amendment — **Failed** (204–215)
+- 2011-05-26 — [House 112-1-374](votes/house-112-1-0374.md) — On Motion to Recommit with Instructions — **Failed** (185–233)
+- 2011-05-26 — [House 112-1-375](votes/house-112-1-0375.md) — On Passage — **Passed** (322–96)
+
 ## Actions
 
 - 2011-04-14 — Introduced in House
@@ -35,3 +71,437 @@ National Defense Authorization Act for Fiscal Year 2012
 - 2011-05-17 — Placed on the Union Calendar, Calendar No. 39.
 - 2011-05-17 — Reported (Amended) by the Committee on Armed Services. H. Rept. 112-78.
 - 2011-05-17 — Reported (Amended) by the Committee on Armed Services. H. Rept. 112-78.
+- 2011-05-23 — Mr. McKeon asked unanimous consent that the Committee on Armed Services be authorized to file a supplemental report on H.R. 1540. Agreed to without objection.
+- 2011-05-23 — Rules Committee Resolution H. Res. 269 Reported to House. Rule provides for consideration of H.R. 1216 and H.R. 1540. Measure will be considered read. Bill is closed to amendments. The rule provides for 1 hour of general debate and waives all points of order against consideration of the measures. The rule provides one motion to recommit H.R. 1216 with or without instructions. The rule also provides that after general debate on H.R. 1540, the Committee of the Whole shall rise without motion and that no further consideration of the bill shall occur except pursuant to a subsequent order of the House.
+- 2011-05-23 — Supplemental report filed by the Committee on Armed Services, H. Rept. 112-78, Part II.
+- 2011-05-23 — Supplemental report filed by the Committee on Armed Services, H. Rept. 112-78, Part II.
+- 2011-05-24 — Committee of the Whole House on the state of the Union rises leaving H.R. 1540 as unfinished business.
+- 2011-05-24 — Considered under the provisions of rule H. Res. 269. (consideration: CR H3388-3396)
+- 2011-05-24 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1540.
+- 2011-05-24 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 269 and Rule XVIII.
+- 2011-05-24 — Rule H. Res. 269 passed House.
+- 2011-05-24 — Rule provides for consideration of H.R. 1216 and H.R. 1540. Measure will be considered read. Bill is closed to amendments. The rule provides for 1 hour of general debate and waives all points of order against consideration of the measures. The rule provides one motion to recommit H.R. 1216 with or without instructions. The rule also provides that after general debate on H.R. 1540, the Committee of the Whole shall rise without motion and that no further consideration of the bill shall occur except pursuant to a subsequent order of the House.
+- 2011-05-24 — Rules Committee Resolution H. Res. 276 Reported to House. Rule provides for consideration of H.R. 1540. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Armed Services now printed in the bill.
+- 2011-05-24 — The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee.
+- 2011-05-25 — Amendment (A001) offered by Mr. Wittman. (consideration: CR H3595-3596; text: CR H3595)
+- 2011-05-25 — Amendment (A002) offered by Ms. Woolsey. (consideration: CR H3596-3597, H3630-3631; text: CR H3596)
+- 2011-05-25 — Amendment (A004) offered by Mr. Carter. (consideration: CR H3604-3605; text: CR H3604)
+- 2011-05-25 — Amendment (A005) offered by Mr. Hunter. (consideration: CR H3605-3607, H3631-3632; text: CR H3605-3606)
+- 2011-05-25 — Amendment (A006) offered by Mr. Carson (IN). (consideration: CR H3607-3609; text: CR H3608)
+- 2011-05-25 — Amendment (A008) offered by Mr. Sarbanes. (consideration: CR H3615-3616, H3632; text: CR H3615)
+- 2011-05-25 — Amendment (A009) offered by Mr. Murphy (CT). (consideration: CR H3616-3618, H3632-3633; text: CR H3616-3617)
+- 2011-05-25 — Amendment (A010) offered by Mr. Cole. (consideration: CR H3618-3619, H3633-3634; text: CR H3618)
+- 2011-05-25 — Amendment (A011) offered by Mr. Garamendi. (consideration: CR H3619-3621, H3634; text: CR H3619)
+- 2011-05-25 — Amendment (A012) offered by Mrs. Maloney. (consideration: CR H3621-3622, H3634-3635; text: CR H3621)
+- 2011-05-25 — Amendment (A013) offered by Mr. Himes. (consideration: CR H3622-3624, H3635-3636; text: CR H3622)
+- 2011-05-25 — Amendment (A014) offered by Ms. Jackson Lee (TX). (consideration: CR H3624-3626, H3636; text: CR H3624)
+- 2011-05-25 — Amendment (A015) offered by Mr. Andrews. (consideration: CR H3626-3627, H3636-3637; text: CR H3626)
+- 2011-05-25 — Amendment (A016) offered by Ms. Lee (CA). (consideration: CR H3627-3628; text: CR H3627)
+- 2011-05-25 — Amendment (A017) offered by Mr. Richmond. (consideration: CR H3628-3629, H3637-3638; text: CR H3628)
+- 2011-05-25 — Amendment (A018) offered by Mr. Mica. (consideration: CR H3629-3630; text: CR H3629)
+- 2011-05-25 — Amendment (A019) offered by Mr. Flake. (consideration: CR H3638; text: CR H3638)
+- 2011-05-25 — Amendment (A020) offered by Mr. Flake. (consideration: CR H3638-3639; text: CR H3638)
+- 2011-05-25 — Amendment (A021) offered by Ms. Schakowsky. (consideration: CR H3639-3641; text: CR H3639-3640)
+- 2011-05-25 — Amendment (A022) offered by Mr. Smith (WA). (consideration: CR H3641-3643; text: CR H3641)
+- 2011-05-25 — Amendment (A023) offered by Mr. Buchanan. (consideration: CR H3650-3651; text: CR H3650)
+- 2011-05-25 — Amendment (A024) offered by Mrs. Maloney. (consideration: CR H3651-3652; text: CR H3651)
+- 2011-05-25 — Amendment (A025) offered by Mr. Mack. (consideration: CR H3652-3653; text: CR H3652)
+- 2011-05-25 — Amendment (A026) offered by Mr. Langevin. (consideration: CR H3653-3660; text: CR H3653-3658)
+- 2011-05-25 — Amendment (A027) offered by Mr. Amash. (consideration: CR H3660-3663; text: CR H3660)
+- 2011-05-25 — Amendment (A028) offered by Mr. Campbell. (consideration: CR H3664-3665; text: CR H3664)
+- 2011-05-25 — Amendment (A029) offered by Mr. Campbell. (consideration: CR H3665-3666; text: CR H3665)
+- 2011-05-25 — Amendment (A030) offered by Mr. Chaffetz. (consideration: CR H3666-3668; text: CR H3666)
+- 2011-05-25 — Amendment (A031) offered by Mr. Rohrabacher. (consideration: CR H3668-3669; text: CR H3668)
+- 2011-05-25 — Amendment (A032) offered by Mr. Polis. (consideration: CR H3669-3673; text: CR H3669)
+- 2011-05-25 — Amendment (A033) offered by Mr. Conyers. (consideration: CR H3673-3674; text: CR H3673)
+- 2011-05-25 — Amendment (A034) offered by Mr. Flake. (consideration: CR H3674-3675; text: CR H3674)
+- 2011-05-25 — Amendment (A035) offered by Mr. Ellison. (consideration: CR H3675-3678; text: CR H3675)
+- 2011-05-25 — Amendment (A036) offered by Ms. Sanchez, Loretta. (consideration: CR H3678-3679; text: CR H3678)
+- 2011-05-25 — Amendment (A037) offered by Ms. Edwards. (consideration: CR H3679-3680; text: CR H3679)
+- 2011-05-25 — Amendment agreed to Committee of the Whole
+- 2011-05-25 — Amendment agreed to Committee of the Whole
+- 2011-05-25 — Amendment agreed to Committee of the Whole
+- 2011-05-25 — Amendment agreed to Committee of the Whole
+- 2011-05-25 — Amendment agreed to Committee of the Whole
+- 2011-05-25 — Amendment agreed to Committee of the Whole
+- 2011-05-25 — Amendment agreed to Committee of the Whole
+- 2011-05-25 — Amendment agreed to Committee of the Whole
+- 2011-05-25 — Amendment failed in Committee of the Whole
+- 2011-05-25 — Amendment failed in Committee of the Whole
+- 2011-05-25 — Amendment failed in Committee of the Whole
+- 2011-05-25 — Amendment failed in Committee of the Whole
+- 2011-05-25 — Amendment failed in Committee of the Whole
+- 2011-05-25 — Amendment failed in Committee of the Whole
+- 2011-05-25 — Amendment failed in Committee of the Whole
+- 2011-05-25 — Amendment failed in Committee of the Whole
+- 2011-05-25 — Amendment failed in Committee of the Whole
+- 2011-05-25 — Amendment failed in Committee of the Whole
+- 2011-05-25 — Amendment failed in Committee of the Whole
+- 2011-05-25 — Amendments en bloc (A003) offered by Mr. McKeon. (consideration: CR H3597-3601; text en bloc: CR H3597-3601)
+- 2011-05-25 — Amendments en bloc (A007) offered by Mr. McKeon. (consideration: CR H3609-3615; text and text as modified en bloc: CR H3609-3614)
+- 2011-05-25 — By unanimous consent, the Lee (CA) amendment was withdrawn. (consideration: CR H3628)
+- 2011-05-25 — By unanimous consent, the Rohrabacher amendment was withdrawn. (consideration: CR H3669)
+- 2011-05-25 — Committee of the Whole House on the state of the Union rises leaving H.R. 1540 as unfinished business.
+- 2011-05-25 — Committee of the Whole House on the state of the Union rises leaving H.R. 1540 as unfinished business.
+- 2011-05-25 — Considered as unfinished business. (consideration: CR H3436-3621)
+- 2011-05-25 — Considered as unfinished business. (consideration: CR H3621-3630, H3630-3643)
+- 2011-05-25 — DEBATE - By unanimous consent, the Committee of the Whole proceeded with 20 minutes of debate on the Amash amendment, equally divided and controlled.
+- 2011-05-25 — DEBATE - By unanimous consent, the Committee of the Whole proceeded with 20 minutes of debate on the Smith (WA) amendment, equally divided and controlled.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Buchanan amendment.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Campbell amendment No. 53.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Campbell amendment No. 54.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Chaffetz amendment.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Conyers amendment.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Edwards amendment.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Loretta Sanchez (CA) amendment.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Mack amendment.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Maloney (NY) amendment.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Rohrabacher amendment.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Andrews amendment no. 32.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Carson amendment no. 19.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Carter amendment.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Cole amendment no. 27.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment no. 39.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment no. 40.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment no. 28.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Himes amendment no. 30.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Hunter amendment no. 12.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee(TX) amendment no. 31.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Lee amendment no. 33.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Maloney amendment no. 26.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Mica amendment no. 38.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy(CT) amendment no. 25.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Richmond amendment no. 37.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Sarbanes amendment no. 24.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Schakowsky amendment no. 41.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Wittman amendment.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Woolsey amendment.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon en bloc #1 amendments as modified.
+- 2011-05-25 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon en bloc #2 amendments as modified.
+- 2011-05-25 — House amendment agreed to: On agreeing to the Carson (IN) amendment (A006) Agreed to by voice vote.
+- 2011-05-25 — House amendment agreed to: On agreeing to the Carter amendment (A004) Agreed to by voice vote.
+- 2011-05-25 — House amendment agreed to: On agreeing to the Cole amendment (A010) Agreed to by recorded vote: 261 - 163 (Roll no. 347).
+- 2011-05-25 — House amendment agreed to: On agreeing to the Edwards amendment (A037) Agreed to by voice vote.
+- 2011-05-25 — House amendment agreed to: On agreeing to the Flake amendment (A019) Agreed to by voice vote.
+- 2011-05-25 — House amendment agreed to: On agreeing to the McKeon amendments (A003) as modified Agreed to by voice vote.
+- 2011-05-25 — House amendment agreed to: On agreeing to the McKeon amendments (A007) Agreed to by voice vote.
+- 2011-05-25 — House amendment agreed to: On agreeing to the Wittman amendment (A001) Agreed to by voice vote.
+- 2011-05-25 — House amendment not agreed to: On agreeing to the Andrews amendment (A015) Failed by recorded vote: 178 - 246 (Roll no. 352).
+- 2011-05-25 — House amendment not agreed to: On agreeing to the Garamendi amendment (A011) Failed by recorded vote: 168 - 256 (Roll no. 348).
+- 2011-05-25 — House amendment not agreed to: On agreeing to the Himes amendment (A013) Failed by recorded vote: 184 - 240 (Roll no. 350).
+- 2011-05-25 — House amendment not agreed to: On agreeing to the Hunter amendment (A005) Failed by recorded vote: 203 - 213 (Roll no. 344).
+- 2011-05-25 — House amendment not agreed to: On agreeing to the Jackson Lee (TX) amendment (A014) Failed by recorded vote: 191 - 232 (Roll no. 351).
+- 2011-05-25 — House amendment not agreed to: On agreeing to the Maloney amendment (A012) Failed by recorded vote: 176 - 248 (Roll no. 349).
+- 2011-05-25 — House amendment not agreed to: On agreeing to the Murphy (CT) amendment (A009) Failed by recorded vote: 208 - 212 (Roll no. 346).
+- 2011-05-25 — House amendment not agreed to: On agreeing to the Richmond amendment (A017) Failed by recorded vote: 177 - 246 (Roll no. 353).
+- 2011-05-25 — House amendment not agreed to: On agreeing to the Sarbanes amendment (A008) Failed by recorded vote: 198 - 225 (Roll no. 345).
+- 2011-05-25 — House amendment not agreed to: On agreeing to the Schakowsky amendment (A021) Failed by voice vote.
+- 2011-05-25 — House amendment not agreed to: On agreeing to the Woolsey amendment (A002) Failed by recorded vote: 83 - 334 (Roll no. 343).
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered
+- 2011-05-25 — House amendment offered/reported by: Amendment (A001) offered by Mr. Wittman.(consideration: CR H3595-3596; text: CR H3595)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A002) offered by Ms. Woolsey.(consideration: CR H3596-3597, H3630-3631; text: CR H3596)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A004) offered by Mr. Carter.(consideration: CR H3604-3605; text: CR H3604)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A005) offered by Mr. Hunter.(consideration: CR H3605-3607, H3631-3632; text: CR H3605-3606)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A006) offered by Mr. Carson (IN).(consideration: CR H3607-3609; text: CR H3608)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A008) offered by Mr. Sarbanes.(consideration: CR H3615-3616, H3632; text: CR H3615)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A009) offered by Mr. Murphy (CT).(consideration: CR H3616-3618, H3632-3633; text: CR H3616-3617)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A010) offered by Mr. Cole.(consideration: CR H3618-3619, H3633-3634; text: CR H3618)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A011) offered by Mr. Garamendi.(consideration: CR H3619-3621, H3634; text: CR H3619)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A012) offered by Mrs. Maloney.(consideration: CR H3621-3622, H3634-3635; text: CR H3621)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A013) offered by Mr. Himes.(consideration: CR H3622-3624, H3635-3636; text: CR H3622)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A014) offered by Ms. Jackson Lee (TX).(consideration: CR H3624-3626, H3636; text: CR H3624)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A015) offered by Mr. Andrews.(consideration: CR H3626-3627, H3636-3637; text: CR H3626)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A016) offered by Ms. Lee (CA).(consideration: CR H3627-3628; text: CR H3627)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A017) offered by Mr. Richmond.(consideration: CR H3628-3629, H3637-3638; text: CR H3628)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A018) offered by Mr. Mica.(consideration: CR H3629-3630; text: CR H3629)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A019) offered by Mr. Flake.(consideration: CR H3638; text: CR H3638)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A020) offered by Mr. Flake.(consideration: CR H3638-3639; text: CR H3638)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A021) offered by Ms. Schakowsky.(consideration: CR H3639-3641; text: CR H3639-3640)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A022) offered by Mr. Smith (WA).(consideration: CR H3641-3643; text: CR H3641)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A023) offered by Mr. Buchanan.(consideration: CR H3650-3651; text: CR H3650)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A024) offered by Mrs. Maloney.(consideration: CR H3651-3652; text: CR H3651)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A025) offered by Mr. Mack.(consideration: CR H3652-3653; text: CR H3652)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A026) offered by Mr. Langevin.(consideration: CR H3653-3660; text: CR H3653-3658)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A027) offered by Mr. Amash.(consideration: CR H3660-3663; text: CR H3660)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A028) offered by Mr. Campbell.(consideration: CR H3664-3665; text: CR H3664)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A029) offered by Mr. Campbell.(consideration: CR H3665-3666; text: CR H3665)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A030) offered by Mr. Chaffetz.(consideration: CR H3666-3668; text: CR H3666)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A031) offered by Mr. Rohrabacher.(consideration: CR H3668-3669; text: CR H3668)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A032) offered by Mr. Polis.(consideration: CR H3669-3673; text: CR H3669)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A033) offered by Mr. Conyers.(consideration: CR H3673-3674; text: CR H3673)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A034) offered by Mr. Flake.(consideration: CR H3674-3675; text: CR H3674)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A035) offered by Mr. Ellison.(consideration: CR H3675-3678; text: CR H3675)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A036) offered by Ms. Sanchez, Loretta.(consideration: CR H3678-3679; text: CR H3678)
+- 2011-05-25 — House amendment offered/reported by: Amendment (A037) offered by Ms. Edwards.(consideration: CR H3679-3680; text: CR H3679)
+- 2011-05-25 — House amendment offered/reported by: Amendments en bloc (A003) offered by Mr. McKeon.(consideration: CR H3597-3601; text en bloc: CR H3597-3601)
+- 2011-05-25 — House amendment offered/reported by: Amendments en bloc (A007) offered by Mr. McKeon.(consideration: CR H3609-3615; text and text as modified en bloc: CR H3609-3614)
+- 2011-05-25 — McKeon amendment (A003) modified by unanimous consent. Various amendments contained in the en bloc were modified by unanimous consent. (text as modified en bloc: CR H3601-3602)
+- 2011-05-25 — Mr. McKeon moved that the Committee rise.
+- 2011-05-25 — Mr. McKeon moved that the Committee rise.
+- 2011-05-25 — On agreeing to the Andrews amendment (A015) Failed by recorded vote: 178 - 246 (Roll no. 352).
+- 2011-05-25 — On agreeing to the Carson (IN) amendment (A006) Agreed to by voice vote.
+- 2011-05-25 — On agreeing to the Carter amendment (A004) Agreed to by voice vote.
+- 2011-05-25 — On agreeing to the Cole amendment (A010) Agreed to by recorded vote: 261 - 163 (Roll no. 347).
+- 2011-05-25 — On agreeing to the Edwards amendment (A037) Agreed to by voice vote.
+- 2011-05-25 — On agreeing to the Flake amendment (A019) Agreed to by voice vote.
+- 2011-05-25 — On agreeing to the Garamendi amendment (A011) Failed by recorded vote: 168 - 256 (Roll no. 348).
+- 2011-05-25 — On agreeing to the Himes amendment (A013) Failed by recorded vote: 184 - 240 (Roll no. 350).
+- 2011-05-25 — On agreeing to the Hunter amendment (A005) Failed by recorded vote: 203 - 213 (Roll no. 344).
+- 2011-05-25 — On agreeing to the Jackson Lee (TX) amendment (A014) Failed by recorded vote: 191 - 232 (Roll no. 351).
+- 2011-05-25 — On agreeing to the Maloney amendment (A012) Failed by recorded vote: 176 - 248 (Roll no. 349).
+- 2011-05-25 — On agreeing to the McKeon amendments (A003) as modified Agreed to by voice vote.
+- 2011-05-25 — On agreeing to the McKeon amendments (A007) Agreed to by voice vote.
+- 2011-05-25 — On agreeing to the Murphy (CT) amendment (A009) Failed by recorded vote: 208 - 212 (Roll no. 346).
+- 2011-05-25 — On agreeing to the Richmond amendment (A017) Failed by recorded vote: 177 - 246 (Roll no. 353).
+- 2011-05-25 — On agreeing to the Sarbanes amendment (A008) Failed by recorded vote: 198 - 225 (Roll no. 345).
+- 2011-05-25 — On agreeing to the Schakowsky amendment (A021) Failed by voice vote.
+- 2011-05-25 — On agreeing to the Wittman amendment (A001) Agreed to by voice vote.
+- 2011-05-25 — On agreeing to the Woolsey amendment (A002) Failed by recorded vote: 83 - 334 (Roll no. 343).
+- 2011-05-25 — On motion that the Committee rise Agreed to by voice vote.
+- 2011-05-25 — On motion that the Committee rise Agreed to by voice vote.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Amash amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. McKeon demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Andrews amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Andrews demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Buchanan amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Buchanan demanded a recorded vote and the Chair postponed proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Campbell amendment No. 53, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Campbell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Campbell amendment No. 54, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Campbell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Chaffetz amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Chaffetz demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cole amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cummings demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Conyers amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Conyers demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendent and by voice vote, announced that the noes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment No. 62, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Critz demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Garamendi demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Himes amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Forbes demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hunter amendment no. 12, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith(WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee(TX) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee(TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Langevin amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Langevin demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Loretta Sanchez amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Sanchez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mack amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Andrews demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Mack amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Maloney (NY) amendment the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mrs. Maloney (NY) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Maloney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Maloney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mica amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Mica demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Murphy(CT) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Murphy(CT) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Richmond amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Richmond demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sarbanes amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Sarbanes demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Woolsey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Woolsey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-25 — Roll call votes on amendments in House
+- 2011-05-25 — Roll call votes on amendments in House
+- 2011-05-25 — Roll call votes on amendments in House
+- 2011-05-25 — Roll call votes on amendments in House
+- 2011-05-25 — Roll call votes on amendments in House
+- 2011-05-25 — Roll call votes on amendments in House
+- 2011-05-25 — Roll call votes on amendments in House
+- 2011-05-25 — Roll call votes on amendments in House
+- 2011-05-25 — Roll call votes on amendments in House
+- 2011-05-25 — Roll call votes on amendments in House
+- 2011-05-25 — Roll call votes on amendments in House
+- 2011-05-25 — Rule H. Res. 276 passed House.
+- 2011-05-25 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-05-25 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-05-25 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-05-26 — Amendment (A038) offered by Mr. Inslee. (consideration: CR H3687-3688; text: CR H3687)
+- 2011-05-26 — Amendment (A039) offered by Ms. Jackson Lee (TX). (consideration: CR H3688-3690; text: CR H3688)
+- 2011-05-26 — Amendment (A040) offered by Mr. RUNYAN. (consideration: CR H3690-3691; text: CR H3690)
+- 2011-05-26 — Amendment (A041) offered by Mr. Thompson (PA). (consideration: CR H3691; text: CR H3691)
+- 2011-05-26 — Amendment (A042) offered by Mr. Turner. (consideration: CR H3691-3693, H3733-3734; text: CR H3692)
+- 2011-05-26 — Amendment (A043) offered by Mr. Cravaack. (consideration: CR H3693-3695, H3734; text: CR H3693)
+- 2011-05-26 — Amendment (A044) offered by Mr. McGovern. (consideration: CR H3695-3699, H3734-3735; text: CR H3695)
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment agreed to Committee of the Whole
+- 2011-05-26 — Amendment failed in Committee of the Whole
+- 2011-05-26 — Amendment failed in Committee of the Whole
+- 2011-05-26 — Amendment failed in Committee of the Whole
+- 2011-05-26 — Amendment failed in Committee of the Whole
+- 2011-05-26 — Amendment failed in Committee of the Whole
+- 2011-05-26 — Amendment failed in Committee of the Whole
+- 2011-05-26 — Amendment failed in Committee of the Whole
+- 2011-05-26 — Amendment failed in Committee of the Whole
+- 2011-05-26 — Amendment failed in Committee of the Whole
+- 2011-05-26 — Amendment failed in Committee of the Whole
+- 2011-05-26 — Amendment failed in Committee of the Whole
+- 2011-05-26 — Amendments en bloc (A045) offered by Mr. McKeon. (consideration: CR H3699-3707; text en bloc: CR H3699-3704)
+- 2011-05-26 — Amendments en bloc (A046) offered by Mr. McKeon. (consideration: CR H3707-3713; text en bloc: CR H3707-3710)
+- 2011-05-26 — Amendments en bloc (A047) offered by Mr. McKeon. (consideration: CR H3713-3719; text en bloc: CR H3713-3717)
+- 2011-05-26 — Amendments en bloc (A048) offered by Mr. McKeon. (consideration: CR H3719-3722; text en bloc: CR H3719-3720)
+- 2011-05-26 — Considered as unfinished business. (consideration: CR H3687-3737)
+- 2011-05-26 — DEBATE - By unanimous consent, the Committee of the Whole proceeded with 20 minutes of debate on the McGovern amendment no. 55, equally divided and controlled.
+- 2011-05-26 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Cravaak amendment no. 152.
+- 2011-05-26 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Inslee amendment no. 110.
+- 2011-05-26 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee (TX) amendment no. 111.
+- 2011-05-26 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Runyan amendment no. 134.
+- 2011-05-26 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Thompson (PA) amendment no. 141.
+- 2011-05-26 — DEBATE - Pursuant to the provisions of H. Res. 276, the Committee of the Whole proceeded with 10 minutes of debate on the Turner amendment no. 148.
+- 2011-05-26 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon en bloc #3 amendments.
+- 2011-05-26 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon en bloc #4 amendments.
+- 2011-05-26 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon en bloc #5 amendments.
+- 2011-05-26 — DEBATE - Pursuant to the provisions of H.Res. 276, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon en bloc #6 amendments.
+- 2011-05-26 — DEBATE - The House proceeded with 10 minutes of debate on the Schrader motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House with an amendment to increase the maximum amount of special pay for Combat Troops subject to hostile fire or imminent danger to $325 per month. The increase in pay will take effect on October 1, 2011 and apply to months beginning on or after that date.
+- 2011-05-26 — House amendment agreed to: On agreeing to the Buchanan amendment (A023) Agreed to by recorded vote: 246 - 173 (Roll no. 357).(consideration: CR H3724)
+- 2011-05-26 — House amendment agreed to: On agreeing to the Conyers amendment (A033) Agreed to by recorded vote: 416 - 5 (Roll no. 366).(consideration: CR H3730)
+- 2011-05-26 — House amendment agreed to: On agreeing to the Cravaack amendment (A043) Agreed to by recorded vote: 226 - 194 (Roll no. 372).
+- 2011-05-26 — House amendment agreed to: On agreeing to the Flake amendment (A020) Agreed to by recorded vote: 246 - 172 (Roll no. 355).(consideration: CR H3722-3723)
+- 2011-05-26 — House amendment agreed to: On agreeing to the Flake amendment (A034) Agreed to by recorded vote: 269 - 151 (Roll no. 367).(consideration: CR H3730-3731)
+- 2011-05-26 — House amendment agreed to: On agreeing to the Inslee amendment (A038) Agreed to by voice vote.
+- 2011-05-26 — House amendment agreed to: On agreeing to the Jackson Lee (TX) amendment (A039) Agreed to by recorded vote: 419 - 0 (Roll no. 370).(consideration: CR H3732-3733)
+- 2011-05-26 — House amendment agreed to: On agreeing to the Mack amendment (A025) Agreed to by recorded vote: 227 - 193 (Roll no. 359).(consideration: CR H3725-3726)
+- 2011-05-26 — House amendment agreed to: On agreeing to the McKeon amendments (A045) Agreed to by voice vote.
+- 2011-05-26 — House amendment agreed to: On agreeing to the McKeon amendments (A046) Agreed to by voice vote.
+- 2011-05-26 — House amendment agreed to: On agreeing to the McKeon amendments (A047) Agreed to by voice vote.
+- 2011-05-26 — House amendment agreed to: On agreeing to the McKeon amendments (A048) as modified Agreed to by voice vote.
+- 2011-05-26 — House amendment agreed to: On agreeing to the Mica amendment (A018) Agreed to by recorded vote: 260 - 160 (Roll no. 354).(consideration: CR H3722)
+- 2011-05-26 — House amendment agreed to: On agreeing to the Runyan amendment (A040) Agreed to by voice vote.
+- 2011-05-26 — House amendment agreed to: On agreeing to the Thompson (PA) amendment (A041) Agreed to by voice vote.
+- 2011-05-26 — House amendment agreed to: On agreeing to the Turner amendment (A042) Agreed to by recorded vote: 300 - 120 (Roll no. 371).
+- 2011-05-26 — House amendment not agreed to: On agreeing to the Amash amendment (A027) Failed by recorded vote: 187 - 234 (Roll no. 361).(consideration: CR H3726-3727)
+- 2011-05-26 — House amendment not agreed to: On agreeing to the Campbell amendment (A028) Failed by recorded vote: 63 - 354 (Roll no. 362).(consideration: CR H3727-3728)
+- 2011-05-26 — House amendment not agreed to: On agreeing to the Campbell amendment (A029) Failed by recorded vote: 98 - 321 (Roll no. 363).(consideration: CR H3728)
+- 2011-05-26 — House amendment not agreed to: On agreeing to the Chaffetz amendment (A030) Failed by recorded vote: 123 - 294 (Roll no. 364).(consideration: CR H3728-3729)
+- 2011-05-26 — House amendment not agreed to: On agreeing to the Ellison amendment (A035) Failed by recorded vote: 176 - 241 (Roll no. 368).(consideration: CR H3731-3732)
+- 2011-05-26 — House amendment not agreed to: On agreeing to the Langevin amendment Failed by recorded vote: 172 - 246 (Roll no. 360).(consideration: CR H3726)
+- 2011-05-26 — House amendment not agreed to: On agreeing to the Maloney amendment (A024) Failed by recorded vote: 91 - 329 (Roll no. 358).(consideration: CR H3724-3725)
+- 2011-05-26 — House amendment not agreed to: On agreeing to the McGovern amendment (A044) Failed by recorded vote: 204 - 215 (Roll no. 373).
+- 2011-05-26 — House amendment not agreed to: On agreeing to the Polis amendment (A032) Failed by recorded vote: 96 - 323, 1 Present (Roll no. 365).(consideration: CR H3729-3730)
+- 2011-05-26 — House amendment not agreed to: On agreeing to the Sanchez, Loretta amendment (A036) Failed by recorded vote: 184 - 234 (Roll no. 369).(consideration: CR H3732)
+- 2011-05-26 — House amendment not agreed to: On agreeing to the Smith (WA) amendment (A022) Failed by recorded vote: 165 - 253 (Roll no. 356).(consideration: CR H3723-3724)
+- 2011-05-26 — House amendment offered
+- 2011-05-26 — House amendment offered
+- 2011-05-26 — House amendment offered
+- 2011-05-26 — House amendment offered
+- 2011-05-26 — House amendment offered
+- 2011-05-26 — House amendment offered
+- 2011-05-26 — House amendment offered
+- 2011-05-26 — House amendment offered
+- 2011-05-26 — House amendment offered
+- 2011-05-26 — House amendment offered
+- 2011-05-26 — House amendment offered
+- 2011-05-26 — House amendment offered/reported by: Amendment (A038) offered by Mr. Inslee.(consideration: CR H3687-3688; text: CR H3687)
+- 2011-05-26 — House amendment offered/reported by: Amendment (A039) offered by Ms. Jackson Lee (TX).(consideration: CR H3688-3690; text: CR H3688)
+- 2011-05-26 — House amendment offered/reported by: Amendment (A040) offered by Mr. RUNYAN.(consideration: CR H3690-3691; text: CR H3690)
+- 2011-05-26 — House amendment offered/reported by: Amendment (A041) offered by Mr. Thompson (PA).(consideration: CR H3691; text: CR H3691)
+- 2011-05-26 — House amendment offered/reported by: Amendment (A042) offered by Mr. Turner.(consideration: CR H3691-3693, H3733-3734; text: CR H3692)
+- 2011-05-26 — House amendment offered/reported by: Amendment (A043) offered by Mr. Cravaack.(consideration: CR H3693-3695, H3734; text: CR H3693)
+- 2011-05-26 — House amendment offered/reported by: Amendment (A044) offered by Mr. McGovern.(consideration: CR H3695-3699, H3734-3735; text: CR H3695)
+- 2011-05-26 — House amendment offered/reported by: Amendments en bloc (A045) offered by Mr. McKeon.(consideration: CR H3699-3707; text en bloc: CR H3699-3704)
+- 2011-05-26 — House amendment offered/reported by: Amendments en bloc (A046) offered by Mr. McKeon.(consideration: CR H3707-3713; text en bloc: CR H3707-3710)
+- 2011-05-26 — House amendment offered/reported by: Amendments en bloc (A047) offered by Mr. McKeon.(consideration: CR H3713-3719; text en bloc: CR H3713-3717)
+- 2011-05-26 — House amendment offered/reported by: Amendments en bloc (A048) offered by Mr. McKeon.(consideration: CR H3719-3722; text en bloc: CR H3719-3720)
+- 2011-05-26 — McKeon amendment (A048) modified by unanimous consent. (text as modified: CR H3720)
+- 2011-05-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-05-26 — Mr. Schrader moved to recommit with instructions to Armed Services. (consideration: CR H3735-3737; text: CR H3735)
+- 2011-05-26 — ORDER OF BUSINESS - Mr. McKeon asked unanimous consent that during further consideration of H.R. 1540 in the Committee of the Whole pursuant to H.Res. 276, amendment no. 55 be considered out of sequence. Agreed to without objection.
+- 2011-05-26 — On agreeing to the Amash amendment (A027) Failed by recorded vote: 187 - 234 (Roll no. 361). (consideration: CR H3726-3727)
+- 2011-05-26 — On agreeing to the Buchanan amendment (A023) Agreed to by recorded vote: 246 - 173 (Roll no. 357). (consideration: CR H3724)
+- 2011-05-26 — On agreeing to the Campbell amendment (A028) Failed by recorded vote: 63 - 354 (Roll no. 362). (consideration: CR H3727-3728)
+- 2011-05-26 — On agreeing to the Campbell amendment (A029) Failed by recorded vote: 98 - 321 (Roll no. 363). (consideration: CR H3728)
+- 2011-05-26 — On agreeing to the Chaffetz amendment (A030) Failed by recorded vote: 123 - 294 (Roll no. 364). (consideration: CR H3728-3729)
+- 2011-05-26 — On agreeing to the Conyers amendment (A033) Agreed to by recorded vote: 416 - 5 (Roll no. 366). (consideration: CR H3730)
+- 2011-05-26 — On agreeing to the Cravaack amendment (A043) Agreed to by recorded vote: 226 - 194 (Roll no. 372).
+- 2011-05-26 — On agreeing to the Ellison amendment (A035) Failed by recorded vote: 176 - 241 (Roll no. 368). (consideration: CR H3731-3732)
+- 2011-05-26 — On agreeing to the Flake amendment (A020) Agreed to by recorded vote: 246 - 172 (Roll no. 355). (consideration: CR H3722-3723)
+- 2011-05-26 — On agreeing to the Flake amendment (A034) Agreed to by recorded vote: 269 - 151 (Roll no. 367). (consideration: CR H3730-3731)
+- 2011-05-26 — On agreeing to the Inslee amendment (A038) Agreed to by voice vote.
+- 2011-05-26 — On agreeing to the Jackson Lee (TX) amendment (A039) Agreed to by recorded vote: 419 - 0 (Roll no. 370). (consideration: CR H3732-3733)
+- 2011-05-26 — On agreeing to the Langevin amendment Failed by recorded vote: 172 - 246 (Roll no. 360). (consideration: CR H3726)
+- 2011-05-26 — On agreeing to the Mack amendment (A025) Agreed to by recorded vote: 227 - 193 (Roll no. 359). (consideration: CR H3725-3726)
+- 2011-05-26 — On agreeing to the Maloney amendment (A024) Failed by recorded vote: 91 - 329 (Roll no. 358). (consideration: CR H3724-3725)
+- 2011-05-26 — On agreeing to the McGovern amendment (A044) Failed by recorded vote: 204 - 215 (Roll no. 373).
+- 2011-05-26 — On agreeing to the McKeon amendments (A045) Agreed to by voice vote.
+- 2011-05-26 — On agreeing to the McKeon amendments (A046) Agreed to by voice vote.
+- 2011-05-26 — On agreeing to the McKeon amendments (A047) Agreed to by voice vote.
+- 2011-05-26 — On agreeing to the McKeon amendments (A048) as modified Agreed to by voice vote.
+- 2011-05-26 — On agreeing to the Mica amendment (A018) Agreed to by recorded vote: 260 - 160 (Roll no. 354). (consideration: CR H3722)
+- 2011-05-26 — On agreeing to the Polis amendment (A032) Failed by recorded vote: 96 - 323, 1 Present (Roll no. 365). (consideration: CR H3729-3730)
+- 2011-05-26 — On agreeing to the Runyan amendment (A040) Agreed to by voice vote.
+- 2011-05-26 — On agreeing to the Sanchez, Loretta amendment (A036) Failed by recorded vote: 184 - 234 (Roll no. 369). (consideration: CR H3732)
+- 2011-05-26 — On agreeing to the Smith (WA) amendment (A022) Failed by recorded vote: 165 - 253 (Roll no. 356). (consideration: CR H3723-3724)
+- 2011-05-26 — On agreeing to the Thompson (PA) amendment (A041) Agreed to by voice vote.
+- 2011-05-26 — On agreeing to the Turner amendment (A042) Agreed to by recorded vote: 300 - 120 (Roll no. 371).
+- 2011-05-26 — On motion to recommit with instructions Failed by recorded vote: 185 - 233 (Roll no. 374).
+- 2011-05-26 — On passage Passed by recorded vote: 322 - 96 (Roll no. 375).
+- 2011-05-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cravaack amendment, the Chair put the question on adoption of the amendent and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee (TX) amendment, the Chair put the question on adoption of the amendent and by voice vote, announced that the ayes had prevailed. Ms. Jackson Lee (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McGovern amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. McGovern demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Turner amendment, the Chair put the question on adoption of the amendent and by voice vote, announced that the ayes had prevailed. Ms. Roby demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-05-26 — Passed/agreed to in House: On passage Passed by recorded vote: 322 - 96 (Roll no. 375).
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — Roll call votes on amendments in House
+- 2011-05-26 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1540.
+- 2011-05-26 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR 5/25/2011 H3436-3595)
+- 2011-05-26 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-05-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1540.
+- 2011-05-26 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3736)
+- 2011-05-26 — The title of the measure was amended. Agreed to without objection.
