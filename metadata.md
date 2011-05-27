@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1667
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1667
@@ -45,3 +45,10 @@ Bureau of Consumer Financial Protection Transfer Clarification Act
 - 2011-05-02 — Introduced in House
 - 2011-05-02 — Referred to the House Committee on Financial Services.
 - 2011-05-02 — Referred to the Subcommittee on Financial Institutions and Consumer Credit.
+- 2011-05-04 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 13 - 8 .
+- 2011-05-04 — Subcommittee Consideration and Mark-up Session Held.
+- 2011-05-13 — Committee Consideration and Mark-up Session Held.
+- 2011-05-13 — Ordered to be Reported by the Yeas and Nays: 32 - 26.
+- 2011-05-27 — Placed on the Union Calendar, Calendar No. 51.
+- 2011-05-27 — Reported by the Committee on Financial Services. H. Rept. 112-93.
+- 2011-05-27 — Reported by the Committee on Financial Services. H. Rept. 112-93.
