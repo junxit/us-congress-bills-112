@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 4
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 4
@@ -46,9 +46,11 @@ A concurrent resolution expressing the sense of Congress that an appropriate sit
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Levin, Carl [D-MI] (L000261)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
+- House — Armed Services Committee
 
 ## Actions
 
@@ -64,3 +66,7 @@ A concurrent resolution expressing the sense of Congress that an appropriate sit
 - 2011-05-26 — Senate amendment agreed to: Amendment SA 388 agreed to in Senate by Unanimous Consent.
 - 2011-05-26 — Senate amendment proposed (on the floor): Amendment SA 388 proposed by Senator Klobuchar for Senator Murray.(consideration: CR S3461; text: CR S3461)
 - 2011-05-26 — Senate amendment submitted
+- 2011-05-27 — Message on Senate action sent to the House.
+- 2011-05-27 — Received in the House.
+- 2011-05-27 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-05-27 — Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
