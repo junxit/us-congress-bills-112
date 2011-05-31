@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1194
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1194
@@ -32,3 +32,9 @@ To renew the authority of the Secretary of Health and Human Services to approve 
 - 2011-03-17 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-03-17 — Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-03-17 — Sponsor introductory remarks on measure. (CR E518)
+- 2011-05-31 — Considered under suspension of the rules. (consideration: CR H3784-3787)
+- 2011-05-31 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1194.
+- 2011-05-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-05-31 — Mr. Davis (KY) moved to suspend the rules and pass the bill.
+- 2011-05-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3784)
+- 2011-05-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3784)

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1194
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -39,7 +39,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in paragraph (5), by inserting “and the ability of the State to implement a corrective action approved under section 1123A” before the period; | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (6); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (7) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “; and” and inserting “, including all children and families under the project who come to the attention of the State’s child welfare program, either through a report of abuse or neglect or through the pr… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (C) as subparagraph (D) and inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
