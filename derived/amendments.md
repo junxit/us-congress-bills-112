@@ -1,0 +1,39 @@
+---
+measure: H.R. 2060
+congress: 112
+version: Introduced in House
+derived: true
+---
+
+# What H.R. 2060 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+6 amendatory instructions. 0 executed, 6 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | replace | By striking “15-mile” and inserting “14.75-mile”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “8-mile” and all that follows through “Bowman Dam” and inserting “7.75-mile segment from a point one-quarter mile downstream from the toe of Bowman Dam”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “The developer for any hydropower development, including turbines and appurtenant facilities, at Bowman Dam, in consultation with the Bureau of Land Management, shall analyze any impacts to the Outstan… | the bill names no machine-readable US Code section |
+| — | replace | By striking “ten cubic feet” both places it appears and inserting “17 cubic feet”. | the bill names no machine-readable US Code section |
+| — | amend | By adding at the end the following: “The cost of facilities, and the costs of operating and maintaining the same, as properly allocable to this minimum release shall be nonreturnable and nonreimbursable under Federal reclamation laws. Wi… | the bill names no machine-readable US Code section |
+| — | amend | The Act of August 6, 1956 (70 Stat. 1058), as amended by the Acts of September 14, 1959 (73 Stat. 554), and September 18, 1964 (78 Stat. 954), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
