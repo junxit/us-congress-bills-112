@@ -1,7 +1,7 @@
 ---
 measure: H.R. 802
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,5 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | by striking “The Secretary may” and inserting | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | amend | The heading of such section is amended by adding at the end the following: “; VetStar Award Program”. | the bill names no machine-readable US Code section |
+| — | add-at-end | The heading of such section is amended by adding at the end the following: “; VetStar Award Program”. | the bill names no machine-readable US Code section |
 | — | replace | The table of sections at the beginning of chapter 5 of such title is amended by striking the item relating to section 532 and inserting the following new item: | the bill names no machine-readable US Code section |
