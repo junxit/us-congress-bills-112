@@ -2,7 +2,7 @@
 legis-num: H. RES. 288
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 288
@@ -13,7 +13,7 @@ That at any time after the adoption of this resolution the Speaker may, pursuant
 
 ## § 2.
 
-The proceedings referred to in the first section of this resolution are as follows: (a) after disposition of any amendments reported from the Committee of the Whole, the Chair shall put the question on retaining the title beginning on page 25, line 14 (Department of Veterans Affairs); and (b) after disposition of the question under subsection (a), the Chair shall put the question on engrossment and third reading of the text comprising those portions of the bill (as perfected) (1) retained by the House pursuant to subsection (a) and (2) not subject to proceedings under subsection (a).
+The proceedings referred to in the first section of this resolution are as follows: (a) after disposition of any amendments reported from the Committee of the Whole, the Chair shall put the question on retaining the title beginning on page 25, line 14 (Department of Veterans Affairs); and (b) after disposition of the question under subsection (a), the Chair shall put the question on engrossment and third reading of the text comprising those portions of the bill (as perfected): (1) retained by the House pursuant to subsection (a); and (2) not subject to proceedings under subsection (a).
 
 ## § 3.
 
