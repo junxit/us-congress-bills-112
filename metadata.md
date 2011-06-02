@@ -1,0 +1,25 @@
+---
+measure: H.Res. 294
+congress: 112
+version: Reported in House
+---
+
+# H.Res. 294
+
+Providing for consideration of the resolution (H. Res. 292) declaring that the President shall not deploy, establish, or maintain the presence of units and members of the United States Armed Forces on the ground in Libya, and for other purposes, and providing for consideration of the concurrent resolution (H. Con. Res. 51) directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces from Libya.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Scott, Tim [R-SC-1] (S001184)
+
+## Actions
+
+- 2011-06-02 — Introduced in House
+- 2011-06-02 — Placed on the House Calendar, Calendar No. 44.
+- 2011-06-02 — The House Committee on Rules reported an original measure, H. Rept. 112-99, by Mr. Scott (SC).
+- 2011-06-02 — The House Committee on Rules reported an original measure, H. Rept. 112-99, by Mr. Scott (SC).
+- 2011-06-02 — The resolution provides 1 hour of debate for H. Res. 292. It also provides for 1 hour of debate for H. Con. Res. 51. It waives all points of order against consideration on both H. Res. 292 and H. Con. Res. 51. And, both shall be considered as read.
