@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1484
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1484
@@ -20,9 +20,10 @@ Veterans Appeals Improvement Act of 2011
 
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Veterans Appeals Improvement Act of 2011
 - 2011-05-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 377). (text: CR H3775)
 - 2011-05-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 377).(text: CR H3775)
 - 2011-05-31 — The title of the measure was amended. Agreed to without objection.
+- 2011-06-06 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
