@@ -1,7 +1,7 @@
 ---
 measure: H.R. 802
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking “The Secretary may” and inserting | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | The heading of such section is amended by adding at the end the following: “; VetStar Award Program”. | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of chapter 5 of such title is amended by striking the item relating to section 532 and inserting the following new item: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 532` | replace | by striking “The Secretary may” and inserting | the bill quotes the text struck but describes what replaces it |
+| `38 U.S.C. § 532` | amend | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 532` | amend | The heading of such section is amended by adding at the end the following: “; VetStar Award Program”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 532` | replace | The table of sections at the beginning of chapter 5 of such title is amended by striking the item relating to section 532 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

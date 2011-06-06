@@ -1,7 +1,7 @@
 ---
 measure: H.R. 802
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 802
@@ -21,9 +21,10 @@ A bill to amend title 38, United States Code, to direct the Secretary of Veteran
 - Rep. Grimm, Michael G. [R-NY-13] (G000569)
 - Rep. Johnson, Bill [R-OH-6] (J000292)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ A bill to amend title 38, United States Code, to direct the Secretary of Veteran
 - 2011-06-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 11 (Roll no. 383). (text: CR 5/31/2011 H3777)
 - 2011-06-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 11 (Roll no. 383).(text: CR 5/31/2011 H3777)
 - 2011-06-01 — The title of the measure was amended. Agreed to without objection.
+- 2011-06-06 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
