@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2017
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2017
@@ -16,9 +16,10 @@ Continuing Appropriations Act, 2012
 
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (26)
 
@@ -522,3 +523,4 @@ Continuing Appropriations Act, 2012
 - 2011-06-02 — The previous question was ordered pursuant to the rule. (consideration: CR H3961)
 - 2011-06-02 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which were debated earlier and on which further proceedings had been postponed.
 - 2011-06-02 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-06-06 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
