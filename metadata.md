@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1540
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1540
@@ -20,9 +20,10 @@ National Defense Authorization Act for Fiscal Year 2012
 
 - Rep. Smith, Adam [D-WA-9] (S000510)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (33)
 
@@ -505,3 +506,4 @@ National Defense Authorization Act for Fiscal Year 2012
 - 2011-05-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1540.
 - 2011-05-26 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3736)
 - 2011-05-26 — The title of the measure was amended. Agreed to without objection.
+- 2011-06-06 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
