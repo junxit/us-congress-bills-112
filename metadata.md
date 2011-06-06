@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1194
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1194
@@ -20,10 +20,11 @@ To renew the authority of the Secretary of Health and Human Services to approve 
 
 - Rep. Davis, Geoff [R-KY-4] (D000603)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To renew the authority of the Secretary of Health and Human Services to approve 
 - 2011-05-31 — Mr. Davis (KY) moved to suspend the rules and pass the bill.
 - 2011-05-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3784)
 - 2011-05-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3784)
+- 2011-06-06 — Received in the Senate and Read twice and referred to the Committee on Finance.
