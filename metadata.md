@@ -1,7 +1,7 @@
 ---
 measure: S. 762
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 762
@@ -31,3 +31,7 @@ Federal Acquisition Institute Improvement Act of 2011
 - 2011-04-07 — Introduced in Senate
 - 2011-04-07 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S2272-2273)
 - 2011-04-07 — Sponsor introductory remarks on measure. (CR S2270-2271)
+- 2011-04-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2011-06-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 112-21.
+- 2011-06-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 112-21.
+- 2011-06-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 73.
