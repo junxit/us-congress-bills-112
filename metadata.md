@@ -1,7 +1,7 @@
 ---
 measure: S. 679
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 679
@@ -43,3 +43,7 @@ Presidential Appointment Efficiency and Streamlining Act of 2011
 - 2011-03-30 — Introduced in Senate
 - 2011-03-30 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2011-03-30 — Sponsor introductory remarks on measure. (CR S1987-1988)
+- 2011-04-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2011-06-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2011-06-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2011-06-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 75.
