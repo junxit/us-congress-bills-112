@@ -44,3 +44,11 @@ Congress finds the following:
     - **(A)** identify impediments to enhanced Amateur Radio Service communications, such as the effects of unreasonable or unnecessary private land use regulations on residential antenna installations; and
     - **(B)** make recommendations regarding such impediments for consideration by other Federal departments, agencies, and Congress.
 - **(c)** *Use of expertise and information* In conducting the study required by this section, the Secretary of Homeland Security shall utilize the expertise of stakeholder entities and organizations, including the amateur radio, emergency response, and disaster communications communities.
+
+## § 4. Report on duplication of grant programs
+
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Inspector General of the Department of Homeland Security shall submit to Congress a report on the grant programs administered by the Administrator of the Federal Emergency Management Agency.
+- **(b)** *Contents* The report required by subsection (a) shall include the following:
+  - **(1)** Whether and to what degree the grant programs described in subsection (a) provide duplicative or overlapping assistance.
+  - **(2)** The cost of each grant program described in subsection (a).
+  - **(3)** The recommendations of the Inspector General for consolidation and elimination of grant programs described in subsection (a) to reduce duplication of assistance.
