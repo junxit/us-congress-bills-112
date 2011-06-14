@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1891
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-26 amendatory instructions. 0 executed, 26 stated and not applied.
+28 amendatory instructions. 0 executed, 28 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,16 +44,18 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (a)(1), by striking “section 1002(b)(1)” and inserting “section 1002(b)”; and | the bill names no machine-readable US Code section |
 | — | strike | in subsection (c)(7)(A)(vii), by striking “, including coordination” and all that follows through “where applicable”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1703 of such Act (20 U.S.C. 6533) is amended by striking “section 1002(g)” and inserting “section 1002(f)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 2103(b) of such Act (20 U.S.C. 6603(b)) is amended by striking “subpart 5” and inserting “section 2151(a)”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “subpart 5” and inserting “section 2151(a)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “subpart 5” and inserting “section 2151(a)”. | the bill names no machine-readable US Code section |
 | — | strike | Section 2123(a)(5)(A) of such Act (20 U.S.C. 6623(a)(5)(A)) is amended by striking “, and are coordinated” and all that follows through “part D”. | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (1), by striking “except for subpart 4 of part B”; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “, except for subpart 4 of part B”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
 | — | strike | by striking the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking “paragraphs (1) and (2) of”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
 | — | strike | by striking the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (c). | the bill names no machine-readable US Code section |
-| — | strike | Section 4115(b)(2)(E)(xvii) of such Act (20 U.S.C. 7115(b)(2)(E)(xvii)) is amended by striking “, such as a program described in subpart 3 of part D of title V”. | the bill names no machine-readable US Code section |
+| — | replace | Section 4003 of such Act (20 U.S.C. 7103) (as amended by subsection (a)(17)), is further amended by striking “appropriated—” and all that follows through “such” and inserting “appropriated such”. | the bill names no machine-readable US Code section |
 | — | strike | Section 6222(a)(3) of such Act (20 U.S.C. 7351a(a)(3)) is amended by striking “, as described in part D of title II”. | the bill names no machine-readable US Code section |
-| — | amend | Section 9101(13) of such Act (20 U.S.C. 7801(13)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 9501(b)(1) of such Act (20 U.S.C. 7881(b)(1)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (13) to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | by amending paragraph (34)(A)(vii)(I) by striking “(except” and all that follows through “part D of title II)”. | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (1) of section 9501(b) of such Act (20 U.S.C. 7881(b)(1)) is amended to read as follows: | the bill names no machine-readable US Code section |

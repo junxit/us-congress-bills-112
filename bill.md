@@ -19,10 +19,10 @@ This Act may be cited as the “Setting New Priorities in Education Spending Act
   - **(1)** Subpart 2 of part B of title I (20 U.S.C. 6371 et seq.; relating to Early Reading First).
   - **(2)** Subpart 3 of part B of title I (20 U.S.C. 6381 et seq.; relating to the William F. Goodling Even Start Family Literacy programs).
   - **(3)** Subpart 4 of part B of title I (20 U.S.C. 6383; relating to improving literacy through school libraries).
-  - **(4)** Section 1502 (20 U.S.C. 6492; relating demonstrations of innovative practices).
+  - **(4)** Section 1502 (20 U.S.C. 6492; relating to demonstrations of innovative practices).
   - **(5)** Section 1504 (20 U.S.C. 6494; relating to the Close Up Fellowship program).
   - **(6)** Part F of title I (20 U.S.C. 6511 et seq.; relating to comprehensive school reform).
-  - **(7)** Part H of title I (20 U.S.C. 6551 et seq.; relating to school dropout prevention)
+  - **(7)** Part H of title I (20 U.S.C. 6551 et seq.; relating to school dropout prevention).
   - **(8)** Section 2151(b) (20 U.S.C. 6651(b); relating to school leadership).
   - **(9)** Section 2151(c) (20 U.S.C. 6651(c); relating to advanced certification or advanced credentialing).
   - **(10)** Section 2151(d) (20 U.S.C. 6651(d); relating to special education teacher training).
@@ -47,16 +47,15 @@ This Act may be cited as the “Setting New Priorities in Education Spending Act
   - **(29)** Subpart 10 of part D of title V (20 U.S.C. 7261 et seq.; commonly referred to as the “Carol M. White Physical Education Program”).
   - **(30)** Subpart 11 of part D of title V (20 U.S.C. 7263 et seq.; relating to community technology centers).
   - **(31)** Subpart 12 of part D of title V (20 U.S.C. 7265 et seq.; relating to educational, cultural, apprenticeship, and exchange programs for Alaska Natives, Native Hawaiians, and their historical whaling and trading partners in Massachusetts).
-  - **(32)** Subpart 13 of part D of title V (20 U.S.C. 7267 et seq.; relating to excellence in economic education).
+  - **(32)** Subpart 13 of part D of title V (20 U.S.C. 7267 et seq.; commonly referred to as the “Excellence in Economic Education Act of 2001”).
   - **(33)** Subpart 14 of part D of title V (20 U.S.C. 7269 et seq.; relating to grants to improve the mental health of children).
   - **(34)** Subpart 15 of part D of title V (20 U.S.C. 7271; relating to arts in education).
-  - **(35)** Subpart 16 of part D of title V (20 U.S.C. 7273; relating to parental assistance and local family information centers).
-  - **(36)** Subpart 17 of part D of title V (20 U.S.C. 7275; relating to combatting domestic violence).
-  - **(37)** Subpart 18 of part D of title V (20 U.S.C. 7277 et seq.; relating to healthy, high–performance schools).
-  - **(38)** Subpart 20 of part D of title V (20 U.S.C. 7281 et seq.; relating to additional assistance for certain local educational agencies impacted by Federal property acquisition).
-  - **(39)** Subpart 21 of part D of title V (20 U.S.C. 7283 et seq.; commonly referred to as the “Women’s Educational Equity Act of 2001”).
-  - **(40)** Part B of title VII (20 U.S.C. 7511 et seq.; commonly referred to as the “Native Hawaiian Education Act”).
-  - **(41)** Part C of title VII (20 U.S.C. 7541 et seq.; commonly referred to as the “Alaska Native Educational Equity, Support, and Assistance Act”).
+  - **(35)** Subpart 17 of part D of title V (20 U.S.C. 7275; relating to combatting domestic violence).
+  - **(36)** Subpart 18 of part D of title V (20 U.S.C. 7277 et seq.; relating to healthy, high–performance schools).
+  - **(37)** Subpart 20 of part D of title V (20 U.S.C. 7281 et seq.; relating to additional assistance for certain local educational agencies impacted by Federal property acquisition).
+  - **(38)** Subpart 21 of part D of title V (20 U.S.C. 7283 et seq.; commonly referred to as the “Women’s Educational Equity Act of 2001”).
+  - **(39)** Part B of title VII (20 U.S.C. 7511 et seq.; commonly referred to as the “Native Hawaiian Education Act”).
+  - **(40)** Part C of title VII (20 U.S.C. 7541 et seq.; commonly referred to as the “Alaska Native Educational Equity, Support, and Assistance Act”).
 - **(b)** *Conforming amendments*
   - **(1)** *Title I*
     - **(A)** *Section 1002* Section 1002 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6302) is amended—
@@ -83,14 +82,16 @@ This Act may be cited as the “Setting New Priorities in Education Spending Act
     - **(B)** *Section 1116* Section 1116(b)(3)(A)(i) of such Act (20 U.S.C. 6316(b)(3)(A)(i)) is amended by striking “, and may include” and all that follows through “part F”.
     - **(C)** *Section 1202* Section 1202 of such Act (20 U.S.C. 6362) is amended—
       - **(i)** in subsection (a)(1), by striking “section 1002(b)(1)” and inserting “section 1002(b)”; and
-      - **(iii)** in subsection (c)(7)(A)(vii), by striking “, including coordination” and all that follows through “where applicable”.
+      - **(ii)** in subsection (c)(7)(A)(vii), by striking “, including coordination” and all that follows through “where applicable”.
     - **(D)** *Section 1703* Section 1703 of such Act (20 U.S.C. 6533) is amended by striking “section 1002(g)” and inserting “section 1002(f)”.
   - **(2)** *Title II*
-    - **(A)** *Section 2103* Section 2103(b) of such Act (20 U.S.C. 6603(b)) is amended by striking “subpart 5” and inserting “section 2151(a)”.
+    - **(A)** *Section 2103* Section 2103 of such Act (20 U.S.C. 6603) is amended—
+      - **(i)** in subsection (a), by striking “subpart 5” and inserting “section 2151(a)”; and
+      - **(ii)** in subsection (b), by striking “subpart 5” and inserting “section 2151(a)”.
     - **(B)** *Section 2123* Section 2123(a)(5)(A) of such Act (20 U.S.C. 6623(a)(5)(A)) is amended by striking “, and are coordinated” and all that follows through “part D”.
   - **(3)** *Title III* Section 3001 of such Act (20 U.S.C. 6801) is amended—
     - **(A)** in subsection (a)—
-      - **(i)** in paragraph (1), by striking “except for subpart 4 of part B”;
+      - **(i)** in paragraph (1), by striking “, except for subpart 4 of part B”;
       - **(ii)** by striking paragraph (2); and
       - **(iii)** by striking the following:
         > - **(a)** *Authorization of appropriations*
@@ -108,22 +109,24 @@ This Act may be cited as the “Setting New Priorities in Education Spending Act
         > - **(b)** *Conditions on effectiveness of part A* Part A
 
     - **(C)** by striking subsection (c).
-  - **(4)** *Title IV* Section 4115(b)(2)(E)(xvii) of such Act (20 U.S.C. 7115(b)(2)(E)(xvii)) is amended by striking “, such as a program described in subpart 3 of part D of title V”.
+  - **(4)** *Title IV* Section 4003 of such Act (20 U.S.C. 7103) (as amended by subsection (a)(17)), is further amended by striking “appropriated—” and all that follows through “such” and inserting “appropriated such”.
   - **(5)** *Title VI* Section 6222(a)(3) of such Act (20 U.S.C. 7351a(a)(3)) is amended by striking “, as described in part D of title II”.
   - **(6)** *Title IX*
-    - **(A)** *Section 9101* Section 9101(13) of such Act (20 U.S.C. 7801(13)) is amended to read as follows:
-      > - **(13)** *Covered program* The term “covered program” means each of the programs authorized by—
-      >   - **(A)** part A of title I;
-      >   - **(B)** part C of title I;
-      >   - **(C)** part D of title I;
-      >   - **(D)** part A of title II;
-      >   - **(E)** part A of title III;
-      >   - **(F)** part A of title IV;
-      >   - **(G)** part B of title IV;
-      >   - **(H)** part A of title V; and
-      >   - **(I)** subpart 2 of part B of title VI.
+    - **(A)** *Section 9101* Section 9101 of such Act (20 U.S.C. 7801) is amended—
+      - **(i)** by amending paragraph (13) to read as follows:
+        > - **(13)** *Covered program* The term “covered program” means each of the programs authorized by—
+        >   - **(A)** part A of title I;
+        >   - **(B)** part C of title I;
+        >   - **(C)** part D of title I;
+        >   - **(D)** part A of title II;
+        >   - **(E)** part A of title III;
+        >   - **(F)** part A of title IV;
+        >   - **(G)** part B of title IV;
+        >   - **(H)** part A of title V; and
+        >   - **(I)** subpart 2 of part B of title VI.
 
-    - **(B)** *Section 9501* Section 9501(b)(1) of such Act (20 U.S.C. 7881(b)(1)) is amended to read as follows:
+      - **(ii)** by amending paragraph (34)(A)(vii)(I) by striking “(except” and all that follows through “part D of title II)”.
+    - **(B)** *Section 9501* Paragraph (1) of section 9501(b) of such Act (20 U.S.C. 7881(b)(1)) is amended to read as follows:
       > - **(1)** *In general* This section applies to programs under—
       >   - **(A)** subpart 1 of part B of title I;
       >   - **(B)** part C of title I;
