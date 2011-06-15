@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2055
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2055
@@ -16,9 +16,10 @@ Consolidated Appropriations Act, 2012
 
 - Rep. Culberson, John Abney [R-TX-7] (C001048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (6)
 
@@ -137,3 +138,4 @@ Consolidated Appropriations Act, 2012
 - 2011-06-14 — On passage Passed by the Yeas and Nays: 411 - 5 (Roll no. 418).
 - 2011-06-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 411 - 5 (Roll no. 418).
 - 2011-06-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4105-4106)
+- 2011-06-15 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
