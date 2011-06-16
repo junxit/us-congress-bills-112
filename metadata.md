@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 299
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 299
@@ -29,3 +29,10 @@ Permitting official photographs of the House of Representatives to be taken whil
 - 2011-06-03 — Introduced in House
 - 2011-06-03 — Introduced in House
 - 2011-06-03 — Referred to the House Committee on House Administration.
+- 2011-06-16 — Committee on House Administration discharged.
+- 2011-06-16 — Committee on House Administration discharged.
+- 2011-06-16 — Considered by unanimous consent. (consideration: CR H4315)
+- 2011-06-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-06-16 — Mr. Lungren, Daniel E. asked unanimous consent to discharge from committee and consider.
+- 2011-06-16 — On agreeing to the resolution Agreed to without objection. (text: CR H4315)
+- 2011-06-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H4315)
