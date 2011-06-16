@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2112
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2112
@@ -16,9 +16,53 @@ Consolidated and Further Continuing Appropriations Act, 2012
 
 - Rep. Kingston, Jack [R-GA-1] (K000220)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
+
+## Recorded votes (40)
+
+- 2011-06-15 — [House 112-1-420](votes/house-112-1-0420.md) — On Agreeing to the Amendment — **Failed** (193–226)
+- 2011-06-15 — [House 112-1-421](votes/house-112-1-0421.md) — On Agreeing to the Amendment — **Agreed to** (226–199)
+- 2011-06-15 — [House 112-1-422](votes/house-112-1-0422.md) — On Agreeing to the Amendment — **Agreed to** (352–70)
+- 2011-06-15 — [House 112-1-423](votes/house-112-1-0423.md) — On Agreeing to the Amendment — **Failed** (120–304)
+- 2011-06-15 — [House 112-1-424](votes/house-112-1-0424.md) — On Agreeing to the Amendment — **Failed** (83–338)
+- 2011-06-15 — [House 112-1-425](votes/house-112-1-0425.md) — On Agreeing to the Amendment — **Failed** (125–298)
+- 2011-06-15 — [House 112-1-426](votes/house-112-1-0426.md) — On Agreeing to the Amendment — **Failed** (142–282)
+- 2011-06-15 — [House 112-1-427](votes/house-112-1-0427.md) — On Agreeing to the Amendment — **Failed** (107–318)
+- 2011-06-15 — [House 112-1-428](votes/house-112-1-0428.md) — On Agreeing to the Amendment — **Failed** (200–224)
+- 2011-06-15 — [House 112-1-429](votes/house-112-1-0429.md) — On Agreeing to the Amendment — **Failed** (139–285)
+- 2011-06-15 — [House 112-1-430](votes/house-112-1-0430.md) — On Agreeing to the Amendment — **Failed** (64–360)
+- 2011-06-15 — [House 112-1-431](votes/house-112-1-0431.md) — On Agreeing to the Amendment — **Failed** (119–306)
+- 2011-06-15 — [House 112-1-432](votes/house-112-1-0432.md) — On Agreeing to the Amendment — **Failed** (99–324)
+- 2011-06-15 — [House 112-1-433](votes/house-112-1-0433.md) — On Agreeing to the Amendment — **Failed** (124–300)
+- 2011-06-15 — [House 112-1-434](votes/house-112-1-0434.md) — On Agreeing to the Amendment — **Failed** (108–316)
+- 2011-06-15 — [House 112-1-435](votes/house-112-1-0435.md) — On Agreeing to the Amendment — **Failed** (120–303)
+- 2011-06-15 — [House 112-1-436](votes/house-112-1-0436.md) — On Agreeing to the Amendment — **Failed** (164–257)
+- 2011-06-16 — [House 112-1-437](votes/house-112-1-0437.md) — On Agreeing to the Amendment — **Failed** (170–238)
+- 2011-06-16 — [House 112-1-438](votes/house-112-1-0438.md) — On Agreeing to the Amendment — **Agreed to** (212–201)
+- 2011-06-16 — [House 112-1-439](votes/house-112-1-0439.md) — On Agreeing to the Amendment — **Agreed to** (223–197)
+- 2011-06-16 — [House 112-1-440](votes/house-112-1-0440.md) — On Agreeing to the Amendment — **Failed** (178–241)
+- 2011-06-16 — [House 112-1-441](votes/house-112-1-0441.md) — On Agreeing to the Amendment — **Failed** (167–252)
+- 2011-06-16 — [House 112-1-442](votes/house-112-1-0442.md) — On Agreeing to the Amendment — **Agreed to** (221–198)
+- 2011-06-16 — [House 112-1-443](votes/house-112-1-0443.md) — On Agreeing to the Amendment — **Failed** (154–262)
+- 2011-06-16 — [House 112-1-444](votes/house-112-1-0444.md) — On Agreeing to the Amendment — **Failed** (155–262)
+- 2011-06-16 — [House 112-1-445](votes/house-112-1-0445.md) — On Agreeing to the Amendment — **Agreed to** (240–176)
+- 2011-06-16 — [House 112-1-446](votes/house-112-1-0446.md) — On Agreeing to the Amendment — **Agreed to** (231–189)
+- 2011-06-16 — [House 112-1-447](votes/house-112-1-0447.md) — On Agreeing to the Amendment — **Failed** (181–237)
+- 2011-06-16 — [House 112-1-448](votes/house-112-1-0448.md) — On Agreeing to the Amendment — **Agreed to** (238–179)
+- 2011-06-16 — [House 112-1-449](votes/house-112-1-0449.md) — On Agreeing to the Amendment — **Failed** (182–235)
+- 2011-06-16 — [House 112-1-450](votes/house-112-1-0450.md) — On Agreeing to the Amendment — **Agreed to** (288–132)
+- 2011-06-16 — [House 112-1-451](votes/house-112-1-0451.md) — On Agreeing to the Amendment — **Failed** (84–335)
+- 2011-06-16 — [House 112-1-452](votes/house-112-1-0452.md) — On Agreeing to the Amendment — **Failed** (132–287)
+- 2011-06-16 — [House 112-1-453](votes/house-112-1-0453.md) — On Agreeing to the Amendment — **Failed** (109–310)
+- 2011-06-16 — [House 112-1-454](votes/house-112-1-0454.md) — On Agreeing to the Amendment — **Agreed to** (283–128)
+- 2011-06-16 — [House 112-1-455](votes/house-112-1-0455.md) — On Agreeing to the Amendment — **Failed** (186–228)
+- 2011-06-16 — [House 112-1-456](votes/house-112-1-0456.md) — On Agreeing to the Amendment — **Failed** (162–254)
+- 2011-06-16 — [House 112-1-457](votes/house-112-1-0457.md) — On Agreeing to the Amendment — **Failed** (101–314)
+- 2011-06-16 — [House 112-1-458](votes/house-112-1-0458.md) — On Motion to Recommit with Instructions — **Failed** (185–233)
+- 2011-06-16 — [House 112-1-459](votes/house-112-1-0459.md) — On Passage — **Passed** (217–203)
 
 ## Actions
 
@@ -26,3 +70,545 @@ Consolidated and Further Continuing Appropriations Act, 2012
 - 2011-06-03 — Placed on the Union Calendar, Calendar No. 56.
 - 2011-06-03 — The House Committee on Appropriations reported an original measure, H. Rept. 112-101, by Mr. Kingston.
 - 2011-06-03 — The House Committee on Appropriations reported an original measure, H. Rept. 112-101, by Mr. Kingston.
+- 2011-06-13 — Rules Committee Resolution H. Res. 300 Reported to House. Rule provides for consideration of H.R. 2112 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by paragraph. Bill is open to amendments. All points of order against consideration of the bill are waived.
+- 2011-06-14 — Amendment (A001) offered by Ms. DeLauro. (consideration: CR H4152-4164; text: CR H4152)
+- 2011-06-14 — Amendment (A002) offered by Ms. DeLauro. (consideration: CR H4164-4165; text: CR H4164)
+- 2011-06-14 — Amendment (A003) offered by Ms. Jackson Lee (TX). (consideration: CR H4165-4166; text: CR H4165)
+- 2011-06-14 — Amendment (A004) offered by Mr. Fortenberry. (consideration: CR H4166-4168; text: CR H4166-4167)
+- 2011-06-14 — Amendment (A005) offered by Mr. Sessions. (consideration: CR H4168-4169; text: CR H4168)
+- 2011-06-14 — Amendment (A006) offered by Mr. Farr. (consideration: CR H4169; text: CR H4169)
+- 2011-06-14 — Amendment (A007) offered by Mr. Broun (GA). (consideration: CR H4169-4170; text: CR H4169)
+- 2011-06-14 — Amendment (A008) offered by Mr. Clarke (MI). (consideration: CR H4170-4171; text: CR H4170)
+- 2011-06-14 — Amendment (A009) offered by Mr. Young (IN). (consideration: CR H4171; text: CR H4171)
+- 2011-06-14 — Amendment (A010) offered by Mr. Chaffetz. (consideration: CR H4171-4174; text: CR H4171)
+- 2011-06-14 — Amendment (A011) offered by Mr. Broun (GA). (consideration: CR H4174; text: CR H4174)
+- 2011-06-14 — Amendment (A012) offered by Mr. Nugent. (consideration: CR H4175; text: CR H4175)
+- 2011-06-14 — Amendment (A013) offered by Ms. Jackson Lee (TX). (consideration: CR H4175-4178; text: CR H4176)
+- 2011-06-14 — Amendment (A014) offered by Mr. Clarke (MI). (consideration: CR H4179-4180; text: CR H4179)
+- 2011-06-14 — Amendment (A015) offered by Mr. Broun (GA). (consideration: CR H4180-4181; text: CR H4180)
+- 2011-06-14 — Amendment (A016) offered by Ms. Richardson. (consideration: CR H4181-4182; text: CR H4181)
+- 2011-06-14 — Amendment agreed to Committee of the Whole
+- 2011-06-14 — Amendment agreed to Committee of the Whole
+- 2011-06-14 — Amendment agreed to Committee of the Whole
+- 2011-06-14 — Amendment agreed to Committee of the Whole
+- 2011-06-14 — Amendment agreed to Committee of the Whole
+- 2011-06-14 — Committee of the Whole House on the state of the Union rises leaving H.R. 2112 as unfinished business.
+- 2011-06-14 — Considered under the provisions of rule H. Res. 300. (consideration: CR H4108-4183; text of Title I of amendment in the nature of a substitute: CR H4130, H4166, H4168, H4169, H4170, H4171, H4175, H4178-4179, H4180, H4181, H4182-4183; text of Title II of amendment in the nature of a substitute: CR H4183, CR 6/15/2011 H4202)
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Broun (GA) amendment under the five-minute rule.
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Broun (GA) amendment under the five-minute rule.
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Broun (GA) amendment under the five-minute rule.
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Chaffetz amendment under the five-minute rule.
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Clarke (MI) amendment under the five-minute rule.
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Clarke (MI) amendment under the five-minute rule.
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the DeLauro amendment under the five-minute rule.
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the DeLauro amendment under the five-minute rule.
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Farr amendment under the five-minute rule.
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Fortenberry amendment under the five-minute rule.
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Jackson Lee amendment under the five-minute rule pending reservation of a point of order.
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Jackson Lee amendment under the five-minute rule, pending reservation of a point of order.
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Nugent amendment under the five-minute rule.
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Richardson amendment under the five-minute rule.
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Sessions amendment under the five-minute rule.
+- 2011-06-14 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Young (IN) amendment under the five-minute rule.
+- 2011-06-14 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2112.
+- 2011-06-14 — House amendment agreed to: On agreeing to the Clarke (MI) amendment (A008) Agreed to by voice vote.
+- 2011-06-14 — House amendment agreed to: On agreeing to the DeLauro amendment (A001) Agreed to by voice vote.
+- 2011-06-14 — House amendment agreed to: On agreeing to the Fortenberry amendment (A004) Agreed to by voice vote.
+- 2011-06-14 — House amendment agreed to: On agreeing to the Nugent amendment (A012) Agreed to by voice vote.
+- 2011-06-14 — House amendment agreed to: On agreeing to the Young (IN) amendment (A009) Agreed to by voice vote.
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered
+- 2011-06-14 — House amendment offered/reported by: Amendment (A001) offered by Ms. DeLauro.(consideration: CR H4152-4164; text: CR H4152)
+- 2011-06-14 — House amendment offered/reported by: Amendment (A002) offered by Ms. DeLauro.(consideration: CR H4164-4165; text: CR H4164)
+- 2011-06-14 — House amendment offered/reported by: Amendment (A003) offered by Ms. Jackson Lee (TX).(consideration: CR H4165-4166; text: CR H4165)
+- 2011-06-14 — House amendment offered/reported by: Amendment (A004) offered by Mr. Fortenberry.(consideration: CR H4166-4168; text: CR H4166-4167)
+- 2011-06-14 — House amendment offered/reported by: Amendment (A005) offered by Mr. Sessions.(consideration: CR H4168-4169; text: CR H4168)
+- 2011-06-14 — House amendment offered/reported by: Amendment (A006) offered by Mr. Farr.(consideration: CR H4169; text: CR H4169)
+- 2011-06-14 — House amendment offered/reported by: Amendment (A007) offered by Mr. Broun (GA).(consideration: CR H4169-4170; text: CR H4169)
+- 2011-06-14 — House amendment offered/reported by: Amendment (A008) offered by Mr. Clarke (MI).(consideration: CR H4170-4171; text: CR H4170)
+- 2011-06-14 — House amendment offered/reported by: Amendment (A009) offered by Mr. Young (IN).(consideration: CR H4171; text: CR H4171)
+- 2011-06-14 — House amendment offered/reported by: Amendment (A010) offered by Mr. Chaffetz.(consideration: CR H4171-4174; text: CR H4171)
+- 2011-06-14 — House amendment offered/reported by: Amendment (A011) offered by Mr. Broun (GA).(consideration: CR H4174; text: CR H4174)
+- 2011-06-14 — House amendment offered/reported by: Amendment (A012) offered by Mr. Nugent.(consideration: CR H4175; text: CR H4175)
+- 2011-06-14 — House amendment offered/reported by: Amendment (A013) offered by Ms. Jackson Lee (TX).(consideration: CR H4175-4178; text: CR H4176)
+- 2011-06-14 — House amendment offered/reported by: Amendment (A014) offered by Mr. Clarke (MI).(consideration: CR H4179-4180; text: CR H4179)
+- 2011-06-14 — House amendment offered/reported by: Amendment (A015) offered by Mr. Broun (GA).(consideration: CR H4180-4181; text: CR H4180)
+- 2011-06-14 — House amendment offered/reported by: Amendment (A016) offered by Ms. Richardson.(consideration: CR H4181-4182; text: CR H4181)
+- 2011-06-14 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 300 and Rule XVIII.
+- 2011-06-14 — Mr. Kingston moved that the Committee rise.
+- 2011-06-14 — Mr. Kingston raised a point of order against the Jackson Lee (TX) amendment (A003). Mr. Kingston stated that the amendment does not meet the budget neutral requirement necessary for the amendment to be considered en bloc. The Chair sustained the point of order.
+- 2011-06-14 — Mr. Kingston raised a point of order against the Jackson Lee (TX) amendment (A013). Mr. Kingston stated that the amendment does not meet the budget neutral requirement necessary for the amendment to be considered en bloc. The Chair sustained the point of order.
+- 2011-06-14 — On agreeing to the Clarke (MI) amendment (A008) Agreed to by voice vote.
+- 2011-06-14 — On agreeing to the DeLauro amendment (A001) Agreed to by voice vote.
+- 2011-06-14 — On agreeing to the Fortenberry amendment (A004) Agreed to by voice vote.
+- 2011-06-14 — On agreeing to the Nugent amendment (A012) Agreed to by voice vote.
+- 2011-06-14 — On agreeing to the Young (IN) amendment (A009) Agreed to by voice vote.
+- 2011-06-14 — On motion that the Committee rise Agreed to by voice vote.
+- 2011-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Broun (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Broun (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Broun (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Broun (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Broun (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Broun (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Chaffetz amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Kingston demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Clarke (MI) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Clarke (MI) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeLauro amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. DeLauro demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Farr amendment, the Chair put the question adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Farr demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Richardson amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Richardson demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sessions amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Farr demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-14 — Pursuant to the provisions of H.Res. 300, the Committee of the Whole proceeded with debate on pro forma amendments to H.R. 2112.
+- 2011-06-14 — Rule H. Res. 300 passed House.
+- 2011-06-14 — Rule provides for consideration of H.R. 2112 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by paragraph. Bill is open to amendments. All points of order against consideration of the bill are waived.
+- 2011-06-14 — The Speaker designated the Honorable Candice S. Miller to act as Chairwoman of the Committee.
+- 2011-06-15 — Amendment (A017) offered by Mr. Broun (GA). (consideration: CR H4202-4203; text: CR H4202)
+- 2011-06-15 — Amendment (A018) offered by Mr. Gosar. (consideration: CR H4204-4205; text: CR H4204)
+- 2011-06-15 — Amendment (A019) offered by Mr. Broun (GA). (consideration: CR H4205-4206; text: CR H4205)
+- 2011-06-15 — Amendment (A020) offered by Mr. Broun (GA). (consideration: CR H4207-4208; text: CR H4207)
+- 2011-06-15 — Amendment (A021) offered by Ms. Foxx. (consideration: CR H4208; text: CR H4208)
+- 2011-06-15 — Amendment (A022) offered by Ms. Foxx. (consideration: CR H4208-4209; text: CR H4208)
+- 2011-06-15 — Amendment (A023) offered by Mr. Broun (GA). (consideration: CR H4210; text: CR H4210)
+- 2011-06-15 — Amendment (A024) offered by Mr. Gosar. (consideration: CR H4210-4213; text: CR H4210)
+- 2011-06-15 — Amendment (A025) offered by Mr. Broun (GA). (consideration: CR H4213-4215; text: CR H4213)
+- 2011-06-15 — Amendment (A026) offered by Mr. Broun (GA). (consideration: CR H4215-4217; text: CR H4215)
+- 2011-06-15 — Amendment (A027) offered by Mr. Stearns. (consideration: CR H4217-4219; text: CR H4217)
+- 2011-06-15 — Amendment (A028) offered by Mr. Broun (GA). (consideration: CR H4219; text: CR H4219)
+- 2011-06-15 — Amendment (A029) offered by Mrs. Lummis. (consideration: CR H4222-4224; text: CR H4222)
+- 2011-06-15 — Amendment (A030) offered by Mr. Kingston. (consideration: CR H4240; text: CR H4240)
+- 2011-06-15 — Amendment (A031) offered by Mr. Young (AK). (consideration: CR H4240-4241; text: CR H4240)
+- 2011-06-15 — Amendment (A032) offered by Ms. Pingree (ME). (consideration: CR H4241-4242; text: CR H4241)
+- 2011-06-15 — Amendment (A033) offered by Ms. Foxx. (consideration: CR H4242-4245; text: CR H4242)
+- 2011-06-15 — Amendment (A034) offered by Ms. Woolsey. (consideration: CR H4245; text: CR H4245)
+- 2011-06-15 — Amendment (A035) offered by Mr. Royce. (consideration: CR H4245-4246; text: CR H4245-4246)
+- 2011-06-15 — Amendment (A036) offered by Mr. Kind. (consideration: CR H4246-4253; text: CR H4246)
+- 2011-06-15 — Amendment (A037) offered by Mr. Dingell. (consideration: CR H4253-4256; text: CR H4253)
+- 2011-06-15 — Amendment (A038) offered by Mr. Chaffetz. (consideration: CR H4256; text: CR H4256)
+- 2011-06-15 — Amendment (A039) offered by Mr. Chaffetz. (consideration: CR H4256-4257; text: CR H4256)
+- 2011-06-15 — Amendment (A040) offered by Ms. Jackson Lee (TX). (consideration: CR H4257-4259; text: CR H4257)
+- 2011-06-15 — Amendment (A041) offered by Mr. Gibson. (consideration: CR H4259-4263; text: CR H4259)
+- 2011-06-15 — Amendment (A042) offered by Mr. Blumenauer. (consideration: CR H4263-4267; text: CR H4263)
+- 2011-06-15 — Amendment (A043) offered by Mr. King (IA). (consideration: CR H4267-4268; text: CR H4267)
+- 2011-06-15 — Amendment (A044) offered by Mr. Engel. (consideration: CR H4268; text: CR H4268)
+- 2011-06-15 — Amendment (A045) offered by Mr. King (IA). (consideration: CR H4268-4269; text: CR H4268)
+- 2011-06-15 — Amendment (A046) offered by Mr. Clarke (MI). (consideration: CR H4269-4270; text: CR H4269)
+- 2011-06-15 — Amendment (A047) offered by Mr. Garrett. (consideration: CR H4270-4271; text: CR H4270)
+- 2011-06-15 — Amendment agreed to Committee of the Whole
+- 2011-06-15 — Amendment agreed to Committee of the Whole
+- 2011-06-15 — Amendment agreed to Committee of the Whole
+- 2011-06-15 — Amendment agreed to Committee of the Whole
+- 2011-06-15 — Amendment agreed to Committee of the Whole
+- 2011-06-15 — Amendment agreed to Committee of the Whole
+- 2011-06-15 — Amendment agreed to Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — Amendment failed in Committee of the Whole
+- 2011-06-15 — By unanimous consent, the Clarke (MI) amendment was withdrawn. (consideration: CR H4270)
+- 2011-06-15 — By unanimous consent, the Foxx amendment was withdrawn. (consideration: CR H4208)
+- 2011-06-15 — By unanimous consent, the Lummis amendment was withdrawn. (consideration: CR H4224)
+- 2011-06-15 — By unanimous consent, the Woolsey amendment was withdrawn. (consideration: CR H4245)
+- 2011-06-15 — Committee of the Whole House on the state of the Union rises leaving H.R. 2112 as unfinished business.
+- 2011-06-15 — Considered as unfinished business. (consideration: CR H4202-4239)
+- 2011-06-15 — Considered as unfinished business. (consideration: CR H4239-4274; text of Title III of amendment in the nature of a substitute: CR H4203-4204, H4205, H4206-4207; text of Title IV of amendment in the nature of a substitute: CR H4207, H4209-4210; text of Title V of amendment in the nature of a substitute: H4210, H4215; text of Title VI of amendment in the nature of a substitute: CR H4217, H4219; text of Title VII of amendment in the nature of a substitute: CR H4219, H4219-4222, H4238, H4239)
+- 2011-06-15 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Blumenauer amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Clarke (MI) amendment under the five-minute rule, pending reservation of a point of order.
+- 2011-06-15 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Engel amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Garrett (NJ) amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Gibson amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Jackson Lee amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the King (IA) amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the King (IA) amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Broun (GA) amendment No. 12 under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Broun (GA) amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Broun (GA) amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Broun (GA) amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Broun amendment No. 10 under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Broun amendment No. 11 under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Broun(GA) amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Chaffetz amendment no. 13 under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Chaffetz amendment no. 14 under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Dingell amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Foxx amendment No. 2 under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Foxx amendment no. 1 under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Foxx amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Gosar amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Gosar amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Kind amendment no. 25 under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Kingston amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Lummis amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Pingree amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Stearns amendment under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Woolsey amendment no. 20 under the five-minute rule.
+- 2011-06-15 — DEBATE - The Committee of the Whole proceeded with debate on the Young (AK) amendment under the five-minute rule.
+- 2011-06-15 — House amendment agreed to: On agreeing to the Chaffetz amendment (A038) Agreed to by voice vote.
+- 2011-06-15 — House amendment agreed to: On agreeing to the Engel amendment (A044) Agreed to by voice vote.
+- 2011-06-15 — House amendment agreed to: On agreeing to the Farr amendment (A006) Agreed to by recorded vote: 352 - 70 (Roll no. 422).(consideration: CR H4226-4227)
+- 2011-06-15 — House amendment agreed to: On agreeing to the Kingston amendment (A030) Agreed to by voice vote.
+- 2011-06-15 — House amendment agreed to: On agreeing to the Royce amendment (A035) Agreed to by voice vote.
+- 2011-06-15 — House amendment agreed to: On agreeing to the Sessions amendment (A005) Agreed to by recorded vote: 226 - 199 (Roll no. 421).(consideration: CR H4225-4226)
+- 2011-06-15 — House amendment agreed to: On agreeing to the Young (AK) amendment (A031) Agreed to by voice vote.
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A007) Failed by recorded vote: 120 - 304 (Roll no. 423).(consideration: CR H4227)
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A011) Failed by recorded vote: 125 - 298 (Roll no. 425).(consideration: CR H4228-4229)
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A015) Failed by recorded vote: 107 - 318 (Roll no. 427).(consideration: CR H4229-4230)
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A017) Failed by voice vote.
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A019) Failed by voice vote.
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A020) Failed by recorded vote: 64 - 360 (Roll no. 430).(consideration: CR H4231-4232)
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A023) Failed by recorded vote: 99 - 324 (Roll no. 432).(consideration: CR H4233)
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A025) Failed by recorded vote: 108 - 316 (Roll no. 434).(consideration: CR H4234-4235)
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A026) Failed by recorded vote: 120 - 303 (Roll no. 435).(consideration: CR H4235)
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A028) Failed by voice vote.
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Chaffetz amendment (A010) Failed by recorded vote: 83 - 338 (Roll no. 424).(consideration: CR H4227-4228)
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Chaffetz amendment (A039) Failed by voice vote.
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Clarke (MI) amendment (A014) Failed by recorded vote: 142 - 282 (Roll no. 426).(consideration: CR H4229)
+- 2011-06-15 — House amendment not agreed to: On agreeing to the DeLauro amendment (A002) Failed by recorded vote: 193 - 226 (Roll no. 420).(consideration: CR H4225)
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Foxx amendment (A022) Failed by recorded vote: 119 - 306 (Roll no. 431).(consideration: CR H4232-4233)
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Gosar amendment (A018) Failed by recorded vote: 139 - 285 (Roll no. 429).(consideration: CR H4231)
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Gosar amendment (A024) Failed by recorded vote: 124 - 300 (Roll no. 433).(consideration: CR H4233-4234)
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Richardson amendment (A016) Failed by recorded vote: 200 - 224 (Roll no. 428).(consideration: CR H4230-4231)
+- 2011-06-15 — House amendment not agreed to: On agreeing to the Stearns amendment (A027) Failed by recorded vote: 164 - 257 (Roll no. 436).(consideration: CR H4235-4236)
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered
+- 2011-06-15 — House amendment offered/reported by: Amendment (A017) offered by Mr. Broun (GA).(consideration: CR H4202-4203; text: CR H4202)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A018) offered by Mr. Gosar.(consideration: CR H4204-4205; text: CR H4204)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A019) offered by Mr. Broun (GA).(consideration: CR H4205-4206; text: CR H4205)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A020) offered by Mr. Broun (GA).(consideration: CR H4207-4208; text: CR H4207)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A021) offered by Ms. Foxx.(consideration: CR H4208; text: CR H4208)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A022) offered by Ms. Foxx.(consideration: CR H4208-4209; text: CR H4208)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A023) offered by Mr. Broun (GA).(consideration: CR H4210; text: CR H4210)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A024) offered by Mr. Gosar.(consideration: CR H4210-4213; text: CR H4210)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A025) offered by Mr. Broun (GA).(consideration: CR H4213-4215; text: CR H4213)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A026) offered by Mr. Broun (GA).(consideration: CR H4215-4217; text: CR H4215)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A027) offered by Mr. Stearns.(consideration: CR H4217-4219; text: CR H4217)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A028) offered by Mr. Broun (GA).(consideration: CR H4219; text: CR H4219)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A029) offered by Mrs. Lummis.(consideration: CR H4222-4224; text: CR H4222)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A030) offered by Mr. Kingston.(consideration: CR H4240; text: CR H4240)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A031) offered by Mr. Young (AK).(consideration: CR H4240-4241; text: CR H4240)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A032) offered by Ms. Pingree (ME).(consideration: CR H4241-4242; text: CR H4241)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A033) offered by Ms. Foxx.(consideration: CR H4242-4245; text: CR H4242)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A034) offered by Ms. Woolsey.(consideration: CR H4245; text: CR H4245)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A035) offered by Mr. Royce.(consideration: CR H4245-4246; text: CR H4245-4246)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A036) offered by Mr. Kind.(consideration: CR H4246-4253; text: CR H4246)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A037) offered by Mr. Dingell.(consideration: CR H4253-4256; text: CR H4253)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A038) offered by Mr. Chaffetz.(consideration: CR H4256; text: CR H4256)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A039) offered by Mr. Chaffetz.(consideration: CR H4256-4257; text: CR H4256)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A040) offered by Ms. Jackson Lee (TX).(consideration: CR H4257-4259; text: CR H4257)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A041) offered by Mr. Gibson.(consideration: CR H4259-4263; text: CR H4259)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A042) offered by Mr. Blumenauer.(consideration: CR H4263-4267; text: CR H4263)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A043) offered by Mr. King (IA).(consideration: CR H4267-4268; text: CR H4267)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A044) offered by Mr. Engel.(consideration: CR H4268; text: CR H4268)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A045) offered by Mr. King (IA).(consideration: CR H4268-4269; text: CR H4268)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A046) offered by Mr. Clarke (MI).(consideration: CR H4269-4270; text: CR H4269)
+- 2011-06-15 — House amendment offered/reported by: Amendment (A047) offered by Mr. Garrett.(consideration: CR H4270-4271; text: CR H4270)
+- 2011-06-15 — MOMENT OF SILENCE - The House observed a moment of silence in honor of those affected by the tornadoes in Joplin, Missouri on May 22, 2011.
+- 2011-06-15 — Mr. Kingston moved that the Committee rise.
+- 2011-06-15 — Mr. Lance raised a point of order against the content of the measure. Section 740 violates Clause 2 of rule XXI and constitutes legislation in an appropriations bill. The Chair sustained the point of order.
+- 2011-06-15 — Mr. Lucas raised a point of order against the content of the measure. Section 741 violates Clause 2 of rule XXI and constitutes legislation in an appropriations bill. The Chair sustained the point of order.
+- 2011-06-15 — Mr. Lucas raised a point of order against the content of the measure. Section 743 violates Clause 2 of rule XXI and constitutes legislation in an appropriations bill. The Chair sustained the point of order.
+- 2011-06-15 — Mr. Lucas raised a point of order against the content of the measure. Section 744 violates Clause 2 of rule XXI and constitutes legislation in an appropriations bill. The Chair sustained the point of order.
+- 2011-06-15 — On agreeing to the Broun (GA) amendment (A007) Failed by recorded vote: 120 - 304 (Roll no. 423). (consideration: CR H4227)
+- 2011-06-15 — On agreeing to the Broun (GA) amendment (A011) Failed by recorded vote: 125 - 298 (Roll no. 425). (consideration: CR H4228-4229)
+- 2011-06-15 — On agreeing to the Broun (GA) amendment (A015) Failed by recorded vote: 107 - 318 (Roll no. 427). (consideration: CR H4229-4230)
+- 2011-06-15 — On agreeing to the Broun (GA) amendment (A017) Failed by voice vote.
+- 2011-06-15 — On agreeing to the Broun (GA) amendment (A019) Failed by voice vote.
+- 2011-06-15 — On agreeing to the Broun (GA) amendment (A020) Failed by recorded vote: 64 - 360 (Roll no. 430). (consideration: CR H4231-4232)
+- 2011-06-15 — On agreeing to the Broun (GA) amendment (A023) Failed by recorded vote: 99 - 324 (Roll no. 432). (consideration: CR H4233)
+- 2011-06-15 — On agreeing to the Broun (GA) amendment (A025) Failed by recorded vote: 108 - 316 (Roll no. 434). (consideration: CR H4234-4235)
+- 2011-06-15 — On agreeing to the Broun (GA) amendment (A026) Failed by recorded vote: 120 - 303 (Roll no. 435). (consideration: CR H4235)
+- 2011-06-15 — On agreeing to the Broun (GA) amendment (A028) Failed by voice vote.
+- 2011-06-15 — On agreeing to the Chaffetz amendment (A010) Failed by recorded vote: 83 - 338 (Roll no. 424). (consideration: CR H4227-4228)
+- 2011-06-15 — On agreeing to the Chaffetz amendment (A038) Agreed to by voice vote.
+- 2011-06-15 — On agreeing to the Chaffetz amendment (A039) Failed by voice vote.
+- 2011-06-15 — On agreeing to the Clarke (MI) amendment (A014) Failed by recorded vote: 142 - 282 (Roll no. 426). (consideration: CR H4229)
+- 2011-06-15 — On agreeing to the DeLauro amendment (A002) Failed by recorded vote: 193 - 226 (Roll no. 420). (consideration: CR H4225)
+- 2011-06-15 — On agreeing to the Engel amendment (A044) Agreed to by voice vote.
+- 2011-06-15 — On agreeing to the Farr amendment (A006) Agreed to by recorded vote: 352 - 70 (Roll no. 422). (consideration: CR H4226-4227)
+- 2011-06-15 — On agreeing to the Foxx amendment (A022) Failed by recorded vote: 119 - 306 (Roll no. 431). (consideration: CR H4232-4233)
+- 2011-06-15 — On agreeing to the Gosar amendment (A018) Failed by recorded vote: 139 - 285 (Roll no. 429). (consideration: CR H4231)
+- 2011-06-15 — On agreeing to the Gosar amendment (A024) Failed by recorded vote: 124 - 300 (Roll no. 433). (consideration: CR H4233-4234)
+- 2011-06-15 — On agreeing to the Kingston amendment (A030) Agreed to by voice vote.
+- 2011-06-15 — On agreeing to the Richardson amendment (A016) Failed by recorded vote: 200 - 224 (Roll no. 428). (consideration: CR H4230-4231)
+- 2011-06-15 — On agreeing to the Royce amendment (A035) Agreed to by voice vote.
+- 2011-06-15 — On agreeing to the Sessions amendment (A005) Agreed to by recorded vote: 226 - 199 (Roll no. 421). (consideration: CR H4225-4226)
+- 2011-06-15 — On agreeing to the Stearns amendment (A027) Failed by recorded vote: 164 - 257 (Roll no. 436). (consideration: CR H4235-4236)
+- 2011-06-15 — On agreeing to the Young (AK) amendment (A031) Agreed to by voice vote.
+- 2011-06-15 — On motion that the Committee rise Agreed to by voice vote.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Blumenauer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Broun (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Broun (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Broun (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Broun (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Broun(GA) amendment No. 12, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Broun (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Broun(GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Broun(GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Dingell amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Dingell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Foxx amendment no. 1, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Farr demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Foxx amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Foxx demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gibson amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Kingston demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kind amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Kind demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Farr demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Farr demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pingree amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Stearns amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Stearns demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-15 — Pursuant to the provisions of H.Res. 300, the Committee of the Whole proceeded with debate on pro forma amendments to H.R. 2112.
+- 2011-06-15 — Pursuant to the provisions of H.Res. 300, the Committee of the Whole resumed debate on pro forma amendments to H.R. 2112.
+- 2011-06-15 — Pursuant to the provisions of H.Res. 300, the Committee of the Whole resumed debate on pro forma amendments to H.R. 2112.
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — Roll call votes on amendments in House
+- 2011-06-15 — The Committee of the Whole proceeded with debate on the Royce amendment no. 24 under the five-minute rule.
+- 2011-06-15 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-06-15 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-06-15 — UNFINISHED BUSINESS - The Chair announced the unfinished business was on the question of adoption of amendments which had been debated earlier and on which further proceedings were postponed.
+- 2011-06-16 — Amendment (A048) offered by Ms. Jackson Lee (TX). (consideration: CR 6/15/2011 H4271-4272; text: CR 6/15/2011 H4271)
+- 2011-06-16 — Amendment (A049) offered by Mr. Scalise. (consideration: CR 6/15/2011 H4272; text: CR 6/15/2011 H4272)
+- 2011-06-16 — Amendment (A050) offered by Ms. Jackson Lee (TX). (consideration: CR 6/15/2011 H4272-4273; text: CR 6/15/2011 H4272)
+- 2011-06-16 — Amendment (A051) offered by Ms. Hirono. (consideration: CR 6/15/2011 H4274; text: CR 6/15/2011 H4274)
+- 2011-06-16 — Amendment (A052) offered by Mr. Holden. (consideration: CR H4283-4284; text: CR H4283)
+- 2011-06-16 — Amendment (A053) offered by Mr. Campbell. (consideration: CR H4284-4286; text: CR H4284)
+- 2011-06-16 — Amendment (A054) offered by Mr. Flake. (consideration: CR H4286-4288; text: CR H4286)
+- 2011-06-16 — Amendment (A055) offered by Mr. Lujan. (consideration: CR H4288-4289; text: CR H4288-4289)
+- 2011-06-16 — Amendment (A056) offered by Mrs. Blackburn. (consideration: CR H4289-4290; text: CR H4289)
+- 2011-06-16 — Amendment (A057) offered by Mr. Flake. (consideration: CR H4290-4292; text: CR H4290)
+- 2011-06-16 — Amendment (A058) offered by Mr. Gardner. (consideration: CR H4292; text: CR H4292)
+- 2011-06-16 — Amendment (A059) offered by Mr. Flores. (consideration: CR H4292-4293; text: CR H4292)
+- 2011-06-16 — Amendment (A060) offered by Mr. Flake. (consideration: CR H4293-4295; text: CR H4293)
+- 2011-06-16 — Amendment (A061) offered by Mr. Lipinski. (consideration: CR H4295-4296; text: CR H4295)
+- 2011-06-16 — Amendment (A062) offered by Mr. Flake. (consideration: CR H4296-4297; text: CR H4296)
+- 2011-06-16 — Amendment agreed to Committee of the Whole
+- 2011-06-16 — Amendment agreed to Committee of the Whole
+- 2011-06-16 — Amendment agreed to Committee of the Whole
+- 2011-06-16 — Amendment agreed to Committee of the Whole
+- 2011-06-16 — Amendment agreed to Committee of the Whole
+- 2011-06-16 — Amendment agreed to Committee of the Whole
+- 2011-06-16 — Amendment agreed to Committee of the Whole
+- 2011-06-16 — Amendment agreed to Committee of the Whole
+- 2011-06-16 — Amendment agreed to Committee of the Whole
+- 2011-06-16 — Amendment agreed to Committee of the Whole
+- 2011-06-16 — Amendment failed in Committee of the Whole
+- 2011-06-16 — Amendment failed in Committee of the Whole
+- 2011-06-16 — Amendment failed in Committee of the Whole
+- 2011-06-16 — Amendment failed in Committee of the Whole
+- 2011-06-16 — Amendment failed in Committee of the Whole
+- 2011-06-16 — Amendment failed in Committee of the Whole
+- 2011-06-16 — Amendment failed in Committee of the Whole
+- 2011-06-16 — Amendment failed in Committee of the Whole
+- 2011-06-16 — Amendment failed in Committee of the Whole
+- 2011-06-16 — Amendment failed in Committee of the Whole
+- 2011-06-16 — Amendment failed in Committee of the Whole
+- 2011-06-16 — Amendment failed in Committee of the Whole
+- 2011-06-16 — Amendment failed in Committee of the Whole
+- 2011-06-16 — Amendment failed in Committee of the Whole
+- 2011-06-16 — Committee of the Whole House on the state of the Union rises leaving H.R. 2112 as unfinished business.
+- 2011-06-16 — Considered as unfinished business. (consideration: CR H4283-4314)
+- 2011-06-16 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Blackburn amendment under the five-minute rule.
+- 2011-06-16 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Campbell (CA) amendment under the five-minute rule.
+- 2011-06-16 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Flake amendment under the five-minute rule.
+- 2011-06-16 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Flake amendment under the five-minute rule.
+- 2011-06-16 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Hirono amendment under the five-minute rule.
+- 2011-06-16 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Holden amendment no. 38 under the five-minute rule.
+- 2011-06-16 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Jackson Lee amendment under the five-minute rule.
+- 2011-06-16 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Lujan amendment under the five-minute rule, pending reservation of a point of order.
+- 2011-06-16 — DEBATE - Pursuant to the provisions of H. Res. 300, the Committee of the Whole proceeded with debate on the Scalise amendment under the five-minute rule.
+- 2011-06-16 — DEBATE - Pursuant to the provsions of H. Res. 300, the Committee of the Whole proceeded with debate on the Flake amendment under the five-minute rule.
+- 2011-06-16 — DEBATE - Pursuant to the provsions of H. Res. 300, the Committee of the Whole proceeded with debate on the Flake amendment under the five-minute rule.
+- 2011-06-16 — DEBATE - Pursuant to the provsions of H. Res. 300, the Committee of the Whole proceeded with debate on the Flores amendment under the five-minute rule.
+- 2011-06-16 — DEBATE - Pursuant to the provsions of H. Res. 300, the Committee of the Whole proceeded with debate on the Gardner amendment under the five-minute rule.
+- 2011-06-16 — DEBATE - Pursuant to the provsions of H. Res. 300, the Committee of the Whole proceeded with debate on the Jackson Lee amendment under the five-minute rule.
+- 2011-06-16 — DEBATE - Pursuant to the provsions of H. Res. 300, the Committee of the Whole proceeded with debate on the Lipinski amendment under the five-minute rule, pending reservation of a point of order. Subsequently, the reservation was removed.
+- 2011-06-16 — DEBATE - The House proceeded with ten minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House with an amendment to increase funds in CFTC (Commodity Futures Trading Commission) by $11.8 million for enforcement against oil and gas speculators, including establishing limits to diminish, eliminate, or prevent excessive speculation that unnecessarily drives up gas prices, and offsets it with a $4 million reduction in departmental administration, and a 7.8 million reduction in salaries and expenses.
+- 2011-06-16 — House amendment agreed to: On agreeing to the Flake amendment (A057) Agreed to by recorded vote: 283 - 128 (Roll no. 454).(consideration: CR H4309-4310)
+- 2011-06-16 — House amendment agreed to: On agreeing to the Flores amendment (A059) Agreed to by voice vote.
+- 2011-06-16 — House amendment agreed to: On agreeing to the Foxx amendment (A033) Agreed to by recorded vote: 212 - 201 (Roll no. 438).(consideration: CR H4298-4299)
+- 2011-06-16 — House amendment agreed to: On agreeing to the Gardner amendment (A058) Agreed to by voice vote.
+- 2011-06-16 — House amendment agreed to: On agreeing to the Garrett amendment (A047) Agreed to by recorded vote: 231 - 189 (Roll no. 446).(consideration: CR H4304)
+- 2011-06-16 — House amendment agreed to: On agreeing to the Gibson amendment (A041) Agreed to by recorded vote: 221 - 198 (Roll no. 442).(consideration: CR H4301-4302)
+- 2011-06-16 — House amendment agreed to: On agreeing to the Hirono amendment (A051) Agreed to by recorded vote: 288 - 132 (Roll no. 450).(consideration: CR H4306-4307)
+- 2011-06-16 — House amendment agreed to: On agreeing to the Kind amendment (A036) Agreed to by recorded vote: 223 - 197 (Roll no. 439).(consideration: CR H4299-4300)
+- 2011-06-16 — House amendment agreed to: On agreeing to the King (IA) amendment (A045) Agreed to by recorded vote: 240 - 176 (Roll no. 445).(consideration: CR H4303-4304)
+- 2011-06-16 — House amendment agreed to: On agreeing to the Scalise amendment (A049) Agreed to by recorded vote: 238 - 179 (Roll no. 448).(consideration: CR H4305-4306)
+- 2011-06-16 — House amendment not agreed to: On agreeing to the Blackburn amendment (A056) Failed by recorded vote: 109 - 310 (Roll no. 453).(consideration: CR H4308-4309)
+- 2011-06-16 — House amendment not agreed to: On agreeing to the Blumenauer amendment (A042) Failed by recorded vote: 154 - 262 (Roll no. 443).(consideration: CR H4302)
+- 2011-06-16 — House amendment not agreed to: On agreeing to the Campbell amendment (A053) Failed by recorded vote: 132 - 287 (Roll no. 452).(consideration: CR H4308)
+- 2011-06-16 — House amendment not agreed to: On agreeing to the Dingell amendment (A037) Failed by recorded vote: 178 - 241 (Roll no. 440).(consideration: CR H4300)
+- 2011-06-16 — House amendment not agreed to: On agreeing to the Flake amendment (A054) Failed by voice vote.
+- 2011-06-16 — House amendment not agreed to: On agreeing to the Flake amendment (A060) Failed by recorded vote: 186 - 228 (Roll no. 455).(consideration: CR H4310)
+- 2011-06-16 — House amendment not agreed to: On agreeing to the Flake amendment (A062) Failed by recorded vote: 101 - 314 (Roll no. 457).(consideration: CR H4311-4312)
+- 2011-06-16 — House amendment not agreed to: On agreeing to the Holden amendment (A052) Failed by recorded vote: 84 - 335 (Roll no. 451).(consideration: CR H4307-4308)
+- 2011-06-16 — House amendment not agreed to: On agreeing to the Jackson Lee (TX) amendment (A040) Failed by recorded vote: 167 - 252 (Roll no. 441).(consideration: CR H4300-4301)
+- 2011-06-16 — House amendment not agreed to: On agreeing to the Jackson Lee (TX) amendment (A048) Failed by recorded vote: 181 - 237 (Roll no. 447).(consideration: CR H4304-4305)
+- 2011-06-16 — House amendment not agreed to: On agreeing to the Jackson Lee (TX) amendment (A050) Failed by recorded vote: 182 - 235 (Roll no. 449).(consideration: CR H4306)
+- 2011-06-16 — House amendment not agreed to: On agreeing to the King (IA) amendment (A043) Failed by recorded vote: 155 - 262 (Roll no. 444).(consideration: CR H4302-4303)
+- 2011-06-16 — House amendment not agreed to: On agreeing to the Lipinski amendment (A061) Failed by recorded vote: 162 - 254 (Roll no. 456).(consideration: CR H4310-4311)
+- 2011-06-16 — House amendment not agreed to: On agreeing to the Pingree (ME) amendment (A032) Failed by recorded vote: 170 - 238 (Roll no. 437).(consideration: CR H4298)
+- 2011-06-16 — House amendment offered
+- 2011-06-16 — House amendment offered
+- 2011-06-16 — House amendment offered
+- 2011-06-16 — House amendment offered
+- 2011-06-16 — House amendment offered
+- 2011-06-16 — House amendment offered
+- 2011-06-16 — House amendment offered
+- 2011-06-16 — House amendment offered
+- 2011-06-16 — House amendment offered
+- 2011-06-16 — House amendment offered
+- 2011-06-16 — House amendment offered
+- 2011-06-16 — House amendment offered
+- 2011-06-16 — House amendment offered
+- 2011-06-16 — House amendment offered
+- 2011-06-16 — House amendment offered
+- 2011-06-16 — House amendment offered/reported by: Amendment (A048) offered by Ms. Jackson Lee (TX).(consideration: CR 6/15/2011 H4271-4272; text: CR 6/15/2011 H4271)
+- 2011-06-16 — House amendment offered/reported by: Amendment (A049) offered by Mr. Scalise.(consideration: CR 6/15/2011 H4272; text: CR 6/15/2011 H4272)
+- 2011-06-16 — House amendment offered/reported by: Amendment (A050) offered by Ms. Jackson Lee (TX).(consideration: CR 6/15/2011 H4272-4273; text: CR 6/15/2011 H4272)
+- 2011-06-16 — House amendment offered/reported by: Amendment (A051) offered by Ms. Hirono.(consideration: CR 6/15/2011 H4274; text: CR 6/15/2011 H4274)
+- 2011-06-16 — House amendment offered/reported by: Amendment (A052) offered by Mr. Holden.(consideration: CR H4283-4284; text: CR H4283)
+- 2011-06-16 — House amendment offered/reported by: Amendment (A053) offered by Mr. Campbell.(consideration: CR H4284-4286; text: CR H4284)
+- 2011-06-16 — House amendment offered/reported by: Amendment (A054) offered by Mr. Flake.(consideration: CR H4286-4288; text: CR H4286)
+- 2011-06-16 — House amendment offered/reported by: Amendment (A055) offered by Mr. Lujan.(consideration: CR H4288-4289; text: CR H4288-4289)
+- 2011-06-16 — House amendment offered/reported by: Amendment (A056) offered by Mrs. Blackburn.(consideration: CR H4289-4290; text: CR H4289)
+- 2011-06-16 — House amendment offered/reported by: Amendment (A057) offered by Mr. Flake.(consideration: CR H4290-4292; text: CR H4290)
+- 2011-06-16 — House amendment offered/reported by: Amendment (A058) offered by Mr. Gardner.(consideration: CR H4292; text: CR H4292)
+- 2011-06-16 — House amendment offered/reported by: Amendment (A059) offered by Mr. Flores.(consideration: CR H4292-4293; text: CR H4292)
+- 2011-06-16 — House amendment offered/reported by: Amendment (A060) offered by Mr. Flake.(consideration: CR H4293-4295; text: CR H4293)
+- 2011-06-16 — House amendment offered/reported by: Amendment (A061) offered by Mr. Lipinski.(consideration: CR H4295-4296; text: CR H4295)
+- 2011-06-16 — House amendment offered/reported by: Amendment (A062) offered by Mr. Flake.(consideration: CR H4296-4297; text: CR H4296)
+- 2011-06-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-06-16 — Mr. Kingston moved for the Committee of the Whole to rise and report.
+- 2011-06-16 — Mr. Kingston moved that the Committee rise.
+- 2011-06-16 — Mrs. Lummis raised a point of order against the Lujan amendment (A055). The amendment violates Clause 2 of rule XXI and imposes new duties on the Secretary of Agriculture. The Chair sustained the point of order.
+- 2011-06-16 — Ms. Hochul moved to recommit with instructions to Appropriations. (consideration: CR H4312; text: CR H4312)
+- 2011-06-16 — On agreeing to the Blackburn amendment (A056) Failed by recorded vote: 109 - 310 (Roll no. 453). (consideration: CR H4308-4309)
+- 2011-06-16 — On agreeing to the Blumenauer amendment (A042) Failed by recorded vote: 154 - 262 (Roll no. 443). (consideration: CR H4302)
+- 2011-06-16 — On agreeing to the Campbell amendment (A053) Failed by recorded vote: 132 - 287 (Roll no. 452). (consideration: CR H4308)
+- 2011-06-16 — On agreeing to the Dingell amendment (A037) Failed by recorded vote: 178 - 241 (Roll no. 440). (consideration: CR H4300)
+- 2011-06-16 — On agreeing to the Flake amendment (A054) Failed by voice vote.
+- 2011-06-16 — On agreeing to the Flake amendment (A057) Agreed to by recorded vote: 283 - 128 (Roll no. 454). (consideration: CR H4309-4310)
+- 2011-06-16 — On agreeing to the Flake amendment (A060) Failed by recorded vote: 186 - 228 (Roll no. 455). (consideration: CR H4310)
+- 2011-06-16 — On agreeing to the Flake amendment (A062) Failed by recorded vote: 101 - 314 (Roll no. 457). (consideration: CR H4311-4312)
+- 2011-06-16 — On agreeing to the Flores amendment (A059) Agreed to by voice vote.
+- 2011-06-16 — On agreeing to the Foxx amendment (A033) Agreed to by recorded vote: 212 - 201 (Roll no. 438). (consideration: CR H4298-4299)
+- 2011-06-16 — On agreeing to the Gardner amendment (A058) Agreed to by voice vote.
+- 2011-06-16 — On agreeing to the Garrett amendment (A047) Agreed to by recorded vote: 231 - 189 (Roll no. 446). (consideration: CR H4304)
+- 2011-06-16 — On agreeing to the Gibson amendment (A041) Agreed to by recorded vote: 221 - 198 (Roll no. 442). (consideration: CR H4301-4302)
+- 2011-06-16 — On agreeing to the Hirono amendment (A051) Agreed to by recorded vote: 288 - 132 (Roll no. 450). (consideration: CR H4306-4307)
+- 2011-06-16 — On agreeing to the Holden amendment (A052) Failed by recorded vote: 84 - 335 (Roll no. 451). (consideration: CR H4307-4308)
+- 2011-06-16 — On agreeing to the Jackson Lee (TX) amendment (A040) Failed by recorded vote: 167 - 252 (Roll no. 441). (consideration: CR H4300-4301)
+- 2011-06-16 — On agreeing to the Jackson Lee (TX) amendment (A048) Failed by recorded vote: 181 - 237 (Roll no. 447). (consideration: CR H4304-4305)
+- 2011-06-16 — On agreeing to the Jackson Lee (TX) amendment (A050) Failed by recorded vote: 182 - 235 (Roll no. 449). (consideration: CR H4306)
+- 2011-06-16 — On agreeing to the Kind amendment (A036) Agreed to by recorded vote: 223 - 197 (Roll no. 439). (consideration: CR H4299-4300)
+- 2011-06-16 — On agreeing to the King (IA) amendment (A043) Failed by recorded vote: 155 - 262 (Roll no. 444). (consideration: CR H4302-4303)
+- 2011-06-16 — On agreeing to the King (IA) amendment (A045) Agreed to by recorded vote: 240 - 176 (Roll no. 445). (consideration: CR H4303-4304)
+- 2011-06-16 — On agreeing to the Lipinski amendment (A061) Failed by recorded vote: 162 - 254 (Roll no. 456). (consideration: CR H4310-4311)
+- 2011-06-16 — On agreeing to the Pingree (ME) amendment (A032) Failed by recorded vote: 170 - 238 (Roll no. 437). (consideration: CR H4298)
+- 2011-06-16 — On agreeing to the Scalise amendment (A049) Agreed to by recorded vote: 238 - 179 (Roll no. 448). (consideration: CR H4305-4306)
+- 2011-06-16 — On motion that the Committee rise Agreed to by voice vote.
+- 2011-06-16 — On motion to recommit with instructions Failed by recorded vote: 185 - 233 (Roll no. 458).
+- 2011-06-16 — On motion to rise and report Agreed to by voice vote.
+- 2011-06-16 — On passage Passed by the Yeas and Nays: 217 - 203 (Roll no. 459).
+- 2011-06-16 — POSPONED PROCEEDINGS - At the conclusion of debate on the Lipinski amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Lipinski demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Blackburn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Campbell (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Campbell (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Flake demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garrett amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Farr demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hirono amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Hirono demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Holden amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Holden demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scalise amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Farr demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 203 (Roll no. 459).
+- 2011-06-16 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — Roll call votes on amendments in House
+- 2011-06-16 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2011-06-16 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-06-16 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2112.
+- 2011-06-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4313-4314)
+- 2011-06-16 — The previous question was ordered pursuant to the rule. (consideration: CR H4312)
+- 2011-06-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
