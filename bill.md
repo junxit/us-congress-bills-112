@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Effective dates
 
-Section 712(f) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203) is amended to read as follows:
+Section 712(f) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203; 15 U.S.C. 8302(f)) is amended to read as follows:
 
 > - **(f)** *Rules and registration before final effective dates*
 >   - **(1)** *In general* Beginning on the date of enactment of this Act and notwithstanding the effective date of any provision of this Act, the Commodity Futures Trading Commission and the Securities and Exchange Commission may, in order to prepare for the effective dates of the provisions of this Act—
@@ -19,10 +19,10 @@ Section 712(f) of the Dodd-Frank Wall Street Reform and Consumer Protection Act 
 >     - **(B)** conduct studies and prepare reports and recommendations required by this Act;
 >     - **(C)** register persons under the provisions of this Act; and
 >     - **(D)** exempt persons, agreements, contracts, or transactions from provisions of this Act, under the terms contained in this Act.
->   - **(2)**
+>   - **(2)** *Effective date*
 >     - **(A)** Notwithstanding paragraph (1), an action by the Commodity Futures Trading Commission or the Securities and Exchange Commission described in paragraph (1) shall not become effective before the effective date applicable to the action under this Act, except as provided in paragraph (3).
 >     - **(B)** Notwithstanding any provision of this Act (other than paragraph (3)), this title and the regulations under this title shall become effective on the latest of—
->       - **(i)** December 31, 2012;
+>       - **(i)** September 30, 2012;
 >       - **(ii)** 90 days after the publication of the relevant final rule or regulation in the Federal Register or such later date as may be specified in the final rule or regulation; or
 >       - **(iii)** the effective date otherwise applicable to this title.
 >   - **(3)** *Exceptions*
@@ -34,13 +34,16 @@ Section 712(f) of the Dodd-Frank Wall Street Reform and Consumer Protection Act 
 >       - **(ii)** *Security-based swap data reporting* Sections 3C(e) and 13A(a) of the Securities Exchange Act of 1934 and the rules and regulations of the Securities and Exchange Commission issued under such sections shall become effective on the later of—
 >         - **(I)** 90 days after the publication of the relevant final rule or regulation in the Federal Register, or such later date as may be specified in the rule or regulation; or
 >         - **(II)** the effective date otherwise applicable to such sections.
->       - **(iii)** *Swap data repositories* To facilitate compliance, before December 31, 2012, with the regulatory reporting provisions of this section, the Commodity Futures Trading Commission and the Securities and Exchange Commission may authorize the reporting of swap data and security-based swap data to any person then conducting the business described in section 1a(48) of the Commodity Exchange Act (7 U.S.C. 1a(48)) or section 3(a)(75) of the Securities Exchange Act of 1934 (15 U.S.C. 78m), respectively, who has—
+>       - **(iii)** *Swap data repositories* To facilitate compliance, before September 30, 2012, with the regulatory reporting provisions of this section, the Commodity Futures Trading Commission and the Securities and Exchange Commission may authorize the reporting of swap data and security-based swap data to any person then conducting the business described in section 1a(48) of the Commodity Exchange Act (7 U.S.C. 1a(48)) or section 3(a)(75) of the Securities Exchange Act of 1934 (15 U.S.C. 78m), respectively, who has—
 >         - **(I)** provided notice to the relevant Commission of its intention to register as a swap data repository or security-based swap data repository, as applicable; and
 >         - **(II)** made such undertakings to the relevant Commission as such Commission has determined to be appropriate and in the public interest, consistent with this title.
+>     - **(C)** *Certain clearing provisions* Section 3C of the Securities Exchange Act of 1934 (15 U.S.C. 78c–3) (except for subsections (e) and (h) of such section) and the rules and regulations of the Securities and Exchange Commission under such section shall take effect on the date otherwise applicable to such section.
+>     - **(D)** *Authority relating to speculative trading* Notwithstanding any other provision of this Act, this subsection shall not delay the use of any authority granted to the Securities and Exchange Commission and the Commodity Futures Trading Commission to address speculative trading, including the impact of such trading on the markets, users, or investors and consumers. The Commissions shall report to the appropriate committees of Congress on the use of such authority.
+>     - **(E)** *Prohibition on Federal bailouts* Notwithstanding paragraph (2), section 716 of this Act shall take effect on the date provided for in such section.
 
 ## § 2. Implementation analysis
 
-Section 712 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203), as amended by section 1 of this Act, is amended by adding at the end the following:
+Section 712 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203; 15 U.S.C. 8302), as amended by section 1 of this Act, is amended by adding at the end the following:
 
 > - **(g)** *Implementation analysis* Notwithstanding any other provision of this title, the Commodity Futures Trading Commission and the Securities and Exchange Commission shall, before prescribing final rules and regulations under this title—
 >   - **(1)** conduct public hearings and roundtables and take testimony of affected market participants, experts and other interested parties, and solicit public comment, regarding—
@@ -55,17 +58,17 @@ Section 712 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Pu
 
 - **(a)** *Commodity futures trading commission* Section 2(a)(1) of the Commodity Exchange Act (7 U.S.C. 2(a)(1)) is amended by adding at the end the following:
   > - **(J)**
-  >   - **(i)** Notwithstanding any other provision of this Act, the Commission may exempt, in whole or in part, a person from the registration and related regulatory requirements of this Act if and to the extent that the Commission determines that—
+  >   - **(i)** Notwithstanding any other provision of this Act, the Commission may exempt, in whole or in part, a person from the registration and related regulatory requirements of this Act that were added by title VII of the Dodd-Frank Wall Street Reform and Consumer Protection Act if and to the extent that the Commission determines that—
   >     - **(I)** the person is subject to comprehensive supervision and regulation under a regulatory scheme administered by another regulatory authority or the appropriate governmental authorities in the person’s home country that is comparable to the relevant provisions of this Act,
   >     - **(II)** adequate information-sharing arrangements are in effect between the Commission and the other regulatory authority, and
   >     - **(III)** the exemption would be consistent with the public interest.
-  >   - **(ii)** The Commission may condition any such exemption on compliance with all or any part of the alternate regulatory scheme, and on such other terms as the Commission determines appropriate, and may deem any noncompliance with the altrernate regulatory scheme or other terms a violation of the corresponding provisions of this Act.
+  >   - **(ii)** The Commission may condition any such exemption on compliance with all or any part of the alternate regulatory scheme, and on such other terms as the Commission determines appropriate, and may deem any noncompliance with the alternate regulatory scheme or other terms a violation of the corresponding provisions of this Act.
 
-- **(b)** *Securities and exchange commission* The Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by inserting after section 4C the following:
-  > ## § 4D. Exemptive authority
+- **(b)** *Securities and exchange commission* The Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by inserting after section 4E the following:
+  > ## § 4F. Exemptive authority
   >
-  > - **(a)** Notwithstanding any other provision of this Act, the Commission may exempt, in whole or in part, a person from the registration and related regulatory requirements of this Act if and to the extent that the Commission determines that—
+  > - **(a)** *In general* Notwithstanding any other provision of this Act, the Commission may exempt, in whole or in part, a person from the registration and related regulatory requirements of this Act that were added by title VII of the Dodd-Frank Wall Street Reform and Consumer Protection Act if and to the extent that the Commission determines that—
   >   - **(1)** the person is subject to comprehensive supervision and regulation under a regulatory scheme administered by another regulatory authority or the appropriate governmental authorities in the person’s home country that is comparable to the relevant provisions of this Act;
   >   - **(2)** adequate information-sharing arrangements are in effect with the other regulatory authority; and
   >   - **(3)** the exemption would be consistent with the protection of investors.
-  > - **(b)** The Commission may condition any such exemption on compliance with all or any part of the alternate regulatory scheme, and such other terms as the Commission determines appropriate, and may deem any noncompliance with the alternate regulatory scheme or other terms a violation of the corresponding provisions of this Act.
+  > - **(b)** *Condition on Compliance* The Commission may condition any such exemption on compliance with all or any part of the alternate regulatory scheme, and such other terms as the Commission determines appropriate, and may deem any noncompliance with the alternate regulatory scheme or other terms a violation of the corresponding provisions of this Act.

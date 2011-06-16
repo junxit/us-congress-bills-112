@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1573
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | amend | Section 712(f) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203; 15 U.S.C. 8302(f)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 712 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203; 15 U.S.C. 8302), as amended by section 1 of this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2(a)(1) of the Commodity Exchange Act (7 U.S.C. 2(a)(1)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by inserting after section 4E the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 712(f) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 712 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203), as amended by section 1 of this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2(a)(1) of the Commodity Exchange Act (7 U.S.C. 2(a)(1)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by inserting after section 4C the following: | the bill names no machine-readable US Code section |
+| — | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by inserting after section 4E the following: | the bill names no machine-readable US Code section |
