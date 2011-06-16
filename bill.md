@@ -1,0 +1,40 @@
+---
+legis-num: H.R. 2233
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2233
+
+> To amend title XVIII of the Social Security Act to provide coverage for custom fabricated breast prostheses following a mastectomy.
+
+## § 1. Short title; findings
+
+- **(a)** *Short title* This Act may be cited as the “Breast Cancer Patient Equity Act of 2011”.
+- **(b)** *Findings* Congress finds the following:
+  - **(1)** There are currently 2,500,000 women in the United States living with breast cancer, many of whom suffer from unreconstructed breast loss.
+  - **(2)** In 2010, an estimated 207,090 women were diagnosed with invasive breast cancer that required surgery, with many having to undergo surgical breast removal.
+  - **(3)** Annually, there are more than 130,000 women in the United States who undergo mastectomies, a surgical removal of the breast.
+  - **(4)** The number of breast amputations in the United States is projected to increase due to the rising incidence of breast cancer and the growing elderly population.
+  - **(5)** A woman suffering from the loss of her breast may not be a candidate for surgical breast reconstruction or may choose not to undergo additional surgery if there were a viable, less costly, less invasive option available.
+  - **(6)** The results of breast reconstruction surgery can vary and, as with any surgical procedure, there are inherent risks associated with such surgery. Additionally, reconstruction of the breast using implants can impose increased risks and costs due to the eventual need for implant replacement surgery.
+  - **(7)** The number of women choosing to undergo surgical breast reconstruction continues to increase, as many women lack the viable option of custom fabricated prosthetic breasts to restore the lost breast.
+  - **(8)** Both older women and minority women are less likely to be offered or undergo surgical breast reconstruction and are disproportionately disadvantaged by a lack of access to the option of custom fabricated prosthetic breasts.
+  - **(9)** Currently, the Medicare program provides coverage and reimbursement for custom fabricated prostheses for any body part, with the exception of breasts, that has been lost.
+  - **(10)** Following passage of the Women's Health and Cancer Rights Act of 1998 (Public Law 105–277; 42 U.S.C. 201 note), many private insurers and group health plans began to provide coverage for custom fabricated breast prostheses as an alternative to surgical breast reconstruction.
+  - **(11)** While the Medicare program recognizes custom fabricated breast prostheses as a discrete device and valid treatment option, having assigned a billing code for such option under the Healthcare Common Procedure Coding System (“HCPCS”) and setting a maximum allowable fee, Medicare does not provide reimbursement and denies claims as “not medically necessary”. Medicare does provide reimbursement, however, for more costly surgical breast reconstruction.
+  - **(12)** Due to the fact that the Medicare program does not provide reimbursement for custom fabricated breast prostheses, many private insurance companies have also begun to limit their reimbursement for them.
+  - **(13)** The Department of Veterans Affairs does provide the option of a custom fabricated prosthetic breast for women post-mastectomy.
+  - **(14)** Providing coverage for custom fabricated prosthetic breast devices and components will not increase the incidence of breast amputations.
+
+## § 2. Coverage
+
+- **(a)** *In general* Section 1861(s)(8) of the Social Security Act (42 U.S.C. 1395x(s)(8)) is amended—
+  - **(1)** by adding “and” after the semicolon at the end;
+  - **(2)** by inserting “(A)” after “(8)”; and
+  - **(3)** by inserting after subparagraph (A) the following new subparagraph:
+    > - **(B)** custom fabricated breast prostheses following surgical removal of the breast, including replacement of such prostheses;
+
+- **(b)** *Conforming amendment* Section 1862(a)(7) of such Act (42 U.S.C. 1395y(a)(7)) is amended by striking “1861(s)(8)” and inserting “1861(s)(8)(A)”.
+- **(c)** *Effective date* The amendments made by this section shall apply to items and services furnished on or after the date of enactment of this Act.
