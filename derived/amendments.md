@@ -1,7 +1,7 @@
 ---
 measure: S. 1103
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | amend | Section 1101 of the Omnibus Crime Control and Safe Streets Act of 1968 (28 U.S.C. 532 note) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1101 of the Omnibus Crime Control and Safe Streets Act of 1968 (28 U.S.C. 532 note) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
