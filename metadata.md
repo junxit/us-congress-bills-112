@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1121
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1121
@@ -16,7 +16,7 @@ Responsible Consumer Financial Protection Regulations Act of 2011
 
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 
-## Cosponsors (26)
+## Cosponsors (35)
 
 - Rep. Capito, Shelley Moore [R-WV-2] (C001047)
 - Rep. Biggert, Judy [R-IL-13] (B001232)
@@ -44,6 +44,15 @@ Responsible Consumer Financial Protection Regulations Act of 2011
 - Rep. Campbell, John [R-CA-48] (C001064)
 - Rep. King, Peter T. [R-NY-3] (K000210)
 - Rep. Hultgren, Randy [R-IL-14] (H001059)
+- Rep. Hurt, Robert [R-VA-5] (H001060)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
+- Rep. Latham, Tom [R-IA-4] (L000111)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Ross, Dennis A. [R-FL-12] (R000593)
 
 ## Committees (1)
 
@@ -55,3 +64,12 @@ Responsible Consumer Financial Protection Regulations Act of 2011
 - 2011-03-16 — Introduced in House
 - 2011-03-16 — Introduced in House
 - 2011-03-16 — Referred to the House Committee on Financial Services.
+- 2011-04-04 — Referred to the Subcommittee on Financial Institutions and Consumer Credit.
+- 2011-04-06 — Subcommittee Hearings Held.
+- 2011-05-04 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 13 - 7 .
+- 2011-05-04 — Subcommittee Consideration and Mark-up Session Held.
+- 2011-05-13 — Committee Consideration and Mark-up Session Held.
+- 2011-05-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 24.
+- 2011-06-16 — Placed on the Union Calendar, Calendar No. 61.
+- 2011-06-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 112-107.
+- 2011-06-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 112-107.
