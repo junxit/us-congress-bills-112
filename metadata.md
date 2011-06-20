@@ -1,7 +1,7 @@
 ---
 measure: S. 978
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 978
@@ -29,3 +29,7 @@ A bill to amend the criminal penalty provision for criminal infringement of a co
 
 - 2011-05-12 — Introduced in Senate
 - 2011-05-12 — Read twice and referred to the Committee on the Judiciary.
+- 2011-06-16 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2011-06-20 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2011-06-20 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2011-06-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 77.
