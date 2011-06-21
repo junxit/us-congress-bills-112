@@ -1,7 +1,7 @@
 ---
 measure: H.R. 872
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 872
@@ -192,3 +192,7 @@ Reducing Regulatory Burdens Act of 2011
 - 2011-03-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 292 - 130 (Roll no. 206). (text: CR 3/30/2011 H2083)
 - 2011-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 292 - 130 (Roll no. 206).(text: CR 3/30/2011 H2083)
 - 2011-04-04 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2011-06-21 — Committee on Agriculture, Nutrition, and Forestry. Ordered to be reported without amendment favorably.
+- 2011-06-21 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Stabenow without amendment. Without written report.
+- 2011-06-21 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Stabenow without amendment. Without written report.
+- 2011-06-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 78.
