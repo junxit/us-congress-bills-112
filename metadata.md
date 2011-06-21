@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1632
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1632
@@ -54,8 +54,21 @@ To designate the facility of the United States Postal Service located at 5014 Ga
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2011-06-21 — [House 112-1-460](votes/house-112-1-0460.md) — On Motion to Suspend the Rules and Pass — **Passed** (396–0)
+
 ## Actions
 
 - 2011-04-15 — Introduced in House
 - 2011-04-15 — Introduced in House
 - 2011-04-15 — Referred to the House Committee on Oversight and Government Reform.
+- 2011-04-27 — Referred to the Subcommittee on Federal Workforce, U.S. Postal Service, and Labor Policy     .
+- 2011-06-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-06-21 — Considered as unfinished business. (consideration: CR H4344-4345)
+- 2011-06-21 — Considered under suspension of the rules. (consideration: CR H4340-4341)
+- 2011-06-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1632.
+- 2011-06-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-06-21 — Mr. Farenthold moved to suspend the rules and pass the bill.
+- 2011-06-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 460). (text: CR H4340)
+- 2011-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 460).(text: CR H4340)
