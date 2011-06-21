@@ -23,5 +23,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
 That the Senate—
 
 - **(1)** designates June 27, 2011, as “National Post-Traumatic Stress Disorder Awareness Day”;
-- **(2)** urges the Secretary of Veterans Affairs and the Secretary of Defense to continue working to educate servicemembers, veterans, the families of servicemembers and veterans, and the public about the causes, symptoms, and treatment of post-traumatic stress disorder; and
+- **(2)** supports the efforts of the Secretary of Veterans Affairs and the Secretary of Defense to educate servicemembers, veterans, the families of servicemembers and veterans, and the public about the causes, symptoms, and treatment of post-traumatic stress disorder; and
 - **(3)** respectfully requests that the Secretary of the Senate transmit a copy of this resolution to the Secretary of Veterans Affairs and the Secretary of Defense.
