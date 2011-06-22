@@ -1,7 +1,7 @@
 ---
 measure: H.R. 771
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 771
@@ -75,3 +75,15 @@ To designate the facility of the United States Postal Service located at 1081 El
 - 2011-06-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 461). (text: CR H4342)
 - 2011-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 461).(text: CR H4342)
 - 2011-06-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2011-07-22 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2011-10-04 — Passed Senate without amendment by Unanimous Consent.
+- 2011-10-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2011-10-04 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S6143)
+- 2011-10-04 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S6143)
+- 2011-10-05 — Message on Senate action sent to the House.
+- 2011-10-06 — Presented to President.
+- 2011-10-06 — Presented to President.
+- 2011-10-12 — Became Public Law No: 112-38.
+- 2011-10-12 — Became Public Law No: 112-38.
+- 2011-10-12 — Signed by President.
+- 2011-10-12 — Signed by President.
