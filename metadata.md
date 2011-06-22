@@ -1,7 +1,7 @@
 ---
 measure: H.R. 771
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 771
@@ -51,9 +51,10 @@ To designate the facility of the United States Postal Service located at 1081 El
 - Rep. Barton, Joe [R-TX-6] (B000213)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -73,3 +74,4 @@ To designate the facility of the United States Postal Service located at 1081 El
 - 2011-06-21 — Mr. Farenthold moved to suspend the rules and pass the bill.
 - 2011-06-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 461). (text: CR H4342)
 - 2011-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 461).(text: CR H4342)
+- 2011-06-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
