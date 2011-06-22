@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1632
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1632
@@ -50,9 +50,10 @@ To designate the facility of the United States Postal Service located at 5014 Ga
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Thornberry, Mac [R-TX-13] (T000238)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -72,3 +73,4 @@ To designate the facility of the United States Postal Service located at 5014 Ga
 - 2011-06-21 — Mr. Farenthold moved to suspend the rules and pass the bill.
 - 2011-06-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 460). (text: CR H4340)
 - 2011-06-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 460).(text: CR H4340)
+- 2011-06-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
