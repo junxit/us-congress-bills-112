@@ -1,7 +1,7 @@
 ---
 measure: H.R. 828
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 828
@@ -25,3 +25,9 @@ Federal Employee Tax Accountability Act of 2012
 - 2011-02-28 — Introduced in House
 - 2011-02-28 — Introduced in House
 - 2011-02-28 — Referred to the House Committee on Oversight and Government Reform.
+- 2011-03-18 — Referred to the Subcommittee on Federal Workforce, U.S. Postal Service, and Labor Policy.
+- 2011-04-13 — Committee Consideration and Mark-up Session Held.
+- 2011-04-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2011-06-23 — Placed on the Union Calendar, Calendar No. 66.
+- 2011-06-23 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-115.
+- 2011-06-23 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-115.
