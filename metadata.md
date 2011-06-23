@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1249
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1249
@@ -29,6 +29,19 @@ Leahy-Smith America Invents Act
 - House — Budget Committee
 - House — Judiciary Committee
 
+## Recorded votes (10)
+
+- 2011-06-23 — [House 112-1-481](votes/house-112-1-0481.md) — On Agreeing to the Amendment — **Agreed to** (283–140)
+- 2011-06-23 — [House 112-1-482](votes/house-112-1-0482.md) — On Agreeing to the Amendment — **Failed** (105–316)
+- 2011-06-23 — [House 112-1-483](votes/house-112-1-0483.md) — On Agreeing to the Amendment — **Failed** (81–342)
+- 2011-06-23 — [House 112-1-485](votes/house-112-1-0485.md) — On Agreeing to the Amendment — **Agreed to** (223–198)
+- 2011-06-23 — [House 112-1-486](votes/house-112-1-0486.md) — On Agreeing to the Amendment — **Failed** (129–295)
+- 2011-06-23 — [House 112-1-487](votes/house-112-1-0487.md) — On Agreeing to the Amendment — **Failed** (92–329)
+- 2011-06-23 — [House 112-1-488](votes/house-112-1-0488.md) — On Agreeing to the Amendment — **Failed** (81–342)
+- 2011-06-23 — [House 112-1-489](votes/house-112-1-0489.md) — On Agreeing to the Amendment — **Failed** (158–262)
+- 2011-06-23 — [House 112-1-490](votes/house-112-1-0490.md) — On Motion to Recommit with Instructions — **Failed** (172–251)
+- 2011-06-23 — [House 112-1-491](votes/house-112-1-0491.md) — On Passage — **Passed** (304–117)
+
 ## Actions
 
 - 2011-03-30 — Introduced in House
@@ -45,3 +58,151 @@ Leahy-Smith America Invents Act
 - 2011-06-01 — Placed on the Union Calendar, Calendar No. 54.
 - 2011-06-01 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-98, Part I.
 - 2011-06-01 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-98, Part I.
+- 2011-06-21 — Rules Committee Resolution H. Res. 316 Reported to House. Rule provides for consideration of H.R. 2021 and H.R. 1249. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution provides for one hour of general debate for H.R. 2021 and 80 minutes of general debate for H.R. 1249. The resolution also provides that for H.R. 1249, the amendment in the nature of a substitute recommended by the Committee on the Judiciary shall be considered as an original bill for the purpose of amendment under the five-minute rule.
+- 2011-06-22 — Amendment (A001) offered by Mr. Smith (TX). (consideration: CR H4448-4452; text: CR H4448-4450)
+- 2011-06-22 — Committee of the Whole House on the state of the Union rises leaving H.R. 1249 as unfinished business.
+- 2011-06-22 — Considered under the provisions of rule H. Res. 316. (consideration: CR H4420-4452)
+- 2011-06-22 — DEBATE - Pursuant to the provsions of H. Res. 316, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (TX) amendment.
+- 2011-06-22 — DEBATE - The Committee of the Whole proceeded with twenty minutes of debate on the question of constitutionality of the measure.
+- 2011-06-22 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1249.
+- 2011-06-22 — House amendment offered
+- 2011-06-22 — House amendment offered/reported by: Amendment (A001) offered by Mr. Smith (TX).(consideration: CR H4448-4452; text: CR H4448-4450)
+- 2011-06-22 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 316 and Rule XVIII.
+- 2011-06-22 — Mr. Smith (TX) moved to rise.
+- 2011-06-22 — On motion to rise Agreed to by voice vote.
+- 2011-06-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Smith (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-22 — Rule H. Res. 316 passed House.
+- 2011-06-22 — Rule provides for consideration of H.R. 2021 and H.R. 1249. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measures will be considered read. Specified amendments are in order. The resolution provides for one hour of general debate for H.R. 2021 and 80 minutes of general debate for H.R. 1249. The resolution also provides that for H.R. 1249, the amendment in the nature of a substitute recommended by the Committee on the Judiciary shall be considered as an original bill for the purpose of amendment under the five-minute rule.
+- 2011-06-22 — The Speaker designated the Honorable Tom Graves to act as Chairman of the Committee.
+- 2011-06-23 — Amendment (A002) offered by Mr. Conyers. (consideration: CR H4481-4482, H4498; text: CR H4481)
+- 2011-06-23 — Amendment (A003) offered by Ms. Baldwin. (consideration: CR H4482-4484, H4499; text: CR H4482)
+- 2011-06-23 — Amendment (A004) offered by Ms. Moore. (consideration: CR H4484; text: CR H4484)
+- 2011-06-23 — Amendment (A005) offered by Ms. Jackson Lee (TX). (consideration: CR H4484-4486; text: CR H4484)
+- 2011-06-23 — Amendment (A006) offered by Mr. Lujan. (consideration: CR H4486; text: CR H4486)
+- 2011-06-23 — Amendment (A007) offered by Mr. Peters. (consideration: CR H4486-4487; text: CR H4486)
+- 2011-06-23 — Amendment (A008) offered by Mr. Polis. (consideration: CR H4487-4489; text: CR H4487)
+- 2011-06-23 — Amendment (A009) offered by Mr. Conyers. (consideration: CR H4489-4490; text: CR H4489)
+- 2011-06-23 — Amendment (A009) offered by Mr. Conyers. (consideration: CR H4500)
+- 2011-06-23 — Amendment (A010) offered by Ms. Speier. (consideration: CR H4490-4491; text: CR H4490)
+- 2011-06-23 — Amendment (A011) offered by Mr. Watt. (consideration: CR H4491; text: CR H4491)
+- 2011-06-23 — Amendment (A012) offered by Mr. Sensenbrenner. (consideration: CR H4491-4493, H4501; text: CR H4491)
+- 2011-06-23 — Amendment (A013) offered by Mr. Manzullo. (consideration: CR H4493-4494, H4501-4502; text: CR H4493)
+- 2011-06-23 — Amendment (A014) offered by Mr. Rohrabacher. (consideration: CR H4494-4495, H4502-4503; text: CR H4494)
+- 2011-06-23 — Amendment (A015) offered by Mr. Schock. (consideration: CR H4495-4498, H4502; text: CR H4495)
+- 2011-06-23 — Amendment agreed to Committee of the Whole
+- 2011-06-23 — Amendment agreed to Committee of the Whole
+- 2011-06-23 — Amendment agreed to Committee of the Whole
+- 2011-06-23 — Amendment agreed to Committee of the Whole
+- 2011-06-23 — Amendment agreed to Committee of the Whole
+- 2011-06-23 — Amendment agreed to Committee of the Whole
+- 2011-06-23 — Amendment agreed to Committee of the Whole
+- 2011-06-23 — Amendment failed in Committee of the Whole
+- 2011-06-23 — Amendment failed in Committee of the Whole
+- 2011-06-23 — Amendment failed in Committee of the Whole
+- 2011-06-23 — Amendment failed in Committee of the Whole
+- 2011-06-23 — Amendment failed in Committee of the Whole
+- 2011-06-23 — Amendment failed in Committee of the Whole
+- 2011-06-23 — Amendment failed in Committee of the Whole
+- 2011-06-23 — By unanimous consent, the Watt amendment was withdrawn. (consideration: CR H4491)
+- 2011-06-23 — Considered as unfinished business. (consideration: CR H4480-4505)
+- 2011-06-23 — DEBATE - Pursuant to the provsions of H. Res. 316, the Committee of the Whole proceeded with 10 minutes of debate on the Baldwin amendment no. 3.
+- 2011-06-23 — DEBATE - Pursuant to the provsions of H. Res. 316, the Committee of the Whole proceeded with 10 minutes of debate on the Conyers amendment no. 2.
+- 2011-06-23 — DEBATE - Pursuant to the provsions of H. Res. 316, the Committee of the Whole proceeded with 10 minutes of debate on the Conyers amendment no. 9.
+- 2011-06-23 — DEBATE - Pursuant to the provsions of H. Res. 316, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee (TX) amendment no. 5.
+- 2011-06-23 — DEBATE - Pursuant to the provsions of H. Res. 316, the Committee of the Whole proceeded with 10 minutes of debate on the Lujan amendment no. 6.
+- 2011-06-23 — DEBATE - Pursuant to the provsions of H. Res. 316, the Committee of the Whole proceeded with 10 minutes of debate on the Manzullo amendment no. 13.
+- 2011-06-23 — DEBATE - Pursuant to the provsions of H. Res. 316, the Committee of the Whole proceeded with 10 minutes of debate on the Moore amendment no. 4.
+- 2011-06-23 — DEBATE - Pursuant to the provsions of H. Res. 316, the Committee of the Whole proceeded with 10 minutes of debate on the Peters amendment no. 7.
+- 2011-06-23 — DEBATE - Pursuant to the provsions of H. Res. 316, the Committee of the Whole proceeded with 10 minutes of debate on the Polis (CO) amendment no. 8.
+- 2011-06-23 — DEBATE - Pursuant to the provsions of H. Res. 316, the Committee of the Whole proceeded with 10 minutes of debate on the Rohrabacher amendment no. 14.
+- 2011-06-23 — DEBATE - Pursuant to the provsions of H. Res. 316, the Committee of the Whole proceeded with 10 minutes of debate on the Schock amendment no. 15.
+- 2011-06-23 — DEBATE - Pursuant to the provsions of H. Res. 316, the Committee of the Whole proceeded with 10 minutes of debate on the Sensenbrenner amendment no. 12.
+- 2011-06-23 — DEBATE - Pursuant to the provsions of H. Res. 316, the Committee of the Whole proceeded with 10 minutes of debate on the Speier amendment no. 10.
+- 2011-06-23 — DEBATE - Pursuant to the provsions of H. Res. 316, the Committee of the Whole proceeded with 10 minutes of debate on the Watt amendment no. 11.
+- 2011-06-23 — DEBATE - The House proceeded with ten minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to report the same to the House with an amendment to require the U.S. Patent Office to prioritize patent applications filed by entities that pledge to develop or manufacture their products, processes, and technologies in the U.S., including, specifically, those filed by small businesses and individuals.
+- 2011-06-23 — House amendment agreed to: On agreeing to the Conyers amendment (A009) Agreed to by recorded vote: 223 - 198 (Roll no. 485).
+- 2011-06-23 — House amendment agreed to: On agreeing to the Jackson Lee (TX) amendment (A005) Agreed to by voice vote.
+- 2011-06-23 — House amendment agreed to: On agreeing to the Lujan amendment (A006) Agreed to by voice vote.
+- 2011-06-23 — House amendment agreed to: On agreeing to the Moore amendment (A004) Agreed to by voice vote.
+- 2011-06-23 — House amendment agreed to: On agreeing to the Peters amendment (A007) Agreed to by voice vote.
+- 2011-06-23 — House amendment agreed to: On agreeing to the Smith (TX) amendment (A001) Agreed to by recorded vote: 283 - 140 (Roll no. 481).
+- 2011-06-23 — House amendment agreed to: On agreeing to the Speier amendment (A010) Agreed to by voice vote.
+- 2011-06-23 — House amendment not agreed to: On agreeing to the Baldwin amendment (A003) Failed by recorded vote: 81 - 342 (Roll no. 483).
+- 2011-06-23 — House amendment not agreed to: On agreeing to the Conyers amendment (A002) Failed by recorded vote: 105 - 316 (Roll no. 482).
+- 2011-06-23 — House amendment not agreed to: On agreeing to the Manzullo amendment (A013) Failed by recorded vote: 92 - 329 (Roll no. 487).
+- 2011-06-23 — House amendment not agreed to: On agreeing to the Polis amendment (A008) Failed by voice vote.
+- 2011-06-23 — House amendment not agreed to: On agreeing to the Rohrabacher amendment (A014) Failed by recorded vote: 81 - 342 (Roll no. 488).
+- 2011-06-23 — House amendment not agreed to: On agreeing to the Schock amendment (A015) Failed by recorded vote: 158 - 262, 1 Present (Roll no. 489).
+- 2011-06-23 — House amendment not agreed to: On agreeing to the Sensenbrenner amendment (A012) Failed by recorded vote: 129 - 295 (Roll no. 486).
+- 2011-06-23 — House amendment offered
+- 2011-06-23 — House amendment offered
+- 2011-06-23 — House amendment offered
+- 2011-06-23 — House amendment offered
+- 2011-06-23 — House amendment offered
+- 2011-06-23 — House amendment offered
+- 2011-06-23 — House amendment offered
+- 2011-06-23 — House amendment offered
+- 2011-06-23 — House amendment offered
+- 2011-06-23 — House amendment offered
+- 2011-06-23 — House amendment offered
+- 2011-06-23 — House amendment offered
+- 2011-06-23 — House amendment offered
+- 2011-06-23 — House amendment offered
+- 2011-06-23 — House amendment offered/reported by: Amendment (A002) offered by Mr. Conyers.(consideration: CR H4481-4482, H4498; text: CR H4481)
+- 2011-06-23 — House amendment offered/reported by: Amendment (A003) offered by Ms. Baldwin.(consideration: CR H4482-4484, H4499; text: CR H4482)
+- 2011-06-23 — House amendment offered/reported by: Amendment (A004) offered by Ms. Moore.(consideration: CR H4484; text: CR H4484)
+- 2011-06-23 — House amendment offered/reported by: Amendment (A005) offered by Ms. Jackson Lee (TX).(consideration: CR H4484-4486; text: CR H4484)
+- 2011-06-23 — House amendment offered/reported by: Amendment (A006) offered by Mr. Lujan.(consideration: CR H4486; text: CR H4486)
+- 2011-06-23 — House amendment offered/reported by: Amendment (A007) offered by Mr. Peters.(consideration: CR H4486-4487; text: CR H4486)
+- 2011-06-23 — House amendment offered/reported by: Amendment (A008) offered by Mr. Polis.(consideration: CR H4487-4489; text: CR H4487)
+- 2011-06-23 — House amendment offered/reported by: Amendment (A009) offered by Mr. Conyers.(consideration: CR H4489-4490; text: CR H4489)
+- 2011-06-23 — House amendment offered/reported by: Amendment (A009) offered by Mr. Conyers.(consideration: CR H4500)
+- 2011-06-23 — House amendment offered/reported by: Amendment (A010) offered by Ms. Speier.(consideration: CR H4490-4491; text: CR H4490)
+- 2011-06-23 — House amendment offered/reported by: Amendment (A011) offered by Mr. Watt.(consideration: CR H4491; text: CR H4491)
+- 2011-06-23 — House amendment offered/reported by: Amendment (A012) offered by Mr. Sensenbrenner.(consideration: CR H4491-4493, H4501; text: CR H4491)
+- 2011-06-23 — House amendment offered/reported by: Amendment (A013) offered by Mr. Manzullo.(consideration: CR H4493-4494, H4501-4502; text: CR H4493)
+- 2011-06-23 — House amendment offered/reported by: Amendment (A014) offered by Mr. Rohrabacher.(consideration: CR H4494-4495, H4502-4503; text: CR H4494)
+- 2011-06-23 — House amendment offered/reported by: Amendment (A015) offered by Mr. Schock.(consideration: CR H4495-4498, H4502; text: CR H4495)
+- 2011-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-06-23 — Mr. Jackson (IL) raised a point of order. Subsequent to the completion of a roll call vote on the Conyers amendment No. 9, the final disposition was called into question and by unanimous consent, the proceedings were vacated and the Conyers amendment No. 9 was redesignated and the question of adoption was put again by the Chair de novo for a re-vote by the Committee of the Whole.
+- 2011-06-23 — Mr. Miller (NC) moved to recommit with instructions to Judiciary. (consideration: CR H4503-4505; text: CR H4503)
+- 2011-06-23 — On agreeing to the Baldwin amendment (A003) Failed by recorded vote: 81 - 342 (Roll no. 483).
+- 2011-06-23 — On agreeing to the Conyers amendment (A002) Failed by recorded vote: 105 - 316 (Roll no. 482).
+- 2011-06-23 — On agreeing to the Conyers amendment (A009) Agreed to by recorded vote: 223 - 198 (Roll no. 485).
+- 2011-06-23 — On agreeing to the Jackson Lee (TX) amendment (A005) Agreed to by voice vote.
+- 2011-06-23 — On agreeing to the Lujan amendment (A006) Agreed to by voice vote.
+- 2011-06-23 — On agreeing to the Manzullo amendment (A013) Failed by recorded vote: 92 - 329 (Roll no. 487).
+- 2011-06-23 — On agreeing to the Moore amendment (A004) Agreed to by voice vote.
+- 2011-06-23 — On agreeing to the Peters amendment (A007) Agreed to by voice vote.
+- 2011-06-23 — On agreeing to the Polis amendment (A008) Failed by voice vote.
+- 2011-06-23 — On agreeing to the Rohrabacher amendment (A014) Failed by recorded vote: 81 - 342 (Roll no. 488).
+- 2011-06-23 — On agreeing to the Schock amendment (A015) Failed by recorded vote: 158 - 262, 1 Present (Roll no. 489).
+- 2011-06-23 — On agreeing to the Sensenbrenner amendment (A012) Failed by recorded vote: 129 - 295 (Roll no. 486).
+- 2011-06-23 — On agreeing to the Smith (TX) amendment (A001) Agreed to by recorded vote: 283 - 140 (Roll no. 481).
+- 2011-06-23 — On agreeing to the Speier amendment (A010) Agreed to by voice vote.
+- 2011-06-23 — On motion to recommit with instructions Failed by recorded vote: 172 - 251 (Roll no. 490).
+- 2011-06-23 — On passage Passed by recorded vote: 304 - 117 (Roll no. 491).
+- 2011-06-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Baldwin amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. Baldwin demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Conyers amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Conyers demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Conyers amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Conyers demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Manzullo amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Manzullo demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rohrabacher amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Rohrabacher demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schock amendment, the Chair put t he question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Smith (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-23 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sensenbrenner amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Sensenbrenner demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-06-23 — Passed/agreed to in House: On passage Passed by recorded vote: 304 - 117 (Roll no. 491).
+- 2011-06-23 — Roll call votes on amendments in House
+- 2011-06-23 — Roll call votes on amendments in House
+- 2011-06-23 — Roll call votes on amendments in House
+- 2011-06-23 — Roll call votes on amendments in House
+- 2011-06-23 — Roll call votes on amendments in House
+- 2011-06-23 — Roll call votes on amendments in House
+- 2011-06-23 — Roll call votes on amendments in House
+- 2011-06-23 — Roll call votes on amendments in House
+- 2011-06-23 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1249.
+- 2011-06-23 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR 6/22/2011 H4433-4438)
+- 2011-06-23 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-06-23 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1249.
+- 2011-06-23 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4504)
+- 2011-06-23 — The previous question was ordered pursuant to the rule. (consideration: CR H4503)
+- 2011-06-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of amendments which had been debated earlier and on which further proceedings were postponed.
+- 2011-06-23 — UNFINISHED BUSINESS - The Chair announced the unfinished business was on the question of adoption of an amendment which had been debated earlier and on which further proceedings were postponed.

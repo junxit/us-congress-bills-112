@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1249
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-160 amendatory instructions. 0 executed, 160 stated and not applied.
+158 amendatory instructions. 0 executed, 158 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -79,20 +79,14 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the last undesignated paragraph, by striking “An element” and inserting “(f) Element in Claim for a Combination.—An element”. | the bill names no machine-readable US Code section |
 | — | replace | Sections 111(b)(1)(A) of title 35, United States Code, is amended by striking “the first paragraph of section 112 of this title” and inserting “section 112(a)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 111(b)(2) of title 35, United States Code, is amended by striking “the second through fifth paragraphs of section 112,” and inserting “subsections (b) through (e) of section 112,”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “use of a method in” and inserting “use of the subject matter of a patent in”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding “and” after the semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking the semicolon at the end of subparagraph (B) and inserting a period; and | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraphs (3) and (4). | the bill names no machine-readable US Code section |
-| — | strike | by striking “for a method”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “at least 1 year” and all that follows through the end and inserting “and commercially used the subject matter at least 1 year before the effective filing date of the claimed invention that is the subject matter of the patent.”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “patented method” and inserting “patented process”; | the bill names no machine-readable US Code section |
-| — | strike | by striking subparagraph (A); | the bill names no machine-readable US Code section |
-| — | replace | by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (C) as subparagraph (B); and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | by amending paragraph (6) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 273 of title 35, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | The item relating to section 273 in the table of sections for chapter 28 of title 35, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Chapter 31 of title 35, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The table of chapters for part III of title 35, United States Code, is amended by striking the item relating to chapter 31 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in the first sentence, by striking “a substantial new question of patentability affecting any claim of the patent concerned is raised by the request,” and inserting “the information presented in the request shows that there is a reasonab… | the bill names no machine-readable US Code section |
+| — | replace | in the second sentence, by striking “The existence of a substantial new question of patentability” and inserting “A showing that there is a reasonable likelihood that the requester would prevail with respect to at least 1 of the claims c… | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), in the second sentence, by striking “no substantial new question of patentability has been raised,” and inserting “the showing required by subsection (a) has not been made,”; and | the bill names no machine-readable US Code section |
+| — | replace | in section 313, by striking “a substantial new question of patentability affecting a claim of the patent is raised” and inserting “it has been shown that there is a reasonable likelihood that the requester would prevail with respect to a… | the bill names no machine-readable US Code section |
 | — | add-at-end | Part III of title 35, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of chapters for part III of title 35, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 301 of title 35, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -107,6 +101,10 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 1295(a)(4)(A) of title 28, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking the third sentence and inserting the following: “In an ex parte case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all of the issues raised in t… | the bill names no machine-readable US Code section |
 | — | strike | by striking the last sentence. | the bill names no machine-readable US Code section |
+| — | replace | by striking “Board of Patent Appeals and Interferences” each place it appears and inserting “Patent Trial and Appeal Board”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and derivation” after “established for interference”. | the bill names no machine-readable US Code section |
+| — | replace | in subsections (e) and (f), by striking “Board of Patent Appeals and Interferences” each place it appears and inserting “Patent Trial and Appeal Board”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (e), by inserting “and derivation” after “established for interference”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 122 of title 35, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Sections 32, 145, 146, 154(b)(4)(A), and 293 of title 35, United States Code, and section 21(b)(4) of the Trademark Act of 1946 (15 U.S.C. 1071(b)(4)), are each amended by striking “United States District Court for the District of Columb… | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 11 of title 35, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
@@ -139,13 +137,11 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 292 of title 35, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 29 of title 35, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for chapter 29 of title 35, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | repeal | This subsection, and the regulations issued under this subsection, are repealed effective upon the expiration of the 10-year period beginning on the date that the regulations issued under to paragraph (1) take effect. | the bill names no machine-readable US Code section |
+| — | repeal | This subsection, and the regulations issued under this subsection, are repealed effective upon the expiration of the 8-year period beginning on the date that the regulations issued under to paragraph (1) take effect. | the bill names no machine-readable US Code section |
 | — | replace | Section 1338(a) of title 28, United States Code, is amended by striking the second sentence and inserting the following: “No State court shall have jurisdiction over any claim for relief arising under any Act of Congress relating to pate… | the bill names no machine-readable US Code section |
 | — | amend | Section 1295(a)(1) of title 28, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 89 of title 28, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for chapter 89 of title 28, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 99 of title 28, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections for chapter 99 of title 28, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 29 of title 35, United States Code, as amended by this Act, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for chapter 29 of title 35, United States Code, as amended by this Act, is further amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | — | replace | in the first undesignated paragraph, by striking “When” and inserting “(a) Joint Inventions.—When”; | the bill names no machine-readable US Code section |
@@ -172,7 +168,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “The following” and inserting “(b) Defenses.—The following”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “uneforceability,” and inserting “unenforceability.”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “patentability,” and inserting “patentability.” ; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “In actions involving the validity or infringement of a patent” and inserting “(c) Notice of actions; actions during extension of patent term.—In an action involving the validity or infringement of patent, the party asserting… | the bill names no machine-readable US Code section |
+| — | replace | by striking “In actions involving the validity or infringement of a patent” and inserting “(c) Notice of actions; actions during extension of patent term.—In an action involving the validity or infringement of a patent”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Claims Court” and inserting “Court of Federal Claims”. | the bill names no machine-readable US Code section |
 | — | strike | Section 288 of title 35, United States Code, is amended by striking “, without deceptive intention,”. | the bill names no machine-readable US Code section |
 | — | replace | Section 3(e)(2) of title 35, United States Code, is amended by striking “this Act,” and inserting “that Act,”. | the bill names no machine-readable US Code section |
@@ -182,11 +178,13 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 287(c)(2)(G) of title 35, United States Code, is amended by striking “any state” and inserting “any State”. | the bill names no machine-readable US Code section |
 | — | replace | Section 371(b) of title 35, United States Code, is amended by striking “of the treaty” and inserting “of the treaty.”. | the bill names no machine-readable US Code section |
 | — | strike | Title 35, United States Code, is amended by striking “of this title” each place that term appears. | the bill names no machine-readable US Code section |
+| — | repeal | Sections 155 and 155A of title 35, United States Code, and the items relating to those sections in the table of sections for chapter 14 of such title, are repealed. | the bill names no machine-readable US Code section |
 | — | insert | Section 2(b)(11) of title 35, United States Code, is amended by inserting “, and the Office is authorized to expend funds to cover the subsistence expenses and travel-related expenses, including per diem, lodging costs, and transportatio… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3(b) of title 35, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b), by striking “Patent and Trademark Office Appropriation Account” and inserting “United States Patent and Trademark Office Public Enterprise Fund”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “To the extent” and all that follows through “fees” and inserting “Fees”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “shall be collected by and shall be available to the Director” and inserting “shall be collected by the Director and shall be available until expended”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “(c)” and inserting “(c)(1)”; | the bill names no machine-readable US Code section |
+| — | replace | in the first sentence, by striking “shall be available” and inserting “shall, subject to paragraph (3), be available”; | the bill names no machine-readable US Code section |
+| — | strike | by striking the second sentence; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (E), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (F), by inserting “and” after the semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
