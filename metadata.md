@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1470
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1470
@@ -25,3 +25,8 @@ To amend title 5, United States Code, to extend the probationary period applicab
 - 2011-04-08 — Introduced in House
 - 2011-04-08 — Introduced in House
 - 2011-04-08 — Referred to the House Committee on Oversight and Government Reform.
+- 2011-04-13 — Committee Consideration and Mark-up Session Held.
+- 2011-04-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 15 - 14.
+- 2011-06-23 — Placed on the Union Calendar, Calendar No. 67.
+- 2011-06-23 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-116.
+- 2011-06-23 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-116.
