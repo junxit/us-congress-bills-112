@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2279
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2279
@@ -32,3 +32,13 @@ Airport and Airway Extension Act of 2011, Part III
 - 2011-06-22 — Introduced in House
 - 2011-06-22 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-06-22 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-06-23 — Referred to the Subcommittee on Aviation.
+- 2011-06-24 — Committee on Transportation discharged.
+- 2011-06-24 — Committee on Transportation discharged.
+- 2011-06-24 — Committee on Ways and Means discharged.
+- 2011-06-24 — Committee on Ways and Means discharged.
+- 2011-06-24 — Considered by unanimous consent. (consideration: CR H4533-4534)
+- 2011-06-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-06-24 — Mr. Mica asked unanimous consent to discharge from committee and consider.
+- 2011-06-24 — On passage Passed without objection. (text: CR H4533)
+- 2011-06-24 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4533)
