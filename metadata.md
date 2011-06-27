@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2279
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2279
@@ -44,3 +44,10 @@ Airport and Airway Extension Act of 2011, Part III
 - 2011-06-24 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4533)
 - 2011-06-27 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S4132)
 - 2011-06-27 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4132)
+- 2011-06-28 — Message on Senate action sent to the House.
+- 2011-06-28 — Presented to President.
+- 2011-06-28 — Presented to President.
+- 2011-06-29 — Became Public Law No: 112-21.
+- 2011-06-29 — Became Public Law No: 112-21.
+- 2011-06-29 — Signed by President.
+- 2011-06-29 — Signed by President.
