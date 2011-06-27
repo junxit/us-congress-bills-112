@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2021
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2021
@@ -180,3 +180,5 @@ Jobs and Energy Permitting Act of 2011
 - 2011-06-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2021.
 - 2011-06-22 — The Speaker designated the Honorable Jo Ann Emerson to act as Chairwoman of the Committee.
 - 2011-06-22 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-06-23 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-06-27 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 86.
