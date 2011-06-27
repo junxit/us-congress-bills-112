@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2279
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2279
@@ -42,3 +42,5 @@ Airport and Airway Extension Act of 2011, Part III
 - 2011-06-24 — Mr. Mica asked unanimous consent to discharge from committee and consider.
 - 2011-06-24 — On passage Passed without objection. (text: CR H4533)
 - 2011-06-24 — Passed/agreed to in House: On passage Passed without objection.(text: CR H4533)
+- 2011-06-27 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S4132)
+- 2011-06-27 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4132)
