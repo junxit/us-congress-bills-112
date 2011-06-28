@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1249
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1249
@@ -206,3 +206,5 @@ Leahy-Smith America Invents Act
 - 2011-06-23 — The previous question was ordered pursuant to the rule. (consideration: CR H4503)
 - 2011-06-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of amendments which had been debated earlier and on which further proceedings were postponed.
 - 2011-06-23 — UNFINISHED BUSINESS - The Chair announced the unfinished business was on the question of adoption of an amendment which had been debated earlier and on which further proceedings were postponed.
+- 2011-06-27 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-06-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 87.
