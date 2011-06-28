@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 15
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 15
@@ -28,9 +28,10 @@ A concurrent resolution supporting the goals and ideals of World Malaria Day, an
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,6 @@ A concurrent resolution supporting the goals and ideals of World Malaria Day, an
 - 2011-06-27 — Senate amendment agreed to: Amendment SA 519 agreed to in Senate by Unanimous Consent.
 - 2011-06-27 — Senate amendment proposed (on the floor): Amendment SA 519 proposed by Senator Reid for Senator DeMint.(consideration: CR S4132; text: CR S4132)
 - 2011-06-27 — Senate amendment submitted
+- 2011-06-28 — Message on Senate action sent to the House.
+- 2011-06-28 — Received in the House.
+- 2011-06-28 — Referred to the House Committee on Foreign Affairs.
