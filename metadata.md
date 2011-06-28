@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1249
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1249
@@ -16,20 +16,39 @@ Leahy-Smith America Invents Act
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Cosponsors (5)
+## Cosponsors (24)
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 - Rep. Gallegly, Elton [R-CA-24] (G000021)
 - Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Johanns, Mike [R-NE] (J000291)
 
 ## Committees (2)
 
 - House — Budget Committee
 - House — Judiciary Committee
 
-## Recorded votes (10)
+## Recorded votes (15)
 
 - 2011-06-23 — [House 112-1-481](votes/house-112-1-0481.md) — On Agreeing to the Amendment — **Agreed to** (283–140)
 - 2011-06-23 — [House 112-1-482](votes/house-112-1-0482.md) — On Agreeing to the Amendment — **Failed** (105–316)
@@ -41,6 +60,11 @@ Leahy-Smith America Invents Act
 - 2011-06-23 — [House 112-1-489](votes/house-112-1-0489.md) — On Agreeing to the Amendment — **Failed** (158–262)
 - 2011-06-23 — [House 112-1-490](votes/house-112-1-0490.md) — On Motion to Recommit with Instructions — **Failed** (172–251)
 - 2011-06-23 — [House 112-1-491](votes/house-112-1-0491.md) — On Passage — **Passed** (304–117)
+- 2011-09-06 — [Senate 112-1-125](votes/senate-112-1-0125.md) — On the Cloture Motion — **Cloture Motion Agreed to** (93–5)
+- 2011-09-08 — [Senate 112-1-126](votes/senate-112-1-0126.md) — On the Amendment — **Amendment Rejected** (47–51)
+- 2011-09-08 — [Senate 112-1-127](votes/senate-112-1-0127.md) — On the Amendment — **Amendment Rejected** (13–85)
+- 2011-09-08 — [Senate 112-1-128](votes/senate-112-1-0128.md) — On the Motion to Table — **Motion to Table Agreed to** (50–48)
+- 2011-09-08 — [Senate 112-1-129](votes/senate-112-1-0129.md) — On Passage of the Bill — **Bill Passed** (89–9)
 
 ## Actions
 
@@ -208,3 +232,40 @@ Leahy-Smith America Invents Act
 - 2011-06-23 — UNFINISHED BUSINESS - The Chair announced the unfinished business was on the question of adoption of an amendment which had been debated earlier and on which further proceedings were postponed.
 - 2011-06-27 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2011-06-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 87.
+- 2011-08-02 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S5281; text: CR S5281)
+- 2011-08-02 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S5281)
+- 2011-09-06 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 93 - 5. Record Vote Number: 125. (consideration: CR S5328; text: CR S5328)
+- 2011-09-07 — Measure laid before Senate by motion.
+- 2011-09-07 — Motion to proceed to consideration of measure agreed to in Senate. (consideration: CR S5370-5377)
+- 2011-09-07 — Motion to proceed to measure considered in Senate. (consideration: CR S5353-5357)
+- 2011-09-07 — Senate amendment submitted
+- 2011-09-07 — Senate amendment submitted
+- 2011-09-07 — Senate amendment submitted
+- 2011-09-07 — Senate amendment submitted
+- 2011-09-07 — Senate amendment submitted
+- 2011-09-07 — Senate amendment submitted
+- 2011-09-07 — Senate amendment submitted
+- 2011-09-08 — Amendment SA 595 not agreed to in Senate by Yea-Nay. 13 - 85. Record Vote Number: 127.
+- 2011-09-08 — Amendment SA 595 proposed by Senator Cantwell. (consideration: CR S5407-54018, S5436-5437; text: CR S5407) To establish a transitional program for covered business method patents.
+- 2011-09-08 — Amendment SA 599 proposed by Senator Coburn. (consideration: CR S5418-5425, S5437-5439; text as modified: CR S5419) To amend the provision relating to funding the Patent and Trademark Office by establishing a United States Patent and Trademark Office Public Enterprise Fund, and for other purposes.
+- 2011-09-08 — Amendment SA 600 not agreed to in Senate by Yea-Nay. 47 - 51. Record Vote Number: 126.
+- 2011-09-08 — Amendment SA 600 proposed by Senator Sessions. (consideration: CR S5402-5407, S5425-5436; text: CR S5402) To strike the provision relating to the calculation of the 60-day period for application of patent term extension.
+- 2011-09-08 — Considered by Senate. (consideration: CR S5402-5443)
+- 2011-09-08 — Message on Senate action sent to the House.
+- 2011-09-08 — Motion to table amendment SA 599, as modified, agreed to in Senate by Yea-Nay Vote. 50 - 48. Record Vote Number: 128.
+- 2011-09-08 — Passed Senate without amendment by Yea-Nay Vote. 89 - 9. Record Vote Number: 129.
+- 2011-09-08 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 89 - 9. Record Vote Number: 129.
+- 2011-09-08 — Roll call votes on amendments in Senate: Amendment SA 595 not agreed to in Senate by Yea-Nay. 13 - 85. Record Vote Number: 127.
+- 2011-09-08 — Roll call votes on amendments in Senate: Amendment SA 600 not agreed to in Senate by Yea-Nay. 47 - 51. Record Vote Number: 126.
+- 2011-09-08 — Roll call votes on amendments in Senate: Motion to table amendment SA 599, as modified, agreed to in Senate by Yea-Nay Vote. 50 - 48. Record Vote Number: 128.
+- 2011-09-08 — Senate amendment not agreed to: Amendment SA 595 not agreed to in Senate by Yea-Nay. 13 - 85. Record Vote Number: 127.
+- 2011-09-08 — Senate amendment not agreed to: Amendment SA 600 not agreed to in Senate by Yea-Nay. 47 - 51. Record Vote Number: 126.
+- 2011-09-08 — Senate amendment proposed (on the floor): Amendment SA 595 proposed by Senator Cantwell.(consideration: CR S5407-54018, S5436-5437; text: CR S5407)
+- 2011-09-08 — Senate amendment proposed (on the floor): Amendment SA 599 proposed by Senator Coburn.(consideration: CR S5418-5425, S5437-5439; text as modified: CR S5419)
+- 2011-09-08 — Senate amendment proposed (on the floor): Amendment SA 600 proposed by Senator Sessions.(consideration: CR S5402-5407, S5425-5436; text: CR S5402)
+- 2011-09-12 — Presented to President.
+- 2011-09-12 — Presented to President.
+- 2011-09-16 — Became Public Law No: 112-29.
+- 2011-09-16 — Became Public Law No: 112-29.
+- 2011-09-16 — Signed by President.
+- 2011-09-16 — Signed by President.
