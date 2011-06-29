@@ -1,0 +1,32 @@
+---
+measure: S. 1294
+congress: 112
+version: Introduced in Senate
+---
+
+# S. 1294
+
+Oil Independence for a Stronger America Act of 2011
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Merkley, Jeff [D-OR] (M001176)
+
+## Cosponsors (3)
+
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+
+## Committees (1)
+
+- Senate — Finance Committee
+
+## Actions
+
+- 2011-06-29 — Introduced in Senate
+- 2011-06-29 — Read twice and referred to the Committee on Finance.
