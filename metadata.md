@@ -1,7 +1,7 @@
 ---
 measure: S. 679
 congress: 112
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 679
@@ -64,13 +64,14 @@ Presidential Appointment Efficiency and Streamlining Act of 2011
 
 - Senate — Homeland Security and Governmental Affairs Committee
 
-## Recorded votes (5)
+## Recorded votes (6)
 
 - 2011-06-23 — [Senate 112-1-95](votes/senate-112-1-0095.md) — On the Amendment — **Amendment Rejected** (47–51)
 - 2011-06-23 — [Senate 112-1-96](votes/senate-112-1-0096.md) — On the Amendment — **Amendment Rejected** (41–57)
 - 2011-06-29 — [Senate 112-1-99](votes/senate-112-1-0099.md) — On the Amendment — **Amendment Rejected** (44–55)
 - 2011-06-29 — [Senate 112-1-100](votes/senate-112-1-0100.md) — On the Amendment — **Amendment Rejected** (25–74)
 - 2011-06-29 — [Senate 112-1-101](votes/senate-112-1-0101.md) — On Passage of the Bill — **Bill Passed** (79–20)
+- 2012-07-31 — [House 112-2-537](votes/house-112-2-0537.md) — On Motion to Suspend the Rules and Pass — **Passed** (261–116)
 
 ## Actions
 
@@ -201,3 +202,19 @@ Presidential Appointment Efficiency and Streamlining Act of 2011
 - 2011-06-29 — Senate amendment agreed to: Amendment SA 514 agreed to in Senate by Voice Vote.
 - 2011-06-29 — Senate amendment not agreed to: Amendment SA 501, under the order of 6/22/2011, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 99.
 - 2011-06-29 — Senate amendment not agreed to: Amendment SA 511 not agreed to in Senate by Yea-Nay Vote. 25 - 74. Record Vote Number: 100.
+- 2011-07-01 — Held at the desk.
+- 2011-07-01 — Received in the House.
+- 2012-07-31 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-07-31 — Considered as unfinished business. (consideration: CR H5448-5449)
+- 2012-07-31 — Considered under suspension of the rules. (consideration: CR H5405-5410)
+- 2012-07-31 — DEBATE - The House proceeded with forty minutes of debate on S. 679.
+- 2012-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-31 — Mr. Chaffetz moved to suspend the rules and pass the bill.
+- 2012-07-31 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 261 - 116 (Roll no. 537). (text: CR H5405-5408)
+- 2012-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 261 - 116 (Roll no. 537).(text: CR H5405-5408)
+- 2012-08-02 — Presented to President.
+- 2012-08-02 — Presented to President.
+- 2012-08-10 — Became Public Law No: 112-166.
+- 2012-08-10 — Became Public Law No: 112-166.
+- 2012-08-10 — Signed by President.
+- 2012-08-10 — Signed by President.

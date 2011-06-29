@@ -1,7 +1,7 @@
 ---
 measure: S. 679
 congress: 112
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -50,7 +50,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | Section 516(a) of the Homeland Security Act of 2002 (6 U.S.C. 321e(a)) is amended by striking “, by and with the advice and consent of the Senate”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “There” and inserting “(1) In general.—Except as provided under paragraph (2), there”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (1) through (10) as subparagraphs (A) through (J), respectively; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” after “(a)”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “eight” and inserting “7”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
