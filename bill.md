@@ -38,7 +38,7 @@ The following nominations for the positions described (including total number of
 - **(10)** The Chairman, Vice Chairman, and the Members of the Board of Directors for the United States Institute of Peace (12 Members including Chairman and Vice Chairman).
 - **(11)** The Members of the Board of Directors of the Federal Agricultural Mortgage Corporation (5 Members).
 - **(12)** The Members of the Board of Directors of the National Consumer Cooperative Bank (3 Members).
-- **(13)** The Members of the Board of Directors of the National Institute of Building Sciences (15 to 21 Members).
+- **(13)** The Members of the Board of Directors of the National Institute of Building Sciences (6 Members).
 - **(14)** The Members of the Board of Directors of the Securities Investor Protection Corporation (5 Members).
 - **(15)** The Members of the Board of Directors of the Metropolitan Washington Airport Authority (3 Members).
 - **(16)** The Members of the Saint Lawrence Seaway Development Corporation Advisory Board (5 Members).
@@ -56,11 +56,56 @@ The following nominations for the positions described (including total number of
 - **(28)** The Members of the Board of Directors of the Legal Services Corporation (11 Members).
 - **(29)** The Members of the Foreign Claims Settlement Commission (2 Members).
 - **(30)** The Members of the Board of Directors of the State Justice Institute (11 Members).
+- **(31)** Chief Financial Officer, from the following:
+  - **(A)** Department of Agriculture.
+  - **(B)** Department of Commerce.
+  - **(C)** Department of Defense.
+  - **(D)** Department of Education.
+  - **(E)** Department of Energy.
+  - **(F)** Department of Environmental Protection Agency.
+  - **(G)** Department of Health and Human Services.
+  - **(H)** Department of Homeland Security.
+  - **(I)** Department of Housing and Urban Development.
+  - **(J)** Department of the Interior.
+  - **(K)** Department of Labor.
+  - **(L)** National Aeronautics and Space Administration.
+  - **(M)** Department of State.
+  - **(N)** Department of Transportation.
+  - **(O)** Department of the Treasury.
+  - **(P)** Department of Veterans Affairs.
+- **(32)** Assistant Secretary for Financial Management of the Air Force.
+- **(33)** Assistant Secretary for Financial Management of the Army.
+- **(34)** Assistant Secretary for Financial Management of Navy.
+- **(35)** Controller, Office of Federal Financial Management, Office of Management and Budget.
+- **(36)** Assistant Secretaries or other officials whose primary responsibility is legislative affairs from the following:
+  - **(A)** Department of Agriculture.
+  - **(B)** Department of Energy.
+  - **(C)** Department of Defense.
+  - **(D)** Department of Housing and Urban Development.
+  - **(E)** Department of Commerce.
+  - **(F)** Department of Treasury.
+  - **(G)** Department of State.
+  - **(H)** Department of Health and Human Services.
+  - **(I)** United States Agency for International Development.
+  - **(J)** Department of Education.
+  - **(K)** Department of Labor.
+  - **(L)** Department of Justice.
+  - **(M)** Department of Veterans Affairs.
+  - **(N)** Department of Transportation.
+- **(37)** Commissioner, Rehabilitative Services Administration, Department of Education.
+- **(38)** Commissioner, Administration for Children, Youth, and Families, Department of Health and Human Services.
+- **(39)** Commissioner, Administration for Native Americans, Department of Health and Human Services.
+- **(40)** Federal Coordinator, Alaska Natural Gas Transportation Projects.
+- **(41)** Assistant Secretary for Administration, Department of Commerce.
 
 ## § 3. Executive calendar
 
 The Secretary of the Senate shall create the appropriate sections on the Executive Calendar to reflect and effectuate the requirements of this resolution.
 
-## § 4. Effective date
+## § 4. Committee justification for new executive positions
+
+The report accompanying each bill or joint resolution of a public character reported by any committee shall contain an evaluation and justification made by such committee for the establishment in the measure being reported of any new position appointed by the President within an existing or new Federal entity.
+
+## § 5. Effective date
 
 This resolution shall take effect 60 days after the date of adoption of this resolution.
