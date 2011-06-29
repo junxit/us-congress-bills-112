@@ -16,8 +16,8 @@ This Act may be cited as the “Presidential Appointment Efficiency and Streamli
 ## § 2. Presidential appointments not subject to Senate approval
 
 - **(a)** *Agriculture*
-  - **(1)** *Assistant Secretary of Agriculture for Congressional Relations and Assistant Secretary of Agriculture for Administration* Section 218(b) of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6918(b)) is amended—
-    - **(A)** by striking “subsection (a)” and inserting “subsection (a)(3)”;
+  - **(1)** *Assistant Secretary of Agriculture for Administration* Section 218(b) of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6918(b)) is amended—
+    - **(A)** by striking “subsection (a)” and inserting “paragraph (1) or (3) of subsection (a)”;
     - **(B)** by striking subsection (c); and
     - **(C)** by redesignating subsection (d) as subsection (c).
   - **(2)** *Rural Utilities Service Administrator* Section 232(b)(1) of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6942(b)(1)) is amended—
@@ -26,117 +26,73 @@ This Act may be cited as the “Presidential Appointment Efficiency and Streamli
     - **(C)** by redesignating paragraph (3) as paragraph (2).
   - **(3)** *Commodity Credit Corporation* Section 9(a) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714g(a)) is amended in the third sentence by striking “by and with the advice and consent of the Senate”.
 - **(b)** *Commerce*
-  - **(1)** *Assistant Secretary for Legislative Affairs* The provisions of the Act entitled “An Act to provide for the appointment of one additional Assistant Secretary of Commerce, and for other purposes”, approved July 15, 1947 (15 U.S.C. 1505), section 304 of title III of the Departments of State, Justice, and Commerce and the United States Information Agency Appropriation Act, 1955 (15 U.S.C. 1506), and the Act entitled “An Act to authorize an additional Assistant Secretary of Commerce”, approved February 16, 1962 (15 U.S.C. 1507), that require the advice and consent of the Senate shall not apply with respect to the appointment of the Assistant Secretary for Congressional Relations.
-  - **(2)** *Chief Scientist; National Oceanic and Atmospheric Administration* Section 2(d) of Reorganization Plan No. 4 of 1970 (5 U.S.C. App. 1) is amended by striking “, by and with the advice and consent of the Senate,”.
-  - **(3)** *Assistant Secretary for Communications and Information* Section 103(a)(2) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 902(a)(2)) is amended by striking “, by and with the advice and consent of the Senate”.
+  - **(1)** *Chief Scientist; National Oceanic and Atmospheric Administration* Section 2(d) of Reorganization Plan No. 4 of 1970 (5 U.S.C. App. 1) is amended by striking “, by and with the advice and consent of the Senate,”.
 - **(c)** *Department of Defense*
-  - **(1)** *Assistant Secretaries of Defense for Legislative Affairs, Public Affairs, and Networks and Information Integration* Section 138(a)(2) of title 10, United States Code, as amended by section 901(b)(4)(A) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, is further amended to read as follows:
-    > - **(2)**
-    >   - **(A)** Except as provided in subparagraph (B), the Assistant Secretaries of Defense shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
-    >   - **(B)** The Assistant Secretary of Defense referred to in subsection (b)(5), the Assistant Secretary of Defense for Public Affairs, and the Assistant Secretary of Defense for Networks and Information Integration shall each be appointed from civilian life by the President.
-
-  - **(2)** *Assistant Secretary of the Army for Financial Management* Section 3016(a) of such title is amended—
-    - **(A)** by inserting “(1)” after “(a)”;
-    - **(B)** by striking the second sentence; and
-    - **(C)** by adding at the end the following new paragraph:
-      > - **(2)**
-      >   - **(A)** Except as provided in subparagraph (B), the Assistant Secretaries of the Army shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
-      >   - **(B)** The Assistant Secretary of the Army specified in subsection (b)(4) shall be appointed from civilian life by the President.
-
-  - **(3)** *Assistant Secretary of the Navy for Financial Management* Section 5016(a) of such title is amended—
-    - **(A)** by inserting “(1)” after “(a)”;
-    - **(B)** by striking the second sentence; and
-    - **(C)** by adding at the end the following new paragraph:
-      > - **(2)**
-      >   - **(A)** Except as provided in subparagraph (B), the Assistant Secretaries of the Navy shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
-      >   - **(B)** The Assistant Secretary of the Navy specified in subsection (b)(3) shall be appointed from civilian life by the President.
-
-  - **(4)** *Assistant Secretary of the Air Force for Financial Management* Section 8016(a) of such title is amended—
-    - **(A)** by inserting “(1)” after “(a)”;
-    - **(B)** by striking the second sentence; and
-    - **(C)** by adding at the end the following new paragraph:
-      > - **(2)**
-      >   - **(A)** Except as provided in subparagraph (B), the Assistant Secretaries of the Air Force shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
-      >   - **(B)** The Assistant Secretary of the Air Force specified in subsection (b)(3) shall be appointed from civilian life by the President.
-
-  - **(5)** *Members of National Security Education Board* Section 803(b)(7) of the David L. Boren National Security Education Act of 1991 (50 U.S.C. 1903(b)(7)) is amended by striking “by and with the advice and consent of the Senate,”.
+  - **(1)** *Assistant secretaries of defense*
+    - **(A)** *In general* Section 138(a)(1) of title 10, United States Code, is amended by striking “16” and inserting “14”.
+    - **(B)** *Administration of reduction* The Assistant Secretary of Defense positions eliminated in accordance with the reduction in numbers required by the amendment made by subparagraph (A) shall be—
+      - **(i)** the Assistant Secretary of Defense for Networks and Information Integration; and
+      - **(ii)** the Assistant Secretary of Defense for Public Affairs.
+    - **(C)** *Continued service of incumbents* Notwithstanding the requirements of this paragraph, any individual serving in a position described under subparagraph (B) on the date of the enactment of this Act may continue to serve in such position without regard to the limitation imposed by the amendment in subparagraph (A).
+    - **(D)** *Plan for successor positions* Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall report to the congressional defense committees on his plan for successor positions, not subject to Senate confirmation, for the positions eliminated in accordance with the requirements of this paragraph.
+  - **(2)** *Members of National Security Education Board* Section 803(b)(7) of the David L. Boren National Security Education Act of 1991 (50 U.S.C. 1903(b)(7)) is amended by striking “by and with the advice and consent of the Senate,”.
+  - **(3)** *Director of selective service* Section 10(a)(3) of the Selective Service Act of 1948 (50 U.S.C. App. 460(a)(3)) is amended by striking “, by and with the advice and consent of the Senate”.
 - **(d)** *Department of Education*
-  - **(1)** *Assistant Secretary for Legislation and Congressional Affairs and Assistant Secretary for Management* Section 202(e) of the Department of Education Organization Act (20 U.S.C. 3412(e)) is amended by inserting after the first sentence the following: “Notwithstanding the previous sentence, the appointments of individuals to serve as the Assistant Secretary for Legislation and Congressional Affairs and the Assistant Secretary for Management shall not be subject to the advice and consent of the Senate.”.
-  - **(2)** *Commissioner, Rehabilitation Services Administration* Section 3(a) of the Rehabilitation Act of 1973 (29 U.S.C. 702(a)) is amended by striking “by and with the advice and consent of the Senate”.
-  - **(3)** *Commissioner, Education Statistics* Section 117(b) of the Education Sciences Reform Act of 2002 (20 U.S.C. 9517(b)) is amended by striking “, by and with the advice and consent of the Senate,”.
-- **(e)** *Department of Energy* Section 203(a) of the Department of Energy Organization Act (42 U.S.C. 7133(a)) is amended in the first sentence by striking “Senate;” and inserting “Senate (except that the Assistant Secretary for Congressional and Intergovernmental Affairs of the Department may be appointed by the President without the advice and consent of the Senate);”.
-- **(f)** *Department of Health and Human Services*
+  - **(1)** *Assistant Secretary for Management* Section 202(e) of the Department of Education Organization Act (20 U.S.C. 3412(e)) is amended by inserting after the first sentence the following: “Notwithstanding the previous sentence, the appointments of individuals to serve as the Assistant Secretary for Management shall not be subject to the advice and consent of the Senate.”.
+  - **(2)** *Commissioner, Education Statistics* Section 117(b) of the Education Sciences Reform Act of 2002 (20 U.S.C. 9517(b)) is amended by striking “, by and with the advice and consent of the Senate,”.
+- **(e)** *Department of Health and Human Services*
   - **(1)** *Assistant Secretary for Public Affairs* Notwithstanding any other provision of law, the appointment of an individual to serve as the Assistant Secretary for Public Affairs within the Department of Health and Human Services shall not be subject to the advice and consent of the Senate.
-  - **(2)** *Assistant Secretary for Legislation* Notwithstanding any other provision of law, the appointment of an individual to serve as the Assistant Secretary for Legislation within the Department of Health and Human Services shall not be subject to the advice and consent of the Senate.
-  - **(3)** *Commissioner, Administration for Children, Youth and Families* Section 915(b)(2) of the Claude Pepper Young Americans Act of 1990 (42 U.S.C. 12311(b)(2)) is amended by striking “, by and with the advice and consent of the Senate,”.
-  - **(4)** *Commissioner, Administration for Native Americans* Section 803B(c) of the Native American Programs Act of 1974 (42 U.S.C. 2991b–2(c)) is amended by striking “, by and with the advice and consent of the Senate”.
-- **(g)** *Department of Homeland Security*
+- **(f)** *Department of Homeland Security*
   - **(1)** *Director of the Office for Domestic Preparedness; Assistant Administrator of the Federal Emergency Management Agency, Grant Programs* Section 430(b) of the Homeland Security Act of 2002 (6 U.S.C. 238(b)) is amended by striking “, by and with the advice and consent of the Senate”.
   - **(2)** *Administrator of the United States Fire Administration* Section 5(b) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2204(b)) is amended by striking “, by and with the advice and consent of the Senate,”.
   - **(3)** *Director of the Office of Counternarcotics Enforcement* Section 878(a) of the Homeland Security Act of 2002 (6 U.S.C. 458(a)) is amended by striking “, by and with the advice and consent of the Senate”.
   - **(4)** *Chief Medical Officer* Section 516(a) of the Homeland Security Act of 2002 (6 U.S.C. 321e(a)) is amended by striking “, by and with the advice and consent of the Senate”.
-- **(h)** *Housing and Urban Development; Chief Human Capital Officer, Assistant Secretary for Congressional and Intergovernmental Relations, and Assistant Secretary for Public Affairs* Section 4(a) of the Department of Housing and Urban Development Act (42 U.S.C. 3533(a)) is amended—
+  - **(5)** *Assistant secretaries* Section 103(a) of the Homeland Security Act of 2002 (6 U.S.C. 113(a) is amended—
+    - **(A)** by striking “There” and inserting “(1) In general.—Except as provided under paragraph (2), there”;
+    - **(B)** by redesignating paragraphs (1) through (10) as subparagraphs (A) through (J), respectively; and
+    - **(C)** by adding at the end the following:
+      > - **(2)** *Assistant Secretaries* If any of the Assistant Secretaries referred to under paragraph (1)(I) is designated to be the Assistant Secretary for Health Affairs, the Assistant Secretary for Legislative Affairs, or the Assistant Secretary for Public Affairs, that Assistant Secretary shall be appointed by the President without the advice and consent of the Senate.
+
+- **(g)** *Housing and Urban Development; Assistant Secretary for Public Affairs* Section 4(a) of the Department of Housing and Urban Development Act (42 U.S.C. 3533(a)) is amended—
   - **(1)** by inserting “(1)” after “(a)”;
-  - **(2)** by striking “eight” and inserting “5”; and
+  - **(2)** by striking “eight” and inserting “7”; and
   - **(3)** by adding at the end the following:
-    > - **(2)** There shall be in the Department a Chief Human Capital Officer, an Assistant Secretary for Congressional and Intergovernmental Relations, and an Assistant Secretary for Public Affairs, each of whom shall be appointed by the President and shall perform such functions, powers, and duties as the Secretary shall prescribe from time to time.
+    > - **(2)** There shall be in the Department an Assistant Secretary for Public Affairs, who shall be appointed by the President and shall perform such functions, powers, and duties as the Secretary shall prescribe from time to time.
 
-- **(i)** *Department of Justice*
-  - **(1)** *Assistant Attorney General, Legislative Affairs*
-    - **(A)** *In general* Chapter 31 of title 28, United States Code, is amended—
-      - **(i)** in section 506, by striking “11 Assistant Attorneys General” and inserting “10 Assistant Attorneys General”; and
-      - **(ii)** by inserting after section 507A the following:
-        > ## § 507B. Assistant Attorney General for Legislative Affairs
-        >
-        > The President shall appoint an Assistant Attorney General for Legislative Affairs to assist the Attorney General in the performance of the duties of the Attorney General.
-
-    - **(B)** *Technical and conforming amendment* The table of sections for chapter 31 of title 28, United States Code, is amended by inserting after the item relating to section 507A the following:
-  - **(2)** *Director, Bureau of Justice Statistics* Section 302(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3732(b)) is amended by striking “, by and with the advice and consent of the Senate”.
-  - **(3)** *Director, Bureau of Justice Assistance* Section 401(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3741(b)) is amended by striking “, by and with the advice and consent of the Senate”.
-  - **(4)** *Director, National Institute of Justice* Section 202(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3722(b)) is amended by striking “, by and with the advice and consent of the Senate”.
-  - **(5)** *Administrator, Office of Juvenile Justice and Delinquency Prevention* Section 201(b) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5611(b)) is amended by striking “, by and with the advice and consent of the Senate,”.
-  - **(6)** *Director, Office for Victims of Crime* Section 1411(b) of the Victims of Crime Act of 1984 (42 U.S.C. 10605(b)) is amended by striking “, by and with the advice and consent of the Senate”.
-- **(j)** *Department of Labor*
-  - **(1)** *Assistant Secretaries for Administration and Management, Congressional Affairs, and Public Affairs* Notwithstanding section 2 of the Act of April 17, 1946 (29 U.S.C. 553), the appointment of individuals to serve as the Assistant Secretary for Administration and Management, the Assistant Secretary for Congressional Affairs, and the Assistant Secretary for Public Affairs within the Department of Labor, shall not be subject to the advice and consent of the Senate.
+- **(h)** *Department of Justice*
+  - **(1)** *Director, Bureau of Justice Statistics* Section 302(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3732(b)) is amended by striking “, by and with the advice and consent of the Senate”.
+  - **(2)** *Director, Bureau of Justice Assistance* Section 401(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3741(b)) is amended by striking “, by and with the advice and consent of the Senate”.
+  - **(3)** *Director, National Institute of Justice* Section 202(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3722(b)) is amended by striking “, by and with the advice and consent of the Senate”.
+  - **(4)** *Administrator, Office of Juvenile Justice and Delinquency Prevention* Section 201(b) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5611(b)) is amended by striking “, by and with the advice and consent of the Senate,”.
+  - **(5)** *Director, Office for Victims of Crime* Section 1411(b) of the Victims of Crime Act of 1984 (42 U.S.C. 10605(b)) is amended by striking “, by and with the advice and consent of the Senate”.
+- **(i)** *Department of Labor*
+  - **(1)** *Assistant Secretaries for Administration and Management and Public Affairs* Notwithstanding section 2 of the Act of April 17, 1946 (29 U.S.C. 553), the appointment of individuals to serve as the Assistant Secretary for Administration and Management and the Assistant Secretary for Public Affairs within the Department of Labor, shall not be subject to the advice and consent of the Senate.
   - **(2)** *Director of the Women's Bureau* Section 2 of the Act of June 5, 1920 (29 U.S.C. 12) is amended by striking “, by and with the advice and consent of the Senate”.
-- **(k)** *Department of State; Assistant Secretary for Legislative and Intergovernmental Affairs, Assistant Secretary for Public Affairs, and Assistant Secretary for Administration* Section 1(c)(1) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a(c)(1)) is amended—
+- **(j)** *Department of State; Assistant Secretary for Public Affairs and Assistant Secretary for Administration* Section 1(c)(1) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a(c)(1)) is amended—
   - **(1)** by striking “, each of whom shall be appointed by the President, by and with the advice and consent of the Senate, and”; and
-  - **(2)** by adding at the end the following: “Each Assistant Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate, except that the appointments of the Assistant Secretary for Legislative and Intergovernmental Affairs, the Assistant Secretary for Public Affairs, and the Assistant Secretary for Administration shall not be subject to the advice and consent of the Senate.”.
-- **(l)** *Department of Transportation*
+  - **(2)** by adding at the end the following: “Each Assistant Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate, except that the appointments of the Assistant Secretary for Public Affairs and the Assistant Secretary for Administration shall not be subject to the advice and consent of the Senate.”.
+- **(k)** *Department of Transportation*
   - **(1)** *Assistant secretaries* Section 102(e) of title 49, United States Code, is amended—
     - **(A)** by striking “(e) The Department” and all that follows through “An Assistant Secretary” and inserting the following:
       > - **(e)** *Assistant Secretaries; General Counsel*
       >   - **(1)** *Appointment* The Department has 5 Assistant Secretaries and a General Counsel, including—
-      >     - **(A)** an Assistant Secretary for Aviation and International Affairs and an Assistant Secretary for Transportation Policy, who shall each be appointed by the President, with the advice and consent of the Senate;
-      >     - **(B)** an Assistant Secretary for Budget and Programs and Chief Financial Officer and an Assistant Secretary for Governmental Affairs, who shall each be appointed by the President;
-      >     - **(C)** an Assistant Secretary for Administration, who shall be appointed in the competitive service by the Secretary, with the approval of the President; and
+      >     - **(A)** an Assistant Secretary for Aviation and International Affairs, an Assistant Secretary for Governmental Affairs, and an Assistant Secretary for Transportation Policy, who shall each be appointed by the President, with the advice and consent of the Senate;
+      >     - **(B)** an Assistant Secretary for Budget and Programs who shall be appointed by the President;
+      >     - **(C)** an Assistant Secretary for Administration, who shall be appointed by the Secretary, with the approval of the President; and
       >     - **(D)** a General Counsel, who shall be appointed by the President, with the advice and consent of the Senate.
       >   - **(2)** *Duties and powers* The officers set forth in paragraph (1) shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary
 
   - **(2)** *Deputy administrator, federal aviation administration* Section 106 of title 49, United States Code, is amended—
     - **(A)** in subsection (b), by striking “. The Administration has a Deputy Administrator. They are appointed” and inserting “, who shall be appointed”; and
     - **(B)** in subsection (d)(1), by striking “The Deputy Administrator must” and inserting “The Administration has a Deputy Administrator, who shall be appointed by the President. In making an appointment, the President shall consider the fitness of the appointee to efficiently carry out the duties and powers of the office. The Deputy Administrator shall”.
-- **(m)** *Department of Treasury*
-  - **(1)** *Assistant Secretary for Legislative Affairs* Section 301(e) of title 31, United States Code, is amended—
-    - **(A)** striking “10 Assistant Secretaries” and inserting “9 Assistant Secretaries”; and
-    - **(B)** by inserting after the first sentence the following new sentence: “The Department shall have 1 Assistant Secretary not subject to the advice and consent of the Senate who shall be the Assistant Secretary for Legislative Affairs.”.
-  - **(2)** *Assistant Secretary for Public Affairs and Director of Policy Planning* Section 301(e) of title 31, United States Code, as amended by paragraph (1), is amended by—
-    - **(A)** striking “9 Assistant Secretaries” in the first sentence and inserting “8 Assistant Secretaries”; and
-    - **(B)** in the second sentence—
-      - **(i)** by striking “1 Assistant Secretary” and inserting “2 Assistant Secretaries”, and
-      - **(ii)** by inserting “and the Assistant Secretary for Public Affairs” before the period at the end.
-  - **(3)** *Assistant Secretary for Management and Chief Financial Officer* Section 301(e) of title 31, United States Code, as amended by paragraphs (1) and (2), is amended by—
-    - **(A)** striking “8 Assistant Secretaries” in the first sentence and inserting “7 Assistant Secretaries”; and
-    - **(B)** in the second sentence—
-      - **(i)** by striking “2 Assistant Secretary” and inserting “3 Assistant Secretaries”, and
-      - **(ii)** by striking “and the Assistant Secretary for Public Affairs” and inserting “, the Assistant Secretary for Public Affairs, and the Assistant Secretary for Management, Chief Financial Officer, and Chief Performance Officer”.
-  - **(4)** *Treasurer of the United States* Section 301(d) of title 31, United States Code, is amended—
+- **(l)** *Department of the Treasury*
+  - **(1)** *Assistant Secretaries for Public Affairs and Management* Section 301(e) of title 31, United States Code, is amended—
+    - **(A)** by striking “10 Assistant Secretaries” and inserting “8 Assistant Secretaries”; and
+    - **(B)** by inserting “The Department shall have 2 Assistant Secretaries not subject to the advice and consent of the Senate who shall be the Assistant Secretary for Public Affairs, and the Assistant Secretary for Management.” after the first sentence.
+  - **(2)** *Treasurer of the United States* Section 301(d) of title 31, United States Code, is amended—
     - **(A)** by striking “2 Deputy Under Secretaries, and a Treasurer of the United States” and inserting “and 2 Deputy Under Secretaries”, and
     - **(B)** by inserting “and a Treasurer of the United States appointed by the President” after “Fiscal Assistant Secretary appointed by the Secretary”.
-  - **(5)** *Director of the Mint* Section 304(b)(1) of title 31, United States Code, is amended—
-    - **(A)** by striking “, by and with the advice and consent of the Senate”; and
-    - **(B)** by striking “On removal, the President shall send a message to the Senate giving the reasons for removal.”.
-- **(n)** *Department of Veterans Affairs* Section 308(a) of title 38, United States Code, is amended—
+- **(m)** *Department of Veterans Affairs* Section 308(a) of title 38, United States Code, is amended—
   - **(1)** by striking “There shall” and inserting “(1) There shall”;
   - **(2)** in paragraph (1), as designated by paragraph (1) of this subsection, by striking “Each Assistant” and all that follows through the period at the end; and
   - **(3)** by adding at the end the following new paragraphs:
@@ -145,40 +101,45 @@ This Act may be cited as the “Presidential Appointment Efficiency and Streamli
     >   - **(A)** The Assistant Secretary for Management.
     >   - **(B)** The Assistant Secretary for Human Resources and Administration.
     >   - **(C)** The Assistant Secretary for Public and Intergovernmental Affairs.
-    >   - **(D)** The Assistant Secretary for Congressional and Legislative Affairs.
-    >   - **(E)** The Assistant Secretary for Information and Technology.
+    >   - **(D)** The Assistant Secretary for Operations, Security, and Preparedness.
 
-- **(o)** *Appalachian Regional Commission; Alternate Federal Co-Chairman* Section 14301(b)(1) of title 40, United States Code, is amended by striking “by and with the advice and consent of the Senate”.
-- **(p)** *Council of Economic Advisers, Members* Section 10 of the Employment Act of 1946 (15 U.S.C. 1023) is amended by striking subsection (a) and inserting the following:
+- **(n)** *Appalachian Regional Commission; Alternate Federal Co-Chairman* Section 14301(b)(2) of title 40, United States Code, is amended by striking “by and with the advice and consent of the Senate”.
+- **(o)** *Council of Economic Advisers, Members* Section 10 of the Employment Act of 1946 (15 U.S.C. 1023) is amended by striking subsection (a) and inserting the following:
   > - **(a)** *Creation; composition; qualifications; chairman and vice chairman*
   >   - **(1)** *Creation* There is created in the Executive Office of the President a Council of Economic Advisers (hereinafter called the “Council”).
   >   - **(2)** *Composition* The Council shall be composed of three members, of whom—
   >     - **(A)** 1 shall be the chairman who shall be appointed by the President by and with the advice and consent of the Senate; and
   >     - **(B)** 2 shall be appointed by the President.
-  >   - **(3)** *Qualifications* Each member shall be a person who, as a result of his training, experience, and attainments, is exceptionally qualified to analyze and interpret economic developments, to appraise programs and activities of the Government in the light of the policy declared in section 2, and to formulate and recommend national economic policy to promote full employment, production, and purchasing power under free competitive enterprise.
+  >   - **(3)** *Qualifications* Each member shall be a person who, as a result of training, experience, and attainments, is exceptionally qualified to analyze and interpret economic developments, to appraise programs and activities of the Government in the light of the policy declared in section 2, and to formulate and recommend national economic policy to promote full employment, production, and purchasing power under free competitive enterprise.
   >   - **(4)** *Vice chairman* The President shall designate 1 of the members of the Council as vice chairman, who shall act as chairman in the absence of the chairman.
 
-- **(q)** *Corporation for National and Community Service; Managing Director* Section 194(a)(1) of the National and Community Service Act of 1990 (42 U.S.C. 12651d(a)(1)) is amended by striking “, by and with the advice and consent of the Senate”.
-- **(r)** *National Council on Disability members, including Chairperson* Section 400(a)(1)(A) of the Rehabilitation Act of 1973 (29 U.S.C. 780(a)(1)(A)) is amended by striking “, by and with the advice and consent of the Senate”.
-- **(s)** *National Foundation on the Arts and the Humanities; National Museum and Library Services Board; Members* Section 207(b)(1)(D) of the Museum and Library Services Act (20 U.S.C. 9105a(b)(1)(D)) is amended by striking “, by and with the advice and consent of the Senate”.
-- **(t)** *National Science Foundation; Board Members* Section 4(a) of the National Science Foundation Act of 1950 (42 U.S.C. 1863(a)) is amended by striking “, by and with the advice and consent of the Senate,”.
-- **(u)** *Office of Management and Budget; Controller, Office of Federal Financial Management* Section 504(b) of title 31, United States Code, is amended by striking “, by and with the advice and consent of the Senate,”.
-- **(v)** *Office of National Drug Control Policy; Deputy Directors* Section 704(a)(1) of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1703(a)(1)) is amended to read as follows:
+- **(p)** *Corporation for National and Community Service; Managing Director* Section 194(a)(1) of the National and Community Service Act of 1990 (42 U.S.C. 12651e(a)(1)) is amended by striking “, by and with the advice and consent of the Senate”.
+- **(q)** *National Council on Disability Members* Section 400(a)(1)(A) of the Rehabilitation Act of 1973 (29 U.S.C. 780(a)(1)(A)) is amended by striking “, by and with the advice and consent of the Senate”.
+- **(r)** *National Foundation on the Arts and the Humanities; National Museum and Library Services Board; Members* Section 207(b)(1) of the Museum and Library Services Act (20 U.S.C. 9105a(b)(1)) is amended—
+  - **(1)** in subparagraph (D), by striking “, by and with the advice and consent of the Senate”; and
+  - **(2)** in subparagraph (E), by striking “, by and with the advice and consent of the Senate”.
+- **(s)** *National Science Foundation; Board Members* Section 4(a) of the National Science Foundation Act of 1950 (42 U.S.C. 1863(a)) is amended by striking “, by and with the advice and consent of the Senate,”.
+- **(t)** *Office of National Drug Control Policy; Deputy Directors* Section 704(a)(1) of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1703(a)(1)) is amended to read as follows:
   > - **(1)** *In general*
   >   - **(A)** *Director* The Director shall be appointed by the President, by and with the advice and consent of the Senate, and shall serve at the pleasure of the President.
-  >   - **(B)** *Deputy Directors* The Deputy Director of National Drug Control Policy, Deputy Director for Demand Reduction, the Deputy Director for Supply Reduction, and the Deputy Director for State and Local Affairs shall each be appointed by the President and serve at the pleasure of the President.
+  >   - **(B)** *Deputy Directors* The Deputy Director of National Drug Control Policy, Deputy Director for Demand Reduction, the Deputy Director for Supply Reduction, and the Deputy Director for State, Local, and Tribal Affairs shall each be appointed by the President and serve at the pleasure of the President.
   >   - **(C)** *Deputy Director for Demand Reduction* In appointing the Deputy Director for Demand Reduction under this paragraph, the President shall take into consideration the scientific, educational, or professional background of the individual, and whether the individual has experience in the fields of substance abuse prevention, education, or treatment.
 
-- **(w)** *Office of Navajo and Hopi Relocation; Commissioner* Section 12(b)(1) of Public Law 93–531 (25 U.S.C. 640d–11(b)(1)) is amended by striking “by and with the advice and consent of the Senate”.
-- **(x)** *Office of Science and Technology Policy; Associate Directors* Section 203 of the National Science and Technology Policy, Organization, and Priorities Act of 1976 (42 U.S.C. 6612) is amended in the second sentence by striking “, by and with the advice and consent of the Senate,”.
-- **(y)** *United States Agency for International Development*
-  - **(1)** *Assistant Administrator for Legislative and Public Affairs* Notwithstanding section 624(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2384(a)), the appointment by the President of the Assistant Administrator for Legislative and Public Affairs at the United States Agency for International Development shall not be subject to the advice and consent of the Senate.
-  - **(2)** *Assistant Administrator for Management* Notwithstanding section 624(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2384(a)), the appointment by the President of the Assistant Administrator for Management at the United States Agency for International Development shall not be subject to the advice and consent of the Senate.
-- **(z)** *Community Development Financial Institution Fund; Administrator* Section 104(b)(1) of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4703(b)(1)) is amended by striking “, by and with the advice and consent of the Senate”.
-- **(aa)** *Department of Transportation; St. Lawrence Seaway Development Corporation; Administrator* Subsection (a) of section 2 of the Act of May 13, 1954, referred to as the Saint Lawrence Seaway Act (33 U.S.C. 982(a)) is amended by striking “, by and with the advice and consent of the Senate,”.
-- **(bb)** *Mississippi River Commission; Commissioner* Section 2 of the Act of June 28, 1879 (33 U.S.C. 642), is amended in the first sentence by striking “, by and with the advice and consent of the Senate,”.
-- **(cc)** *Governor and Alternate Governor of the African Development Bank*
-  - **(1)** *In general* Section 1333(a) of the African Development Bank Act (22 U.S.C. 290i–1(a)) is amended by striking “, by and with” and all that follows through “Bank” and inserting “shall appoint a Governor and an Alternate Governor”.
+- **(u)** *Office of Navajo and Hopi Relocation; Commissioner* Section 12(b)(1) of Public Law 93–531 (25 U.S.C. 640d–11(b)(1)) is amended by striking “by and with the advice and consent of the Senate”.
+- **(v)** *United States Agency for International Development*
+  - **(1)** *Assistant Administrator for Management* Notwithstanding section 624(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2384(a)), the appointment by the President of the Assistant Administrator for Management at the United States Agency for International Development shall not be subject to the advice and consent of the Senate.
+- **(w)** *Community Development Financial Institution Fund; Administrator* Section 104(b)(1) of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4703(b)(1)) is amended by striking “, by and with the advice and consent of the Senate”.
+- **(x)** *Department of Transportation; St. Lawrence Seaway Development Corporation; Administrator* Subsection (a) of section 2 of the Act of May 13, 1954, referred to as the Saint Lawrence Seaway Act (33 U.S.C. 982(a)) is amended by striking “, by and with the advice and consent of the Senate, for a term of seven years”.
+- **(y)** *Mississippi River Commission; Commissioner* Section 2 of the Act of June 28, 1879 (33 U.S.C. 642), is amended in the first sentence by striking “, by and with the advice and consent of the Senate,”.
+- **(z)** *Governor and Alternate Governor of the African Development Bank*
+  - **(1)** *In general* Section 1333 of the African Development Bank Act (22 U.S.C. 290i–1) is amended—
+    - **(A)** by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and
+    - **(B)** by striking “(a) The President” and all that follows through “The term of office” and inserting the following:
+      > - **(a)** The President shall appoint a Governor and an Alternate Governor of the Bank—
+      >   - **(1)** by and with the advice and consent of the Senate; or
+      >   - **(2)** from among individuals serving as officials required by law to be appointed by and with the advice and consent of the Senate.
+      > - **(b)** The term of office
+
   - **(2)** *Conforming amendments* Section 1334 of such Act (22 U.S.C. 290i–2) is amended—
     - **(A)** by striking “The Director or Alternate Director” and inserting the following:
       > - **(b)** The Director or Alternate Director
@@ -186,32 +147,57 @@ This Act may be cited as the “Presidential Appointment Efficiency and Streamli
     - **(B)** by inserting before subsection (b), as redesignated, the following:
       > - **(a)** The President, by and with the advice and consent of the Senate, shall appoint a Director of the Bank.
 
-- **(dd)** *Governor and Alternate Governor of the Asian Development Bank* Section 3(a) of the Asian Development Bank Act (22 U.S.C. 285a(a)) is amended by striking “, by and with” and all that follows through the end period and inserting “shall appoint—”
-  > - **(1)** a Governor of the Bank and an alternate for the Governor; and
-  > - **(2)** by and with the advice and consent of the Senate, a Director of the Bank.
+- **(aa)** *Governor and Alternate Governor of the Asian Development Bank* Section 3(a) of the Asian Development Bank Act (22 U.S.C. 285a(a)) is amended to read as follows:
+  > - **(a)** The President shall appoint—
+  >   - **(1)** a Governor of the Bank and an alternate for the Governor—
+  >     - **(A)** by and with the advice and consent of the Senate; or
+  >     - **(B)** from among individuals serving as officials required by law to be appointed by and with the advice and consent of the Senate; and
+  >   - **(2)** a Director of the Bank, by and with the advice and consent of the Senate.
 
-- **(ee)** *Governors and alternate governors of the International Monetary Fund and the International Bank for Reconstruction and Development* Section 3 of the Bretton Woods Agreements Act (22 U.S.C. 286a) is amended—
-  - **(1)** in subsection (a), by striking “, by and with the advice and consent of the Senate, shall appoint a governor of the Fund who shall also serve as governor of the Bank, and an executive director” and inserting “shall appoint a governor of the Fund who shall also serve as governor of the Bank and, by and with the advice and consent of the Senate, an executive director”; and
-  - **(2)** in subsection (b), by striking “, by and with the advice and consent of the Senate,” the first place it appears.
-- **(ff)** *Governor and Alternate Governor of the African Development Fund* Section 203(a) of the African Development Fund Act (22 U.S.C. 290g–1(a)) is amended by striking “, by and with the advice and consent of the Senate,”.
-- **(gg)** *National Board for Education Sciences; Members* Section 116(c)(1) of the Education Sciences Reform Act of 2002 (20 U.S.C. 9516(c)(1)) is amended by striking “, by and with the advice and consent of the Senate”.
-- **(hh)** *National Institute for Literacy Advisory Board; Members* Section 242(e)(1)(A) of the Adult Education and Family Literacy Act (20 U.S.C. 9252(e)(1)(A)) is amended by striking “with the advice and consent of the Senate”.
-- **(ii)** *Institute of American Indian and Alaska Native Culture and Arts Development; Member, Board of Trustees* Section 1505 of the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act (20 U.S.C. 4412(a)(1)(A)) is amended by striking “by and with the advice and consent of the Senate”.
-- **(jj)** *Federal Coordinator for Alaska Natural Gas Transportation Projects* Section 106(b)(1) of the Alaska Natural Gas Pipeline Act (division C of Public Law 108–324; 15 U.S.C. 720d(b)(1)) is amended by striking “, by and with the advice and consent of the Senate,”.
-- **(kk)** *Public Health Service Commissioned Officer Corps*
+- **(bb)** *Governor and Alternate Governor of the African Development Fund* Section 203(a) of the African Development Fund Act (22 U.S.C. 290g–1(a)) is amended to read as follows:
+  > - **(a)** The President shall appoint a Governor, and an Alternate Governor, of the Fund—
+  >   - **(1)** by and with the advice and consent of the Senate; or
+  >   - **(2)** from among individuals serving as officials required by law to be appointed by and with the advice and consent of the Senate.
+
+- **(cc)** *National Board for Education Sciences; Members* Section 116(c)(1) of the Education Sciences Reform Act of 2002 (20 U.S.C. 9516(c)(1)) is amended by striking “, by and with the advice and consent of the Senate”.
+- **(dd)** *National Institute for Literacy Advisory Board; Members* Section 242(e)(1)(A) of the Adult Education and Family Literacy Act (20 U.S.C. 9252(e)(1)(A)) is amended by striking “with the advice and consent of the Senate”.
+- **(ee)** *Institute of American Indian and Alaska Native Culture and Arts Development; Member, Board of Trustees* Section 1505 of the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act (20 U.S.C. 4412(a)(1)(A)) is amended by striking “by and with the advice and consent of the Senate”.
+- **(ff)** *Public Health Service Commissioned Officer Corps*
   - **(1)** *Appointment* Section 203(a)(3) of the Public Health Service Act (42 U.S.C. 204(a)(3)) is amended by striking “with the advice and consent of the Senate”.
   - **(2)** *Promotions* Section 210(a) of the Public Health Service Act (42 U.S.C. 211(a)) is amended by striking “, by and with the advice and consent of the Senate”.
-- **(ll)** *National Oceanic and Atmospheric Administration Commissioned Officer Corps*
+- **(gg)** *National Oceanic and Atmospheric Administration Commissioned Officer Corps*
   - **(1)** *Appointments and promotions to permanent grades* Section 226 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (33 U.S.C. 3026) is amended by striking “, by and with the advice and consent of the Senate”.
   - **(2)** *Positions of importance and responsibility* Section 228(d)(1) of such Act (33 U.S.C. 3028(d)(1)) is amended by striking “, by and with the advice and consent of the Senate”.
   - **(3)** *Temporary appointments and promotions generally* Section 229 of such Act (33 U.S.C. 3029) is amended—
     - **(A)** by striking “alone” each place it appears; and
     - **(B)** in subsection (a), in the second sentence, by striking “unless the Senate sooner gives its advice and consent to the appointment”.
-- **(mm)** *Chief financial officer positions* Section 901(a)(1) of title 31, United States Code, is amended by striking subparagraphs (A) and (B) and inserting the following:
-  > - **(A)** be appointed by the President; or
-  > - **(B)** be designated by the President, in consultation with the head of the agency, from among officials of the agency who are required by law to be appointed by the President, whether or not by and with the advice and consent of the Senate;
+- **(hh)** *Rule of construction* Notwithstanding section 3132(a)(2) of title 5, United States Code, removal of Senate confirmation for any position in this section shall not—
+  - **(1)** result in any such position being placed in the Senior Executive Service; or
+  - **(2)** alter compensation for any such position under the Executive Schedule or other applicable compensation provisions of law.
 
-## § 3. Working Group on streamlining paperwork for executive nominations
+## § 3. Appointment of the Director of the Census
+
+- **(a)** *In general* Section 21 of the title 13, United States Code, is amended to read as follows:
+  > ## § 21. Director of the Census; duties
+  >
+  > - **(a)** *Appointment*
+  >   - **(1)** *In general* The Bureau shall be headed by a Director of the Census, appointed by the President, by and with the advice and consent of the Senate, without regard to political affiliation.
+  >   - **(2)** *Qualifications* Such appointment shall be made from individuals who have a demonstrated ability in managing large organizations and experience in the collection, analysis, and use of statistical data.
+  > - **(b)** *Term of office*
+  >   - **(1)** *In general* The term of office of the Director shall be 5 years, and shall begin on January 1, 2012, and every fifth year thereafter. An individual may not serve more than 2 full terms as Director.
+  >   - **(2)** *Vacancies* Any individual appointed to fill a vacancy in such position, occurring before the expiration of the term for which such individual's predecessor was appointed, shall be appointed for the remainder of that term. The Director may serve after the end of the Director's term until reappointed or until a successor has been appointed, but in no event longer than 1 year after the end of such term.
+  >   - **(3)** *Removal* An individual serving as Director may be removed from office by the President. The President shall communicate in writing the reasons for any such removal to both Houses of Congress not later than 60 days before the removal.
+  >   - **(4)** *Personnel actions* Except as provided under paragraph (3), nothing in this subsection shall prohibit a personnel action otherwise authorized by law with respect to the Director of the Census, other than removal.
+  > - **(c)** *Duties* The Director shall perform such duties as may be imposed upon the Director by law, regulations, or orders of the Secretary.
+
+- **(b)** *Transition rules*
+  - **(1)** *Appointment of initial Director* The initial Director of the Bureau of the Census shall be appointed in accordance with the provisions of section 21(a) of title 13, United States Code, as amended by subsection (a).
+  - **(2)** *Interim role of current Director of the Census after date of enactment* If, as of January 1, 2012, the initial Director of the Bureau of the Census has not taken office, the officer serving on December 31, 2011, as Director of the Census (or Acting Director of the Census, if applicable) in the Department of Commerce—
+    - **(A)** shall serve as the Director of the Bureau of the Census; and
+    - **(B)** shall assume the powers and duties of such Director for one term beginning January 1, 2012, as described in section 21(b) of such title, as so amended.
+- **(c)** *Technical and conforming amendments* Not later than January 1, 2012, the Secretary of Commerce, in consultation with the Director of the Census, shall submit to each House of the Congress draft legislation containing any technical and conforming amendments to title 13, United States Code, and any other provisions which may be necessary to carry out the purposes of this section.
+
+## § 4. Working Group on streamlining paperwork for executive nominations
 
 - **(a)** *Establishment* There is established the Working Group on Streamlining Paperwork for Executive Nominations (in this section referred to as the “Working Group”).
 - **(b)** *Membership*
@@ -270,6 +256,25 @@ This Act may be cited as the “Presidential Appointment Efficiency and Streamli
 - **(f)** *Non-Applicability of Federal Advisory Committee Act* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Working Group established under this section.
 - **(g)** *Termination of the Working Group* The Working Group shall terminate 60 days after the date on which the Working Group submits the latter of the 2 reports under this section.
 
-## § 4. Effective date
+## § 5. Report on Presidentially appointed positions
 
-The amendments made by this Act shall take effect 60 days after the date of enactment of this Act and apply to appointments made on and after that effective date, including any nomination pending in the Senate on that date.
+- **(a)** *Definitions* In this section—
+  - **(1)** the term agency means an Executive agency defined under section 105 of title 5, United States Code; and
+  - **(2)** the term covered position means a position in an agency that requires appointment by the President without the advice and consent of the Senate.
+- **(b)** *In general* Not later than 180 days after the date of enactment of this Act, the Government Accountability Office shall conduct a study and submit a report on covered positions to Congress and the President.
+- **(c)** *Contents* The report submitted under this section shall include—
+  - **(1)** a determination of the number of covered positions in each agency;
+  - **(2)** an evaluation of whether maintaining the total number of covered positions is necessary;
+  - **(3)** an evaluation of the benefits and disadvantages of—
+    - **(A)** eliminating certain covered positions;
+    - **(B)** converting certain covered positions to career positions or positions in the Senior Executive Service that are not career reserved positions; and
+    - **(C)** converting any categories of covered positions to career positions;
+  - **(4)** the identification of—
+    - **(A)** covered positions described under paragraph (3)(A) and (B); and
+    - **(B)** categories of covered positions described under paragraph (3)(C); and
+  - **(5)** any other recommendations relating to covered positions.
+
+## § 6. Effective date
+
+- **(a)** *Presidential appointments not subject to Senate approval* The amendments made by section 2 shall take effect 60 days after the date of enactment of this Act and apply to appointments made on and after that effective date, including any nomination pending in the Senate on that date.
+- **(b)** *Director of the Census and Working Group* The provisions of sections 3 and 4 (including any amendments made by those sections) shall take effect on the date of enactment of this Act.
