@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 165
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 165
@@ -16,7 +16,7 @@ A resolution designating July 23, 2011, as "National Day of the American Cowboy"
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Baucus, Max [D-MT] (B000243)
@@ -30,6 +30,7 @@ A resolution designating July 23, 2011, as "National Day of the American Cowboy"
 - Sen. Reid, Harry [D-NV] (R000146)
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Hoeven, John [R-ND] (H001061)
 
 ## Committees (1)
 
@@ -39,3 +40,7 @@ A resolution designating July 23, 2011, as "National Day of the American Cowboy"
 
 - 2011-05-05 — Introduced in Senate
 - 2011-05-05 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2744)
+- 2011-06-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S4304)
+- 2011-06-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S4304)
+- 2011-06-30 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4304)
+- 2011-06-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4304)
