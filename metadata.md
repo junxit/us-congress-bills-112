@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2055
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2055
@@ -139,3 +139,7 @@ Consolidated Appropriations Act, 2012
 - 2011-06-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 411 - 5 (Roll no. 418).
 - 2011-06-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4105-4106)
 - 2011-06-15 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2011-06-30 — Committee on Appropriations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2011-06-30 — Committee on Appropriations. Reported by Senator Johnson SD, with an amendment in the nature of a substitute. With written report No. 112-29.
+- 2011-06-30 — Committee on Appropriations. Reported by Senator Johnson SD, with an amendment in the nature of a substitute. With written report No. 112-29.
+- 2011-06-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 91.
