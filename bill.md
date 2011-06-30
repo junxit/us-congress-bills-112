@@ -1,0 +1,176 @@
+---
+legis-num: S. 1306
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1306
+
+> To provide for secondary school reform.
+
+## § 1. Short title
+
+This Act may be cited as the “Secondary School Reform Act of 2011 ”.
+
+## § 2. Secondary School Reform
+
+- **(a)** *Purpose* The purpose of this section is to ensure students graduate from secondary school with the knowledge and skills needed to succeed in college and the workforce and to increase graduation rates by providing grants to eligible entities to provide schools with the necessary resources to implement innovative and effective secondary school reform strategies.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Competency-based learning model* The term competency-based learning model means an educational model in which students advance upon mastery, educators use explicit and measurable learning objectives to empower students, and assessments are used as a learning experience for students.
+  - **(2)** *Effective secondary school reform strategies* The term effective secondary school reform strategies means a set of programs, interventions, and activities with demonstrated effectiveness in improving the academic achievement of struggling students or dropouts.
+  - **(3)** *Eligible entity* The term eligible entity means a high-need local educational agency in partnership with 1 or more external partners.
+  - **(4)** *Eligible secondary school* The term eligible secondary school means a high school that—
+    - **(A)** is eligible for funds under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.);
+    - **(B)** has a graduation rate below 75 percent;
+    - **(C)** does not receive grant funds under section 1003(g) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6303(g)); and
+    - **(D)** is identified as in need of improvement by a local educational agency based on a district-wide needs analysis and capacity assessment.
+  - **(5)** *External partner* The term external partner means a public or private nonprofit organization, public or private nonprofit institution of higher education, or nonprofit charter management organization, with a demonstrated record of successful secondary school reform.
+  - **(6)** *Feeder middle school* The term feeder middle school means an elementary school or secondary school ending in grade 8 from which a majority of students go on to attend an eligible secondary school.
+  - **(7)** *Secretary* The term Secretary means the Secretary of Education.
+  - **(8)** *Struggling student* The term struggling student means a student who exhibits outcomes or behaviors that indicate the student is at an increased risk for low academic achievement and is unlikely to achieve secondary school graduation in the standard number of years.
+- **(c)** *Grants authorized*
+  - **(1)** *In general*
+    - **(A)** *Reservation*
+      - **(i)** *In general* From the total amount of funds appropriated to carry out this section for a fiscal year, the Secretary may reserve not more than 2.5 percent for national activities, which the Secretary shall use for technical assistance, data collection and dissemination, reporting activities, and the evaluation described in clause (ii).
+      - **(ii)** *Evaluation* From the amount reserved under clause (i), the Director of the Institute of Education Sciences shall conduct an evaluation of the impact of the activities carried out under this section.
+    - **(B)** *Grants* From the total amount of funds appropriated to carry out this section for a fiscal year and not reserved under subparagraph (A), the Secretary shall award grants, on a competitive basis, to eligible entities, based on the quality of the applications submitted, of which—
+      - **(i)** not more than 25 percent of grant funds shall be used for activities described in subsection (e)(1); and
+      - **(ii)** not less than 75 percent of grant funds shall be used for activities described in paragraphs (2) and (3) of subsection (e) and subsection (f).
+  - **(2)** *Grant duration* Grants awarded under this section shall be for a period of 5 years, conditional after 3 years on satisfactory progress on the performance indicators described in subsection (d)(2)(E).
+  - **(3)** *Annual report* Each eligible entity that receives a grant under this section shall submit to the Secretary, at such time and in such manner as the Secretary may require, an annual report including data on the entity's progress on the performance indicators described in subsection (d)(2)(E).
+- **(d)** *Application*
+  - **(1)** *In general* An eligible entity that desires a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
+  - **(2)** *Contents* Each application submitted under paragraph (1) shall include, at a minimum, a description of the following:
+    - **(A)** How the eligible entity will use funds awarded under this section to carry out the activities described in subsection (e)(1).
+    - **(B)** The external partner’s capacity and record of success in secondary school reform and how the eligible entity will sustain the activities proposed, including the availability of funds from non-Federal sources and coordination with other funding sources.
+    - **(C)** How the eligible entity conducted a comprehensive needs analysis and capacity assessment of the secondary schools served by the eligible entity to identify eligible secondary schools. The needs analysis and capacity assessment shall carry out the following:
+      - **(i)** Examine each secondary school’s data in the aggregate and disaggregated by each of the categories of students described in section 1111(b)(2)(C)(v)(II) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(C)(v)(II)) on the following:
+        - **(I)** Graduation rate and characteristics of those students that are not graduating, including such students' attendance, behavior, suspension rates, course performance, and credit accumulation rates.
+        - **(II)** Rates of dropout recovery (re-entry).
+        - **(III)** Rates of college remediation, enrollment, persistence, and completion.
+        - **(IV)** Performance with respect to measures of career success.
+      - **(ii)** Examine each secondary school and feeder middle school's data in the aggregate, and disaggregated by each of the categories of students described in section 1111(b)(2)(C)(v)(II) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(C)(v)(II)), as applicable, on the following:
+        - **(I)** Student academic achievement, including the percentage of students who have on-time credit accumulation at the end of each grade and the percent of students failing a core, credit-bearing, reading or language arts, science, or mathematics course, or failing 2 or more of any courses.
+        - **(II)** Percent of students who have an attendance rate lower than 90 percent.
+        - **(III)** Annual rates of expulsions, suspensions, school violence, harassment, and bullying.
+        - **(IV)** Annual, average credit accumulation.
+        - **(V)** Annual, average attendance rates.
+        - **(VI)** Annual rates of student mobility.
+        - **(VII)** Curriculum alignment across all grade levels.
+        - **(VIII)** Non-academic barriers that impact student achievement and the availability of student and academic support services to address those barriers.
+      - **(iii)** Examine and include a description of each eligible secondary school’s capacity to implement the school reform activities under subsection (e)(3), including—
+        - **(I)** the number, experience, training level, responsibilities, and stability of existing administrative, instructional, and non-instructional staff for the eligible secondary school;
+        - **(II)** the budget, including how Federal, State, and local funds are being spent, as of the time of the assessment, for instruction and operations at the school level for staff salaries, instructional materials, professional development, and student support services, in order to establish the extent to which existing resources need to and can be reallocated to support the needed eligible secondary school activities; and
+        - **(III)** the technical assistance, additional resources, and staff necessary to implement the activities identified in subsection (e).
+      - **(iv)** Include an assessment of the eligible entity's capacity to provide technical assistance, additional staff, and resources to implement the activities described in subsection (e).
+    - **(D)** The strategies chosen to be implemented at the eligible secondary schools, including—
+      - **(i)** a rationale for reform strategies selected for each of the eligible secondary schools, including how the chosen strategy will most effectively address the needs identified through the needs analysis;
+      - **(ii)** each eligible secondary school’s capacity to implement the chosen reform strategies, including the quality of external partners and the qualifications of school leaders; and
+      - **(iii)** a description of the performance of the eligible secondary schools and feeder middle schools, including the information requested in clauses (i) and (ii) of subparagraph (C).
+    - **(E)** The performance indicators and targets the eligible entity will use to assess the effectiveness of the activities implemented under this section and to determine whether the eligible secondary schools and feeder middle schools will receive funds in years 4 and 5, including, in the aggregate and disaggregated by each of the categories of students described in section 1111(b)(2)(C)(v)(II) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(C)(v)(II)), as applicable, including—
+      - **(i)** graduation rates;
+      - **(ii)** dropout recovery (re-entry) rates;
+      - **(iii)** percentage of students with not less than a 90 percent attendance rate;
+      - **(iv)** percentage of students who have on-time credit accumulation at the end of each grade and the percentage of students failing a core, credit-bearing, reading or language arts, science, or mathematics course, or failing 2 or more of any courses;
+      - **(v)** average annual credit accumulation rates;
+      - **(vi)** rates of expulsions, suspensions, school violence, harassment, and bullying;
+      - **(vii)** annual, average attendance rates;
+      - **(viii)** annual rates of student mobility;
+      - **(ix)** college remediation, enrollment, persistence, and completion rates; and
+      - **(x)** percentage of students successfully—
+        - **(I)** completing Advanced Placement (AP) or International Baccalaureate (IB) courses;
+        - **(II)** completing rigorous postsecondary education courses; or
+        - **(III)** enrolling in and completing, as applicable, career and technical education, registered apprenticeship and workforce training programs.
+- **(e)** *Required uses of funds*
+  - **(1)** *In general* An eligible entity that receives a grant under this section shall use the grant funds to—
+    - **(A)** implement an early warning indicator and intervention system to help all middle schools and high schools served by the eligible entity's local educational agency to identify struggling students and to create a system of evidence-based interventions to be used by all schools to effectively intervene, by—
+      - **(i)** identifying and analyzing, through the use of longitudinal data of past cohorts of students, the academic and behavioral indicators that most reliably predict dropping out of secondary school, such as attendance, behavior, academic performance in core courses, and earned on time promotion from grade-to-grade;
+      - **(ii)** analyzing the distribution of struggling students in secondary schools across all grades;
+      - **(iii)** analyzing student progress and performance on the indicators identified under clause (i) to guide decisionmaking;
+      - **(iv)** analyzing academic indicators to determine whether students are on track for on-time secondary school graduation and college and career readiness;
+      - **(v)** analyzing student data to assist students in grade and school transitions from kindergarten through high school graduation; and
+      - **(vi)** developing a mechanism for regularly collecting, reporting, and making accessible to all schools served by the eligible entity—
+        - **(I)** student-level data on the indicators identified under clause (i);
+        - **(II)** student-level progress and performance, as described in clause (iii);
+        - **(III)** student-level data on the indicators described in clause (iv); and
+        - **(IV)** information about the impact of interventions on student outcomes and progress;
+    - **(B)** provide support and credit recovery opportunities for struggling students at secondary schools served by the eligible entity by offering activities, such as—
+      - **(i)** a flexible school schedule to address struggling students’ academic needs;
+      - **(ii)** competency-based learning models and performance-based assessments to improve educational outcomes for over-aged or under-credited students;
+      - **(iii)** an opportunity to work with a teacher in a small group on core academic subjects; and
+      - **(iv)** the provision of support services;
+    - **(C)** provide dropout recovery or re-entry programs to secondary schools that are designed to encourage and support dropouts returning to an educational system, program, or institution following an extended absence in order to obtain a regular secondary school diploma and essential workforce skills by—
+      - **(i)** conducting outreach to students who have dropped out;
+      - **(ii)** making information about effective, local dropout recovery programs publicly available; and
+      - **(iii)** providing school counseling services;
+    - **(D)** provide evidence-based grade and school transition programs and supports from kindergarten through high school graduation, including by ensuring curricula alignment; and
+    - **(E)** provide school leaders, instructional staff, non-instructional staff, students, and families with high-quality, easily accessible information about—
+      - **(i)** secondary school graduation requirements;
+      - **(ii)** postsecondary education application processes;
+      - **(iii)** admissions processes and requirements, including all public financial aid and private scholarship and other grant aid opportunities; and
+      - **(iv)** other programs and services for increasing rates of college access and success for students from low-income families.
+  - **(2)** *Required use of funds in feeder middle schools* An eligible entity that receives a grant under this section shall use the grant funds in feeder middle schools to improve the academic achievement of their students and prepare them for rigorous secondary school course work by taking actions such as—
+    - **(A)** using early warning indicator and intervention systems described in paragraph (1)(A) to inform coordinated academic and behavioral supports to improve outcomes of their students;
+    - **(B)** creating a personalized learning environment by developing an academic plan for each student and assigning not less than 1 adult to each student to help monitor student progress;
+    - **(C)** providing high-quality professional development opportunities to school leaders, teachers, and other school staff to prepare staff to—
+      - **(i)** address the academic challenges of students in middle grades;
+      - **(ii)** understand the developmental needs of students in the middle grades and how to address them in an educational setting;
+      - **(iii)** implement data-driven interventions; and
+      - **(iv)** provide academic guidance to students so the students can achieve the academic goals established in their academic plans; and
+    - **(D)** implementing organizational practices and school schedules that allow for collaborative staff participation, team teaching, and common instructional planning time.
+  - **(3)** *Required use of funds in eligible secondary schools* An eligible entity that receives a grant under this section shall use the grant funds in eligible secondary schools to carry out the following:
+    - **(A)** Personalize the school experience by taking steps such as—
+      - **(i)** creating Academic Support Labs where struggling students can receive personalized instruction and opportunities for credit recovery;
+      - **(ii)** having small classes with a low teacher-student ratio;
+      - **(iii)** implementing competency-based models;
+      - **(iv)** providing ongoing monitoring of student academic achievement and the necessary supports so the students are on track for on-time secondary school graduation and college and career readiness; or
+      - **(v)** cohort or block scheduling.
+    - **(B)** Increase student engagement by providing service-learning, experiential, and work-based and other learning opportunities, such as—
+      - **(i)** rigorous and relevant project-based contextual learning opportunities;
+      - **(ii)** internship opportunities, including work-based internships;
+      - **(iii)** community service, learning apprenticeships, and job shadowing; and
+      - **(iv)** college campus visits, and college and career counseling.
+    - **(C)** Provide school leaders with autonomy through a flexible budget and hiring authority.
+    - **(D)** Implement high-quality professional development for teachers and school leadership teams and provide increased opportunities for teachers to work collaboratively and to participate in common planning, within and across grades and subjects, to improve instruction.
+    - **(E)** Improve curriculum and instruction, by taking actions such as—
+      - **(i)** implementing a college and career ready curriculum for all students;
+      - **(ii)** adopting effective, evidence-based curriculum and instructional materials aligned to high academic standards for all students; and
+      - **(iii)** increasing rigor through Advanced Placement courses, International Baccalaureate courses, or another highly rigorous, evidence-based, postsecondary preparatory program culminating in an examination administered by a nationally recognized educational association, as approved by the Secretary.
+    - **(F)** Develop an individual graduation plan for each student that defines each student’s career and postsecondary education goals, and provides the individualized evidence-based interventions necessary to meet the goals.
+    - **(G)** Implement 1 of the following effective secondary school reform strategies to prepare students for college and a career, and to improve graduation rates:
+      - **(i)** Graduation Promise Academies, which include—
+        - **(I)** 9th grade academies taught by teams of teachers who work with small groups of students;
+        - **(II)** Career Academies for upper grades;
+        - **(III)** extended learning periods, such as cohort or block scheduling, to reduce the number of students for whom teachers are responsible and the number of courses students are taking at any one time;
+        - **(IV)** an after-hours credit recovery program;
+        - **(V)** curriculum coaches who provide high-quality professional development and support;
+        - **(VI)** partnerships among parents, teachers, administrators, community-based organizations, and community members focused on improving student achievement; and
+        - **(VII)** a college-going culture, including student supports and guidance.
+      - **(ii)** Career Academies, which—
+        - **(I)** establish career pathways by implementing a college and career ready curriculum that integrates rigorous academics, career and technical education, and experiential learning for high school students in high-skill, high-demand industries in collaboration with local and regional employers;
+        - **(II)** provide counseling to advance students’ college and career goals;
+        - **(III)** collaborate with local employers to develop and provide work-based experiences for high school students;
+        - **(IV)** establish an advisory committee that includes local and regional employers, nonprofit institutions of higher education, and others, to assist in the Career Academies' development and implementation;
+        - **(V)** modernize career-related equipment utilized by students; and
+        - **(VI)** provide dual enrollment opportunities with college credit-bearing courses, including accelerated certificate programs with community colleges or other industry-recognized certificates.
+      - **(iii)** Early College Schools, which—
+        - **(I)** partner with 1 or more public or nonprofit institutions of higher education;
+        - **(II)** conduct outreach programs to ensure that middle school and high school students and their families are aware of the Early College Schools;
+        - **(III)** design curriculum and sequence of courses in collaboration with teachers from the eligible secondary school and faculty from the partner institution of higher education so that students may simultaneously earn credits towards a high school diploma and either an associate degree or transferable postsecondary education credits toward a postsecondary degree;
+        - **(IV)** coordinate secondary and postsecondary support services, academic calendars, and transportation to allow students to visit and take courses at the institutions of higher education; and
+        - **(V)** provide academic and support services, including financial aid counseling, to enable students to make informed choices about their programs of study and ensure they are on track to college and career readiness.
+- **(f)** *Allowable uses of funds* An eligible entity that receives a grant under this section may use grant funds to—
+  - **(1)** improve community and family engagement in the educational attainment and achievement of struggling students and dropouts by—
+    - **(A)** leveraging community-based services and opportunities to provide every student with the academic and other supports necessary for academic success; and
+    - **(B)** increasing family engagement by providing families with the necessary tools and data to support their children’s academic achievement and navigate the public school system;
+  - **(2)** provide extended learning opportunities, such as—
+    - **(A)** redesigning the school day, week, or year to create extended learning time in core subjects; or
+    - **(B)** utilizing block scheduling to create longer class periods that allow teachers the time to teach in depth and to use a variety of instructional strategies that meet the needs of different kinds of learners;
+  - **(3)** increase student supports through evidence-based use of student advisories, school counseling opportunities, case management, and one-on-one mentoring; and
+  - **(4)** create smaller learning communities.
+- **(g)** *Matching funds*
+  - **(1)** *In general* An eligible entity that receives a grant under this section shall provide matching funds, from non-Federal sources, in an amount equal to not less than 20 percent of the amount of grant funds awarded in the first 3 years of the grant, not less than 50 percent of the amount awarded in the fourth year of the grant, and not less than 75 percent of the amount awarded in the fifth year of the grant, as applicable.
+  - **(2)** *Waiver* The Secretary may waive all or part of the matching requirement described in paragraph (1) for any fiscal year for an eligible entity if the Secretary determines that applying the matching requirement to such eligible entity would result in serious hardship or an inability to carry out the authorized activities described in subsection (e).
+- **(h)** *Supplement not supplant* An eligible entity shall use Federal funds received under this section only to supplement the funds that would, in the absence of such Federal funds, be made available from other Federal and non-Federal sources for the activities described in this section, and not to supplant such funds.
+- **(i)** *Authorization of appropriations* There are authorized to be appropriated to carry out this Act $300,000,000 for fiscal year 2012 and such sums as may be necessary for each of the 5 succeeding fiscal years.
