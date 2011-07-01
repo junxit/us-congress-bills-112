@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1425
 congress: 112
-version: Reference Change House
+version: Reported in House
 ---
 
 # H.R. 1425
@@ -16,7 +16,7 @@ Creating Jobs Through Small Business Innovation Act of 2011
 
 - Rep. Ellmers, Renee L. [R-NC-2] (E000291)
 
-## Cosponsors (11)
+## Cosponsors (26)
 
 - Rep. Altmire, Jason [D-PA-4] (A000362)
 - Rep. Quayle, Benjamin [R-AZ-3] (Q000024)
@@ -29,6 +29,21 @@ Creating Jobs Through Small Business Innovation Act of 2011
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 - Rep. Coble, Howard [R-NC-6] (C000556)
 - Rep. West, Allen B. [R-FL-22] (W000807)
+- Rep. Clarke, Hansen [D-MI-13] (C001085)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Hanna, Richard L. [R-NY-24] (H001051)
+- Rep. Walsh, Joe [R-IL-8] (W000811)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
+- Rep. Mulvaney, Mick [R-SC-5] (M001182)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
 
 ## Committees (3)
 
@@ -50,3 +65,15 @@ Creating Jobs Through Small Business Innovation Act of 2011
 - 2011-05-03 — Rereferred to the Committee on Small Business, and in addition to the Committees on Science, Space, and Technology, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-05-03 — Rereferred to the Committee on Small Business, and in addition to the Committees on Science, Space, and Technology, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-05-03 — Rereferred to the Committee on Small Business, and in addition to the Committees on Science, Space, and Technology, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-05-04 — Committee Consideration and Mark-up Session Held.
+- 2011-05-04 — Ordered to be Reported (Amended) by Voice Vote.
+- 2011-05-11 — Committee Consideration and Mark-up Session Held.
+- 2011-05-11 — Ordered to be Reported (Amended).
+- 2011-05-18 — Referred to the Subcommittee on Emerging Threats and Capabilities.
+- 2011-05-26 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 112-90, Part I.
+- 2011-05-26 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 112-90, Part I.
+- 2011-07-01 — Committee on Armed Services discharged.
+- 2011-07-01 — Committee on Armed Services discharged.
+- 2011-07-01 — Placed on the Union Calendar, Calendar No. 85.
+- 2011-07-01 — Reported (Amended) by the Committee on Small Business. H. Rept. 112-90, Part II.
+- 2011-07-01 — Reported (Amended) by the Committee on Small Business. H. Rept. 112-90, Part II.
