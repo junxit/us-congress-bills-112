@@ -1,7 +1,7 @@
 ---
 measure: H.R. 515
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 515
@@ -31,11 +31,12 @@ Belarus Democracy and Human Rights Act of 2011
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 - Rep. Shimkus, John [R-IL-19] (S000364)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Belarus Democracy and Human Rights Act of 2011
 - 2011-07-06 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
 - 2011-07-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4632-4634)
 - 2011-07-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4632-4634)
+- 2011-07-07 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
