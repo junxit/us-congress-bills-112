@@ -55,3 +55,7 @@ Section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344) is amend
   - **(A)** by striking “(q)” and inserting “(q)(1)”; and
   - **(B)** by adding at the end the following:
     > - **(2)** The Administrator and the head of a department or agency referred to in paragraph (1) shall each submit any comments with respect to an application for a permit under subsection (a) or (e) not later than the 30th day (or the 60th day if additional time is requested) after the date of receipt of an application for a permit under that subsection.
+
+## § 5. Applicability of amendments
+
+The amendments made by this Act shall apply to actions taken on or after the date of enactment of this Act, including actions taken with respect to permit applications that are pending or revised or new standards that are being promulgated as of such date of enactment.

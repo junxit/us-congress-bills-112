@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2018
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -34,13 +34,13 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively; | the bill names no machine-readable US Code section |
 | — | replace | by striking “(4)” and inserting “(4)(A)”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Administrator shall promulgate” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 401(a) of such Act (33 U.S.C. 1341(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 402(c) of such Act (42 U.S.C. 1342(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 402(d) of such Act (33 U.S.C. 1342(d)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(c)” and inserting “(c)(1)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | The first sentence of section 404(g)(1) of such Act (33 U.S.C. 1344(g)(1)) is amended by striking “The Governor of any State desiring to administer its own individual and general permit program for the discharge” and inserting “The Gover… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (m) by striking “ninetieth day” and inserting “30th day (or the 60th day if additional time is requested)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “(q)” and inserting “(q)(1)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
