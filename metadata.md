@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 340
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 340
@@ -20,6 +20,10 @@ Providing for consideration of the bill (H.R. 1309) to extend the authorization 
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2011-07-08 — [House 112-1-533](votes/house-112-1-0533.md) — On Agreeing to the Resolution — **Passed** (269–146)
+
 ## Actions
 
 - 2011-07-07 — All points of order against consideration of the bill are waived. All points of order against the committee amendment in the nature of a substitute are waived.
@@ -27,3 +31,11 @@ Providing for consideration of the bill (H.R. 1309) to extend the authorization 
 - 2011-07-07 — Placed on the House Calendar, Calendar No. 51.
 - 2011-07-07 — The House Committee on Rules reported an original measure, H. Rept. 112-138, by Mr. Sessions.
 - 2011-07-07 — The House Committee on Rules reported an original measure, H. Rept. 112-138, by Mr. Sessions.
+- 2011-07-08 — Considered as privileged matter. (consideration: CR H4757-4762)
+- 2011-07-08 — Considered as unfinished business. (consideration: CR H4772-4773)
+- 2011-07-08 — DEBATE - The House proceeded with one hour of debate on H. Res. 340.
+- 2011-07-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-07-08 — On agreeing to the resolution Agreed to by the Yeas and Nays: 269 - 146 (Roll no. 533). (text: CR H4757)
+- 2011-07-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 340, the Chair put the question on adoption of the resolution and by voice vote announced that the ayes had prevailed. Mr. McGovern demanded the yeas and nays, and the Chair postponed further proceedings on adoption of the resolution until later in the legislative day.
+- 2011-07-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 269 - 146 (Roll no. 533).(text: CR H4757)
+- 2011-07-08 — The previous question was ordered without objection. (consideration: CR H4762)
