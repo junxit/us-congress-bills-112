@@ -1,7 +1,7 @@
 ---
 measure: H.R. 398
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 398
@@ -34,3 +34,11 @@ To amend the Immigration and Nationality Act to toll, during active-duty service
 - 2011-01-24 — Referred to the Committee on the Judiciary, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-01-24 — Referred to the Committee on the Judiciary, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-01-24 — Referred to the Subcommittee on Immigration Policy and Enforcement.
+- 2011-01-26 — Committee Consideration and Mark-up Session Held.
+- 2011-01-26 — Ordered to be Reported by Voice Vote.
+- 2011-01-26 — Subcommittee on Immigration Policy and Enforcement Discharged.
+- 2011-07-08 — Committee on The Budget discharged.
+- 2011-07-08 — Committee on The Budget discharged.
+- 2011-07-08 — Placed on the Union Calendar, Calendar No. 89.
+- 2011-07-08 — Reported by the Committee on Judiciary. H. Rept. 112-141, Part I.
+- 2011-07-08 — Reported by the Committee on Judiciary. H. Rept. 112-141, Part I.
