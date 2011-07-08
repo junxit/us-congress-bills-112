@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 337
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 337
@@ -27,3 +27,8 @@ Providing for consideration of the bill (H.R. 2354) making appropriations for en
 - 2011-07-06 — Placed on the House Calendar, Calendar No. 50.
 - 2011-07-06 — The House Committee on Rules reported an original measure, H. Rept. 112-135, by Mr. Webster.
 - 2011-07-06 — The House Committee on Rules reported an original measure, H. Rept. 112-135, by Mr. Webster.
+- 2011-07-08 — Considered as privileged matter. (consideration: CR H4762-4765)
+- 2011-07-08 — DEBATE - The House proceeded with one hour of debate on H. Res. 337.
+- 2011-07-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-07-08 — On agreeing to the resolution Agreed to by voice vote. (text: CR H4762)
+- 2011-07-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H4762)
