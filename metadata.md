@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2219
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2219
@@ -16,9 +16,10 @@ Department of Defense Appropriations Act, 2012
 
 - Rep. Young, C. W. Bill [R-FL-10] (Y000031)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (37)
 
@@ -682,3 +683,4 @@ Department of Defense Appropriations Act, 2012
 - 2011-07-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4771)
 - 2011-07-08 — The previous question was ordered pursuant to the rule. (consideration: CR H4770)
 - 2011-07-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-07-11 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
