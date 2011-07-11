@@ -25,7 +25,7 @@ This Act may be cited as the “Department of Energy Carbon Capture and Sequestr
   >     - **(A)** the Secretary of Agriculture (acting through the Chief of the Forest Service), with respect to National Forest System land; and
   >     - **(B)** the Secretary of the Interior, with respect to land managed by the Bureau of Land Management (including land held for the benefit of an Indian tribe).
   > - **(b)** *Program* In addition to the research, development, and demonstration program authorized by section 963, the Secretary shall carry out a program to demonstrate the commercial application of integrated systems for the capture, injection, monitoring, and long-term geological storage of carbon dioxide from industrial sources.
-  > - **(c)** *Authorized assistance* In carrying out the program, the Secretary may enter into cooperative agreements to provide financial and technical assistance to up to 10 demonstration projects.
+  > - **(c)** *Authorized assistance* In carrying out the program, the Secretary may enter into cooperative agreements to provide financial and technical assistance to up to 10 large-scale demonstration projects.
   > - **(d)** *Project selection* The Secretary shall competitively select recipients of cooperative agreements under this section from among applicants that—
   >   - **(1)** provide the Secretary with sufficient geological site information (including hydrogeological and geophysical information) to establish that the proposed geological storage unit is capable of long-term storage of the injected carbon dioxide, including—
   >     - **(A)** the location, extent, and storage capacity of the geological storage unit at the site into which the carbon dioxide will be injected;
@@ -48,14 +48,14 @@ This Act may be cited as the “Department of Energy Carbon Capture and Sequestr
   >     - **(A)**
   >       - **(i)** maintaining financial assurances during the post-injection closure and monitoring phase until a certificate of closure is issued by the Secretary; and
   >       - **(ii)** promptly undertaking remediation activities for any leak from the geological storage unit that would endanger public health or safety or natural resources; and
-  >     - **(B)** complying with subsection (f);
+  >     - **(B)** complying with the requirements of subsection (f);
   >   - **(6)** comply with applicable long-term care requirements;
   >   - **(7)** maintain financial protection in a form and in an amount acceptable to—
   >     - **(A)** the Secretary;
   >     - **(B)** the Secretary with jurisdiction over the land; and
   >     - **(C)** the Administrator of the Environmental Protection Agency; and
   >   - **(8)** provide the assurances described in section 963(c)(4)(B).
-  > - **(f)** *Post injection closure and monitoring elements* In assessing whether a project complies with site closure requirements under subsection (e)(5), the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall determine whether the recipient of financial assistance has demonstrated continuous compliance with each of the following over a period of not less than 10 consecutive years after the plume of carbon dioxide has stabilized within the geologic formation that comprises the geologic storage unit following the cessation of injection activities:
+  > - **(f)** *Post injection closure and monitoring elements* In assessing whether a project complies with site closure requirements under subsection (e)(5), the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall determine whether the recipient of financial assistance has demonstrated continuous compliance with each of the following requirements over a period of not less than 10 consecutive years after the plume of carbon dioxide has stabilized within the geologic formation that comprises the geologic storage unit following the cessation of injection activities:
   >   - **(1)** The estimated location and extent of the project footprint (including the detectable plume of carbon dioxide and the area of elevated pressure resulting from the project) has not substantially changed and is contained within the geologic storage unit.
   >   - **(2)** The injection zone formation pressure has ceased to increase following cessation of carbon dioxide injection into the geologic storage unit.
   >   - **(3)** There is no leakage of either carbon dioxide or displaced formation fluid from the geologic storage unit that is endangering public health and safety, including underground sources of drinking water and natural resources.
@@ -114,3 +114,27 @@ This Act may be cited as the “Department of Energy Carbon Capture and Sequestr
 
 - **(a)** *Establishment* The Secretary of Energy, in consultation with the Administrator of the Environmental Protection Agency and the Secretary of Transportation, shall establish a program to provide grants for employee training purposes to State and tribal agencies involved in permitting, management, inspection, and oversight of carbon capture, transportation, and storage projects.
 - **(b)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary of Energy to carry out this section $10,000,000 for each of fiscal years 2010 through 2020.
+- **(c)** *Offset* Section 708 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17256) is repealed.
+
+## § 4. Annual Department of Energy assessment
+
+- **(a)** *In general*
+  - **(1)** *Department of Energy report* Not later than 1 year after the date of enactment of this Act and annually thereafter until the Secretary of Energy (referred to in this section as the “Secretary”) determines that technology preventing the emission of, capturing, transporting, permanently storing or sequestering, or putting to beneficial use carbon dioxide is available to the commercial marketplace, the Secretary shall conduct an assessment in accordance with subsection (b) of the existing Federal programs supporting such technology and submit to the appropriate authorizing and appropriating committees of Congress a report on the results of the assessment.
+  - **(2)** *Government Accountability Office review* Not later than 1 year after the first report is provided to the appropriate authorizing and appropriating committees of Congress under paragraph (1) and subsequently as needed until technology preventing the emission of, capturing, transporting, permanently storing or sequestering, and putting to beneficial use carbon dioxide is available to the commercial marketplace, the Comptroller General of the United States shall conduct a review of the report described in paragraph (1) in accordance with subsection (c).
+- **(b)** *Department of Energy report requirements* The Secretary shall include in the report required under subsection (a)(1)—
+  - **(1)** a detailed description of the existing programs, including each major program area, that conduct or support research, development, demonstration, and deployment of technology—
+    - **(A)** to prevent the emission of carbon dioxide or capture of carbon dioxide from sources, including fossil fuel-based power plants;
+    - **(B)** to transport carbon dioxide;
+    - **(C)** to store or sequester captured carbon dioxide permanently; or
+    - **(D)** to put captured carbon dioxide to beneficial use;
+  - **(2)** an assessment, based on Federal Government laboratory research experience, available industry research experience, and such other data and information as the Secretary considers useful and appropriate, to determine whether each major program area and principal projects within the areas described in paragraph (1) are designed to, and will, advance fundamental knowledge or achieve significant technical advancement and materially improve the technology base to effectively address the prevention of carbon dioxide emissions or capture of carbon dioxide or the transport, permanent storage, or beneficial use of captured carbon dioxide;
+  - **(3)** an assessment of the estimated time frame and costs of the Secretary necessary to reasonably conclude that technology will be available to the commercial marketplace; and
+  - **(4)** an assessment of the barriers and solutions, including policy recommendations, to financing large carbon capture and storage demonstration projects with a focus on overcoming the impacts of oil price volatility on enhanced oil recovery contracts for carbon dioxide.
+- **(c)** *Government Accountability Office review requirements* The Comptroller General of the United States shall include in the review required under subsection (a)(2)—
+  - **(1)** an analysis of the estimated time frames and costs of the Secretary, as reported pursuant to subsection (b)(3);
+  - **(2)** any recommendations that the Comptroller General considers appropriate and useful to improve the likelihood of achieving technological advancements to mitigate carbon dioxide emissions or to expedite the availability of carbon capture and sequestration technology for the commercial marketplace;
+  - **(3)** an assessment of any legal or regulatory impediment by any Federal agency or department that has arisen in relation to the deployment of carbon capture and storage technology, including any delays in the permitting of the technology or the construction or operation of any the facility; and
+  - **(4)** any other analyses the Comptroller General considers necessary or appropriate.
+- **(d)** *Budget request report* In the case of the budget request for fiscal year 2013, the President shall include in the budget request of the Secretary for the Fossil Energy Program a report that—
+  - **(1)** assesses the progress of the Secretary in implementing the recommendations of the Comptroller General of the United States and compares the estimated costs of completing implementation of those recommendations to the requested budget levels; and
+  - **(2)** an assessment of the progress made for the preceding fiscal year toward achieving the goals of the program for which funding is requested.

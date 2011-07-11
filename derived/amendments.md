@@ -1,7 +1,7 @@
 ---
 measure: S. 699
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -38,3 +38,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (c) (as so redesignated), by striking “subsection (a)” and inserting “subsection (b)”; and | the bill names no machine-readable US Code section |
 | — | redesignate | in subsection (d)(3) (as so redesignated), by striking subparagraph (D). | the bill names no machine-readable US Code section |
 | — | replace | Sections 703(a)(3) and 704 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17251(a)(3), 17252) are amended by striking “section 963(c)(3) of the Energy Policy Act of 2005 (42 U.S.C. 16293(c)(3))” each place it appears and … | the bill names no machine-readable US Code section |
+| — | repeal | Section 708 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17256) is repealed. | the bill names no machine-readable US Code section |
