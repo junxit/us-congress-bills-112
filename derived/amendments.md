@@ -1,7 +1,7 @@
 ---
 measure: S. 757
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 1008 of the Energy Policy Act of 2005 (42 U.S.C. 16396) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (b) as subsection (c); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “There is” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “this section” and inserting “subsection (a)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2013” and inserting “2011 and $195,000,000 for each of fiscal years 2012 and 2013”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
