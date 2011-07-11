@@ -31,31 +31,39 @@ Section 633(a) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17
 Section 633 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17212) is amended by adding at the end the following:
 
 > - **(c)** *Test facilities*
->   - **(1)** *In general* In carrying out this section, not later than 180 days after the date of enactment of this subsection, the Secretary shall award competitive grants to support 3 or more geographically dispersed marine and hydrokinetic renewable energy technology research, development, and demonstration test facilities for the demonstration of multiple technologies in actual operating environments.
->   - **(2)** *Facilities* Grants under this subsection may support—
+>   - **(1)** *In general* In carrying out this section, not later than 180 days after the date of enactment of this subsection, the Secretary shall award competitive grants to support 34 or more geographically dispersed marine and hydrokinetic renewable energy technology research, development, and demonstration test facilities for the demonstration of multiple technologies in actual operating environmentsoperating marine environments (including industry demonstrations).
+>   - **(2)** *Preference* In awarding competitive grants under this subsection, the Secretary shall give preference to existing marine and hydrokinetic testing facilities and existing Centers established under section 634.
+>   - **(2)(3)** *Facilities* Grants under this subsection may support—
 >     - **(A)** modification of an existing facility (including a Center established under section 634); or
 >     - **(B)** construction of a new test facility.
->   - **(3)** *Program objectives* In awarding grants under this subsection, the Secretary shall provide for the demonstration of—
+>   - **(3)(4)** *Program objectives* In awarding grants under this subsection, the Secretary shall provide for the demonstration of—
 >     - **(A)** a variety of technologies at each test facility;
 >     - **(B)** a variety of technologies among all of the test facilities established; and
 >     - **(C)** technologies on a variety of scales.
->   - **(4)** *Activities* Each test facility established under this subsection shall—
+>   - **(4)(5)** *Activities* Each test facility established under this subsection shall—
 >     - **(A)** provide infrastructure and resources for the evaluation and technical viability testing of marine and hydrokinetic renewable energy technologies; and
 >     - **(B)** conduct and support research, development, and demonstration activities with respect to marine and hydrokinetic renewable energy technologies.
->   - **(5)** *Eligibility* To be eligible for a grant under this subsection, an applicant for a grant shall—
+>   - **(5)(6)** *Eligibility* To be eligible for a grant under this subsection, an applicant for a grant shall—
 >     - **(A)** be—
 >       - **(i)** a nonprofit institution;
 >       - **(ii)** a State or local government;
 >       - **(iii)** an institution of higher education;
 >       - **(iv)** a National Laboratory; or
 >       - **(v)** a Center established under section 634; and
+>       - **(iv)** a university consortium;
+>       - **(v)** a National Laboratory; or
+>       - **(vi)** a Center established under section 634; and
 >     - **(B)** demonstrate to the satisfaction of the Secretary the ability and intention to—
 >       - **(i)** combine expertise from relevant academic fields, including fields relating to—
 >         - **(I)** the environment;
->         - **(II)** marine sciences;
+>         - **(II)** marine and riverine sciences;
 >         - **(III)** energy; and
 >         - **(IV)** electrical, mechanical, and civil engineering; and
->       - **(ii)** partner with other entities that have expertise in advancing marine and hydrokinetic renewable energy technologies.
+>       - **(ii)** partner with other entities that
+>         - **(III)** energy;
+>         - **(IV)** ocean engineering; and
+>         - **(V)** electrical, mechanical, and civil engineering; and
+>       - **(ii)** partner with other entities (including industry) that have expertise in advancing marine and hydrokinetic renewable energy technologies.
 
 ## § 4. National Marine and Hydrokinetic Renewable Energy Research, Development, and Demonstration Centers
 
@@ -79,7 +87,7 @@ The Energy Independence and Security Act of 2007 (42 U.S.C. 17211 et seq.) is am
   > ## § 635. Marine-based energy device verification program
   >
   > - **(a)** *Establishment* The Secretary shall establish a marine-based energy device verification program to provide a bridge from the marine and hydrokinetic renewable energy capture device design and development efforts underway across the industry to commercial deployment of marine and hydrokinetic renewable energy devices.
-  > - **(b)** *Purposes* The purposes of the program are to fund, facilitate the development and installation of, and evaluate marine and hydrokinetic renewable energy projects, in partnership with Federally Funded Research and Development Centers, and in conjunction with universities and other institutions of higher education, private business entities, and other appropriate organizations, in order—
+  > - **(b)** *Purposes* The purposes of the program are to fund, facilitate the development and installation of, and evaluate marine and hydrokinetic renewable energy projects, in partnership with Federally Funded Research and Development Centers, and in conjunction with Centers established under section 634, universities and other institutions of higher education, private business entities, and other appropriate organizations, in order—
   >   - **(1)** to increase marine and hydrokinetic renewable energy experience; and
   >   - **(2)** to build and operate enough candidate devices to obtain statistically significant operating and maintenance data.
   > - **(c)** *Objectives* The objectives of the program shall include—
@@ -136,6 +144,20 @@ Section 639 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17215
 > - **(b)** *Offsets* Of the amount authorized to be appropriated for each fiscal year under subsection (a), $75,000,000 shall be derived for each fiscal year from the amount authorized for energy-intensive industries efficiency programs under section 452(f) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17111(f)) for each of fiscal years 2012 through 2015.
 > - **(c)** *Renewable energy funds* No funds shall be appropriated under this section for activities that are receiving funds under section 931(a)(2)(E)(i) of the Energy Policy Act of 2005 (42 U.S.C. 16231(a)(2)(E)(i)).
 
+## § 8. Authorization of appropriations
+
+- **(a)** *In general* Section 639 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17215) (as redesignated by section 5(1)) is amended to read as follows:
+  > ## § 639. Authorization of appropriations
+  >
+  > - **(a)** *In general* There is authorized to be appropriated to carry out this subtitle, to remain available until expended—
+  >   - **(1)** $70,000,000 for fiscal year 2012; and
+  >   - **(2)** $75,000,000 for fiscal year 2013.
+  > - **(b)** *Renewable energy funds* No funds shall be appropriated under this section for activities that are receiving funds under section 931(a)(2)(E)(i) of the Energy Policy Act of 2005 (42 U.S.C. 16231(a)(2)(E)(i)).
+
+- **(b)** *Offsets*
+  - **(1)** *Fiscal year 2012* Section 609(d) of the Public Utility Regulatory Policies Act of 1978 (7 U.S.C. 918c(d)) is amended by striking “2012” and inserting “2011”.
+  - **(2)** *Fiscal year 2013* The amount otherwise made available to carry out section 412 of the Energy Policy Act of 2005 (42 U.S.C. 15972) shall be reduced by $75,000,000 for fiscal year 2013.
+
 ## § 9. National Renewable Energy Deployment Program
 
 - **(a)** *In general* Section 803 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17282) is amended by striking the section heading and inserting “National Renewable Energy Deployment Program”.
@@ -149,3 +171,28 @@ Section 639 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17215
     > - **(5)** *Priority* In making grants to eligible applicants to carry out renewable energy projects under this section, the Secretary shall give priority to applicants that—
     >   - **(A)** have power costs that are 125 percent or more of average national retail costs; or
     >   - **(B)** will use the grant to construct renewable electricity projects to replace fossil fuel projects.
+
+## § 9. National renewable energy deployment program
+
+- **(a)** *In general* Section 803 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17282) is amended by striking the section heading and inserting “National Renewable Energy Deployment Program”.
+- **(b)** *Definitions* Section 803(a) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17282(a)) is amended—
+  - **(1)** by striking paragraph (1);
+  - **(2)** by redesignating paragraphs (2) through (4) as paragraphs (1) through (3), respectively;
+  - **(3)** in subparagraph (B)(iv) of paragraph (3) (as so redesignated), by striking “Alaska”; and
+  - **(4)** by adding at the end the following:
+    > - **(4)** *Small hydroelectric power* The term small hydroelectric power means power that—
+    >   - **(A)** is generated—
+    >     - **(i)** without the use of a dam or impoundment of water; and
+    >     - **(ii)** through the use of—
+    >       - **(I)** a lake tap (but not a perched alpine lake); or
+    >       - **(II)** a run-of-river screened at the point of diversion; and
+    >   - **(B)** has a nameplate capacity rating of a wattage that is not more than 15 megawatts.
+
+- **(c)** *Renewable energy construction grants* Section 803(b) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17282(b)) is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** by inserting “establish a national renewable energy construction grants program under which the Secretary shall” after “shall”; and
+    - **(B)** by inserting “, including feasibility studies for such projects” before the period at the end; and
+  - **(2)** by adding at the end the following:
+    > - **(5)** *Priority* In making grants to eligible applicants to carry out renewable energy projects under this section, the Secretary shall give priority to applicants that—
+    >   - **(A)** have power costs that are 125 percent or more of average national retail costs; and
+    >   - **(B)** will use the grant to construct renewable electricity projects to replace or partially replace fossil fuel projects.

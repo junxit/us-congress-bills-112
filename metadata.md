@@ -1,7 +1,7 @@
 ---
 measure: S. 630
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 630
@@ -16,9 +16,12 @@ Marine and Hydrokinetic Renewable Energy Promotion Act of 2011
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
 
 ## Committees (1)
 
@@ -29,3 +32,8 @@ Marine and Hydrokinetic Renewable Energy Promotion Act of 2011
 - 2011-03-17 — Introduced in Senate
 - 2011-03-17 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2011-03-17 — Sponsor introductory remarks on measure. (CR S1841-1842)
+- 2011-03-31 — Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 112-26.
+- 2011-05-26 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2011-07-11 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 112-31.
+- 2011-07-11 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 112-31.
+- 2011-07-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 98.

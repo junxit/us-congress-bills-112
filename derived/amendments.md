@@ -1,7 +1,7 @@
 ---
 measure: S. 630
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 0 executed, 18 stated and not applied.
+28 amendatory instructions. 0 executed, 28 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -43,9 +43,19 @@ complete account of the bill's effect, which it is not.
 | — | insert | The Energy Independence and Security Act of 2007 (42 U.S.C. 17211 et seq.) (as amended by section 5) is amended by inserting after section 635 the following: | the bill names no machine-readable US Code section |
 | — | insert | The Energy Independence and Security Act of 2007 (42 U.S.C. 17211 et seq.) (as amended by section 6) is amended by inserting after section 636 the following: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 639 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17215) (as redesignated by section 5(1)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 639 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17215) (as redesignated by section 5(1)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 609(d) of the Public Utility Regulatory Policies Act of 1978 (7 U.S.C. 918c(d)) is amended by striking “2012” and inserting “2011”. | the bill names no machine-readable US Code section |
 | — | replace | Section 803 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17282) is amended by striking the section heading and inserting “National Renewable Energy Deployment Program”. | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (1); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2) through (4) as paragraphs (1) through (3), respectively; and | the bill names no machine-readable US Code section |
 | — | redesignate | in paragraph (3)(B)(iv) (as so redesignated), by striking “Alaska small”. | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “establish a national renewable energy construction grants program under which the Secretary shall” after “shall”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 803 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17282) is amended by striking the section heading and inserting “National Renewable Energy Deployment Program”. | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (1); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (2) through (4) as paragraphs (1) through (3), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | in subparagraph (B)(iv) of paragraph (3) (as so redesignated), by striking “Alaska”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “establish a national renewable energy construction grants program under which the Secretary shall” after “shall”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, including feasibility studies for such projects” before the period at the end; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
