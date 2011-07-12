@@ -1,7 +1,7 @@
 ---
 measure: S. 869
 congress: 112
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 869
@@ -16,11 +16,15 @@ Former Charleston Naval Base Land Exchange Act of 2011
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
 - 2011-05-03 — Introduced in Senate
 - 2011-05-03 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2011-07-12 — Referred to the Committee on Homeland Security and Governmental Affairs.
+- 2011-07-12 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2011-07-12 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
