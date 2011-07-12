@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1309
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-87 amendatory instructions. 0 executed, 87 stated and not applied.
+128 amendatory instructions. 0 executed, 128 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,7 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | Section 1319 of the National Flood Insurance Act of 1968 (42 U.S.C. 4026) is amended by striking “September 30, 2011” and inserting “September 30, 2016”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1309(a) of such Act (42 U.S.C. 4016(a)) is amended by striking “September 30, 2011” and inserting “September 30, 2016”. | the bill names no machine-readable US Code section |
-| — | amend | Section 102 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 102 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “insurance.” and inserting “insurance, including premiums or fees incurred for coverage beginning on the date on which flood insurance coverage lapsed or did not provide a sufficient coverage amount.”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (5) and 6), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following new paragraphs: | the bill names no machine-readable US Code section |
@@ -54,7 +54,8 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraph (5) as paragraph (7); and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | Subsection (b) of section 1306 of the National Flood Insurance Act of 1968 (42 U.S.C. 4013(b)), as amended by the preceding provisions of this section, is further amended by inserting after paragraph (4) the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | amend | Section 1306 of the National Flood Insurance Act of 1968 (42 U.S.C. 4013) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1306 of the National Flood Insurance Act of 1968 (42 U.S.C. 4013) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (1) of section 1306(c) of the National Flood Insurance Act of 1968 (42 U.S.C. 4013(c)) is amended by adding after the period at the end the following: “With respect to any flood that has commenced or is in progress before the e… | the bill names no machine-readable US Code section |
 | — | replace | Section 1308(e) of the National Flood Insurance Act of 1968 (42 U.S.C. 4015(e)) is amended by striking “10 percent” and inserting “20 percent”. | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a), in the matter preceding paragraph (1), by inserting “or notice” after “prescribe by regulation”; | the bill names no machine-readable US Code section |
 | — | insert | in subsection (c), by inserting “and subsection (g)” before the first comma; and | the bill names no machine-readable US Code section |
@@ -64,7 +65,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the matter preceding paragraph (1), by striking “the limitations provided under paragraphs (1) and (2)” and inserting “subsection (e)”; and | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking “, except” and all that follows through “subsection (e)”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e), by striking “paragraph (2) or (3)” and inserting “paragraph (7)”. | the bill names no machine-readable US Code section |
-| — | insert | in subsection (e), by inserting “or subsection (h)” after “subsection (c)”; | the bill names no machine-readable US Code section |
+| — | insert | in subsection (e), by inserting “or subsection (h)” after “subsection (c)”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | in the first sentence, by striking “construction of a flood protection system” and inserting “construction, reconstruction, or improvement of a flood protection system (without respect to the level of Federal investment or participation)… | the bill names no machine-readable US Code section |
 | — | replace | by striking “construction of a flood protection system” and inserting “construction, reconstruction, or improvement of a flood protection system”; and | the bill names no machine-readable US Code section |
@@ -72,7 +73,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in the first sentence in the matter preceding paragraph (1), by inserting “(without respect to the level of Federal investment or participation)” before the period at the end; | the bill names no machine-readable US Code section |
 | — | insert | in the third sentence in the matter preceding paragraph (1), by inserting “, whether coastal or riverine,” after “special flood hazard”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “a Federal agency in consultation with the local project sponsor” and inserting “the entity or entities that own, operate, maintain, or repair such system”. | the bill names no machine-readable US Code section |
-| — | amend | Section 1360 of the National Flood Insurance Act of 1968 (42 U.S.C. 4101) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1360 of the National Flood Insurance Act of 1968 (42 U.S.C. 4101) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | in section 1331(a)(2) (42 U.S.C. 4051(a)(2)), by inserting “, including as reinsurance of insurance coverage provided by the flood insurance program” before “, on such terms”; | the bill names no machine-readable US Code section |
 | — | insert | in section 1332(c)(2) (42 U.S.C. 4052(c)(2)), by inserting “or reinsurance” after “flood insurance coverage”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” after “(a)”; and | the bill names no machine-readable US Code section |
@@ -94,27 +95,67 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “not later than June 30 of each year” before the period at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “biennial” and inserting “annual”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “150 percent” and all that follows through “paragraph (3)” and inserting “the applicable estimated risk premium rate for such coverage for the area (or subdivision thereof) determined in accordance with s… | the bill names no machine-readable US Code section |
-| — | insert | by inserting after and below subparagraph (B) the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraphs (2) and (3); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (4) through (6) as paragraphs (2) through (4), respectively. | the bill names no machine-readable US Code section |
-| — | add-at-end | Subsection (e) of section 1366 of the National Flood Insurance Act of 1968 (42 U.S.C. 4104c(e)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | insert | in the section heading, by inserting “Direct” before “Grants”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, to owners of such properties,” before “for mitigation actions”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “1” and inserting “two”. | the bill names no machine-readable US Code section |
-| — | insert | Paragraph (9) of section 1310(a) of the National Flood Insurance Act of 1968 (42 U.S.C. 4017(a)) is amended by inserting “which shall remain available until expended,” after “any fiscal year,”. | the bill names no machine-readable US Code section |
-| — | amend | Section 201 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4105) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking the last sentence and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (b); | the bill names no machine-readable US Code section |
+| — | replace | by striking “flood risk” and inserting “multi-hazard”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “provides protection against” and inserting “examines reduction of”; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating such subsection as subsection (b); | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d); | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking the paragraph designation and all that follows through the end of the first sentence and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraphs (2), (3), and (4) and inserting the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | replace | by striking all of the matter that precedes subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking subparagraphs (E) and (H); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (D), (F), and (G) as subparagraphs (E), (G), and (H); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (C) the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after subparagraph (E), as so redesignated by clause (iii) of this subparagraph, the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | redesignate | in subparagraph (H); as so redesignated by clause (iii) of this subparagraph, by striking “and” at the end; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating such subsection as subsection (c); | the bill names no machine-readable US Code section |
+| — | replace | by striking subsections (f), (g), and (h) and inserting the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | by striking “certified under subsection (g)” and inserting “required under subsection (d)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “3 times the amount” and inserting “the amount”; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating such subsection as subsection (e); | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “Riegle Community Development and Regulatory Improvement Act of 1994” and inserting “Flood Insurance Reform Act of 2011”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating such subsection as subsection (f); and | the bill names no machine-readable US Code section |
+| — | replace | by striking subsections (k) and (m) and inserting the following new subsections: | the bill names no machine-readable US Code section |
+| — | strike | Chapter I of the National Flood Insurance Act of 1968 is amended by striking section 1323 (42 U.S.C. 4030). | the bill names no machine-readable US Code section |
+| — | strike | Chapter III of the National Flood Insurance Act of 1968 is amended by striking section 1361A (42 U.S.C. 4102a). | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (6), by inserting “and” after the semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (7), by striking the semicolon and inserting a period; and | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraphs (8) and (9). | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (1) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “section 1366(i)” and inserting “section 1366(e)”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “sections 1366 and 1323” and inserting “section 1366”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (d) and (e) as subsections (f) and (g), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (c) the following new subsections: | the bill names no machine-readable US Code section |
+| — | strike | by striking subparagraph (B); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (C), (D), and (E) as subparagraphs (B), (C), and (D), respectively. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 201 of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4105) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1360 of the National Flood Insurance Act of 1968 (42 U.S.C. 4101), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | Section 1363 of the National Flood Insurance Act of 1968 (42 U.S.C. 4104) is amended by striking the section designation and all that follows through the end of subsection (a) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | The National Flood Insurance Act of 1968 is amended by inserting after section 1308 (42 U.S.C. 4015) the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Part C of chapter II of the National Flood Insurance Act of 1968 (42 U.S.C. 4081 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (c) of section 5 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) is amended by adding at the end the following new sentence: “Each such good faith estimate shall include the following conspicuous state… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1360 of the National Flood Insurance Act of 1968 (42 U.S.C. 4101), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1360 of the National Flood Insurance Act of 1968 (42 U.S.C. 4101), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1360 of the National Flood Insurance Act of 1968 (42 U.S.C. 4101), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter I of the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1345 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1345 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a), by inserting after “determinations” by inserting the following: “by notifying a local television and radio station,”; and | the bill names no machine-readable US Code section |
+| — | insert | in the first sentence of subsection (b), by inserting before the period at the end the following: “and shall notify a local television and radio station at least once during the same 10-day period”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “(b) The Director” and inserting “(b)(1) The Administrator”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | insert | Chapter I of the National Flood Insurance Act of 1968 is amended by inserting after section 1310 (42 U.S.C. 4017) the following new section: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (8), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (9), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (24), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (25), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Director” each place such term appears, except in section 102(f)(3) (42 U.S.C. 4012a(f)(3)), and inserting “Administrator”; and | the bill names no machine-readable US Code section |
 | — | replace | in section 201(b) (42 U.S.C. 4105(b)), by striking “Director’s” and inserting “Administrator’s”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “Director” each place such term appears and inserting “Administrator”; and | the bill names no machine-readable US Code section |
-| — | replace | in sections 1363 (42 U.S.C. 4104), by striking “Director’s” each place such term appears and inserting “Administrator’s”. | the bill names no machine-readable US Code section |
+| — | replace | in section 1363 (42 U.S.C. 4104), by striking “Director’s” each place such term appears and inserting “Administrator’s”. | the bill names no machine-readable US Code section |
 | — | replace | Section 15(e) of the Federal Flood Insurance Act of 1956 (42 U.S.C. 2414(e)) is amended by striking “Director” each place such term appears and inserting “Administrator”. | the bill names no machine-readable US Code section |
