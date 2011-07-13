@@ -59,3 +59,34 @@ Section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344) is amend
 ## § 5. Applicability of amendments
 
 The amendments made by this Act shall apply to actions taken on or after the date of enactment of this Act, including actions taken with respect to permit applications that are pending or revised or new standards that are being promulgated as of such date of enactment.
+
+## § 6. Reporting on harmful pollutants
+
+Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Administrator of the Environmental Protection Agency shall submit to Congress a report on any increase or reduction in waterborne pathogenic microorganisms (including protozoa, viruses, bacteria, and parasites), toxic chemicals, or toxic metals (such as lead and mercury) in waters regulated by a State under the provisions of this Act, including the amendments made by this Act.
+
+## § 7. Pipelines crossing streambeds
+
+None of the provisions of this Act, including the amendments made by this Act, shall be construed to limit the authority of the Administrator of the Environmental Protection Agency, as in effect on the day before the date of enactment of this Act, to regulate a pipeline that crosses a streambed.
+
+## § 8. Impacts of EPA regulatory activity on employment and economic activity
+
+- **(a)** *Analysis of impacts of actions on employment and economic activity*
+  - **(1)** *Analysis* Before taking a covered action, the Administrator shall analyze the impact, disaggregated by State, of the covered action on employment levels and economic activity, including estimated job losses and decreased economic activity.
+  - **(2)** *Economic models*
+    - **(A)** *In general* In carrying out paragraph (1), the Administrator shall utilize the best available economic models.
+    - **(B)** *Annual GAO report* Not later than December 31st of each year, the Comptroller General of the United States shall submit to Congress a report on the economic models used by the Administrator to carry out this subsection.
+  - **(3)** *Availability of information* With respect to any covered action, the Administrator shall—
+    - **(A)** post the analysis under paragraph (1) as a link on the main page of the public Internet Web site of the Environmental Protection Agency; and
+    - **(B)** request that the Governor of any State experiencing more than a de minimis negative impact post such analysis in the Capitol of such State.
+- **(b)** *Public hearings*
+  - **(1)** *In general* If the Administrator concludes under subsection (a)(1) that a covered action will have more than a de minimis negative impact on employment levels or economic activity in a State, the Administrator shall hold a public hearing in each such State at least 30 days prior to the effective date of the covered action.
+  - **(2)** *Time, location, and selection* A public hearing required under paragraph (1) shall be held at a convenient time and location for impacted residents. In selecting a location for such a public hearing, the Administrator shall give priority to locations in the State that will experience the greatest number of job losses.
+- **(c)** *Notification* If the Administrator concludes under subsection (a)(1) that a covered action will have more than a de minimis negative impact on employment levels or economic activity in any State, the Administrator shall give notice of such impact to the State’s Congressional delegation, Governor, and Legislature at least 45 days before the effective date of the covered action.
+- **(d)** *Definitions* In this section, the following definitions apply:
+  - **(1)** *Administrator* The term Administrator means the Administrator of the Environmental Protection Agency.
+  - **(2)** *Covered action* The term “covered action” means any of the following actions taken by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1201 et seq.):
+    - **(A)** Issuing a regulation, policy statement, guidance, response to a petition, or other requirement.
+    - **(B)** Implementing a new or substantially altered program.
+  - **(3)** *More than a de minimis negative impact* The term more than a de minimis negative impact means the following:
+    - **(A)** With respect to employment levels, a loss of more than 100 jobs. Any offsetting job gains that result from the hypothetical creation of new jobs through new technologies or government employment may not be used in the job loss calculation.
+    - **(B)** With respect to economic activity, a decrease in economic activity of more than $1,000,000 over any calendar year. Any offsetting economic activity that results from the hypothetical creation of new economic activity through new technologies or government employment may not be used in the economic activity calculation.
