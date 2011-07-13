@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1309
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1309
@@ -38,9 +38,10 @@ Flood Insurance Reform Act of 2011
 - Rep. Holden, Tim [D-PA-17] (H000712)
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (9)
 
@@ -209,3 +210,4 @@ Flood Insurance Reform Act of 2011
 - 2011-07-12 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4924)
 - 2011-07-12 — The previous question was ordered pursuant to the rule. (consideration: CR H4921)
 - 2011-07-12 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-07-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
