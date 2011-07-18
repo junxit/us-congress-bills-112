@@ -1,7 +1,7 @@
 ---
 measure: S. 300
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 300
@@ -16,10 +16,12 @@ Government Charge Card Abuse Prevention Act of 2012
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (2)
+## Cosponsors (4)
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
 
 ## Committees (1)
 
@@ -30,3 +32,7 @@ Government Charge Card Abuse Prevention Act of 2012
 - 2011-02-08 — Introduced in Senate
 - 2011-02-08 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2011-02-08 — Sponsor introductory remarks on measure. (CR S629-630)
+- 2011-04-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2011-07-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 112-37.
+- 2011-07-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 112-37.
+- 2011-07-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 104.
