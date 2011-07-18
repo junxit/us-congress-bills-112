@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Securities Act of 1933 to specify when certain securities issued in connection with church plans are treated as exempted securities for purposes of that Act.
 
-## § 1. Securities Act of 1933 amendment
+## § 1. Short title
+
+This Act may be cited as the “Church Plan Investment Clarification Act”.
+
+## § 2. Securities Act of 1933 amendment
 
 Section 3(a)(2) of the Securities Act of 1933 (15 U.S.C. 77c(a)(2)) is amended—
 

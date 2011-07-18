@@ -1,7 +1,7 @@
 ---
 measure: H.R. 33
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 33
@@ -20,6 +20,10 @@ Church Plan Investment Clarification Act
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2011-07-18 — [House 112-1-601](votes/house-112-1-0601.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (310–1)
+
 ## Actions
 
 - 2011-01-05 — Introduced in House
@@ -35,3 +39,11 @@ Church Plan Investment Clarification Act
 - 2011-07-01 — Placed on the Union Calendar, Calendar No. 81.
 - 2011-07-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 112-131.
 - 2011-07-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 112-131.
+- 2011-07-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-07-18 — Considered as unfinished business. (consideration: CR H5132)
+- 2011-07-18 — Considered under suspension of the rules. (consideration: CR H5130-5131)
+- 2011-07-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 33.
+- 2011-07-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-07-18 — Mrs. Biggert moved to suspend the rules and pass the bill, as amended.
+- 2011-07-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 1 (Roll no. 601). (text: CR H5131)
+- 2011-07-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 1 (Roll no. 601).(text: CR H5131)
