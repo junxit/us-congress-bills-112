@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2018
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2018
@@ -187,3 +187,5 @@ Clean Water Cooperative Federalism Act of 2011
 - 2011-07-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4994)
 - 2011-07-13 — The previous question was ordered pursuant to the rule. (consideration: CR H4992)
 - 2011-07-13 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-07-14 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-07-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 103.
