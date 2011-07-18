@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2354
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2354
@@ -16,9 +16,10 @@ Energy and Water Development and Related Agencies Appropriations Act, 2012
 
 - Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (47)
 
@@ -770,3 +771,4 @@ Energy and Water Development and Related Agencies Appropriations Act, 2012
 - 2011-07-15 — The previous question was ordered pursuant to the rule. (consideration: CR H5104)
 - 2011-07-15 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2011-07-15 — Vacating Proceedings - By unanimous consent, at 10:31 a.m., the request for a recorded on the Burgess amendment numbered 70 was vacated and the Chair put the question de novo. Subsequently, the amendment passed by voice vote.
+- 2011-07-18 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
