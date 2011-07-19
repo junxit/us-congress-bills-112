@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2560
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2560
@@ -16,7 +16,7 @@ Cut, Cap, and Balance Act of 2011
 
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 
-## Cosponsors (87)
+## Cosponsors (117)
 
 - Rep. Mulvaney, Mick [R-SC-5] (M001182)
 - Rep. Ribble, Reid J. [R-WI-8] (R000587)
@@ -105,12 +105,47 @@ Cut, Cap, and Balance Act of 2011
 - Rep. Griffin, Tim [R-AR-2] (G000567)
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Young, Todd [R-IN-9] (Y000064)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Guinta, Frank C. [R-NH-1] (G000570)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Berg, Rick [R-ND-At Large] (B001272)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Royce, Edward R. [R-CA-40] (R000487)
+- Rep. Labrador, Raul R. [R-ID-1] (L000573)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Bonner, Jo [R-AL-1] (B001244)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. Fleming, John [R-LA-4] (F000456)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Buerkle, Ann Marie [R-NY-25] (B001276)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 
 ## Committees (3)
 
 - House — Ways and Means Committee
 - House — Rules Committee
 - House — Budget Committee
+
+## Recorded votes (2)
+
+- 2011-07-19 — [House 112-1-605](votes/house-112-1-0605.md) — On Motion to Recommit with Instructions — **Failed** (188–236)
+- 2011-07-19 — [House 112-1-606](votes/house-112-1-0606.md) — On Passage — **Passed** (234–190)
 
 ## Actions
 
@@ -119,3 +154,16 @@ Cut, Cap, and Balance Act of 2011
 - 2011-07-15 — Referred to the Committee on the Budget, and in addition to the Committees on Rules, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-07-15 — Referred to the Committee on the Budget, and in addition to the Committees on Rules, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-07-15 — Referred to the Committee on the Budget, and in addition to the Committees on Rules, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-07-18 — Rules Committee Resolution H. Res. 355 Reported to House. Rule provides for consideration of H.R. 2560 with 4 hours of general debate. Motion to recommit allowed. Measure will be considered read. Bill is closed to amendments. The resolution waives all points of order against consideration of the bill.
+- 2011-07-19 — Considered under the provisions of rule H. Res. 355. (consideration: CR H5184-5228)
+- 2011-07-19 — DEBATE - The House proceeded with 10 minutes of debate on the Bishop (NY) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment that states it shall not be in order in the House of Representatives or the Senate to consider any balanced budget amendment to the Constitution that could result in a reduction in veterans benefits.
+- 2011-07-19 — DEBATE - The House proceeded with four hours of debate on H.R. 2560.
+- 2011-07-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-07-19 — Mr. Bishop (NY) moved to recommit with instructions to Rules. (consideration: CR H5226-5227; text: CR H5226)
+- 2011-07-19 — On motion to recommit with instructions Failed by the Yeas and Nays: 188 - 236 (Roll no. 605).
+- 2011-07-19 — On passage Passed by recorded vote: 234 - 190 (Roll no. 606). (text: CR H5184-5185)
+- 2011-07-19 — Passed/agreed to in House: On passage Passed by recorded vote: 234 - 190 (Roll no. 606).(text: CR H5184-5185)
+- 2011-07-19 — Rule H. Res. 355 passed House.
+- 2011-07-19 — Rule provides for consideration of H.R. 2560 with 4 hours of general debate. Motion to recommit allowed. Measure will be considered read. Bill is closed to amendments. The resolution waives all points of order against consideration of the bill.
+- 2011-07-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5226)
+- 2011-07-19 — The previous question was ordered pursuant to the rule. (consideration: CR H5226)
