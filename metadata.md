@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 25
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 25
@@ -23,8 +23,15 @@ A concurrent resolution welcoming the independence of the Republic of South Suda
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Levin, Carl [D-MI] (L000261)
 
+## Committees (1)
+
+- House — Foreign Affairs Committee
+
 ## Actions
 
 - 2011-07-18 — Introduced in Senate
 - 2011-07-18 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S4644-4645; text as passed Senate: CR S4644-4645; text of measure as introduced: CR S4643-4644)
 - 2011-07-18 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4644-4645; text as passed Senate: CR S4644-4645; text of measure as introduced: CR S4643-4644)
+- 2011-07-19 — Message on Senate action sent to the House.
+- 2011-07-19 — Received in the House.
+- 2011-07-19 — Referred to the House Committee on Foreign Affairs.
