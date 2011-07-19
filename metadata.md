@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2480
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2480
@@ -29,3 +29,8 @@ Administrative Conference of the United States Reauthorization Act of 2011
 - 2011-07-08 — Introduced in House
 - 2011-07-08 — Introduced in House
 - 2011-07-08 — Referred to the House Committee on the Judiciary.
+- 2011-07-14 — Committee Consideration and Mark-up Session Held.
+- 2011-07-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2011-07-19 — Placed on the Union Calendar, Calendar No. 100.
+- 2011-07-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-154.
+- 2011-07-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-154.
