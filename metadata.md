@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1021
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1021
@@ -31,3 +31,8 @@ Temporary Bankruptcy Judgeships Extension Act of 2011
 - 2011-03-10 — Introduced in House
 - 2011-03-10 — Introduced in House
 - 2011-03-10 — Referred to the House Committee on the Judiciary.
+- 2011-03-17 — Committee Consideration and Mark-up Session Held.
+- 2011-03-17 — Ordered to be Reported (Amended) by Voice Vote.
+- 2011-07-19 — Placed on the Union Calendar, Calendar No. 98.
+- 2011-07-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-152.
+- 2011-07-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-152.
