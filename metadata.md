@@ -1,7 +1,7 @@
 ---
 measure: H.R. 33
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 33
@@ -49,3 +49,14 @@ Church Plan Investment Clarification Act
 - 2011-07-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 1 (Roll no. 601). (text: CR H5131)
 - 2011-07-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 1 (Roll no. 601).(text: CR H5131)
 - 2011-07-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2012-06-21 — Message on Senate action sent to the House.
+- 2012-06-21 — Passed Senate without amendment by Unanimous Consent.
+- 2012-06-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-06-21 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S4428)
+- 2012-06-21 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S4428)
+- 2012-06-29 — Presented to President.
+- 2012-06-29 — Presented to President.
+- 2012-07-09 — Became Public Law No: 112-142.
+- 2012-07-09 — Became Public Law No: 112-142.
+- 2012-07-09 — Signed by President.
+- 2012-07-09 — Signed by President.
