@@ -1,7 +1,7 @@
 ---
 measure: H.R. 33
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | by inserting “(other than a retirement income account described in section 403(b)(9) of the Internal Revenue Code of 1986, to the extent that the interest or participation in such single trust fund or collective trust fund is issued to a… | the bill names no machine-readable US Code section |
-| — | insert | by inserting “(other than a person participating in a church plan who is described in section 414(e)(3)(B) of the Internal Revenue Code of 1986)” after “section 401(c)(1) of such Code”. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 403` | insert | by inserting “(other than a retirement income account described in section 403(b)(9) of the Internal Revenue Code of 1986, to the extent that the interest or participation in such single trust fund or collective trust fund is issued to a… | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 414` | insert | by inserting “(other than a person participating in a church plan who is described in section 414(e)(3)(B) of the Internal Revenue Code of 1986)” after “section 401(c)(1) of such Code”. | the bill quotes the text inserted but describes where it goes |

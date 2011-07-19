@@ -1,7 +1,7 @@
 ---
 measure: H.R. 33
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 33
@@ -16,9 +16,10 @@ Church Plan Investment Clarification Act
 
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ Church Plan Investment Clarification Act
 - 2011-07-18 — Mrs. Biggert moved to suspend the rules and pass the bill, as amended.
 - 2011-07-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 1 (Roll no. 601). (text: CR H5131)
 - 2011-07-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 1 (Roll no. 601).(text: CR H5131)
+- 2011-07-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
