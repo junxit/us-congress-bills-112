@@ -11,14 +11,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Kantishna Hills Renewable Energy Act of 2010”.
+This Act may be cited as the “Kantishna Hills Renewable Energy Act of 2011”.
 
 ## § 2. Definitions
 
 In this Act:
 
 - **(1)** *Appurtenance* The term appurtenance includes—
-  - **(A)** transmissions lines;
+  - **(A)** transmission lines;
   - **(B)** distribution lines;
   - **(C)** signs;
   - **(D)** buried communication lines;
@@ -29,23 +29,23 @@ In this Act:
 - **(4)** *Microhydro project*
   - **(A)** *In general* The term microhydro project means a hydroelectric power generating facility with a maximum power generation capability of 100 kilowatts.
   - **(B)** *Inclusions* The term microhydro project includes—
-    - **(i)** the intake pipeline located on Eureka Creek, approximately 1/2 mile upstream from the Park Road, as depicted on the map;
-    - **(ii)** each system appurtenance of the microhydro project; and
-    - **(iii)** any distribution or transmission line required to serve the Kantishna Hills area.
+    - **(i)** intake pipelines, including the intake pipeline located on Eureka Creek, approximately 1/2 mile upstream from the Park Road, as depicted on the map;
+    - **(ii)** each system appurtenance of the microhydro projects; and
+    - **(iii)** any distribution or transmission lines required to serve the Kantishna Hills area.
 - **(5)** *Park* The term Park means the Denali National Park and Preserve.
 - **(6)** *Secretary* The term Secretary means the Secretary of the Interior.
 
-## § 3. Permit for microhydro project
+## § 3. Permits for microhydro projects
 
 - **(a)** *In general* The Secretary may issue permits for microhydro projects in the Kantishna Hills area.
 - **(b)** *Terms and conditions* Each permit under subsection (a) shall be—
   - **(1)** issued in accordance with such terms and conditions as are generally applicable to rights-of-way within units of the National Park System; and
   - **(2)** subject to such other terms and conditions as the Secretary determines to be necessary.
-- **(c)** *Completion of environmental analysis* Not later than 180 days after the date of enactment of this Act, the Secretary shall complete any analysis required by the National Environment Policy Act of 1969 (42 U.S.C. 4321 et seq.) of a proposed microhydro project located on Eureka Creek within the Kantishna Hills area.
+- **(c)** *Completion of environmental analysis* Not later than 180 days after the date on which an applicant submits an application for the issuance of a permit under this section, the Secretary shall complete any analysis required by the National Environment Policy Act of 1969 (42 U.S.C. 4321 et seq.) of any proposed or existing microhydro projects located in the Kantishna Hills area.
 
 ## § 4. Land exchange
 
-- **(a)** *In general* For the purpose of consolidating Park land and land owned by Doyon Tourism, Inc., and subject to subsection (d), the Secretary may exchange Park land near or adjacent to land owned by Doyon Tourism, Inc., located at the mouth of Eureka Creek in sec. 13, T.16 S., R. 18 W., Fairbanks Meridian, for approximately 18 acres of land owned by Doyon Tourism, Inc., within the Galena patented mining claim.
+- **(a)** *In general* For the purpose of consolidating ownership of Park and Doyon Tourism, Inc. lands, including those lands affected solely by the Doyon Tourism microhydro project, and subject to subsection (d), the Secretary may exchange Park land near or adjacent to land owned by Doyon Tourism, Inc., located at the mouth of Eureka Creek in sec. 13, T.16 S., R. 18 W., Fairbanks Meridian, for approximately 18 acres of land owned by Doyon Tourism, Inc., within the Galena patented mining claim.
 - **(b)** *Map availability* The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 - **(c)** *Timing* The Secretary shall seek to complete the exchange under this section by not later than February 1, 2015.
 - **(d)** *Applicable laws; terms and conditions* The exchange under this section shall be subject to—
