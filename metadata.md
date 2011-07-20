@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2055
 congress: 112
-version: Reported to Senate
+version: Public Print
 ---
 
 # H.R. 2055
@@ -16,12 +16,44 @@ Consolidated Appropriations Act, 2012
 
 - Rep. Culberson, John Abney [R-TX-7] (C001048)
 
+## Cosponsors (29)
+
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+
 ## Committees (2)
 
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (6)
+## Recorded votes (12)
 
 - 2011-06-13 — [House 112-1-413](votes/house-112-1-0413.md) — On Agreeing to the Amendment — **Agreed to** (204–203)
 - 2011-06-13 — [House 112-1-414](votes/house-112-1-0414.md) — On Agreeing to the Amendment — **Failed** (178–232)
@@ -29,6 +61,12 @@ Consolidated Appropriations Act, 2012
 - 2011-06-13 — [House 112-1-416](votes/house-112-1-0416.md) — On Retaining Title II (Department of Veterans Affairs) — **Passed** (409–1)
 - 2011-06-14 — [House 112-1-417](votes/house-112-1-0417.md) — On Motion to Recommit with Instructions — **Failed** (184–234)
 - 2011-06-14 — [House 112-1-418](votes/house-112-1-0418.md) — On Passage — **Passed** (411–5)
+- 2011-07-13 — [Senate 112-1-109](votes/senate-112-1-0109.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (89–11)
+- 2011-07-14 — [Senate 112-1-110](votes/senate-112-1-0110.md) — On the Cloture Motion — **Cloture Motion Agreed to** (71–26)
+- 2011-07-14 — [Senate 112-1-111](votes/senate-112-1-0111.md) — On the Motion — **Motion Agreed to** (56–40)
+- 2011-07-20 — [Senate 112-1-113](votes/senate-112-1-0113.md) — On the Motion to Table — **Motion to Table Agreed to** (69–30)
+- 2011-07-20 — [Senate 112-1-114](votes/senate-112-1-0114.md) — On the Motion to Table — **Motion to Table Agreed to** (69–30)
+- 2011-07-20 — [Senate 112-1-115](votes/senate-112-1-0115.md) — On Passage of the Bill — **Bill Passed** (97–2)
 
 ## Actions
 
@@ -143,3 +181,94 @@ Consolidated Appropriations Act, 2012
 - 2011-06-30 — Committee on Appropriations. Reported by Senator Johnson SD, with an amendment in the nature of a substitute. With written report No. 112-29.
 - 2011-06-30 — Committee on Appropriations. Reported by Senator Johnson SD, with an amendment in the nature of a substitute. With written report No. 112-29.
 - 2011-06-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 91.
+- 2011-07-11 — Cloture motion on the motion to proceed to the measure (H.R. 2055) presented in Senate. (consideration: CR S4478; text: CR S4478)
+- 2011-07-11 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S4478)
+- 2011-07-11 — Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S4478)
+- 2011-07-13 — Cloture on the motion to proceed to the measure (H.R. 2055) invoked in Senate by Yea-Nay Vote. 89 - 11. Record Vote Number: 109. (consideration: CR S4542; text: CR S4542)
+- 2011-07-13 — Motion to proceed to measure considered in Senate. (consideration: CR S4542-4552)
+- 2011-07-13 — Senate amendment submitted
+- 2011-07-13 — Senate amendment submitted
+- 2011-07-14 — A unanimous consent agreement to proceed to the consideration of the bill supercedes the consideration of the motion to proceed.
+- 2011-07-14 — Amendment SA 553 proposed by Senator Coburn for Senator McCain. (consideration: CR S4605; text: CR S4605) To eliminate the additional amount of $10,000,000 not included in the President's budget request for fiscal year 2012, appropriated for the Department of Defense for planning and design for the Energy Conservation Investment Program.
+- 2011-07-14 — Amendment SA 556 proposed by Senator Johnson SD. (consideration: CR S4605; text: CR S4605) Of a perfecting nature.
+- 2011-07-14 — Cloture motion on the motion to waive the points of order under section 303 of the Congressional Budget Act of 1974, any amendments thereto and motions thereon presented in Senate. (consideration: CR S4601; text: CR S4601)
+- 2011-07-14 — Cloture on the motion to waive the points of order under section 303 of the Congressional Budget Act of 1974, any amendments thereto and motions thereon invoked in Senate by Yea-Nay Vote. 71 - 26. Record Vote Number: 110. (consideration: CR S4601; text: CR S4601)
+- 2011-07-14 — Measure laid before Senate by unanimous consent. (consideration: CR S4577-4605; text of measure as reported in Senate: CR S4577-4583)
+- 2011-07-14 — Motion to waive section 303 of the Congressional Budget Act of 1974 for H.R. 2055, any amendments thereto and motions thereon with respect to the measure made in Senate. (consideration: CR S4600-4601)
+- 2011-07-14 — Motion to waive section 303 of the Congressional Budget Act of 1974, any amendments thereto and motions thereon with respect to the measure agreed to in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 111. (consideration: CR S4601-4602)
+- 2011-07-14 — Point of order under section 303 of the Congressional Budget Act of 1974, any amendments thereto and motions thereon against the measure raised in Senate.
+- 2011-07-14 — Senate amendment proposed (on the floor): Amendment SA 553 proposed by Senator Coburn for Senator McCain.(consideration: CR S4605; text: CR S4605)
+- 2011-07-14 — Senate amendment proposed (on the floor): Amendment SA 556 proposed by Senator Johnson SD.(consideration: CR S4605; text: CR S4605)
+- 2011-07-14 — Senate amendment submitted
+- 2011-07-14 — Senate amendment submitted
+- 2011-07-14 — Senate amendment submitted
+- 2011-07-14 — Senate amendment submitted
+- 2011-07-14 — Senate amendment submitted
+- 2011-07-14 — Senate amendment submitted
+- 2011-07-18 — Considered by Senate. (consideration: CR S4629)
+- 2011-07-18 — Considered by Senate. (consideration: CR S4629-4630)
+- 2011-07-18 — Considered by Senate. (consideration: CR S4629-4630; text as further modified: CR S4629)
+- 2011-07-18 — Senate amendment submitted
+- 2011-07-18 — Senate amendment submitted
+- 2011-07-18 — Senate amendment submitted
+- 2011-07-19 — Amendment SA 564 proposed by Senator Coburn. (consideration: CR S4665-4668; text: CR S4667) To require evidence of causal relationships for presumptions by the Secretary of Veterans Affairs of service connection for diseases associated with exposure to certain herbicide agents.
+- 2011-07-19 — Amendment SA 568 proposed by Senator Vitter. (consideration: CR S4662-4665; text: CR S4662) To provide that none of the funds appropriated or otherwise made available by this Act may be obligated or expended at a rate higher than the level of the Senate and House of Representative concurrent budget resolution for fiscal year 2012.
+- 2011-07-19 — Amendment SA 570 proposed by Senator Wyden. (consideration: CR S4665; text as modified: CR S4665) To provide for the closure of Umatilla Army Chemical Depot, Oregon.
+- 2011-07-19 — Considered by Senate. (consideration: CR S4660)
+- 2011-07-19 — Considered by Senate. (consideration: CR S4660)
+- 2011-07-19 — Considered by Senate. (consideration: CR S4660-4668)
+- 2011-07-19 — Senate amendment proposed (on the floor): Amendment SA 564 proposed by Senator Coburn.(consideration: CR S4665-4668; text: CR S4667)
+- 2011-07-19 — Senate amendment proposed (on the floor): Amendment SA 568 proposed by Senator Vitter.(consideration: CR S4662-4665; text: CR S4662)
+- 2011-07-19 — Senate amendment proposed (on the floor): Amendment SA 570 proposed by Senator Wyden.(consideration: CR S4665; text as modified: CR S4665)
+- 2011-07-19 — Senate amendment submitted
+- 2011-07-19 — Senate amendment submitted
+- 2011-07-19 — Senate amendment submitted
+- 2011-07-19 — Senate amendment submitted
+- 2011-07-19 — Senate amendment submitted
+- 2011-07-19 — Senate amendment submitted
+- 2011-07-19 — Senate amendment submitted
+- 2011-07-19 — Senate amendment submitted
+- 2011-07-19 — Senate amendment submitted
+- 2011-07-20 — Amendment SA 556 as modified agreed to in Senate by Unanimous Consent.
+- 2011-07-20 — Amendment SA 562 agreed to in Senate by Unanimous Consent.
+- 2011-07-20 — Amendment SA 562 proposed by Senator Reid for Senator Hutchison. (consideration: CR S4702; text: CR S4702) To restrict the use of funds for a permanent United States Africa Command headquarters outside of the United States.
+- 2011-07-20 — Amendment SA 563 agreed to in Senate by Unanimous Consent.
+- 2011-07-20 — Amendment SA 563 proposed by Senator Reid for Senator Hutchison. (consideration: CR S4702; text: S4702) To limit the availability of funds for military construction projects at Grafenwohr and Baumholder, Germany, pending a report on the brigade combat team scheduled to be withdrawn from Germany in 2015.
+- 2011-07-20 — Amendment SA 570 agreed to in Senate by Unanimous Consent.
+- 2011-07-20 — Amendment SA 575 agreed to in Senate by Voice Vote.
+- 2011-07-20 — Amendment SA 575 proposed by Senator Ayotte. (consideration: CR S4700-4701, S4703; text: CR S4701) To require the Secretary of Veterans Affairs, in coordination with the Defense Advanced Research Projects Agency, to submit a report to Congress detailing the Secretary's plans, and identifying challenges, both technical and administrative, to ensure that advanced, next generation prosthetics are made available to injured members of the Armed Forces and veterans in a timely manner.
+- 2011-07-20 — Amendment SA 577 as modified agreed to in Senate by Voice Vote. (text as modified: CR S4703)
+- 2011-07-20 — Amendment SA 577 proposed by Senator Boxer. (consideration: CR S4701, S4703; text: CR S4701) Of a perfecting nature.
+- 2011-07-20 — Considered by Senate. (consideration: CR S4687, S4690-4691)
+- 2011-07-20 — Considered by Senate. (consideration: CR S4687, S4701-4702; text as further modified: CR S4701-4702)
+- 2011-07-20 — Considered by Senate. (consideration: CR S4687, S4702)
+- 2011-07-20 — Considered by Senate. (consideration: CR S4687, S4702)
+- 2011-07-20 — Considered by Senate. (consideration: CR S4687, S4702-4703, S4703-4704)
+- 2011-07-20 — Considered by Senate. (consideration: CR S4687-4691, S4700-4712)
+- 2011-07-20 — Motion to table amendment SA 564 agreed to in Senate by Yea-Nay Vote. 69 - 30. Record Vote Number: 114.
+- 2011-07-20 — Motion to table amendment SA 568 agreed to in Senate by Yea-Nay Vote. 69 - 30. Record Vote Number: 113.
+- 2011-07-20 — Passed Senate with an amendment by Yea-Nay. 97 - 2. Record Vote Number: 115. (text: CR S4705-4712)
+- 2011-07-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay. 97 - 2. Record Vote Number: 115.(text: CR S4705-4712)
+- 2011-07-20 — Proposed amendment SA 553 withdrawn in Senate. (consideration: CR S4702)
+- 2011-07-20 — Roll call votes on amendments in Senate: Motion to table amendment SA 564 agreed to in Senate by Yea-Nay Vote. 69 - 30. Record Vote Number: 114.
+- 2011-07-20 — Roll call votes on amendments in Senate: Motion to table amendment SA 568 agreed to in Senate by Yea-Nay Vote. 69 - 30. Record Vote Number: 113.
+- 2011-07-20 — Senate amendment agreed to: Amendment SA 556 as modified agreed to in Senate by Unanimous Consent.
+- 2011-07-20 — Senate amendment agreed to: Amendment SA 562 agreed to in Senate by Unanimous Consent.
+- 2011-07-20 — Senate amendment agreed to: Amendment SA 563 agreed to in Senate by Unanimous Consent.
+- 2011-07-20 — Senate amendment agreed to: Amendment SA 570 agreed to in Senate by Unanimous Consent.
+- 2011-07-20 — Senate amendment agreed to: Amendment SA 575 agreed to in Senate by Voice Vote.
+- 2011-07-20 — Senate amendment agreed to: Amendment SA 577 as modified agreed to in Senate by Voice Vote.(text as modified: CR S4703)
+- 2011-07-20 — Senate amendment proposed (on the floor): Amendment SA 562 proposed by Senator Reid for Senator Hutchison.(consideration: CR S4702; text: CR S4702)
+- 2011-07-20 — Senate amendment proposed (on the floor): Amendment SA 563 proposed by Senator Reid for Senator Hutchison.(consideration: CR S4702; text: S4702)
+- 2011-07-20 — Senate amendment proposed (on the floor): Amendment SA 575 proposed by Senator Ayotte.(consideration: CR S4700-4701, S4703; text: CR S4701)
+- 2011-07-20 — Senate amendment proposed (on the floor): Amendment SA 577 proposed by Senator Boxer.(consideration: CR S4701, S4703; text: CR S4701)
+- 2011-07-20 — Senate amendment submitted
+- 2011-07-20 — Senate amendment submitted
+- 2011-07-20 — Senate amendment submitted
+- 2011-07-20 — Senate amendment submitted
+- 2011-07-20 — Senate amendment submitted
+- 2011-07-20 — Senate amendment submitted
+- 2011-07-20 — Senate amendment submitted
+- 2011-07-20 — Senate amendment submitted
+- 2011-07-20 — Senate insists on its amendment, asks for a conference, appoints conferees Johnson SD; Inouye; Landrieu; Murray; Reed; Nelson NE; Pryor; Tester; Leahy; Kirk; Hutchison; McConnell; Murkowski; Blunt; Hoeven; Coats; Cochran.
+- 2011-07-20 — The committee substitute as amended agreed to by Unanimous Consent.

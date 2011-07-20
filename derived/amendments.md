@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2055
 congress: 112
-version: Reported to Senate
+version: Public Print
 derived: true
 ---
 
