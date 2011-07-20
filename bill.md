@@ -1,0 +1,38 @@
+---
+legis-num: H.R. 2594
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2594
+
+> To prohibit operators of civil aircraft of the United States from participating in the European Union’s emissions trading scheme, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “European Union Emissions Trading Scheme Prohibition Act of 2011”.
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** The European Union has unilaterally imposed an emissions trading scheme (in this section referred to as the “ETS”) on non-European Union aircraft flying to and from, as well as within, Europe.
+- **(2)** United States airlines and other United States aircraft operators will be required under the ETS to pay for European Union emissions allowances for aircraft operations within the United States, over other non-European Union countries, and in international airspace for flights serving the European Union.
+- **(3)** The European Union’s extraterritorial action is inconsistent with long-established international law and practice, including the Chicago Convention of 1944 and the Air Transport Agreement between the United States and the European Union and its member states, and directly infringes on the sovereignty of the United States.
+- **(4)** The European Union’s action undermines ongoing efforts at the International Civil Aviation Organization to develop a unified, worldwide approach to reducing aircraft greenhouse gas emissions and has generated unnecessary friction within the international civil aviation community as it endeavors to reduce such emissions.
+- **(5)** The European Union and its member states should instead work with other contracting states of the International Civil Aviation Organization to develop such an approach.
+- **(6)** There is no assurance that ETS revenues will be used for aviation environmental purposes by the European Union member states that will collect them.
+- **(7)** The United States Government expressed these and other serious objections relating to the ETS to representatives of the European Union and its member states during June 2011, but has not received satisfactory answers to those objections.
+
+## § 3. Prohibition on participation in the European Union’s emissions trading scheme
+
+The Secretary of Transportation shall prohibit an operator of a civil aircraft of the United States from participating in any emissions trading scheme unilaterally established by the European Union.
+
+## § 4. Negotiations
+
+The Secretary of Transportation, the Administrator of the Federal Aviation Administration, and other appropriate officials of the United States Government shall use their authority to conduct international negotiations and take other actions necessary to ensure that operators of civil aircraft of the United States are held harmless from any emissions trading scheme unilaterally established by the European Union.
+
+## § 5. Civil aircraft of the United States defined
+
+In this Act, the term civil aircraft of the United States has the meaning given that term under section 40102(a) of title 49, United States Code.
