@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1141
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1141
@@ -35,3 +35,11 @@ Rota Cultural and Natural Resources Study Act
 - 2011-03-16 — Introduced in House
 - 2011-03-16 — Referred to the House Committee on Natural Resources.
 - 2011-03-16 — Sponsor introductory remarks on measure. (CR E502)
+- 2011-03-18 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2011-05-04 — Subcommittee Hearings Held.
+- 2011-06-15 — Committee Consideration and Mark-up Session Held.
+- 2011-06-15 — Ordered to be Reported by Unanimous Consent.
+- 2011-06-15 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2011-07-20 — Placed on the Union Calendar, Calendar No. 111.
+- 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-167.
+- 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-167.
