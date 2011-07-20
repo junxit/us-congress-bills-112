@@ -1,7 +1,7 @@
 ---
 measure: H.R. 470
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -48,7 +48,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “shall use” and inserting “shall allocate”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” after the semicolon at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 105(b) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(b)) is amended by striking “2017” and inserting “2067”. | the bill names no machine-readable US Code section |
 | — | amend | Section 105(c) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(c)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 105(d) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(d)) is amended to read as follows: | the bill names no machine-readable US Code section |
