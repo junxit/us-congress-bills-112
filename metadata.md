@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1022
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1022
@@ -16,7 +16,7 @@ Buffalo Soldiers in the National Parks Study Act
 
 - Rep. Speier, Jackie [D-CA-12] (S001175)
 
-## Cosponsors (22)
+## Cosponsors (28)
 
 - Rep. Austria, Steve [R-OH-7] (A000365)
 - Rep. Berkley, Shelley [D-NV-1] (B001231)
@@ -40,6 +40,12 @@ Buffalo Soldiers in the National Parks Study Act
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Eshoo, Anna G. [D-CA-14] (E000215)
 - Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Wilson, Frederica S. [D-FL-17] (W000808)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Filner, Bob [D-CA-51] (F000116)
 
 ## Committees (1)
 
@@ -50,3 +56,11 @@ Buffalo Soldiers in the National Parks Study Act
 - 2011-03-10 — Introduced in House
 - 2011-03-10 — Introduced in House
 - 2011-03-10 — Referred to the House Committee on Natural Resources.
+- 2011-03-14 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2011-05-04 — Subcommittee Hearings Held.
+- 2011-06-15 — Committee Consideration and Mark-up Session Held.
+- 2011-06-15 — Ordered to be Reported by Unanimous Consent.
+- 2011-06-15 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2011-07-20 — Placed on the Union Calendar, Calendar No. 110.
+- 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-166.
+- 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-166.
