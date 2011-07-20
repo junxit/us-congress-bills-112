@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2560
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -37,4 +37,4 @@ complete account of the bill's effect, which it is not.
 | — | insert | The Congressional Budget Act of 1974 is amended by inserting after section 318 the following new section: | the bill names no machine-readable US Code section |
 | — | amend | Title III of the Congressional Budget Act of 1974 is amended by adding after section 319 the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in section 1(b) of the Congressional Budget and Impoundment Control Act of 1974 is amended by inserting after the item relating to section 315 the following new items: | the bill names no machine-readable US Code section |
-| — | replace | Effective on the date the Archivist of the United States transmits to the States H.J. Res 1 in the form reported, S.J. Res. 10 in the form introduced, or H.J. Res. 56 in the form introduced, a balanced budget amendment to the Constitutio… | the bill names no machine-readable US Code section |
+| `31 U.S.C. § 3101` | replace | Effective on the date the Archivist of the United States transmits to the States H.J. Res 1 in the form reported, S.J. Res. 10 in the form introduced, or H.J. Res. 56 in the form introduced, a balanced budget amendment to the Constitutio… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

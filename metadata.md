@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2560
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2560
@@ -167,3 +167,4 @@ Cut, Cap, and Balance Act of 2011
 - 2011-07-19 — Rule provides for consideration of H.R. 2560 with 4 hours of general debate. Motion to recommit allowed. Measure will be considered read. Bill is closed to amendments. The resolution waives all points of order against consideration of the bill.
 - 2011-07-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5226)
 - 2011-07-19 — The previous question was ordered pursuant to the rule. (consideration: CR H5226)
+- 2011-07-20 — Received in the Senate. Read twice. Ordered Placed on Senate Legislative Calendar under General Orders. Calendar No. 106.
