@@ -1,7 +1,7 @@
 ---
 measure: H.R. 295
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 295
@@ -25,3 +25,11 @@ To amend the Hydrographic Services Improvement Act of 1998 to authorize funds to
 - 2011-01-12 — Introduced in House
 - 2011-01-12 — Introduced in House
 - 2011-01-12 — Referred to the House Committee on Natural Resources.
+- 2011-01-26 — Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.
+- 2011-05-12 — Subcommittee Hearings Held.
+- 2011-06-15 — Committee Consideration and Mark-up Session Held.
+- 2011-06-15 — Ordered to be Reported by Unanimous Consent.
+- 2011-06-15 — Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.
+- 2011-07-20 — Placed on the Union Calendar, Calendar No. 102.
+- 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-157.
+- 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-157.
