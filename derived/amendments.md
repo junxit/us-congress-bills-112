@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2553
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -55,7 +55,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “determined” and inserting “was determined”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “Secretary” and inserting “Secretary of Transportation”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Secretary of Transportation” and inserting “Secretary”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “on the basis of a passenger subsidy at that place or on another basis” and inserting “on any basis”. | the bill names no machine-readable US Code section |
-| — | amend | Section 41731 of such title is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 41731 of such title is amended by adding at the end the following: | the bill names no machine-readable US Code section |
