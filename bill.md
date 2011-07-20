@@ -42,16 +42,11 @@ In this Act:
 - **(e)** *Authority of Secretary To conduct sale of Federal land*
   - **(1)** *In general* In accordance with paragraph (2), if the land exchange under subsection (a) is not completed by the date that is 1 year after the date of enactment of this Act, the Secretary may offer to sell to the District the Federal land.
   - **(2)** *Value of Federal land* The Secretary may offer to sell to the District the Federal land for the fair market value of the Federal land.
-- **(f)** *Disposition of proceeds*
-  - **(1)** *In general* The Secretary shall deposit in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”) (16 U.S.C. 484a) any amount received by the Secretary as the result of—
-    - **(A)** any cash equalization payment made under subsection (b); and
-    - **(B)** any sale carried out under subsection (e).
-  - **(2)** *Use of proceeds* Amounts deposited under paragraph (1) shall be available to the Secretary, without further appropriation and until expended, for the acquisition of land or interests in land in the National Forest.
-- **(g)** *Management and status of acquired land* The non-Federal land acquired by the Secretary under this section shall be—
+- **(f)** *Management and status of acquired land* The non-Federal land acquired by the Secretary under this section shall be—
   - **(1)** added to, and administered as part of, the National Forest; and
   - **(2)** managed by the Secretary in accordance with—
     - **(A)** the Act of March 1, 1911 (commonly known as the “Weeks Law”) (16 U.S.C. 480 et seq.); and
     - **(B)** any laws (including regulations) applicable to the National Forest.
-- **(h)** *Revocation of orders; withdrawal*
+- **(g)** *Revocation of orders; withdrawal*
   - **(1)** *Revocation of orders* Any public order withdrawing the Federal land from entry, appropriation, or disposal under the public land laws is revoked to the extent necessary to permit the conveyance of the Federal land to the District.
   - **(2)** *Withdrawal* On the date of enactment of this Act, if not already withdrawn or segregated from entry and appropriation under the public land laws (including the mining and mineral leasing laws) and the Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.), the Federal land is withdrawn until the date of the conveyance of the Federal land to the District.
