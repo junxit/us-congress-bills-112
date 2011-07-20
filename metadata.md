@@ -1,7 +1,7 @@
 ---
 measure: H.R. 670
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 670
@@ -47,3 +47,11 @@ To convey certain submerged lands to the Commonwealth of the Northern Mariana Is
 - 2011-02-11 — Introduced in House
 - 2011-02-11 — Introduced in House
 - 2011-02-11 — Referred to the House Committee on Natural Resources.
+- 2011-02-16 — Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.
+- 2011-05-12 — Subcommittee Hearings Held.
+- 2011-06-15 — Committee Consideration and Mark-up Session Held.
+- 2011-06-15 — Ordered to be Reported by Unanimous Consent.
+- 2011-06-15 — Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.
+- 2011-07-20 — Placed on the Union Calendar, Calendar No. 107.
+- 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-162.
+- 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-162.
