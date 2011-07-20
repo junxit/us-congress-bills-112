@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 66
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 66
@@ -39,3 +39,10 @@ Approving the renewal of import restrictions contained in the Burmese Freedom an
 - 2011-05-26 — Introduced in House
 - 2011-05-26 — Introduced in House
 - 2011-05-26 — Referred to the House Committee on Ways and Means.
+- 2011-07-20 — Considered under suspension of the rules. (consideration: CR H5266-5269)
+- 2011-07-20 — DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 66.
+- 2011-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-07-20 — Mr. Boustany moved to suspend the rules and pass the resolution, as amended.
+- 2011-07-20 — On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote. (text: CR H5266)
+- 2011-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.(text: CR H5266)
+- 2011-07-20 — Received in the Senate.
