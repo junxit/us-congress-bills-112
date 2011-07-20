@@ -1,7 +1,7 @@
 ---
 measure: H.R. 944
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 944
@@ -25,3 +25,11 @@ To eliminate an unused lighthouse reservation, provide management consistency by
 - 2011-03-08 — Introduced in House
 - 2011-03-08 — Introduced in House
 - 2011-03-08 — Referred to the House Committee on Natural Resources.
+- 2011-03-10 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2011-05-04 — Subcommittee Hearings Held.
+- 2011-06-15 — Committee Consideration and Mark-up Session Held.
+- 2011-06-15 — Ordered to be Reported by Unanimous Consent.
+- 2011-06-15 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2011-07-20 — Placed on the Union Calendar, Calendar No. 109.
+- 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-165.
+- 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-165.
