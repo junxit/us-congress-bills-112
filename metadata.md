@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1383
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1383
@@ -63,3 +63,13 @@ Restoring GI Bill Fairness Act of 2011
 - 2011-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 331). (text: CR H3313-3314)
 - 2011-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 331).(text: CR H3313-3314)
 - 2011-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2011-07-21 — Amendment SA 580 agreed to in Senate by Unanimous Consent.
+- 2011-07-21 — Amendment SA 580 proposed by Senator Whitehouse for Senator Murray. (consideration: CR S4810; text: CR S4810) To improve the bill.
+- 2011-07-21 — Measure laid before Senate by unanimous consent. (consideration: CR S4809-4810)
+- 2011-07-21 — Passed Senate with amendments by Unanimous Consent. (text: CR S4810)
+- 2011-07-21 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR S4810)
+- 2011-07-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2011-07-21 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2011-07-21 — Senate amendment agreed to: Amendment SA 580 agreed to in Senate by Unanimous Consent.
+- 2011-07-21 — Senate amendment proposed (on the floor): Amendment SA 580 proposed by Senator Whitehouse for Senator Murray.(consideration: CR S4810; text: CR S4810)
+- 2011-07-21 — Senate amendment submitted
