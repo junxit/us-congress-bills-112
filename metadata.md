@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2055
 congress: 112
-version: Public Print
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2055
@@ -272,3 +272,4 @@ Consolidated Appropriations Act, 2012
 - 2011-07-20 — Senate amendment submitted
 - 2011-07-20 — Senate insists on its amendment, asks for a conference, appoints conferees Johnson SD; Inouye; Landrieu; Murray; Reed; Nelson NE; Pryor; Tester; Leahy; Kirk; Hutchison; McConnell; Murkowski; Blunt; Hoeven; Coats; Cochran.
 - 2011-07-20 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2011-07-21 — Message on Senate action sent to the House.
