@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1670
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -49,9 +49,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (2), by striking “Department of Defense installation” and inserting “military installation or State-owned National Guard installation”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting at the beginning the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “Sec. 101.”; | the bill names no machine-readable US Code section |
-| — | insert | in subsection (c), by inserting “Prohibitions on Sale and Lease of Lands Unless Effects Compatible With Plan.—” after (c); | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c), by inserting “Prohibitions on Sale and Lease of Lands Unless Effects Compatible With Plan.—” after “(c)”; | the bill names no machine-readable US Code section |
 | — | insert | in subsection (d), by inserting “Implementation and Enforcement of Integrated Natural Resources Management Plans.—” after (d); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “Applicability of Other Laws” after “(e)”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Applicability of Other Laws.—” after “(e)”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting a comma after “Code”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting at the beginning the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Sec. 102.” and inserting “(a) Integrated Natural Resources Management Plan.—”; and | the bill names no machine-readable US Code section |
@@ -69,7 +69,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subsection (a), by inserting “Expenditures of Collected Funds Under integrated Natural Resources Management Plans.—” after “(a)”; | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b), by inserting “Authorization of Appropriations to Secretary of Defense.—” after “(b)”; | the bill names no machine-readable US Code section |
 | — | insert | in subsection (c), by inserting “Authorization of Appropriations to Secretary of the Interior.—” after “(c)”; and | the bill names no machine-readable US Code section |
-| — | insert | in subsection (D), by inserting “Use of Other Conservation or Rehabilitation Authorities.—” after “(d)”. | the bill names no machine-readable US Code section |
+| — | insert | in subsection (d), by inserting “Use of Other Conservation or Rehabilitation Authorities.—” after “(d)”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting at the beginning the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “Sec. 201.”; | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a), by inserting “Programs Required.—” after “(a)”; and | the bill names no machine-readable US Code section |
@@ -100,7 +100,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “Sec. 209.”; | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a), by inserting “Functions and Responsibilities of Secretary of the Interior.—” after “(a)”; | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b), by inserting “Functions and Responsibilities of Secretary of Agriculture.—” after “(b)”; | the bill names no machine-readable US Code section |
-| — | insert | in subsection (c), by inserting “Use of Other Conservation or Rehabilitation Authorities” after “(c)”; and | the bill names no machine-readable US Code section |
-| — | insert | in subsection (d), by inserting “Contract Authority” after “(d)”. | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c), by inserting “Use of Other Conservation or Rehabilitation Authorities.—” after “(c)”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (d), by inserting “Contract Authority.—” after “(d)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 204(b) of such Act (16 U.S.C. 670j) is amended by striking “magistrate” both places it appears and inserting “magistrate judge”. | the bill names no machine-readable US Code section |
 | — | redesignate | Section 208 of such Act is repealed, and section 209 of such Act (16 U.S.C. 670o) is redesignated as section 208. | the bill names no machine-readable US Code section |
