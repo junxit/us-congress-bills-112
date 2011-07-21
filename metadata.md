@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2055
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2055
@@ -53,7 +53,7 @@ Consolidated Appropriations Act, 2012
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (12)
+## Recorded votes (15)
 
 - 2011-06-13 — [House 112-1-413](votes/house-112-1-0413.md) — On Agreeing to the Amendment — **Agreed to** (204–203)
 - 2011-06-13 — [House 112-1-414](votes/house-112-1-0414.md) — On Agreeing to the Amendment — **Failed** (178–232)
@@ -67,6 +67,9 @@ Consolidated Appropriations Act, 2012
 - 2011-07-20 — [Senate 112-1-113](votes/senate-112-1-0113.md) — On the Motion to Table — **Motion to Table Agreed to** (69–30)
 - 2011-07-20 — [Senate 112-1-114](votes/senate-112-1-0114.md) — On the Motion to Table — **Motion to Table Agreed to** (69–30)
 - 2011-07-20 — [Senate 112-1-115](votes/senate-112-1-0115.md) — On Passage of the Bill — **Bill Passed** (97–2)
+- 2011-12-07 — [House 112-1-894](votes/house-112-1-0894.md) — On Motion to Instruct Conferees — **Passed** (409–13)
+- 2011-12-16 — [House 112-1-941](votes/house-112-1-0941.md) — On Agreeing to the Conference Report — **Passed** (296–121)
+- 2011-12-17 — [Senate 112-1-235](votes/senate-112-1-0235.md) — On the Conference Report — **Conference Report Agreed to** (67–32)
 
 ## Actions
 
@@ -273,3 +276,40 @@ Consolidated Appropriations Act, 2012
 - 2011-07-20 — Senate insists on its amendment, asks for a conference, appoints conferees Johnson SD; Inouye; Landrieu; Murray; Reed; Nelson NE; Pryor; Tester; Leahy; Kirk; Hutchison; McConnell; Murkowski; Blunt; Hoeven; Coats; Cochran.
 - 2011-07-20 — The committee substitute as amended agreed to by Unanimous Consent.
 - 2011-07-21 — Message on Senate action sent to the House.
+- 2011-12-07 — DEBATE - The House proceeded with one hour of debate on the Dicks motion to instruct conferees on H.R. 2055. The instructions contained in the motion seek to require the managers on the part of the House to recede to the Senate on the higher level of funding for the "Department of Veterans Affairs-Medical and Prosthetic Research" account.
+- 2011-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-07 — Mr. Dicks moved that the House instruct conferees. (consideration: CR H8203; text: CR H8203)
+- 2011-12-07 — Mr. Rogers (KY) asked unanimous consent that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H8203-8204, H8208)
+- 2011-12-07 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection. (consideration: CR H8203-8204, H8208)
+- 2011-12-07 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 409 - 13 (Roll no. 894). (consideration: CR H8208)
+- 2011-12-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Dicks motion to instruct conferees on H.R. 2055, the Chair put the question on adoption of the motion to instruct conferees and by voice vote, announced that the ayes had prevailed. Mr. Dicks demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion to instruct conferees on H.R. 2055 until a time to be announced.
+- 2011-12-07 — The Speaker appointed conferees: Rogers (KY), Young (FL), Lewis (CA), Frelinghuysen, Aderholt, Emerson, Granger, Simpson, Culberson, Crenshaw, Rehberg, Carter, Dicks, Visclosky, Lowey, Serrano, DeLauro, Moran, Price (NC), and Bishop (GA).
+- 2011-12-07 — The previous question was ordered without objection. (consideration: CR H8204)
+- 2011-12-08 — Conference committee actions: Conference held.
+- 2011-12-08 — Conference held.
+- 2011-12-15 — Conference report H. Rept. 112-331 filed. (text of conference report: CR H9004-9428, H9433-9797)
+- 2011-12-15 — Conference report filed: Conference report H. Rept. 112-331 filed.(text of conference report: CR H9004-9428, H9433-9797)
+- 2011-12-16 — Conferees agreed to file conference report.
+- 2011-12-16 — Conference committee actions: Conferees agreed to file conference report.
+- 2011-12-16 — Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.
+- 2011-12-16 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 296 - 121 (Roll no. 941).
+- 2011-12-16 — DEBATE - The House proceeded with one hour of debate on the conference report H. Rept. 112-331 for consideration under the provisions of H. Res. 500.
+- 2011-12-16 — Motions to reconsider laid on the table Agreed to without objection.
+- 2011-12-16 — Mr. Rogers (KY) brought up conference report H. Rept. 112-331 for consideration under the provisions of H. Res. 500. (consideration: CR H9823-9902, H9905-9906)
+- 2011-12-16 — On agreeing to the conference report Agreed to by the Yeas and Nays: 296 - 121 (Roll no. 941).
+- 2011-12-16 — POSTPONED PROCEEDINGS - Pursuant to clause X of Rule 20, the yeas and nays were ordered. Pursuant to clause VIII of Rule 20, further proceedings on H.R. 2055 were postponed.
+- 2011-12-16 — Rule H. Res. 500 passed House.
+- 2011-12-16 — Rules Committee Resolution H. Res. 500 Reported to House. Rule provides for consideration of the conference report to H.R. 2055. All points of order against the conference reoprt and against its consideration are waived. The conference report shall be considered as read. The previous question shall be considered as ordered on the conference report to its adoption without intervening motion except: (1) one hour of debate; and (2) one motion to recommit if applicable. Further provisions.
+- 2011-12-16 — The House proceeded to consider the conference report H.Rept. 112-331 as unfinished business. (consideration: CR H9905-9906)
+- 2011-12-16 — The previous question was ordered pursuant to the rule. (consideration: CR H9905)
+- 2011-12-17 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 67 - 32. Record Vote Number: 235.
+- 2011-12-17 — Conference report considered in Senate. (consideration: CR S8753-8759, S8760)
+- 2011-12-17 — Message on Senate action sent to the House.
+- 2011-12-17 — Senate agreed to conference report by Yea-Nay Vote. 67 - 32. Record Vote Number: 235.
+- 2011-12-17 — Under the order of 12/16/2011, the vote on adoption of the Conference Report (Record Vote No. 235) required 60 votes in the affirmative.
+- 2011-12-21 — Presented to President.
+- 2011-12-21 — Presented to President.
+- 2011-12-23 — Became Public Law No: 112-74.
+- 2011-12-23 — Became Public Law No: 112-74.
+- 2011-12-23 — Signed by President.
+- 2011-12-23 — Signed by President.
