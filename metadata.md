@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1383
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1383
@@ -35,9 +35,10 @@ Restoring GI Bill Fairness Act of 2011
 - House — Veterans' Affairs Committee
 - Senate — Veterans' Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2011-05-23 — [House 112-1-331](votes/house-112-1-0331.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (389–0)
+- 2011-07-26 — [House 112-1-638](votes/house-112-1-0638.md) — On Motion to Suspend the Rules and Concur in the Senate Amendments — **Passed** (424–0)
 
 ## Actions
 
@@ -73,3 +74,16 @@ Restoring GI Bill Fairness Act of 2011
 - 2011-07-21 — Senate amendment agreed to: Amendment SA 580 agreed to in Senate by Unanimous Consent.
 - 2011-07-21 — Senate amendment proposed (on the floor): Amendment SA 580 proposed by Senator Whitehouse for Senator Murray.(consideration: CR S4810; text: CR S4810)
 - 2011-07-21 — Senate amendment submitted
+- 2011-07-22 — Message on Senate action sent to the House.
+- 2011-07-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2011-07-25 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 1383.
+- 2011-07-25 — Mr. Miller (FL) moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H5471-5472)
+- 2011-07-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-07-26 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 638). (consideration: CR H5507-5508; text as House agreed to Senate amendment: CR 7/25/2012 H5471-5472)
+- 2011-07-26 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 638).(consideration: CR H5507-5508; text as House agreed to Senate amendment: CR 7/25/2012 H5471-5472)
+- 2011-07-28 — Presented to President.
+- 2011-07-28 — Presented to President.
+- 2011-08-03 — Became Public Law No: 112-26.
+- 2011-08-03 — Became Public Law No: 112-26.
+- 2011-08-03 — Signed by President.
+- 2011-08-03 — Signed by President.
