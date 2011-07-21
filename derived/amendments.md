@@ -1,7 +1,7 @@
 ---
 measure: S. 1103
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 1101 of the Omnibus Crime Control and Safe Streets Act of 1968 (28 U.S.C. 532 note) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 1101 of the Omnibus Crime Control and Safe Streets Act of 1968 (28 U.S.C. 532 note) is amended by adding at the end the following: | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: S. 1103
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1103
@@ -22,9 +22,10 @@ A bill to extend the term of the incumbent Director of the Federal Bureau of Inv
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Chambliss, Saxby [R-GA] (C000286)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -50,3 +51,15 @@ A bill to extend the term of the incumbent Director of the Federal Bureau of Inv
 - 2011-07-21 — Senate amendment proposed (on the floor): Amendment SA 579 proposed by Senator Reid for Senator Coburn.(consideration: CR S4780-4781; text: CR S4780)
 - 2011-07-21 — Senate amendment submitted
 - 2011-07-21 — The committee substitute as amended agreed to by Unanimous Consent. (text of committee amendment in the nature of a substitute: CR S4780)
+- 2011-07-25 — Considered under suspension of the rules. (consideration: CR H5470-5471)
+- 2011-07-25 — DEBATE - The House proceeded with forty minutes of debate on S. 1103.
+- 2011-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-07-25 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
+- 2011-07-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5470)
+- 2011-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5470)
+- 2011-07-26 — Became Public Law No: 112-24.
+- 2011-07-26 — Became Public Law No: 112-24.
+- 2011-07-26 — Presented to President.
+- 2011-07-26 — Presented to President.
+- 2011-07-26 — Signed by President.
+- 2011-07-26 — Signed by President.
