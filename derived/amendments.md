@@ -1,7 +1,7 @@
 ---
 measure: H.R. 966
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | replace | in paragraph (1), by striking “may” and inserting “shall”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “Rule 5” and all that follows through “motion.” and inserting “Rule 5.”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking “situated” and all that follows through the end of the paragraph and inserting “situated, and to compensate the parties that were injured by such conduct. Subject to the limitations in paragraph (5), the san… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “may” and inserting “shall”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “Rule 5” and all that follows through “motion.” and inserting “Rule 5.”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “situated” and all that follows through the end of the paragraph and inserting “situated, and to compensate the parties that were injured by such conduct. Subject to the limitations in paragraph (5), the san… | the bill names no machine-readable US Code section |
