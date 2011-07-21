@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1315
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 0 executed, 19 stated and not applied.
+46 amendatory instructions. 0 executed, 46 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,16 +32,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | by striking “2/3” and inserting “a majority”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting before the period the following: “, excluding the Director of the Bureau”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “may” and inserting “shall”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “regulation or provision would put the safety and soundness of the United States banking system or the stability of the financial system of the United States at risk” and inserting “regulation which is the subject of the peti… | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3)(B)(ii), by striking “would put the safety and soundness of the United States banking system or the stability of the financial system of the United States at risk” and inserting “is inconsistent with the safe and sound op… | the bill names no machine-readable US Code section |
-| — | strike | by striking subparagraph (B); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (C) as subparagraph (B); | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraph (5); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (6), (7), and (8) as paragraphs (5), (6), and (7), respectively. | the bill names no machine-readable US Code section |
-| — | replace | by striking “2/3” and inserting “a majority”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting before the period the following: “, excluding the Director of the Bureau”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the period the following: “, excluding the Chair of the Commission of the Bureau”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1023 of the Dodd-Frank Wall Street Reform and Consumer Protection act is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1023(c)(3) of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking “may” and inserting “shall”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “regulation or provision would put the safety and soundness of the United States banking system or the stability of the financial system of the United States at risk” and inserting “regulation which is the subject of the peti… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3)(B)(ii), by striking “would put the safety and soundness of the United States banking system or the stability of the financial system of the United States at risk” and inserting “is inconsistent with the safe and sound op… | the bill names no machine-readable US Code section |
@@ -50,3 +43,37 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking paragraph (5); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (6), (7), and (8) as paragraphs (5), (6), and (7), respectively; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | strike | by striking subsections (b), (c), and (d); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (e) as subsection (j); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (a) the following new subsections: | the bill names no machine-readable US Code section |
+| — | strike | in section 1002, by striking paragraph (10); | the bill names no machine-readable US Code section |
+| — | replace | in section 1012(c)(4), by striking “Director” each place such term appears and inserting “Commission of the Bureau”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “Assistant Director of the Bureau for” and inserting “Head of the Office of”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “Assistant Director” and inserting “Head of the Office”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “Assistant director” and inserting “Head of the Office”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “an assistant director” and inserting “a Head of the Office of Financial Protection for Older Americans”; | the bill names no machine-readable US Code section |
+| — | replace | in section 1016(a), by striking “Director of the Bureau” and inserting “Chair of the Commission”; | the bill names no machine-readable US Code section |
+| — | replace | in section 1017(c)(1), by striking “Director and other employees” and inserting “members of the Commission and other employees”; | the bill names no machine-readable US Code section |
+| — | strike | in section 1027(l)(1), by striking “Director and the”; and | the bill names no machine-readable US Code section |
+| — | replace | in section 1066(a), by striking “Director of the Bureau is” and inserting “first member of the Commission is”. | the bill names no machine-readable US Code section |
+| — | strike | by striking “Director of the” each place such term appears, other than in— | the bill names no machine-readable US Code section |
+| — | replace | by striking “Director” each place such term appears and inserting “Bureau”, other than in— | the bill names no machine-readable US Code section |
+| — | replace | in section 111(b)(1)(D), by striking “Director” and inserting “Chair of the Commission”; and | the bill names no machine-readable US Code section |
+| — | replace | in section 1447, by striking “Director of the Bureau” each place such term appears and inserting “Bureau”. | the bill names no machine-readable US Code section |
+| — | replace | Section 921(a)(4)(C) of the Electronic Fund Transfer Act, as added by section 1075(a)(2) of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the Bureau of Consumer Financial Protection” and inserting “Bu… | the bill names no machine-readable US Code section |
+| — | replace | The Expedited Funds Availability Act, as amended by section 1086 of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the Bureau” each place such term appears and inserting “Bureau”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2 of the Federal Deposit Insurance Act, as amended by section 336(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by striking “Director of the Consumer Financial Protection Bureau” each place such … | the bill names no machine-readable US Code section |
+| — | replace | Section 1004(a)(4) of the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3303(a)(4)), as amended by section 1091 of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the Consume… | the bill names no machine-readable US Code section |
+| — | replace | Section 513 of the Financial Literacy and Education Improvement Act, as amended by section 1013(d) of the Consumer Financial Protection Act of 2010, is amended by striking “Director” each place such term appears and inserting “Chair of t… | the bill names no machine-readable US Code section |
+| — | replace | Section 307 of the Home Mortgage Disclosure Act of 1975, as amended by section 1094(6) of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the Bureau of Consumer Financial Protection” each place such ter… | the bill names no machine-readable US Code section |
+| — | amend | by amending section 1402(1) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in section 1416(a), by striking “Director of the Bureau of Consumer Financial Protection” and inserting “Chair”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Director” each place such term appears and inserting “Bureau”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “The Director of the Bureau of Consumer Financial Protection (hereafter in this section referred to as the Director)” and inserting “The Bureau of Consumer Financial Protection”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Director” each place such term appears and inserting “Bureau”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “Director” each place such term appears in headings and text and inserting “Bureau”; and | the bill names no machine-readable US Code section |
+| — | strike | in section 1503, by striking paragraph (10). | the bill names no machine-readable US Code section |
+| — | replace | Section 3513(c) of title 44, United States Code, as amended by section 1100D(b) of the Consumer Financial Protection Act of 2010, is amended by striking “Director of the Bureau” and inserting “Bureau”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1062 of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1013 of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1022 of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
