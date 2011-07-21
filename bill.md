@@ -2,7 +2,7 @@
 legis-num: H. RES. 358
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 358
@@ -15,7 +15,7 @@ That at any time after the adoption of this resolution the Speaker may, pursuant
 
 In the engrossment of H.R. 1315, the Clerk shall—
 
-- **(a)** add the text of H.R. 830, as passed by the House, as new matter at the end of H.R. 1315;
-- **(b)** conform the title of H.R. 1315 to reflect the addition of H.R. 830, as passed by the House, to the engrossment;
-- **(c)** assign appropriate designations to provisions within the engrossment; and
-- **(d)** conform provisions for short titles within the engrossment.
+- **(1)** add the text of H.R. 830, as passed by the House, as new matter at the end of H.R. 1315;
+- **(2)** conform the title of H.R. 1315 to reflect the addition of H.R. 830, as passed by the House, to the engrossment;
+- **(3)** assign appropriate designations to provisions within the engrossment; and
+- **(4)** conform provisions for short titles within the engrossment.
