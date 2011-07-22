@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2551
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 109(a) of the Legislative Branch Appropriations Act, 2005 (2 U.S.C. 74a–13(a)) is amended by striking “the chair of the Republican Conference” and inserting the following: “the Speaker of the House of Representatives (or, if the … | the bill names no machine-readable US Code section |
-| — | replace | Section 109(b) of such Act (2 U.S.C. 74a-13(b)) is amended by striking the period at the end and inserting the following: “, and which shall be obligated and expended as directed by the Speaker (or, if the Speaker is not a member of the … | the bill names no machine-readable US Code section |
+| — | replace | Section 109(b) of such Act (2 U.S.C. 74a–13(b)) is amended by striking the period at the end and inserting the following: “, and which shall be obligated and expended as directed by the Speaker (or, if the Speaker is not a member of the … | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding paragraph (1), by striking “Subject to the allocation described in subsection (c), funds ” and inserting “Funds”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “direct;” and inserting the following: “direct (or, if the Speaker is not a member of the Republican Party, under such terms and conditions as the Minority Leader of the House of Representatives may direct);… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “direct.” and inserting the following: “direct (or, if the Speaker is a member of the Democratic Party, under such terms and conditions as the Speaker may direct).”. | the bill names no machine-readable US Code section |
