@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2218
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 0 executed, 16 stated and not applied.
+17 amendatory instructions. 0 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -40,10 +40,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “section 602” and inserting “section 602(14)”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subparagraph (K); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of subparagraph (L) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end, the following: | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (3), by striking “under section 5203(d)(3)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end, the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (3)(B), by striking “under section 5203(d)(3)”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 5211 (20 U.S.C. 7221j) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | repeal | Subpart 2 of part B of title V (20 U.S.C. 7223 et seq.) is repealed. | the bill names no machine-readable US Code section |
-| — | replace | by striking the item relating to section 5203 and inserting: | the bill names no machine-readable US Code section |
-| — | replace | by striking the item relating to section 5204 and inserting: | the bill names no machine-readable US Code section |
+| — | replace | by striking the item relating to section 5203 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the item relating to section 5204 and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking subpart 2 of part B of title V. | the bill names no machine-readable US Code section |
