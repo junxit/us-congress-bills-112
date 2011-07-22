@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2553
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2553
@@ -51,3 +51,5 @@ Airport and Airway Extension Act of 2011, Part IV
 - 2011-07-20 — Rule H. Res. 357 passed House.
 - 2011-07-20 — Rule provides for consideration of H.R. 2553 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
 - 2011-07-20 — The previous question was ordered pursuant to the rule. (consideration: CR H5264)
+- 2011-07-21 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-07-22 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 109.
