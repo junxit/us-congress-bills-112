@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1315
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1315
@@ -23,9 +23,10 @@ Consumer Financial Protection Safety and Soundness Improvement Act of 2011
 - Rep. McKinley, David B. [R-WV-1] (M001180)
 - Rep. Carter, John R. [R-TX-31] (C001051)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (7)
 
@@ -163,3 +164,4 @@ Consumer Financial Protection Safety and Soundness Improvement Act of 2011
 - 2011-07-21 — The text of H.R. 830, as passed by the House, was appended to the end of H.R. 1315 as new matter.
 - 2011-07-21 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which had been debated earlier and on which further proceedings were postponed.
 - 2011-07-21 — VACATING PROCEEDINGS - Mr. DeFazio asked unanimous consent to vacate the proceedings by which a recorded vote was ordered on the adoption of amendment no. 3 to the end that the amendment be agreed to by the voice vote.
+- 2011-07-22 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
