@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2553
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2553
@@ -53,3 +53,12 @@ Airport and Airway Extension Act of 2011, Part IV
 - 2011-07-20 — The previous question was ordered pursuant to the rule. (consideration: CR H5264)
 - 2011-07-21 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2011-07-22 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 109.
+- 2011-08-05 — Became Public Law No: 112-27.
+- 2011-08-05 — Became Public Law No: 112-27.
+- 2011-08-05 — Message on Senate action sent to the House.
+- 2011-08-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5297)
+- 2011-08-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5297)
+- 2011-08-05 — Presented to President.
+- 2011-08-05 — Presented to President.
+- 2011-08-05 — Signed by President.
+- 2011-08-05 — Signed by President.
