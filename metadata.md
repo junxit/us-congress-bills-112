@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2445
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2445
@@ -16,7 +16,7 @@ State and Local Funding Flexibility Act
 
 - Rep. Kline, John [R-MN-2] (K000363)
 
-## Cosponsors (12)
+## Cosponsors (14)
 
 - Rep. Hunter, Duncan D. [R-CA-52] (H001048)
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
@@ -30,6 +30,8 @@ State and Local Funding Flexibility Act
 - Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 - Rep. Heck, Joseph J. [R-NV-3] (H001055)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Ross, Dennis A. [R-FL-12] (R000593)
 
 ## Committees (1)
 
@@ -40,3 +42,8 @@ State and Local Funding Flexibility Act
 - 2011-07-07 — Introduced in House
 - 2011-07-07 — Introduced in House
 - 2011-07-07 — Referred to the House Committee on Education and the Workforce.
+- 2011-07-13 — Committee Consideration and Mark-up Session Held.
+- 2011-07-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 17.
+- 2011-07-25 — Placed on the Union Calendar, Calendar No. 119.
+- 2011-07-25 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 112-180.
+- 2011-07-25 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 112-180.

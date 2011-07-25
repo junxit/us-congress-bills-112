@@ -16,4 +16,4 @@ The Act may be cited as the “State and Local Funding Flexibility Act”.
 ## § 2. Flexibility to use Federal funds
 
 - **(a)** *In general* Subpart 2 of part A of title VI of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7305 et seq.) is amended to read as follows:
-- **(b)** *Conforming amendment* The table of contents of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) is amended by striking the item relating to subpart 2 of part A of title VI and inserting the following:
+- **(b)** *Conforming amendment* The table of contents of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) is amended by striking the items relating to subpart 2 of part A of title VI and inserting the following:

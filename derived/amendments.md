@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2445
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | amend | Subpart 2 of part A of title VI of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7305 et seq.) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | The table of contents of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) is amended by striking the item relating to subpart 2 of part A of title VI and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | The table of contents of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) is amended by striking the items relating to subpart 2 of part A of title VI and inserting the following: | the bill names no machine-readable US Code section |
