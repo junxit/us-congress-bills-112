@@ -52,10 +52,3 @@ This Act may be cited as the “Small Business Program Extension and Reform Act 
 ## § 4. Termination of emerging leaders program
 
 Notwithstanding any other provision of law, the Administrator of the Small Business Administration may not carry out or otherwise support the program referred to as “Emerging Leaders” in the document of the Small Business Administration titled “FY 2012 Congressional Budget Justification and FY 2010 Annual Performance Report” (or any predecessor or successor document) and may not carry out or otherwise support any successor to that program with similar goals.
-
-## § 5. Limitation on pilot programs
-
-- **(a)** *In general* Notwithstanding any other provision of law, including section 7(a)(25) of the Small Business Act (15 U.S.C. 636(a)(25)), the Administrator of the Small Business Administration may not carry out a covered pilot program unless that program relates to the authority of the Administrator under section 7(b) of such Act (15 U.S.C. 636(b)).
-- **(b)** *Covered pilot program defined* In this section, the term covered pilot program means any initiative, project, innovation, or other activity that—
-  - **(1)** is established during the period beginning on the date of enactment of this Act and ending on December 31, 2011; and
-  - **(2)** is not specifically authorized by Federal statute.
