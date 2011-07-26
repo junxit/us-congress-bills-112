@@ -1,7 +1,7 @@
 ---
 measure: S. 846
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 846
@@ -32,3 +32,5 @@ A bill to designate the United States courthouse located at 80 Lafayette Street 
 - 2011-07-22 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2011-07-22 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2011-07-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 111.
+- 2011-07-26 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4914-4915; text as passed Senate: CR S4914)
+- 2011-07-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4914-4915; text as passed Senate: CR S4914)
