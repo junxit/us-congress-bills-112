@@ -1,7 +1,7 @@
 ---
 measure: S. 1406
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1406
@@ -28,3 +28,7 @@ A bill to designate the United States courthouse under construction at 510 19th 
 
 - 2011-07-22 — Introduced in Senate
 - 2011-07-22 — Read twice and referred to the Committee on Environment and Public Works.
+- 2011-07-26 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4915; text as passed Senate: CR S4915)
+- 2011-07-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4915; text as passed Senate: CR S4915)
+- 2011-07-26 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2011-07-26 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
