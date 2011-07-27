@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2608
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2608
@@ -35,3 +35,4 @@ Continuing Appropriations Act, 2012
 - 2011-07-26 — Mr. Hanna moved to suspend the rules and pass the bill, as amended.
 - 2011-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5539-5540)
 - 2011-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5539-5540)
+- 2011-07-27 — Received in the Senate.
