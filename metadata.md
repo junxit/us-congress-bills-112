@@ -211,3 +211,10 @@ Flood Insurance Reform Act of 2011
 - 2011-07-12 — The previous question was ordered pursuant to the rule. (consideration: CR H4921)
 - 2011-07-12 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2011-07-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2011-07-25 — House requested return of papers pursuant to H.Res. 368
+- 2011-07-26 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2011-07-26 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2011-07-26 — Senate returned papers to House by Unanimous Consent. (consideration: CR S4915)
+- 2011-07-27 — Message on Senate action sent to the House.
+- 2011-07-27 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2011-07-27 — Senate returned papers to House.
