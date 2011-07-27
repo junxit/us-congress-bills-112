@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 17
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 17
@@ -16,7 +16,7 @@ A concurrent resolution expressing the sense of Congress that Taiwan should be a
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
-## Cosponsors (8)
+## Cosponsors (12)
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Wyden, Ron [D-OR] (W000779)
@@ -26,6 +26,10 @@ A concurrent resolution expressing the sense of Congress that Taiwan should be a
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Cochran, Thad [R-MS] (C000567)
 
 ## Committees (1)
 
@@ -35,3 +39,7 @@ A concurrent resolution expressing the sense of Congress that Taiwan should be a
 
 - 2011-05-12 — Introduced in Senate
 - 2011-05-12 — Referred to the Committee on Foreign Relations. (text of measure as introduced in Senate: CR S2958-2959)
+- 2011-07-26 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2011-07-27 — Committee on Foreign Relations. Reported without amendment and with a preamble. Without written report.
+- 2011-07-27 — Committee on Foreign Relations. Reported without amendment and with a preamble. Without written report.
+- 2011-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 115.
