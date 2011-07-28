@@ -1,7 +1,7 @@
 ---
 measure: S. 1188
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1188
@@ -25,9 +25,10 @@ All-American Flag Act
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -44,3 +45,6 @@ All-American Flag Act
 - 2011-07-27 — Senate amendment agreed to: Amendment SA 587 agreed to in Senate by Unanimous Consent.
 - 2011-07-27 — Senate amendment proposed (on the floor): Amendment SA 587 proposed by Senator Brown OH.(consideration: CR S4969-4970; text: CR S4969-4970)
 - 2011-07-27 — Senate amendment submitted
+- 2011-07-28 — Message on Senate action sent to the House.
+- 2011-07-28 — Received in the House.
+- 2011-07-28 — Referred to the House Committee on Oversight and Government Reform.
