@@ -1,7 +1,7 @@
 ---
 measure: S. 839
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 839
@@ -16,9 +16,10 @@ Combating Designer Drugs Act of 2011
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Combating Designer Drugs Act of 2011
 
 - 2011-04-14 — Introduced in Senate
 - 2011-04-14 — Read twice and referred to the Committee on the Judiciary.
+- 2011-07-28 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2011-07-28 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2011-07-28 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2011-07-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 121.
