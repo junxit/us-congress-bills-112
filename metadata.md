@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2608
 congress: 112
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2608
@@ -16,9 +16,11 @@ Continuing Appropriations Act, 2012
 
 - Rep. Graves, Sam [R-MO-6] (G000546)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Coburn, Tom [R-OK] (C000560)
 
 ## Committees (1)
 
@@ -36,3 +38,12 @@ Continuing Appropriations Act, 2012
 - 2011-07-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5539-5540)
 - 2011-07-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5539-5540)
 - 2011-07-27 — Received in the Senate.
+- 2011-07-28 — Amendment SA 588 agreed to in Senate by Unanimous Consent.
+- 2011-07-28 — Amendment SA 588 proposed by Senator Reid for Senator Landrieu. (consideration: CR S4974-4975; text: CR S4974-4975) In the nature of a substitute.
+- 2011-07-28 — Measure laid before Senate by unanimous consent. (consideration: CR S4974-4975)
+- 2011-07-28 — Message on Senate action sent to the House.
+- 2011-07-28 — Passed Senate with an amendment by Unanimous Consent.
+- 2011-07-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2011-07-28 — Senate amendment agreed to: Amendment SA 588 agreed to in Senate by Unanimous Consent.
+- 2011-07-28 — Senate amendment proposed (on the floor): Amendment SA 588 proposed by Senator Reid for Senator Landrieu.(consideration: CR S4974-4975; text: CR S4974-4975)
+- 2011-07-28 — Senate amendment submitted

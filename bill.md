@@ -2,12 +2,14 @@
 legis-num: H.R. 2608
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2608
 
-> To provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.
+That the bill from the House of Representatives (H.R. 2608) entitled “An Act to provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -15,15 +17,16 @@ This Act may be cited as the “Small Business Program Extension and Reform Act 
 
 ## § 2. Additional temporary extension of authorization of programs under the Small Business Act and the Small Business Investment Act of 1958
 
-- **(a)** *In general* Section 1 of the Act entitled “An Act to extend temporarily certain authorities of the Small Business Administration”, approved October 10, 2006 (Public Law 109–316; 120 Stat. 1742), as most recently amended by section 2 of the Small Business Additional Temporary Extension Act of 2011 (Public Law 112–17; 125 Stat. 221), is amended by striking “July 31, 2011” each place it appears and inserting “December 31, 2011”.
+- **(a)** *In general* Section 1 of the Act entitled “An Act to extend temporarily certain authorities of the Small Business Administration”, approved October 10, 2006 (Public Law 109–316; 120 Stat. 1742), as most recently amended by section 2 of the Small Business Additional Temporary Extension Act of 2011 (Public Law 112–17; 125 Stat. 221), is amended by striking “July 31, 2011” each place it appears and inserting “July 31, 2012”.
 - **(b)** *Effective date* The amendments made by subsection (a) shall take effect on July 30, 2011.
 
 ## § 3. Repeals and other terminations
 
 - **(a)** *General provisions*
-  - **(1)** *Effective date* A repeal or other termination of a provision of law made by this section shall take effect on the date of enactment of this Act.
-  - **(2)** *Rule* Nothing in this section shall affect any grant or assistance provided, contract or cooperative agreement entered into, or loan made or guaranteed before the date of enactment of this Act under a provision of law repealed or otherwise terminated by this section and any such grant, assistance, contract, cooperative agreement, or loan shall be subject to the applicable repealed or otherwise terminated provision, as in effect on the day before the date of enactment of this Act.
+  - **(1)** *Effective date* A repeal or other termination of a provision of law made by this section shall take effect on October 1, 2011.
+  - **(2)** *Rule* Nothing in this section shall affect any grant or assistance provided, contract or cooperative agreement entered into, or loan made or guaranteed before October 1, 2011 under a provision of law repealed or otherwise terminated by this section and any such grant, assistance, contract, cooperative agreement, or loan shall be subject to the applicable repealed or otherwise terminated provision, as in effect on September 30, 2011.
   - **(3)** *Applicability of temporary extensions* A repeal or other termination of a provision of law made by this section shall have effect notwithstanding any temporary extension of programs, authority, or provisions under the Act entitled “An Act to extend temporarily certain authorities of the Small Business Administration”, approved October 10, 2006 (Public Law 109–316; 120 Stat. 1742).
+  - **(4)** *Deficit reduction* Any savings resulting from this Act and the amendments made by this Act shall be returned to the Treasury for deficit reduction.
 - **(b)** *Pollution control loans* Paragraph (12) of section 7(a) of the Small Business Act (15 U.S.C. 636(a)) is amended—
   - **(1)** by striking “(A) The Administration” and inserting “The Administration”; and
   - **(2)** by striking “research and development” and all that follows and inserting “research and development.”.
@@ -51,4 +54,4 @@ This Act may be cited as the “Small Business Program Extension and Reform Act 
 
 ## § 4. Termination of emerging leaders program
 
-Notwithstanding any other provision of law, the Administrator of the Small Business Administration may not carry out or otherwise support the program referred to as “Emerging Leaders” in the document of the Small Business Administration titled “FY 2012 Congressional Budget Justification and FY 2010 Annual Performance Report” (or any predecessor or successor document) and may not carry out or otherwise support any successor to that program with similar goals.
+Notwithstanding any other provision of law, effective October 1, 2011, the Administrator of the Small Business Administration may not carry out or otherwise support the program referred to as “Emerging Leaders” in the document of the Small Business Administration titled “FY 2012 Congressional Budget Justification and FY 2010 Annual Performance Report” (or any predecessor or successor document).
