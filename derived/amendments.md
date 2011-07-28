@@ -1,7 +1,7 @@
 ---
 measure: S. 401
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-39 amendatory instructions. 0 executed, 39 stated and not applied.
+84 amendatory instructions. 0 executed, 84 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -70,3 +70,48 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (2), by striking “or” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 213 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of chapter 213 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Sections 1341 and 1343 of title 18, United States Code, are each amended by striking “money or property” and inserting “money, property, or any other thing of value”. | the bill names no machine-readable US Code section |
+| — | amend | The second undesignated paragraph of section 3237(a) of title 18, United States Code, is amended by adding before the period at the end the following: “or in any district in which an act in furtherance of the offense is committed”. | the bill names no machine-readable US Code section |
+| — | amend | The heading for section 3237 of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in the matter following paragraph (2), by striking “ten years” and inserting “20 years”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “This section does not apply to”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before “bona fide salary” the following: “The term any thing or things of value that is corruptly solicited, demanded, accepted or agreed to be accepted in subsection (a)(1)(B) or corruptly given, offered, or agreed to be gi… | the bill names no machine-readable US Code section |
+| — | replace | Section 641 of title 18, United States Code, is amended by striking “ten years” and inserting “20 years”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “fifteen years” and inserting “20 years”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “two years” and inserting “5 years”. | the bill names no machine-readable US Code section |
+| — | replace | Section 602(a) of title 18, United States Code, is amended by striking “three years” and inserting “10 years”. | the bill names no machine-readable US Code section |
+| — | replace | Section 600 of title 18, United States Code, is amended by striking “one year” and inserting “10 years”. | the bill names no machine-readable US Code section |
+| — | replace | Section 601(a) of title 18, United States Code, is amended by striking “one year” and inserting “10 years”. | the bill names no machine-readable US Code section |
+| — | replace | Section 606 of title 18, United States Code, is amended by striking “three years” and inserting “10 years”. | the bill names no machine-readable US Code section |
+| — | replace | Section 607(a)(2) of title 18, United States Code, is amended by striking “3 years” and inserting “10 years”. | the bill names no machine-readable US Code section |
+| — | replace | Section 610 of title 18, United States Code, is amended by striking “three years” and inserting “10 years”. | the bill names no machine-readable US Code section |
+| — | insert | Section 641 of title 18, United States Code, is amended by inserting “the District of Columbia or” before “the United States” each place that term appears. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “section 641 (relating to embezzlement or theft of public money, property, or records),” after “473 (relating to counterfeiting),”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “section 666 (relating to theft or bribery concerning programs receiving Federal funds),” after “section 664 (relating to embezzlement from pension and welfare funds),”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “section 1031 (relating to major fraud against the United States),” before “section 1084”. | the bill names no machine-readable US Code section |
+| — | strike | by striking “section 641 (relating to public money, property, or records),”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “section 666 (relating to theft or bribery concerning programs receiving Federal funds),”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “section 641 (relating to embezzlement or theft of public money, property, or records), section 666 (relating to theft or bribery concerning programs receiving Federal funds),” after “section 224 (bribery in sporting contest… | the bill names no machine-readable US Code section |
+| — | insert | by inserting “section 1031 (relating to major fraud against the United States),” before “section 1032”. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the matter before subparagraph (A) and inserting “otherwise than as provided by law for the proper discharge of official duty, or by rule or regulation—”; | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A), by inserting after “, or person selected to be a public official,” the following: “for or because of the official’s or person’s official position, or for or because of any official act performed or to be performed by… | the bill names no machine-readable US Code section |
+| — | strike | by striking “otherwise than as provided by law for the proper discharge of official duty,”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking all after “anything of value personally” and inserting “for or because of the official’s or person’s official position, or for or because of any official act performed or to be performed by such official or person;”. | the bill names no machine-readable US Code section |
+| — | amend | Section 201(a)(3) of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “anything of value” each place it appears and inserting “any thing or things of value”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “anything of value” each place it appears and inserting “any thing or things of value”. | the bill names no machine-readable US Code section |
+| — | amend | Section 1512(i) of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 79 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of chapter 79 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “or” after the semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
+| — | insert | Chapter 63 of title 18, United States Code, is amended by inserting after section 1346 the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for chapter 63 is amended by inserting after the item relating to section 1346 the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 3731 of title 18, United States Code, is amended, in the second undesignated paragraph, by inserting after “United States attorney” the following: “, Deputy Attorney General, Assistant Attorney General, or the Attorney General”. | the bill names no machine-readable US Code section |
