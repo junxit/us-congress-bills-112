@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2548
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2548
@@ -46,3 +46,11 @@ To designate the facility of the United States Postal Service located at 6310 No
 - 2011-07-14 — Introduced in House
 - 2011-07-14 — Introduced in House
 - 2011-07-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2011-07-28 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lankford objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2011-07-28 — Considered as unfinished business. (consideration: CR H5729)
+- 2011-07-28 — Considered under suspension of the rules. (consideration: CR H5721-5722)
+- 2011-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2548.
+- 2011-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-07-28 — Mr. Lankford moved to suspend the rules and pass the bill.
+- 2011-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5721)
+- 2011-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5721)

@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2548
 
-> To designate the facility of the United States Postal Service located at 6310 North University Street in Peoria, Illinois, as the “Charles ’Chip’ Lawrence Chan Post Office Building”.
+> To designate the facility of the United States Postal Service located at 6310 North University Street in Peoria, Illinois, as the “Charles “Chip” Lawrence Chan Post Office Building”.
 
 ## § 1. Charles “Chip” Lawrence Chan Post Office Building
 
