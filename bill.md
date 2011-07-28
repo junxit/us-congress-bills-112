@@ -2,7 +2,7 @@
 legis-num: H. RES. 375
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 375
@@ -24,8 +24,8 @@ When the House adjourns by operation of section 4 of this resolution on any legi
 
 On each legislative day during the period addressed by section 3 of this resolution:
 
-- **(a)** the Speaker may dispense with legislative business, in which case the House shall stand adjourned pursuant to section 3 of this resolution after the third daily order of business under clause 1 of rule XIV; and
-- **(b)** if the Speaker does not dispense with legislative business, the Speaker may at any time declare the House adjourned pursuant to section 3 of this resolution.
+- **(1)** the Speaker may dispense with legislative business, in which case the House shall stand adjourned pursuant to section 3 of this resolution after the third daily order of business under clause 1 of rule XIV; and
+- **(2)** if the Speaker does not dispense with legislative business, the Speaker may at any time declare the House adjourned pursuant to section 3 of this resolution.
 
 ## § 5.
 
