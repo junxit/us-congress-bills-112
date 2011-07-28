@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2056
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2056
@@ -53,3 +53,7 @@ To instruct the Inspector General of the Federal Deposit Insurance Corporation t
 - 2011-07-26 — Placed on the Union Calendar, Calendar No. 120.
 - 2011-07-26 — Reported (Amended) by the Committee on Financial Services. H. Rept. 112-182.
 - 2011-07-26 — Reported (Amended) by the Committee on Financial Services. H. Rept. 112-182.
+- 2011-07-28 — Considered as unfinished business. (consideration: CR H5729)
+- 2011-07-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/26/2011 H5541-5542)
+- 2011-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/26/2011 H5541-5542)

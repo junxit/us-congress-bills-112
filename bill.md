@@ -59,7 +59,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(A)** the number of insured depository institutions that have been approved to receive private equity investment by the FDIC;
     - **(B)** the number of insured depository institutions that have been rejected from receiving private equity investment by the FDIC; and
     - **(C)** the reasons for rejection of private equity investment when such rejection occurs.
-- **(d)** *Report* Not later than one year after the date of the enactment of this Act, the Inspector General shall submit to Congress a report—
+- **(d)** *Report* Not later than 1 year after the date of the enactment of this Act, the Inspector General shall submit to Congress a report—
   - **(1)** on the results of the study conducted pursuant to this section; and
   - **(2)** any recommendations based on such study.
 - **(e)** *Coordination between FDIC IG, Treasury IG, and Federal Reserve IG* In carrying out this section, the Inspector General of the FDIC shall consult with the Inspectors General of the Treasury and of the Federal Reserve System, and such Inspectors General shall provide any documents or other material requested by the Inspector General of the FDIC in order to carry out this section.
@@ -71,7 +71,7 @@ The FDIC shall make available from the portion of the FDIC budget allocated to m
 ## § 3. GAO Study
 
 - **(a)** *Study* The Comptroller General of the United States shall carry out a study on the following:
-  - **(1)** The causes of high levels of bank failures in states with 10 or more failures since 2008.
+  - **(1)** The causes of high levels of bank failures in States with 10 or more failures since 2008.
   - **(2)** The procyclical impact of fair value accounting standards.
   - **(3)** The causes and potential solutions for the “vicious cycle” of loan write downs, raising capital, and failures.
   - **(4)** An analysis of the community impact of bank failures.
