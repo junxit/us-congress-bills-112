@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1938
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1938
@@ -204,3 +204,5 @@ North American-Made Energy Security Act
 - 2011-07-26 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5538)
 - 2011-07-26 — The previous question was ordered pursuant to the rule. (consideration: CR H5537)
 - 2011-07-26 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-07-27 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-07-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 116.
