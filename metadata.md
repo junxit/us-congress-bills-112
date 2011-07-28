@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 26
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 26
