@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 26
 congress: 112
-version: Agreed to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 26
@@ -20,8 +20,15 @@ A concurrent resolution supporting the goals and ideals of the designation of th
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
+## Committees (1)
+
+- House — Foreign Affairs Committee
+
 ## Actions
 
 - 2011-07-27 — Introduced in Senate
 - 2011-07-27 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S4970-4971; text as passed Senate: CR S4970-4971; text of measure as introduced: CR S4963)
 - 2011-07-27 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4970-4971; text as passed Senate: CR S4970-4971; text of measure as introduced: CR S4963)
+- 2011-07-28 — Message on Senate action sent to the House.
+- 2011-07-28 — Received in the House.
+- 2011-07-28 — Referred to the House Committee on Foreign Affairs.
