@@ -2,7 +2,7 @@
 legis-num: H.R. 2056
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2056
@@ -13,9 +13,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Study* The Inspector General of the Federal Deposit Insurance Corporation (FDIC) shall conduct a comprehensive study on the impact of the failure of insured depository institutions.
 - **(b)** *Definitions* For purposes of this Act—
-  - **(1)** the term “insured depository institution” has the meaning given such term in section 3(c) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c));
-  - **(2)** the term “private equity company” has the meaning given the terms “hedge fund” and “private equity fund” in section 13(h)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1851(h)(2)); and
-  - **(3)** the term “paper-loss” means any write down on a performing asset held by an insured depository institution that causes such institution to raise more capital in order to cover the write down.
+  - **(1)** the term insured depository institution has the meaning given such term in section 3(c) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c));
+  - **(2)** the term private equity company has the meaning given the terms “hedge fund” and “private equity fund” in section 13(h)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1851(h)(2)); and
+  - **(3)** the term paper-loss means any write down on a performing asset held by an insured depository institution that causes such institution to raise more capital in order to cover the write down.
 - **(c)** *Matters To be studied* In conducting the study under this section, the Inspector General shall address the following:
   - **(1)** *Loss-Sharing Agreements* The effect of loss-sharing agreements (LSAs), including—
     - **(A)** the impact of loss-sharing on the insured depository institutions that survive and the borrowers of insured depository institutions that fail, including—

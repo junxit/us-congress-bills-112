@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2056
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2056
@@ -32,9 +32,10 @@ To instruct the Inspector General of the Federal Deposit Insurance Corporation t
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 - Rep. Hayworth, Nan A. S. [R-NY-19] (H001054)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ To instruct the Inspector General of the Federal Deposit Insurance Corporation t
 - 2011-07-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2011-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/26/2011 H5541-5542)
 - 2011-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/26/2011 H5541-5542)
+- 2011-07-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
