@@ -17,10 +17,11 @@ This Act may be cited as the “Investigative Assistance for Violent Crimes Act 
 
 Title 28, United States Code, is amended—
 
-- **(1)** in section 530C(b)(1)(L)(i), by striking “2,000,000” and inserting ““$3,000,000”;”
+- **(1)** in section 530C(b)(1)(L)(i), by striking “2,000,000” and inserting ““$3,000,000”;”inserting “$3,000,000”;
 - **(2)** in section 530C(b)(4), by adding at the end the following: “The authority to conduct or assist in investigations includes the authority to deploy tactical response, command and control, and other crisis-management assets of the Bureau, as appropriate; and any such conduct or assistance shall be understood presumptively to be within the scope of Federal office or employment.”;
 - **(3)** in section 540A—
   - **(A)** by amending the section title to read “Investigation of certain violent crimes;”
+  - **(A)** in the section heading, by striking “Investigation of certain violent crimes;” and inserting “Investigation of certain violent crimes”;
   - **(B)** in subsection (a), by inserting “, in the investigation of violent acts and shootings occurring in venues such as schools, colleges, universities, non-Federal office buildings, malls, and other public places, and in the investigation of mass killings and attempted mass killings” after “traveler”; and
   - **(C)** in subsection (c), by adding the following new paragraph at the end:
     > - **(4)** “mass killings” means three or more killings in a single incident.
