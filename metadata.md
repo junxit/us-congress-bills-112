@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1002
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1002
@@ -16,7 +16,7 @@ Wireless Tax Fairness Act of 2011
 
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 
-## Cosponsors (144)
+## Cosponsors (236)
 
 - Rep. Franks, Trent [R-AZ-2] (F000448)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
@@ -162,6 +162,98 @@ Wireless Tax Fairness Act of 2011
 - Rep. Griffin, Tim [R-AR-2] (G000567)
 - Rep. Tonko, Paul [D-NY-21] (T000469)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. Marino, Tom [R-PA-10] (M001179)
+- Rep. Ross, Dennis A. [R-FL-12] (R000593)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Bilbray, Brian P. [R-CA-50] (B000461)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Walsh, Joe [R-IL-8] (W000811)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. Pence, Mike [R-IN-6] (P000587)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Deutch, Theodore E. [D-FL-19] (D000610)
+- Rep. Manzullo, Donald A. [R-IL-16] (M001138)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Bass, Karen [D-CA-33] (B001270)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. Herger, Wally [R-CA-2] (H000528)
+- Rep. Webster, Daniel [R-FL-8] (W000806)
+- Rep. Fleming, John [R-LA-4] (F000456)
+- Rep. Davis, Geoff [R-KY-4] (D000603)
+- Rep. Hastings, Doc [R-WA-4] (H000329)
+- Rep. Camp, Dave [R-MI-4] (C000071)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Heinrich, Martin [D-NM-1] (H001046)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Rivera, David [R-FL-25] (R000590)
+- Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
+- Rep. West, Allen B. [R-FL-22] (W000807)
+- Rep. Rohrabacher, Dana [R-CA-46] (R000409)
+- Rep. Schmidt, Jean [R-OH-2] (S001164)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Nugent, Richard B. [R-FL-5] (N000185)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Kinzinger, Adam [R-IL-11] (K000378)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Rep. Gardner, Cory [R-CO-4] (G000562)
+- Rep. Gibson, Christopher P. [R-NY-20] (G000564)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Austria, Steve [R-OH-7] (A000365)
+- Rep. Wilson, Frederica S. [D-FL-17] (W000808)
+- Rep. Yoder, Kevin [R-KS-3] (Y000063)
+- Rep. Hurt, Robert [R-VA-5] (H001060)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Dold, Robert J. [R-IL-10] (D000613)
+- Rep. Schrader, Kurt [D-OR-5] (S001180)
+- Rep. Southerland, Steve II [R-FL-2] (S001186)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Hayworth, Nan A. S. [R-NY-19] (H001054)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. Paul, Ron [R-TX-14] (P000583)
+- Rep. Heck, Joseph J. [R-NV-3] (H001055)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Labrador, Raul R. [R-ID-1] (L000573)
+- Rep. Meehan, Patrick [R-PA-7] (M001181)
+- Rep. Benishek, Dan [R-MI-1] (B001271)
+- Rep. Denham, Jeff [R-CA-19] (D000612)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
 
 ## Committees (1)
 
@@ -172,3 +264,10 @@ Wireless Tax Fairness Act of 2011
 - 2011-03-10 — Introduced in House
 - 2011-03-10 — Introduced in House
 - 2011-03-10 — Referred to the House Committee on the Judiciary.
+- 2011-03-11 — Referred to the Subcommittee on Courts, Commercial and Administrative Law.
+- 2011-03-15 — Subcommittee Hearings Held.
+- 2011-07-14 — Committee Consideration and Mark-up Session Held.
+- 2011-07-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2011-07-29 — Placed on the Union Calendar, Calendar No. 122.
+- 2011-07-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-188.
+- 2011-07-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-188.
