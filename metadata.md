@@ -1,7 +1,7 @@
 ---
 measure: S. 605
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 605
@@ -16,7 +16,7 @@ Dangerous Synthetic Drug Control Act of 2011
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (6)
+## Cosponsors (10)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
@@ -24,13 +24,23 @@ Dangerous Synthetic Drug Control Act of 2011
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Hagan, Kay R. [D-NC] (H001049)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- Senate — United States Senate Caucus on International Narcotics Control
 
 ## Actions
 
 - 2011-03-17 — Introduced in Senate
 - 2011-03-17 — Read twice and referred to the Committee on the Judiciary.
 - 2011-03-17 — Sponsor introductory remarks on measure. (CR S1830-1831)
+- 2011-04-06 — Committee on United States Senate Caucus on International Narcotics Control. Hearings held.
+- 2011-07-28 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2011-07-29 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2011-07-29 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2011-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 122.
