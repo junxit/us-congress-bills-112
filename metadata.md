@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2213
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2213
@@ -26,8 +26,24 @@ To designate the facility of the United States Postal Service located at 801 Wes
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2011-07-29 — [House 112-1-678](votes/house-112-1-0678.md) — On Motion to Suspend the Rules and Pass — **Passed** (420–0)
+
 ## Actions
 
 - 2011-06-16 — Introduced in House
 - 2011-06-16 — Introduced in House
 - 2011-06-16 — Referred to the House Committee on Oversight and Government Reform.
+- 2011-06-22 — Committee Consideration and Mark-up Session Held.
+- 2011-06-22 — Committee Hearings Held.
+- 2011-06-22 — Ordered to be Reported by Unanimous Consent.
+- 2011-07-28 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lankford objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2011-07-28 — Considered under suspension of the rules. (consideration: CR H5723-5724)
+- 2011-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2213.
+- 2011-07-28 — Mr. Lankford moved to suspend the rules and pass the bill.
+- 2011-07-29 — Considered as unfinished business. (consideration: CR H5766-5767)
+- 2011-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-07-29 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 420 - 0 (Roll no. 678). (text: CR 7/28/2011 H5723)
+- 2011-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 420 - 0 (Roll no. 678).(text: CR 7/28/2011 H5723)
+- 2011-07-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
