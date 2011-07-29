@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2244
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2244
@@ -46,12 +46,29 @@ To designate the facility of the United States Postal Service located at 67 Cast
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 - Rep. Reed, Tom [R-NY-29] (R000585)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
+
+## Recorded votes (1)
+
+- 2011-07-29 — [House 112-1-674](votes/house-112-1-0674.md) — On Motion to Suspend the Rules and Pass — **Passed** (418–1)
 
 ## Actions
 
 - 2011-06-21 — Introduced in House
 - 2011-06-21 — Introduced in House
 - 2011-06-21 — Referred to the House Committee on Oversight and Government Reform.
+- 2011-06-22 — Committee Consideration and Mark-up Session Held.
+- 2011-06-22 — Committee Hearings Held.
+- 2011-06-22 — Ordered to be Reported by Unanimous Consent.
+- 2011-07-28 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lankford objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2011-07-28 — Considered under suspension of the rules. (consideration: CR H5722-5723)
+- 2011-07-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2244.
+- 2011-07-28 — Mr. Lankford moved to suspend the rules and pass the bill.
+- 2011-07-29 — Considered as unfinished business. (consideration: CR H5750-5751)
+- 2011-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-07-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 1, 1 Present (Roll no. 674). (text: CR 7/28/2011 H5722)
+- 2011-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 1, 1 Present (Roll no. 674).(text: CR 7/28/2011 H5722)
+- 2011-07-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
