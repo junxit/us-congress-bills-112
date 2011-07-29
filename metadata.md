@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2548
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2548
@@ -37,9 +37,10 @@ To designate the facility of the United States Postal Service located at 6310 No
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 - Rep. Johnson, Timothy V. [R-IL-15] (J000285)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ To designate the facility of the United States Postal Service located at 6310 No
 - 2011-07-28 — Mr. Lankford moved to suspend the rules and pass the bill.
 - 2011-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5721)
 - 2011-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5721)
+- 2011-07-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
