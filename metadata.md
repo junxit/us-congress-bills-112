@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 175
 congress: 112
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 175
@@ -49,3 +49,5 @@ A resolution expressing the sense of the Senate with respect to ongoing violatio
 - 2011-07-27 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2011-07-27 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2011-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 113.
+- 2011-07-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(consideration: CR S5049; text as passed Senate: CR S5049)
+- 2011-07-29 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S5049; text as passed Senate: CR S5049)
