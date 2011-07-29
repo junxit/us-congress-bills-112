@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1059
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1059
@@ -31,3 +31,9 @@ To protect the safety of judges by extending the authority of the Judicial Confe
 - 2011-03-14 — Introduced in House
 - 2011-03-14 — Referred to the House Committee on the Judiciary.
 - 2011-03-14 — Sponsor introductory remarks on measure. (CR E475)
+- 2011-03-21 — Referred to the Subcommittee on Courts, Commercial and Administrative Law.
+- 2011-07-20 — Committee Consideration and Mark-up Session Held.
+- 2011-07-20 — Ordered to be Reported by Voice Vote.
+- 2011-07-29 — Placed on the Union Calendar, Calendar No. 123.
+- 2011-07-29 — Reported by the Committee on Judiciary. H. Rept. 112-189.
+- 2011-07-29 — Reported by the Committee on Judiciary. H. Rept. 112-189.
