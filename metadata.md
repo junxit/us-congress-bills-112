@@ -1,7 +1,7 @@
 ---
 measure: H.R. 398
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 398
@@ -22,10 +22,15 @@ To amend the Immigration and Nationality Act to toll, during active-duty service
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2011-08-01 — [House 112-1-684](votes/house-112-1-0684.md) — On Motion to Suspend the Rules and Pass — **Passed** (426–0)
 
 ## Actions
 
@@ -42,3 +47,12 @@ To amend the Immigration and Nationality Act to toll, during active-duty service
 - 2011-07-08 — Placed on the Union Calendar, Calendar No. 89.
 - 2011-07-08 — Reported by the Committee on Judiciary. H. Rept. 112-141, Part I.
 - 2011-07-08 — Reported by the Committee on Judiciary. H. Rept. 112-141, Part I.
+- 2011-08-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-08-01 — Considered as unfinished business. (consideration: CR H5829-5830)
+- 2011-08-01 — Considered under suspension of the rules. (consideration: CR H5819-5821)
+- 2011-08-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 398.
+- 2011-08-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-08-01 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
+- 2011-08-01 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 684). (text: CR H5820)
+- 2011-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 684).(text: CR H5820)
+- 2011-08-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
