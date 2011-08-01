@@ -1,7 +1,7 @@
 ---
 measure: S. 1466
 congress: 112
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 1466
