@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2715
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2715
@@ -49,3 +49,10 @@ To provide the Consumer Product Safety Commission with greater authority and dis
 - 2011-08-01 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S5199)
 - 2011-08-01 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S5199)
 - 2011-08-01 — Referred to the House Committee on Energy and Commerce.
+- 2011-08-02 — Message on Senate action sent to the House.
+- 2011-08-05 — Presented to President.
+- 2011-08-05 — Presented to President.
+- 2011-08-12 — Became Public Law No: 112-28.
+- 2011-08-12 — Became Public Law No: 112-28.
+- 2011-08-12 — Signed by President.
+- 2011-08-12 — Signed by President.
