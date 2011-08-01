@@ -1,7 +1,7 @@
 ---
 measure: S. 365
 congress: 112
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 365
@@ -16,9 +16,14 @@ Budget Control Act of 2011
 
 - Sen. Harkin, Tom [D-IA] (H000206)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Education and the Workforce Committee
+
+## Recorded votes (1)
+
+- 2011-08-01 — [House 112-1-690](votes/house-112-1-0690.md) — On Passage — **Passed** (269–161)
 
 ## Actions
 
@@ -31,3 +36,14 @@ Budget Control Act of 2011
 - 2011-02-18 — Message on Senate action sent to the House.
 - 2011-02-18 — Received in the House.
 - 2011-02-18 — Referred to the House Committee on Education and the Workforce.
+- 2011-08-01 — Considered under the provisions of rule H. Res. 384. (consideration: CR H5840-5866; text of amendment in the nature of a substitute: CR H5840-5847)
+- 2011-08-01 — DEBATE - The House proceeded with one hour of debate on S. 365.
+- 2011-08-01 — House amendment offered
+- 2011-08-01 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2011-08-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-08-01 — On passage Passed with amendment by recorded vote: 269 - 161 (Roll no. 690).
+- 2011-08-01 — Passed/agreed to in House: On passage Passed with amendment by recorded vote: 269 - 161 (Roll no. 690).
+- 2011-08-01 — Rule H. Res. 384 passed House.
+- 2011-08-01 — Rule provides for consideration of S. 365 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted. All points of order against provisions in the bill, as amended, are waived.
+- 2011-08-01 — Rules Committee Resolution H. Res. 384 Reported to House. Rule provides for consideration of S. 365 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted. All points of order against provisions in the bill, as amended, are waived.
+- 2011-08-01 — The previous question was ordered pursuant to the rule. (consideration: CR H5865)
