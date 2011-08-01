@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1751
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1751
@@ -32,3 +32,9 @@ CJ's Home Protection Act of 2011
 - 2011-05-05 — Introduced in House
 - 2011-05-05 — Introduced in House
 - 2011-05-05 — Referred to the House Committee on Financial Services.
+- 2011-06-02 — Referred to the Subcommittee on Insurance, Housing and Community Opportunity.
+- 2011-07-20 — Committee Consideration and Mark-up Session Held.
+- 2011-07-20 — Ordered to be Reported by Voice Vote.
+- 2011-08-01 — Placed on the Union Calendar, Calendar No. 124.
+- 2011-08-01 — Reported by the Committee on Financial Services. H. Rept. 112-191.
+- 2011-08-01 — Reported by the Committee on Financial Services. H. Rept. 112-191.
