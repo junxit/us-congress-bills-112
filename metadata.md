@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 70
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 70
@@ -25,3 +25,6 @@ Correcting the enrollment of S. 365.
 - 2011-08-01 — On agreeing to the resolution Agreed to by voice vote. (text: CR H5867)
 - 2011-08-01 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H5867)
 - 2011-08-01 — Received in the Senate.
+- 2011-08-02 — Message on Senate action sent to the House.
+- 2011-08-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5223)
+- 2011-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5223)
