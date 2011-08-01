@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2715
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2715
