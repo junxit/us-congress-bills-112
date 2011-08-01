@@ -1,7 +1,7 @@
 ---
 measure: H.R. 398
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 398
