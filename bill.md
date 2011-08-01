@@ -1,15 +1,13 @@
 ---
 legis-num: S. 365
-congress: 112th CONGRESS
+congress: One Hundred Twelfth Congress of the United States of America
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 365
 
-That the bill from the Senate (S. 365) entitled “An Act to make a technical amendment to the Education Sciences Reform Act of 2002.”, do pass with the following:
-
-*Strike all after the enacting clause and insert the following:*
+> To provide for budget control.
 
 ## § 1. Short title; table of contents
 

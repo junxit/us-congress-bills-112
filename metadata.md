@@ -1,7 +1,7 @@
 ---
 measure: S. 365
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 365
@@ -21,9 +21,10 @@ Budget Control Act of 2011
 - Senate — Health, Education, Labor, and Pensions Committee
 - House — Education and the Workforce Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2011-08-01 — [House 112-1-690](votes/house-112-1-0690.md) — On Passage — **Passed** (269–161)
+- 2011-08-02 — [Senate 112-1-123](votes/senate-112-1-0123.md) — On the Motion — **Motion Agreed to** (74–26)
 
 ## Actions
 
@@ -47,3 +48,14 @@ Budget Control Act of 2011
 - 2011-08-01 — Rule provides for consideration of S. 365 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted. All points of order against provisions in the bill, as amended, are waived.
 - 2011-08-01 — Rules Committee Resolution H. Res. 384 Reported to House. Rule provides for consideration of S. 365 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted. All points of order against provisions in the bill, as amended, are waived.
 - 2011-08-01 — The previous question was ordered pursuant to the rule. (consideration: CR H5865)
+- 2011-08-02 — Became Public Law No: 112-25.
+- 2011-08-02 — Became Public Law No: 112-25.
+- 2011-08-02 — Measure laid before Senate by unanimous consent. (consideration: CR S5201-5223)
+- 2011-08-02 — Message on Senate action sent to the House.
+- 2011-08-02 — Motion by Senator Reid to agree to House amendment to the bill (S. 365) made in Senate.
+- 2011-08-02 — Presented to President.
+- 2011-08-02 — Presented to President.
+- 2011-08-02 — Resolving differences -- Senate actions: Senate agreed in the House amendment to the bill by Yea-Nay Vote. 74 - 26. Record Vote Number: 123.
+- 2011-08-02 — Senate agreed in the House amendment to the bill by Yea-Nay Vote. 74 - 26. Record Vote Number: 123.
+- 2011-08-02 — Signed by President.
+- 2011-08-02 — Signed by President.
