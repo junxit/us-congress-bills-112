@@ -1,7 +1,7 @@
 ---
 measure: H.R. 398
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 398
@@ -56,3 +56,14 @@ To amend the Immigration and Nationality Act to toll, during active-duty service
 - 2011-08-01 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 684). (text: CR H5820)
 - 2011-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 684).(text: CR H5820)
 - 2011-08-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2011-11-10 — Passed Senate without amendment by Voice Vote.
+- 2011-11-10 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2011-11-10 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7390-7391)
+- 2011-11-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7390-7391)
+- 2011-11-14 — Message on Senate action sent to the House.
+- 2011-11-16 — Presented to President.
+- 2011-11-16 — Presented to President.
+- 2011-11-23 — Became Public Law No: 112-58.
+- 2011-11-23 — Became Public Law No: 112-58.
+- 2011-11-23 — Signed by President.
+- 2011-11-23 — Signed by President.
