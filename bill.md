@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 384
+congress: 112th CONGRESS
+session: 1st Session
+chamber: In the House of Representatives, U. S.,
+---
+
+# H. RES. 384
+
+> Providing for consideration of the bill (S. 365) to make a technical amendment to the Education Sciences Reform Act of 2002.
+
+That upon the adoption of this resolution it shall be in order to consider in the House the bill (S. 365) to make a technical amendment to the Education Sciences Reform Act of 2002. All points of order against consideration of the bill are waived. The amendment in the nature of a substitute printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, to final passage without intervening motion except: (1) one hour of debate, with 30 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Rules, 15 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means, and 15 minutes equally divided and controlled by the chair and ranking minority member of the Committee on the Budget; and (2) one motion to recommit with or without instructions.
