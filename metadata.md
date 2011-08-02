@@ -1,7 +1,7 @@
 ---
 measure: S. 1302
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1302
@@ -32,3 +32,5 @@ A bill to authorize the Administrator of General Services to convey a parcel of 
 - 2011-07-28 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-40.
 - 2011-07-28 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-40.
 - 2011-07-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 117.
+- 2011-08-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5283; text as passed Senate: CR S5283)
+- 2011-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5283; text as passed Senate: CR S5283)
