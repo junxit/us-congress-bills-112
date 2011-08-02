@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 104
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 104
@@ -31,3 +31,7 @@ A resolution designating September 2011 as "Campus Fire Safety Month".
 
 - 2011-03-17 — Introduced in Senate
 - 2011-03-17 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1851)
+- 2011-08-02 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S5283-5284)
+- 2011-08-02 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S5283-5284)
+- 2011-08-02 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5283-5284)
+- 2011-08-02 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5283-5284)
