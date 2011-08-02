@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2480
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2480
@@ -20,9 +20,10 @@ Administrative Conference of the United States Reauthorization Act of 2011
 
 - Rep. Coble, Howard [R-NC-6] (C000556)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Administrative Conference of the United States Reauthorization Act of 2011
 - 2011-08-01 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2011-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 23 (Roll no. 691). (text: CR H5822)
 - 2011-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 23 (Roll no. 691).(text: CR H5822)
+- 2011-08-02 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
