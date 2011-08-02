@@ -1,7 +1,7 @@
 ---
 measure: S. 538
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 538
@@ -25,3 +25,7 @@ A bill to amend the Neotropical Migratory Bird Conservation Act to reauthorize t
 - 2011-03-10 — Introduced in Senate
 - 2011-03-10 — Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S1549)
 - 2011-03-10 — Sponsor introductory remarks on measure. (CR S1548-1549)
+- 2011-07-13 — Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.
+- 2011-08-02 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment. With written report No. 112-46.
+- 2011-08-02 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment. With written report No. 112-46.
+- 2011-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 126.

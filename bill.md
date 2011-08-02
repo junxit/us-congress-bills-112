@@ -16,4 +16,5 @@ Section 10 of the Neotropical Migratory Bird Conservation Act (16 U.S.C. 6109) i
 > ## § 10. Authorization of appropriations
 >
 > - **(a)** *In general* There are authorized to be appropriated to carry out this Act such sums as are necessary for each of fiscal years 2012 through 2017.
+> - **(a)** *In general* There is authorized to be appropriated to carry out this Act $6,500,000 for each of fiscal years 2012 through 2017.
 > - **(b)** *Use of funds* Of the amounts made available under subsection (a) for each fiscal year, not less than 75 percent shall be expended for projects carried out at a location outside of the United States.
