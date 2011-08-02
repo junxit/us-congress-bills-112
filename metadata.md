@@ -1,7 +1,7 @@
 ---
 measure: S. 710
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 710
@@ -16,12 +16,13 @@ Hazardous Waste Electronic Manifest Establishment Act
 
 - Sen. Thune, John [R-SD] (T000250)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Boxer, Barbara [D-CA] (B000711)
 
 ## Committees (1)
 
@@ -35,3 +36,5 @@ Hazardous Waste Electronic Manifest Establishment Act
 - 2011-06-07 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-20.
 - 2011-06-07 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-20.
 - 2011-06-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 72.
+- 2011-08-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5281-5283; text as passed Senate: CR S5281-5283)
+- 2011-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5281-5283; text as passed Senate: CR S5281-5283)
