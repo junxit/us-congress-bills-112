@@ -1,8 +1,8 @@
 ---
 legis-num: S. 1302
-congress: 112th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Twelfth Congress of the United States of America
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1302
