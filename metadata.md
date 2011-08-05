@@ -1,0 +1,45 @@
+---
+measure: H.R. 2798
+congress: 112
+version: Introduced in House
+---
+
+# H.R. 2798
+
+`Alzheimer's Caregiver Support Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Waters, Maxine [D-CA-35] (W000187)
+
+## Cosponsors (14)
+
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Fudge, Marcia L. [D-OH-11] (F000455)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+
+## Committees (1)
+
+- House — Energy and Commerce Committee
+
+## Actions
+
+- 2011-08-05 — Introduced in House
+- 2011-08-05 — Introduced in House
+- 2011-08-05 — Referred to the House Committee on Energy and Commerce.
+- 2011-08-05 — Referred to the Subcommittee on Health.
