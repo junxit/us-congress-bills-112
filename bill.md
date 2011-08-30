@@ -21,11 +21,12 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(B)** consist of approximately 2 acres (including appurtenances).
   - **(2)** *Secretary* The term Secretary means the Secretary of Agriculture.
   - **(3)** *Town* The term Town means the town of Alta, Utah.
-- **(b)** *Conveyance* As soon as practicable after the date of enactment of this Act, the Secretary shall convey to the Town, without consideration, all right, title, and interest of the United States in and to the National Forest System land.
-- **(c)** *Survey*
+- **(b)** *Conveyance* As soon as practicable after theOn the request of the Town submitted to the Secretary by the date that is not later than 1 year after the date of enactment of this Act, the Secretary shall convey to the Town, without consideration, all right, title, and interest of the United States in and to the National Forest System land.
+- **(c)** *Survey; costs*
   - **(1)** *In general* In accordance with paragraphs (2) and (3), the exact acreage and legal description of the National Forest System land shall be determined by a survey approved by the Secretary.
   - **(2)** *Maximum area* The acreage of the National Forest System land determined under paragraph (1) may not exceed 2 acres.
   - **(3)** *Cost* The Town shall pay each cost arising from a survey described in paragraph (1).
+  - **(3)** *Costs* The Town shall pay the reasonable survey and other administrative costs associated with the conveyance.
 - **(d)** *Use of national forest system land* As a condition of the conveyance under subsection (b), the Town shall use the National Forest System land only for public purposes.
 - **(e)** *Reversionary interest* In the deed to the Town, the Secretary shall provide that the National Forest System land shall revert to the Secretary, at the election of the Secretary based on the best interests of the United States, if the National Forest System land is used for a purpose other than a public purpose.
 - **(f)** *Additional terms and conditions* With respect to the conveyance under subsection (b), the Secretary may require such additional terms and conditions as the Secretary determines to be appropriate to protect the interests of the United States.
