@@ -1,7 +1,7 @@
 ---
 measure: S. 997
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 997
@@ -24,3 +24,8 @@ East Bench Irrigation District Water Contract Extension Act
 
 - 2011-05-12 — Introduced in Senate
 - 2011-05-12 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2011-06-23 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 112-129.
+- 2011-07-14 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2011-08-30 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 08/02/2011 without amendment. With written report No. 112-65.
+- 2011-08-30 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 08/02/2011 without amendment. With written report No. 112-65.
+- 2011-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 145.
