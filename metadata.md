@@ -1,7 +1,7 @@
 ---
 measure: S. 897
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 897
@@ -32,3 +32,8 @@ A bill to amend the Surface Mining Control and Reclamation Act of 1977 to clarif
 - 2011-05-05 — Introduced in Senate
 - 2011-05-05 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S2737)
 - 2011-05-05 — Sponsor introductory remarks on measure. (CR S2737)
+- 2011-05-18 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 112-39.
+- 2011-07-14 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2011-08-30 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 08/02/2011 without amendment. With written report No. 112-63.
+- 2011-08-30 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 08/02/2011 without amendment. With written report No. 112-63.
+- 2011-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 143.
