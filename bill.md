@@ -43,14 +43,15 @@ This Act may be cited as the “Hoover Power Allocation Act of 2011”.
     >   - **(E)** Each contract offered pursuant to this subsection shall include a provision requiring the new allottee to pay a proportionate share of its State’s respective contribution (determined in accordance with each State’s applicable funding agreement) to the cost of the Lower Colorado River Multi-Species Conservation Program (as defined in section 9401 of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1327)), and to execute the Boulder Canyon Project Implementation Agreement Contract No. 95–PAO–10616 (referred to in this section as the “Implementation Agreement”).
     >   - **(F)** Any of the 66.7 percent of Schedule D contingent capacity and firm energy that is to be allocated by Western that is not allocated and placed under contract by October 1, 2017, shall be returned to those contractors shown in Schedule A and Schedule B in the same proportion as those contractors’ allocations of Schedule A and Schedule B contingent capacity and firm energy. Any of the 33.3 percent of Schedule D contingent capacity and firm energy that is to be distributed within the States of Arizona, Nevada, and California that is not allocated and placed under contract by October 1, 2017, shall be returned to the Schedule A and Schedule B contractors within the State in which the Schedule D contingent capacity and firm energy were to be distributed, in the same proportion as those contractors’ allocations of Schedule A and Schedule B contingent capacity and firm energy.
 
-- **(e)** *Total obligations* Paragraph (3) of section 105(a) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(a)) (as redesignated as subsection (d)(1)) is amended—
+- **(e)** *Total obligations* Paragraph (3) of section 105(a) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(a)) (as redesignated asredesignated by subsection (d)(1)) is amended—
   - **(1)** in the first sentence, by striking “schedule A of section 105(a)(1)(A) and schedule B of section 105(a)(1)(B)” and inserting “paragraphs (1)(A), (1)(B), and (2)”; and
   - **(2)** in the second sentence—
     - **(A)** by striking “any” and inserting “each”;
+    - **(A)** by striking “any” each place it appears and inserting “each”;
     - **(B)** by striking “schedule C” and inserting “Schedule C”; and
     - **(C)** by striking “schedules A and B” and inserting “Schedules A, B, and D”.
-- **(f)** *Power marketing criteria* Paragraph (4) of section 105(a) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(a)) (as redesignated as subsection (d)(1)) is amended to read as follows:
-  > - **(4)** Subdivision E of the Criteria shall be deemed to have been modified to conform to this section, as modified by the Hoover Power Allocation Act of 2011. The Secretary of Energy shall cause to be included in the Federal Register a notice conforming the text of the regulations to such modifications.
+- **(f)** *Power marketing criteria* Paragraph (4) of section 105(a) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(a)) (as redesignated asredesignated by subsection (d)(1)) is amended to read as follows:
+  > - **(4)** Subdivision E of the CriteriaSubdivision C of the Conformed Criteria shall be deemed to have been modified to conform to this section, as modified by the Hoover Power Allocation Act of 2011. The Secretary of Energy shall cause to be included in the Federal Register a notice conforming the text of the regulations to such modifications.
 
 - **(g)** *Contract terms* Paragraph (5) of section 105(a) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(a)) (as redesignated as subsection (d)(1)) is amended—
   - **(1)** by striking subparagraph (A) and inserting the following:

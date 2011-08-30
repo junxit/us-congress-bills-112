@@ -1,7 +1,7 @@
 ---
 measure: S. 519
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-28 amendatory instructions. 0 executed, 28 stated and not applied.
+29 amendatory instructions. 0 executed, 29 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,9 +41,10 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | replace | in the first sentence, by striking “schedule A of section 105(a)(1)(A) and schedule B of section 105(a)(1)(B)” and inserting “paragraphs (1)(A), (1)(B), and (2)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “any” and inserting “each”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “any” each place it appears and inserting “each”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “schedule C” and inserting “Schedule C”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “schedules A and B” and inserting “Schedules A, B, and D”. | the bill names no machine-readable US Code section |
-| — | redesignate | Paragraph (4) of section 105(a) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(a)) (as redesignated as subsection (d)(1)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | Paragraph (4) of section 105(a) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(a)) (as redesignated asredesignated by subsection (d)(1)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “shall use” and inserting “shall allocate”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” after the semicolon at the end; | the bill names no machine-readable US Code section |
