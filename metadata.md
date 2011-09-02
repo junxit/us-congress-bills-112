@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1892
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1892
@@ -25,3 +25,8 @@ Intelligence Authorization Act for Fiscal Year 2012
 - 2011-05-13 — Introduced in House
 - 2011-05-13 — Introduced in House
 - 2011-05-13 — Referred to the House Committee on Intelligence (Permanent Select).
+- 2011-05-26 — Committee Consideration and Mark-up Session Held.
+- 2011-05-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2011-09-02 — Placed on the Union Calendar, Calendar No. 126.
+- 2011-09-02 — Reported (Amended) by the Committee on Intelligence. H. Rept. 112-197.
+- 2011-09-02 — Reported (Amended) by the Committee on Intelligence. H. Rept. 112-197.
