@@ -1,7 +1,7 @@
 ---
 measure: S. 572
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 572
@@ -33,3 +33,8 @@ A bill to amend title 38, United States Code, to repeal the prohibition on colle
 
 - 2011-03-14 — Introduced in Senate
 - 2011-03-14 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2011-06-08 — Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 112-116.
+- 2011-06-29 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2011-09-06 — Committee on Veterans' Affairs. Reported by Senator Murray without amendment. With written report No. 112-68. Minority views filed.
+- 2011-09-06 — Committee on Veterans' Affairs. Reported by Senator Murray without amendment. With written report No. 112-68. Minority views filed.
+- 2011-09-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 148.
