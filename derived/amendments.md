@@ -1,7 +1,7 @@
 ---
 measure: S. 714
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | in section 203(2) (43 U.S.C. 2302(2)), by striking “on the date of enactment of this Act was” and inserting “is”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking “this Act” and inserting “the Federal Land Transaction Facilitation Act Reauthorization of 2009”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “this Act” and inserting “the Federal Land Transaction Facilitation Act Reauthorization of 20092011”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d), by striking “11” and inserting “21”; | the bill names no machine-readable US Code section |
 | — | strike | in section 206 (43 U.S.C. 2305), by striking subsection (f); and | the bill names no machine-readable US Code section |
 | — | replace | by striking “96–568” and inserting “96–586”; and | the bill names no machine-readable US Code section |
