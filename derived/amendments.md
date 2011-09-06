@@ -1,7 +1,7 @@
 ---
 measure: S. 1000
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-153 amendatory instructions. 3 executed, 150 stated and not applied.
+191 amendatory instructions. 3 executed, 188 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -141,7 +141,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “If the Secretary” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “clause (ii)(II)” and inserting “subparagraph (A)(ii)(II)”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “clause (i)” and inserting “subparagraph (A)(i)”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C)(iv), by striking “An amendment prescribed under this subsection” and inserting “Notwithstanding subparagraph (D), an amendment prescribed under this subparagraph”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “subparagraphs (B) through (G)” each place it appears and inserting “subparagraphs (B), (C), (D), (I), (J), and (K)”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “part A” each place it appears and inserting “part B”; and | the bill names no machine-readable US Code section |
@@ -210,3 +210,41 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subsection (a), in the matter preceding paragraph (1), by striking “electric”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (d) as subsection (e); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 304 of the Energy Conservation and Production Act (42 U.S.C. 6833) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 303 of the Energy Conservation and Production Act (42 U.S.C. 6832) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | repeal | Section 307 of the Energy Conservation and Production Act (42 U.S.C. 6836) is repealed. | the bill names no machine-readable US Code section |
+| — | add-at-end | Title XVII of the Energy Policy Act of 2005 (42 U.S.C. 16511 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in the section heading, by inserting “and industry” before the period at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (h) and (i) as subsections (i) and (j), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (g) the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 452 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17111) is amended by striking the section heading and inserting the following: “Future of Industry program”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3) through (5) as paragraphs (4) through (6), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (3): | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (E), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (F) as subparagraph (G); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (E) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1) through (5) as subparagraphs (A) through (E), respectively, and indenting appropriately; | the bill names no machine-readable US Code section |
+| — | replace | by striking “The Secretary” and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | in subparagraph (A) (as redesignated by subparagraph (A)), by inserting before the semicolon at the end the following: “, including assessments of sustainable manufacturing goals and the implementation of information technology advanceme… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Part E of title III of the Energy Policy and Conservation Act (42 U.S.C. 6341) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of contents of the Energy Policy and Conservation Act (42 U.S.C. prec. 6201) is amended by adding at the end of the items relating to part E of title III the following: | the bill names no machine-readable US Code section |
+| — | insert | Part B of title III of the Energy Policy and Conservation Act (42 U.S.C. 6291) is amended by inserting after section 324A (42 U.S.C. 6294a) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (d) through (h) as subsections (e) through (i), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 543(e) of the National Energy Conservation Policy Act (42 U.S.C. 8253(e) is amended by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating the second subsection (f) (as added by section 434(a) of Public Law 110–140 (121 Stat. 1614)) as subsection (g); and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (f)(7), by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (A), by striking “or” after the semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsections (a) and (b)(2), by striking “electric energy” each place it appears and inserting “electric and thermal energy”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (d) as subsection (e); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 422(f) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17082(f)) is amended by striking paragraphs (2) through (4) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “through 2013” and inserting “and 2010, $100,000,000 for each of fiscal years 2011 and 2012, and $250,000,000 for fiscal year 2013”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “through 2013” and inserting “and 2010, $100,000,000 for each of fiscal years 2011 and 2012, and $425,000,000 for fiscal year 2013”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (B) as subparagraph (D); and | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (D), by striking “$202,000,000” and inserting “$102,000,000”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (E), by striking “$208,000,000” and inserting “$108,000,000”. | the bill names no machine-readable US Code section |
