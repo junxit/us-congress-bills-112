@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2112
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2112
@@ -612,3 +612,6 @@ Consolidated and Further Continuing Appropriations Act, 2012
 - 2011-06-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4313-4314)
 - 2011-06-16 — The previous question was ordered pursuant to the rule. (consideration: CR H4312)
 - 2011-06-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-09-07 — Committee on Appropriations. Reported by Senator Kohl with an amendment in the nature of a substitute. With written report No. 112-73.
+- 2011-09-07 — Committee on Appropriations. Reported by Senator Kohl with an amendment in the nature of a substitute. With written report No. 112-73.
+- 2011-09-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 155.
