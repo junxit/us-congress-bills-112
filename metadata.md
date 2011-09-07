@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 66
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 66
@@ -46,3 +46,5 @@ Approving the renewal of import restrictions contained in the Burmese Freedom an
 - 2011-07-20 — On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote. (text: CR H5266)
 - 2011-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.(text: CR H5266)
 - 2011-07-20 — Received in the Senate.
+- 2011-09-06 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-09-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 154.
