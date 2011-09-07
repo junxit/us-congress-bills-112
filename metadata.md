@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2354
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2354
@@ -772,3 +772,6 @@ Energy and Water Development and Related Agencies Appropriations Act, 2012
 - 2011-07-15 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2011-07-15 — Vacating Proceedings - By unanimous consent, at 10:31 a.m., the request for a recorded on the Burgess amendment numbered 70 was vacated and the Chair put the question de novo. Subsequently, the amendment passed by voice vote.
 - 2011-07-18 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2011-09-07 — Committee on Appropriations. Reported by Senator Feinstein with an amendment in the nature of a substitute. With written report No. 112-75.
+- 2011-09-07 — Committee on Appropriations. Reported by Senator Feinstein with an amendment in the nature of a substitute. With written report No. 112-75.
+- 2011-09-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 157.
