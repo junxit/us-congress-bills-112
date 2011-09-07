@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. RES. 219
 
-> Designating September 13, 2011, as “National Celiac Disease Awareness Day”.
+> Designating September 13, 2011, as National Celiac Disease Awareness Day.
 
 ## Preamble
 
@@ -31,7 +31,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That the Senate—
 
-- **(1)** designates September 13, 2011, as “National Celiac Disease Awareness Day”;
+- **(1)** designates September 13, 2011, as National Celiac Disease Awareness Day;
 - **(2)** recognizes that all people of the United States should become more informed and aware of celiac disease;
 - **(3)** calls upon the people of the United States to observe National Celiac Disease Awareness Day with appropriate ceremonies and activities; and
 - **(4)** respectfully requests the Secretary of the Senate to transmit a copy of this resolution to the Celiac Sprue Association, the American Celiac Society, and the Celiac Disease Foundation.
