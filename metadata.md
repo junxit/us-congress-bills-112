@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 74
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 74
@@ -26,3 +26,4 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2011-09-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H5942)
 - 2011-09-07 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S5392)
 - 2011-09-07 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5392)
+- 2011-09-08 — Message on Senate action sent to the House.
