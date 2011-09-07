@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2633
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2633
@@ -29,3 +29,8 @@ Appeal Time Clarification Act of 2011
 - 2011-07-25 — Introduced in House
 - 2011-07-25 — Introduced in House
 - 2011-07-25 — Referred to the House Committee on the Judiciary.
+- 2011-07-27 — Committee Consideration and Mark-up Session Held.
+- 2011-07-27 — Ordered to be Reported by Voice Vote.
+- 2011-09-07 — Placed on the Union Calendar, Calendar No. 128.
+- 2011-09-07 — Reported by the Committee on Judiciary. H. Rept. 112-199.
+- 2011-09-07 — Reported by the Committee on Judiciary. H. Rept. 112-199.
