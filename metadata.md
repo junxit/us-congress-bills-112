@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2017
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2017
@@ -524,3 +524,6 @@ Continuing Appropriations Act, 2012
 - 2011-06-02 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which were debated earlier and on which further proceedings had been postponed.
 - 2011-06-02 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2011-06-06 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2011-09-07 — Committee on Appropriations. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 112-74.
+- 2011-09-07 — Committee on Appropriations. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 112-74.
+- 2011-09-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 156.
