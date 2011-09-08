@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 67
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 67
@@ -44,3 +44,4 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2011-09-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 379 - 0 (Roll no. 692).(text: CR H5943)
 - 2011-09-08 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S5464)
 - 2011-09-08 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5464)
+- 2011-09-09 — Message on Senate action sent to the House.
