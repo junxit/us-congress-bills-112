@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 28
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 28
@@ -28,3 +28,7 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 
 - 2011-08-02 — Introduced in Senate
 - 2011-08-02 — Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S5270)
+- 2011-09-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(text: CR S5464)
+- 2011-09-08 — Resolution agreed to in Senate without amendment by Unanimous Consent. (text: CR S5464)
+- 2011-09-08 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S5464)
+- 2011-09-08 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S5464)
