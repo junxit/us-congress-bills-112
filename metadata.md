@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2552
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2552
@@ -30,3 +30,8 @@ Identity Theft Improvement Act of 2011
 - 2011-07-15 — Introduced in House
 - 2011-07-15 — Referred to the House Committee on the Judiciary.
 - 2011-07-15 — Sponsor introductory remarks on measure. (CR E1337)
+- 2011-07-20 — Committee Consideration and Mark-up Session Held.
+- 2011-07-20 — Ordered to be Reported by the Yeas and Nays: 16 - 10.
+- 2011-09-08 — Placed on the Union Calendar, Calendar No. 130.
+- 2011-09-08 — Reported by the Committee on Judiciary. H. Rept. 112-202.
+- 2011-09-08 — Reported by the Committee on Judiciary. H. Rept. 112-202.
