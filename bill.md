@@ -2,7 +2,7 @@
 legis-num: H. RES. 392
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 392
@@ -23,4 +23,7 @@ That at any time after the adoption of this resolution the Speaker may, pursuant
 
 ## § 3.
 
-A motion to proceed with regard to a joint resolution of disapproval specified in subsection (a)(1) of section 3101A of title 31, United States Code—(a) shall be in order only if offered by the Majority Leader or his designee; and (b) may be offered even following the sixth day specified in subsection (c)(3) of such section but not later than the legislative day of September 14, 2011.
+A motion to proceed with regard to a joint resolution of disapproval specified in subsection (a)(1) of section 3101A of title 31, United States Code—
+
+- **(a)** shall be in order only if offered by the Majority Leader or his designee; and
+- **(b)** may be offered even following the sixth day specified in subsection (c)(3) of such section but not later than the legislative day of September 14, 2011.
