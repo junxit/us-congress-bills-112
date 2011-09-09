@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 391
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 391
@@ -41,3 +41,23 @@ Expressing the sense of the House of Representatives regarding the terrorist att
 - 2011-09-07 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Foreign Affairs, Armed Services, Transportation and Infrastructure, the Judiciary, Homeland Security, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-09-07 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Foreign Affairs, Armed Services, Transportation and Infrastructure, the Judiciary, Homeland Security, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-09-07 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Foreign Affairs, Armed Services, Transportation and Infrastructure, the Judiciary, Homeland Security, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-09-08 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2011-09-09 — Committee on Armed Services discharged.
+- 2011-09-09 — Committee on Armed Services discharged.
+- 2011-09-09 — Committee on Foreign Affairs discharged.
+- 2011-09-09 — Committee on Foreign Affairs discharged.
+- 2011-09-09 — Committee on Homeland Security discharged.
+- 2011-09-09 — Committee on Homeland Security discharged.
+- 2011-09-09 — Committee on Intelligence (Permanent) discharged.
+- 2011-09-09 — Committee on Intelligence (Permanent) discharged.
+- 2011-09-09 — Committee on Judiciary discharged.
+- 2011-09-09 — Committee on Judiciary discharged.
+- 2011-09-09 — Committee on Oversight and Government discharged.
+- 2011-09-09 — Committee on Oversight and Government discharged.
+- 2011-09-09 — Committee on Transportation discharged.
+- 2011-09-09 — Committee on Transportation discharged.
+- 2011-09-09 — Considered by unanimous consent. (consideration: CR H6032-6033)
+- 2011-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-09-09 — Mr. Cantor asked unanimous consent to discharge from committee and consider.
+- 2011-09-09 — On agreeing to the resolution Agreed to without objection. (text: CR H6032-6033)
+- 2011-09-09 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6032-6033)
