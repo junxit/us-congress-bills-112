@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 28
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 28
@@ -20,9 +20,10 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Rules and Administration Committee
+- House — Committee on House Administration
 
 ## Actions
 
@@ -32,3 +33,6 @@ A concurrent resolution authorizing the use of Emancipation Hall in the Capitol 
 - 2011-09-08 — Resolution agreed to in Senate without amendment by Unanimous Consent. (text: CR S5464)
 - 2011-09-08 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S5464)
 - 2011-09-08 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S5464)
+- 2011-09-09 — Message on Senate action sent to the House.
+- 2011-09-09 — Received in the House.
+- 2011-09-09 — Referred to the House Committee on House Administration.
