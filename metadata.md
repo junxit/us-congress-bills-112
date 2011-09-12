@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 77
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 77
@@ -16,7 +16,7 @@ Relating to the disapproval of the President's exercise of authority to increase
 
 - Rep. Reed, Tom [R-NY-29] (R000585)
 
-## Cosponsors (49)
+## Cosponsors (67)
 
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
 - Rep. Mack, Connie [R-FL-14] (M001155)
@@ -67,6 +67,24 @@ Relating to the disapproval of the President's exercise of authority to increase
 - Rep. Gosar, Paul A. [R-AZ-1] (G000565)
 - Rep. Johnson, Bill [R-OH-6] (J000292)
 - Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Southerland, Steve II [R-FL-2] (S001186)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Schilling, Robert T. [R-IL-17] (S001182)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Gowdy, Trey [R-SC-4] (G000566)
+- Rep. Mulvaney, Mick [R-SC-5] (M001182)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Boustany, Charles W., Jr. [R-LA-7] (B001255)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Buerkle, Ann Marie [R-NY-25] (B001276)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
 
 ## Committees (1)
 
@@ -77,3 +95,6 @@ Relating to the disapproval of the President's exercise of authority to increase
 - 2011-09-07 — Introduced in House
 - 2011-09-07 — Introduced in House
 - 2011-09-07 — Referred to the House Committee on Ways and Means.
+- 2011-09-12 — Committee on Ways and Means discharged.
+- 2011-09-12 — Committee on Ways and Means discharged.
+- 2011-09-12 — Placed on the Union Calendar, Calendar No. 134.
