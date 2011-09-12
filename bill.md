@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 2891
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2891
+
+> To delay implementation of the Cross-State Air Pollution Rule of the Environmental Protection Agency.
+
+## § 1. Short title
+
+This Act may be cited as the “America’s Energy Independence Act”.
+
+## § 2. Delay in implementation of Cross-State Air Pollution rule
+
+- **(a)** *Delay* Notwithstanding any other provision of law, the Administrator of the Environmental Protection Agency shall not implement the final rule entitled “Federal Implementation Plans: Interstate Transport of Fine Particulate Matter and Ozone and Correction of SIP Approvals” (76 Fed Reg. 48208 (August 8, 2011); commonly referred to as the “Cross-State Air Pollution Rule”) or any successor or substantially similar rule (other than the rules described in subsection (b)) before the end of calendar year 2021.
+- **(b)** *Applicability of Clean Air Interstate Rule in interim* Notwithstanding any other provision of law, the Administrator of the Environmental Protection Agency shall—
+  - **(1)** continue to implement the Clean Air Interstate Rule and the rule establishing Federal Implementation Plans for the Clean Air Interstate Rule as promulgated and modified by the Administrator of the Environmental Protection Agency (70 Fed. Reg. 25162 (May 12, 2005), 71 Fed. Reg. 25288 (April 28, 2006), 71 Fed. Reg. 25328 (April 28, 2006), 72 Fed. Reg. 59190 (Oct. 19, 2007), 72 Fed. Reg. 62338 (Nov. 2, 2007), 74 Fed. Reg. 56721 (Nov. 3, 2009)) through the end of calendar year 2021; and
+  - **(2)** not promulgate any modification to any rule described in paragraph (1).
