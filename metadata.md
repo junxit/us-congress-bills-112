@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2076
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2076
@@ -26,6 +26,10 @@ Investigative Assistance for Violent Crimes Act of 2012
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2011-09-12 — [House 112-1-699](votes/house-112-1-0699.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (358–9)
+
 ## Actions
 
 - 2011-06-01 — Introduced in House
@@ -37,3 +41,11 @@ Investigative Assistance for Violent Crimes Act of 2012
 - 2011-07-29 — Placed on the Union Calendar, Calendar No. 121.
 - 2011-07-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-186.
 - 2011-07-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-186.
+- 2011-09-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-09-12 — Considered as unfinished business. (consideration: CR H6050-6051)
+- 2011-09-12 — Considered under suspension of the rules. (consideration: CR H6046-6047)
+- 2011-09-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2076.
+- 2011-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-09-12 — Mr. Gowdy moved to suspend the rules and pass the bill, as amended.
+- 2011-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 9 (Roll no. 699). (text: CR H6046)
+- 2011-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 9 (Roll no. 699).(text: CR H6046)
