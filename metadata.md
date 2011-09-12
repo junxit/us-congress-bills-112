@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1892
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1892
@@ -104,3 +104,4 @@ Intelligence Authorization Act for Fiscal Year 2012
 - 2011-09-09 — The previous question was ordered pursuant to the rule. (consideration: CR H6032)
 - 2011-09-09 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2011-09-09 — Wolf amendment (A002) modified by unanimous consent. (text as modified: CR H6027)
+- 2011-09-12 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 161.
