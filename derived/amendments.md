@@ -1,7 +1,7 @@
 ---
 measure: H.R. 358
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,10 +32,13 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | redesignate | by redesignating subsections (c) and (d) as subsections (e) and (f), respectively; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (4) of subsection (b) as subsection (d) and transferring such subsection (d) after the subsection (c) inserted by paragraph (4) of this subsection with appropriate indentation; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (4) of subsection (b) as subsection (d) and transferring such subsection (d) after the subsection (c) inserted by paragraph (4) of this subsection with appropriate indentation (and conforming the style of the h… | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (b) the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “regarding the prohibition of (or requirement of) coverage, funding, or” and inserting “protecting conscience rights, restricting or prohibiting abortion or coverage or funding of abortion, or establishing”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2)(A), by striking “Nothing” and inserting “Subject to subsection (g), nothing”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | strike | in the heading, by striking “regarding abortion”; | the bill names no machine-readable US Code section |
+| — | strike | in the heading of each of paragraphs (1) and (2), by striking each place it appears “regarding abortion”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “regarding the prohibition of (or requirement of) coverage, funding, or” and inserting “protecting conscience rights, restricting or prohibiting abortion or coverage or funding of abortion, or establishing”;… | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2)(A), by striking “Nothing” and inserting “Subject to subsection (g), nothing”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (f), as redesignated by paragraph (1), by striking “Nothing” and inserting “Subject to subsection (g), nothing”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | Section 1334(a)(6) of such Act is amended to read as follows: | the bill names no machine-readable US Code section |

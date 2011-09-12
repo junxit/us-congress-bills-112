@@ -17,31 +17,32 @@ This Act may be cited as the “Protect Life Act”.
 
 - **(a)** *In General* Section 1303 of the Patient Protection and Affordable Care Act (Public Law 111–148), as amended by section 10104(c) of such Act, is amended—
   - **(1)** by redesignating subsections (c) and (d) as subsections (e) and (f), respectively;
-  - **(2)** by redesignating paragraph (4) of subsection (b) as subsection (d) and transferring such subsection (d) after the subsection (c) inserted by paragraph (4) of this subsection with appropriate indentation;
+  - **(2)** by redesignating paragraph (4) of subsection (b) as subsection (d) and transferring such subsection (d) after the subsection (c) inserted by paragraph (4) of this subsection with appropriate indentation (and conforming the style of the heading to a subsection heading);
   - **(3)** by amending subsection (b) to read as follows:
     > - **(b)** *Special Rules Relating to training in and Coverage of Abortion Services* Nothing in this Act (or any amendment made by this Act) shall be construed to require any health plan to provide coverage of or access to abortion services or to allow the Secretary or any other Federal or non-Federal person or entity in implementing this Act (or amendment) to require coverage of, access to, or training in abortion services.
 
   - **(4)** by inserting after subsection (b) the following new subsection:
     > - **(c)** *Limitation on Abortion Funding*
     >   - **(1)** *In general* No funds authorized or appropriated by this Act (or an amendment made by this Act), including credits applied toward qualified health plans under section 36B of the Internal Revenue Code of 1986 or cost-sharing reductions under section 1402 of this Act, may be used to pay for any abortion or to cover any part of the costs of any health plan that includes coverage of abortion, except—
-    >     - **(A)** if the pregnancy occurred because the pregnant female was the subject of an act of forcible rape or, if a minor, an act of incest; or
+    >     - **(A)** if the pregnancy is the result of an act of rape or incest; or
     >     - **(B)** in the case where a pregnant female suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the female in danger of death unless an abortion is performed, including a life-endangering physical condition caused by or arising from the pregnancy itself.
     >   - **(2)** *Option to purchase separate coverage or plan* Nothing in this subsection shall be construed as prohibiting any non-Federal entity (including an individual or a State or local government) from purchasing separate coverage for abortions for which funding is prohibited under this subsection, or a qualified health plan that includes such abortions, so long as—
     >     - **(A)** such coverage or plan is paid for entirely using only funds not authorized or appropriated by this Act; and
     >     - **(B)** such coverage or plan is not purchased using—
     >       - **(i)** individual premium payments required for a qualified health plan offered through an Exchange towards which a credit is applied under section 36B of the Internal Revenue Code of 1986; or
     >       - **(ii)** other non-Federal funds required to receive a Federal payment, including a State’s or locality’s contribution of Medicaid matching funds.
-    >   - **(3)** *Option to offer coverage or plan* Nothing in this subsection or section 1311(d)(2)(B)(i) shall restrict any non-Federal health insurance issuer offering a qualified health plan from offering separate coverage for abortions for which funding is prohibited under this subsection, or a plan that includes such abortions, so long as—
+    >   - **(3)** *Option to offer coverage or plan* Nothing in this subsection or section 1311(d)(2)(B)(i) shall restrict any non-Federal health insurance issuer offering a qualified health plan from offering separate coverage for abortions for which funding is prohibited under this subsection, or a qualified health plan that includes such abortions, so long as—
     >     - **(A)** premiums for such separate coverage or plan are paid for entirely with funds not authorized or appropriated by this Act;
     >     - **(B)** administrative costs and all services offered through such coverage or plan are paid for using only premiums collected for such coverage or plan; and
     >     - **(C)** any such non-Federal health insurance issuer that offers a qualified health plan through an Exchange that includes coverage for abortions for which funding is prohibited under this subsection also offers a qualified health plan through the Exchange that is identical in every respect except that it does not cover abortions for which funding is prohibited under this subsection.
 
   - **(5)** in subsection (e), as redesignated by paragraph (1)—
-    - **(A)** in the heading, strike “Regarding Abortion”;
-    - **(B)** in the heading of each of paragraphs (1) and (2), strike each place it appears “REGARDING ABORTION”; and
-    - **(C)** in paragraph (1), by striking “regarding the prohibition of (or requirement of) coverage, funding, or” and inserting “protecting conscience rights, restricting or prohibiting abortion or coverage or funding of abortion, or establishing”;
-    - **(D)** in paragraph (2)(A), by striking “Nothing” and inserting “Subject to subsection (g), nothing”; and
-  - **(6)** by adding at the end the following new subsection:
+    - **(A)** in the heading, by striking “regarding abortion”;
+    - **(B)** in the heading of each of paragraphs (1) and (2), by striking each place it appears “regarding abortion”;
+    - **(C)** in paragraph (1), by striking “regarding the prohibition of (or requirement of) coverage, funding, or” and inserting “protecting conscience rights, restricting or prohibiting abortion or coverage or funding of abortion, or establishing”; and
+    - **(D)** in paragraph (2)(A), by striking “Nothing” and inserting “Subject to subsection (g), nothing”;
+  - **(6)** in subsection (f), as redesignated by paragraph (1), by striking “Nothing” and inserting “Subject to subsection (g), nothing”; and
+  - **(7)** by adding at the end the following new subsection:
     > - **(g)** *Nondiscrimination on Abortion*
     >   - **(1)** *Nondiscrimination* A Federal agency or program, and any State or local government that receives Federal financial assistance under this Act (or an amendment made by this Act), may not subject any institutional or individual health care entity to discrimination, or require any health plan created or regulated under this Act (or an amendment made by this Act) to subject any institutional or individual health care entity to discrimination, on the basis that the health care entity refuses to—
     >     - **(A)** undergo training in the performance of induced abortions;
@@ -61,4 +62,4 @@ This Act may be cited as the “Protect Life Act”.
     >     - **(B)** to pursue investigation of such complaints in coordination with the Attorney General.
 
 - **(b)** *Conforming Amendment* Section 1334(a)(6) of such Act is amended to read as follows:
-  > - **(6)** *Coverage consistent with federal policy* In entering into contracts under this subsection, the Director shall ensure that no multi-State qualified health plan offered in an Exchange provides coverage for abortions for which funding is prohibited under subsection 1303(c) of this Act.
+  > - **(6)** *Coverage consistent with federal policy* In entering into contracts under this subsection, the Director shall ensure that no multi-State qualified health plan offered in an Exchange provides coverage for abortions for which funding is prohibited under section 1303(c) of this Act.

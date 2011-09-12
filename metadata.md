@@ -1,7 +1,7 @@
 ---
 measure: H.R. 358
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 358
@@ -16,7 +16,7 @@ Protect Life Act
 
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
 
-## Cosponsors (89)
+## Cosponsors (145)
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 - Rep. Schmidt, Jean [R-OH-2] (S001164)
@@ -107,13 +107,83 @@ Protect Life Act
 - Rep. Huizenga, Bill [R-MI-2] (H001058)
 - Rep. Davis, Geoff [R-KY-4] (D000603)
 - Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
+- Rep. Cassidy, Bill [R-LA-6] (C001075)
+- Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Harper, Gregg [R-MS-3] (H001045)
+- Rep. Huelskamp, Tim [R-KS-1] (H001057)
+- Rep. Latham, Tom [R-IA-4] (L000111)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Marino, Tom [R-PA-10] (M001179)
+- Rep. Turner, Michael R. [R-OH-3] (T000463)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Yoder, Kevin [R-KS-3] (Y000063)
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. LaTourette, Steven C. [R-OH-14] (L000553)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Berg, Rick [R-ND-At Large] (B001272)
+- Rep. Lankford, James [R-OK-5] (L000575)
+- Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Stearns, Cliff [R-FL-6] (S000822)
+- Rep. Paulsen, Erik [R-MN-3] (P000594)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Camp, Dave [R-MI-4] (C000071)
+- Rep. Hunter, Duncan D. [R-CA-52] (H001048)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Mulvaney, Mick [R-SC-5] (M001182)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Herger, Wally [R-CA-2] (H000528)
+- Rep. Scott, Tim [R-SC-1] (S001184)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Rooney, Thomas J. [R-FL-16] (R000583)
+- Rep. Posey, Bill [R-FL-15] (P000599)
+- Rep. Gowdy, Trey [R-SC-4] (G000566)
+- Rep. Landry, Jeffrey M. [R-LA-3] (L000574)
+- Rep. Rehberg, Denny [R-MT-At Large] (R000571)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Rigell, E. Scott [R-VA-2] (R000589)
+- Rep. Lewis, Jerry [R-CA-41] (L000274)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Amash, Justin [R-MI-3] (A000367)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Gosar, Paul A. [R-AZ-1] (G000565)
+- Rep. Royce, Edward R. [R-CA-40] (R000487)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- House — Ways and Means Committee
 
 ## Actions
 
 - 2011-01-20 — Introduced in House
 - 2011-01-20 — Introduced in House
 - 2011-01-20 — Referred to the House Committee on Energy and Commerce.
+- 2011-02-01 — Referred to the Subcommittee on Health.
+- 2011-02-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 14 - 9.
+- 2011-02-11 — Subcommittee Consideration and Mark-up Session Held.
+- 2011-02-11 — Subcommittee on Health Discharged.
+- 2011-03-17 — Referred sequentially to the House Committee on Ways and Means for a period ending not later than April 15, 2011 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(t), rule X.
+- 2011-03-17 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-40, Part I.
+- 2011-03-17 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-40, Part I.
+- 2011-04-15 — House Committee on Ways and Means Granted an extension for further consideration ending not later than May 20, 2011.
+- 2011-05-20 — House Committee on Ways and Means Granted an extension for further consideration ending not later than Sept. 9, 2011.
+- 2011-09-09 — House Committee on Ways and Means Granted an extension for further consideration ending not later than Sept. 12, 2011.
+- 2011-09-12 — Committee on Ways and Means discharged.
+- 2011-09-12 — Committee on Ways and Means discharged.
+- 2011-09-12 — Placed on the Union Calendar, Calendar No. 133.
