@@ -13,7 +13,23 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Appeal Time Clarification Act of 2011”.
 
-## § 2. Time for appeals in certain cases
+## § 2. Findings
+
+Congress finds that—
+
+- **(1)** section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure provide that the time to appeal for most civil actions is 30 days, but that the appeal time for all parties is 60 days when the parties in the civil action include the United States, a United States officer, or a United States agency;
+- **(2)** the 60-day period should apply if 1 of the parties is—
+  - **(A)** the United States;
+  - **(B)** a United States agency;
+  - **(C)** a United States officer or employee sued in an official capacity; or
+  - **(D)** a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the United States;
+- **(3)** section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure (as amended to take effect on December 1, 2011, in accordance with section 2074 of that title) should uniformly apply the 60-day period to those civil actions relating to a Federal officer or employee sued in an individual capacity for an act or omission occurring in connection with Federal duties;
+- **(4)** the civil actions to which the 60-day periods should apply include all civil actions in which a legal officer of the United States represents the relevant officer or employee when the judgment or order is entered or in which the United States files the appeal for that officer or employee; and
+- **(5)** the application of the 60-day period in section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure—
+  - **(A)** is not limited to civil actions in which representation of the United States is provided by the Department of Justice; and
+  - **(B)** includes all civil actions in which the representation of the United States is provided by a Federal legal officer acting in an official capacity, such as civil actions in which a Member, officer, or employee of the Senate or the House of Representatives is represented by the Office of Senate Legal Counsel or the Office of General Counsel of the House of Representatives.
+
+## § 3. Time for appeals in certain cases
 
 Section 2107 of title 28, United States Code, is amended—
 
@@ -28,6 +44,6 @@ Section 2107 of title 28, United States Code, is amended—
   >   - **(3)** an officer or employee of the United States who is sued in an official capacity; or
   >   - **(4)** a current or former officer or employee of the United States who is sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the United States, including any instance in which the United States represents that person when the judgment, order, or decree is entered or files the appeal for that person.
 
-## § 3. Effective date
+## § 4. Effective date
 
 The amendments made by this Act shall take effect on December 1, 2011.
