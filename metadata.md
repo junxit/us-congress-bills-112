@@ -1,7 +1,7 @@
 ---
 measure: S. 1239
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1239
@@ -16,7 +16,7 @@ Fallen Heroes of 9/11 Act
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Sen. Toomey, Patrick [R-PA] (T000461)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
@@ -30,10 +30,12 @@ Fallen Heroes of 9/11 Act
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Begich, Mark [D-AK] (B001265)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Financial Services Committee
 
 ## Actions
 
@@ -44,3 +46,5 @@ Fallen Heroes of 9/11 Act
 - 2011-09-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5480)
 - 2011-09-09 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S5479-5480)
 - 2011-09-09 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S5479-5480)
+- 2011-09-12 — Received in the House.
+- 2011-09-12 — Referred to the House Committee on Financial Services.
