@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1059
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1059
@@ -21,9 +21,10 @@ To protect the safety of judges by extending the authority of the Judicial Confe
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ To protect the safety of judges by extending the authority of the Judicial Confe
 - 2011-09-12 — Mr. Coble moved to suspend the rules and pass the bill.
 - 2011-09-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 701). (text: CR H6048)
 - 2011-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 701).(text: CR H6048)
+- 2011-09-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
