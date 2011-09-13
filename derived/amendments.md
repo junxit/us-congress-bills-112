@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2218
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -42,7 +42,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the period at the end of subparagraph (L) and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end, the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (3)(B), by striking “under section 5203(d)(3)”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 5211 (20 U.S.C. 7221j) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | repeal | Subpart 2 of part B of title V (20 U.S.C. 7223 et seq.) is repealed. | the bill names no machine-readable US Code section |
 | — | replace | by striking the item relating to section 5203 and inserting the following: | the bill names no machine-readable US Code section |
