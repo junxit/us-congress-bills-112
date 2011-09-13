@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2633
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2633
@@ -20,9 +20,10 @@ Appeal Time Clarification Act of 2011
 
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Appeal Time Clarification Act of 2011
 - 2011-09-12 — Mr. Coble moved to suspend the rules and pass the bill, as amended.
 - 2011-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 700). (text: CR H6047)
 - 2011-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 700).(text: CR H6047)
+- 2011-09-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
