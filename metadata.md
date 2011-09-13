@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2076
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2076
@@ -22,9 +22,10 @@ Investigative Assistance for Violent Crimes Act of 2012
 - Rep. Ross, Dennis A. [R-FL-12] (R000593)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Investigative Assistance for Violent Crimes Act of 2012
 - 2011-09-12 — Mr. Gowdy moved to suspend the rules and pass the bill, as amended.
 - 2011-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 9 (Roll no. 699). (text: CR H6046)
 - 2011-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 9 (Roll no. 699).(text: CR H6046)
+- 2011-09-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
