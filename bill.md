@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. RES. 256
 
-> Designating the week of October 2 through October 8, 2011, as “National Nurse-Managed Health Clinic Week”.
+> Designating the week of October 2 through October 8, 2011, as National Nurse-Managed Health Clinic Week.
 
 ## Preamble
 
@@ -24,6 +24,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That the Senate—
 
-- **(1)** designates the week of October 2 through October 8, 2011, as “National Nurse-Managed Health Clinic Week”;
+- **(1)** designates the week of October 2 through October 8, 2011, as National Nurse-Managed Health Clinic Week;
 - **(2)** supports the ideals and goals of National Nurse-Managed Health Clinic Week; and
 - **(3)** encourages the expansion of nurse-managed health clinics so that nurse-managed health clinics may continue to serve as health care workforce development sites for the next generation of primary care providers.

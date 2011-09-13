@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 256
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 256
@@ -29,3 +29,7 @@ A resolution designating the week of October 2 through October 8, 2011, as "Nati
 - 2011-08-02 — Introduced in Senate
 - 2011-08-02 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5270)
 - 2011-08-02 — Sponsor introductory remarks on measure. (CR S5270)
+- 2011-09-13 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S5584)
+- 2011-09-13 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S5584)
+- 2011-09-13 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5583-5584)
+- 2011-09-13 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5583-5584)
