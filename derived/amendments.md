@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2887
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -55,10 +55,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (b)(2) (23 U.S.C. 402 note), by striking “2011” and inserting “2012”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraphs (5) and (6); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (7) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subparagraphs (E) and (F); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of subparagraph (G) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1) by inserting “and $15,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012” before the period at the end; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2) by inserting “and $16,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012” before the period at the end; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (3) by inserting “and $2,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012” before the period at the end; | the bill names no machine-readable US Code section |
@@ -99,10 +99,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (E) by striking “fiscal year” and inserting “fiscal year and $1,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5311(c)(1) of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), in the matter preceding paragraph (1), by striking “2011” and inserting “2012”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subparagraph (E); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of subparagraph (F) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A) by striking “ and $113,500,000 for fiscal year 2011” and inserting “$113,500,000 for fiscal year 2011, and $56,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B) by striking “and $4,160,365,000 for fiscal year 2011” and inserting “$4,160,365,000 for fiscal year 2011, and $2,080,182,500 for the period beginning on October 1, 2011, and ending on March 31, 2012,”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C) by striking “and $51,500,000 for fiscal year 2011” and inserting “$51,500,000 for fiscal year 2011, and $25,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”; | the bill names no machine-readable US Code section |
@@ -125,14 +125,14 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (5); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (6) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 3009(i)(1) of SAFETEA–LU (119 Stat. 1572) is amended by striking “2011,” and inserting “2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(5) by striking “2011” and inserting “2011 and the period beginning on October 1, 2011, and ending on March 31, 2012”; and | the bill names no machine-readable US Code section |
 | — | replace | in the second sentence of subsection (d) by striking “2011” and inserting “2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,”. | the bill names no machine-readable US Code section |
 | — | replace | Section 3012(b)(8) of SAFETEA–LU (49 U.S.C. 5310 note; 119 Stat. 1593) is amended by striking “September 30, 2011” and inserting “March 31, 2012”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of paragraph (6); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (7) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), in the matter preceding paragraph (1), by striking “2011” and inserting “2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), in the matter preceding paragraph (1), by striking “2011” and inserting “2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b) by striking “fiscal year” and inserting “fiscal year or period”; and | the bill names no machine-readable US Code section |
@@ -187,8 +187,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after subparagraph (F) the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (5) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6) by striking “2010.” and inserting “2010;”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (13) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (14) by striking “2010.” and inserting “2010;”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 41742(a)(2) of title 49, United States Code, is amended by striking “there is authorized to be appropriated $77,000,000 for each fiscal year” and inserting “there is authorized to be appropriated out of the Airport and Airway Tru… | the bill names no machine-readable US Code section |
