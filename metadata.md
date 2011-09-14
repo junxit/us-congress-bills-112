@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 77
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 77
@@ -90,6 +90,10 @@ Relating to the disapproval of the President's exercise of authority to increase
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2011-09-14 — [House 112-1-706](votes/house-112-1-0706.md) — On Passage — **Passed** (232–186)
+
 ## Actions
 
 - 2011-09-07 — Introduced in House
@@ -98,3 +102,11 @@ Relating to the disapproval of the President's exercise of authority to increase
 - 2011-09-12 — Committee on Ways and Means discharged.
 - 2011-09-12 — Committee on Ways and Means discharged.
 - 2011-09-12 — Placed on the Union Calendar, Calendar No. 134.
+- 2011-09-14 — Called up under the provisions of rule H. Res. 392. (consideration: CR H6156-6168)
+- 2011-09-14 — DEBATE - Pursuant to section 3101A(c)(4) of title 31, United States Code, the joint resolution was considered as read, and the previous question was considered as ordered on the joint resolution without intervening motion except 2 hours of debate equally divided and controlled.
+- 2011-09-14 — MOTION TO PROCEED - Pursuant to section 3 of H.Res. 392, Mr. Reed was recognized to offer a motion to proceed to the consideration of H.J.Res. 77. Subsequently the Chair announced that pursuant to section 3101A(c)(3) of title 31, United States Code, the motion was not debatable, and put the question.
+- 2011-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-09-14 — On motion to proceed to consideration of H.J.Res. 77 Agreed to by voice vote.
+- 2011-09-14 — On passage Passed by recorded vote: 232 - 186, 2 Present (Roll no. 706). (text: CR H6156)
+- 2011-09-14 — Passed/agreed to in House: On passage Passed by recorded vote: 232 - 186, 2 Present (Roll no. 706).(text: CR H6156)
+- 2011-09-14 — The previous question was ordered pursuant to the statute. (consideration: CR H6167)
