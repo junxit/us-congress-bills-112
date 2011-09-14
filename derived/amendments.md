@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1070
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,5 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | by striking “(b) The Commission” and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, except as provided in paragraph (2)” after “but”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking “; or” at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (D) as subparagraph (E), and inserting after subparagraph (C) the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 4(5) of the Securities Act of 1933 is amended by striking “section 3(b)” and inserting “section 3(b)(1)”. | the bill names no machine-readable US Code section |
