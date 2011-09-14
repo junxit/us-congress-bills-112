@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2218
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2218
@@ -32,9 +32,10 @@ Empowering Parents through Quality Charter Schools Act
 - Rep. Rokita, Todd [R-IN-4] (R000592)
 - Rep. Crenshaw, Ander [R-FL-4] (C001045)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (4)
 
@@ -133,3 +134,4 @@ Empowering Parents through Quality Charter Schools Act
 - 2011-09-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2011-09-13 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2218.
 - 2011-09-13 — The previous question was ordered pursuant to the rule. (consideration: CR H6120)
+- 2011-09-14 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
