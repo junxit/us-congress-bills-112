@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2832
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2832
@@ -37,3 +37,6 @@ To extend the Generalized System of Preferences, and for other purposes.
 - 2011-09-07 — Mr. Camp moved to suspend the rules and pass the bill.
 - 2011-09-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5943-5944)
 - 2011-09-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5943-5944)
+- 2011-09-08 — Received in the Senate.
+- 2011-09-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-09-14 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 166.
