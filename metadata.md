@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2587
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2587
@@ -41,6 +41,11 @@ Protecting Jobs From Government Interference Act
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (2)
+
+- 2011-09-15 — [House 112-1-710](votes/house-112-1-0710.md) — On Motion to Recommit with Instructions — **Failed** (189–235)
+- 2011-09-15 — [House 112-1-711](votes/house-112-1-0711.md) — On Passage — **Passed** (238–186)
+
 ## Actions
 
 - 2011-07-19 — Introduced in House
@@ -51,3 +56,18 @@ Protecting Jobs From Government Interference Act
 - 2011-07-25 — Placed on the Union Calendar, Calendar No. 118.
 - 2011-07-25 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 112-179.
 - 2011-07-25 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 112-179.
+- 2011-07-26 — Rules Committee Resolution H. Res. 372 Reported to House. Rule provides for consideration of H.R. 2587 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on Education and the Workforce now printed in the bill shall be considered as adopted.
+- 2011-09-15 — Considered under the provisions of rule H. Res. 372. (consideration: CR H6198-6215)
+- 2011-09-15 — DEBATE - The House proceeded with 10 minutes of debate on the Bishop (NY) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment prohibiting the Act from limiting the National Labor Relations Board's authority to order an employer to maintain or restore jobs within the United States that have been or will otherwise be outsourced to a foreign country in violation of the National Labor Relations Act.
+- 2011-09-15 — DEBATE - The House proceeded with one hour of debate on H.R. 2587.
+- 2011-09-15 — House amendment offered
+- 2011-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-09-15 — Mr. Bishop (NY) moved to recommit with instructions to Education and the Workforce. (consideration: CR H6213-6215; text: CR H6213)
+- 2011-09-15 — On motion to recommit with instructions Failed by the Yeas and Nays: 189 - 235 (Roll no. 710).
+- 2011-09-15 — On passage Passed by the Yeas and Nays: 238 - 186 (Roll No. 711). (text: CR H6198)
+- 2011-09-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 238 - 186 (Roll No. 711).(text: CR H6198)
+- 2011-09-15 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-09-15 — Rule H. Res. 372 passed House.
+- 2011-09-15 — Rule provides for consideration of H.R. 2587 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on Education and the Workforce now printed in the bill shall be considered as adopted.
+- 2011-09-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6214)
+- 2011-09-15 — The previous question was ordered pursuant to the rule. (consideration: CR H6213)

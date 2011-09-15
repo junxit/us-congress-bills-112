@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2587
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 10(c) of the National Labor Relations Act (29 U.S.C. 160) is amended by inserting before the period at the end the following: “: Provided further, That the Board shall have no power to order an employer (or seek an order against … | the bill names no machine-readable US Code section |
 | — | insert | Section 10(c) of the National Labor Relations Act (29 U.S.C. 160) is amended by inserting before the period at the end the following: “: Provided further, That the Board shall have no power to order an employer (or seek an order against … | the bill names no machine-readable US Code section |
