@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 77
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 77
@@ -110,3 +110,4 @@ Relating to the disapproval of the President's exercise of authority to increase
 - 2011-09-14 — On passage Passed by recorded vote: 232 - 186, 2 Present (Roll no. 706). (text: CR H6156)
 - 2011-09-14 — Passed/agreed to in House: On passage Passed by recorded vote: 232 - 186, 2 Present (Roll no. 706).(text: CR H6156)
 - 2011-09-14 — The previous question was ordered pursuant to the statute. (consideration: CR H6167)
+- 2011-09-15 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 168 pursuant to Public Law 112-25, Section 301(a)(2).
