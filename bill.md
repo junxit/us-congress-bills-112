@@ -97,8 +97,13 @@ The Department of Veterans Affairs telehealth clinic in Craig, Colorado, shall a
 ## § 8. Extension of certain expiring authorities
 
 - **(a)** *Recovery audits for certain contracts* Section 1703(d)(4) of title 38, United States Code, is amended by striking “September 30, 2013” and inserting “September 30, 2020”.
-- **(b)** *Treatment and rehabilitation for seriously mentally ill and homeless veterans* Section 2031(b) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2018”.
-- **(c)** *Additional services for seriously mentally ill and homeless veterans* Section 2033(d) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2018”.
-- **(d)** *Housing assistance for homeless veterans* Section 2041(c) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2018”.
-- **(e)** *Advisory Committee on Homeless Veterans* Section 2066(d) of such title is amended by striking “December 30, 2011” and inserting “December 31, 2018”.
+- **(b)** *Treatment and rehabilitation for seriously mentally ill and homeless veterans* Section 2031(b) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
+- **(c)** *Additional services for seriously mentally ill and homeless veterans* Section 2033(d) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
+- **(d)** *Housing assistance for homeless veterans* Section 2041(c) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
+- **(e)** *Advisory Committee on Homeless Veterans* Section 2066(d) of such title is amended by striking “December 30, 2011” and inserting “December 31, 2012”.
 - **(f)** *Authority To transfer real property* Section 8118(a)(5) of such title is amended by striking “the date that is seven years after the date of the enactment of this section” and inserting “December 31, 2018”.
+
+## § 9. George H. O’Brien, Jr., Department of Veterans Affairs Medical Center
+
+- **(a)** *Designation* The Department of Veterans Affairs medical center located in Big Spring, Texas, shall be known and designated as the “George H. O’Brien, Jr., Department of Veterans Affairs Medical Center”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the Department of Veterans Affairs medical center referred to in subsection (a) shall be deemed to be a reference to the “George H. O’Brien, Jr., Department of Veterans Affairs Medical Center”.

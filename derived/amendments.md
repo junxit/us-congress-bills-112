@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2646
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -50,8 +50,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (A), by striking “major medical facility projects” and inserting “major construction projects”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “major medical facility” and inserting “major construction project”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1703(d)(4) of title 38, United States Code, is amended by striking “September 30, 2013” and inserting “September 30, 2020”. | the bill names no machine-readable US Code section |
-| — | replace | Section 2031(b) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2018”. | the bill names no machine-readable US Code section |
-| — | replace | Section 2033(d) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2018”. | the bill names no machine-readable US Code section |
-| — | replace | Section 2041(c) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2018”. | the bill names no machine-readable US Code section |
-| — | replace | Section 2066(d) of such title is amended by striking “December 30, 2011” and inserting “December 31, 2018”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2031(b) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2012”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2033(d) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2012”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2041(c) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2012”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2066(d) of such title is amended by striking “December 30, 2011” and inserting “December 31, 2012”. | the bill names no machine-readable US Code section |
 | — | replace | Section 8118(a)(5) of such title is amended by striking “the date that is seven years after the date of the enactment of this section” and inserting “December 31, 2018”. | the bill names no machine-readable US Code section |

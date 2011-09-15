@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2646
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2646
@@ -25,3 +25,11 @@ Veterans Health Care Facilities Capital Improvement Act of 2011
 - 2011-07-26 — Introduced in House
 - 2011-07-26 — Introduced in House
 - 2011-07-26 — Referred to the House Committee on Veterans' Affairs.
+- 2011-07-27 — Referred to the Subcommittee on Health.
+- 2011-07-28 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2011-07-28 — Subcommittee Consideration and Mark-up Session Held.
+- 2011-09-08 — Committee Consideration and Mark-up Session Held.
+- 2011-09-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2011-09-15 — Placed on the Union Calendar, Calendar No. 137.
+- 2011-09-15 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-209.
+- 2011-09-15 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-209.
