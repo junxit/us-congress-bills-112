@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2551
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2551
@@ -196,3 +196,7 @@ Legislative Branch Appropriations Act, 2012
 - 2011-07-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2551.
 - 2011-07-22 — The previous question was ordered pursuant to the rule. (consideration: CR H5387)
 - 2011-07-22 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which were debated earlier and on which further proceedings were postponed.
+- 2011-09-15 — Committee on Appropriations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2011-09-15 — Committee on Appropriations. Reported by Senator Nelson NE, with an amendment in the nature of a substitute. With written report No. 112-80.
+- 2011-09-15 — Committee on Appropriations. Reported by Senator Nelson NE, with an amendment in the nature of a substitute. With written report No. 112-80.
+- 2011-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 172.
