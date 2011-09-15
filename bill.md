@@ -57,8 +57,8 @@ This Act may be cited as the “Transparency in Regulatory Analysis of Impacts o
     - **(F)** agriculture,
 - **(c)** *Methods* In conducting analyses under this section, the Committee shall use the best available methods, consistent with guidance from the Office of Information and Regulatory Affairs and the Office of Management and Budget Circular A–4.
 - **(d)** *Data* In conducting analyses under this section, the Committee—
-  - **(1)** shall use the best data that is available to the public or supplied to the Committee by its members, including the most recent such data appropriate for this analysis representing air quality, facility emissions, and installed controls; and
-  - **(2)** is not required to create data or to use data that is not readily accessible.
+  - **(1)** shall use the best data that are available to the public or supplied to the Committee by its members, including the most recent such data appropriate for this analysis representing air quality, facility emissions, and installed controls; and
+  - **(2)** is not required to create data or to use data that are not readily accessible.
 - **(e)** *Covered rules* In this section, the term covered rule means the following:
   - **(1)** The following published rules (including any successor or substantially similar rule):
     - **(A)** “Federal Implementation Plans To Reduce Interstate Transport of Fine Particulate Matter and Ozone”, published at 75 Fed. Reg. 45210 (August 2, 2010).
@@ -81,10 +81,21 @@ This Act may be cited as the “Transparency in Regulatory Analysis of Impacts o
 - **(b)** *Public comment period* The Committee shall accept public comments regarding the preliminary report submitted under subsection (a) for a period of 90 days after such submission.
 - **(c)** *Final report* Not later than August 1, 2012, the Committee shall submit to Congress a final report containing the analyses conducted under section 3, including any revisions to such analyses made as a result of public comments, and a response to such comments.
 
-## § 5. Authorization of appropriations
+## § 5. Regulatory deferral of certain rules
+
+- **(a)** *No final action* The Administrator of the Environmental Protection Agency shall not take final action with respect to the rule listed in subparagraph (E) of section 3(e)(1) (relating to national emission standards and standards of performance for certain electric generating units) until a date (to be determined by the Administrator) that is at least 6 months after the day on which the Committee submits the final report under section 4(c).
+- **(b)** *Rules finalized prior to enactment* Notwithstanding the final action taken with respect to the rule listed in subparagraph (A) of section 3(e)(1) (relating to Federal implementation plans to reduce interstate transport of fine particulate matter and ozone) and final action (if any) taken with respect to the rule listed in subparagraph (E) of section 3(e)(1) prior to the date of the enactment of this Act—
+  - **(1)** such final action shall not be or become, as applicable, effective until a date (to be determined by the Administrator) that is at least 6 months after the day on which the Committee submits the final report under section 4(c); and
+  - **(2)** the date for compliance with any standard or requirement in either such finalized rule, and any date for further regulatory action triggered by either such finalized rule, shall be delayed by a period equal to the period—
+    - **(A)** beginning on the date of the publication of the final action for the respective finalized rule; and
+    - **(B)** ending on the date on which such final action becomes effective pursuant to paragraph (1).
+- **(c)** *Applicability of Clean Air Interstate Rule during interim period* Notwithstanding any other provision of law, the Administrator of the Environmental Protection Agency shall continue to implement the Clean Air Interstate Rule and the rule establishing Federal Implementation Plans for the Clean Air Interstate Rule as promulgated and modified by the Administrator of the Environmental Protection Agency (70 Fed. Reg. 25162 (May 12, 2005), 71 Fed. Reg. 25288 (April 28, 2006), 71 Fed. Reg. 25328 (April 28, 2006), 72 Fed. Reg. 59190 (Oct. 19, 2007), 72 Fed. Reg. 62338 (Nov. 2, 2007), 74 Fed. Reg. 56721 (Nov. 3, 2009)) until the date on which final action with respect to the rule listed in subparagraph (A) of section 3(e)(1) becomes effective pursuant to subsection (b)(1).
+
+## § 6. Authorization of appropriations
 
 - **(a)** *Authorization* There are authorized to be appropriated to carry out this Act for fiscal year 2012—
   - **(1)** $3,000,000 to the Department of Commerce, of which not more than $2,000,000 shall be for carrying out section 3; and
   - **(2)** $500,000 to the Environmental Protection Agency.
-- **(b)** *Offset* Effective October 1, 2011, section 797(a) of the Energy Policy Act of 2005, as amended by section 2(e) of the Diesel Emissions Reduction Act of 2010 (Public Law 111–364), is amended to read as follows:
-  > - **(a)** *In general* There are authorized to be appropriated to carry out this subtitle $46,000,000 for fiscal year 2012 and $50,000,000 for each of fiscal years 2013 through 2016, to remain available until expended.
+- **(b)** *Offset* Effective October 1, 2011, section 797(a) of the Energy Policy Act of 2005, as amended by section 2(e) of the Diesel Reduction Act of 2010 (Public Law 111–364), is amended—
+  - **(1)** by striking “2012” and inserting “2013”; and
+  - **(2)** by inserting “$46,000,000 for fiscal year 2012 and” after “to carry out this subtitle”.

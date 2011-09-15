@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2401
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2401
@@ -16,7 +16,7 @@ Transparency in Regulatory Analysis of Impacts on the Nation Act of 2011
 
 - Rep. Sullivan, John [R-OK-1] (S001155)
 
-## Cosponsors (28)
+## Cosponsors (44)
 
 - Rep. Matheson, Jim [D-UT-2] (M001142)
 - Rep. Upton, Fred [R-MI-6] (U000031)
@@ -46,6 +46,22 @@ Transparency in Regulatory Analysis of Impacts on the Nation Act of 2011
 - Rep. Costa, Jim [D-CA-20] (C001059)
 - Rep. Holden, Tim [D-PA-17] (H000712)
 - Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Rehberg, Denny [R-MT-At Large] (R000571)
+- Rep. Huelskamp, Tim [R-KS-1] (H001057)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Austria, Steve [R-OH-7] (A000365)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Rooney, Thomas J. [R-FL-16] (R000583)
+- Rep. Flake, Jeff [R-AZ-6] (F000444)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Bonner, Jo [R-AL-1] (B001244)
+- Rep. Emerson, Jo Ann [R-MO-8] (E000172)
 
 ## Committees (1)
 
@@ -57,3 +73,12 @@ Transparency in Regulatory Analysis of Impacts on the Nation Act of 2011
 - 2011-06-24 — Introduced in House
 - 2011-06-24 — Referred to the House Committee on Energy and Commerce.
 - 2011-06-24 — Referred to the Subcommittee on Energy and Power.
+- 2011-07-08 — Subcommittee Consideration and Mark-up Session Held.
+- 2011-07-11 — Committee Consideration and Mark-up Session Held.
+- 2011-07-11 — Subcommittee on Energy and Power Discharged.
+- 2011-07-12 — Committee Consideration and Mark-up Session Held.
+- 2011-07-13 — Committee Consideration and Mark-up Session Held.
+- 2011-07-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 13.
+- 2011-09-15 — Placed on the Union Calendar, Calendar No. 136.
+- 2011-09-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-208.
+- 2011-09-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-208.

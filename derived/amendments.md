@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2401
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Effective October 1, 2011, section 797(a) of the Energy Policy Act of 2005, as amended by section 2(e) of the Diesel Emissions Reduction Act of 2010 (Public Law 111–364), is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “2012” and inserting “2013”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “$46,000,000 for fiscal year 2012 and” after “to carry out this subtitle”. | the bill names no machine-readable US Code section |
