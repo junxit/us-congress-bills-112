@@ -15,26 +15,39 @@ This Act may be cited as the “United States Commission on International Religi
 
 ## § 2. Establishment and composition
 
-- **(a)** *Membership* Section 201(b)(1)(B) of the International Religious Freedom Act of 1998 (22 U.S.C. 6431(b)(1)(B)) is amended in the matter preceding clause (i) by striking “Nine” and inserting “nine”.
+- **(a)** *Membership* Section 201(b)(1)(B) of the International Religious Freedom Act of 1998 (22 U.S.C. 6431(b)(1)(B)) is amended—
+  - **(1)** in the matter preceding clause (i), by striking “Nine” and inserting “five”;
+  - **(2)** in clause (i), by striking “Three members” and inserting “One member”;
+  - **(3)** in clause (ii)—
+    - **(A)** by striking “Three members” and inserting “Two members”;
+    - **(B)** by striking “two of the members” and inserting “one member”; and
+    - **(C)** by striking “one of the members” and inserting “the other member”; and
+  - **(4)** in clause (iii)—
+    - **(A)** by striking “Three members” and inserting “Two members”;
+    - **(B)** by striking “two of the members” and inserting “one member”; and
+    - **(C)** by striking “one of the members” and inserting “the other member”.
 - **(b)** *Terms* Section 201(c) of the International Religious Freedom Act of 1998 (22 U.S.C. 6431(c)) is amended—
-  - **(1)** in paragraph (1), by striking the last sentence and inserting the following: “An individual is not eligible to serve more than two consecutive terms as a member of the Commission. Each member serving on the Commission on the date of enactment of the United States Commission on International Religious Freedom Reform and Reauthorization Act of 2011 may be reappointed to not more than one additional consecutive term.”; and
-  - **(2)** by adding at the end the following new paragraph:
+  - **(1)** in paragraph (1), by striking the last sentence and inserting the following: “An individual is not eligible to serve more than two consecutive terms as a member of the Commission. Each member serving on the Commission on the date of enactment of the United States Commission on International Religious Freedom Reform and Reauthorization Act of 2011 may be reappointed to not more than one additional consecutive term.”;
+  - **(2)** in paragraph (2)—
+    - **(A)** in subparagraph (A), by striking “May 15, 2003, through May 14, 2005” and inserting “May 15, 2012, through May 14, 2014”;
+    - **(B)** in subparagraph (B) to read as follows:
+      > - **(B)** *Presidential appointments* The member of the Commission appointed by the President under subsection (b)(1)(B)(i) shall be appointed to a 1-year term.
+
+    - **(C)** in subparagraph (C)—
+      - **(i)** by striking “three members” and inserting “two members”;
+      - **(ii)** by striking “the other two appointments” and inserting “the other appointment”; and
+      - **(iii)** by striking “2-year terms” and inserting “to a 2-year term”;
+    - **(D)** in subparagraph (D)—
+      - **(i)** by striking “three members” and inserting “two members”;
+      - **(ii)** by striking “the other two appointments” and inserting “the other appointment”; and
+      - **(iii)** by striking “2-year terms” and inserting “to a 2-year term”; and
+    - **(E)** in subparagraph (E), by striking “May 15, 2003, and shall end on May 14, 2004” and inserting “May 15, 2012, and shall end on May 14, 2013”; and
+  - **(3)** by adding at the end the following new paragraph:
     > - **(3)** *Ineligibility for reappointment* If a member of the Commission attends, by being physically present or by conference call, less than 75 percent of the meetings of the Commission during one of that member’s terms on the Commission, the member shall not be eligible for reappointment to the Commission.
 
-- **(c)** *Election of chair and executive committee* Section 201(d) of the International Religious Freedom Act of 1998 (22 U.S.C. 6431(d)) is amended—
-  - **(1)** in the heading, by inserting “and Executive Committee” after “Chair”;
-  - **(2)** by striking “At” and inserting the following: “(1) Chair.—At”;
-  - **(3)** in paragraph (1), as designated by paragraph (2) of this subsection—
-    - **(A)** by striking “May 30” and inserting “May 1”; and
-    - **(B)** by inserting at the end the following: “No member of the Commission is eligible to be elected as Chair of the Commission for a second, consecutive term.”; and
-  - **(4)** by adding at the end the following new paragraph:
-    > - **(2)** *Executive committee*
-    >   - **(A)** *In general* At the first meeting of the Commission after May 1 of each calendar year, a majority of the members of the Commission present and voting shall elect the Executive Committee of the Commission.
-    >   - **(B)** *Composition* The Executive Committee shall be composed of—
-    >     - **(i)** the Chair of the Commission; and
-    >     - **(ii)** two other members of the Commission appointed under subsection (b)(1)(B), who shall serve as Vice-Chairs of the Commission, and at least one of whom has been appointed under subsection (b)(1)(B) by an official whose political party is not the same political party as the official who appointed the member of the Commission who has been elected the Chair of the Commission.
-
-- **(d)** *Applicability* A member of the United States Commission on International Religious Freedom who is serving on the Commission on the date of enactment of this Act shall continue to serve on the Commission until the expiration of the current term of the member under the terms and conditions for membership on the Commission as in effect on the day before the date of the enactment of this Act.
+- **(c)** *Election of chair* Section 201(d) of the International Religious Freedom Act of 1998 (22 U.S.C. 6431(d)) is amended by inserting at the end the following: “No member of the Commission is eligible to be elected as Chair of the Commission for a second, consecutive term.”.
+- **(d)** *Quorum* Section 201(e) of the International Religious Freedom Act of 1998 (22 U.S.C. 6431(e)) is amended by striking “Six” and inserting “Four”.
+- **(e)** *Applicability* A member of the United States Commission on International Religious Freedom who is serving on the Commission on the date of enactment of this Act shall continue to serve on the Commission until the expiration of the current term of the member under the terms and conditions for membership on the Commission as in effect on the day before the date of the enactment of this Act.
 
 ## § 3. Application of antidiscrimination laws
 
@@ -44,7 +57,7 @@ Section 204 of the International Religious Freedom Act of 1998 (22 U.S.C. 6432b)
 
 ## § 4. Authorization of appropriations
 
-Section 207(a) of the International Religious Freedom Act of 1998 (22 U.S.C. 6435(a)) is amended by striking “$3,000,000 for the fiscal year 2003” and inserting “$4,291,000 for each of the fiscal years 2012 and 2013”.
+Section 207(a) of the International Religious Freedom Act of 1998 (22 U.S.C. 6435(a)) is amended by striking “for the fiscal year 2003” and inserting “for each of the fiscal years 2012 and 2013”.
 
 ## § 5. Standards of conduct and disclosure
 
