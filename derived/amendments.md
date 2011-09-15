@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2867
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -48,7 +48,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “the other two appointments” and inserting “the other appointment”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “2-year terms” and inserting “to a 2-year term”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E), by striking “May 15, 2003, and shall end on May 14, 2004” and inserting “May 15, 2012, and shall end on May 14, 2013”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | Section 201(d) of the International Religious Freedom Act of 1998 (22 U.S.C. 6431(d)) is amended by inserting at the end the following: “No member of the Commission is eligible to be elected as Chair of the Commission for a second, conse… | the bill names no machine-readable US Code section |
 | — | replace | Section 201(e) of the International Religious Freedom Act of 1998 (22 U.S.C. 6431(e)) is amended by striking “Six” and inserting “Four”. | the bill names no machine-readable US Code section |
 | — | insert | Section 204 of the International Religious Freedom Act of 1998 (22 U.S.C. 6432b) is amended by inserting after subsection (f) the following new subsection: | the bill names no machine-readable US Code section |
