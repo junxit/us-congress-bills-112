@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2219
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2219
@@ -684,3 +684,7 @@ Department of Defense Appropriations Act, 2012
 - 2011-07-08 — The previous question was ordered pursuant to the rule. (consideration: CR H4770)
 - 2011-07-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2011-07-11 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2011-09-15 — Committee on Appropriations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2011-09-15 — Committee on Appropriations. Reported by Senator Inouye with an amendment in the nature of a substitute. With written report No. 112-77.
+- 2011-09-15 — Committee on Appropriations. Reported by Senator Inouye with an amendment in the nature of a substitute. With written report No. 112-77.
+- 2011-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 169.

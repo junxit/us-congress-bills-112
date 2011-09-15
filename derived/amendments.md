@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2219
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 310(b) of the Supplemental Appropriations Act, 2009 (Public Law 111–32; 124 Stat. 1871), as amended by Public Law 112–10, is amended by striking “2 years” both places it appears and inserting “3 years”. | the bill names no machine-readable US Code section |
+| — | amend | Subchapter I of chapter 88 of title 10, United States Code, is amended by adding the following new section at its end— | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of subchapter I of chapter 88 of title 10, United States Code, is amended by inserting after the item relating to section 1789 the following new item: | the bill names no machine-readable US Code section |
