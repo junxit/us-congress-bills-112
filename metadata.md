@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2587
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2587
@@ -71,3 +71,4 @@ Protecting Jobs From Government Interference Act
 - 2011-09-15 — Rule provides for consideration of H.R. 2587 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on Education and the Workforce now printed in the bill shall be considered as adopted.
 - 2011-09-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6214)
 - 2011-09-15 — The previous question was ordered pursuant to the rule. (consideration: CR H6213)
+- 2011-09-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 173.

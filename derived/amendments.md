@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2587
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 10(c) of the National Labor Relations Act (29 U.S.C. 160) is amended by inserting before the period at the end the following: “: Provided further, That the Board shall have no power to order an employer (or seek an order against … | the bill names no machine-readable US Code section |
+| `29 U.S.C. § 160` | insert | Section 10(c) of the National Labor Relations Act (29 U.S.C. 160) is amended by inserting before the period at the end the following: “: Provided further, That the Board shall have no power to order an employer (or seek an order against … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
