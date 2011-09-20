@@ -9,9 +9,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To authorize certain Department of Veterans Affairs major medical facility projects and leases, to extend certain expiring provisions of law, and to modify certain authorities of the Secretary of Veterans Affairs, and for other purposes.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Veterans Health Care Facilities Capital Improvement Act of 2011”.
+- **(a)** *Short title* This Act may be cited as the “Veterans Health Care Facilities Capital Improvement Act of 2011”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Authorization of fiscal year 2012 major medical facility projects
 
@@ -45,8 +46,8 @@ The Secretary of Veterans Affairs may carry out the following fiscal year 2012 m
 
 ## § 5. Authorization of appropriations
 
-- **(a)** *Authorization of appropriations for construction* There is authorized to be appropriated to the Secretary of Veterans Affairs for fiscal year 2012 or the year in which funds are appropriated for the Construction, Major Projects account $87,300,000 for the projects authorized in section 2.
-- **(b)** *Modification of authorization for certain major medical facility construction projects previously authorized* There is authorized to be appropriated to the Secretary of Veterans Affairs for fiscal year 2012 or the year in which funds are appropriated for the Construction, Major Projects account $850,070,000 for the projects authorized in section 3.
+- **(a)** *Authorization of appropriations for construction* There is authorized to be appropriated to the Secretary of Veterans Affairs for fiscal year 2012 or the year in which funds are appropriated for the Construction, Major Projects, account $87,300,000 for the projects authorized in section 2.
+- **(b)** *Modification of authorization for certain major medical facility construction projects previously authorized* There is authorized to be appropriated to the Secretary of Veterans Affairs for fiscal year 2012 or the year in which funds are appropriated for the Construction, Major Projects, account $850,070,000 for the projects authorized in section 3.
 - **(c)** *Authorization of appropriations for medical facility leases* There is authorized to be appropriated to the Secretary of Veterans Affairs for fiscal year 2012 or the year in which funds are appropriated for the Medical Facilities account $49,292,000 for the leases authorized in section 4.
 - **(d)** *Limitation* The projects authorized in sections 2, 3, and 4 may only be carried out using—
   - **(1)** funds appropriated for fiscal year 2012 pursuant to the authorization of appropriations in subsection (a) of this section;
@@ -78,7 +79,7 @@ Section 8104 of title 38, United States Code, is amended—
     - **(i)** by striking “Current and projected” and inserting “Projected”; and
     - **(ii)** by inserting before the period at the end the following: “(including and identifying both recurring and non-recurring costs (including activation costs and total costs of ancillary services, equipment and all other items)) over a five-year period, a ten-year period, and a twenty-year period”; and
   - **(F)** in paragraph (6), as so redesignated—
-    - **(i)** by striking “a description of each alternative to construction of the facility that was considered” and inserting “each of the following”; and
+    - **(i)** by striking “a description of each alternative to construction of the facility that was considered.” and inserting “each of the following:”; and
     - **(ii)** by adding at the end the following new subparagraphs:
       > - **(A)** A detailed estimate of the total costs (including total construction costs, activation costs, special purpose alterations (lump-sum payment) costs, number of personnel and total costs of ancillary services, equipment and all other items) for each alternative to construction of the facility that was considered.
       > - **(B)** A comparison of total costs to total benefits for each such alternative.
@@ -86,24 +87,78 @@ Section 8104 of title 38, United States Code, is amended—
 
 - **(2)** in subsection (d)—
   - **(A)** by striking “major medical facility project” each place it appears and inserting “major construction project”; and
-  - **(B)** in paragraph—
+  - **(B)** in paragraph (2)—
     - **(i)** in subparagraph (A), by striking “major medical facility projects” and inserting “major construction projects”; and
     - **(ii)** in subparagraph (B), by striking “major medical facility” and inserting “major construction project”.
 
-## § 7. Name of Department of Veterans Affairs telehealth clinic, Craig, Colorado
+## § 7. Limitation on authority of Secretary of Veterans Affairs to use bid savings on major construction projects to expand purpose of major medical facility projects
 
-The Department of Veterans Affairs telehealth clinic in Craig, Colorado, shall after the date of the enactment of this Act be known and designated as the “Major William Edward Adams Department of Veterans Affairs Clinic”. Any reference to such clinic in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the “Major William Edward Adams Department of Veterans Affairs Clinic”.
+Section 8104(d)(2) of title 38, United States Code, as amended by section 6, is further amended by adding at the end the following new subparagraph:
 
-## § 8. Extension of certain expiring authorities
+> - **(C)** The Secretary may not obligate an amount under subparagraph (A) to expand the purpose of a major construction project except pursuant to a provision of law enacted after the date on which the Secretary submits to the committees described in subparagraph (B) notice of the following:
+>   - **(i)** The major construction project that is the source of the bid savings.
+>   - **(ii)** The major construction project for which the Secretary intends to expand the purpose.
+>   - **(iii)** A description of such expansion of purpose.
+>   - **(iv)** The amounts the Secretary intends to obligate to expand the purpose.
 
-- **(a)** *Recovery audits for certain contracts* Section 1703(d)(4) of title 38, United States Code, is amended by striking “September 30, 2013” and inserting “September 30, 2020”.
-- **(b)** *Treatment and rehabilitation for seriously mentally ill and homeless veterans* Section 2031(b) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
-- **(c)** *Additional services for seriously mentally ill and homeless veterans* Section 2033(d) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
-- **(d)** *Housing assistance for homeless veterans* Section 2041(c) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
-- **(e)** *Advisory Committee on Homeless Veterans* Section 2066(d) of such title is amended by striking “December 30, 2011” and inserting “December 31, 2012”.
-- **(f)** *Authority To transfer real property* Section 8118(a)(5) of such title is amended by striking “the date that is seven years after the date of the enactment of this section” and inserting “December 31, 2018”.
+## § 8. Name of Department of Veterans Affairs telehealth clinic, Craig, Colorado
+
+- **(a)** *Designation* The Department of Veterans Affairs telehealth clinic in Craig, Colorado, shall after the date of the enactment of this Act be known and designated as the “Major William Edward Adams Department of Veterans Affairs Clinic”.
+- **(b)** *References* Any reference in any law, regulation, map, document, record, or other paper of the United States to the clinic referred to in subsection (a) shall be considered to be a reference to the “Major William Edward Adams Department of Veterans Affairs Clinic”.
 
 ## § 9. George H. O’Brien, Jr., Department of Veterans Affairs Medical Center
 
-- **(a)** *Designation* The Department of Veterans Affairs medical center located in Big Spring, Texas, shall be known and designated as the “George H. O’Brien, Jr., Department of Veterans Affairs Medical Center”.
-- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the Department of Veterans Affairs medical center referred to in subsection (a) shall be deemed to be a reference to the “George H. O’Brien, Jr., Department of Veterans Affairs Medical Center”.
+- **(a)** *Designation* The Department of Veterans Affairs medical center located in Big Spring, Texas, shall after the date of the enactment of this Act be known and designated as the “George H. O’Brien, Jr., Department of Veterans Affairs Medical Center”.
+- **(b)** *References* Any reference in any law, regulation, map, document, record, or other paper of the United States to the Department of Veterans Affairs medical center referred to in subsection (a) shall be considered to be a reference to the “George H. O’Brien, Jr., Department of Veterans Affairs Medical Center”.
+
+## § 10. Extension of certain expiring authorities
+
+- **(a)** *Recovery audits for certain contracts* Section 1703(d)(4) of title 38, United States Code, is amended by striking “September 30, 2013” and inserting “September 30, 2020”.
+- **(b)** *Homeless veterans reintegration programs* Section 2021(e)(1)(F) of such title is amended by striking “2011” and inserting “2012”.
+- **(c)** *Treatment and rehabilitation for seriously mentally ill and homeless veterans* Section 2031(b) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
+- **(d)** *Additional services for seriously mentally ill and homeless veterans* Section 2033(d) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
+- **(e)** *Housing assistance for homeless veterans* Section 2041(c) of such title is amended by striking “December 31, 2011” and inserting “December 31, 2012”.
+- **(f)** *Advisory Committee on Homeless Veterans* Section 2066(d) of such title is amended by striking “December 30, 2011” and inserting “December 31, 2012”.
+- **(g)** *Authority To transfer real property* Section 8118(a)(5) of such title is amended by striking “the date that is seven years after the date of the enactment of this section” and inserting “December 31, 2018”.
+
+## § 11. Authorization of appropriations for comprehensive service programs for homeless veterans
+
+Section 2013 of title 38, United States Code, is amended—
+
+- **(1)** by striking “subchapter” and all that follows through the period at the end and inserting the following: “subchapter amounts as follows:”; and
+- **(2)** by adding at the end the following new paragraphs:
+  > - **(1)** $150,000,000 for each of fiscal years 2007 through 2009.
+  > - **(2)** $175,100,000 for fiscal year 2010.
+  > - **(3)** $217,700,000 for fiscal year 2011.
+  > - **(4)** $250,000,000 for fiscal year 2012.
+  > - **(5)** $150,000,000 for fiscal year 2013 and each subsequent fiscal year.
+
+## § 12. Reauthorization of appropriations for financial assistance for supportive services for very low-income veteran families in permanent housing
+
+- **(a)** *In general* Subsection (e) of section 2044 is amended—
+  - **(1)** in paragraph (1), by adding at the end the following new subparagraph:
+    > - **(D)** $100,000,000 for fiscal year 2012.
+
+  - **(2)** in paragraph (3), by striking “2011” and inserting “2012”.
+- **(b)** *Technical amendment* Paragraph (1) of such subsection is further amended by striking “carry out subsection (a), (b), and (c)” and inserting “carry out subsections (a), (b), and (c)”.
+
+## § 13. Extension of grant program for homeless veterans with special needs
+
+Section 2061(c)(1) of title 38, United States Code, is amended by striking “2011” and inserting “2012”.
+
+## § 14. Extension of specially adapted housing assistance for individuals residing temporarily in housing owned by a family member
+
+Section 2102A(e) of title 38, United States Code, is amended by striking “2011” and inserting “2012”.
+
+## § 15. Extension of funding fees
+
+Section 3729(b)(2) of title 38, United States Code, is amended by striking “October 1, 2011” each place it occurs and inserting “November 18, 2011”.
+
+## § 16. Notice and verification of the use of income information from other agencies
+
+Section 5317(g) of title 38, United States Code, is amended by striking “September 30, 2011” and inserting “November 18, 2011”.
+
+## § 17. Termination or reduction of certain benefits and services based on income information obtained from other agencies
+
+- **(a)** *Title 38* Section 5317A(d) of title 38, United States Code, is amended by striking “September 30, 2011” and inserting “November 18, 2011”.
+- **(b)** *Social Security Act* Section 453(j)(11)(G) of the Social Security Act (42 U.S.C. 653(j)(11)(G)) is amended by striking “September 30, 2011” and inserting “November 18, 2011”.
