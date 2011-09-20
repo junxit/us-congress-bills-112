@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1852
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1852
@@ -150,3 +150,9 @@ Children's Hospital GME Support Reauthorization Act of 2011
 - 2011-09-12 — Placed on the Union Calendar, Calendar No. 132.
 - 2011-09-12 — Reported by the Committee on Energy and Commerce. H. Rept. 112-205.
 - 2011-09-12 — Reported by the Committee on Energy and Commerce. H. Rept. 112-205.
+- 2011-09-20 — Considered under suspension of the rules. (consideration: CR H6254-6255)
+- 2011-09-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1852.
+- 2011-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-09-20 — Mr. Pitts moved to suspend the rules and pass the bill.
+- 2011-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6254)
+- 2011-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6254)
