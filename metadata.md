@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2005
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2005
@@ -136,3 +136,12 @@ Combating Autism Reauthorization Act of 2011
 - 2011-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6249-6250)
 - 2011-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6249-6250)
 - 2011-09-21 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 174.
+- 2011-09-26 — Passed Senate without amendment by Voice Vote. (consideration: CR S6004)
+- 2011-09-26 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S6004)
+- 2011-09-27 — Message on Senate action sent to the House.
+- 2011-09-29 — Presented to President.
+- 2011-09-29 — Presented to President.
+- 2011-09-30 — Became Public Law No: 112-32.
+- 2011-09-30 — Became Public Law No: 112-32.
+- 2011-09-30 — Signed by President.
+- 2011-09-30 — Signed by President.
