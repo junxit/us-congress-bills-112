@@ -1,0 +1,56 @@
+---
+legis-num: S. 1591
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1591
+
+> To award a Congressional Gold Medal to Raoul Wallenberg, in recognition of his achievements and heroic actions during the Holocaust.
+
+## § 1. Short title
+
+This Act may be cited as the “Raoul Wallenberg Centennial Celebration Act ”.
+
+## § 2. Findings
+
+The Congress finds as follows:
+
+- **(1)** Raoul Wallenberg was born in Europe on August 4, 1912, to Swedish Christian parents.
+- **(2)** In 1935, he graduated from the University of Michigan in Ann Arbor.
+- **(3)** In a letter to his grandfather, Wallenberg wrote of his time in America: “I feel so at home in my little Ann Arbor that I’m beginning to sink down roots here and have a hard time imagining my leaving it … Every now and then I feel strange when I think about how tiny my own country is and how large and wonderful America is.”.
+- **(4)** Raoul returned to Sweden, where he began a career as a businessman, and afterwards, a Swedish diplomat.
+- **(5)** In 1936, Raoul’s grandfather arranged a position for him at the Holland Bank in Haifa, Palestine. There, Raoul began to meet young Jews who had already been forced to flee from Nazi persecution in Germany. Their stories affected him deeply.
+- **(6)** He was greatly troubled by the fate of Jews in Europe, confiding to actress Viveca Lindfors the horrific plight of Jews under Nazi Europe.
+- **(7)** Under the direction of President Franklin D. Roosevelt, the War Refugee Board was established in January 1944, to aid civilians who fell victim to the Nazi and Axis powers in Europe.
+- **(8)** One of War Refugee Board’s top priorities was protection of the 750,000 remaining Jews in Hungary.
+- **(9)** It was decided that Raoul Wallenberg, aged 31 at the time, would be most effective in protecting Jews and victims of the Nazis in Hungary under the War Refugee Board. He was recruited by Iver Olsen, an agent for the United States Office of Strategic Services and sent to Budapest, Hungary, under his official profession as a Swedish diplomat. He was instructed to use passports and other creative means to save as many lives as possible.
+- **(10)** Wallenberg created a new Swedish passport, the Schutzpass, which looked more imposing and official than the actual Swedish passport. He reportedly put up huge placards of it throughout Budapest to familiarize the Nazis with it. He unilaterally announced that it granted the holder immunity from the death camps. The Schutzpasses alone are credited with saving 20,000 Jewish lives.
+- **(11)** In one example of his heroism, Wallenberg was told of a Nazi plot to round up several thousand Jewish women and acted swiftly to save them. Former Wallenberg staffer, Agnes Adachi, recalls the time, when she and her colleagues spent the whole night making approximately 2,000 Schutzpasses before 6 a.m. They were all completed and personally delivered to the women in time to save their lives.
+- **(12)** Using the money the United States deposited with the War Refugee Board, Wallenberg was able to purchase approximately 30 buildings, which he used as hospitals, schools, soup kitchens, and safe houses for over 8,000 children whose parents had already been deported or killed.
+- **(13)** Tommy Lapid, a young boy who was staying with his mother in a Swedish safe house (his father was already dead), gave an eyewitness account of how his family was helped by Wallenberg and the War Refugee Board: “One morning, a group of Hungarian Fascists came into the house and said that all the able-bodied women must go with them. We knew what this meant. My mother kissed me and I cried and she cried. We knew we were parting forever and she left me there, an orphan to all intents and purposes. Then two or three hours later, to my amazement, my mother returned with the other women. It seemed like a mirage, a miracle. My mother was there—she was alive and she was hugging me and kissing me, and she said one word: Wallenberg.”.
+- **(14)** Even as the war was coming to a close, Wallenberg remained vigilant and attentive to the people under his care. Adolf Eichmann, the SS colonel charged with the extermination of Jews in Eastern Europe, was determined to exterminate the 70,000 Jews kept as prisoners in a guarded ghetto in Budapest. As soon as Wallenberg heard of the plot, he sent Pal Szalay, an Arrow-Crossman senior official, who defected and turned to Wallenberg. Szalay was sent to speak to General Schmidthuber, who was ordered to spearhead the ghetto extermination in Budapest. Szalay informed Schmidthuber that, seeing as the war was coming to an end, if the planned massacre took place, Wallenberg would see to it personally that Schmidthuber would be prosecuted as a war criminal and hanged. The plans were ultimately abandoned and considered Wallenberg’s last big victory.
+- **(15)** Of the 120,000 Jews in Hungary that survived, Raoul Wallenberg, acting under the War Refugee Board, is credited with saving an estimated 100,000 of them in a 6-month period.
+- **(16)** These findings show that Raoul Wallenberg showed exceptional heroism and bravery with his actions during the Holocaust. Working with the War Refugee Board, a United States agency, he was able to save approximately 100,000 Jews in Hungary, many of whom were later able to immigrate to the United States.
+- **(17)** Indeed, many American Jews can directly or indirectly attribute their own lives to Raoul Wallenberg’s actions during World War II. Many of the people Wallenberg saved have been influential citizens contributing to American institutions and culture, including Congressman Tom Lantos (February 1, 1928–February 11, 2008) and the Liska Rebbe, Rabbi Yoizef (Joseph) Friedlander, who carried forth the Liska Hassidic dynasty from Hungary to the United States after being saved by Raoul Wallenberg.
+- **(18)** His actions and character make him an excellent contender for a Congressional Gold Medal in time for the centennial of his birth, to celebrate his achievements and humanitarian accomplishments.
+
+## § 3. Congressional Gold Medal
+
+- **(a)** *Presentation authorized* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the presentation, on behalf of the Congress, of a gold medal of appropriate design to the next of kin or personal representative of Raoul Wallenberg, in recognition of his achievements and heroic actions during the Holocaust.
+- **(b)** *Design and striking* For the purpose of the presentation referred to in subsection (a), the Secretary of the Treasury (in this Act referred to as the “Secretary”) shall strike a gold medal with suitable emblems, devices, and inscriptions, to be determined by the Secretary.
+
+## § 4. Duplicate medals
+
+Under such regulations as the Secretary (in this Act referred to as the “Secretary”) may prescribe, the Secretary may strike duplicate medals in bronze of the gold medal struck pursuant to section 3 and sell such duplicate medals at a price sufficient to cover the costs of the duplicate medals (including labor, materials, dies, use of machinery, overhead expenses) and the cost of the gold medal.
+
+## § 5. Status of medals
+
+- **(a)** *National medals* The medals struck pursuant to this Act are national medals for purposes of chapter 51 of title 31, United States Code.
+- **(b)** *Numismatic items* For purposes of section 5134 of title 31, United States Code, all medals struck under this Act shall be considered to be numismatic items.
+
+## § 6. Authority to use fund amounts; Proceeds of sale
+
+- **(a)** *Authorization of charges* There is authorized to be charged against the United States Mint Public Enterprise Fund, such amounts as may be necessary to pay for the costs of the medals struck pursuant to this Act.
+- **(b)** *Proceeds of sale* Amounts received from the sale of duplicate bronze medals under section 4 shall be deposited in the United States Mint Public Enterprise Fund.
