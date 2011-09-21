@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2944
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2944
@@ -43,3 +43,4 @@ United States Parole Commission Extension Act of 2011
 - 2011-09-20 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
 - 2011-09-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 712). (text: CR H6243)
 - 2011-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 712).(text: CR H6243)
+- 2011-09-21 — Received in the Senate, read twice.
