@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 17
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 17
@@ -43,3 +43,5 @@ A concurrent resolution expressing the sense of Congress that Taiwan should be a
 - 2011-07-27 — Committee on Foreign Relations. Reported without amendment and with a preamble. Without written report.
 - 2011-07-27 — Committee on Foreign Relations. Reported without amendment and with a preamble. Without written report.
 - 2011-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 115.
+- 2011-09-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(consideration: CR S5845-5846; text as passed Senate: CR S5845-5846)
+- 2011-09-21 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S5845-5846; text as passed Senate: CR S5845-5846)
