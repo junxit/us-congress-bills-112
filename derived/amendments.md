@@ -1,7 +1,7 @@
 ---
 measure: S. 633
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -38,12 +38,12 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | in subparagraph (C), as so redesignated, by striking “, shall be” and all that follows and inserting a period; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (e) and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 3(q)(1) of the Small Business Act (15 U.S.C. 632(q)(1)) is amended by striking “means a veteran” and all that follows and inserting the following: “means— | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 4 of the Small Business Act (15 U.S.C. 633) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 8(a) of the Small Business Act (15 U.S.C. 637(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in paragraph (5), by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 3(p)(4)(C)(i) of the Small Business Act (15 U.S.C. 632(p)(4)(C)(i)) is amended to read as follows: | the bill names no machine-readable US Code section |
