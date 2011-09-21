@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2883
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2883
@@ -40,6 +40,10 @@ Child and Family Services Improvement and Innovation Act
 - House — Budget Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2011-09-21 — [House 112-1-720](votes/house-112-1-0720.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (395–25)
+
 ## Actions
 
 - 2011-09-12 — Introduced in House
@@ -52,3 +56,11 @@ Child and Family Services Improvement and Innovation Act
 - 2011-09-19 — Placed on the Union Calendar, Calendar No. 138.
 - 2011-09-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 112-210, Part I.
 - 2011-09-19 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 112-210, Part I.
+- 2011-09-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-09-21 — Considered as unfinished business. (consideration: CR H6328-6329)
+- 2011-09-21 — Considered under suspension of the rules. (consideration: CR H6292-6304)
+- 2011-09-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2883.
+- 2011-09-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-09-21 — Mr. Davis (KY) moved to suspend the rules and pass the bill, as amended.
+- 2011-09-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 25 (Roll no. 720). (text: CR H6292-6295)
+- 2011-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 25 (Roll no. 720).(text: CR H6292-6295)
