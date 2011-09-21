@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1852
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1852
@@ -156,3 +156,4 @@ Children's Hospital GME Support Reauthorization Act of 2011
 - 2011-09-20 — Mr. Pitts moved to suspend the rules and pass the bill.
 - 2011-09-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6254)
 - 2011-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6254)
+- 2011-09-21 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 175.
