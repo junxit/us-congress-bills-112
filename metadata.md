@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2646
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2646
@@ -45,3 +45,4 @@ Veterans Health Care Facilities Capital Improvement Act of 2011
 - 2011-09-20 — Mr. Johnson (OH) moved to suspend the rules and pass the bill, as amended.
 - 2011-09-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 714). (text: CR H6246-6248)
 - 2011-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 714).(text: CR H6246-6248)
+- 2011-09-21 — Received in the Senate, read twice.
