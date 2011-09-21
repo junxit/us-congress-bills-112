@@ -1,7 +1,7 @@
 ---
 measure: S. 1280
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1280
@@ -16,11 +16,35 @@ Kate Puzey Peace Corps Volunteer Protection Act of 2011
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 
-## Cosponsors (3)
+## Cosponsors (27)
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
 
 ## Committees (1)
 
@@ -30,3 +54,7 @@ Kate Puzey Peace Corps Volunteer Protection Act of 2011
 
 - 2011-06-27 — Introduced in Senate
 - 2011-06-27 — Read twice and referred to the Committee on Foreign Relations.
+- 2011-07-26 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2011-09-21 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 112-82.
+- 2011-09-21 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 112-82.
+- 2011-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 176.
