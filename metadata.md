@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2189
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2189
@@ -20,9 +20,10 @@ Death in Custody Reporting Act of 2011
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Death in Custody Reporting Act of 2011
 - 2011-09-20 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
 - 2011-09-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 18 (Roll no. 713). (text: CR H6244-6245)
 - 2011-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 18 (Roll no. 713).(text: CR H6244-6245)
+- 2011-09-21 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
