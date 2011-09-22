@@ -1,7 +1,7 @@
 ---
 measure: S. 1151
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1151
@@ -16,11 +16,12 @@ Personal Data Privacy and Security Act of 2011
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Franken, Al [D-MN] (F000457)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -31,3 +32,8 @@ Personal Data Privacy and Security Act of 2011
 - 2011-06-07 — Introduced in Senate
 - 2011-06-07 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S3545-3552)
 - 2011-06-07 — Sponsor introductory remarks on measure. (CR S3544-3545)
+- 2011-09-07 — Committee on the Judiciary. Hearings held. Hearings printed: S.Hrg. 112-126.
+- 2011-09-22 — Committee on the Judiciary. Ordered to be reported with amendments favorably.
+- 2011-09-22 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2011-09-22 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2011-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 181.

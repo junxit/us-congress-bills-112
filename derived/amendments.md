@@ -1,7 +1,7 @@
 ---
 measure: S. 1151
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-32 amendatory instructions. 0 executed, 32 stated and not applied.
+46 amendatory instructions. 0 executed, 46 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -63,3 +63,17 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subparagraph (A)(i), by striking “or”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A)(ii), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (ii) the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 1961(1) of title 18, United States Code, is amended by inserting “section 1030 (relating to fraud and related activity in connection with computers) if the act is a felony,” before “section 1084”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 47 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 47 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 1030(c) of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 1030(a) of title 18, United States Code, is amended by striking paragraph (6) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 1030(b) of title 18, United States Code, is amended by inserting “for the completed offense” after “punished as provided”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1030 of title 18, United States Code, is amended by striking subsections (i) and (j) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” before “Any person”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1030 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Chapter 47 of title 18, United States Code, is amended by inserting after section 1030 the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for chapter 47 of title 18, United States Code, is amended by inserting after the item relating to section 1030 the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 1030(e)(6) of title 18, United States Code, is amended by striking “alter;” and inserting “alter, but does not include access in violation of a contractual obligation or agreement, such as an acceptable use policy or terms of ser… | the bill names no machine-readable US Code section |
+| — | insert | Section 605A(b)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681c–1(b)(1)) is amended by inserting “, or evidence that the consumer has received notice that the consumer's financial information has or may have been compromised,” after… | the bill names no machine-readable US Code section |
