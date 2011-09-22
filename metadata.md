@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2943
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2943
@@ -33,3 +33,4 @@ Short-Term TANF Extension Act
 - 2011-09-21 — Mr. Davis (KY) moved to suspend the rules and pass the bill.
 - 2011-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6289)
 - 2011-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6289)
+- 2011-09-22 — Received in the Senate, read twice.
