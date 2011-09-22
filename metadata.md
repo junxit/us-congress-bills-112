@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2883
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2883
@@ -66,3 +66,10 @@ Child and Family Services Improvement and Innovation Act
 - 2011-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 25 (Roll no. 720).(text: CR H6292-6295)
 - 2011-09-22 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.(consideration: CR S5920)
 - 2011-09-22 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S5920)
+- 2011-09-23 — Message on Senate action sent to the House.
+- 2011-09-27 — Presented to President.
+- 2011-09-27 — Presented to President.
+- 2011-09-30 — Became Public Law No: 112-34.
+- 2011-09-30 — Became Public Law No: 112-34.
+- 2011-09-30 — Signed by President.
+- 2011-09-30 — Signed by President.
