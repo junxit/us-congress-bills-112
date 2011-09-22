@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2480
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2480
@@ -48,3 +48,7 @@ Administrative Conference of the United States Reauthorization Act of 2011
 - 2011-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 23 (Roll no. 691). (text: CR H5822)
 - 2011-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 23 (Roll no. 691).(text: CR H5822)
 - 2011-08-02 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2011-09-22 — Committee on the Judiciary. Ordered to be reported with an amendment favorably.
+- 2011-09-22 — Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.
+- 2011-09-22 — Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.
+- 2011-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 180.

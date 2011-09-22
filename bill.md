@@ -20,3 +20,33 @@ Section 596 of title 5, United States Code, is amended to read as follows:
 > ## § 596. Authorization of appropriations
 >
 > There are authorized to be appropriated to carry out this subchapter not more than $2,900,000 for fiscal year 2012, $2,900,000 for fiscal year 2013, and $2,900,000 for fiscal year 2014. Of any amounts appropriated under this section, not more than $2,500 may be made available in each fiscal year for official representation and entertainment expenses for foreign dignitaries.
+
+## § 2. Authorization of appropriations
+
+Section 596 of title 5, United States Code, is amended to read as follows:
+
+> ## § 596. Authorization of appropriations
+>
+> - **(a)** There are authorized to be appropriated to carry out this subchapter not more than $2,900,000 for fiscal year 2012, $2,900,000 for fiscal year 2013, and $2,900,000 for fiscal year 2014.
+> - **(b)** Of any amounts appropriated under this section, not more than $2,500 may be made available in each fiscal year for official representation and entertainment expenses for foreign dignitaries.
+> - **(c)** Of any amounts appropriated under this section, not less than 35 percent shall be made available in each fiscal year for projects described in reports of the Administrative Conference required under section 595(d).
+
+## § 3. Reports and audits
+
+Section 595 of title 5, United States Code, is amended—
+
+- **(1)** by striking the last sentence; and
+- **(2)** by adding at the end the following:
+  > - **(d)** *Reports; audits; and budgets*
+  >   - **(1)** *Annual reports*
+  >     - **(A)** *In general* Not later than 90 days after the end of each fiscal year, the Chairman shall submit a report to the President and Congress on the progress and activities of the Conference.
+  >     - **(B)** *Contents* Each report submitted under this paragraph shall—
+  >       - **(i)** summarize the operations of the Conference for the preceding fiscal year, including financial details and employee levels as applicable to each major division of the Conference;
+  >       - **(ii)** detail the operating plan of the Conference, including specific expense and employee needs for the upcoming fiscal year;
+  >       - **(iii)** outline the activities of the Council and the Assembly, including the results of its plenary sessions and meetings, and the names of the individuals who comprise the membership of each body;
+  >       - **(iv)** describe all current projects the Conference is conducting and those proposed future projects the Conference plans to undertake, including the approximate cost and employee resources allocated to each project;
+  >       - **(v)** set forth details of any progress on such projects made in the previous fiscal year;
+  >       - **(vi)** include the most recent audit conducted under paragraph (2); and
+  >       - **(vii)** include any other information the Chairman considers necessary.
+  >   - **(2)** *Audits* For each fiscal year, the Chairman shall provide for an independent audit of the financial statements of the Conference. Each audit shall be conducted in accordance with generally acceptable accounting procedures and in compliance with section 3515 of title 31.
+  >   - **(3)** *Budgets* The Chairman shall prepare and submit each year to the President and Congress a budget in a manner, and not later than the date, set forth in chapter 11 of title 31.
