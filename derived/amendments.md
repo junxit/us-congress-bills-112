@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2832
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-140 amendatory instructions. 0 executed, 140 stated and not applied.
+141 amendatory instructions. 0 executed, 141 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | replace | Section 505 of the Trade Act of 1974 (19 U.S.C. 2465) is amended by striking “December 31, 2010” and inserting “July 31, 2013”. | the bill names no machine-readable US Code section |
 | — | repeal | Section 1893 of the Trade and Globalization Adjustment Assistance Act of 2009 (Public Law 111–5; 123 Stat. 422) is repealed. | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (b); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (c) through (f) as subsections (b) through (e), respectively; | the bill names no machine-readable US Code section |
@@ -86,7 +87,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subparagraph (F), by inserting “and the average duration of the training that was completed by such workers” after “training”; and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (B) as subparagraph (D); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (A) the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 249B(d) of the Trade Act of 1974 (19 U.S.C. 2323(d)) is amended by striking “December 15” and inserting “February 15”. | the bill names no machine-readable US Code section |
 | — | replace | Section 245(a) of the Trade Act of 1974 (19 U.S.C. 2317(a)) is amended by striking “February 12, 2011” and inserting “December 31, 2013”. | the bill names no machine-readable US Code section |
 | — | insert | Chapter 3 of title II of the Trade Act of 1974 (19 U.S.C. 2341 et seq.) is amended by inserting after section 255 the following: | the bill names no machine-readable US Code section |
@@ -100,7 +101,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the matter preceding paragraph (1), by striking “December 15 in each of the calendar years 2009 through” and inserting “December 15, 2009,”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii), by striking the semicolon and inserting “; and”; | the bill names no machine-readable US Code section |
 | — | strike | by striking clauses (iii) and (iv); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clause (v) as clause (iii); | the bill names no machine-readable US Code section |

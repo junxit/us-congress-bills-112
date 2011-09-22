@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2832
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2832
@@ -54,7 +54,7 @@ To extend the Generalized System of Preferences, and for other purposes.
 
 - House — Ways and Means Committee
 
-## Recorded votes (11)
+## Recorded votes (12)
 
 - 2011-09-19 — [Senate 112-1-139](votes/senate-112-1-0139.md) — On the Cloture Motion — **Cloture Motion Agreed to** (84–8)
 - 2011-09-20 — [Senate 112-1-141](votes/senate-112-1-0141.md) — On the Amendment — **Amendment Rejected** (45–55)
@@ -67,6 +67,7 @@ To extend the Generalized System of Preferences, and for other purposes.
 - 2011-09-22 — [Senate 112-1-148](votes/senate-112-1-0148.md) — On the Amendment — **Amendment Rejected** (48–48)
 - 2011-09-22 — [Senate 112-1-149](votes/senate-112-1-0149.md) — On the Amendment — **Amendment Agreed to** (69–28)
 - 2011-09-22 — [Senate 112-1-150](votes/senate-112-1-0150.md) — On Passage of the Bill — **Bill Passed** (70–27)
+- 2011-10-12 — [House 112-1-784](votes/house-112-1-0784.md) — On Motion to Concur in the Senate Amendment — **Passed** (307–122)
 
 ## Actions
 
@@ -170,3 +171,20 @@ To extend the Generalized System of Preferences, and for other purposes.
 - 2011-09-22 — Senate amendment proposed (on the floor): Amendment SA 634 proposed by Senator Cornyn.(consideration: CR S5853-5857, S5860-5866, S5879-5881; text: CR S5853-5854)
 - 2011-09-22 — Senate amendment proposed (on the floor): Amendment SA 650 proposed by Senator Thune.(consideration: CR S5857, S5866-5873, S5879; text: CR S5866-5867)
 - 2011-09-22 — Senate amendment proposed (on the floor): Amendment SA 651 proposed by Senator Rubio to Amendment SA 633.(consideration: CR S5857-5860, S5866, S5878; text: CR S5857-5858)
+- 2011-09-23 — Message on Senate action sent to the House.
+- 2011-10-11 — DEBATE - The House proceeded with 90 minutes of debate on the motion to concur in the Senate amendment to H.R. 2832.
+- 2011-10-11 — Mr. Camp moved that the House agree to the Senate amendment. (consideration: CR H6771-6779)
+- 2011-10-11 — Pursuant to clause 1(c), rule 19, further proceedings on the motion to concur in the Senate amendment to H.R. 2832 were postponed.
+- 2011-10-12 — Considered as unfinished business. (consideration: CR H6832-6836)
+- 2011-10-12 — Considered as unfinished business. (consideration: CR H6840)
+- 2011-10-12 — DEBATE - Pursuant to the provisions of H.Res. 425, the House proceeded with further debate on the motion to concur in the Senate amendment to H.R. 2832.
+- 2011-10-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-12 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 307 - 122 (Roll no. 784). (text as House agreed to Senate amendment: CR 10/11/2011 H6771-6777)
+- 2011-10-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on concuring in the Senate amendment to H.R. 2832, the Chair put the question on adoption of the motion, and by voice vote announced that the ayes had prevailed. Mr. McDermott demanded the yeas and nays and pursuant to clause 8(a)(1)(A) of rule 20, the Chair postponed further proceedings on the motion to concur in the Senate amendment to H.R. 2832 until a time to be announced.
+- 2011-10-12 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 307 - 122 (Roll no. 784).(text as House agreed to Senate amendment: CR 10/11/2011 H6771-6777)
+- 2011-10-13 — Presented to President.
+- 2011-10-13 — Presented to President.
+- 2011-10-21 — Became Public Law No: 112-40.
+- 2011-10-21 — Became Public Law No: 112-40.
+- 2011-10-21 — Signed by President.
+- 2011-10-21 — Signed by President.
