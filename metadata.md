@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2943
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2943
@@ -34,3 +34,12 @@ Short-Term TANF Extension Act
 - 2011-09-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6289)
 - 2011-09-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6289)
 - 2011-09-22 — Received in the Senate, read twice.
+- 2011-09-23 — Message on Senate action sent to the House.
+- 2011-09-23 — Passed Senate without amendment by Voice Vote. (consideration: CR S5932)
+- 2011-09-23 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S5932)
+- 2011-09-27 — Presented to President.
+- 2011-09-27 — Presented to President.
+- 2011-09-30 — Became Public Law No: 112-35.
+- 2011-09-30 — Became Public Law No: 112-35.
+- 2011-09-30 — Signed by President.
+- 2011-09-30 — Signed by President.
