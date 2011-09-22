@@ -1,7 +1,7 @@
 ---
 measure: S. 633
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 633
@@ -32,9 +32,10 @@ Small Business Contracting Fraud Prevention Act of 2011
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Hoeven, John [R-ND] (H001061)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Small Business and Entrepreneurship Committee
+- House — Small Business Committee
 
 ## Actions
 
@@ -51,3 +52,6 @@ Small Business Contracting Fraud Prevention Act of 2011
 - 2011-09-21 — Senate amendment agreed to: Amendment SA 652 agreed to in Senate by Unanimous Consent.
 - 2011-09-21 — Senate amendment proposed (on the floor): Amendment SA 652 proposed by Senator Reid for Senator Murray.(consideration: CR S5846; text: CR S5846)
 - 2011-09-21 — Senate amendment submitted
+- 2011-09-22 — Message on Senate action sent to the House.
+- 2011-09-22 — Received in the House.
+- 2011-09-22 — Referred to the House Committee on Small Business.
