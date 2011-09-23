@@ -1,7 +1,7 @@
 ---
 measure: H.R. 241
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 241
@@ -25,3 +25,11 @@ To authorize the conveyance of certain National Forest System lands in the Los P
 - 2011-01-07 — Introduced in House
 - 2011-01-07 — Introduced in House
 - 2011-01-07 — Referred to the House Committee on Natural Resources.
+- 2011-01-26 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2011-05-04 — Subcommittee Hearings Held.
+- 2011-07-20 — Committee Consideration and Mark-up Session Held.
+- 2011-07-20 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2011-07-20 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2011-09-23 — Placed on the Union Calendar, Calendar No. 140.
+- 2011-09-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-216.
+- 2011-09-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-216.

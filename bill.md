@@ -36,11 +36,6 @@ In this Act:
   - **(2)** *Requirements* An appraisal under paragraph (1) shall be conducted in accordance with nationally recognized appraisal standards, including—
     - **(A)** the Uniform Appraisal Standards for Federal Land Acquisitions; and
     - **(B)** the Uniform Standards of Professional Appraisal Practice.
-- **(g)** *Disposition of Proceeds*
-  - **(1)** *In general* The Secretary shall deposit in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”) (16 U.S.C. 484a) any amount received by the Secretary as the result of—
-    - **(A)** any cash equalization payment made under subsection (b); and
-    - **(B)** any sale carried out under subsection (d).
-  - **(2)** *Use of proceeds* Amounts deposited under paragraph (1) shall be available to the Secretary, without further appropriation and until expended, for the acquisition of land or interests in land in the Los Padres National Forest.
-- **(h)** *Management and Status of Acquired Land* Any non-Federal land acquired by the Secretary under this Act shall be managed by the Secretary in accordance with—
+- **(g)** *Management and Status of Acquired Land* Any non-Federal land acquired by the Secretary under this Act shall be managed by the Secretary in accordance with—
   - **(1)** the Act of March 1, 1911 (commonly known as the “Weeks Law”) (16 U.S.C. 480 et seq.); and
   - **(2)** any laws (including regulations) applicable to the National Forest System.
