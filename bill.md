@@ -53,49 +53,96 @@ This Act may be cited as the “Transparency in Regulatory Analysis of Impacts o
     - **(B)** small businesses;
     - **(C)** regional economies;
     - **(D)** State, local, and tribal governments;
-    - **(E)** local and industry-specific labor markets; and
-    - **(F)** agriculture,
+    - **(E)** low-income communities;
+    - **(F)** public health;
+    - **(G)** local and industry-specific labor markets; and
+    - **(H)** agriculture,
 - **(c)** *Methods* In conducting analyses under this section, the Committee shall use the best available methods, consistent with guidance from the Office of Information and Regulatory Affairs and the Office of Management and Budget Circular A–4.
 - **(d)** *Data* In conducting analyses under this section, the Committee—
   - **(1)** shall use the best data that are available to the public or supplied to the Committee by its members, including the most recent such data appropriate for this analysis representing air quality, facility emissions, and installed controls; and
   - **(2)** is not required to create data or to use data that are not readily accessible.
 - **(e)** *Covered rules* In this section, the term covered rule means the following:
   - **(1)** The following published rules (including any successor or substantially similar rule):
-    - **(A)** “Federal Implementation Plans To Reduce Interstate Transport of Fine Particulate Matter and Ozone”, published at 75 Fed. Reg. 45210 (August 2, 2010).
-    - **(B)** “National Ambient Air Quality Standards for Ozone”, published at 75 Fed. Reg. 2938 (January 19, 2010).
+    - **(A)** The Clean Air Interstate Rule (as defined in section 5(a)(4)).
+    - **(B)** “National Ambient Air Quality Standards for Ozone”, published at 73 Fed. Reg. 16436 (March 27, 2008).
     - **(C)** “National Emission Standards for Hazardous Air Pollutants for Major Sources: Industrial, Commercial, and Institutional Boilers and Process Heaters”, published at 76 Fed. Reg. 15608 (March 21, 2011).
     - **(D)** “National Emission Standards for Hazardous Air Pollutants for Area Sources: Industrial, Commercial, and Institutional Boilers”, published at 76 Fed. Reg. 15554 (March 21, 2011).
     - **(E)** “National Emission Standards for Hazardous Air Pollutants from Coal- and Oil-fired Electric Utility Steam Generating Units and Standards of Performance for Fossil-Fuel-Fired Electric Utility, Industrial-Commercial-Institutional, and Small Industrial-Commercial-Institutional Steam Generating Units”, signed by Administrator Lisa P. Jackson on March 16, 2011.
     - **(F)** “Hazardous and Solid Waste Management System; Identification and Listing of Special Wastes; Disposal of Coal Combustion Residuals From Electric Utilities”, published at 75 Fed. Reg. 35127 (June 21, 2010).
     - **(G)** “Primary National Ambient Air Quality Standard for Sulfur Dioxide”, published at 75 Fed. Reg. 35520 (June 22, 2010).
     - **(H)** “Primary National Ambient Air Quality Standards for Nitrogen Dioxide”, published at 75 Fed. Reg. 6474 (February 9, 2010).
+    - **(I)** “National Emission Standards for Hazardous Air Pollutants from the Portland Cement Manufacturing Industry and Standards of Performance for Portland Cement Plants”, published at 75 Fed. Reg. 54970 (September 9, 2010).
   - **(2)** The following additional rules or guidelines promulgated on or after January 1, 2009:
     - **(A)** Any rule or guideline promulgated under section 111(b) or 111(d) of the Clean Air Act (42 U.S.C. 7411(b), 7411(d)) to address climate change.
     - **(B)** Any rule or guideline promulgated by the Administrator of the Environmental Protection Agency, a State, a local government, or a permitting agency under or as the result of section 169A or 169B of the Clean Air Act (42 U.S.C. 7491, 7492).
     - **(C)** Any rule establishing or modifying a national ambient air quality standard under section 109 of the Clean Air Act (42 U.S.C. 7409).
+    - **(D)** Any rule addressing fuels under title II of the Clean Air Act (42 U.S.C. 7521 et seq.) as described in the Unified Agenda of Federal Regulatory and Deregulatory Actions under Regulatory Identification Number 2060-AQ86, or any substantially similar rule, including any rule under section 211(v) of the Clean Air Act (42 U.S.C. 7545(v)).
 - **(f)** *Covered actions* In this section, the term covered action means any action on or after January 1, 2009, by the Administrator of the Environmental Protection Agency, a State, a local government, or a permitting agency as a result of the application of part C of title I (relating to prevention of significant deterioration of air quality) or title V (relating to permitting) of the Clean Air Act (42 U.S.C. 7401 et seq.), if such application occurs with respect to an air pollutant that is identified as a greenhouse gas in “Endangerment and Cause or Contribute Findings for Greenhouse Gases Under Section 202(a) of the Clean Air Act”, published at 74 Fed. Reg. 66496 (December 15, 2009).
 
 ## § 4. Reports; public comment
 
 - **(a)** *Preliminary report* Not later than January 31, 2012, the Committee shall make public and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Environment and Public Works of the Senate a preliminary report containing the results of the analyses conducted under section 3.
-- **(b)** *Public comment period* The Committee shall accept public comments regarding the preliminary report submitted under subsection (a) for a period of 90 days after such submission.
+- **(b)** *Public comment period* The Committee shall accept public comments regarding the preliminary report submitted under subsection (a) for a period of 120 days after such submission.
 - **(c)** *Final report* Not later than August 1, 2012, the Committee shall submit to Congress a final report containing the analyses conducted under section 3, including any revisions to such analyses made as a result of public comments, and a response to such comments.
 
-## § 5. Regulatory deferral of certain rules
+## § 5. Additional provisions relating to certain rules
 
-- **(a)** *No final action* The Administrator of the Environmental Protection Agency shall not take final action with respect to the rule listed in subparagraph (E) of section 3(e)(1) (relating to national emission standards and standards of performance for certain electric generating units) until a date (to be determined by the Administrator) that is at least 6 months after the day on which the Committee submits the final report under section 4(c).
-- **(b)** *Rules finalized prior to enactment* Notwithstanding the final action taken with respect to the rule listed in subparagraph (A) of section 3(e)(1) (relating to Federal implementation plans to reduce interstate transport of fine particulate matter and ozone) and final action (if any) taken with respect to the rule listed in subparagraph (E) of section 3(e)(1) prior to the date of the enactment of this Act—
-  - **(1)** such final action shall not be or become, as applicable, effective until a date (to be determined by the Administrator) that is at least 6 months after the day on which the Committee submits the final report under section 4(c); and
-  - **(2)** the date for compliance with any standard or requirement in either such finalized rule, and any date for further regulatory action triggered by either such finalized rule, shall be delayed by a period equal to the period—
-    - **(A)** beginning on the date of the publication of the final action for the respective finalized rule; and
-    - **(B)** ending on the date on which such final action becomes effective pursuant to paragraph (1).
-- **(c)** *Applicability of Clean Air Interstate Rule during interim period* Notwithstanding any other provision of law, the Administrator of the Environmental Protection Agency shall continue to implement the Clean Air Interstate Rule and the rule establishing Federal Implementation Plans for the Clean Air Interstate Rule as promulgated and modified by the Administrator of the Environmental Protection Agency (70 Fed. Reg. 25162 (May 12, 2005), 71 Fed. Reg. 25288 (April 28, 2006), 71 Fed. Reg. 25328 (April 28, 2006), 72 Fed. Reg. 59190 (Oct. 19, 2007), 72 Fed. Reg. 62338 (Nov. 2, 2007), 74 Fed. Reg. 56721 (Nov. 3, 2009)) until the date on which final action with respect to the rule listed in subparagraph (A) of section 3(e)(1) becomes effective pursuant to subsection (b)(1).
+- **(a)** *Cross-State Air Pollution rule/Transport rule*
+  - **(1)** *Earlier rules* The rule entitled “Federal Implementation Plans: Interstate Transport of Fine Particulate Matter and Ozone and Correction of SIP Approvals”, published at 76 Fed. Reg. 48208 (August 8, 2011), and any successor or substantially similar rule, shall be of no force or effect, and shall be treated as though such rule had never taken effect.
+  - **(2)** *Continued applicability of Clean Air Interstate Rule* In place of any rule described in paragraph (1), the Administrator of the Environmental Protection Agency (in this section referred to as the “Administrator”) shall continue to implement the Clean Air Interstate Rule.
+  - **(3)** *Additional rulemakings*
+    - **(A)** *Issuance of new rules* The Administrator—
+      - **(i)** shall not issue any proposed or final rule under section 110(a)(2)(D)(i)(I) or section 126 of the Clean Air Act (42 U.S.C. 7410(a)(2)(D)(i)(I), 7426) relating to national ambient air quality standards for ozone or particulate matter (including any modification of the Clean Air Interstate Rule) before the date that is 3 years after the date on which the Committee submits the final report under section 4(c); and
+      - **(ii)** in issuing any rule described in clause (i), shall base the rule on actual monitored (and not modeled) data and shall, notwithstanding section 110(a)(2)(D)(i)(I), allow the trading of emissions allowances among entities covered by the rule irrespective of the States in which such entities are located.
+    - **(B)** *Implementation schedule* In promulgating any final rule described in subparagraph (A)(i), the Administrator shall establish a date for State implementation of the standards established by such final rule that is not earlier than 3 years after the date of publication of such final rule.
+  - **(4)** *Definition of Clean Air Interstate Rule* For purposes of this section, the term Clean Air Interstate Rule means the Clean Air Interstate Rule and the rule establishing Federal Implementation Plans for the Clean Air Interstate Rule as promulgated and modified by the Administrator (70 Fed. Reg. 25162 (May 12, 2005), 71 Fed. Reg. 25288 (April 28, 2006), 72 Fed. Reg. 55657 (October 1, 2007), 72 Fed. Reg. 59190 (October 19, 2007), 72 Fed. Reg. 62338 (November 2, 2007), 74 Fed. Reg. 56721 (November 3, 2009)).
+- **(b)** *Steam generating unit rules*
+  - **(1)** *Earlier rules* The proposed rule entitled “National Emission Standards for Hazardous Air Pollutants From Coal- and Oil-Fired Electric Utility Steam Generating Units and Standards of Performance for Fossil-Fuel-Fired Electric Utility, Industrial-Commercial- Institutional, and Small Industrial-Commercial-Institutional Steam Generating Units” published at 76 Fed. Reg. 24976 (May 3, 2011), and any final rule that is based on such proposed rule and is issued prior to the date of the enactment of this Act, shall be of no force and effect, and shall be treated as though such proposed or final rule had never been issued. In conducting analyses under section 3(a), the Committee shall analyze the rule described in section 3(e)(1)(E) (including any successor or substantially similar rule) as if the preceding sentence did not apply to such rule.
+  - **(2)** *Promulgation of final rules* In place of the rules described in paragraph (1), the Administrator shall—
+    - **(A)** issue regulations establishing national emission standards for coal-and oil-fired electric utility steam generating units under section 112 of the Clean Air Act (42 U.S.C. 7412) with respect to each hazardous air pollutant for which the Administrator finds such regulations are appropriate and necessary pursuant to subsection (n)(1)(A) of such section;
+    - **(B)** issue regulations establishing standards of performance for fossil-fuel-fired electric utility, industrial-commercial-institutional, and small industrial-commercial-institutional steam generating units under section 111 of the Clean Air Act (42 U.S.C. 111); and
+    - **(C)** issue the final regulations required by subparagraphs (A) and (B)—
+      - **(i)** after issuing proposed regulations under such subparagraphs;
+      - **(ii)** after consideration of the final report submitted under section 4(c); and
+      - **(iii)** not earlier than the date that is 12 months after the date on which the Committee submits such report to the Congress, or such later date as may be determined by the Administrator.
+  - **(3)** *Compliance provisions*
+    - **(A)** *Establishment of compliance dates* In promulgating the regulations under paragraph (2), the Administrator—
+      - **(i)** shall establish a date for compliance with the standards and requirements under such regulations that is not earlier than 5 years after the effective date of the regulations; and
+      - **(ii)** in establishing a date for such compliance, shall take into consideration—
+        - **(I)** the costs of achieving emissions reductions;
+        - **(II)** any non-air quality health and environmental impact and energy requirements of the standards and requirements;
+        - **(III)** the feasibility of implementing the standards and requirements, including the time needed to—
+          - **(aa)** obtain necessary permit approvals; and
+          - **(bb)** procure, install, and test control equipment;
+        - **(IV)** the availability of equipment, suppliers, and labor, given the requirements of the regulations and other proposed or finalized regulations; and
+        - **(V)** potential net employment impacts.
+    - **(B)** *New sources* With respect to the regulations promulgated pursuant to paragraph (2)—
+      - **(i)** the date on which the Administrator proposes a regulation pursuant to paragraph (2)(A) establishing an emission standard under section 112 of the Clean Air Act (42 U.S.C. 7412) shall be treated as the date on which the Administrator first proposes such a regulation for purposes of applying the definition of a new source under section 112(a)(4) of such Act (42 U.S.C. 7412(a)(4));
+      - **(ii)** the date on which the Administrator proposes a regulation pursuant to paragraph (2)(B) establishing a standard of performance under section 111 of the Clean Air Act (42 U.S.C. 7411) shall be treated as the date on which the Administrator proposes such a regulation for purposes of applying the definition of a new source under section 111(a)(2) of such Act (42 U.S.C. 7411(a)(2));
+      - **(iii)** for purposes of any emission standard or limitation applicable to electric utility steam generating units, the term new source means a stationary source for which a preconstruction permit or other preconstruction approval required under the Clean Air Act (42 U.S.C. 7401 et seq.) has been issued after the effective date of such emissions standard or limitation; and
+      - **(iv)** for purposes of clause (iii), the date of issuance of a preconstruction permit or other preconstruction approval is deemed to be the date on which such permit or approval is issued to the applicant irrespective of any administrative or judicial review occurring after such date.
+    - **(C)** *Rule of construction* Nothing in this subsection shall be construed to restrict or otherwise affect the provisions of paragraphs (3)(B) and (4) of section 112(i) of the Clean Air Act (42 U.S.C. 7412(i)).
+  - **(4)** *Other provisions*
+    - **(A)** *Establishment of standards achievable in practice* The regulations promulgated pursuant to paragraph (2)(A) of this section shall apply section 112(d)(3) of the Clean Air Act (42 U.S.C. 7412(d)(3)) in accordance with the following:
+      - **(i)** *New sources* With respect to new sources:
+        - **(I)** The Administrator shall identify the best controlled similar source for each source category or subcategory.
+        - **(II)** The best controlled similar source for a category or subcategory shall be the single source that is determined by the Administrator to be the best controlled, in the aggregate, for all of the hazardous air pollutants for which the Administrator intends to issue standards for such source category or subcategory, under actual operating conditions, taking into account the variability in actual source performance, source design, fuels, controls, ability to measure pollutant emissions, and operating conditions.
+      - **(ii)** *Existing sources* With respect to existing sources:
+        - **(I)** The Administrator shall identify one group of sources that constitutes the best performing 12 percent of existing sources for each source category or subcategory.
+        - **(II)** The group constituting the best performing 12 percent of existing sources for a category or subcategory shall be the single group that is determined by the Administrator to be the best performing, in the aggregate, for all of the hazardous air pollutants for which the Administrator intends to issue standards for such source category or subcategory, under actual operating conditions, taking into account the variability in actual source performance, source design, fuels, controls, ability to measure pollutant emissions, and operating conditions.
+    - **(B)** *Regulatory alternatives* For the regulations promulgated pursuant to paragraph (2) of this section, from among the range of regulatory alternatives authorized under the Clean Air Act (42 U.S.C. 7401 et seq.), including work practice standards under section 112(h) of such Act (42 U.S.C. 7412(h)), the Administrator shall impose the least burdensome, consistent with the purposes of such Act and Executive Order No. 13563 published at 76 Fed. Reg. 3821 (January 21, 2011).
 
-## § 6. Authorization of appropriations
+## § 6. Consideration of feasibility and cost in establishing national ambient air quality standards
 
-- **(a)** *Authorization* There are authorized to be appropriated to carry out this Act for fiscal year 2012—
-  - **(1)** $3,000,000 to the Department of Commerce, of which not more than $2,000,000 shall be for carrying out section 3; and
-  - **(2)** $500,000 to the Environmental Protection Agency.
+In establishing any national primary or secondary ambient air quality standard under section 109 of the Clean Air Act (42 U.S.C. 7409), the Administrator of the Environmental Protection Agency shall take into consideration feasibility and cost.
+
+## § 7. Authorization of appropriations
+
+- **(a)** *Authorization* There are authorized to be appropriated to carry out this Act—
+  - **(1)** for fiscal year 2012, $3,000,000 to the Department of Commerce, of which not more than $2,000,000 shall be for carrying out section 3; and
+  - **(2)** to the Environmental Protection Agency—
+    - **(A)** for fiscal year 2012, $1,000,000; and
+    - **(B)** for fiscal year 2013, $500,000.
 - **(b)** *Offset* Effective October 1, 2011, section 797(a) of the Energy Policy Act of 2005, as amended by section 2(e) of the Diesel Reduction Act of 2010 (Public Law 111–364), is amended—
-  - **(1)** by striking “2012” and inserting “2013”; and
-  - **(2)** by inserting “$46,000,000 for fiscal year 2012 and” after “to carry out this subtitle”.
+  - **(1)** by striking “2012” and inserting “2014”;
+  - **(2)** by inserting “$45,500,000 for fiscal year 2012, $49,500,000 for fiscal year 2013, and” after “to carry out this subtitle”.
