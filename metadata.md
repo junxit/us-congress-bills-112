@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 261
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 261
@@ -35,3 +35,7 @@ A resolution designating the month of October 2011 as "National Medicine Abuse A
 - 2011-09-13 — Introduced in Senate
 - 2011-09-13 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5581)
 - 2011-09-13 — Sponsor introductory remarks on measure. (CR S5581)
+- 2011-09-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S5933-5934)
+- 2011-09-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S5933-5934)
+- 2011-09-23 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5933-5934)
+- 2011-09-23 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5933-5934)
