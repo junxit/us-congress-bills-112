@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 273
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 273
@@ -28,3 +28,7 @@ A resolution congratulating the Nunaka Valley Little League junior girls softbal
 
 - 2011-09-20 — Introduced in Senate
 - 2011-09-20 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5776)
+- 2011-09-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S5933)
+- 2011-09-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S5933)
+- 2011-09-23 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5933-5934)
+- 2011-09-23 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5933-5934)
