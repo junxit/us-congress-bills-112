@@ -2,14 +2,16 @@
 legis-num: H.R. 2608
 congress: 112th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2608
 
-That the House agree to the amendment of the Senate to the bill (H.R. 2608) entitled “An Act to provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.”, with the following
+That the bill from the House of Representatives (H.R. 2608) entitled “An Act to provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.”, do pass with the following
 
-*In lieu of the matter proposed to be inserted by the amendment of the Senate, insert the following:*
+*In lieu of the matter proposed to be inserted by the House amendment to Senate amendment, insert the following:*
+
+That the following sums are hereby appropriated, out of any money in the Treasury not otherwise appropriated, and out of applicable corporate or other revenues, receipts, and funds, for the several departments, agencies, corporations, and other organizational units of Government for fiscal year 2012, and for other purposes, namely:
 
 ## § 101.
 
@@ -37,11 +39,7 @@ Appropriations made and authority granted pursuant to this Act shall cover all o
 
 ## § 106.
 
-Unless otherwise provided for in this Act or in the applicable appropriations Act for fiscal year 2012, appropriations and funds made available and authority granted pursuant to this Act shall be available until whichever of the following first occurs:
-
-- **(1)** the enactment into law of an appropriation for any project or activity provided for in this Act;
-  - **(2)** the enactment into law of the applicable appropriations Act for fiscal year 2012 without any provision for such project or activity; or
-    - **(3)** November 18, 2011.
+Unless otherwise provided for in this Act or in the applicable appropriations Act for fiscal year 2012, appropriations and funds made available and authority granted pursuant to this Act shall be available until whichever of the following first occurs: (1) the enactment into law of an appropriation for any project or activity provided for in this Act; (2) the enactment into law of the applicable appropriations Act for fiscal year 2012 without any provision for such project or activity; or (3) November 18, 2011.
 
 ## § 107.
 
@@ -121,10 +119,6 @@ Section 8909a(d)(3)(A)(v) of title 5, United States Code, is amended by striking
 
 ## § 125.
 
-Notwithstanding any other provision of this Act, effective on the date of the enactment of this Act, of the unobligated balances remaining available to the Department of Energy pursuant to section 129 of the Continuing Appropriations Resolution, 2009 (division A of Public Law 110–329), $500,000,000 is rescinded, $774,000,000 is hereby transferred to and merged with “Department of Homeland Security—Federal Emergency Management Agency—Disaster Relief”, and $226,000,000 is hereby transferred to and merged with “Corps of Engineers-Civil—Flood Control and Coastal Emergencies”: Provided, That the amounts made available by this section for the Corps of Engineers-Civil shall be for emergency expenses for repair of damage caused by the storm and flood events occurring in 2011: Provided further, That the amounts transferred by this section shall remain available until expended: Provided further, That each amount transferred by this section is designated as an emergency pursuant to section 3(c)(1) of H. Res. 5 (112th Congress) and as an emergency requirement pursuant to section 403(a) of S. Con. Res. 13 (111th Congress), the concurrent resolution on the budget for fiscal year 2010.
-
-## § 126.
-
 - **(a)** Notwithstanding section 101, amounts are provided for “Department of Homeland Security—Federal Emergency Management Agency—Disaster Relief” at a rate for operations of $2,650,000,000: Provided, That the Secretary of Homeland Security shall provide a full accounting of disaster relief funding requirements for such account for fiscal year 2012 not later than 15 days after the date of the enactment of this Act, and for fiscal year 2013 in conjunction with the submission of the President’s budget request for fiscal year 2013.
 - **(b)** The accounting described in subsection (a) for each fiscal year shall include estimates of the following amounts:
   - **(1)** The unobligated balance of funds in such account that has been (or will be) carried over to such fiscal year from prior fiscal years.
@@ -136,73 +130,67 @@ Notwithstanding any other provision of this Act, effective on the date of the en
   - **(7)** The amount that will be required in such fiscal year for major disasters, as defined in section 102(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122(2)).
   - **(8)** The amount that will be required in such fiscal year for fire management assistance grants, as defined in section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5187).
 
-## § 127.
+## § 126.
 
 Any funds made available pursuant to section 101 for the Department of Homeland Security may be obligated at a rate for operations necessary to sustain essential security activities, such as: staffing levels of operational personnel; immigration enforcement and removal functions, including sustaining not less than necessary detention bed capacity; and United States Secret Service protective activities, including protective activities necessary to secure National Special Security Events. The Secretary of Homeland Security shall notify the Committees on Appropriations of the House of Representatives and the Senate on each use of the authority provided in this section.
 
-## § 128.
+## § 127.
 
 The authority provided by section 532 of Public Law 109–295 shall continue in effect through the date specified in section 106(3) of this Act.
 
-## § 129.
+## § 128.
 
 The authority provided by section 831 of the Homeland Security Act of 2002 (6 U.S.C. 391) shall continue in effect through the date specified in section 106(3) of this Act.
 
-## § 130.
+## § 129.
 
 Section 550(b) of the Department of Homeland Security Appropriations Act, 2007 (6 U.S.C. 121 note) shall be applied by substituting the date specified in section 106(3) of this Act for “October 4, 2011”.
 
-## § 131.
+## § 130.
 
 Sections 1309(a) and 1319 of the National Flood Insurance Act of 1968 (42 U.S.C. 4016(a) and 4026) shall be applied by substituting the date specified in section 106(3) of this Act for “September 30, 2011”.
 
-## § 132.
+## § 131.
 
 Section 330 of the Department of the Interior and Related Agencies Appropriations Act, 2001 (42 U.S.C. 1701 note), concerning Service First authorities, shall continue in effect through the date specified in section 106(3) of this Act.
 
-## § 133.
+## § 132.
 
 Notwithstanding section 101, section 1807 of Public Law 112–10 shall be applied by substituting “$374,743,000” for “$363,843,000” and “$10,900,000” for “$3,000,000”.
 
-## § 134.
+## § 133.
 
 The second proviso of section 1801(a)(3) of Public Law 112–10 is amended by striking “appropriation under this subparagraph” and inserting “appropriations made available by this Act”.
 
-## § 135.
+## § 134.
 
 Notwithstanding section 101, amounts are provided for “Federal Mine Safety and Health Review Commission—Salaries and Expenses” at a rate for operations of $14,510,000.
 
-## § 136.
+## § 135.
 
 Sections 399AA(e), 399BB(g), and 399CC(f) of the Public Health Service Act (42 U.S.C. 280i(e), 280i–1(g), 280i–2(f)) shall be applied by substituting the date specified in section 106(3) of this Act for “September 30, 2011”.
 
-## § 137.
+## § 136.
 
 Notwithstanding section 101, section 2005 of division B of Public Law 112–10 shall be applied by substituting “$0” for each dollar amount.
 
+## § 137.
+
+The Export-Import Bank Act of 1945 (12 U.S.C. 635 et seq.) shall be applied by substituting the date specified in section 106(3) of this Act for “September 30, 2011” in section 7 of such Act.
+
 ## § 138.
-
-The Export-Import Bank Act of 1945 (12 U.S.C. 635 et seq.) shall be applied by substituting the date specified in section 106(3) of this Act for “September 30, 2011” in section 7 of such Act of 1945.
-
-## § 139.
 
 Section 209 of the International Religious Freedom Act of 1998 (22 U.S.C. 6436) shall be applied by substituting the date specified in section 106(3) of this Act for “September 30, 2011”.
 
-## § 140.
+## § 139.
 
 Commitments to guarantee loans incurred under the General and Special Risk Insurance Funds, as authorized by sections 238 and 519 of the National Housing Act (12 U.S.C. 1715z–3 and 1735c), shall not exceed a rate for operations of $25,000,000,000: Provided, That total loan principal, any part of which is to be guaranteed, may be apportioned through the date specified in section 106(3) of this Act, at $80,000,000 multiplied by the number of days covered in this Act.
 
-## § 141.
+## § 140.
 
 - **(a)** *Renewal of import restrictions under Burmese Freedom and Democracy Act of 2003*
   - **(1)** *In general* Congress approves the renewal of the import restrictions contained in section 3(a)(1) and section 3A (b)(1) and (c)(1) of the Burmese Freedom and Democracy Act of 2003.
   - **(2)** *Rule of construction* This section shall be deemed to be a “renewal resolution” for purposes of section 9 of the Burmese Freedom and Democracy Act of 2003.
-- **(b)** *PAYGO compliance* The budgetary effects of this section, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this section, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
-- **(c)** *Effective date* This section shall take effect on July 26, 2011.
-- **(d)** *Applicability* This section shall not be subject to any other provision of this Act.
-
-## § 142.
-
-Effective on the date of the enactment of this Act, of the unobligated balances remaining available for “Department of Energy—Energy Programs—Title 17-Innovative Technology Loan Guarantee Program” pursuant to title IV of division A of Public Law 111–5, $100,000,000 is rescinded.
-
-This Act may be cited as the “Continuing Appropriations Act, 2012” .
+- **(b)** *Effective date* This section shall take effect on July 26, 2011.
+- **(c)** *Applicability* This section shall not be subject to any other provision of this Act.
+-  This Act may be cited as the “Continuing Appropriations Act, 2012”.

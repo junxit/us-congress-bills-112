@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2608
 congress: 112
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 derived: true
 ---
 

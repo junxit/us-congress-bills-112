@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2608
 congress: 112
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2608
@@ -26,11 +26,13 @@ Continuing Appropriations Act, 2012
 
 - House — Small Business Committee
 
-## Recorded votes (3)
+## Recorded votes (5)
 
 - 2011-09-21 — [House 112-1-719](votes/house-112-1-0719.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Failed** (195–230)
 - 2011-09-23 — [House 112-1-727](votes/house-112-1-0727.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (219–203)
 - 2011-09-23 — [Senate 112-1-151](votes/senate-112-1-0151.md) — On the Motion to Table — **Motion to Table Agreed to** (59–36)
+- 2011-09-26 — [Senate 112-1-152](votes/senate-112-1-0152.md) — On the Cloture Motion — **Cloture Motion Rejected** (54–35)
+- 2011-09-26 — [Senate 112-1-153](votes/senate-112-1-0153.md) — On the Motion — **Motion Agreed to** (79–12)
 
 ## Actions
 
@@ -97,3 +99,30 @@ Continuing Appropriations Act, 2012
 - 2011-09-23 — Senate amendment submitted
 - 2011-09-23 — Senate amendment submitted
 - 2011-09-23 — The previous question was ordered pursuant to the rule. (consideration: CR H6410)
+- 2011-09-26 — Amendment SA 665 agreed to in Senate by Yea-Nay Vote. 79 - 12. Record Vote Number: 153.
+- 2011-09-26 — Amendment SA 665 proposed by Senator Reid. (consideration: CR S5976-5977) In the nature of a substitute.
+- 2011-09-26 — Cloture on the House amendment to the Senate amendment with amendment (SA 656) not invoked in Senate by Yea-Nay Vote. 54 - 35. Record Vote Number: 152. (consideration: CR S5975-5976; text: CR S5976)
+- 2011-09-26 — Considered by Senate. (consideration: CR S5966, S5976)
+- 2011-09-26 — Considered by Senate. (consideration: CR S5966, S5976)
+- 2011-09-26 — Considered by Senate. (consideration: CR S5966, S5976)
+- 2011-09-26 — Considered by Senate. (consideration: CR S5966, S5976)
+- 2011-09-26 — Considered by Senate. (consideration: CR S5966, S5976)
+- 2011-09-26 — Considered by Senate. (consideration: CR S5966-5977)
+- 2011-09-26 — Motion by Senator Reid to refer to Senate Committee on Appropriations the House message to accompany the bill (H.R. 2608) with instructions to report back forthwith with SA 658 withdrawn in Senate by Unanimous Consent. (consideration: CR S5975)
+- 2011-09-26 — Motion to concur in the House amendment to the Senate amendment with an amendment (SA 665) made in Senate by Unanimous Consent. (consideration: CR S5976-5977)
+- 2011-09-26 — Proposed amendment SA 656, by Unanimous Consent, withdrawn in Senate. (consideration: CR S5976)
+- 2011-09-26 — Proposed amendment SA 658 withdrawn in Senate. (consideration: CR S5975)
+- 2011-09-26 — Reid motion to concur in the House amendment to the Senate amendment with an amendment (SA 656) was withdrawn by Unanimous Consent. (consideration: CR S5976)
+- 2011-09-26 — Resolving differences -- Senate actions: Senate concurred in the House amendment to the Senate amendment with an amendment (SA 665) Yea-Nay Vote. 79 - 12. Record Vote Number: 153.(text as Senate concurred to the House amendment to the Senate amendment with an amendment: CR 10/3/2011 S6053-6055)
+- 2011-09-26 — Roll call votes on amendments in Senate: Amendment SA 665 agreed to in Senate by Yea-Nay Vote. 79 - 12. Record Vote Number: 153.
+- 2011-09-26 — SA 657 fell when motion to concur with amendment (SA 656) was withdrawn. (consideration: CR S5976)
+- 2011-09-26 — SA 659 fell when SA 658 was withdrawn. (consideration: CR S5975)
+- 2011-09-26 — SA 660 fell when SA 659 fell. (consideration: CR S5975)
+- 2011-09-26 — Senate amendment agreed to: Amendment SA 665 agreed to in Senate by Yea-Nay Vote. 79 - 12. Record Vote Number: 153.
+- 2011-09-26 — Senate amendment proposed (on the floor): Amendment SA 665 proposed by Senator Reid.(consideration: CR S5976-5977)
+- 2011-09-26 — Senate amendment submitted
+- 2011-09-26 — Senate amendment submitted
+- 2011-09-26 — Senate amendment submitted
+- 2011-09-26 — Senate amendment submitted
+- 2011-09-26 — Senate amendment submitted
+- 2011-09-26 — Senate concurred in the House amendment to the Senate amendment with an amendment (SA 665) Yea-Nay Vote. 79 - 12. Record Vote Number: 153. (text as Senate concurred to the House amendment to the Senate amendment with an amendment: CR 10/3/2011 S6053-6055)
