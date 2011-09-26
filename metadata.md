@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2608
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2608
@@ -26,13 +26,14 @@ Continuing Appropriations Act, 2012
 
 - House — Small Business Committee
 
-## Recorded votes (5)
+## Recorded votes (6)
 
 - 2011-09-21 — [House 112-1-719](votes/house-112-1-0719.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Failed** (195–230)
 - 2011-09-23 — [House 112-1-727](votes/house-112-1-0727.md) — On Motion to Concur in the Senate Amendment with an Amendment — **Passed** (219–203)
 - 2011-09-23 — [Senate 112-1-151](votes/senate-112-1-0151.md) — On the Motion to Table — **Motion to Table Agreed to** (59–36)
 - 2011-09-26 — [Senate 112-1-152](votes/senate-112-1-0152.md) — On the Cloture Motion — **Cloture Motion Rejected** (54–35)
 - 2011-09-26 — [Senate 112-1-153](votes/senate-112-1-0153.md) — On the Motion — **Motion Agreed to** (79–12)
+- 2011-10-04 — [House 112-1-745](votes/house-112-1-0745.md) — On Concurring in Senate Amdt to House Amdt to Senate Amdt — **Passed** (352–66)
 
 ## Actions
 
@@ -126,3 +127,17 @@ Continuing Appropriations Act, 2012
 - 2011-09-26 — Senate amendment submitted
 - 2011-09-26 — Senate amendment submitted
 - 2011-09-26 — Senate concurred in the House amendment to the Senate amendment with an amendment (SA 665) Yea-Nay Vote. 79 - 12. Record Vote Number: 153. (text as Senate concurred to the House amendment to the Senate amendment with an amendment: CR 10/3/2011 S6053-6055)
+- 2011-09-27 — Message on Senate action sent to the House.
+- 2011-10-04 — DEBATE - Pursuant to a previous special order, the House proceeded with 1 hour of debate on the motion to concur in the Senate amendment to the House amendment to the Senate amendment to H. R. 2608.
+- 2011-10-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-04 — On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 352 - 66 (Roll no. 745). (text as House agreed to Senate amendment to House amendment to Senate amendment: CR H6529-6530)
+- 2011-10-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the motion to concur in the Senate amendment to the House amendment to the Senate amendment to H.R. 2608, the Chair put the question on adoption of the motion and by voice vote announced that the ayes had prevailed. Mr. Nugent demanded the yeas and nays, and the Chair postponed further proceedings on the motion to concur until later in the legislative day.
+- 2011-10-04 — Presented to President.
+- 2011-10-04 — Presented to President.
+- 2011-10-04 — Pursuant to a previous special order the House moved to agree to the Senate amendment to the House amendment to the Senate amendment. (consideration: CR H6528-6531, H6531-6532)
+- 2011-10-04 — Pursuant to the provisions of H. Con. Res. 83, enrollment corrections on H.R. 2608 have been made.
+- 2011-10-04 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 352 - 66 (Roll no. 745).(text as House agreed to Senate amendment to House amendment to Senate amendment: CR H6529-6530)
+- 2011-10-05 — Became Public Law No: 112-36.
+- 2011-10-05 — Became Public Law No: 112-36.
+- 2011-10-05 — Signed by President.
+- 2011-10-05 — Signed by President.

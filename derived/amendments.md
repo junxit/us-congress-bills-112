@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2608
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 8909a(d)(3)(A)(v) of title 5, United States Code, is amended by striking “September 30, 2011” and inserting the date specified in section 106(3) of this Act. | the bill names no machine-readable US Code section |
 | — | replace | The second proviso of section 1801(a)(3) of Public Law 112–10 is amended by striking “appropriation under this subparagraph” and inserting “appropriations made available by this Act”. | the bill names no machine-readable US Code section |

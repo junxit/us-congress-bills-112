@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2608
-congress: 112th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2608
 
-That the bill from the House of Representatives (H.R. 2608) entitled “An Act to provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes.”, do pass with the following
-
-*In lieu of the matter proposed to be inserted by the House amendment to Senate amendment, insert the following:*
+> Making continuing appropriations for fiscal year 2012, and for other purposes.
 
 That the following sums are hereby appropriated, out of any money in the Treasury not otherwise appropriated, and out of applicable corporate or other revenues, receipts, and funds, for the several departments, agencies, corporations, and other organizational units of Government for fiscal year 2012, and for other purposes, namely:
 
@@ -115,7 +113,7 @@ Notwithstanding section 101, amounts are provided for the necessary expenses of 
 
 ## § 124.
 
-Section 8909a(d)(3)(A)(v) of title 5, United States Code, is amended by striking “September 30, 2011” and inserting the date specified in section 106(3) of this Act.
+Section 8909a(d)(3)(A)(v) of title 5, United States Code, shall be applied by substituting the date specified in section 106(3) of this Act for the date specified in such section 8909a(d)(3)(A)(v).
 
 ## § 125.
 
