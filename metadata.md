@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2401
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2401
@@ -63,9 +63,10 @@ Transparency in Regulatory Analysis of Impacts on the Nation Act of 2011
 - Rep. Bonner, Jo [R-AL-1] (B001244)
 - Rep. Emerson, Jo Ann [R-MO-8] (E000172)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (14)
 
@@ -232,3 +233,4 @@ Transparency in Regulatory Analysis of Impacts on the Nation Act of 2011
 - 2011-09-23 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2401.
 - 2011-09-23 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6445)
 - 2011-09-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-09-26 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
