@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2273
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2273
@@ -16,7 +16,7 @@ Coal Residuals Reuse and Management Act
 
 - Rep. McKinley, David B. [R-WV-1] (M001180)
 
-## Cosponsors (16)
+## Cosponsors (32)
 
 - Rep. Whitfield, Ed [R-KY-1] (W000413)
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
@@ -34,6 +34,22 @@ Coal Residuals Reuse and Management Act
 - Rep. Sullivan, John [R-OK-1] (S001155)
 - Rep. Palazzo, Steven M. [R-MS-4] (P000601)
 - Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Rehberg, Denny [R-MT-At Large] (R000571)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Scott, Tim [R-SC-1] (S001184)
+- Rep. Gosar, Paul A. [R-AZ-1] (G000565)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Camp, Dave [R-MI-4] (C000071)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Rooney, Thomas J. [R-FL-16] (R000583)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Emerson, Jo Ann [R-MO-8] (E000172)
+- Rep. Adams, Sandy [R-FL-24] (A000366)
 
 ## Committees (1)
 
@@ -45,3 +61,6 @@ Coal Residuals Reuse and Management Act
 - 2011-06-22 — Introduced in House
 - 2011-06-22 — Referred to the House Committee on Energy and Commerce.
 - 2011-06-22 — Referred to the Subcommittee on Environment and the Economy.
+- 2011-09-26 — Placed on the Union Calendar, Calendar No. 147.
+- 2011-09-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-226.
+- 2011-09-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-226.

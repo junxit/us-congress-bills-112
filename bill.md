@@ -13,85 +13,113 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Coal Residuals Reuse and Management Act”.
 
-## § 2. Amendment to subtitle D of the Solid Waste Disposal Act
+## § 2. Amendment to Subtitle D of the Solid Waste Disposal Act
 
-Subtitle D of the Solid Waste Disposal Act (42 U.S.C. 6941 et seq.) is amended by adding at the end the following new section:
+- **(a)** *In general* Subtitle D of the Solid Waste Disposal Act (42 U.S.C. 6941 et seq.) is amended by adding at the end the following new section:
+  > ## § 4011. Management and disposal of coal combustion residuals
+  >
+  > - **(a)** *State permit programs for coal combustion residuals* Each State may adopt and implement a coal combustion residuals permit program.
+  > - **(b)** *State actions*
+  >   - **(1)** *Notification* Not later than 6 months after the date of enactment of this section (except as provided by the deadline identified under subsection (d)(2)(B)), the Governor of each State shall notify the Administrator, in writing, whether such State will adopt and implement a coal combustion residuals permit program.
+  >   - **(2)** *Certification*
+  >     - **(A)** *In general* Not later than 36 months after the date of enactment of this section (except as provided in subsections (f)(1)(A) and (f)(1)(C)), in the case of a State that has notified the Administrator that it will implement a coal combustion residuals permit program, the head of the lead State agency responsible for implementing the coal combustion residuals permit program shall submit to the Administrator a certification that such coal combustion residuals permit program meets the specifications described in subsection (c)(1).
+  >     - **(B)** *Contents* A certification submitted under this paragraph shall include—
+  >       - **(i)** a letter identifying the lead State agency responsible for implementing the coal combustion residuals permit program, signed by the head of such agency;
+  >       - **(ii)** identification of any other State agencies involved with the implementation of the coal combustion residuals permit program;
+  >       - **(iii)** a narrative description that provides an explanation of how the State will ensure that the coal combustion residuals permit program meets the requirements of this section;
+  >       - **(iv)** a legal certification that the State has, at the time of certification, fully effective statutes, regulations, or guidance necessary to implement a coal combustion residuals permit program that meets the specifications described in subsection (c)(1); and
+  >       - **(v)** copies of State statutes, regulations, and guidance described in clause (iv).
+  >   - **(3)** *Maintenance of 4005(c) or 3006 program* In order to adopt or implement a coal combustion residuals permit program under this section (including pursuant to subsection (f)), the State agency responsible for implementing a coal combustion residuals permit program in a State shall maintain an approved program under section 4005(c) or an authorized program under section 3006.
+  > - **(c)** *Permit program specifications*
+  >   - **(1)** *Minimum requirements* The specifications described in this subsection for a coal combustion residuals permit program are as follows:
+  >     - **(A)** The revised criteria described in paragraph (2) shall apply to a coal combustion residuals permit program, except as provided in paragraph (3).
+  >     - **(B)** Each structure shall be, in accordance with generally accepted engineering standards for the structural integrity of such structures, designed, constructed, and maintained to provide for containment of the maximum volumes of coal combustion residuals appropriate for the structure. If a structure is determined by the head of the agency responsible for implementing the coal combustion residuals permit program to be deficient, the head of such agency has authority to require action to correct the deficiency. If the identified deficiency is not corrected, the head of such agency has authority to require that the structure close in accordance with subsection (h).
+  >     - **(C)** The coal combustion residuals permit program shall apply the revised criteria promulgated pursuant to section 4010(c) for location, design, groundwater monitoring, corrective action, financial assurance, closure and post-closure described in paragraph (2) and the specifications described in this paragraph to surface impoundments.
+  >     - **(D)** Constituents for detection monitoring shall include boron, chloride, conductivity, fluoride, pH, sulphate, sulfide, and total dissolved solids.
+  >     - **(E)** If a structure that is classified as posing a high hazard potential pursuant to the guidelines published by the Federal Emergency Management Agency entitled “Federal Guidelines for Dam Safety: Hazard Potential Classification System for Dams” (FEMA Publication Number 333) is determined by the head of the agency responsible for implementing the coal combustion residuals permit program to be deficient with respect to the structural integrity requirement in subparagraph (B), the head of such agency has authority to require action to correct the deficiency. If the identified deficiency is not corrected, the head of such agency has authority to require that the structure close in accordance with subsection (h).
+  >     - **(F)** New structures that first receive coal combustion residuals after the date of enactment of this section shall be constructed with a base located a minimum of two feet above the upper limit of the natural water table.
+  >     - **(G)** In the case of a coal combustion residuals permit program implemented by a State, the State has the authority to inspect structures and implement and enforce such permit program.
+  >   - **(2)** *Revised criteria* The revised criteria described in this paragraph are—
+  >     - **(A)** the revised criteria for design, groundwater monitoring, corrective action, closure, and post-closure, for structures, including—
+  >       - **(i)** for new structures, and lateral expansions of existing structures, that first receive coal combustion residuals after the date of enactment of this section, the revised criteria regarding design requirements described in section 258.40 of title 40, Code of Federal Regulations; and
+  >       - **(ii)** for all structures that receive coal combustion residuals after the date of enactment of this section, the revised criteria regarding groundwater monitoring requirements described in subpart E of part 258 of title 40, Code of Federal Regulations;
+  >     - **(B)** the revised criteria for location restrictions described in—
+  >       - **(i)** for new structures, and lateral expansions of existing structures, that first receive coal combustion residuals after the date of enactment of this section, sections 258.11 through 258.15 of title 40, Code of Federal Regulations; and
+  >       - **(ii)** for existing structures that receive coal combustion residuals after the date of enactment of this section, sections 258.11 and 258.15 of title 40, Code of Federal Regulations;
+  >     - **(C)** for all structures that receive coal combustion residuals after the date of enactment of this section, the revised criteria for air quality described in section 258.24 of title 40, Code of Federal Regulations; and
+  >     - **(D)** for all structures that receive coal combustion residuals after the date of enactment of this section, the revised criteria for financial assurance described in subpart G of part 258 of title 40, Code of Federal Regulations.
+  >   - **(3)** *Applicability of certain requirements* A State may determine that one or more of the requirements of the revised criteria described in paragraph (2) is not needed for the management of coal combustion residuals in that State, and may decline to apply such requirement as part of its coal combustion residuals permit program. If a State declines to apply a requirement under this paragraph, the State shall include in the certification under subsection (b)(2) a description of such requirement and the reasons such requirement is not needed in the State. If the Administrator determines that a State determination under this paragraph does not accurately reflect the needs for the management of coal combustion residuals in the State, the Administrator may treat such State determination as a deficiency under subsection (d).
+  > - **(d)** *Written notice and opportunity To remedy*
+  >   - **(1)** *In general* The Administrator shall provide to a State written notice and an opportunity to remedy deficiencies in accordance with paragraph (2) if at any time the State—
+  >     - **(A)** does not satisfy the notification requirement under subsection (b)(1);
+  >     - **(B)** has not submitted a certification under subsection (b)(2);
+  >     - **(C)** does not satisfy the maintenance requirement under subsection (b)(3); or
+  >     - **(D)** is not implementing a coal combustion residuals permit program that meets the specifications described in subsection (c)(1).
+  >   - **(2)** *Contents of notice; deadline for response* A notice provided under this subsection shall—
+  >     - **(A)** include findings of the Administrator detailing any applicable deficiencies in—
+  >       - **(i)** compliance by the State with the notification requirement under subsection (b)(1);
+  >       - **(ii)** compliance by the State with the certification requirement under subsection (b)(2);
+  >       - **(iii)** compliance by the State with the maintenance requirement under subsection (b)(3); and
+  >       - **(iv)** the State coal combustion residuals permit program in meeting the specifications described in subsection (c)(1); and
+  >     - **(B)** identify, in collaboration with the State, a reasonable deadline, which shall be not sooner than 6 months after the State receives the notice, by which the State shall remedy the deficiencies detailed under subparagraph (A).
+  > - **(e)** *Implementation by Administrator*
+  >   - **(1)** *In general* The Administrator shall implement a coal combustion residuals permit program for a State only in the following circumstances:
+  >     - **(A)** If the Governor of such State notifies the Administrator under subsection (b)(1) that such State will not adopt and implement such a permit program.
+  >     - **(B)** If such State has received a notice under subsection (d) and, after any review brought by the State under section 7006, fails, by the deadline identified in such notice under subsection (d)(2)(B), to remedy the deficiencies detailed in such notice under subsection (d)(2)(A).
+  >     - **(C)** If such State informs the Administrator, in writing, that such State will no longer implement such a permit program.
+  >   - **(2)** *Requirements* If the Administrator implements a coal combustion residuals permit program for a State under paragraph (1), such permit program shall consist of the specifications described in subsection (c)(1).
+  >   - **(3)** *Enforcement* If the Administrator implements a coal combustion residuals permit program for a State under paragraph (1), the authorities referred to in section 4005(c)(2)(A) shall apply with respect to coal combustion residuals and structures and the Administrator may use such authorities to inspect, gather information, and enforce the requirements of this section in the State.
+  > - **(f)** *State control after implementation by Administrator*
+  >   - **(1)** *State control*
+  >     - **(A)** *New adoption and implementation by State* For a State for which the Administrator is implementing a coal combustion residuals permit program under subsection (e)(1)(A), the State may adopt and implement such a permit program by—
+  >       - **(i)** notifying the Administrator that the State will adopt and implement such a permit program;
+  >       - **(ii)** not later than 6 months after the date of such notification, submitting to the Administrator a certification under subsection (b)(2); and
+  >       - **(iii)** receiving from the Administrator—
+  >         - **(I)** a determination that the State coal combustion residuals permit program meets the specifications described in subsection (c)(1); and
+  >         - **(II)** a timeline for transition of control of the coal combustion residuals permit program.
+  >     - **(B)** *Remedying deficient permit program* For a State for which the Administrator is implementing a coal combustion residuals permit program under subsection (e)(1)(B), the State may adopt and implement such a permit program by—
+  >       - **(i)** remedying the deficiencies detailed in the notice provided under subsection (d)(2)(A); and
+  >       - **(ii)** receiving from the Administrator—
+  >         - **(I)** a determination that the deficiencies detailed in such notice have been remedied; and
+  >         - **(II)** a timeline for transition of control of the coal combustion residuals permit program.
+  >     - **(C)** *Resumption of implementation by State* For a State for which the Administrator is implementing a coal combustion residuals permit program under subsection (e)(1)(C), the State may adopt and implement such a permit program by—
+  >       - **(i)** notifying the Administrator that the State will adopt and implement such a permit program;
+  >       - **(ii)** not later than 6 months after the date of such notification, submitting to the Administrator a certification under subsection (b)(2); and
+  >       - **(iii)** receiving from the Administrator—
+  >         - **(I)** a determination that the State coal combustion residuals permit program meets the specifications described in subsection (c)(1); and
+  >         - **(II)** a timeline for transition of control of the coal combustion residuals permit program.
+  >   - **(2)** *Review of determination*
+  >     - **(A)** *Determination required* The Administrator shall make a determination under paragraph (1) not later than 90 days after the date on which the State submits a certification under paragraph (1)(A)(ii) or (1)(C)(ii), or notifies the Administrator that the deficiencies have been remedied pursuant to paragraph (1)(B)(i), as applicable.
+  >     - **(B)** *Review* A State may obtain a review of a determination by the Administrator under paragraph (1) as if such determination was a final regulation for purposes of section 7006.
+  >   - **(3)** *Implementation during transition*
+  >     - **(A)** *Effect on actions and orders* Actions taken or orders issued pursuant to a coal combustion residuals permit program shall remain in effect if—
+  >       - **(i)** a State takes control of its coal combustion residuals permit program from the Administrator under paragraph (1); or
+  >       - **(ii)** the Administrator takes control of a coal combustion residuals permit program from a State under subsection (e).
+  >     - **(B)** *Change in requirements* Subparagraph (A) shall apply to such actions and orders until such time as the Administrator or the head of the lead State agency responsible for implementing the coal combustion residuals permit program, as applicable—
+  >       - **(i)** implements changes to the requirements of the coal combustion residuals permit program with respect to the basis for the action or order; or
+  >       - **(ii)** certifies the completion of a corrective action that is the subject of the action or order.
+  >   - **(4)** *Single permit program* If a State adopts and implements a coal combustion residuals permit program under this subsection, the Administrator shall cease to implement the permit program implemented under subsection (e) for such State.
+  > - **(g)** *Effect on determination under 4005(c) or 3006* The Administrator shall not consider the implementation of a coal combustion residuals permit program by the Administrator under subsection (e) in making a determination of approval for a permit program or other system of prior approval and conditions under section 4005(c) or of authorization for a program under section 3006.
+  > - **(h)** *Closure* If it is determined, pursuant to a coal combustion residuals permit program, that a structure should close, the time period and method for the closure of such structure shall be set forth, in a schedule, in a closure plan that takes into account the nature and the site-specific characteristics of the structure to be closed. In the case of a surface impoundment, the closure plan shall require, at a minimum, the removal of liquid and the stabilization of remaining waste, as necessary to support the final cover.
+  > - **(i)** *Authority*
+  >   - **(1)** *State authority* Nothing in this section shall preclude or deny any right of any State to adopt or enforce any regulation or requirement respecting coal combustion residuals that is more stringent or broader in scope than a regulation or requirement under this section.
+  >   - **(2)** *Authority of the administrator*
+  >     - **(A)** *In general* Except as provided in subsection (e) of this section and section 6005 of this title, the Administrator shall, with respect to the regulation of coal combustion residuals, defer to the States pursuant to this section.
+  >     - **(B)** *Imminent hazard* Nothing in this section shall be construed to affect the authority of the Administrator under section 7003 with respect to coal combustion residuals.
+  > - **(j)** *Mine reclamation activities* A coal combustion residuals permit program implemented under subsection (e) by the Administrator shall not apply to the utilization, placement, and storage of coal combustion residuals at surface mining and reclamation operations.
+  > - **(k)** *Definitions* In this section:
+  >   - **(1)** *Coal combustion residuals* The term coal combustion residuals means—
+  >     - **(A)** the solid wastes listed in section 3001(b)(3)(A)(i), including recoverable materials from such wastes;
+  >     - **(B)** coal combustion wastes that are co-managed with wastes produced in conjunction with the combustion of coal, provided that such wastes are not segregated and disposed of separately from the coal combustion wastes and comprise a relatively small proportion of the total wastes being disposed in the structure;
+  >     - **(C)** fluidized bed combustion wastes;
+  >     - **(D)** wastes from the co-burning of coal with non-hazardous secondary materials provided that coal makes up at least 50 percent of the total fuel burned; and
+  >     - **(E)** wastes from the co-burning of coal with materials described in subparagraph (A) that are recovered from monofills.
+  >   - **(2)** *Coal combustion residuals permit program* The term coal combustion residuals permit program means a permit program or other system of prior approval and conditions that is adopted by or for a State for the management and disposal of coal combustion residuals to the extent such activities occur in structures in such State.
+  >   - **(3)** *Structure* The term structure means a landfill, surface impoundment, or other land-based unit which may receive coal combustion residuals.
+  >   - **(4)** *Revised criteria* The term revised criteria means the criteria promulgated for municipal solid waste landfill units under section 4004(a) and under section 1008(a)(3), as revised under section 4010(c).
 
-> ## § 4011. Management and disposal of coal combustion residuals
->
-> - **(a)** *State permit programs for coal combustion residuals* Each State may adopt and implement a coal combustion residuals permit program.
-> - **(b)** *State actions*
->   - **(1)** *Notification* Not later than 6 months after the date of enactment of this section (except as provided by the deadline identified under subsection (d)(2)(B)), the Governor of each State shall notify the Administrator, in writing, whether such State will adopt and implement a coal combustion residuals permit program.
->   - **(2)** *Certification* Not later than 36 months after the date of enactment of this section (except as provided in subsections (f)(1)(A) and (f)(1)(C)), the Governor of each State that has notified the Administrator that the State will adopt and implement a coal combustion residuals permit program shall submit to the Administrator, in writing, a certification that such State coal combustion residuals permit program meets the specifications described in subsection (c).
->   - **(3)** *Maintenance of 4005(c) or 3006 program* Solely for the purpose of demonstrating competence under this Act to adopt or implement a coal combustion residuals permit program under this section (including pursuant to subsection (f)), the State agency responsible for implementing the coal combustion residuals program in a State shall maintain an approved program under section 4005(c) or an authorized program under section 3006.
-> - **(c)** *Permit program specifications*
->   - **(1)** *In general* The specifications described in this subsection for a coal combustion residuals permit program are as follows:
->     - **(A)** The requirements of a State coal combustion residuals permit program shall be no less stringent than the requirements of the revised criteria.
->     - **(B)** Such coal combustion residuals permit program shall regulate the management of coal combustion residuals in surface impoundments and other land-based units.
->     - **(C)** Each structure in such State shall be, in accordance with generally accepted engineering standards for the structural integrity of such structures, designed, constructed, and maintained to provide for containment of the maximum volumes of coal combustion residuals appropriate for the structure.
->     - **(D)** The State has the authority to inspect structures and implement and enforce such coal combustion residuals permit program.
->   - **(2)** *Program stringency* The requirements of a State coal combustion residuals permit program shall not be considered to be less stringent than the requirements of the revised criteria if one or more of the requirements of the revised criteria is not applied because such criteria is not appropriate for the management of coal combustion residuals.
-> - **(d)** *Written notice and opportunity To remedy*
->   - **(1)** *In general* The Administrator shall provide to a State written notice and an opportunity to remedy deficiencies in accordance with paragraph (2) if the State—
->     - **(A)** does not satisfy the notification requirement under subsection (b)(1);
->     - **(B)**
->       - **(i)** has not submitted a written certification under subsection (b)(2); and
->       - **(ii)** is not regulating structures in a manner that protects human health and the environment;
->     - **(C)** does not satisfy the maintenance requirement under subsection (b)(3); or
->     - **(D)** has satisfied the notification requirement under subsection (b)(1) and has submitted a written certification under subsection (b)(2), but, based upon information received by the Administrator, is not implementing a coal combustion residuals permit program.
->   - **(2)** *Contents of notice; deadline for response* A notice provided under this subsection shall—
->     - **(A)** include—
->       - **(i)** findings of the Administrator detailing any applicable deficiencies in—
->         - **(I)** compliance by the State with the notification requirement under subsection (b)(1);
->         - **(II)**
->           - **(aa)** submission by the State of the written certification under subsection (b)(2); and
->           - **(bb)** the ways in which the State is regulating structures such that human health and the environment are not protected; and
->         - **(III)** compliance by the State with the maintenance requirement under subsection (b)(3); and
->       - **(ii)** for a State described in paragraph (1)(D), a request for the State to demonstrate that it is implementing a coal combustion residuals permit program; and
->     - **(B)** identify, in collaboration with the State, a reasonable deadline, which shall be not sooner than 6 months after the State receives the notice, by which the State shall—
->       - **(i)** take actions to remedy the deficiencies detailed under subparagraph (A)(i); or
->       - **(ii)** for a State described in paragraph (1)(D), demonstrate that it is implementing a coal combustion residuals permit program.
-> - **(e)** *Implementation by Administrator* The Administrator shall implement a coal combustion residuals permit program, the elements of which shall consist of the revised criteria regarding design, groundwater monitoring, corrective action, closure, and post-closure, as appropriate for structures, for a State only in the following circumstances:
->   - **(1)** If the Governor of such State notifies the Administrator under subsection (b)(1) that such State will not adopt and implement such a permit program.
->   - **(2)** If such State has received a notice under subsection (d) and fails, by the deadline identified in such notice under subsection (d)(2)(B)—
->     - **(A)** to take actions to remedy the deficiencies detailed in such notice under subsection (d)(2)(A); or
->     - **(B)** for a State described in subsection (d)(1)(D), to demonstrate that it is implementing a coal combustion residuals permit program.
->   - **(3)** If such State informs the Administrator, in writing, that such State will no longer implement such a permit program.
-> - **(f)** *State control after implementation by Administrator*
->   - **(1)** *State control*
->     - **(A)** *New adoption and implementation by State* For a State in which the Administrator is implementing a coal combustion residuals permit program under subsection (e)(1), the State may adopt and implement such a permit program by—
->       - **(i)** notifying the Administrator that the State will adopt and implement such a permit program; and
->       - **(ii)** not later than 6 months after the date of such notification, submitting to the Administrator a written certification under subsection (b)(2).
->     - **(B)** *Remedying deficient permit program*
->       - **(i)** *In general* For a State in which the Administrator is implementing a coal combustion residuals permit program under subsection (e)(2), the State may adopt and implement such a permit program by—
->         - **(I)** remedying the deficiencies detailed in the notice provided under subsection (d)(2)(A)(i); or
->         - **(II)** for a State described in subsection (d)(1)(D), demonstrating that it is implementing a coal combustion residuals permit program.
->       - **(ii)** *Demonstration*
->         - **(I)** *Remedy of deficiency* If such notice details a deficiency described in subsection (d)(2)(A)(i)(II)(bb), the State may remedy such deficiency only by demonstrating to the satisfaction of the Administrator that such State has remedied such deficiency.
->         - **(II)** *Review of determination* If the Administrator determines that a demonstration by a State under subclause (I) or clause (i)(II) is not sufficient, the State may obtain a review of such determination as if such determination was a final regulation for purposes of section 7006.
->     - **(C)** *Resumption of implementation by State* For a State in which the Administrator is implementing a coal combustion residuals permit program under subsection (e)(3), the State may adopt and implement such a permit program by—
->       - **(i)** notifying the Administrator that the State will adopt and implement such a permit program; and
->       - **(ii)** not later than 6 months after the date of such notification, submitting to the Administrator a written certification under subsection (b)(2).
->   - **(2)** *Single permit program* If a State adopts and implements a coal combustion residuals permit program under this subsection, the Administrator shall cease to implement the permit program implemented under subsection (e) for such State.
-> - **(g)** *Effect on determination under 4005(c) or 3006* The Administrator shall not consider the implementation of a coal combustion residuals permit program by the Administrator under subsection (e) in making a determination of approval for a permit program or other system of prior approval and conditions under section 4005(c) or of authorization for a program under section 3006.
-> - **(h)** *Closure* If it is determined, pursuant to a coal combustion residuals permit program, that a structure should close, the time period for the closure of such structure shall be set forth, in a schedule, in a closure plan that takes into account the site-specific characteristics of the structure to be closed.
-> - **(i)** *Authority*
->   - **(1)** *State authority* Nothing in this section shall preclude or deny any right of any State to adopt or enforce any regulation or requirement respecting coal combustion residuals that is more stringent than a regulation or requirement under this section.
->   - **(2)** *Authority of the Administrator*
->     - **(A)** *In general* Except as provided in subsection (e) of this section and section 6005 of this title, the Administrator shall, with respect to the regulation of coal combustion residuals, defer to the States pursuant to this section.
->     - **(B)** *Imminent hazard* Nothing in this section shall be construed to affect the authority of the Administrator under section 7003 with respect to coal combustion residuals.
-> - **(j)** *Mine reclamation activities* A coal combustion residuals permit program implemented under subsection (e) by the Administrator shall not apply to the utilization, placement, and storage of coal combustion residuals at surface mining and reclamation operations.
-> - **(k)** *Definitions* In this section:
->   - **(1)** *Coal combustion residuals* The term coal combustion residuals means—
->     - **(A)** the solid wastes listed in section 3001(b)(3)(A)(i), including recoverable materials from such wastes;
->     - **(B)** coal combustion wastes that are co-managed with wastes produced in conjunction with the combustion of coal, provided that such wastes are not segregated and disposed of separately from the coal combustion wastes and comprise a relatively small proportion of the total wastes being disposed in the structure;
->     - **(C)** fluidized bed combustion wastes;
->     - **(D)** wastes from the co-burning of coal with non-hazardous secondary materials provided that coal makes up at least 50 percent of the total fuel burned; and
->     - **(E)** wastes from the co-burning of coal with materials described in subparagraph (A) that are recovered from monofills.
->   - **(2)** *Coal combustion residuals permit program* The term coal combustion residuals permit program means a permit program or other system of prior approval and conditions that is adopted by or for a State for the management and disposal of coal combustion residuals to the extent such activities occur in structures in such State.
->   - **(3)** *Structure* The term structure means a landfill, surface impoundment, or other land-based unit which may receive coal combustion residuals.
->   - **(4)** *Revised criteria* The term revised criteria means the criteria promulgated for municipal solid waste landfill units under section 4004(a) and under section 1008(a)(3), as revised under section 4010(c).
+- **(b)** *Conforming Amendment* The table of contents contained in section 1001 of the Solid Waste Disposal Act is amended by inserting after the item relating to section 4010 the following:
 
-## § 3. 2000 Regulatory Determination
+## § 3. 2000 regulatory determination
 
 Nothing in this Act, or the amendments made by this Act, shall be construed to alter in any manner the Environmental Protection Agency’s regulatory determination entitled “Notice of Regulatory Determination on Wastes from the Combustion of Fossil Fuels”, published at 65 Fed. Reg. 32214 (May 22, 2000), that the fossil fuel combustion wastes addressed in that determination do not warrant regulation under subtitle C of the Solid Waste Disposal Act (42 U.S.C. 6921 et seq.).
