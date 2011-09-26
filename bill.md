@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2017
-congress: 112th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2017
 
-That the bill from the House of Representatives (H.R. 2017) entitled “An Act making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2012, and for other purposes. ”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> Making continuing appropriations for fiscal year 2012, and for other purposes.
 
 That the following sums are hereby appropriated, out of any money in the Treasury not otherwise appropriated, and out of applicable corporate or other revenues, receipts, and funds, for the several departments, agencies, corporations, and other organizational units of Government for fiscal year 2012, and for other purposes, namely:
 

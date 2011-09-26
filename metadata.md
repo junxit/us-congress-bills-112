@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2017
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2017
@@ -541,3 +541,14 @@ Continuing Appropriations Act, 2012
 - 2011-09-26 — Senate amendment submitted
 - 2011-09-26 — Senate amendment submitted
 - 2011-09-26 — The committee reported substitute was withdrawn by Unanimous Consent. (consideration: CR S5987)
+- 2011-09-27 — Message on Senate action sent to the House.
+- 2011-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-09-29 — Mr. Culberson asked unanimous consent that the House agree to the Senate amendments. (consideration: CR H6463-6465)
+- 2011-09-29 — On motion that the House agree to the Senate amendments Agreed to without objection. (text as House agreed to Senate amendments: CR H6463-6465)
+- 2011-09-29 — Presented to President.
+- 2011-09-29 — Presented to President.
+- 2011-09-29 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(text as House agreed to Senate amendments: CR H6463-6465)
+- 2011-09-30 — Became Public Law No: 112-33.
+- 2011-09-30 — Became Public Law No: 112-33.
+- 2011-09-30 — Signed by President.
+- 2011-09-30 — Signed by President.
