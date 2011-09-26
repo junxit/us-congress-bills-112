@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 275
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 275
@@ -16,7 +16,7 @@ A resolution designating October 30, 2011, as a national day of remembrance for 
 
 - Sen. Bingaman, Jeff [D-NM] (B000468)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Udall, Mark [D-CO] (U000038)
@@ -27,6 +27,7 @@ A resolution designating October 30, 2011, as a national day of remembrance for 
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. McConnell, Mitch [R-KY] (M000355)
 - Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Reid, Harry [D-NV] (R000146)
 
 ## Committees (1)
 
@@ -37,3 +38,7 @@ A resolution designating October 30, 2011, as a national day of remembrance for 
 - 2011-09-22 — Introduced in Senate
 - 2011-09-22 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5919)
 - 2011-09-22 — Sponsor introductory remarks on measure. (CR S5919)
+- 2011-09-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S6008)
+- 2011-09-26 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S6008)
+- 2011-09-26 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6007-6008)
+- 2011-09-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6007-6008)
