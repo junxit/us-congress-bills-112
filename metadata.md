@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 29
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 29
@@ -27,9 +27,15 @@ A concurrent resolution authorizing the use of the rotunda of the United States 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
+## Committees (1)
+
+- House — Committee on House Administration
+
 ## Actions
 
 - 2011-09-23 — Introduced in Senate
 - 2011-09-23 — Message on Senate action sent to the House.
 - 2011-09-23 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S5932; text as passed Senate: CR S5932; text of measure as introduced: CR S5952)
 - 2011-09-23 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5932; text as passed Senate: CR S5932; text of measure as introduced: CR S5952)
+- 2011-09-26 — Received in the House.
+- 2011-09-26 — Referred to the House Committee on House Administration.
