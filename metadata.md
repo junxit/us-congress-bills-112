@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 22
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 22
@@ -30,3 +30,7 @@ A joint resolution to grant the consent of Congress to an amendment to the compa
 
 - 2011-06-28 — Introduced in Senate
 - 2011-06-28 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S4161)
+- 2011-09-26 — Passed Senate without amendment and with a preamble by Unanimous Consent. (text: CR S6007)
+- 2011-09-26 — Passed/agreed to in Senate: Passed Senate without amendment and with a preamble by Unanimous Consent.(text: CR S6007)
+- 2011-09-26 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6007)
+- 2011-09-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6007)
