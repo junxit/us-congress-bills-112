@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 29
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 29
@@ -39,3 +39,9 @@ A concurrent resolution authorizing the use of the rotunda of the United States 
 - 2011-09-23 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5932; text as passed Senate: CR S5932; text of measure as introduced: CR S5952)
 - 2011-09-26 — Received in the House.
 - 2011-09-26 — Referred to the House Committee on House Administration.
+- 2011-10-03 — Considered under suspension of the rules. (consideration: CR H6481-6483)
+- 2011-10-03 — DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 29.
+- 2011-10-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-03 — Mr. Harper moved to suspend the rules and agree to the resolution.
+- 2011-10-03 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6481-6482)
+- 2011-10-03 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6481-6482)
