@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 27
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 27
@@ -21,9 +21,10 @@ A concurrent resolution honoring the service of Sergeant First Class Leroy Arthu
 - Sen. Bingaman, Jeff [D-NM] (B000468)
 - Sen. Begich, Mark [D-AK] (B001265)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Armed Services Committee
+- House — Armed Services Committee
 
 ## Actions
 
@@ -35,3 +36,5 @@ A concurrent resolution honoring the service of Sergeant First Class Leroy Arthu
 - 2011-09-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S5932)
 - 2011-09-23 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S5932)
 - 2011-09-23 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S5932)
+- 2011-09-26 — Received in the House.
+- 2011-09-26 — Referred to the House Committee on Armed Services.
