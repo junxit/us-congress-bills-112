@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2017
 congress: 112
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2017
@@ -527,3 +527,17 @@ Continuing Appropriations Act, 2012
 - 2011-09-07 — Committee on Appropriations. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 112-74.
 - 2011-09-07 — Committee on Appropriations. Reported by Senator Landrieu with an amendment in the nature of a substitute. With written report No. 112-74.
 - 2011-09-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 156.
+- 2011-09-26 — Amendment SA 666 agreed to in Senate by Unanimous Consent.
+- 2011-09-26 — Amendment SA 666 proposed by Senator Reid. (consideration: CR S5987) In the nature of a substitute.
+- 2011-09-26 — Amendment SA 667 agreed to in Senate by Unanimous Consent.
+- 2011-09-26 — Amendment SA 667 proposed by Senator Reid. (consideration: CR S5987; text: CR S5987) To amend the title.
+- 2011-09-26 — Measure laid before Senate by unanimous consent. (consideration: CR S5977-5987; text of amendment in nature of a substitute: CR S5977-5987)
+- 2011-09-26 — Passed Senate with an amendment and an amendment to the Title by Voice Vote. (text: CR 10/3/2011 S6055-6056)
+- 2011-09-26 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Voice Vote.(text: CR 10/3/2011 S6055-6056)
+- 2011-09-26 — Senate amendment agreed to: Amendment SA 666 agreed to in Senate by Unanimous Consent.
+- 2011-09-26 — Senate amendment agreed to: Amendment SA 667 agreed to in Senate by Unanimous Consent.
+- 2011-09-26 — Senate amendment proposed (on the floor): Amendment SA 666 proposed by Senator Reid.(consideration: CR S5987)
+- 2011-09-26 — Senate amendment proposed (on the floor): Amendment SA 667 proposed by Senator Reid.(consideration: CR S5987; text: CR S5987)
+- 2011-09-26 — Senate amendment submitted
+- 2011-09-26 — Senate amendment submitted
+- 2011-09-26 — The committee reported substitute was withdrawn by Unanimous Consent. (consideration: CR S5987)
