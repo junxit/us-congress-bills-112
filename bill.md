@@ -19,12 +19,12 @@ This Act may be cited as the “EPA Regulatory Relief Act of 2011”.
   - **(1)** propose regulations for industrial, commercial, and institutional boilers and process heaters, and commercial and industrial solid waste incinerator units, subject to any of the rules specified in subsection (b)—
     - **(A)** establishing maximum achievable control technology standards, performance standards, and other requirements under sections 112 and 129, as applicable, of the Clean Air Act (42 U.S.C. 7412, 7429); and
     - **(B)** identifying non-hazardous secondary materials that, when used as fuels or ingredients in combustion units of such boilers, process heaters, or incinerator units are solid waste under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.; commonly referred to as the “Resource Conservation and Recovery Act”) for purposes of determining the extent to which such combustion units are required to meet the emissions standards under section 112 of the Clean Air Act (42 U.S.C. 7412) or the emission standards under section 129 of such Act (42 U.S.C. 7429); and
-  - **(2)** finalize the regulations on the date that is 15 months after the date of the enactment of this Act, or on such later date as may be determined by the Administrator.
+  - **(2)** finalize the regulations on the date that is 15 months after the date of the enactment of this Act.
 - **(b)** *Stay of earlier rules* The following rules are of no force or effect, shall be treated as though such rules had never taken effect, and shall be replaced as described in subsection (a):
   - **(1)** “National Emission Standards for Hazardous Air Pollutants for Major Sources: Industrial, Commercial, and Institutional Boilers and Process Heaters”, published at 76 Fed. Reg. 15608 (March 21, 2011).
   - **(2)** “National Emission Standards for Hazardous Air Pollutants for Area Sources: Industrial, Commercial, and Institutional Boilers”, published at 76 Fed. Reg. 15554 (March 21, 2011).
   - **(3)** “Standards of Performance for New Stationary Sources and Emission Guidelines for Existing Sources: Commercial and Industrial Solid Waste Incineration Units”, published at 76 Fed. Reg. 15704 (March 21, 2011).
-  - **(4)** “Identification of Non-Hazardous Secondary Materials That are Solid Waste”, published at 76 Fed. Reg. 15456 (March 21, 2011).
+  - **(4)** “Identification of Non-Hazardous Secondary Materials That Are Solid Waste”, published at 76 Fed. Reg. 15456 (March 21, 2011).
 - **(c)** *Inapplicability of certain provisions* With respect to any standard required by subsection (a) to be promulgated in regulations under section 112 of the Clean Air Act (42 U.S.C. 7412), the provisions of subsections (g)(2) and (j) of such section 112 shall not apply prior to the effective date of the standard specified in such regulations.
 
 ## § 3. Compliance dates
@@ -46,7 +46,7 @@ This Act may be cited as the “EPA Regulatory Relief Act of 2011”.
 
 Notwithstanding any other provision of law, and to ensure the recovery and conservation of energy consistent with the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.; commonly referred to as the “Resource Conservation and Recovery Act”), in promulgating rules under section 2(a) addressing the subject matter of the rules specified in paragraphs (3) and (4) of section 2(b), the Administrator—
 
-- **(1)** shall adopt the definitions of the terms commercial and industrial solid waste incineration unit, commercial and industrial waste, and contained gaseous material in the rule entitled “Standards for Performance of New Stationary Sources and Emission Guidelines for Existing Sources: Commercial and Industrial Solid Waste Incineration Units”, published at 65 Fed. Reg. 75338 (December 1, 2000); and
+- **(1)** shall adopt the definitions of the terms commercial and industrial solid waste incineration unit, commercial and industrial waste, and contained gaseous material in the rule entitled “Standards of Performance for New Stationary Sources and Emission Guidelines for Existing Sources: Commercial and Industrial Solid Waste Incineration Units”, published at 65 Fed. Reg. 75338 (December 1, 2000); and
 - **(2)** shall identify non-hazardous secondary material to be solid waste only if—
   - **(A)** the material meets such definition of commercial and industrial waste; or
   - **(B)** if the material is a gas, it meets such definition of contained gaseous material.
