@@ -1,7 +1,7 @@
 ---
 measure: S. 1280
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1280
@@ -16,7 +16,7 @@ Kate Puzey Peace Corps Volunteer Protection Act of 2011
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 
-## Cosponsors (27)
+## Cosponsors (31)
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -45,6 +45,10 @@ Kate Puzey Peace Corps Volunteer Protection Act of 2011
 - Sen. Lautenberg, Frank R. [D-NJ] (L000123)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Boxer, Barbara [D-CA] (B000711)
 
 ## Committees (1)
 
@@ -58,3 +62,12 @@ Kate Puzey Peace Corps Volunteer Protection Act of 2011
 - 2011-09-21 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 112-82.
 - 2011-09-21 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 112-82.
 - 2011-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 176.
+- 2011-09-26 — Amendment SA 668 agreed to in Senate by Unanimous Consent.
+- 2011-09-26 — Amendment SA 668 proposed by Senator Reid for Senator Isakson. (consideration: CR S6007) In the nature of a substitute.
+- 2011-09-26 — Measure laid before Senate by unanimous consent. (consideration: CR S6004-6007; text of amendment in nature of a substitute: CR S6004-6006)
+- 2011-09-26 — Passed Senate with an amendment by Unanimous Consent.
+- 2011-09-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2011-09-26 — Senate amendment agreed to: Amendment SA 668 agreed to in Senate by Unanimous Consent.
+- 2011-09-26 — Senate amendment proposed (on the floor): Amendment SA 668 proposed by Senator Reid for Senator Isakson.(consideration: CR S6007)
+- 2011-09-26 — Senate amendment submitted
+- 2011-09-26 — The committee substitute as amended agreed to by Unanimous Consent.

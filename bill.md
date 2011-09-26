@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 1280
 
-> To amend the Peace Corps Act to require sexual assault risk-reduction and response training, the development of sexual assault protocol and guidelines, the establishment of victims advocates, the establishment of a Sexual Assault Advisory Council, and for other purposes.
+> To amend the Peace Corps Act to require sexual assault risk-reduction and response training, the development of a sexual assault policy, the establishment of an Office of Victim Advocacy, the establishment of a Sexual Assault Advisory Council, and for other purposes.
 
 ## § 1. Short title
 
@@ -19,123 +19,193 @@ The Peace Corps Act is amended by inserting after section 8 (22 U.S.C. 2507) the
 
 > ## § 8A. Sexual assault risk-reduction and response training
 >
-> - **(a)** *In general* As part of the training provided to all volunteers under section 8(a), the Director of the Peace Corps shall develop and implement comprehensive sexual assault risk-reduction and response training that conforms to best practices in the sexual assault field as appropriate for first responders and other staff.
-> - **(b)** *Development and consultation with experts* In developing the sexual assault risk-reduction and response training under subsection (a), the Director of the Peace Corps shall consult with and incorporate, as appropriate, the recommendations and views of experts in the sexual assault field.
-> - **(c)** *Subsequent training* Once a trainee has arrived in the trainee’s country of service, the Director of the Peace Corps shall provide the trainee with training tailored to the country, including cultural training relating to gender relations, risk-reduction strategies, a safety plan in the event of an assault, treatment available in such country (such as forensic rape exams, PEP for HIV exposure, STD screening, and pregnancy testing), MedEvac procedures, and information regarding the legal process for pressing charges against an attacker.
-> - **(d)** *Historical analysis* The Director of the Peace Corps shall provide each applicant for enrollment with a historical analysis of crimes and risks against volunteers in the country in which the applicant has been invited to serve.
-> - **(e)** *Contact information* The Director of the Peace Corps shall provide each trainee, before each such trainee enrolls as a volunteer, with—
->   - **(1)** the contact information of the Inspector General of the Peace Corps for purposes of reporting violations of the sexual assault protocol under section 8B or any other criminal or administrative wrongdoing by volunteers, personnel (including experts and consultants), or other individuals (including contractors) who do business with the Peace Corps; and
->   - **(2)** clear, written guidelines regarding whom to contact, including the direct telephone number for a victim advocate and what steps to take in the event of a sexual assault.
+> - **(a)** *In general* As part of the training provided to all volunteers under section 8(a), the President shall develop and implement comprehensive sexual assault risk-reduction and response training that, to the extent practicable, conforms to best practices in the sexual assault field.
+> - **(b)** *Development and consultation with experts* In developing the sexual assault risk-reduction and response training under subsection (a), the President shall consult with and incorporate, as appropriate, the recommendations and views of experts in the sexual assault field.
+> - **(c)** *Subsequent training* Once a volunteer has arrived in his or her country of service, the President shall provide the volunteer with training tailored to the country of service that includes cultural training relating to gender relations, risk-reduction strategies, treatment available in such country (including sexual assault forensic exams, post-exposure prophylaxis (PEP) for HIV exposure, screening for sexually transmitted diseases, and pregnancy testing), MedEvac procedures, and information regarding a victim's right to pursue legal action against a perpetrator.
+> - **(d)** *Information regarding crimes and risks* Each applicant for enrollment as a volunteer shall be provided with information regarding crimes against and risks to volunteers in the country in which the applicant has been invited to serve, including an overview of past crimes against volunteers in the country.
+> - **(e)** *Contact information* The President shall provide each applicant, before the applicant enrolls as a volunteer, with—
+>   - **(1)** the contact information of the Inspector General of the Peace Corps for purposes of reporting sexual assault mismanagement or any other mismanagement, misconduct, wrongdoing, or violations of law or policy whenever it involves a Peace Corps employee, volunteer, contractor, or outside party that receives funds from the Peace Corps;
+>   - **(2)** clear, written guidelines regarding whom to contact, including the direct telephone number for the designated Sexual Assault Response Liaison (SARL) and the Office of Victim Advocacy and what steps to take in the event of a sexual assault or other crime; and
+>   - **(3)** contact information for a 24-hour sexual assault hotline to be established for the purpose of providing volunteers a mechanism to anonymously—
+>     - **(A)** report sexual assault;
+>     - **(B)** receive crisis counseling in the event of a sexual assault; and
+>     - **(C)** seek information about Peace Corps sexual assault reporting and response procedures.
 > - **(f)** *Definitions* In this section and sections 8B through 8G:
->   - **(1)** *Assault*
->     - **(A)** *In general* The term “assault” means an act that—
->       - **(i)** creates an apprehension in an individual of an imminent, harmful, or offensive contact; or
->       - **(ii)** is a harmful or offensive touching.
->     - **(B)** *Inclusion* The term “assault” includes stalking and sexual assault.
->   - **(2)** *Sexual assault* The term “sexual assault” means any conduct described in chapter 109A of title 18, United States Code, relating to aggrevated sexual abuse, sexual abuse, and sexual conduct, whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States, and includes both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim.
->   - **(3)** *Stalking* The term “stalking” means engaging in a course of conduct directed at a specific person that would cause a reasonable person to—
+>   - **(1)** *Personally identifying information* The term personally identifying information means individually identifying information for or about a volunteer who is a victim of sexual assault, including information likely to disclose the location of such victim, including the following:
+>     - **(A)** A first and last name.
+>     - **(B)** A home or other physical address.
+>     - **(C)** Contact information (including a postal, email, or Internet protocol address, or telephone or facsimile number).
+>     - **(D)** A social security number.
+>     - **(E)** Any other information, including date of birth, racial or ethnic background, or religious affiliation, that, in combination with information described in subparagraphs (A) through (D), would serve to identify the victim.
+>   - **(2)** *Restricted reporting*
+>     - **(A)** *In general* The term restricted reporting means a system of reporting that allows a volunteer who is sexually assaulted to confidentially disclose the details of his or her assault to specified individuals and receive the services outlined in section 8B(c) without the dissemination of his or her personally identifying information except as necessary for the provision of such services, and without automatically triggering an official investigative process.
+>     - **(B)** *Exceptions* In cases in which volunteers elect restricted reporting, disclosure of their personally identifying information is authorized to the following persons or organizations when disclosure would be for the following reasons:
+>       - **(i)** Peace Corps staff or law enforcement when authorized by the victim in writing.
+>       - **(ii)** Peace Corps staff or law enforcement to prevent or lessen a serious or imminent threat to the health or safety of the victim or another person.
+>       - **(iii)** SARLs, victim advocates or healthcare providers when required for the provision of victim services.
+>       - **(iv)** State and Federal courts when ordered, or if disclosure is required by Federal or State statute.
+>     - **(C)** *Notice of disclosure and privacy protection* In cases in which information is disclosed pursuant to subparagraph (B), the President shall—
+>       - **(i)** make reasonable attempts to provide notice to the volunteer with respect to whom such information is being released; and
+>       - **(ii)** take such action as is necessary to protect the privacy and safety of the volunteer.
+>   - **(3)** *Sexual assault* The term “sexual assault” means any conduct prescribed by chapter 109A of title 18, United States Code, whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States, and includes both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim.
+>   - **(4)** *Stalking* The term stalking means engaging in a course of conduct directed at a specific person that would cause a reasonable person to—
 >     - **(A)** fear for his or her safety or the safety of others; or
 >     - **(B)** suffer substantial emotional distress.
->   - **(4)** *Inclusion of trainees* The term “volunteers” includes trainees.
 >
-> ## § 8B. Sexual assault protocol and guidelines
+> ## § 8B. Sexual assault policy
 >
-> - **(a)** *In general* The Director of the Peace Corps shall develop and implement comprehensive sexual assault protocol and guidelines that—
->   - **(1)** conform to best practices in the sexual assault field; and
->   - **(2)** are applicable to all posts at which volunteers serve.
-> - **(b)** *Development and consultation with experts* In developing the sexual assault policy under subsection (a), the Director of the Peace Corps shall consult with and incorporate, as appropriate, the recommendations and views of experts in the sexual assault field.
-> - **(c)** *Elements* The sexual assault protocol and guidelines developed under subsection (a) shall include, at a minimum, the following services with respect to a volunteer who has been a victim of sexual assault:
->   - **(1)** Protection of such volunteer’s confidentiality.
->   - **(2)** Provision of a victim’s advocate to the volunteer.
->   - **(3)** Provision of a sexual assault forensic evidence kit to the volunteer upon request.
->   - **(4)** Provision of emergency health care to the volunteer, including, to the greatest extent practicable, a choice of medical providers and a mechanism for such volunteer to evaluate such provider.
->   - **(5)** Provision of counseling and psychiatric medecine.
->   - **(6)** Completion of a safety and treatment plan with the volunteer.
->   - **(7)** Evacuation of the volunteer, accompanied by a Peace Corps staffer at the request of such volunteer.
->   - **(8)** An explanation to the volunteer of available law enforcement, prosecutorial options, and legal representation.
-> - **(d)** *Distribution and training* The Director of the Peace Corps shall distribute to and train all in-country staff regarding the sexual assault protocol and guidelines developed under subsection (a).
-> - **(e)** *Removal and assessment and evaluation*
->   - **(1)** *In general* If a volunteer feels at risk of imminent bodily harm and requests removal from the site in which such volunteer is serving, the Director of the Peace Corps shall, as expeditiously as practical after receiving such request, remove the volunteer from the site. If the Director of the Peace Corps receives such a request, the Director of the Peace Corps shall assess and evaluate the safety of such site and may not assign another volunteer to the site until such time as the assessment and evaluation is complete and the site has been determined to be safe.
->   - **(2)** *Determination of site as unsafe* Volunteers may remain at a site during an assessment and evaluation under paragraph (1). If the Director the Peace Corps determines that a site is unsafe, the Director of the Peace Corps shall, as expeditiously as practical, remove all volunteers from the site.
-> - **(f)** *Sexual assault response teams* The Director of the Peace Corps shall establish sexual assault response teams, including Safety and Security Officers, medical staff, and a victim advocate, that can respond to reports of sexual assault against a volunteer.
-> - **(g)** *Case review* The Director of the Peace Corps shall conduct case reviews of a statistically significant number of cases on a quarterly basis to determine if proper procedures were followed in accordance with the sexual assault protocols and guidelines developed under subsection (a) and including the elements specified in subsection (c).
-> - **(h)** *Tracking and recording* The Director of the Peace Corps shall establish a global tracking and recording system to track and record incidents of assault against volunteers.
-> - **(i)** *Prohibition on combining incidents* The Director of the Peace Corps may not combine into one incident for purposes of tracking and recording under subsection (h) reports by different volunteers of assault against such volunteers even if such assaults were committed by one individual against such volunteers at any one time.
-> - **(j)** *Alternative systems* The Director of the Peace Corps shall establish an alternative reporting system and hotline access system through which volunteers who are victims of assault can report and receive support on an anonymous basis. The alternative systems shall be published in the Volunteer Handbook.
+> - **(a)** *In general* The President shall develop and implement a comprehensive sexual assault policy that—
+>   - **(1)** includes a system for restricted and unrestricted reporting of sexual assault;
+>   - **(2)** mandates, for each Peace Corps country program, the designation of a Sexual Assault Response Liaison (SARL), who shall receive comprehensive training on procedures to respond to reports of sexual assault, with duties including ensuring that volunteers who are victims of sexual assault are moved to a safe environment and accompanying victims through the in-country response at the request of the victim;
+>   - **(3)** requires SARLs to immediately contact a Victim Advocate upon receiving a report of sexual assault in accordance with the restricted and unrestricted reporting guidelines promulgated by the Peace Corps;
+>   - **(4)** to the extent practicable, conforms to best practices in the sexual assault field;
+>   - **(5)** is applicable to all posts at which volunteers serve; and
+>   - **(6)** includes a guarantee that volunteers will not suffer loss of living allowances for reporting a sexual assault.
+> - **(b)** *Development and consultation with experts* In developing the sexual assault policy under subsection (a), the President shall consult with and incorporate, as appropriate, the recommendations and views of experts in the sexual assault field, including experts with international experience.
+> - **(c)** *Elements* The sexual assault policy developed under subsection (a) shall include, at a minimum, the following services with respect to a volunteer who has been a victim of sexual assault:
+>   - **(1)** The option of pursuing either restricted or unrestricted reporting of an assault.
+>   - **(2)** Provision of a SARL and Victim’s Advocate to the volunteer.
+>   - **(3)** At a volunteer's discretion, provision of a sexual assault forensic exam in accordance with applicable host country law.
+>   - **(4)** If necessary, the provision of emergency health care, including a mechanism for such volunteer to evaluate such provider.
+>   - **(5)** If necessary, the provision of counseling and psychiatric medication.
+>   - **(6)** Completion of a safety and treatment plan with the volunteer, if necessary.
+>   - **(7)** Evacuation of such volunteer for medical treatment, accompanied by a Peace Corps staffer at the request of such volunteer. When evacuated to the United States, such volunteer shall be provided, to the extent practicable, a choice of medical providers including a mechanism for such volunteers to evaluate the provider.
+>   - **(8)** An explanation to the volunteer of available law enforcement and prosecutorial options, and legal representation.
+> - **(d)** *Training* The President shall train all staff outside the United States regarding the sexual assault policy developed under subsection (a).
 >
-> ## § 8C. Victims advocates
+> ## § 8C. Office of victim advocacy
 >
-> - **(a)** *Victims advocates*
->   - **(1)** *In general* The Director of the Peace Corps shall assign a certified victims advocate in Peace Corps headquarters who shall report directly to the Director. The Director of the Peace Corps shall assign not fewer than three additional certified victims advocates to assist the victims advocate. The additional victims advocates shall have regional expertise and may be posted abroad if the victims advocate determines that it is necessary.
->   - **(2)** *Prohibition* Peace Corps Medical Officers, Safety and Security Officers, and program staff may not serve as victims advocates. The victims advocate and additional victims advocates may not have any other duties in the Peace Corps.
->   - **(3)** *Exemption* The victims advocate and additional victims advocates shall be exempt from the five year rule on appointments and assignments under section 7(a)(5).
-> - **(b)** *Responsibilities* The victims advocate and additional victims advocates shall help develop and implement the sexual assault risk-reduction and response training described in section 8A and the sexual assault protocol and guidelines described in section 8B and ensure such training and such protocol and guidelines are being properly updated and followed. The victims advocate and additional victims advocates shall assist volunteers who are victims of assault by making such victims aware of the services specified in section 8B(c) available to them and facilitating their access to such services.
-> - **(c)** *Status updates* The victims advocate and additional victims advocates shall provide to volunteers who are victims of assault regular updates on the status of their cases if such volunteers have opted to pursue prosecution.
-> - **(d)** *Transition* A victims advocate who is working with a volunteer who is a victim of assault and who relocates back to the United States shall assist the volunteer to receive the services specified in section 8B(c) required by such volunteer, including through the duration of the claim with the Department of Labor, even after the volunteer is medically separated.
+> - **(a)** *Establishment of office of victims advocacy*
+>   - **(1)** *In general* The President shall establish an Office of Victim Advocacy in Peace Corps headquarters headed by a full-time victim advocate who shall report directly to the Director. The Office of Victim Advocacy may deploy personnel abroad when necessary to help assist victims.
+>   - **(2)** *Prohibition* Peace Corps Medical Officers, Safety and Security Officers, and program staff may not serve as victim advocates. The victim advocate referred to in paragraph (1) may not have any other duties in the Peace Corps that are not reasonably connected to victim advocacy.
+>   - **(3)** *Exemption* The victim advocate and any additional victim advocates shall be exempt from the limitations specified in subparagraphs (A) and (B) of paragraph (2) and paragraph (5) under section 7(a) of the Peace Corps Act (22 U.S.C. 2506(a)).
+> - **(b)** *Responsibilities*
+>   - **(1)** *Victims of sexual assault* The Office of Victim Advocacy shall help develop and update the sexual assault risk-reduction and response training described in section 8A and the sexual assault policy described in section 8B, ensure that volunteers who are victims of sexual assault receive services specified in section 8B(c), and facilitate their access to such services.
+>   - **(2)** *Other crimes* In addition to assisting victims of sexual assault in accordance with paragraph (1), the Office of Victim Advocacy shall assist volunteers who are victims of crime by making such victims aware of the services available to them and facilitating their access to such services.
+>   - **(3)** *Priority* The Office of Victim Advocacy shall give priority to cases involving serious crimes, including sexual assault and stalking.
+> - **(c)** *Status updates* The Office of Victim Advocacy shall provide to volunteers who are victims regular updates on the status of their cases if such volunteers have opted to pursue prosecution.
+> - **(d)** *Transition* The Office of Victim Advocacy shall assist volunteers who are victims of crime and whose service has terminated in receiving the services specified in section 8B(c) requested by such volunteer.
 >
 > ## § 8D. Establishment of Sexual Assault Advisory Council
 >
-> - **(a)** *Establishment* There is established in the Peace Corps a Sexual Assault Advisory Council (in this section referred to as the “Council”).
-> - **(b)** *Membership* The Council shall be composed of individuals selected by the Director of the Peace Corps who are returned volunteers (including volunteers who were victims of sexual assault and volunteers who were not victims of sexual assault) and governmental and nongovernmental experts and professionals in the sexual assault field.
-> - **(c)** *Functions; Meetings* The Council shall meet not less often than annually to review the sexual assault risk-reduction and response training developed under section 8A, sexual assault policy developed under section 8B, and the confidentiality policy developed under section 8F to ensure that such training and policies conform to best practices in the sexual assault field.
-> - **(d)** *Reports* The Council shall annually submit to the Director of the Peace Corps and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate a report on its findings based on the reviews conducted pursuant to subsection (c).
-> - **(e)** *Federal employees* Members of the Council shall not be considered Federal employees for any purpose and shall not receive compensation other than reimbursement of travel expenses and per diem allowance.
+> - **(a)** *Establishment* There is established a Sexual Assault Advisory Council (in this section referred to as the “Council”).
+> - **(b)** *Membership* The Council shall be composed of not less than 8 individuals selected by the President, not later than 180 days after the date of the enactment of this section, who are returned volunteers (including volunteers who were victims of sexual assault and volunteers who were not victims of sexual assault) and governmental and nongovernmental experts and professionals in the sexual assault field. No Peace Corps employee shall be a member of the Council. The number of governmental experts appointed to the Council shall not exceed the number of nongovernmental experts.
+> - **(c)** *Functions; Meetings* The Council shall meet not less often than annually to review the sexual assault risk-reduction and response training developed under section 8A, the sexual assault policy developed under section 8B, and such other matters related to sexual assault the Council views as appropriate, to ensure that such training and policy conform to the extent practicable to best practices in the sexual assault field.
+> - **(d)** *Reports* On an annual basis for 5 years after the date of the enactment of this section and at the discretion of the Council thereafter, the Council shall submit to the President and the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report on its findings based on the reviews conducted pursuant to subsection (c).
+> - **(e)** *Employee status* Members of the Council shall not be considered employees of the United States Government for any purpose and shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with section 5703 of title 5, United States Code.
 > - **(f)** *Nonapplicability of FACA* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
 >
 > ## § 8E. Volunteer feedback and Peace Corps review
 >
-> - **(a)** *Monitoring and evaluation* Not later than one year after the date of the enactment of this section, the Director of the Peace Corps shall establish goals, metrics, and monitoring and evaluation plans for all Peace Corps programs and Country Directors. Monitoring and evaluation plans shall incorporate best practices from monitoring and evaluation studies and analyses.
-> - **(b)** *Annual volunteer surveys* The Director of the Peace Corps shall annually conduct a confidential survey of volunteers regarding the effectiveness of Peace Corps programs and staff and the safety of volunteers.
-> - **(c)** *Peace Corps Inspector General* The Inspector General of the Peace Corps shall submit to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate the following:
->   - **(1)** A biennial report on reports received from volunteers relating to misconduct, mismanagement, or policy violations of Peace Corps staff, any breaches of the confidentiality of volunteers, and any actions taken to assure the safety of volunteers who provide such reports.
->   - **(2)** A report, not later than two years after the date of the enactment of this section and every five years thereafter, evaluating the effectiveness and implementation of the assault risk-reduction and response training developed under section 8A and the sexual assault protocol and guidelines developed under section 8B.
->   - **(3)** A trend analysis every three years of the annual volunteer surveys, including actions taken in response to such surveys.
->   - **(4)** A report, not later than two years after the date of the enactment of this section, describing how Country Directors are hired, how Country Directors are terminated, and how Country Directors hire staff.
-> - **(d)** *Evaluation defined* For purposes of this section, the term “evaluation” means the systematic collection and analysis of information about the characteristics and outcomes of programs and projects as a basis for judgments, to improve effectiveness, or inform decisions about current and future programming.
+> - **(a)** *Monitoring and evaluation* Not later than 1 year after the date of the enactment of this section, the President shall establish goals, metrics, and monitoring and evaluation plans for all Peace Corps programs. Monitoring and evaluation plans shall incorporate best practices from monitoring and evaluation studies and analyses.
+> - **(b)** *Performance plans and elements* The President shall establish performance plans with performance elements and standards for Peace Corps representatives and shall review the performance of Peace Corps representatives not less than annually to determine whether they have met these performance elements and standards. Nothing in this subsection shall be construed as limiting the discretion of the President to remove a Peace Corps representative.
+> - **(c)** *Annual volunteer surveys* The President shall annually conduct a confidential survey of volunteers regarding the effectiveness of Peace Corps programs and staff and the safety of volunteers. The results shall be provided in aggregate form without identifying information to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives. Results from the annual volunteer survey shall be considered in reviewing the performance of Peace Corps representatives under subsection (a).
+> - **(d)** *Peace Corps Inspector General* The Inspector General of the Peace Corps shall—
+>   - **(1)** submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives—
+>     - **(A)** a biennial report on reports received from volunteers relating to misconduct, mismanagement, or policy violations of Peace Corps staff, any breaches of the confidentiality of volunteers, and any actions taken to assure the safety of volunteers who provide such reports;
+>     - **(B)** a report, not later than two years after the date of the enactment of this section and every three years thereafter, evaluating the effectiveness and implementation of the sexual assault risk-reduction and response training developed under section 8A and the sexual assault policy developed under section 8B, including a case review of a statistically significant number of cases; and
+>     - **(C)** a report, not later than two years after the date of the enactment of this section, describing how Peace Corps representatives are hired, how Peace Corps representatives are terminated, and how Peace Corps representatives hire staff, including an assessment of the implementation of the performance plans described in subsection (b); and
+>   - **(2)** when conducting audits or evaluations of Peace Corps programs overseas, notify the Director of the Peace Corps about the results of such evaluations, including concerns the Inspector General has noted, if any, about the performance of Peace Corps representatives, for appropriate action.
 >
-> ## § 8F. Nondisclosure of confidential or private information
+> ## § 8F. Establishment of a policy on stalking
 >
-> - **(a)** *In general* The Director of the Peace Corps shall establish and maintain a process to allow volunteers to report incidents of assault, incidents of misconduct or mismanagement, or violations of any policy, of the Peace Corps in order to protect the confidentiality in accordance with subsection (c) and safety of such volunteers and of the information reported, and to ensure that such information is acted on appropriately. The Director of the Peace Corps shall train all volunteers and staff about this process.
-> - **(b)** *Guidance* The Director of the Peace Corps shall provide guidance to officers and employees of the Peace Corps who have access to the information reported by volunteers under subsection (a) in order to protect against the inappropriate disclosure of such information and ensure the safety of such volunteers.
-> - **(c)** *Nondisclosure*
->   - **(1)** *In general* Except as provided in paragraphs (2) and (3), the Director of the Peace Corps may not—
->     - **(A)** disclose any personally identifying information or personal information of a volunteer who is a victim of assault collected in connection with services requested, utilized, or denied through Peace Corps programs; or
->     - **(B)** reveal such information without the informed, purpose-limited, and reasonably time-limited consent of the volunteer about whom such information is sought.
->   - **(2)** *Release* If the release of information described in paragraph (1) is authorized by statute or compelled by court order, the Director of the Peace Corps shall—
->     - **(A)** make reasonable attempts to provide notice to the volunteer with respect to whom such information is being released; and
->     - **(B)** take such action as is necessary to protect the privacy and safety of the volunteer.
->   - **(3)** *Information sharing* The Director of the Peace Corps may share—
->     - **(A)** nonpersonally identifying data in the aggregate regarding services to volunteers and nonpersonally identifying demographic information in order to comply with reporting, evaluation, or data collection requirements;
->     - **(B)** nonpersonally identifying information that would protect the safety of volunteers;
->     - **(C)** court-generated information and law-enforcement generated information contained in secure, governmental registries for protection order enforcement purposes; and
->     - **(D)** law enforcement- and prosecution-generated information necessary for law enforcement and prosecution purposes.
-> - **(d)** *Definition* In this section, the terms “personally identifying information” and “personal information” mean information for or about a volunteer who is a victim of assault, including information likely to disclose the location of such victim, including the following:
->   - **(1)** A first and last name.
->   - **(2)** A home or other physical address.
->   - **(3)** Contact information (including a postal, email, or Internet protocol address, or telephone or facsimile number).
->   - **(4)** A social security number.
->   - **(5)** Any other information, including date of birth, racial or ethnic background, or religious affiliation, that, in combination with information described in paragraphs (1) through (4), would serve to identify the victim.
+> - **(a)** *In general* The President shall develop and implement a comprehensive policy on stalking that—
+>   - **(1)** requires an immediate, effective, and thorough response from the Peace Corps upon receipt of a report of stalking;
+>   - **(2)** provides, during training, all Peace Corps volunteers with a point of contact for the reporting of stalking; and
+>   - **(3)** protects the confidentiality of volunteers who report stalking to the maximum extent practicable.
+> - **(b)** *Development and consultation with experts* In developing the stalking policy under subsection (a), the President shall consult with and incorporate, as appropriate, the recommendations and views of those with expertise regarding the crime of stalking.
+> - **(c)** *Training of in-country staff* The President shall provide for the training of all in-country staff regarding the stalking policy developed under subsection (a).
 >
-> ## § 8G. Reporting requirements
+> ## § 8G. Establishment of a confidentiality protection policy
 >
-> - **(a)** *In general* The Director of the Peace Corps shall annually submit to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate a report summarizing information on—
->   - **(1)** sexual assault against volunteers;
->   - **(2)** assault against volunteers; and
->   - **(3)** the annual rate of early termination of volunteers, including, to the maximum extent practicable, demographic data associated with such early termination.
-> - **(b)** *GAO* Not later than one year after the date of the enactment of this section, the Comptroller General of the United States shall submit to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate a report evaluating the quality and accessibility of health care provided through the Department of Labor to returned volunteers upon their separation from the Peace Corps.
+> - **(a)** *In general* The President shall establish and maintain a process to allow volunteers to report incidents of misconduct or mismanagement, or violations of any policy, of the Peace Corps in order to protect the confidentiality and safety of such volunteers and of the information reported, and to ensure that such information is acted on appropriately. This process shall conform to existing best practices regarding confidentiality.
+> - **(b)** *Guidance* The President shall provide additional training to officers and employees of the Peace Corps who have access to information reported by volunteers under subsection (a) in order to protect against the inappropriate disclosures of such information and ensure the safety of such volunteers.
+> - **(c)** *Penalty* Any Peace Corps volunteer or staff member who is responsible for maintaining confidentiality under subsection (a) and who breaches such duty shall be subject to disciplinary action, including termination, and in the case of a staff member, ineligibility for re-employment with the Peace Corps.
+>
+> ## § 8H. Removal and assessment and evaluation
+>
+> - **(a)** *In general* If a volunteer requests removal from the site in which such volunteer is serving because the volunteer feels at risk of imminent bodily harm, the President shall, as expeditiously as practical after receiving such request, remove the volunteer from the site. If the President receives such a request, the President shall assess and evaluate the safety of such site and may not assign another volunteer to the site until such time as the assessment and evaluation is complete and the site has been determined to be safe. Volunteers may remain at a site during the assessment and evaluation.
+> - **(b)** *Determination of site as unsafe* If the President determines that a site is unsafe for any remaining volunteers at the site, the President shall, as expeditiously as practical, remove all volunteers from the site.
+> - **(c)** *Tracking and recording* The President shall establish a global tracking and recording system to track and record incidents of crimes against volunteers.
+>
+> ## § 8I. Reporting requirements
+>
+> - **(a)** *In general* The President shall annually submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report summarizing information on—
+>   - **(1)** sexual assault of volunteers;
+>   - **(2)** other crimes against volunteers;
+>   - **(3)** the number of arrests, prosecutions, and incarcerations for crimes involving Peace Corps volunteers for every country in which volunteers serve; and
+>   - **(4)** the annual rate of early termination of volunteers, including demographic data associated with such early termination.
+> - **(b)** *GAO* Not later than one year after the date of the enactment of this section, the Comptroller General of the United States shall submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report evaluating the quality and accessibility of health care provided through the Department of Labor to returned volunteers upon their separation from the Peace Corps.
 > - **(c)** *Access to communications*
->   - **(1)** *In general* The Director of the Peace Corps, in coordination with all Country Directors, shall determine the level of access to communication, including cellular and Internet access, of each volunteer.
->   - **(2)** *Report* Not later than six months after the date of the enactment of this section, the Director of the Peace Corps shall submit to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate a report on the costs of providing all volunteers with access to adequate communication, including cellular service and Internet access.
-> - **(d)** *Report on monitoring and evaluation* Not later than one year after the date of the enactment of this section and annually thereafter, the Director of the Peace Corps shall submit to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate a report on the monitoring and evaluation of Peace Corps programs and Country Directors, including information on the following:
->   - **(1)** A description of the monitoring and evaluation activities conducted in the preceding year.
->   - **(2)** A forecast of the monitoring and evaluation activities planned for the subsequent year.
->   - **(3)** A description of the ways in which the results of the monitoring and evaluation activities have informed the design and operation of development policies and programs during the preceding year.
+>   - **(1)** *In general* The President shall determine the level of access to communication, including cellular and Internet access, of each volunteer.
+>   - **(2)** *Report* Not later than six months after the date of the enactment of this section, the President shall submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report on the costs, feasibility, and benefits of providing all volunteers with access to adequate communication, including cellular service and Internet access.
 
-## § 3. Conforming amendments
+## § 3. Retention of counsel for crime victims
 
-- **(a)** *Inclusion of sexual assault risk-Reduction and response training* The Peace Corps Act is amended—
+Section 5(l) of the Peace Corps Act (22 U.S.C. 2504(l)) is amended by inserting before the period at the end the following: “and counsel may be employed and counsel fees, court costs and other expenses may be paid in the support of volunteers who are parties, complaining witnesses, or otherwise participating in the prosecution of crimes committed against such volunteers”.
+
+## § 4. Sense of Congress on staffing of Office of Victim Advocacy
+
+It is the sense of Congress that—
+
+- **(1)** the Office of Victim Advocacy established under section 8C of the Peace Corps Act, as added by section 2, should provide an adequate number of victim advocates so that each victim of crime receives critical information and support;
+- **(2)** any full-time victim advocates and any additional victim advocates should be credentialed by a national victims assistance body; and
+- **(3)** the training required under section 8A(a) of the Peace Corps Act, as added by section 2, should be credentialed by a national victims assistance body.
+
+## § 5. Personal service contracts
+
+The Peace Corps Act is amended—
+
+- **(1)** in section 7(a)(3) (22 U.S.C. 2506(a)(3)), by inserting “, or contracted with for personal services under section 10(a)(5),” after “employed, appointed, or assigned under this subsection”; and
+- **(2)** in section 10(a)(5) (22 U.S.C. 2509(a)(5)), by striking “any purpose” and inserting “the purposes of any law administered by the Office of Personnel Management (except that the President may determine the applicability to such individuals of provisions of the Foreign Service Act of 1980 (22 U.S.C. 3901 et seq.))”.
+
+## § 6. Independence of the Inspector General of the Peace Corps
+
+Section 7(a) of the Peace Corps Act (22 U.S.C. 2506(a)) is amended by adding at the end the following new paragraph:
+
+> - **(7)** The limitations specified in subparagraphs (A) and (B) of paragraph (2) and in paragraph (5) shall not apply to—
+>   - **(A)** the Inspector General of the Peace Corps; and
+>   - **(B)** officers and employees of the Office of the Inspector General of the Peace Corps.
+
+## § 7. Conforming safety and security agreement regarding Peace Corps volunteers serving in foreign countries
+
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Director of the Peace Corps shall consult with the Assistant Secretary of State for Diplomatic Security and enter into a memorandum of understanding that specifies the duties and obligations of the Peace Corps and the Bureau of Diplomatic Security of the Department of State with respect to the protection of Peace Corps volunteers and staff members serving in foreign countries, including with respect to investigations of safety and security incidents and crimes committed against volunteers and staff members.
+- **(b)** *Inspector general review*
+  - **(1)** *Review* The Inspector General of the Peace Corps shall review the memorandum of understanding described in subsection (a) and be afforded the opportunity to recommend changes that advance the safety and security of Peace Corps volunteers before entry into force of the memorandum of understanding.
+  - **(2)** *Report* The Director of the Peace Corps shall consider the recommendations of the Inspector General of the Peace Corps regarding the memorandum of understanding described in subsection (a). If the Director enters into the memorandum of understanding without implementing a recommendation of the Inspector General, the Director shall submit to the Inspector General a written explanation relating thereto.
+- **(c)** *Failure to meet deadline*
+  - **(1)** *Requirement to submit report* If, by the date that is 180 days after the date of the enactment of this Act, the Director of the Peace Corps is unable to obtain agreement with the Assistant Secretary of State for Diplomatic Security and certification by the Inspector General of the Peace Corps, the Director shall submit to the committees of Congress specified in paragraph (2) a report explaining the reasons for such failure and a certification that substantial steps are being taken to make progress toward agreement.
+  - **(2)** *Committees of congress specified* The committees of Congress specified in this paragraph are the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+## § 8. Portfolio reviews
+
+- **(a)** *In general* The Director of the Peace Corps shall, at least once every 3 years, perform a review to evaluate the allocation and delivery of resources across the countries the Peace Corps serves or is considering for service. Such portfolio reviews shall at a minimum include the following with respect to each such country:
+  - **(1)** An evaluation of the country's commitment to the Peace Corps program.
+  - **(2)** An analysis of the safety and security of volunteers.
+  - **(3)** An evaluation of the country's need for assistance.
+  - **(4)** An analysis of country program costs.
+  - **(5)** An evaluation of the effectiveness of management of each post within a country.
+  - **(6)** An evaluation of the country's congruence with the Peace Corp's mission and strategic priorities.
+- **(b)** *Briefing* Upon request of the Chairman and Ranking Member of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the Director of the Peace Corps shall brief such committees on each portfolio review required under subsection (a). If requested, each such briefing shall discuss performance measures and sources of data used (such as project status reports, volunteer surveys, impact studies, reports of Inspector General of the Peace Corps, and any relevant external sources) in making the findings and conclusions in such review.
+
+## § 9. Conforming amendments
+
+- **(a)** *Inclusion of sexual assault risk-reduction and response training* The Peace Corps Act is amended—
   - **(1)** in section 5(a) (22 U.S.C. 2504(a)), in the second sentence, by inserting “(including training under section 8A)” after “training”; and
   - **(2)** in section 8(a) (22 U.S.C. 2507(a)), in the first sentence, by inserting “, including training under section 8A,” after “training”.
 - **(b)** *Certain services* Section 5(e) of the Peace Corps Act (22 U.S.C. 2504(e)) is amended, in the first sentence—
-  - **(1)** by inserting “(including, if necessary, for volunteers and trainees, services under section 8C)” after “health care”; and
-  - **(2)** by inserting “including services provided in accordance with section 8C (except that the six-month limitation shall not apply in the case of such services),” before “as the President”.
+  - **(1)** by inserting “(including, if necessary, for volunteers and trainees, services under section 8B)” after “health care”; and
+  - **(2)** by inserting “including services provided in accordance with section 8B (except that the six-month limitation shall not apply in the case of such services),” before “as the President”.
+
+## § 10. Offset of costs and personnel
+
+Notwithstanding any other provision of law, the Direct of the Peace Corps shall—
+
+- **(1)** eliminate such initiatives, positions, and programs within the Peace Corps (other than within the Office of Inspector General) as the Director deems necessary to ensure any and all costs incurred to carry out the provisions of this Act, and the amendments made by this Act, are entirely offset;
+- **(2)** ensure no net increase in personnel are added to carry out the provisions of this Act, with any new full or part time employees or equivalents offset by eliminating an equivalent number of existing staff (other than within the Office of Inspector General);
+- **(3)** report to Congress not later than 60 days after the date of the enactment of this Act the actions taken to ensure compliance with paragraphs (1) and (2), including the specific initiatives, positions, and programs within the Peace Corps that have been eliminated to ensure that the costs of carrying out this Act will be offset; and
+- **(4)** not implement any other provision of this Act (other than paragraphs (1), (2), and (3)) or any amendment made by this Act until the Director has certified that the actions specified in paragraphs (1), (2), and (3) have been completed.
+
+## § 11. Sunset
+
+This Act and the amendments made by this Act shall cease to be effective 7 years after the date of the enactment of this Act.
