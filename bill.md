@@ -13,20 +13,20 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *In general* Notwithstanding any other provision of law, the Administrator of the Rural Utilities Service or the Assistant Secretary of Commerce for Communications and Information shall take prompt and appropriate action to terminate for cause any award made under the Broadband Initiatives Program or the Broadband Technology Opportunities Program, respectively, established pursuant to the American Recovery and Reinvestment Act of 2009, if the Administrator or Assistant Secretary determines that cause exists to terminate the award. Such cause may include an insufficient level of performance, wasteful spending, or fraudulent spending.
 - **(b)** *Deobligation and return of funds to Treasury*
-  - **(1)** *Deobligation* Upon terminating an award under subsection (a), the Administrator or the Assistant Secretary shall immediately deobligate an amount equivalent to such award, as recoverable, less allowable costs.
+  - **(1)** *Deobligation* Upon terminating an award under subsection (a), the Administrator or the Assistant Secretary shall immediately deobligate an amount equivalent to such award, less allowable costs, to the extent funds with respect to such award are available in the account relating to the Broadband Initiatives Program or the Broadband Technology Opportunities Program, respectively. If the Administrator or the Assistant Secretary subsequently recovers any additional amounts from such award, the Administrator or the Assistant Secretary shall deobligate such additional amounts immediately upon receipt.
   - **(2)** *Return to Treasury* Not later than 30 days after deobligating an amount under paragraph (1), the Administrator or the Assistant Secretary shall, without exception, return such amount to the general fund of the Treasury of the United States.
   - **(3)** *No expenditures during termination process* The Administrator or the Assistant Secretary shall promptly pursue available corrective measures to ensure that funds received through an award terminated under subsection (a) are not expended during the termination process.
   - **(4)** *Accounting by award recipient* The Administrator or the Assistant Secretary shall direct the recipient of an award terminated under subsection (a) to provide to the Administrator or the Assistant Secretary a complete and accurate accounting, which may include an independent accounting, for any award funds that, as of the date of termination, the recipient has received but has not expended on allowable costs.
 
 ## § 2. Disposition of unused funds
 
-The Administrator of the Rural Utilities Service or the Assistant Secretary of Commerce for Communications and Information shall return to the general fund of the Treasury of the United States an amount equivalent to any award, as recoverable, less allowable costs, made under the Broadband Initiatives Program or the Broadband Technology Opportunities Program, respectively, established pursuant to the American Recovery and Reinvestment Act of 2009, if such award has been returned to the Administrator or Assistant Secretary or disclaimed by the award recipient at any time after the date of enactment of such Act.
+The Administrator of the Rural Utilities Service or the Assistant Secretary of Commerce for Communications and Information shall return to the general fund of the Treasury of the United States an amount equivalent to any award, less allowable costs, made under the Broadband Initiatives Program or the Broadband Technology Opportunities Program, respectively, established pursuant to the American Recovery and Reinvestment Act of 2009, if such award has been returned to the Administrator or Assistant Secretary or disclaimed by the award recipient at any time after the date of enactment of such Act.
 
 ## § 3. Oversight and reporting requirements
 
 - **(a)** *Action on information from OIG or GAO* If the Administrator of the Rural Utilities Service or the Assistant Secretary of Commerce for Communications and Information receives information from an official described in subsection (b) with respect to an award made under the Broadband Initiatives Program or the Broadband Technology Opportunities Program, respectively, established pursuant to the American Recovery and Reinvestment Act of 2009, and such information pertains to material noncompliance with the award terms or provisions or improper usage of award funds, the Administrator or the Assistant Secretary shall—
   - **(1)** immediately review such information; and
-  - **(2)** not later than 30 days after receiving such information, determine whether cause exists to terminate such award under section 1(a).
+  - **(2)** not later than 30 days after receiving such information, determine whether cause exists to terminate such award under section 1(a), unless the official who provided such information recommends that the Administrator or the Assistant Secretary limit or not make such a determination.
 - **(b)** *Officials described* The officials described in this subsection are the following:
   - **(1)** With respect to the Broadband Initiatives Program, the Inspector General of the Department of Agriculture.
   - **(2)** With respect to the Broadband Technology Opportunities Program, the Inspector General of the Department of Commerce.
@@ -38,6 +38,9 @@ The Administrator of the Rural Utilities Service or the Assistant Secretary of C
   - **(2)** *Contents of notification* The notification required by paragraph (1) shall include an explanation of—
     - **(A)** the determination described in subsection (a)(2); and
     - **(B)** any action taken as a result of the determination or why no action was necessary.
+  - **(3)** *Confidential notification under certain circumstances* In the case of a determination by the Administrator or the Assistant Secretary under subsection (a)(2) that cause does not exist to terminate the award, the Administrator or the Assistant Secretary may make the congressional notification required by paragraph (1)(A) on a confidential basis, if the Administrator or the Assistant Secretary determines, after consultation with the official who provided the information described in subsection (a), that—
+    - **(A)** there is no merit to such information; and
+    - **(B)** notification on a public basis would cause irreparable harm to any person the information is regarding.
 
 ## § 4. Conforming amendments
 
