@@ -1,7 +1,7 @@
 ---
 measure: S. 1280
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1280
@@ -50,9 +50,10 @@ Kate Puzey Peace Corps Volunteer Protection Act of 2011
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -71,3 +72,6 @@ Kate Puzey Peace Corps Volunteer Protection Act of 2011
 - 2011-09-26 — Senate amendment proposed (on the floor): Amendment SA 668 proposed by Senator Reid for Senator Isakson.(consideration: CR S6007)
 - 2011-09-26 — Senate amendment submitted
 - 2011-09-26 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2011-09-27 — Message on Senate action sent to the House.
+- 2011-09-29 — Received in the House.
+- 2011-09-29 — Referred to the House Committee on Foreign Affairs.
