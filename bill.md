@@ -1,8 +1,8 @@
 ---
 legis-num: S. 1280
-congress: 112th CONGRESS
+congress: One Hundred Twelfth Congress of the United States of America
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1280
@@ -85,6 +85,7 @@ The Peace Corps Act is amended by inserting after section 8 (22 U.S.C. 2507) the
 >   - **(3)** *Priority* The Office of Victim Advocacy shall give priority to cases involving serious crimes, including sexual assault and stalking.
 > - **(c)** *Status updates* The Office of Victim Advocacy shall provide to volunteers who are victims regular updates on the status of their cases if such volunteers have opted to pursue prosecution.
 > - **(d)** *Transition* The Office of Victim Advocacy shall assist volunteers who are victims of crime and whose service has terminated in receiving the services specified in section 8B(c) requested by such volunteer.
+> - **(e)** *Sunset* This section shall cease to be effective on October 1, 2018.
 >
 > ## § 8D. Establishment of Sexual Assault Advisory Council
 >
@@ -94,18 +95,28 @@ The Peace Corps Act is amended by inserting after section 8 (22 U.S.C. 2507) the
 > - **(d)** *Reports* On an annual basis for 5 years after the date of the enactment of this section and at the discretion of the Council thereafter, the Council shall submit to the President and the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report on its findings based on the reviews conducted pursuant to subsection (c).
 > - **(e)** *Employee status* Members of the Council shall not be considered employees of the United States Government for any purpose and shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with section 5703 of title 5, United States Code.
 > - **(f)** *Nonapplicability of FACA* The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
+> - **(g)** *Sunset* This section shall cease to be effective on October 1, 2018.
 >
 > ## § 8E. Volunteer feedback and Peace Corps review
 >
 > - **(a)** *Monitoring and evaluation* Not later than 1 year after the date of the enactment of this section, the President shall establish goals, metrics, and monitoring and evaluation plans for all Peace Corps programs. Monitoring and evaluation plans shall incorporate best practices from monitoring and evaluation studies and analyses.
 > - **(b)** *Performance plans and elements* The President shall establish performance plans with performance elements and standards for Peace Corps representatives and shall review the performance of Peace Corps representatives not less than annually to determine whether they have met these performance elements and standards. Nothing in this subsection shall be construed as limiting the discretion of the President to remove a Peace Corps representative.
-> - **(c)** *Annual volunteer surveys* The President shall annually conduct a confidential survey of volunteers regarding the effectiveness of Peace Corps programs and staff and the safety of volunteers. The results shall be provided in aggregate form without identifying information to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives. Results from the annual volunteer survey shall be considered in reviewing the performance of Peace Corps representatives under subsection (a).
+> - **(c)** *Annual volunteer surveys* Annually through September 30, 2018, the President shall conduct a confidential survey of volunteers regarding the effectiveness of Peace Corps programs and staff and the safety of volunteers. The results shall be provided in aggregate form without identifying information to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives. Results from the annual volunteer survey shall be considered in reviewing the performance of Peace Corps representatives under subsection (a).
 > - **(d)** *Peace Corps Inspector General* The Inspector General of the Peace Corps shall—
 >   - **(1)** submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives—
->     - **(A)** a biennial report on reports received from volunteers relating to misconduct, mismanagement, or policy violations of Peace Corps staff, any breaches of the confidentiality of volunteers, and any actions taken to assure the safety of volunteers who provide such reports;
->     - **(B)** a report, not later than two years after the date of the enactment of this section and every three years thereafter, evaluating the effectiveness and implementation of the sexual assault risk-reduction and response training developed under section 8A and the sexual assault policy developed under section 8B, including a case review of a statistically significant number of cases; and
+>     - **(A)** a report, not later than one year after the date of the enactment of this section, and biennially through September 30, 2018, on reports received from volunteers relating to misconduct, mismanagement, or policy violations of Peace Corps staff, any breaches of the confidentiality of volunteers, and any actions taken to assure the safety of volunteers who provide such reports;
+>     - **(B)** a report, not later than two years and five years after the date of the enactment of this section, evaluating the effectiveness and implementation of the sexual assault risk-reduction and response training developed under section 8A and the sexual assault policy developed under section 8B, including a case review of a statistically significant number of cases; and
 >     - **(C)** a report, not later than two years after the date of the enactment of this section, describing how Peace Corps representatives are hired, how Peace Corps representatives are terminated, and how Peace Corps representatives hire staff, including an assessment of the implementation of the performance plans described in subsection (b); and
 >   - **(2)** when conducting audits or evaluations of Peace Corps programs overseas, notify the Director of the Peace Corps about the results of such evaluations, including concerns the Inspector General has noted, if any, about the performance of Peace Corps representatives, for appropriate action.
+> - **(e)** *Portfolio reviews*
+>   - **(1)** *In General* The President shall, at least once every 3 years, perform a review to evaluate the allocation and delivery of resources across the countries the Peace Corps serves or is considering for service. Such portfolio reviews shall at a minimum include the following with respect to each such country:
+>     - **(A)** An evaluation of the country’s commitment to the Peace Corps program.
+>     - **(B)** An analysis of the safety and security of volunteers.
+>     - **(C)** An evaluation of the country’s need for assistance.
+>     - **(D)** An analysis of country program costs.
+>     - **(E)** An evaluation of the effectiveness of management of each post within a country.
+>     - **(F)** An evaluation of the country’s congruence with the Peace Corp’s mission and strategic priorities.
+>   - **(2)** *Briefing* Upon request of the Chairman and Ranking Member of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall brief such committees on each portfolio review required under paragraph (1). If requested, each such briefing shall discuss performance measures and sources of data used (such as project status reports, volunteer surveys, impact studies, reports of Inspector General of the Peace Corps, and any relevant external sources) in making the findings and conclusions in such review.
 >
 > ## § 8F. Establishment of a policy on stalking
 >
@@ -130,7 +141,7 @@ The Peace Corps Act is amended by inserting after section 8 (22 U.S.C. 2507) the
 >
 > ## § 8I. Reporting requirements
 >
-> - **(a)** *In general* The President shall annually submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report summarizing information on—
+> - **(a)** *In general* The President shall annually through September 30, 2018, submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report summarizing information on—
 >   - **(1)** sexual assault of volunteers;
 >   - **(2)** other crimes against volunteers;
 >   - **(3)** the number of arrests, prosecutions, and incarcerations for crimes involving Peace Corps volunteers for every country in which volunteers serve; and
@@ -177,18 +188,7 @@ Section 7(a) of the Peace Corps Act (22 U.S.C. 2506(a)) is amended by adding at 
   - **(1)** *Requirement to submit report* If, by the date that is 180 days after the date of the enactment of this Act, the Director of the Peace Corps is unable to obtain agreement with the Assistant Secretary of State for Diplomatic Security and certification by the Inspector General of the Peace Corps, the Director shall submit to the committees of Congress specified in paragraph (2) a report explaining the reasons for such failure and a certification that substantial steps are being taken to make progress toward agreement.
   - **(2)** *Committees of congress specified* The committees of Congress specified in this paragraph are the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
-## § 8. Portfolio reviews
-
-- **(a)** *In general* The Director of the Peace Corps shall, at least once every 3 years, perform a review to evaluate the allocation and delivery of resources across the countries the Peace Corps serves or is considering for service. Such portfolio reviews shall at a minimum include the following with respect to each such country:
-  - **(1)** An evaluation of the country's commitment to the Peace Corps program.
-  - **(2)** An analysis of the safety and security of volunteers.
-  - **(3)** An evaluation of the country's need for assistance.
-  - **(4)** An analysis of country program costs.
-  - **(5)** An evaluation of the effectiveness of management of each post within a country.
-  - **(6)** An evaluation of the country's congruence with the Peace Corp's mission and strategic priorities.
-- **(b)** *Briefing* Upon request of the Chairman and Ranking Member of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the Director of the Peace Corps shall brief such committees on each portfolio review required under subsection (a). If requested, each such briefing shall discuss performance measures and sources of data used (such as project status reports, volunteer surveys, impact studies, reports of Inspector General of the Peace Corps, and any relevant external sources) in making the findings and conclusions in such review.
-
-## § 9. Conforming amendments
+## § 8. Conforming amendments
 
 - **(a)** *Inclusion of sexual assault risk-reduction and response training* The Peace Corps Act is amended—
   - **(1)** in section 5(a) (22 U.S.C. 2504(a)), in the second sentence, by inserting “(including training under section 8A)” after “training”; and
@@ -197,7 +197,7 @@ Section 7(a) of the Peace Corps Act (22 U.S.C. 2506(a)) is amended by adding at 
   - **(1)** by inserting “(including, if necessary, for volunteers and trainees, services under section 8B)” after “health care”; and
   - **(2)** by inserting “including services provided in accordance with section 8B (except that the six-month limitation shall not apply in the case of such services),” before “as the President”.
 
-## § 10. Offset of costs and personnel
+## § 9. Offset of costs and personnel
 
 Notwithstanding any other provision of law, the Direct of the Peace Corps shall—
 
@@ -205,7 +205,3 @@ Notwithstanding any other provision of law, the Direct of the Peace Corps shall�
 - **(2)** ensure no net increase in personnel are added to carry out the provisions of this Act, with any new full or part time employees or equivalents offset by eliminating an equivalent number of existing staff (other than within the Office of Inspector General);
 - **(3)** report to Congress not later than 60 days after the date of the enactment of this Act the actions taken to ensure compliance with paragraphs (1) and (2), including the specific initiatives, positions, and programs within the Peace Corps that have been eliminated to ensure that the costs of carrying out this Act will be offset; and
 - **(4)** not implement any other provision of this Act (other than paragraphs (1), (2), and (3)) or any amendment made by this Act until the Director has certified that the actions specified in paragraphs (1), (2), and (3) have been completed.
-
-## § 11. Sunset
-
-This Act and the amendments made by this Act shall cease to be effective 7 years after the date of the enactment of this Act.
