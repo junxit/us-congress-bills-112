@@ -1,7 +1,7 @@
 ---
 measure: H.R. 470
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -40,7 +40,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraphs (2), (3), and (4) as paragraphs (3), (4), and (5), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | replace | in the first sentence, by striking “schedule A of section 105(a)(1)(A) and schedule B of section 105(a)(1)(B)” and inserting “paragraphs (1)(A), (1)(B), and (2)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “any” and inserting “each”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “any” each place it appears and inserting “each”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “schedule C” and inserting “Schedule C”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “schedules A and B” and inserting “Schedules A, B, and D”. | the bill names no machine-readable US Code section |
 | — | redesignate | Paragraph (4) of section 105(a) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(a)) (as redesignated as subsection (d)(1)) is amended to read as follows: | the bill names no machine-readable US Code section |

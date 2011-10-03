@@ -46,11 +46,11 @@ This Act may be cited as the “Hoover Power Allocation Act of 2011”.
 - **(e)** *Total obligations* Paragraph (3) of section 105(a) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(a)) (as redesignated as subsection (d)(1)) is amended—
   - **(1)** in the first sentence, by striking “schedule A of section 105(a)(1)(A) and schedule B of section 105(a)(1)(B)” and inserting “paragraphs (1)(A), (1)(B), and (2)”; and
   - **(2)** in the second sentence—
-    - **(A)** by striking “any” and inserting “each”;
+    - **(A)** by striking “any” each place it appears and inserting “each”;
     - **(B)** by striking “schedule C” and inserting “Schedule C”; and
     - **(C)** by striking “schedules A and B” and inserting “Schedules A, B, and D”.
 - **(f)** *Power marketing criteria* Paragraph (4) of section 105(a) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(a)) (as redesignated as subsection (d)(1)) is amended to read as follows:
-  > - **(4)** Subdivision E of the Criteria shall be deemed to have been modified to conform to this section, as modified by the Hoover Power Allocation Act of 2011. The Secretary of Energy shall cause to be included in the Federal Register a notice conforming the text of the regulations to such modifications.
+  > - **(4)** Subdivision C of the Criteria shall be deemed to have been modified to conform to this section, as modified by the Hoover Power Allocation Act of 2011. The Secretary of Energy shall cause to be included in the Federal Register a notice conforming the text of the regulations to such modifications.
 
 - **(g)** *Contract terms* Paragraph (5) of section 105(a) of the Hoover Power Plant Act of 1984 (43 U.S.C. 619a(a)) (as redesignated as subsection (d)(1)) is amended—
   - **(1)** by striking subparagraph (A) and inserting the following:
