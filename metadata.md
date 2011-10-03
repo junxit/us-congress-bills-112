@@ -1,7 +1,7 @@
 ---
 measure: H.R. 670
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 670
@@ -42,6 +42,10 @@ To convey certain submerged lands to the Commonwealth of the Northern Mariana Is
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2011-10-03 — [House 112-1-744](votes/house-112-1-0744.md) — On Motion to Suspend the Rules and Pass — **Passed** (397–0)
+
 ## Actions
 
 - 2011-02-11 — Introduced in House
@@ -55,3 +59,11 @@ To convey certain submerged lands to the Commonwealth of the Northern Mariana Is
 - 2011-07-20 — Placed on the Union Calendar, Calendar No. 107.
 - 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-162.
 - 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-162.
+- 2011-10-03 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-10-03 — Considered as unfinished business. (consideration: CR H6487)
+- 2011-10-03 — Considered under suspension of the rules. (consideration: CR H6480-6481)
+- 2011-10-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 670.
+- 2011-10-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-03 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
+- 2011-10-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 744). (text: CR H6480)
+- 2011-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 744).(text: CR H6480)
