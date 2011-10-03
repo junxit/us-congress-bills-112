@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2838
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2838
@@ -29,3 +29,10 @@ Coast Guard and Maritime Transportation Act of 2012
 - 2011-09-02 — Introduced in House
 - 2011-09-02 — Introduced in House
 - 2011-09-02 — Referred to the House Committee on Transportation and Infrastructure.
+- 2011-09-06 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2011-09-08 — Committee Consideration and Mark-up Session Held.
+- 2011-09-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2011-09-08 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2011-10-03 — Placed on the Union Calendar, Calendar No. 150.
+- 2011-10-03 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 112-229.
+- 2011-10-03 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 112-229.
