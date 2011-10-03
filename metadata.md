@@ -1,7 +1,7 @@
 ---
 measure: H.R. 489
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 489
@@ -35,3 +35,9 @@ To clarify the jurisdiction of the Secretary of the Interior with respect to the
 - 2011-07-20 — Placed on the Union Calendar, Calendar No. 105.
 - 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-160.
 - 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-160.
+- 2011-10-03 — Considered under suspension of the rules. (consideration: CR H6473-6475)
+- 2011-10-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 489.
+- 2011-10-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-03 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
+- 2011-10-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6473-6474)
+- 2011-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6473-6474)
