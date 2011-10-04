@@ -1,7 +1,7 @@
 ---
 measure: H.R. 686
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 686
@@ -21,9 +21,10 @@ Utah National Guard Readiness Act
 - Rep. Matheson, Jim [D-UT-2] (M001142)
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Utah National Guard Readiness Act
 - 2011-10-03 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
 - 2011-10-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 742). (text: CR H6470)
 - 2011-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 742).(text: CR H6470)
+- 2011-10-04 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
