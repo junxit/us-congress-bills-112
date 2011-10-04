@@ -1,7 +1,7 @@
 ---
 measure: H.R. 470
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 470
@@ -80,3 +80,4 @@ Hoover Power Allocation Act of 2011
 - 2011-10-03 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
 - 2011-10-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6476-6479)
 - 2011-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6476-6479)
+- 2011-10-04 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 185.
