@@ -1,7 +1,7 @@
 ---
 measure: H.R. 765
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 765
@@ -61,3 +61,4 @@ Ski Area Recreational Opportunity Enhancement Act of 2011
 - 2011-10-03 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2011-10-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 743). (text: CR H6471-6472)
 - 2011-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 743).(text: CR H6471-6472)
+- 2011-10-04 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 186.
