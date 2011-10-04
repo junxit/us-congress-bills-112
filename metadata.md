@@ -1,7 +1,7 @@
 ---
 measure: H.R. 473
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 473
@@ -16,9 +16,10 @@ HALE Scouts Act
 
 - Rep. Boren, Dan [D-OK-2] (B001254)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ HALE Scouts Act
 - 2011-10-03 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
 - 2011-10-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6475)
 - 2011-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6475)
+- 2011-10-04 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
