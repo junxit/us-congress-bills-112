@@ -1,7 +1,7 @@
 ---
 measure: H.R. 489
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 489
@@ -41,3 +41,4 @@ To clarify the jurisdiction of the Secretary of the Interior with respect to the
 - 2011-10-03 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2011-10-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6473-6474)
 - 2011-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6473-6474)
+- 2011-10-04 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 184.
