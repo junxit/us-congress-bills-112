@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 266
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 266
@@ -29,3 +29,7 @@ A resolution supporting the goals and ideals of "National Save for Retirement We
 
 - 2011-09-14 — Introduced in Senate
 - 2011-09-14 — Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S5628)
+- 2011-10-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S6143)
+- 2011-10-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S6143)
+- 2011-10-04 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S6143)
+- 2011-10-04 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S6143)
