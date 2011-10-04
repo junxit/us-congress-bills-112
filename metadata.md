@@ -1,7 +1,7 @@
 ---
 measure: H.R. 489
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 489
@@ -42,3 +42,12 @@ To clarify the jurisdiction of the Secretary of the Interior with respect to the
 - 2011-10-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6473-6474)
 - 2011-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6473-6474)
 - 2011-10-04 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 184.
+- 2011-10-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6692)
+- 2011-10-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6692)
+- 2011-10-19 — Message on Senate action sent to the House.
+- 2011-10-31 — Presented to President.
+- 2011-10-31 — Presented to President.
+- 2011-11-07 — Became Public Law No: 112-45.
+- 2011-11-07 — Became Public Law No: 112-45.
+- 2011-11-07 — Signed by President.
+- 2011-11-07 — Signed by President.
