@@ -1,7 +1,7 @@
 ---
 measure: H.R. 670
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 670
@@ -38,9 +38,10 @@ To convey certain submerged lands to the Commonwealth of the Northern Mariana Is
 - Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -67,3 +68,4 @@ To convey certain submerged lands to the Commonwealth of the Northern Mariana Is
 - 2011-10-03 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2011-10-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 744). (text: CR H6480)
 - 2011-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 744).(text: CR H6480)
+- 2011-10-04 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

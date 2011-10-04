@@ -1,7 +1,7 @@
 ---
 measure: H.R. 670
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | The first section of Public Law 93–435 (48 U.S.C. 1705) is amended by inserting “the Commonwealth of the Northern Mariana Islands,” after “Guam,” each place it appears. | the bill names no machine-readable US Code section |
+| `48 U.S.C. § 1705` | insert | The first section of Public Law 93–435 (48 U.S.C. 1705) is amended by inserting “the Commonwealth of the Northern Mariana Islands,” after “Guam,” each place it appears. | the bill quotes the text inserted but describes where it goes |
