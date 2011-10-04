@@ -1,7 +1,7 @@
 ---
 measure: H.R. 473
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 473
@@ -41,3 +41,14 @@ HALE Scouts Act
 - 2011-10-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6475)
 - 2011-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6475)
 - 2011-10-04 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2012-03-15 — Message on Senate action sent to the House.
+- 2012-03-15 — Passed Senate without amendment by Unanimous Consent.
+- 2012-03-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-03-15 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S1760)
+- 2012-03-15 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S1760)
+- 2012-03-22 — Presented to President.
+- 2012-03-22 — Presented to President.
+- 2012-04-02 — Became Public Law No: 112-103.
+- 2012-04-02 — Became Public Law No: 112-103.
+- 2012-04-02 — Signed by President.
+- 2012-04-02 — Signed by President.
