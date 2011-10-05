@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1263
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 303 of the Servicemembers Civil Relief Act (50 U.S.C. App. 533) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 303 of the Servicemembers Civil Relief Act (50 U.S.C. App. 533) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (c) the following new subsection (d): | the bill names no machine-readable US Code section |
+| — | replace | Section 303(b) of the Servicemembers Civil Relief Act (50 U.S.C. App. 533(b)) is amended by striking “within 9 months” and inserting “within 12 months”. | the bill names no machine-readable US Code section |
+| — | replace | Section 303(c) of such Act (50 U.S.C. App. 533(c)) is amended by striking “within 9 months” and inserting “within 12 months”. | the bill names no machine-readable US Code section |
+| — | amend | Subsection (c) of section 2203 of the Housing and Economic Recovery Act of 2008 (Public Law 110–289; 50 U.S.C. App. 533 note) is amended to read as follows: | the bill names no machine-readable US Code section |

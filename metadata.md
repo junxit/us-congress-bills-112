@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1263
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1263
@@ -25,3 +25,13 @@ To amend the Servicemembers Civil Relief Act to provide surviving spouses with c
 - 2011-03-30 — Introduced in House
 - 2011-03-30 — Introduced in House
 - 2011-03-30 — Referred to the House Committee on Veterans' Affairs.
+- 2011-04-06 — Sponsor introductory remarks on measure. (CR E653)
+- 2011-04-15 — Referred to the Subcommittee on Economic Opportunity.
+- 2011-07-07 — Subcommittee Hearings Held.
+- 2011-07-21 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2011-07-21 — Subcommittee Consideration and Mark-up Session Held.
+- 2011-09-08 — Committee Consideration and Mark-up Session Held.
+- 2011-09-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2011-10-05 — Placed on the Union Calendar, Calendar No. 153.
+- 2011-10-05 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-234.
+- 2011-10-05 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-234.
