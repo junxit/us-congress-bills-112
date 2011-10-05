@@ -11,14 +11,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Veterans Sexual Assault Prevention Act”.
+This Act may be cited as the “Veterans Sexual Assault Prevention and Health Care Enhancement Act”.
 
 ## § 2. Comprehensive policy on reporting and tracking sexual assault incidents and other safety incidents
 
 - **(a)** *Policy* Subchapter I of chapter 17 of title 38, United States Code, is amended by adding at the end the following:
   > ## § 1709. Comprehensive policy on reporting and tracking sexual assault incidents and other safety incidents
   >
-  > - **(a)** *Policy required* Not later than October 1, 2011, the Secretary of Veterans Affairs shall develop and implement a centralized and comprehensive policy on the reporting and tracking of sexual assault incidents and other safety incidents that occur at each medical facility of the Department, including—
+  > - **(a)** *Policy required* Not later than March 1, 2012, the Secretary of Veterans Affairs shall develop and implement a centralized and comprehensive policy on the reporting and tracking of sexual assault incidents and other safety incidents that occur at each medical facility of the Department, including—
   >   - **(1)** suspected, alleged, attempted, or confirmed cases of sexual assault, regardless of whether such assaults lead to prosecution or conviction;
   >   - **(2)** criminal and purposefully unsafe acts;
   >   - **(3)** alcohol or substance abuse related acts (including by employees of the Department); and
@@ -56,3 +56,69 @@ This Act may be cited as the “Veterans Sexual Assault Prevention Act”.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding after the item relating to section 1708 the following:
 - **(c)** *Interim report* Not later than 30 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the House of Representatives and the Committee on Veterans’ Affairs of the Senate a report on the development of the performance measures described in section 1709(d)(2)(C) of title 38, United States Code, as added by subsection (a).
+
+## § 3. Increased flexibility in establishing payment rates for nursing home care provided by State homes
+
+- **(a)** *In general* Section 1745(a) of title 38, United States Code, is amended—
+  - **(1)** in paragraph (1), by striking “The Secretary shall pay each State home for nursing home care at the rate determined under paragraph (2)” and inserting “The Secretary shall enter into a contract (or agreement under section 1720(c)(1) of this title) with each State home for payment by the Secretary for nursing home care provided in the home”; and
+  - **(2)** by striking paragraph (2) and inserting the following new paragraph (2):
+    > - **(2)** Payment under each contract (or agreement) between the Secretary and a State home under paragraph (1) shall be based on a methodology, developed by the Secretary in consultation with the State home, to adequately reimburse the State home for the care provided by the State home under the contract (or agreement).
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to care provided on or after January 1, 2012.
+
+## § 4. Rehabilitative services for veterans with traumatic brain injury
+
+- **(a)** *Rehabilitation plans and services* Section 1710C of title 38, United States Code, is amended—
+  - **(1)** in subsection (a)(1), by inserting before the semicolon the following: “with the goal of maximizing the individual’s independence”;
+  - **(2)** in subsection (b)—
+    - **(A)** in paragraph (1)—
+      - **(i)** by inserting “(and sustaining improvement in)” after “improving”;
+      - **(ii)** by inserting “behavioral,” after “cognitive,”;
+    - **(B)** in paragraph (2), by inserting “rehabilitative services and” before “rehabilitative components”; and
+    - **(C)** in paragraph (3)—
+      - **(i)** by striking “treatments” the first place it appears and inserting “services”; and
+      - **(ii)** by striking “treatments and” the second place it appears; and
+  - **(3)** by adding at the end the following new subsection:
+    > - **(h)** *Rehabilitative services defined* For purposes of this section, and sections 1710D and 1710E of this title, the term “rehabilitative services” includes—
+    >   - **(1)** rehabilitative services, as defined in section 1701 of this title;
+    >   - **(2)** treatment and services (which may be of ongoing duration) to sustain, and prevent loss of, functional gains that have been achieved; and
+    >   - **(3)** any other rehabilitative services or supports that may contribute to maximizing an individual’s independence.
+
+- **(b)** *Rehabilitation services in comprehensive program for long-term rehabilitation* Section 1710D(a) of title 38, United States Code, is amended—
+  - **(1)** by inserting “and rehabilitative services (as defined in section 1710C of this title)” after “long-term care”; and
+  - **(2)** by striking “treatment”.
+- **(c)** *Rehabilitation services in authority for cooperative agreements for use of non-Department facilities for rehabilitation* Section 1710E(a) of title 38, United States Code, is amended by inserting “, including rehabilitative services (as defined in section 1710C of this title),” after “medical services”.
+- **(d)** *Technical amendment* Section 1710C(c)(2)(S) of title 38, United States Code, is amended by striking “opthamologist” and inserting “ophthalmologist”.
+
+## § 5. Use of service dogs on property of the Department of Veterans Affairs
+
+Section 901 of title 38, United States Code, is amended by adding at the end the following new subsection:
+
+> - **(f)** The Secretary may not prohibit the use of service dogs in any facility or on any property of the Department or in any facility or on any property that receives funding from the Secretary.
+
+## § 6. Department of veterans affairs pilot program on dog training therapy
+
+- **(a)** *In General* Commencing not later than 120 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall implement a three-year pilot program for the purpose of assessing the effectiveness of using dog training activities as a component of integrated post-deployment mental health and post-traumatic stress disorder rehabilitation programs at Department of Veterans Affairs medical centers to positively affect veterans with post-deployment mental health conditions and post-traumatic stress disorder symptoms and to produce specially trained dogs that meet criteria for becoming service dogs for veterans with disabilities.
+- **(b)** *Location of Pilot Program* The pilot program shall be carried out at between one and three Department of Veterans Affairs medical centers selected by the Secretary for such purpose. In selecting medical centers for the pilot program, the Secretary shall—
+  - **(1)** ensure that each medical center selected—
+    - **(A)** has an established mental health rehabilitation program that includes a clinical focus on rehabilitation treatment of post-deployment mental health conditions and post-traumatic stress disorder; and
+    - **(B)** has a demonstrated capability and capacity to incorporate service dog training activities into the rehabilitation program; and
+  - **(2)** shall review and consider using recommendations published by Assistance Dogs International, International Guide Dog Federation, or comparably recognized experts in the art and science of basic dog training with regard to space, equipments, and methodologies.
+- **(c)** *Design of Pilot Program* In carrying out the pilot program, the Secretary shall—
+  - **(1)** administer the program through the Department of Veterans Affairs Patient Care Services Office as a collaborative effort between the Rehabilitation Office and the Office of Mental Health Services;
+  - **(2)** ensure that the national pilot program lead of the Patient Care Services Office has sufficient administrative experience to oversee all pilot program sites;
+  - **(3)** establish partnerships through memorandums of understanding with Assistance Dog International organizations, International Guide Dog Federation organizations, academic affiliates, or organizations with equivalent credentials with experience in teaching others to train service dogs for the purpose of advising the Department of Veterans Affairs regarding the design, development, and implementation of pilot program;
+  - **(4)** ensure that each pilot program site has obtained a service dog training instructor certified by Assistance Dog International, International Guide Dog Federation, or an organization with equivalent credentials to oversee service dog training activities;
+  - **(5)** ensure that dogs selected for use in the program meet all health clearance, age, and temperament criteria as outlined by Assistance Dog International, International Guide Dog Federation, or an organization with equivalent credentials and the Centers for Disease Control and Prevention;
+  - **(6)** consider dogs residing in animal shelters or foster homes for participation in the program if such dogs meet the selection criteria under this subsection; and
+  - **(7)** ensure that each dog selected for the program is taught all basic commands and behaviors essential to being accepted by an accredited service dog training organization to be partnered with a disabled veteran for final individualized service dog training tailored to meet the needs of the veteran.
+- **(d)** *Veteran Participation* A veteran diagnosed with post-traumatic stress disorder or another post-deployment mental health condition may volunteer to participate in the pilot program required by subsection (a) and may participate in the program if the Secretary determines that adequate program resources are available for such veteran to participate at the pilot program site.
+- **(e)** *Hiring Preference* In selecting service dog training instructors for the pilot program, the Secretary shall give a preference to a veteran who successfully completed a post-traumatic stress disorder or other residential treatment program and who has received certification in service dog training from an Assistance Dog International or International Guide Dog Federation accredited program.
+- **(f)** *Collection of Data* The Secretary shall collect data on the pilot program to determine the effectiveness of the program in positively affecting veterans with post-traumatic stress disorder or other post-deployment mental health conditions and the potential for expanding the program to additional Department of Veterans Affairs medical centers. Such data shall be collected and analyzed using valid and reliable methodologies and instruments.
+- **(g)** *Reports to Congress*
+  - **(1)** *Annual reports* Not later than one year after the date of the commencement of the pilot program, and annually thereafter for the duration of the pilot program, the Secretary shall submit to Congress a report on the pilot program. Each such report shall include—
+    - **(A)** the number of veterans participating in the pilot program;
+    - **(B)** a description of the services carried out by the Secretary under the pilot program;
+    - **(C)** the effects that participating in the pilot program has on veterans with post-traumatic stress disorder and post-deployment mental health conditions;
+  - **(2)** *Final report* At the conclusion of pilot program, the Secretary shall submit to Congress a final report that includes recommendations with respect to the extension or expansion of the pilot program.
+- **(h)** *Definition* For the purposes of this section, the term “service dog training instructor” means an instructor recognized by an accredited dog organization training program who provides hands-on training in the art and science of service dog training and handling.
