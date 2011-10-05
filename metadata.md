@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1343
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1343
@@ -65,3 +65,9 @@ To return unused or reclaimed funds made available for broadband awards in the A
 - 2011-09-29 — Placed on the Union Calendar, Calendar No. 149.
 - 2011-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-228, Part I.
 - 2011-09-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-228, Part I.
+- 2011-10-05 — Considered under suspension of the rules. (consideration: CR H6570-6573)
+- 2011-10-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1343.
+- 2011-10-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-05 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
+- 2011-10-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6570)
+- 2011-10-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6570)
