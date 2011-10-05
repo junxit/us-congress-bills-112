@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2302
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2302
@@ -25,3 +25,12 @@ To amend title 38, United States Code, to direct the Secretary of Veterans Affai
 - 2011-06-22 — Introduced in House
 - 2011-06-22 — Introduced in House
 - 2011-06-22 — Referred to the House Committee on Veterans' Affairs.
+- 2011-07-07 — Hearings Held by the Subcommittee on Economic Opportunity Prior to Referral.
+- 2011-07-08 — Referred to the Subcommittee on Economic Opportunity.
+- 2011-07-21 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2011-07-21 — Subcommittee Consideration and Mark-up Session Held.
+- 2011-09-08 — Committee Consideration and Mark-up Session Held.
+- 2011-09-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2011-10-05 — Placed on the Union Calendar, Calendar No. 155.
+- 2011-10-05 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-236.
+- 2011-10-05 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-236.
