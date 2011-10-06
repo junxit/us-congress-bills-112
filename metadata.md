@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2944
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2944
@@ -52,3 +52,14 @@ United States Parole Commission Extension Act of 2011
 - 2011-10-06 — Senate amendment agreed to: Amendment SA 736 agreed to in Senate by Unanimous Consent.
 - 2011-10-06 — Senate amendment proposed (on the floor): Amendment SA 736 proposed by Senator Reid for Senator Coburn.(consideration: CR S6352; text: CR S6352)
 - 2011-10-06 — Senate amendment submitted
+- 2011-10-07 — Message on Senate action sent to the House.
+- 2011-10-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-12 — Mr. Smith (TX) asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H6841)
+- 2011-10-12 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H6841)
+- 2011-10-12 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H6841)
+- 2011-10-13 — Presented to President.
+- 2011-10-13 — Presented to President.
+- 2011-10-21 — Became Public Law No: 112-44.
+- 2011-10-21 — Became Public Law No: 112-44.
+- 2011-10-21 — Signed by President.
+- 2011-10-21 — Signed by President.
