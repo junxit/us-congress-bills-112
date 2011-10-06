@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3080
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 13031(b) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(b)) is amended by adding after paragraph (18) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (11) as paragraph (12); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (10) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | by striking “or”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “for which” and inserting “, or section 202 of the United States–Korea Free Trade Agreement Implementation Act for which”. | the bill names no machine-readable US Code section |
@@ -45,7 +45,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting before the period at the end “, and title III of the United States–Korea Free Trade Agreement Implementation Act”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “or” at the end of clause (vi); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of clause (vii) and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | replace | Section 6695(g) of the Internal Revenue Code of 1986 is amended by striking “$100” and inserting “$500”. | the bill names no machine-readable US Code section |
 | — | redesignate | Subchapter B of chapter 61 of the Internal Revenue Code of 1986 is amended by redesignating section 6116 as section 6117 and by inserting after section 6115 the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for such subchapter is amended by striking the item relating to section 6116 and by adding at the end the following new items: | the bill names no machine-readable US Code section |
