@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2944
 congress: 112
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2944
@@ -44,3 +44,11 @@ United States Parole Commission Extension Act of 2011
 - 2011-09-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 712). (text: CR H6243)
 - 2011-09-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 712).(text: CR H6243)
 - 2011-09-21 — Received in the Senate, read twice.
+- 2011-10-06 — Amendment SA 736 agreed to in Senate by Unanimous Consent.
+- 2011-10-06 — Amendment SA 736 proposed by Senator Reid for Senator Coburn. (consideration: CR S6352; text: CR S6352) To authorize a 2 year extension of the Parole Commission.
+- 2011-10-06 — Measure laid before Senate by unanimous consent. (consideration: CR S6351-6352)
+- 2011-10-06 — Passed Senate with an amendment by Unanimous Consent.
+- 2011-10-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2011-10-06 — Senate amendment agreed to: Amendment SA 736 agreed to in Senate by Unanimous Consent.
+- 2011-10-06 — Senate amendment proposed (on the floor): Amendment SA 736 proposed by Senator Reid for Senator Coburn.(consideration: CR S6352; text: CR S6352)
+- 2011-10-06 — Senate amendment submitted
