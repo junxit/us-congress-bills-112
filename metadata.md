@@ -1,7 +1,7 @@
 ---
 measure: S. 1639
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1639
@@ -16,9 +16,13 @@ A bill to amend title 36, United States Code, to authorize the American Legion u
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
 ## Committees (1)
 
@@ -28,3 +32,7 @@ A bill to amend title 36, United States Code, to authorize the American Legion u
 
 - 2011-10-03 — Introduced in Senate
 - 2011-10-03 — Read twice and referred to the Committee on the Judiciary.
+- 2011-10-06 — Passed Senate without amendment by Unanimous Consent. (text: CR S6352)
+- 2011-10-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6352)
+- 2011-10-06 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6352)
+- 2011-10-06 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6352)
