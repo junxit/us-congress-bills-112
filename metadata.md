@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1343
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1343
@@ -44,10 +44,11 @@ To return unused or reclaimed funds made available for broadband awards in the A
 - Rep. Upton, Fred [R-MI-6] (U000031)
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -71,3 +72,4 @@ To return unused or reclaimed funds made available for broadband awards in the A
 - 2011-10-05 — Mr. Walden moved to suspend the rules and pass the bill, as amended.
 - 2011-10-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6570)
 - 2011-10-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6570)
+- 2011-10-06 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
