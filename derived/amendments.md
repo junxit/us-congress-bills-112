@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1263
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 303 of the Servicemembers Civil Relief Act (50 U.S.C. App. 533) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 303 of the Servicemembers Civil Relief Act (50 U.S.C. App. 533) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (c) the following new subsection (d): | the bill names no machine-readable US Code section |

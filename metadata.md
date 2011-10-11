@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1263
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1263
@@ -35,3 +35,10 @@ To amend the Servicemembers Civil Relief Act to provide surviving spouses with c
 - 2011-10-05 — Placed on the Union Calendar, Calendar No. 153.
 - 2011-10-05 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-234.
 - 2011-10-05 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-234.
+- 2011-10-11 — Considered under suspension of the rules. (consideration: CR H6727-6729)
+- 2011-10-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1263.
+- 2011-10-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-11 — Mr. Runyan moved to suspend the rules and pass the bill, as amended.
+- 2011-10-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6727)
+- 2011-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6727)
+- 2011-10-11 — The title of the measure was amended. Agreed to without objection.
