@@ -1,7 +1,7 @@
 ---
 measure: S. 1642
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1642
@@ -29,3 +29,7 @@ United States-Korea Free Trade Agreement Implementation Act
 
 - 2011-10-03 — Introduced in Senate
 - 2011-10-03 — Read twice and referred to the Committee on Finance.
+- 2011-10-11 — Committee on Finance. Ordered to be reported without amendment favorably.
+- 2011-10-11 — Committee on Finance. Reported by Senator Baucus without amendment. Without written report.
+- 2011-10-11 — Committee on Finance. Reported by Senator Baucus without amendment. Without written report.
+- 2011-10-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 190.
