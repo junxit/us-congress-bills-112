@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1025
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1025
@@ -91,3 +91,9 @@ To amend title 38, United States Code, to recognize the service in the reserve c
 - 2011-10-05 — Placed on the Union Calendar, Calendar No. 152.
 - 2011-10-05 — Reported by the Committee on Veterans' Affairs. H. Rept. 112-233.
 - 2011-10-05 — Reported by the Committee on Veterans' Affairs. H. Rept. 112-233.
+- 2011-10-11 — Considered under suspension of the rules. (consideration: CR H6729-6730)
+- 2011-10-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1025.
+- 2011-10-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-11 — Mr. Runyan moved to suspend the rules and pass the bill.
+- 2011-10-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6729)
+- 2011-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6729)
