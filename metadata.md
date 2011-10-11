@@ -1,7 +1,7 @@
 ---
 measure: S. 1619
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 1619
@@ -16,7 +16,7 @@ Currency Exchange Rate Oversight Reform Act of 2011
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 
-## Cosponsors (19)
+## Cosponsors (88)
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Graham, Lindsey [R-SC] (G000359)
@@ -37,9 +37,200 @@ Currency Exchange Rate Oversight Reform Act of 2011
 - Sen. Hagan, Kay R. [D-NC] (H001049)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
 - Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Levin, Carl [D-MI] (L000261)
+
+## Recorded votes (4)
+
+- 2011-10-03 — [Senate 112-1-155](votes/senate-112-1-0155.md) — On the Cloture Motion — **Cloture Motion Agreed to** (79–19)
+- 2011-10-06 — [Senate 112-1-156](votes/senate-112-1-0156.md) — On the Cloture Motion — **Cloture Motion Agreed to** (62–38)
+- 2011-10-06 — [Senate 112-1-157](votes/senate-112-1-0157.md) — On the Decision of the Chair — **Decision of Chair Not Sustained** (48–51)
+- 2011-10-11 — [Senate 112-1-159](votes/senate-112-1-0159.md) — On Passage of the Bill — **Bill Passed** (63–35)
 
 ## Actions
 
 - 2011-09-22 — Introduced in Senate
 - 2011-09-22 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2011-09-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 183.
+- 2011-09-26 — Cloture motion on the motion to proceed to the bill presented in Senate. (consideration: CR S6003; text: CR S6003)
+- 2011-09-26 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S6003)
+- 2011-10-03 — Cloture on the motion to proceed to the bill invoked in Senate by Yea-Nay Vote. 79 - 19. Record Vote Number: 155. (consideration: CR S6034-6035, text: CR S6034)
+- 2011-10-03 — Motion to proceed to measure considered in Senate. (consideration: CR S6020-6027, S6034-6039)
+- 2011-10-03 — Senate amendment submitted
+- 2011-10-04 — Amendment SA 694 proposed by Senator Reid. (consideration: CR S6069; text: CR S6069) To change the enactment date.
+- 2011-10-04 — Amendment SA 695 proposed by Senator Reid to Amendment SA 694. (consideration: CR S6069; text: CR S6069) Of a perfecting nature.
+- 2011-10-04 — Amendment SA 696 proposed by Senator Reid. (consideration: CR S6069; text: CR S6069) To change the enactment date.
+- 2011-10-04 — Amendment SA 697 proposed by Senator Reid to Amendment SA 696. (consideration: CR S6069; text: CR S6069) Of a perfecting nature.
+- 2011-10-04 — Amendment SA 698 proposed by Senator Reid to Amendment SA 697. (consideration: CR S6069; text: CR S6069) Of a perfecting nature.
+- 2011-10-04 — Cloture motion on the bill presented in Senate. (consideration: CR S6085; text: CR S6085)
+- 2011-10-04 — Measure laid before Senate by motion. (consideration: CR S6069-6085)
+- 2011-10-04 — Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with amendment SA 696 made in Senate. (consideration: CR S6069)
+- 2011-10-04 — Motion to proceed to consideration of measure agreed to in Senate. (consideration: CR S6069)
+- 2011-10-04 — Motion to proceed to measure considered in Senate. (consideration: CR S6066-6067, S6067-6069)
+- 2011-10-04 — Senate amendment proposed (on the floor): Amendment SA 694 proposed by Senator Reid.(consideration: CR S6069; text: CR S6069)
+- 2011-10-04 — Senate amendment proposed (on the floor): Amendment SA 695 proposed by Senator Reid to Amendment SA 694.(consideration: CR S6069; text: CR S6069)
+- 2011-10-04 — Senate amendment proposed (on the floor): Amendment SA 696 proposed by Senator Reid.(consideration: CR S6069; text: CR S6069)
+- 2011-10-04 — Senate amendment proposed (on the floor): Amendment SA 697 proposed by Senator Reid to Amendment SA 696.(consideration: CR S6069; text: CR S6069)
+- 2011-10-04 — Senate amendment proposed (on the floor): Amendment SA 698 proposed by Senator Reid to Amendment SA 697.(consideration: CR S6069; text: CR S6069)
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-04 — Senate amendment submitted
+- 2011-10-05 — Considered by Senate. (consideration: CR S6152)
+- 2011-10-05 — Considered by Senate. (consideration: CR S6152)
+- 2011-10-05 — Considered by Senate. (consideration: CR S6152)
+- 2011-10-05 — Considered by Senate. (consideration: CR S6152)
+- 2011-10-05 — Considered by Senate. (consideration: CR S6152)
+- 2011-10-05 — Considered by Senate. (consideration: CR S6152-6177)
+- 2011-10-05 — Senate amendment submitted
+- 2011-10-05 — Senate amendment submitted
+- 2011-10-05 — Senate amendment submitted
+- 2011-10-05 — Senate amendment submitted
+- 2011-10-05 — Senate amendment submitted
+- 2011-10-05 — Senate amendment submitted
+- 2011-10-05 — Senate amendment submitted
+- 2011-10-05 — Senate amendment submitted
+- 2011-10-05 — Senate amendment submitted
+- 2011-10-05 — Senate amendment submitted
+- 2011-10-05 — Senate amendment submitted
+- 2011-10-05 — Senate amendment submitted
+- 2011-10-05 — Senate amendment submitted
+- 2011-10-05 — Senate amendment submitted
+- 2011-10-06 — Cloture on the bill invoked in Senate by Yea-Nay Vote. 62 - 38. Record Vote Number: 156. (consideration: CR S6283; text: CR S6283)
+- 2011-10-06 — Considered by Senate. (consideration: CR S6279)
+- 2011-10-06 — Considered by Senate. (consideration: CR S6279)
+- 2011-10-06 — Considered by Senate. (consideration: CR S6279)
+- 2011-10-06 — Considered by Senate. (consideration: CR S6279)
+- 2011-10-06 — Considered by Senate. (consideration: CR S6279)
+- 2011-10-06 — Considered by Senate. (consideration: CR S6279-6320)
+- 2011-10-06 — Motion by Senator Reid to commit to Senate Committee on Finance fell when cloture was invoked on the bill in Senate. (consideration: CR S6315)
+- 2011-10-06 — Point of order against the Reid for Coburn motion to suspend Rule XXII to permit the consideration of amendment SA 670 not sustained by the chair.
+- 2011-10-06 — Point of order raised in Senate with respect to Reid for Coburn motion to suspend Rule XXII to permit the consideration of amendment SA 670.
+- 2011-10-06 — Proposed amendment SA 695 withdrawn in Senate. (consideration: CR S6315)
+- 2011-10-06 — Reid for Coburn motion to suspend Rule XXII to permit the consideration of amendment SA 670 made in Senate. (consideration: CR S6315)
+- 2011-10-06 — Ruling of the Chair not sustained by Yea-Nay Vote. 48 - 51. Record Vote Number: 157.
+- 2011-10-06 — SA 696 fell when cloture invoked on the bill.
+- 2011-10-06 — SA 697 fell when SA 696 fell.
+- 2011-10-06 — SA 698 fell when SA 697 fell.
+- 2011-10-06 — Senator Reid appealed the ruling of the chair.
+- 2011-10-06 — The point of order against the Reid for Coburn motion to suspend Rule XXII for the consideration of amendment SA 670 was sustained.
+- 2011-10-11 — Considered by Senate. (consideration: CR S6378)
+- 2011-10-11 — Considered by Senate. (consideration: CR S6378-6382)
+- 2011-10-11 — Passed Senate without amendment by Yea-Nay Vote. 63 - 35. Record Vote Number: 159. (text: CR S6378-6382)
+- 2011-10-11 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 63 - 35. Record Vote Number: 159.(text: CR S6378-6382)
+- 2011-10-11 — Proposed amendment SA 694 withdrawn in Senate. (consideration: CR S6378)
