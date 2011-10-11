@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2074
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2074
@@ -44,3 +44,10 @@ Veterans Sexual Assault Prevention and Health Care Enhancement Act
 - 2011-10-05 — Placed on the Union Calendar, Calendar No. 154.
 - 2011-10-05 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-235.
 - 2011-10-05 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-235.
+- 2011-10-11 — Considered under suspension of the rules. (consideration: CR H6689-6693)
+- 2011-10-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2074.
+- 2011-10-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-11 — Mr. Miller (FL) moved to suspend the rules and pass the bill, as amended.
+- 2011-10-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6689-6690)
+- 2011-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6689-6690)
+- 2011-10-11 — The title of the measure was amended. Agreed to without objection.
