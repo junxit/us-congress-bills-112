@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 425
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 425
@@ -20,6 +20,10 @@ Providing for consideration of the Senate amendment to the bill (H.R. 2832) to e
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2011-10-11 — [House 112-1-771](votes/house-112-1-0771.md) — On Agreeing to the Resolution — **Passed** (281–128)
+
 ## Actions
 
 - 2011-10-06 — Introduced in House
@@ -27,3 +31,12 @@ Providing for consideration of the Senate amendment to the bill (H.R. 2832) to e
 - 2011-10-06 — The House Committee on Rules reported an original measure, H. Rept. 112-240, by Mr. Dreier.
 - 2011-10-06 — The House Committee on Rules reported an original measure, H. Rept. 112-240, by Mr. Dreier.
 - 2011-10-06 — The bills shall be considered as read and debatable for the time specfied in the report. Pursuant to section 151 of the Trade Act of 1974, the previous question shall be considered as ordered on H.R. 3079 and H.R. 3080 to final passage without intervening motion. The resolution provides one motion to recommit for H.R. 3078. The resolution makes in order a motion that the House concur in the Senate amendment to H.R. 2832. The Senate amendment shall be considered as read. The resolution provides for one hour of debate on the motion to concur.
+- 2011-10-11 — Considered as privileged matter. (consideration: CR H6710-6722)
+- 2011-10-11 — DEBATE - The House proceeded with one hour of debate on H. Res. 425.
+- 2011-10-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-11 — Mr Dreier asked unanimous consent that the Committee on Rules be permitted to file a supplemental report to accompany H.Res. 425.
+- 2011-10-11 — On agreeing to the resolution Agreed to by the Yeas and Nays: 281 - 128 (Roll no. 771). (text: CR H6710)
+- 2011-10-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 281 - 128 (Roll no. 771).(text: CR H6710)
+- 2011-10-11 — Supplemental report filed by the Committee on Rules, H. Rept. 112-240, Part II.
+- 2011-10-11 — Supplemental report filed by the Committee on Rules, H. Rept. 112-240, Part II.
+- 2011-10-11 — The previous question was ordered without objection. (consideration: CR H6721)
