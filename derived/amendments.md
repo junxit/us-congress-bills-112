@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2302
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,8 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Subchapter I of chapter 5 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | amend | The table of sections at the beginning of such chapter is amended by adding after the item relating to section 516 the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter I of chapter 5 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | amend | The table of sections at the beginning of such chapter is amended by adding after the item relating to section 516 the following: | the bill names no machine-readable US Code section |
 | — | insert | Subchapter II of chapter 5 of title 38, United States Code, is amended by inserting after section 529 the following new section: | the bill names no machine-readable US Code section |
