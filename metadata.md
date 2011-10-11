@@ -1,7 +1,7 @@
 ---
 measure: S. 1639
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1639
@@ -24,9 +24,10 @@ A bill to amend title 36, United States Code, to authorize the American Legion u
 - Sen. Begich, Mark [D-AK] (B001265)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ A bill to amend title 36, United States Code, to authorize the American Legion u
 - 2011-10-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6352)
 - 2011-10-06 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6352)
 - 2011-10-06 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6352)
+- 2011-10-07 — Message on Senate action sent to the House.
+- 2011-10-11 — Received in the House.
+- 2011-10-11 — Referred to the House Committee on the Judiciary.
