@@ -1,7 +1,7 @@
 ---
 measure: S. 1639
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1639
@@ -40,3 +40,16 @@ A bill to amend title 36, United States Code, to authorize the American Legion u
 - 2011-10-07 — Message on Senate action sent to the House.
 - 2011-10-11 — Received in the House.
 - 2011-10-11 — Referred to the House Committee on the Judiciary.
+- 2011-10-24 — Referred to the Subcommittee on Immigration Policy and Enforcement.
+- 2011-12-06 — Considered under suspension of the rules. (consideration: CR H8172-8173)
+- 2011-12-06 — DEBATE - The House proceeded with forty minutes of debate on S. 1639.
+- 2011-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-06 — Mr. Gohmert moved to suspend the rules and pass the bill.
+- 2011-12-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8172)
+- 2011-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8172)
+- 2011-12-08 — Presented to President.
+- 2011-12-08 — Presented to President.
+- 2011-12-13 — Became Public Law No: 112-66.
+- 2011-12-13 — Became Public Law No: 112-66.
+- 2011-12-13 — Signed by President.
+- 2011-12-13 — Signed by President.
