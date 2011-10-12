@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 270
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 270
@@ -30,3 +30,7 @@ A resolution supporting the goals and ideals of "National Life Insurance Awarene
 
 - 2011-09-15 — Introduced in Senate
 - 2011-09-15 — Referred to the Committee on Banking, Housing, and Urban Affairs. (text of measure as introduced: CR S5689)
+- 2011-10-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S6470)
+- 2011-10-12 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S6470)
+- 2011-10-12 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S6470)
+- 2011-10-12 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S6470)
