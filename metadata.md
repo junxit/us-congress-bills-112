@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1263
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1263
@@ -16,9 +16,10 @@ To amend the Servicemembers Civil Relief Act to provide surviving spouses with c
 
 - Rep. Filner, Bob [D-CA-51] (F000116)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To amend the Servicemembers Civil Relief Act to provide surviving spouses with c
 - 2011-10-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6727)
 - 2011-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6727)
 - 2011-10-11 — The title of the measure was amended. Agreed to without objection.
+- 2011-10-12 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
