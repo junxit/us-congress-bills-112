@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2433
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-44 amendatory instructions. 0 executed, 44 stated and not applied.
+43 amendatory instructions. 0 executed, 43 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,7 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | amend | Section 4113 of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The table of sections at the beginning of chapter 41 of title 38, United States Code, is amended by striking the item relating to section 4113 and inserting the following new item: | the bill names no machine-readable US Code section |
-| — | replace | Section 1144(c) of title 10, United States Code, is amended by striking “shall encourage” and all that follows and inserting “shall encourage the participation of members of the armed forces in pay grades E-8 and above and O-6 and above … | the bill names no machine-readable US Code section |
+| — | replace | Section 1144(c) of title 10, United States Code, is amended by striking “shall encourage” and all that follows and inserting “shall encourage the participation of members of the armed forces in pay grades E–8 and above and O–6 and above … | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1144 of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1144 of title 10, United States Code, as amended by section 202 and 203, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “not less than 10” and inserting “not less than 5 but not more than 10”; and | the bill names no machine-readable US Code section |
@@ -46,7 +46,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (2), by striking “clause (1)” and inserting “paragraph (1)”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (5), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (a)(3), by adding at the end the following: “Such priority includes giving access to such services to a covered person before a non-covered person or, if resources are limited, giving access to such services to a covered pe… | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (d) to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 4109 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
@@ -57,18 +57,17 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 3707(a) of such title is amended by striking “2012” and inserting “2014”. | the bill names no machine-readable US Code section |
 | — | replace | Section 3707A(a) of such title is amended by striking “2012” and inserting “2014”. | the bill names no machine-readable US Code section |
 | — | replace | Section 3720(h)(2) of title 38, United States Code, is amended by striking “December 31, 2011” and inserting “December 31, 2016”. | the bill names no machine-readable US Code section |
-| — | replace | in clause (iii), by striking “October 1, 2011” and inserting “October 1, 2017”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (iv), by striking “October 1, 2011” and inserting “October 1, 2017”; | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “October 1, 2011” and inserting “October 1, 2017”; | the bill names no machine-readable US Code section |
+| — | replace | in clause (iii), by striking “November 18, 2011” and inserting “October 1, 2017”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (iv), by striking “November 18, 2011” and inserting “October 1, 2017”; | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “November 18, 2011” and inserting “October 1, 2017”; | the bill names no machine-readable US Code section |
 | — | redesignate | by striking clauses (ii) and (iii) and redesignating clause (iv) as clause (ii); and | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii), as so redesignated, by striking “October 1, 2013” and inserting “October 1, 2017”; | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “October 1, 2011” and inserting “October 1, 2017”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking “October 1, 2011” and inserting “October 1, 2017”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “October 1, 2011” and inserting “October 1, 2017”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking “October 1, 2011” and inserting “October 1, 2017”. | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “November 18, 2011” and inserting “October 1, 2017”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii), by striking “November 18, 2011” and inserting “October 1, 2017”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “November 18, 2011” and inserting “October 1, 2017”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii), by striking “November 18, 2011” and inserting “October 1, 2017”. | the bill names no machine-readable US Code section |
 | — | replace | Section 501 of the Veterans Benefits Improvement Act of 2008 (Public Law 110–389; 122 Stat. 4175; 38 U.S.C. 3703 note) is amended by striking “December 31, 2011” and inserting “December 31, 2014”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3701(b) of title 38, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 2021(e)(1)(F) of title 38, United States Code, is amended by striking “2011” and inserting “2012”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 111(b)(3) of title 38, United States Code, is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter III of chapter 33 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 3324 the following new item: | the bill names no machine-readable US Code section |

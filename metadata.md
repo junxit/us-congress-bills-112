@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2433
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2433
@@ -55,6 +55,10 @@ Veterans Opportunity to Work Act of 2011
 - House — Armed Services Committee
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2011-10-12 — [House 112-1-785](votes/house-112-1-0785.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (418–6)
+
 ## Actions
 
 - 2011-07-07 — Introduced in House
@@ -74,3 +78,7 @@ Veterans Opportunity to Work Act of 2011
 - 2011-10-11 — Placed on the Union Calendar, Calendar No. 160.
 - 2011-10-11 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-242, Part I.
 - 2011-10-11 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-242, Part I.
+- 2011-10-12 — Considered as unfinished business. (consideration: CR H6841)
+- 2011-10-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 6 (Roll no. 785). (text: CR 10/11/2011 H6680-6683)
+- 2011-10-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 6 (Roll no. 785).(text: CR 10/11/2011 H6680-6683)
