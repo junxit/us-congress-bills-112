@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3080
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3080
@@ -57,3 +57,10 @@ United States-Korea Free Trade Agreement Implementation Act
 - 2011-10-12 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 83 - 15. Record Vote Number: 161.
 - 2011-10-12 — Received in the Senate, read twice.
 - 2011-10-12 — The previous question was ordered pursuant to the rule. (consideration: CR H6832)
+- 2011-10-13 — Message on Senate action sent to the House.
+- 2011-10-13 — Presented to President.
+- 2011-10-13 — Presented to President.
+- 2011-10-21 — Became Public Law No: 112-41.
+- 2011-10-21 — Became Public Law No: 112-41.
+- 2011-10-21 — Signed by President.
+- 2011-10-21 — Signed by President.
