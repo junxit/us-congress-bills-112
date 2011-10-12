@@ -1,0 +1,33 @@
+---
+legis-num: H.R. 3173
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3173
+
+> To direct the Secretary of Homeland Security to reform the process for the enrollment, activation, issuance, and renewal of a Transportation Worker Identification Credential (TWIC) to require, in total, not more than one in-person visit to a designated enrollment center.
+
+## § 1. Findings
+
+Congress finds the following:
+
+- **(1)** United States workers employed at nearly 2,600 marine facilities and onboard nearly 13,000 United States-flag vessels are required to carry a Transportation Worker Identification Credential (TWIC) under the Maritime Transportation Security Act of 2002 (MTSA). Department of Homeland Security (DHS) regulations require merchant mariners who hold a Coast Guard-issued Merchant Mariner Credential (MMC) and individuals who require unescorted access to secure areas of MTSA-regulated vessels and facilities to carry a TWIC.
+- **(2)** To date, nearly two million transportation workers have applied for and received a TWIC. Applicants must pay $132.50 to obtain the TWIC, and make two or more trips to an enrollment center to apply for, and then to pick up and activate, their TWIC.
+- **(3)** A TWIC is valid for a maximum of five years, at which time the cardholder must request issuance of a new card. This process requires workers to make an additional two or more trips to the enrollment center and again pay $132.50 to receive a new card.
+- **(4)** In addition to the cost of the card, workers face the burden of making two or more time-consuming and often expensive round trips to a TWIC enrollment center. In many instances, the nearest enrollment center is hundreds of miles from a worker’s home.
+- **(5)** The TWIC enrollment process requiring two or more round trips to an enrollment center is not mandated by statute or by regulation. The process is driven by a DHS policy decision to align the requirements for TWIC issuance with standards for Personal Identity Verification (PIV) for Federal employees and contractors. These standards are contained in Federal Information Processing Standard Publication 201 (FIPS–201).
+- **(6)** While DHS has made the policy decision to generally align the TWIC enrollment process with the FIPS–201 standard, the Department may elect to deviate from this standard in instances where it believes an alternative approach is more appropriate for the TWIC program.
+- **(7)** Unlike other Government-issued credentials that adhere to the FIPS–201 standard, the TWIC is effectively a work permit for a highly-mobile private sector workforce.
+- **(8)** Possession of a TWIC does not allow a TWIC holder to gain unescorted access to secure areas of MTSA-regulated vessels and facilities unless the TWIC holder is authorized to do so under a Coast Guard-approved vessel or facility security plan.
+- **(9)** DHS has the statutory authority and regulatory flexibility to develop an alternative process for TWIC enrollment and issuance that does not require applicants to make multiple trips to a TWIC enrollment center.
+- **(10)** Other secure Government-issued identity documents, including United States passports, can be distributed to applicants by mail.
+
+## § 2. Sense of Congress
+
+To avoid further imposing unnecessary and costly regulatory burdens on United States workers and businesses, it is the sense of Congress that it is urgent that the TWIC application process be reformed by not later than the end of 2012, when hundreds of thousands of current TWIC holders will begin to face the requirement to renew their TWICs.
+
+## § 3. TWIC application reform
+
+Not later than 90 days after the date of the enactment of this Act, the Secretary of Homeland Security shall reform the process for the enrollment, activation, issuance, and renewal of a Transportation Worker Identification Credential (TWIC) to require, in total, not more than one in-person visit to a designated enrollment center except in cases in which there are extenuating circumstances, as determined by the Secretary, requiring more than one such in-person visit.
