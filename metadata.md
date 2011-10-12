@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1025
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1025
@@ -73,9 +73,10 @@ To amend title 38, United States Code, to recognize the service in the reserve c
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 - Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -97,3 +98,4 @@ To amend title 38, United States Code, to recognize the service in the reserve c
 - 2011-10-11 — Mr. Runyan moved to suspend the rules and pass the bill.
 - 2011-10-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6729)
 - 2011-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6729)
+- 2011-10-12 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
