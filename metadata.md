@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3079
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3079

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3079
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 13031(b) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(b)) is amended by adding after paragraph (20) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (13) as paragraph (14); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (12) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | by striking “or”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “for which” and inserting “, or section 203 of the United States–Panama Trade Promotion Agreement Implementation Act for which”. | the bill names no machine-readable US Code section |
@@ -45,6 +45,6 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting before the period at the end “, and title III of the United States–Panama Trade Promotion Agreement Implementation Act”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “or” at the end of clause (viii); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of clause (ix) and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | strike | Section 212(b) of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2702(b)) is amended by striking “Panama” from the list of countries eligible for designation as beneficiary countries. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 13031(j)(3) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
