@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2681
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2681
@@ -266,3 +266,5 @@ Cement Sector Regulatory Relief Act of 2011
 - 2011-10-06 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6642)
 - 2011-10-06 — The previous question was ordered pursuant to the rule. (consideration: CR H6640)
 - 2011-10-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which had been debated earlier and on which further proceedings were postponed.
+- 2011-10-11 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-10-12 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 192.
