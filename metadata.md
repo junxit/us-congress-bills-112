@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2302
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2302
@@ -16,9 +16,10 @@ To amend title 38, United States Code, to direct the Secretary of Veterans Affai
 
 - Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To amend title 38, United States Code, to direct the Secretary of Veterans Affai
 - 2011-10-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6693-6694)
 - 2011-10-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6693-6694)
 - 2011-10-11 — The title of the measure was amended. Agreed to without objection.
+- 2011-10-12 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
