@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3078
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 13031(b) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(b)) is amended by adding after paragraph (19), the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (12) as paragraph (13); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (11) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | by striking “or”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “for which” and inserting “, or section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act for which”. | the bill names no machine-readable US Code section |
@@ -45,7 +45,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting before the period at the end “, and title III of the United States–Colombia Trade Promotion Agreement Implementation Act”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “or” at the end of clause (vii); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of clause (viii) and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1)(A), by striking “February 12, 2011” and inserting “July 31, 2013”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “February 12, 2011” and inserting “July 31, 2013”. | the bill names no machine-readable US Code section |
 | — | replace | in subclause (II), by striking “8 succeeding 1-year periods” and inserting “10 succeeding 1-year periods”; and | the bill names no machine-readable US Code section |
