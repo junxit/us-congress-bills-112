@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2433
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2433
@@ -50,10 +50,11 @@ Veterans Opportunity to Work Act of 2011
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 - Rep. Nugent, Richard B. [R-FL-5] (N000185)
 
-## Committees (2)
+## Committees (3)
 
 - House — Armed Services Committee
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -82,3 +83,4 @@ Veterans Opportunity to Work Act of 2011
 - 2011-10-12 — Motion to reconsider laid on the table Agreed to without objection.
 - 2011-10-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 6 (Roll no. 785). (text: CR 10/11/2011 H6680-6683)
 - 2011-10-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 6 (Roll no. 785).(text: CR 10/11/2011 H6680-6683)
+- 2011-10-13 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
