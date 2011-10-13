@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2250
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2250
@@ -149,6 +149,25 @@ EPA Regulatory Relief Act of 2011
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (16)
+
+- 2011-10-06 — [House 112-1-766](votes/house-112-1-0766.md) — On Agreeing to the Amendment — **Failed** (167–243)
+- 2011-10-06 — [House 112-1-767](votes/house-112-1-0767.md) — On Agreeing to the Amendment — **Failed** (156–242)
+- 2011-10-06 — [House 112-1-768](votes/house-112-1-0768.md) — On Agreeing to the Amendment — **Failed** (151–255)
+- 2011-10-06 — [House 112-1-769](votes/house-112-1-0769.md) — On Agreeing to the Amendment — **Failed** (153–254)
+- 2011-10-06 — [House 112-1-770](votes/house-112-1-0770.md) — On Agreeing to the Amendment — **Failed** (147–251)
+- 2011-10-11 — [House 112-1-772](votes/house-112-1-0772.md) — On Agreeing to the Amendment — **Failed** (164–254)
+- 2011-10-11 — [House 112-1-773](votes/house-112-1-0773.md) — On Agreeing to the Amendment — **Failed** (168–250)
+- 2011-10-11 — [House 112-1-774](votes/house-112-1-0774.md) — On Agreeing to the Amendment — **Failed** (166–252)
+- 2011-10-11 — [House 112-1-775](votes/house-112-1-0775.md) — On Agreeing to the Amendment — **Failed** (157–260)
+- 2011-10-11 — [House 112-1-776](votes/house-112-1-0776.md) — On Agreeing to the Amendment — **Failed** (169–249)
+- 2011-10-11 — [House 112-1-777](votes/house-112-1-0777.md) — On Agreeing to the Amendment — **Failed** (154–261)
+- 2011-10-11 — [House 112-1-778](votes/house-112-1-0778.md) — On Agreeing to the Amendment — **Failed** (169–249)
+- 2011-10-11 — [House 112-1-779](votes/house-112-1-0779.md) — On Agreeing to the Amendment — **Failed** (156–262)
+- 2011-10-13 — [House 112-1-787](votes/house-112-1-0787.md) — On Agreeing to the Amendment — **Failed** (174–250)
+- 2011-10-13 — [House 112-1-790](votes/house-112-1-0790.md) — On Motion to Recommit with Instructions — **Failed** (170–246)
+- 2011-10-13 — [House 112-1-791](votes/house-112-1-0791.md) — On Passage — **Passed** (275–142)
+
 ## Actions
 
 - 2011-06-21 — Introduced in House
@@ -163,3 +182,184 @@ EPA Regulatory Relief Act of 2011
 - 2011-09-26 — Placed on the Union Calendar, Calendar No. 146.
 - 2011-09-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-225.
 - 2011-09-26 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-225.
+- 2011-10-03 — Rules Committee Resolution H. Res. 419 Reported to House. Rule provides for consideration of H.R. 2681 and H.R. 2250 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. No amendment to the committee amendment in the nature of a substitute shall be in order except those received for printing in the portion of the Congressional Record designated for that purpose in clause 8 of rule XVIII in a daily issue dated October 4, 2011, or earlier and except pro forma amendments for the purpose of debate.
+- 2011-10-04 — Rule H. Res. 419 passed House.
+- 2011-10-06 — Amendment (A001) offered by Mr. Waxman. (consideration: CR H6644-6651, H6658; text: CR H6645)
+- 2011-10-06 — Amendment (A002) offered by Mr. Rush. (consideration: CR H6651-6652, H6658-6659; text: CR H6651)
+- 2011-10-06 — Amendment (A003) offered by Ms. Hahn. (consideration: CR H6652-6653, H6659-6660; text: CR H6652)
+- 2011-10-06 — Amendment (A004) offered by Mrs. Capps. (consideration: CR H6653-6654, H6660; text: CR H6653)
+- 2011-10-06 — Amendment (A005) offered by Mr. Doyle. (consideration: CR H6654-6656, H6660-6661; text: CR H6654)
+- 2011-10-06 — Amendment failed in Committee of the Whole
+- 2011-10-06 — Amendment failed in Committee of the Whole
+- 2011-10-06 — Amendment failed in Committee of the Whole
+- 2011-10-06 — Amendment failed in Committee of the Whole
+- 2011-10-06 — Amendment failed in Committee of the Whole
+- 2011-10-06 — Committee of the Whole House on the state of the Union rises leaving H.R. 2250 as unfinished business.
+- 2011-10-06 — Committee of the Whole House on the state of the Union rises leaving H.R. 2250 as unfinished business.
+- 2011-10-06 — Committee of the Whole House on the state of the Union rises leaving H.R. 2250 as unfinished business.
+- 2011-10-06 — Considered as unfinished business. (consideration: CR H6644-6656)
+- 2011-10-06 — Considered as unfinished business. (consideration: CR H6657-6661)
+- 2011-10-06 — Considered under the provisions of rule H. Res. 419. (consideration: CR H6631-6638)
+- 2011-10-06 — DEBATE - Pursuant to the provisions of H. Res. 419, the Committee of the Whole proceeded with debate on the Capps amendment No. 16 under the five-minute rule.
+- 2011-10-06 — DEBATE - Pursuant to the provisions of H. Res. 419, the Committee of the Whole proceeded with debate on the Doyle amendment No. 4 under the five-minute rule.
+- 2011-10-06 — DEBATE - Pursuant to the provisions of H. Res. 419, the Committee of the Whole proceeded with debate on the Hahn amendment No. 15 under the five-minute rule.
+- 2011-10-06 — DEBATE - Pursuant to the provisions of H. Res. 419, the Committee of the Whole proceeded with debate on the Rush amendment No. 6 under the five-minute rule.
+- 2011-10-06 — DEBATE - Pursuant to the provisions of H. Res. 419, the Committee of the Whole proceeded with debate on the Waxman amendment No. 9 under the five-minute rule.
+- 2011-10-06 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2250.
+- 2011-10-06 — House amendment not agreed to: On agreeing to the Capps amendment (A004) Failed by recorded vote: 153 - 254 (Roll no. 769).
+- 2011-10-06 — House amendment not agreed to: On agreeing to the Doyle amendment (A005) Failed by recorded vote: 147 - 251, 1 Present (Roll no. 770).
+- 2011-10-06 — House amendment not agreed to: On agreeing to the Hahn amendment (A003) Failed by recorded vote: 151 - 255 (Roll no. 768).
+- 2011-10-06 — House amendment not agreed to: On agreeing to the Rush amendment (A002) Failed by recorded vote: 156 - 242 (Roll no. 767).
+- 2011-10-06 — House amendment not agreed to: On agreeing to the Waxman amendment (A001) Failed by recorded vote: 167 - 243 (Roll no. 766).
+- 2011-10-06 — House amendment offered
+- 2011-10-06 — House amendment offered
+- 2011-10-06 — House amendment offered
+- 2011-10-06 — House amendment offered
+- 2011-10-06 — House amendment offered
+- 2011-10-06 — House amendment offered/reported by: Amendment (A001) offered by Mr. Waxman.(consideration: CR H6644-6651, H6658; text: CR H6645)
+- 2011-10-06 — House amendment offered/reported by: Amendment (A002) offered by Mr. Rush.(consideration: CR H6651-6652, H6658-6659; text: CR H6651)
+- 2011-10-06 — House amendment offered/reported by: Amendment (A003) offered by Ms. Hahn.(consideration: CR H6652-6653, H6659-6660; text: CR H6652)
+- 2011-10-06 — House amendment offered/reported by: Amendment (A004) offered by Mrs. Capps.(consideration: CR H6653-6654, H6660; text: CR H6653)
+- 2011-10-06 — House amendment offered/reported by: Amendment (A005) offered by Mr. Doyle.(consideration: CR H6654-6656, H6660-6661; text: CR H6654)
+- 2011-10-06 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 419 and Rule XVIII.
+- 2011-10-06 — Mr. Whitfield moved that the Committee rise.
+- 2011-10-06 — Mr. Whitfield moved that the commitee rise.
+- 2011-10-06 — Mr. Whitfield moved to rise.
+- 2011-10-06 — On agreeing to the Capps amendment (A004) Failed by recorded vote: 153 - 254 (Roll no. 769).
+- 2011-10-06 — On agreeing to the Doyle amendment (A005) Failed by recorded vote: 147 - 251, 1 Present (Roll no. 770).
+- 2011-10-06 — On agreeing to the Hahn amendment (A003) Failed by recorded vote: 151 - 255 (Roll no. 768).
+- 2011-10-06 — On agreeing to the Rush amendment (A002) Failed by recorded vote: 156 - 242 (Roll no. 767).
+- 2011-10-06 — On agreeing to the Waxman amendment (A001) Failed by recorded vote: 167 - 243 (Roll no. 766).
+- 2011-10-06 — On motion that the Committee rise Agreed to by voice vote.
+- 2011-10-06 — On motion to rise Agreed to by voice vote.
+- 2011-10-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Capps amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Capps demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-10-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Doyle amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Waxman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-10-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hahn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Hahn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-10-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rush amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Rush demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-10-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Waxman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Waxman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-10-06 — Roll call votes on amendments in House
+- 2011-10-06 — Roll call votes on amendments in House
+- 2011-10-06 — Roll call votes on amendments in House
+- 2011-10-06 — Roll call votes on amendments in House
+- 2011-10-06 — Roll call votes on amendments in House
+- 2011-10-06 — Rule provides for consideration of H.R. 2681 and H.R. 2250 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. No amendment to the committee amendment in the nature of a substitute shall be in order except those received for printing in the portion of the Congressional Record designated for that purpose in clause 8 of rule XVIII in a daily issue dated October 4, 2011, or earlier and except pro forma amendments for the purpose of debate.
+- 2011-10-06 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-10-06 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-10-06 — The Speaker designated the Honorable Jeff Denham to act as Chairman of the Committee.
+- 2011-10-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which had been debated earlier and on which further proceedings were postponed.
+- 2011-10-11 — Amendment (A006) offered by Mr. Waxman. (consideration: CR H6698-6699, H6722; text: CR H6698)
+- 2011-10-11 — Amendment (A007) offered by Mr. Connolly (VA). (consideration: CR H6699-6700, H6722-6723; text: CR H6699)
+- 2011-10-11 — Amendment (A008) offered by Mr. Markey. (consideration: CR H6700-6702, H6723-6724; text: CR H6700)
+- 2011-10-11 — Amendment (A009) offered by Ms. Edwards. (consideration: CR H6702-6705, H6724; text: CR H6702)
+- 2011-10-11 — Amendment (A010) offered by Ms. Schakowsky. (consideration: CR H6705-6706, H6724-6725; text: CR H6705)
+- 2011-10-11 — Amendment (A011) offered by Mr. Ellison. (consideration: CR H6706-6707, H6725-6726; text: CR H6706)
+- 2011-10-11 — Amendment (A012) offered by Mr. Welch. (consideration: CR H6707-6708, H6726; text: CR H6707)
+- 2011-10-11 — Amendment (A013) offered by Ms. Jackson Lee (TX). (consideration: CR H6708-6710, H6726-6727; text: CR H6708)
+- 2011-10-11 — Amendment failed in Committee of the Whole
+- 2011-10-11 — Amendment failed in Committee of the Whole
+- 2011-10-11 — Amendment failed in Committee of the Whole
+- 2011-10-11 — Amendment failed in Committee of the Whole
+- 2011-10-11 — Amendment failed in Committee of the Whole
+- 2011-10-11 — Amendment failed in Committee of the Whole
+- 2011-10-11 — Amendment failed in Committee of the Whole
+- 2011-10-11 — Amendment failed in Committee of the Whole
+- 2011-10-11 — Committee of the Whole House on the state of the Union rises leaving H.R. 2250 as unfinished business.
+- 2011-10-11 — Committee of the Whole House on the state of the Union rises leaving H.R. 2250 as unfinished business.
+- 2011-10-11 — Considered as unfinished business. (consideration: CR H6698-6710)
+- 2011-10-11 — Considered as unfinished business. (consideration: CR H6722-6727)
+- 2011-10-11 — DEBATE - Pursuant to the provisions of H. Res. 419, the Committee of the Whole proceeded with debate on the Connolly amendment No. 18 under the five-minute rule.
+- 2011-10-11 — DEBATE - Pursuant to the provisions of H. Res. 419, the Committee of the Whole proceeded with debate on the Edwards amendment No. 2 under the five-minute rule.
+- 2011-10-11 — DEBATE - Pursuant to the provisions of H. Res. 419, the Committee of the Whole proceeded with debate on the Ellison amendment No. 12 under the five-minute rule.
+- 2011-10-11 — DEBATE - Pursuant to the provisions of H. Res. 419, the Committee of the Whole proceeded with debate on the Jackson Lee (TX) amendment No. 3 under the five-minute rule.
+- 2011-10-11 — DEBATE - Pursuant to the provisions of H. Res. 419, the Committee of the Whole proceeded with debate on the Markey amendment No. 7 under the five-minute rule.
+- 2011-10-11 — DEBATE - Pursuant to the provisions of H. Res. 419, the Committee of the Whole proceeded with debate on the Schakowsky amendment No. 1 under the five-minute rule.
+- 2011-10-11 — DEBATE - Pursuant to the provisions of H. Res. 419, the Committee of the Whole proceeded with debate on the Waxman amendment No. 11 under the five-minute rule.
+- 2011-10-11 — DEBATE - Pursuant to the provisions of H. Res. 419, the Committee of the Whole proceeded with debate on the Welch amendment No. 19 under the five-minute rule.
+- 2011-10-11 — House amendment not agreed to: On agreeing to the Connolly (VA) amendment (A007) Failed by recorded vote: 168 - 250 (Roll no. 773).
+- 2011-10-11 — House amendment not agreed to: On agreeing to the Edwards amendment (A009) Failed by recorded vote: 157 - 260 (Roll no. 775).
+- 2011-10-11 — House amendment not agreed to: On agreeing to the Ellison amendment (A011) Failed by recorded vote: 154 - 261 (Roll no. 777).
+- 2011-10-11 — House amendment not agreed to: On agreeing to the Jackson Lee (TX) amendment (A013) Failed by recorded vote: 156 - 262 (Roll no. 779).
+- 2011-10-11 — House amendment not agreed to: On agreeing to the Markey amendment (A008) Failed by recorded vote: 166 - 252 (Roll no. 774).
+- 2011-10-11 — House amendment not agreed to: On agreeing to the Schakowsky amendment (A010) Failed by recorded vote: 169 - 249 (Roll no. 776).
+- 2011-10-11 — House amendment not agreed to: On agreeing to the Waxman amendment (A006) Failed by recorded vote: 164 - 254 (Roll no. 772).
+- 2011-10-11 — House amendment not agreed to: On agreeing to the Welch amendment (A012) Failed by recorded vote: 169 - 249 (Roll no. 778).
+- 2011-10-11 — House amendment offered
+- 2011-10-11 — House amendment offered
+- 2011-10-11 — House amendment offered
+- 2011-10-11 — House amendment offered
+- 2011-10-11 — House amendment offered
+- 2011-10-11 — House amendment offered
+- 2011-10-11 — House amendment offered
+- 2011-10-11 — House amendment offered
+- 2011-10-11 — House amendment offered/reported by: Amendment (A006) offered by Mr. Waxman.(consideration: CR H6698-6699, H6722; text: CR H6698)
+- 2011-10-11 — House amendment offered/reported by: Amendment (A007) offered by Mr. Connolly (VA).(consideration: CR H6699-6700, H6722-6723; text: CR H6699)
+- 2011-10-11 — House amendment offered/reported by: Amendment (A008) offered by Mr. Markey.(consideration: CR H6700-6702, H6723-6724; text: CR H6700)
+- 2011-10-11 — House amendment offered/reported by: Amendment (A009) offered by Ms. Edwards.(consideration: CR H6702-6705, H6724; text: CR H6702)
+- 2011-10-11 — House amendment offered/reported by: Amendment (A010) offered by Ms. Schakowsky.(consideration: CR H6705-6706, H6724-6725; text: CR H6705)
+- 2011-10-11 — House amendment offered/reported by: Amendment (A011) offered by Mr. Ellison.(consideration: CR H6706-6707, H6725-6726; text: CR H6706)
+- 2011-10-11 — House amendment offered/reported by: Amendment (A012) offered by Mr. Welch.(consideration: CR H6707-6708, H6726; text: CR H6707)
+- 2011-10-11 — House amendment offered/reported by: Amendment (A013) offered by Ms. Jackson Lee (TX).(consideration: CR H6708-6710, H6726-6727; text: CR H6708)
+- 2011-10-11 — Mr. Gardner moved that the committee rise.
+- 2011-10-11 — Mr. Whitfield moved to that the Committee now rise.
+- 2011-10-11 — On agreeing to the Connolly (VA) amendment (A007) Failed by recorded vote: 168 - 250 (Roll no. 773).
+- 2011-10-11 — On agreeing to the Edwards amendment (A009) Failed by recorded vote: 157 - 260 (Roll no. 775).
+- 2011-10-11 — On agreeing to the Ellison amendment (A011) Failed by recorded vote: 154 - 261 (Roll no. 777).
+- 2011-10-11 — On agreeing to the Jackson Lee (TX) amendment (A013) Failed by recorded vote: 156 - 262 (Roll no. 779).
+- 2011-10-11 — On agreeing to the Markey amendment (A008) Failed by recorded vote: 166 - 252 (Roll no. 774).
+- 2011-10-11 — On agreeing to the Schakowsky amendment (A010) Failed by recorded vote: 169 - 249 (Roll no. 776).
+- 2011-10-11 — On agreeing to the Waxman amendment (A006) Failed by recorded vote: 164 - 254 (Roll no. 772).
+- 2011-10-11 — On agreeing to the Welch amendment (A012) Failed by recorded vote: 169 - 249 (Roll no. 778).
+- 2011-10-11 — On motion that the committee rise Agreed to by voice vote.
+- 2011-10-11 — On motion to that the Committee now rise Agreed to by voice vote.
+- 2011-10-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly (VA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Connolly (VA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-10-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Edwards amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Whitfield demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-10-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-10-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Jackson Lee (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-10-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Markey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Markey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-10-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schakowsky amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Whitfield demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced
+- 2011-10-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Waxman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Waxman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-10-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Welch amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Welch demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-10-11 — Roll call votes on amendments in House
+- 2011-10-11 — Roll call votes on amendments in House
+- 2011-10-11 — Roll call votes on amendments in House
+- 2011-10-11 — Roll call votes on amendments in House
+- 2011-10-11 — Roll call votes on amendments in House
+- 2011-10-11 — Roll call votes on amendments in House
+- 2011-10-11 — Roll call votes on amendments in House
+- 2011-10-11 — Roll call votes on amendments in House
+- 2011-10-11 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-10-11 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-10-12 — Amendment (A014) offered by Mr. Cohen. (consideration: CR H6842; text: CR H6842)
+- 2011-10-12 — Committee of the Whole House on the state of the Union rises leaving H.R. 2250 as unfinished business.
+- 2011-10-12 — Considered as unfinished business. (consideration: CR H6841-6842)
+- 2011-10-12 — DEBATE - Pursuant to the provisions of H. Res. 419, the Committee of the Whole proceeded with debate on the Cohen (TN) amendment No. 22 under the five-minute rule.
+- 2011-10-12 — House amendment offered
+- 2011-10-12 — House amendment offered/reported by: Amendment (A014) offered by Mr. Cohen.(consideration: CR H6842; text: CR H6842)
+- 2011-10-12 — Mr. Whitfield moved to rise.
+- 2011-10-12 — On motion to rise Agreed to by voice vote.
+- 2011-10-12 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cohen amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Cohen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-10-12 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-10-13 — Amendment agreed to Committee of the Whole
+- 2011-10-13 — Amendment failed in Committee of the Whole
+- 2011-10-13 — Amendment in the nature of a substitute reported by the House Committee on Energy and Commerce.
+- 2011-10-13 — Considered as unfinished business. (consideration: CR H6881-6882)
+- 2011-10-13 — Considered as unfinished business. (consideration: CR H6903-6906)
+- 2011-10-13 — DEBATE - The House proceeded with 10 minutes of debate on the Castor motion to recommit. The instructions in the motion seek to report the same back to the House with an amendment to require the EPA Administrator not delay action to reduce air pollution from waste incinerators that are within 5 miles of any nursing home, assisted living facility or hospital. The amendment also states that any facility that will have regulation of its air pollutant emissions delayed is required to notify affected communities no later than 90 days after the date of enactment.
+- 2011-10-13 — House amendment agreed to: On agreeing to the Energy and Commerce amendment (A015) Agreed to by voice vote.
+- 2011-10-13 — House amendment not agreed to: On agreeing to the Cohen amendment (A014) Failed by recorded vote: 174 - 250 (Roll no. 787).(consideration: CR H6881-6882)
+- 2011-10-13 — House amendment offered
+- 2011-10-13 — House amendment offered
+- 2011-10-13 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Energy and Commerce.
+- 2011-10-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-13 — Ms. Castor (FL) moved to recommit with instructions to Energy and Commerce. (consideration: CR H6903-6905; text: CR H6903-6904)
+- 2011-10-13 — On agreeing to the Cohen amendment (A014) Failed by recorded vote: 174 - 250 (Roll no. 787). (consideration: CR H6881-6882)
+- 2011-10-13 — On agreeing to the Energy and Commerce amendment (A015) Agreed to by voice vote.
+- 2011-10-13 — On motion to recommit with instructions Failed by recorded vote: 170 - 246 (Roll no. 790).
+- 2011-10-13 — On passage Passed by recorded vote: 275 - 142 (Roll no. 791).
+- 2011-10-13 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of Rule 19, further proceedings on H.R. 2250 were postponed.
+- 2011-10-13 — Passed/agreed to in House: On passage Passed by recorded vote: 275 - 142 (Roll no. 791).
+- 2011-10-13 — Roll call votes on amendments in House
+- 2011-10-13 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of committee amendment in the nature of a substitute: CR 10/06/2011 H6644)
+- 2011-10-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2011-10-13 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2250.
+- 2011-10-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6904)
