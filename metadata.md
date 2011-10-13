@@ -1,7 +1,7 @@
 ---
 measure: H.R. 358
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 358
@@ -169,6 +169,11 @@ Protect Life Act
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2011-10-13 — [House 112-1-788](votes/house-112-1-0788.md) — On Motion to Recommit with Instructions — **Failed** (173–249)
+- 2011-10-13 — [House 112-1-789](votes/house-112-1-0789.md) — On Passage — **Passed** (251–172)
+
 ## Actions
 
 - 2011-01-20 — Introduced in House
@@ -187,3 +192,17 @@ Protect Life Act
 - 2011-09-12 — Committee on Ways and Means discharged.
 - 2011-09-12 — Committee on Ways and Means discharged.
 - 2011-09-12 — Placed on the Union Calendar, Calendar No. 133.
+- 2011-10-12 — Rules Committee Resolution H. Res. 430 Reported to House. Rule provides for consideration of H.R. 358 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on Energy and Commerce now printed in the bill shall be considered as adopted.
+- 2011-10-13 — Considered under the provisions of rule H. Res. 430. (consideration: CR H6885-6903)
+- 2011-10-13 — DEBATE - The House proceeded with 10 minutes of debate on the Capps motion to recommit with instructions. The instructions in the motion seek to report the same to the House with an amendment to add language stating that no hospital or health care provider can be exempted from any Federal or State law that requires them to provide any medical examination, treatment, referral, or transfer to prevent the death of a pregnant woman with an emergency medical condition.
+- 2011-10-13 — DEBATE - The House proceeded with one hour of debate on H.R. 358.
+- 2011-10-13 — House amendment offered
+- 2011-10-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-13 — Mrs. Capps moved to recommit with instructions to Energy and Commerce. (consideration: CR H6901-6903; text: CR H6901)
+- 2011-10-13 — On motion to recommit with instructions Failed by the Yeas and Nays: 173 - 249 (Roll no. 788).
+- 2011-10-13 — On passage Passed by recorded vote: 251 - 172 (Roll no. 789). (text: CR H6886)
+- 2011-10-13 — Passed/agreed to in House: On passage Passed by recorded vote: 251 - 172 (Roll no. 789).(text: CR H6886)
+- 2011-10-13 — Rule H. Res. 430 passed House.
+- 2011-10-13 — Rule provides for consideration of H.R. 358 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on Energy and Commerce now printed in the bill shall be considered as adopted.
+- 2011-10-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6903)
+- 2011-10-13 — The previous question was ordered pursuant to the rule. (consideration: CR H6901)
