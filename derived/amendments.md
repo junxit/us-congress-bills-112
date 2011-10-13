@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 31
 congress: 112
-version: Agreed to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -36,5 +36,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (c), by striking “The President shall annually conduct” and inserting “Annually through September 30, 2018, the President shall conduct”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “a biennial report” and inserting “a report, not later than one year after the date of the enactment of this section, and biennially through September 30, 2018,”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “not later than two years after the date of the enactment of this section and every three years thereafter” and inserting “not later than two years and five years after the date of the enactment of this s… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Amend section 8I(a) of the Peace Corps Act, in the quoted material in section 2, by inserting “through September 30, 2018,” after “annually”. | the bill names no machine-readable US Code section |
