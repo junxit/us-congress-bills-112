@@ -1,0 +1,34 @@
+---
+legis-num: H.R. 3217
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3217
+
+> To improve and provide increased access to the Railroad Rehabilitation and Improvement Financing program.
+
+## § 1. Railroad rehabilitation and improvement financing
+
+Section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822) is amended—
+
+- **(1)** in subsection (b)(1)—
+  - **(A)** by striking “or” at the end of subparagraph (B);
+  - **(B)** by striking the period at the end of subparagraph (C) and inserting “; or”; and
+  - **(C)** by adding at the end the following new subparagraph:
+    > - **(D)** carry out development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, permitting, preliminary engineering and design work, and other preconstruction activities.
+
+- **(2)** in subsection (e), by adding at the end of the following new paragraph:
+  > - **(3)** *Interest rate reduction* Subject to the availability of funds authorized by subsection (k), the Secretary may reduce the interest to be paid on direct loans provided to entities described in paragraphs (1) through (4) of subsection (a), for the sole purpose of installing a positive train control system as defined in section 20157(i) of title 49, United States Code.
+
+- **(3)** in subsection (f)(1) by striking “under this section a” and inserting “under this section private insurance, including bond insurance, and any other”;
+- **(4)** in subsection (f)(3), by inserting “or, at the discretion of the Secretary, in a series of payments over the term of the loan. If insurance, including bond insurance, is used, the policy premium shall be paid for before the loan is disbursed” after “of loan amounts”;
+- **(5)** in paragraph (3) of subsection (h) by—
+  - **(A)** striking “and” at the end of subparagraph (A);
+  - **(B)** striking “guarantee.” at the end of subparagraph (B) and inserting “guarantee; and”; and
+  - **(C)** inserting after subparagraph (B) the following new subparagraph:
+    > - **(C)** the grant requirements of section 24405(a) of title 49, United States Code.
+
+- **(6)** by adding at the end of the following new subsection:
+  > - **(k)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary for purposes of carrying out subsection (e)(3) such funds as may be necessary for the period encompassing fiscal years 2012 through 2017.
