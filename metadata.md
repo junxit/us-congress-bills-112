@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 431
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 431
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 2273) to amend subtitle D of the S
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2011-10-14 — [House 112-1-792](votes/house-112-1-0792.md) — On Ordering the Previous Question — **Passed** (237–166)
+- 2011-10-14 — [House 112-1-793](votes/house-112-1-0793.md) — On Agreeing to the Resolution — **Passed** (244–163)
+
 ## Actions
 
 - 2011-10-12 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 2273) to amend subtitle D of the S
 - 2011-10-12 — The House Committee on Rules reported an original measure, H. Rept. 112-244, by Mr. Scott (SC).
 - 2011-10-12 — The House Committee on Rules reported an original measure, H. Rept. 112-244, by Mr. Scott (SC).
 - 2011-10-12 — The resolution provides that the amendment in the nature of a substitute recommended by the Committee on Energy and Commerce shall be considered as an original bill.
+- 2011-10-14 — Considered as privileged matter. (consideration: CR H6925-6934)
+- 2011-10-14 — DEBATE - The House proceeded with one hour of debate on H. Res. 431.
+- 2011-10-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-14 — On agreeing to the resolution Agreed to by recorded vote: 244 - 163 (Roll no. 793). (text: CR H6925)
+- 2011-10-14 — On ordering the previous question Agreed to by the Yeas and Nays: 237 - 166 (Roll no. 792). (consideration: CR H6932-6934)
+- 2011-10-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 244 - 163 (Roll no. 793).(text: CR H6925)
