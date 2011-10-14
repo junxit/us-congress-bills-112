@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2150
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2150
@@ -16,7 +16,7 @@ National Petroleum Reserve Alaska Access Act
 
 - Rep. Hastings, Doc [R-WA-4] (H000329)
 
-## Cosponsors (11)
+## Cosponsors (14)
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
@@ -29,6 +29,9 @@ National Petroleum Reserve Alaska Access Act
 - Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 - Rep. Southerland, Steve II [R-FL-2] (S001186)
+- Rep. Rivera, David [R-FL-25] (R000590)
+- Rep. Landry, Jeffrey M. [R-LA-3] (L000574)
+- Rep. Denham, Jeff [R-CA-19] (D000612)
 
 ## Committees (1)
 
@@ -39,3 +42,11 @@ National Petroleum Reserve Alaska Access Act
 - 2011-06-13 — Introduced in House
 - 2011-06-13 — Introduced in House
 - 2011-06-13 — Referred to the House Committee on Natural Resources.
+- 2011-06-14 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2011-06-16 — Subcommittee Hearings Held.
+- 2011-07-13 — Committee Consideration and Mark-up Session Held.
+- 2011-07-13 — Ordered to be Reported by the Yeas and Nays: 28 - 14.
+- 2011-07-13 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2011-10-14 — Placed on the Union Calendar, Calendar No. 165.
+- 2011-10-14 — Reported by the Committee on Natural Resources. H. Rept. 112-249.
+- 2011-10-14 — Reported by the Committee on Natural Resources. H. Rept. 112-249.
