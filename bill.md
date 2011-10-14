@@ -22,7 +22,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(B)** facilitating the development of a world-class domestic copper deposit capable of meeting a significant portion of the annual United States demand for this strategic and important mineral, in an area which has already been subject to mining operations;
     - **(C)** significantly enhancing Federal, State, and local revenue collections in a time of severe governmental budget shortfalls;
     - **(D)** securing Federal ownership and protection of land with significant fish and wildlife, recreational, scenic, water, riparian, cultural, and other public values;
-    - **(E)** assisting more efficient Federal land management via Federal acquisition of land for addition to the Las Cienegas and San Pedro Riparian National Conservation Areas, and to the Tonto and Coconino National Forests;
+    - **(E)** assisting more efficient Federal land management via Federal acquisition of land for addition to the Las Cienegas and San Pedro National Conservation Areas, and to the Tonto and Coconino National Forests;
     - **(F)** providing opportunity for community expansion and economic diversification adjacent to the towns of Superior, Miami, and Globe, Arizona; and
     - **(G)** protecting the cultural resources and other values of the Apache Leap escarpment located near Superior, Arizona; and
   - **(2)** the land exchange is, therefore, in the public interest.
@@ -32,12 +32,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 In this Act:
 
-- **(1)** *Apache leap* The term Apache Leap means the approximately 822 acres of land depicted on the map entitled “Apache Leap” and dated March 2011.
+- **(1)** *Apache leap* The term “Apache Leap” means the approximately 807 acres of land depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Apache Leap” and dated March 2011.
 - **(2)** *Federal land* The term Federal land means the approximately 2,422 acres of land located in Pinal County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Parcel–Oak Flat” and dated March 2011.
 - **(3)** *Indian tribe* The term Indian tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 - **(4)** *Non-Federal land* The term non-Federal land means the parcels of land owned by Resolution Copper that are described in section 5(a) and, if necessary to equalize the land exchange under section 4, section 4(e)(2)(A)(i).
-- **(5)** *Oak flat campground* The term Oak Flat Campground means the approximately 50 acres of land comprising approximately 16 developed campsites depicted on the map entitled “Oak Flat Campground” and dated March 2011.
-- **(6)** *Oak flat withdrawal area* The term Oak Flat Withdrawal Area means the approximately 760 acres of land depicted on the map entitled “Oak Flat Withdrawal Area” and dated March 2011.
+- **(5)** *Oak flat campground* The term “Oak Flat Campground” means the approximately 50 acres of land comprising approximately 16 developed campsites depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Oak Flat Campground” and dated March 2011.
+- **(6)** *Oak flat withdrawal area* The term “Oak Flat Withdrawal Area” means the approximately 760 acres of land depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Oak Flat Withdrawal Area” and dated March 2011.
 - **(7)** *Resolution copper* The term Resolution Copper means Resolution Copper Mining, LLC, a Delaware limited liability company, including any successor, assign, affiliate, member, or joint venturer of Resolution Copper Mining, LLC.
 - **(8)** *Secretary* The term Secretary means the Secretary of Agriculture.
 - **(9)** *State* The term State means the State of Arizona.
@@ -51,7 +51,7 @@ In this Act:
   - **(2)** conforms to the title approval standards of the Attorney General of the United States applicable to land acquisitions by the Federal Government.
 - **(c)** *Consultation with indian tribes* If not undertaken prior to enactment of this Act, within 30 days of the date of enactment of this Act, the Secretary shall engage in government-to-government consultation with affected Indian tribes concerning issues related to the land exchange, in accordance with applicable laws (including regulations).
 - **(d)** *Appraisals*
-  - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary and Resolution Copper shall select an appraiser to conduct appraisals of the Federal land and non-Federal land.
+  - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary and Resolution Copper shall select an appraiser to conduct appraisals of the Federal land and non-Federal land in compliance with the requirements of section 254.9 of title 36, Code of Federal Regulations.
   - **(2)** *Requirements*
     - **(A)** *In general* Except as provided in subparagraph (B), an appraisal prepared under this subsection shall be conducted in accordance with nationally recognized appraisal standards, including—
       - **(i)** the Uniform Appraisal Standards for Federal Land Acquisitions; and
@@ -81,11 +81,11 @@ In this Act:
   - **(2)** *Conditions* Any activities undertaken in accordance with this subsection shall be subject to such reasonable terms and conditions as the Secretary may require.
   - **(3)** *Termination* The authorization for Resolution Copper to undertake mineral exploration activities under this subsection shall remain in effect until the Oak Flat Withdrawal Area land is conveyed to Resolution Copper in accordance with this Act.
 - **(g)** *Costs* As a condition of the land exchange under this Act, Resolution Copper shall agree to pay, without compensation, all costs that are—
-  - **(1)** associated with the land exchange; and
+  - **(1)** associated with the land exchange and any environmental review document under subsection (j); and
   - **(2)** agreed to by the Secretary.
 - **(h)** *Use of Federal land* The Federal land to be conveyed to Resolution Copper under this Act shall be available to Resolution Copper for mining and related activities subject to and in accordance with applicable Federal, State, and local laws pertaining to mining and related activities on land in private ownership.
 - **(i)** *Intent of Congress* It is the intent of Congress that the land exchange directed by this Act shall be consummated not later than one year after the date of enactment of this Act.
-- **(j)** *Environmental compliance* Compliance with the requirements of the National Environmental Policy (42 U.S.C. 3421 et seq.) under this Act shall be as follows:
+- **(j)** *Environmental compliance* Compliance with the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) under this Act shall be as follows:
   - **(1)** Prior to commencing production in commercial quantities of any valuable mineral from the Federal land conveyed to Resolution Copper under this Act (except for any production from exploration and mine development shafts, adits, and tunnels needed to determine feasibility and pilot plant testing of commercial production or to access the ore body and tailing deposition areas), Resolution Copper shall submit to the Secretary a proposed mine plan of operations.
   - **(2)** The Secretary shall, within 3 years of such submission, complete preparation of an environmental review document in accordance with section 102(2) of the National Environmental Policy Act of 1969 (42 U.S.C. 4322(2)) which shall be used as the basis for all decisions under applicable Federal laws, rules and regulations regarding any Federal actions or authorizations related to the proposed mine and mine plan of operations of Resolution Copper, including the construction of associated power, water, transportation, processing, tailings, waste dump, and other ancillary facilities.
 
@@ -93,15 +93,15 @@ In this Act:
 
 - **(a)** *Conveyance* On receipt of title to the Federal land, Resolution Copper shall simultaneously convey—
   - **(1)** to the Secretary, all right, title, and interest that the Secretary determines to be acceptable in and to—
-    - **(A)** the approximately 147 acres of land located in Gila County, Arizona, depicted on the map entitled “Southeast Arizona Land Conservation Act of 2011–Non-Federal Parcel–Turkey Creek” and dated March 2011;
-    - **(B)** the approximately 148 acres of land located in Yavapai County, Arizona, depicted on the map entitled “Southeast Arizona Land Conservation Act of 2011–Non-Federal Parcel–Tangle Creek” and dated March 2011;
-    - **(C)** the approximately 149 acres of land located in Maricopa County, Arizona, depicted on the map entitled “Southeast Arizona Land Conservation Act of 2011–Non-Federal Parcel–Cave Creek” and dated March 2011;
+    - **(A)** the approximately 147 acres of land located in Gila County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Turkey Creek” and dated March 2011;
+    - **(B)** the approximately 148 acres of land located in Yavapai County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Tangle Creek” and dated March 2011;
+    - **(C)** the approximately 149 acres of land located in Maricopa County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Cave Creek” and dated March 2011;
     - **(D)** the approximately 640 acres of land located in Coconino County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–East Clear Creek” and dated March 2011; and
-    - **(E)** the approximately 110 acres of land located in Pinal County, Arizona, depicted on the map entitled “Southeast Arizona Land Conservation Act of 2011–Non-Federal Parcel–Apache Leap South End” and dated March 2011; and
+    - **(E)** the approximately 110 acres of land located in Pinal County, Arizona, depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Apache Leap South End” and dated March 2011; and
   - **(2)** to the Secretary of the Interior, all right, title, and interest that the Secretary of the Interior determines to be acceptable in and to—
-    - **(A)** the approximately 3,050 acres of land located in Pinal County, Arizona, identified as “Lands to DOI” as generally depicted on the map entitled “Lower San Pedro River” and dated March 2011;
-    - **(B)** the approximately 160 acres of land located in Gila and Pinal Counties, Arizona, identified as “Lands to DOI” as generally depicted on the map entitled “Dripping Springs” and dated March 2011; and
-    - **(C)** the approximately 940 acres of land located in Santa Cruz County, Arizona, identified as “Lands to DOI” as generally depicted on the map entitled “Appleton Ranch” and dated March 2011.
+    - **(A)** the approximately 3,050 acres of land located in Pinal County, Arizona, identified as “Lands to DOI” as generally depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Lower San Pedro River” and dated July 6, 2011;
+    - **(B)** the approximately 160 acres of land located in Gila and Pinal Counties, Arizona, identified as “Lands to DOI” as generally depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Dripping Springs” and dated July 6, 2011; and
+    - **(C)** the approximately 940 acres of land located in Santa Cruz County, Arizona, identified as “Lands to DOI” as generally depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Appleton Ranch” and dated July 6, 2011.
 - **(b)** *Management of acquired land*
   - **(1)** *Land acquired by the Secretary*
     - **(A)** *In general* Land acquired by the Secretary under this Act shall—
@@ -110,9 +110,9 @@ In this Act:
     - **(B)** *Boundary revision* On the acquisition of land by the Secretary under this Act, the boundaries of the national forest shall be modified to reflect the inclusion of the acquired land.
     - **(C)** *Land and water conservation fund* For purposes of section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–9), the boundaries of a national forest in which land acquired by the Secretary is located shall be deemed to be the boundaries of that forest as in existence on January 1, 1965.
   - **(2)** *Land acquired by the Secretary of the interior*
-    - **(A)** *San pedro riparian national conservation area*
-      - **(i)** *In general* The land acquired by the Secretary of the Interior under subsection (a)(2)(A) shall be added to, and administered as part of, the San Pedro Riparian National Conservation Area in accordance with the laws (including regulations) applicable to the Conservation Area.
-      - **(ii)** *Management plan* Not later than 2 years after the date on which the land is acquired, the Secretary of the Interior shall update the management plan for the San Pedro Riparian National Conservation Area to reflect the management requirements of the acquired land.
+    - **(A)** *San pedro national conservation area*
+      - **(i)** *In general* The land acquired by the Secretary of the Interior under subsection (a)(2)(A) shall be added to, and administered as part of, the San Pedro National Conservation Area in accordance with the laws (including regulations) applicable to the Conservation Area.
+      - **(ii)** *Management plan* Not later than 2 years after the date on which the land is acquired, the Secretary of the Interior shall update the management plan for the San Pedro National Conservation Area to reflect the management requirements of the acquired land.
     - **(B)** *Dripping springs* Land acquired by the Secretary of the Interior under subsection (a)(2)(B) shall be managed in accordance with the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) and applicable land use plans.
     - **(C)** *Las cienegas national conservation area* Land acquired by the Secretary of the Interior under subsection (a)(2)(C) shall be added to, and administered as part of, the Las Cienegas National Conservation Area in accordance with the laws (including regulations) applicable to the Conservation Area.
 - **(c)** *Surrender of rights* In addition to the conveyance of the non-Federal land to the United States under this Act, and as a condition of the land exchange, Resolution Copper shall surrender to the United States, without compensation, the rights held by Resolution Copper under the mining laws and other laws of the United States to commercially extract minerals under Apache Leap.
@@ -156,11 +156,7 @@ Subject to valid existing rights, Apache Leap and any land acquired by the Unite
   - **(1)** Approximately 30 acres of land as depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Parcel–Fairview Cemetery” and dated March 2011.
   - **(2)** The reversionary interest and any reserved mineral interest of the United States in the approximately 265 acres of land located in Pinal County, Arizona, as depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Reversionary Interest–Superior Airport” and dated March 2011.
   - **(3)** The approximately 250 acres of land located in Pinal County, Arizona, as depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Parcel–Superior Airport Contiguous Parcels” and dated March 2011.
-- **(b)** *Payment*
-  - **(1)** *In general* The Town shall pay to the Secretary the market value for each parcel of land or interest in land acquired under this section, as determined by appraisals conducted in accordance with section 4(d).
-  - **(2)** *Reduction* If the final appraised value of the non-Federal land exceeds the value of the Federal land under section 4—
-    - **(A)** the obligation of the Town to pay the United States shall be reduced by an amount not to exceed the excess value of the non-Federal land conveyed to the United States; and
-    - **(B)** the value of the donation made by Resolution Copper to the United States shall be reduced accordingly.
+- **(b)** *Payment* The Town shall pay to the Secretary the market value for each parcel of land or interest in land acquired under this section, as determined by appraisals conducted in accordance with section 4(d).
 - **(c)** *Sisk Act* Any payment received by the Secretary from the Town under this section shall be deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”) (16 U.S.C. 484a) and shall be made available to the Secretary for the acquisition of land for addition to the National Forest System.
 - **(d)** *Terms and conditions* The conveyances under this section shall be subject to such terms and conditions as the Secretary may require.
 
