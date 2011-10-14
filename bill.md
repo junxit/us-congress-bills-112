@@ -24,14 +24,14 @@ This Act may be cited at the “Advancing Offshore Wind Production Act”.
     - **(B)** restoration of the project site to approximately the original condition of the site; and
   - **(3)** provides meteorological information obtained by the project to the Secretary of the Interior.
 - **(b)** *Offshore meteorological project permitting*
-  - **(1)** *In general* The Secretary of the Interior shall by regulation require that any applicant seeking to conduct an offshore meteorological site testing and monitoring project on the outer Continental Shelf (as that term is defined in the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.)) must obtain a permit for the project in accordance with this subsection.
-  - **(2)** *Permit timeline and conditions*
-    - **(A)** *Deadline for approval* The Secretary shall decide whether to issue a permit for an offshore meteorological site testing and monitoring project within 30 days after receiving an application for the permit.
+  - **(1)** *In general* The Secretary of the Interior shall by regulation require that any applicant seeking to conduct an offshore meteorological site testing and monitoring project on the outer Continental Shelf (as that term is defined in the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.)) must obtain a permit and right of way for the project in accordance with this subsection.
+  - **(2)** *Permit and right of way timeline and conditions*
+    - **(A)** *Deadline for approval* The Secretary shall decide whether to issue a permit and right of way for an offshore meteorological site testing and monitoring project within 30 days after receiving an application.
     - **(B)** *Public comment and consultation* During the period referred to in subparagraph (A), the Secretary shall—
       - **(i)** provide an opportunity for submission of comments by the public; and
-      - **(ii)** consult with the Secretary of Defense, the Commandant of the Coast Guard, and the heads of other Federal, State, and local agencies that would be affected by issuance of the permit.
+      - **(ii)** consult with the Secretary of Defense, the Commandant of the Coast Guard, and the heads of other Federal, State, and local agencies that would be affected by issuance of the permit and right of way.
     - **(C)** *Denial of permit; opportunity to remedy deficiencies* If the application is denied, the Secretary shall provide the applicant—
       - **(i)** in writing, clear and comprehensive reasons why the application was not approved and detailed information concerning any deficiencies in the application; and
       - **(ii)** an opportunity to remedy such deficiencies.
-- **(c)** *NEPA exclusion* Section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) shall not apply with respect to an offshore meteorological site testing and monitoring project.
+- **(c)** *NEPA exclusion* Section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)) shall not apply with respect to an offshore meteorological site testing and monitoring project.
 - **(d)** *Protection of information* The information provided to the Secretary of the Interior pursuant to subsection (a)(3) shall be treated by the Secretary as proprietary information and protected against disclosure.
