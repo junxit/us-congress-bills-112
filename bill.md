@@ -19,7 +19,7 @@ This Act may be cited as the “Chesapeake Bay Accountability and Recovery Act o
   - **(1)** an interagency crosscut budget that displays—
     - **(A)** the proposed funding for any Federal restoration activity to be carried out in the succeeding fiscal year, including any planned interagency or intra-agency transfer, for each of the Federal agencies that carry out restoration activities;
     - **(B)** to the extent that information is available, the estimated funding for any State restoration activity to be carried out in the succeeding fiscal year;
-    - **(C)** all expenditures for Federal restoration activities from the preceding 3 fiscal years, the current fiscal year, and the succeeding fiscal year; and
+    - **(C)** all expenditures for Federal restoration activities from the preceding 2 fiscal years, the current fiscal year, and the succeeding fiscal year; and
     - **(D)** all expenditures, to the extent that information is available, for State restoration activities during the equivalent time period described in subparagraph (C);
   - **(2)** a detailed accounting of all funds received and obligated by all Federal agencies for restoration activities during the current and preceding fiscal years, including the identification of funds which were transferred to a Chesapeake Bay State for restoration activities;
   - **(3)** to the extent that information is available, a detailed accounting from each State of all funds received and obligated from a Federal agency for restoration activities during the current and preceding fiscal years; and
@@ -52,11 +52,12 @@ This Act may be cited as the “Chesapeake Bay Accountability and Recovery Act o
   - **(4)** a process for modification of restoration activities that have not attained or will not attain the specific and measurable objectives set forth under paragraph (1); and
   - **(5)** a process for prioritizing restoration activities and programs to which adaptive management shall be applied.
 - **(b)** *Implementation* The Administrator shall implement the adaptive management plan developed under subsection (a).
-- **(c)** *Updates* The Administrator shall update the adaptive management plan developed under subsection (a) every 3 years.
+- **(c)** *Updates* The Administrator shall update the adaptive management plan developed under subsection (a) every 2 years.
 - **(d)** *Report to Congress*
   - **(1)** *In general* Not later than 60 days after the end of a fiscal year, the Administrator shall transmit to Congress an annual report on the implementation of the adaptive management plan required under this section for such fiscal year.
   - **(2)** *Contents* The report required under paragraph (1) shall contain information about the application of adaptive management to restoration activities and programs, including programmatic and project level changes implemented through the process of adaptive management.
   - **(3)** *Effective date* Paragraph (1) shall apply to the first fiscal year that begins after the date of enactment of this Act.
+- **(e)** *Inclusion of plan in Annual Action Plan and Annual Progress Report* The Administrator shall ensure that the Annual Action Plan and Annual Progress Report required by section 205 of Executive Order 13508 includes the adaptive management plan outlined in subsection (a).
 
 ## § 4. Independent Evaluator for the Chesapeake Bay Program
 
@@ -64,7 +65,7 @@ This Act may be cited as the “Chesapeake Bay Accountability and Recovery Act o
 - **(b)** *Appointment*
   - **(1)** *In general* The Independent Evaluator shall be appointed by the Administrator from among nominees submitted by the Chesapeake Executive Council.
   - **(2)** *Nominations* The Chesapeake Executive Council may submit to the Administrator 4 nominees for appointment to any vacancy in the office of the Independent Evaluator.
-- **(c)** *Reports* The Independent Evaluator shall submit a report to the Congress every 3 years in the findings and recommendations of reviews under this section.
+- **(c)** *Reports* The Independent Evaluator shall submit a report to the Congress every 2 years in the findings and recommendations of reviews under this section.
 - **(d)** *Chesapeake Executive Council* In this section, the term “Chesapeake Executive Council” has the meaning given that term by section 307 of the National Oceanic and Atmospheric Administration Authorization Act of 1992 (Public Law 102–567; 15 U.S.C. 1511d).
 
 ## § 5. Definitions
