@@ -15,7 +15,10 @@ This Act may be cited as the “Continuing Chemical Facilities Antiterrorism Sec
 
 ## § 2. Extension of chemical facilities antiterrorism security program
 
-- **(a)** *In general* Section 550(b) of the Department of Homeland Security Appropriations Act, 2007 (6 U.S.C. 121 note) is amended by striking “October 4, 2010” and inserting “October 4, 2014”.
+- **(a)** *In general* Section 550(b) of the Department of Homeland Security Appropriations Act, 2007 (6 U.S.C. 121 note) is amended by striking “October 4, 2010October 4, 2011” and inserting “October 4, 2014”.
 - **(b)** *Chemical facility security enhancements*
   - **(1)** *In general* The Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by adding at the end the following:
   - **(2)** *Table of contents* The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by inserting after the item relating to section 2022 the following:
+  - **(3)** *Sunset* Effective on the date on which authority terminates under section 550(b) of the Department of Homeland Security Appropriations Act, 2007 (6 U.S.C. 121 note), the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended—
+    - **(A)** by striking title XXI; and
+    - **(B)** in the table of contents in section 1(b), by striking the items relating to title XXI and sections 2101 through 2106.

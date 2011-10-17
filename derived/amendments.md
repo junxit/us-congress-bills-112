@@ -1,7 +1,7 @@
 ---
 measure: S. 473
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 550(b) of the Department of Homeland Security Appropriations Act, 2007 (6 U.S.C. 121 note) is amended by striking “October 4, 2010” and inserting “October 4, 2014”. | the bill names no machine-readable US Code section |
+| — | replace | Section 550(b) of the Department of Homeland Security Appropriations Act, 2007 (6 U.S.C. 121 note) is amended by striking “October 4, 2010October 4, 2011” and inserting “October 4, 2014”. | the bill names no machine-readable US Code section |
 | — | add-at-end | The Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by inserting after the item relating to section 2022 the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking title XXI; and | the bill names no machine-readable US Code section |
+| — | strike | in the table of contents in section 1(b), by striking the items relating to title XXI and sections 2101 through 2106. | the bill names no machine-readable US Code section |

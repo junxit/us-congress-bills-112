@@ -1,7 +1,7 @@
 ---
 measure: S. 473
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 473
@@ -31,3 +31,7 @@ Continuing Chemical Facilities Antiterrorism Security Act of 2011
 - 2011-03-03 — Introduced in Senate
 - 2011-03-03 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2011-03-03 — Sponsor introductory remarks on measure. (CR S1223-1224)
+- 2011-06-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2011-10-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. Without written report.
+- 2011-10-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. Without written report.
+- 2011-10-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 194.
