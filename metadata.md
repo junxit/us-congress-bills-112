@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2633
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2633
@@ -48,3 +48,7 @@ Appeal Time Clarification Act of 2011
 - 2011-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 700). (text: CR H6047)
 - 2011-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 700).(text: CR H6047)
 - 2011-09-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2011-10-13 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2011-10-17 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2011-10-17 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2011-10-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 199.
