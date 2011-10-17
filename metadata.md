@@ -1,7 +1,7 @@
 ---
 measure: H.R. 368
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 368
@@ -54,3 +54,7 @@ Removal Clarification Act of 2011
 - 2011-02-28 — Reported by the Committee on Judiciary. H. Rept. 112-17, Part I.
 - 2011-02-28 — Reported by the Committee on Judiciary. H. Rept. 112-17, Part I.
 - 2011-03-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2011-10-13 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2011-10-17 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2011-10-17 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2011-10-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 197.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 368
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -45,7 +45,7 @@ complete account of the bill's effect, which it is not.
 | `28 U.S.C. § 1442` | insert | by inserting “that is” after “or criminal prosecution”; | the bill quotes the text inserted but describes where it goes |
 | `28 U.S.C. § 1442` | insert | by inserting “and that is” after “in a State court”; and | the bill quotes the text inserted but describes where it goes |
 | `28 U.S.C. § 1442` | insert | by inserting “or directed to” after “against”; and | the bill quotes the text inserted but describes where it goes |
-| `28 U.S.C. § 1442` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 1442` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 1442` | strike | by striking “sued”; and | the bill quotes the text struck but describes what replaces it |
 | `28 U.S.C. § 1442` | insert | in each of paragraphs (3) and (4), by inserting “or relating to” after “for”. | the bill quotes the text inserted but describes where it goes |
 | `28 U.S.C. § 1442` | add-at-end | Section 1446 of title 28, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
