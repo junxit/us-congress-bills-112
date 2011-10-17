@@ -1,7 +1,7 @@
 ---
 measure: H.R. 394
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
