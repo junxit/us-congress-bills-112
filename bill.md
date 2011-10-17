@@ -9,7 +9,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 > To amend title 49, United States Code, to provide for enhanced safety and environmental protection in pipeline transportation, to provide for enhanced reliability in the transportation of the Nation's energy products by pipeline, and for other purposes.
 
-## § 1. Short title; amendment of title 49, united states code; table of contents
+## § 1. Short title; amendment of title 49, United States Code; table of contents
 
 - **(a)** *Short title* This Act may be cited as the “Pipeline Transportation Safety Improvement Act of 2011”.
 - **(b)** *Amendment of title 49, united states code* Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or a repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of title 49, United States Code.
@@ -55,7 +55,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 4. Offshore gathering pipelines
 
-Section 60102(k)(1) is amended by striking the last sentence and inserting “Not later than 1 year after the date of enactment of the Pipeline Transportation Safety Improvement Act of 2011, the Secretary shall issue regulations, after notice and an opportunity for a hearing, subjecting offshore hazardous liquid gathering pipelines and hazardous liquid gathering pipelines located within the inlets of the Gulf of Mexico to the same standards and regulations as other hazardous liquid pipelines. The regulations issued under this paragraph shall not apply to low-stress distribution pipelines.”.
+Section 60102(k)(1) is amended by striking the last sentence and inserting “Not later than 1 year after the date of enactment of the Pipeline Transportation Safety Improvement Act of 2011, the Secretary shall issue regulations, after notice and an opportunity for a hearing, subjecting offshore hazardous liquid gathering pipelines and hazardous liquid gathering pipelines located within the inlets of the Gulf of Mexico to the same standards and regulations as other hazardous liquid gathering pipelines. The regulations issued under this paragraph shall not apply to low-stress distribution pipelines.”.
 
 ## § 5. Automatic and remote-controlled shut-off valves
 
@@ -74,15 +74,17 @@ Section 60109(e)(3) is amended—
 ## § 7. Integrity management
 
 - **(a)** *Evaluation* Within 1 year after the date of enactment of this Act, the Secretary of Transportation shall evaluate—
-  - **(1)** whether integrity management system requirements, or elements thereof, should be expanded beyond high consequence areas (as defined under section 60109(a) of title 49, United States Code); and
-  - **(2)** with respect to gas pipeline facilities, whether applying the integrity management program requirements to additional areas would mitigate the need for class location requirements.
-- **(b)** *Standards* Not later than 1 year after completion of the evaluation, the Secretary shall prescribe such regulations, after notice and an opportunity for a hearing.
+  - **(1)** whether integrity management system requirements, or elements thereof, should be expanded beyond high consequence areas (as defined under section 60109(a) of title 49, United States Code);
+  - **(2)** with respect to gas pipeline facilities, whether applying the integrity management program requirements to additional areas would mitigate the need for class location requirements, with an emphasis on class 3 and 4 facilities; and
+  - **(3)** whether data collected outside high consequence areas as part of gas transmission pipeline integrity management programs should be included as part of the records required to be maintained by operators.
+- **(b)** *Standards* Not later than 1 year after completion of the evaluation, the Secretary shall prescribe such regulations, as appropriate, after notice and an opportunity for a hearing.
 - **(c)** *Data reporting* The Secretary shall collect any relevant data necessary to complete the evaluation required by subsection (a) and may collect such additional data pursuant to regulations promulgated under subsection (b) as may be necessary.
+- **(d)** *Seismicity* In identifying high consequence areas under section 60109, the Secretary shall consider the seismicity of the area.
 
 ## § 8. Public education and awareness
 
 - **(a)** *In general* Chapter 601 is amended by adding at the end the following:
-  > § 60138. Public education and awareness
+  > ## § 60138. Public education and awareness
   >
   > - **(a)** *In general* Not later than 1 year after the date of enactment of the Pipeline Transportation Safety Improvement Act of 2011, the Secretary shall—
   >   - **(1)** maintain a monthly updated summary of all completed and final natural gas and hazardous liquid pipeline inspections conducted by or reported to the Pipeline and Hazardous Materials Safety Administration that includes—
@@ -90,22 +92,34 @@ Section 60109(e)(3) is amended—
   >     - **(B)** the type of inspection;
   >     - **(C)** the results of the inspection, including any deficiencies identified; and
   >     - **(D)** any corrective actions required to be taken by the operator to remediate such deficiencies;
-  >   - **(2)** maintain a comprehensive list, to be updated annually, and individual copy of each gas emergency response plan pursuant to section 60102(d)(5) of this title and of each hazardous liquid pipeline operator's facility response plan pursuant to section 311(j)(5) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)(5)), excluding any proprietary or security-sensitive information that may be contained in an operator's plan;
+  >   - **(2)** maintain—
+  >     - **(A)** a status indication of the review and approval of each gas emergency response plan pursuant to section 60102(d)(5) of this title and of each hazardous liquid pipeline operator's response plan pursuant to part 194 of title 49, Code of Federal Regulations;
+  >     - **(B)** a comprehensive description of the requirements for such plans; and
+  >     - **(C)** a detailed summary of each approved plan written by the operator that includes the key elements of the plan, but which may exclude—
+  >       - **(i)** proprietary information;
+  >       - **(ii)** security-sensitive information, including as referenced in section 1520.5(a) of title 49, code of Federal Regulations;
+  >       - **(iii)** specific response resources and tactical resource deployment plans; and
+  >       - **(iv)** the specific amount and location of worst-case discharges, including the process by which an operator determines the worst discharge.
   >   - **(3)** excluding any proprietary or security-sensitive information, as part of the National Pipeline Mapping System maintain a map of all currently designated high consequence areas in which pipelines are required to meet integrity management safety regulations and update the map annually; and
-  >   - **(4)** maintain a current copy of any industry-developed or professional organization pipeline safety standards that have been incorporated by reference into regulations, to the extent consistent with fair use.
+  >   - **(4)** maintain a copy or, at a minimum, a detailed summary of any industry-developed or professional organization pipeline safety standards that have been incorporated by reference into regulations, to the extent consistent with fair use.
   > - **(b)** *Public availability* The requirements of subsection (a) shall be considered to have been met if the information required to be made public is made available on the Pipeline and Hazardous Materials Safety Administration's public Web site.
-  > - **(c)** *Relationship to foia* Nothing in this section shall be construed to require disclosure of information or records that are exempt from disclosure under section 552 of title 5.
+  > - **(c)** *Relationship to FOIA* Nothing in this section shall be construed to require disclosure of information or records that are exempt from disclosure under section 552 of title 5.
 
-- **(b)** *Clerical amendment* The table of contents for chapter 601 is amended by inserting after the item relating to section 60137 the following:
+- **(b)** *Clerical amendment* The table of contents for chapter 601 is amended by inserting after the item relating to section 60137 the following new item:
 
-## § 9. Government accountability office report
+## § 9. Cast iron gas pipelines
 
-The Comptroller General shall conduct a comprehensive analysis of the safety risks, including the risk of accident and injury to individuals or the environment, from both onshore and offshore pipelines to which chapter 601 of title 49, United States Code, does not apply, including gathering lines. The analysis shall also consider the safety risks and benefits of applying the regulations under section 60109(e) of title 49, United States Code, to low-stress gas transmission lines. Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit a report on the results of this analysis to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committees on Transportation and Infrastructure and on Energy and Commerce.
+- **(a)** *Survey update* Not later than one year after the enactment of this Act, the Secretary of Transportation shall conduct a follow-on survey to the survey conducted under section 60108(d) to determine—
+  - **(1)** the extent to which each operator has adopted a plan for the safe management and replacement of cast iron pipelines;
+  - **(2)** the elements of the plan, including the anticipated rate of replacement; and
+  - **(3)** the progress that has been made.
+- **(b)** *Survey frequency* Section 60108(d) is amended by adding at the end the following new paragraph:
+  > - **(4)** The secretary shall conduct a follow-up survey to measure progress of plan implementation biannually.
 
 ## § 10. Leak detection
 
-- **(a)** *Leak detection study update* Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committees on Transportation and Infrastructure and on Energy and Commerce an updated report on leak detection systems utilized by operators of hazardous liquid pipelines and transportation-related flow lines. The report shall include an analysis of the technical limitations of current leak detection systems, including the systems' ability to detect ruptures and small leaks that are ongoing or intermittent, and what can be done to foster development of better technologies.
-- **(b)** *Leak detection standards* Not later than 1 year after completion of the report, the Secretary may, based on the study in subsection (a), prescribe regulations, after notice and an opportunity for a hearing, requiring an operator of a hazardous liquid pipeline to use leak detection technologies, particularly in high consequence areas.
+- **(a)** *Leak detection study update* Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and on Energy and Commerce of the House of Representatives an updated report on leak detection systems utilized by operators of hazardous liquid pipelines and transportation-related flow lines. The report shall include an analysis of the technical limitations of current leak detection systems, including the systems' ability to detect ruptures and small leaks that are ongoing or intermittent, and what can be done to foster development of better technologies.
+- **(b)** *Leak detection standards* Not later than 1 year after completion of the report, the Secretary shall, as appropriate, based on the study in subsection (a), prescribe regulations, after notice and an opportunity for a hearing, requiring an operator of a hazardous liquid pipeline to use leak detection technologies, particularly in high consequence areas.
 
 ## § 11. Incident notification
 
@@ -126,7 +140,7 @@ Not later than 18 months after the date of enactment of this Act, the Secretary 
   - **(2)** by adding at the end the following:
     > - **(4)** Any other geospatial, technical, or other related pipeline data, including design and material specifications, that the Secretary determines is necessary to carry out the purposes of this section. The Secretary shall give reasonable notice to operators that the data are being requested.
 
-- **(b)** *Disclosure limited to foia requirements* Section 60132 is amended by adding at the end the following:
+- **(b)** *Disclosure limited to FOIA requirements* Section 60132 is amended by adding at the end the following:
   > - **(d)** *Public disclosure limited* The Secretary may not disclose information collected pursuant to subsection (a) except to the extent permitted by section 552 of title 5.
 
 ## § 14. International cooperation and consultation
@@ -140,7 +154,7 @@ Section 60117 is amended by adding at the end the following:
 
 ## § 15. Gas and hazardous liquid gathering lines
 
-Not later than 2 years after the date of enactment of this Act, the Secretary of Transportation shall complete a review of all exemptions for gas and hazardous liquid gathering lines. Based on this review the Secretary shall submit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committees on Transportation and Infrastructure and on Energy and Commerce containing the Secretary's recommendations with respect to the modification or revocation of existing exemptions.
+Not later than 2 years after the date of enactment of this Act, the Secretary of Transportation shall complete a review of all exemptions for gas and hazardous liquid gathering lines. Based on this review the Secretary shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and on Energy and Commerce of the House of Representatives containing the Secretary's recommendations with respect to the modification or revocation of existing exemptions.
 
 ## § 16. Transportation-related oil flow lines
 
@@ -154,15 +168,16 @@ Section 60102, as amended by section 5, is further amended by adding at the end 
 ## § 17. Alaska project coordination
 
 - **(a)** *In general* Chapter 601, as amended by section 8 of this Act, is further amended by adding at the end the following:
-  > § 60139. Alaska project coordination
+  > ## § 60139. Alaska project coordination
   >
-  > -  The Secretary may provide technical assistance to the State of Alaska for the purpose of achieving coordinated and effective oversight of the construction, expansion, or operation of pipeline systems in Alaska. The assistance may include—
-  >   - **(1)** conducting coordinated inspections of pipeline systems subject to the respective authorities of the Department of Transportation and the State of Alaska;
-  >   - **(2)** consulting on the development and implementation of programs designed to manage the integrity risks associated with operating pipeline systems in the unique conditions of Alaska;
-  >   - **(3)** training inspection and enforcement personnel and consulting on the development and implementation of inspection protocols and training programs; and
-  >   - **(4)** entering into cooperative agreements, grants, or other transactions with the State of Alaska, the Joint Pipeline Office, other Federal agencies, and other public and private agencies to carry out the objectives of this section.
+  > The Secretary may provide technical assistance to the State of Alaska for the purpose of achieving coordinated and effective oversight of the construction, expansion, or operation of pipeline systems in Alaska. The assistance may include—
+  >
+  > - **(1)** conducting coordinated inspections of pipeline systems subject to the respective authorities of the Department of Transportation and the State of Alaska;
+  > - **(2)** consulting on the development and implementation of programs designed to manage the integrity risks associated with operating pipeline systems in the unique conditions of Alaska;
+  > - **(3)** training inspection and enforcement personnel and consulting on the development and implementation of inspection protocols and training programs; and
+  > - **(4)** entering into cooperative agreements, grants, or other transactions with the State of Alaska, the Joint Pipeline Office, other Federal agencies, and other public and private agencies to carry out the objectives of this section.
 
-- **(b)** *Clerical amendment* The table of contents for chapter 601, as amended by section 8 of this Act, is further amended by inserting the following after the item relating to section 60138:
+- **(b)** *Clerical amendment* The table of contents for chapter 601, as amended by section 8 of this Act, is further amended by inserting after the item relating to section 60138 the following new item:
 
 ## § 18. Cost recovery for design reviews
 
@@ -176,6 +191,7 @@ Section 60117(n) is amended to read as follows:
 >       - **(ii)** uses new or novel technologies or designs.
 >   - **(2)** *Notification* For any new pipeline construction project in which the Secretary will conduct design reviews, the person or entity proposing the project shall notify the Secretary and provide the design specifications, construction plans and procedures, and related materials at least 120 days prior to the commencement of construction.
 >   - **(3)** *Deposit and use* There is established a Pipeline Safety Design Review Fund in the Treasury of the United States. The Secretary shall deposit funds paid under this subsection into the Fund. Funds deposited under this section are authorized to be appropriated for the purposes set forth in this chapter. Fees authorized under this section shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts.
+>   - **(4)** *No additional permitting authority* Nothing in this subsection shall be construed as authorizing the Secretary to require a person to obtain a permit before beginning design and construction in connection with a project described in paragraph (1)(B).
 
 ## § 19. Special permits
 
@@ -188,7 +204,7 @@ Section 60118(c)(1) is amended to read as follows:
 >     - **(ii)** the applicant's compliance history;
 >     - **(iii)** the applicant's accident history; and
 >     - **(iv)** any other information or data the Secretary considers relevant to making the determination.
->   - **(C)** *Effective period* A waiver of one or more pipeline operating requirements shall be reviewed by the Secretary 5 years after its effective date. In reviewing a waiver, the Secretary shall consider any change in ownership or control of the pipeline, any change in the conditions around the pipeline, and other factors as appropriate. The Secretary may modify, suspend, or revoke a waiver after such review under with subparagraph (E).
+>   - **(C)** *Effective period* A waiver of one or more pipeline operating requirements shall be reviewed by the Secretary 5 years after its effective date. In reviewing a waiver, the Secretary shall consider any change in ownership or control of the pipeline, any change in the conditions around the pipeline, and other factors as appropriate. The Secretary may modify, suspend, or revoke a waiver after such review under subparagraph (E).
 >   - **(D)** *Public notice and hearing* The Secretary may act on a waiver under this section only after public notice and an opportunity for a hearing, which may consist of publication of notice in the Federal Register that an application for a waiver has been filed and providing the public with the opportunity to review and comment on the application. If a waiver is granted, the Secretary shall state in the order and associated analysis the reasons for granting it.
 >   - **(E)** *Noncompliance and modification, suspension, or revocation* After notice to a holder of a waiver and opportunity to show cause, the Secretary may modify, suspend, or revoke a waiver issued under this section for failure to comply with its terms or conditions, intervening changes in Federal law, a material change in circumstances affecting safety, including erroneous information in the application, or any other reason. If necessary to avoid a significant risk of harm to persons, property, or the environment, the Secretary may waive the show cause procedure and make the action immediately effective.
 
@@ -199,7 +215,7 @@ Section 60101(a)(4) is amended—
 - **(1)** by striking “and” after the semicolon in subparagraph (A);
 - **(2)** by redesignating subparagraph (B) as subparagraph (C); and
 - **(3)** by inserting after subparagraph (A) the following:
-  > - **(B)** non-petroleum fuels, including biofuels that are flammable, toxic, or corrosive or would be harmful to the environment if released in significant quantities, and
+  > - **(B)** non-petroleum fuels, including biofuels that are flammable, toxic, or corrosive or would be harmful to the environment if released in significant quantities; and
 
 ## § 21. Carbon dioxide pipelines
 
@@ -209,25 +225,25 @@ Section 60102(i) is amended to read as follows:
 
 ## § 22. Study of the transportation of tar sands crude oil
 
-Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shall complete a comprehensive review of hazardous liquid pipeline regulations to determine whether these regulations are sufficient to regulate pipelines used for the transportation of tar sands crude oil. In conducting this review, the Secretary shall conduct an analysis of whether any increase in risk of release exists for pipelines transporting tar sands crude oil. The Secretary shall report the results of this review to the Senate Committee on Commerce, Science, and Transportation, and the House of Representatives Committees on Transportation and Infrastructure and on Energy and Commerce.
+Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shall complete a comprehensive review of hazardous liquid pipeline regulations to determine whether these regulations are sufficient to regulate pipelines used for the transportation of tar sands crude oil. In conducting this review, the Secretary shall conduct an analysis of whether any increase in risk of release exists for pipelines transporting tar sands crude oil. The Secretary shall report the results of this review to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and on Energy and Commerce of the House of Representatives.
 
 ## § 23. Study of non-petroleum hazardous liquids transported by pipeline
 
-The Secretary of Transportation may conduct an analysis of the transportation of non-petroleum hazardous liquids by pipeline for the purpose of identifying the extent to which pipelines are currently being used to transport non-petroleum hazardous liquids, such as chlorine, from chemical production facilities across land areas not owned by the producer that are accessible to the public. The analysis should identify the extent to which the safety of the lines is unregulated by the States and evaluate whether the transportation of such chemicals by pipeline across areas accessible to the public would present significant risks to public safety, property, or the environment in the absence of regulation. The results of the analysis shall be made available to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committees on Transportation and Infrastructure and on Energy and Commerce.
+The Secretary of Transportation may conduct an analysis of the transportation of non-petroleum hazardous liquids by pipeline for the purpose of identifying the extent to which pipelines are currently being used to transport non-petroleum hazardous liquids, such as chlorine, from chemical production facilities across land areas not owned by the producer that are accessible to the public. The analysis should identify the extent to which the safety of the lines is unregulated by the States and evaluate whether the transportation of such chemicals by pipeline across areas accessible to the public would present significant risks to public safety, property, or the environment in the absence of regulation. The results of the analysis shall be made available to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and on Energy and Commerce of the House of Representatives.
 
 ## § 24. Clarifications
 
 - **(a)** *Amendment of procedures clarification* Section 60108(a)(1) is amended by striking “an intrastate” and inserting “a”.
-- **(b)** *Owner and operator clarification* Section 60102(a)(2)(A) is amended by striking “owners and operators” and inserting in their place the words “any or all of the owners or operators”.
+- **(b)** *Owner and operator clarification* Section 60102(a)(2)(A) is amended by striking “owners and operators” and inserting “any or all of the owners or operators”.
 - **(c)** *One-call enforcement clarification* Section 60114(f) is amended by adding at the end the following: “This subsection does not apply to proceedings against persons who are pipeline operators.”.
 
 ## § 25. Additional resources
 
 - **(a)** *In general* To the extent funds are appropriated, the Secretary of Transportation shall increase the personnel of the Pipeline and Hazardous Materials Safety Administration by a total of 39 full-time employees to carry out the pipeline safety program and the administration of that program, of which at least—
-  - **(1)** 9 employees shall be added in fiscal year 2011;
-  - **(2)** 10 employees shall be added in fiscal year 2012;
-  - **(3)** 10 employees shall be added in fiscal year 2013; and
-  - **(4)** 10 employees shall be added in fiscal year 2014.
+  - **(1)** 9 employees shall be added in fiscal year 2012;
+  - **(2)** 10 employees shall be added in fiscal year 2013;
+  - **(3)** 10 employees shall be added in fiscal year 2014; and
+  - **(4)** 10 employees shall be added in fiscal year 2015.
 - **(b)** *Functions* In increasing the number of employees under subsection (a), the Secretary shall focus on hiring employees—
   - **(1)** to conduct data collection, analysis, and reporting;
   - **(2)** to develop, implement, and update information technology;
@@ -241,34 +257,64 @@ Section 60107(b) is amended to read as follows:
 
 > - **(b)** *Payments* After notifying and consulting with a State authority, the Secretary may withhold any part of a payment when the Secretary decides that the authority is not carrying out satisfactorily a safety program or not acting satisfactorily as an agent. The Secretary may pay an authority under this section only when the authority ensures the Secretary that it will provide the remaining costs of a safety program and that the total State amount spent for a safety program (excluding grants of the United States Government) will at least equal the average amount spent for gas and hazardous liquid safety programs for fiscal years 2004 through 2006, except when the Secretary waives the requirements of this subsection. The Secretary shall grant such a waiver if a State can demonstrate an inability to maintain or increase the required funding share of its pipeline safety program at or above the level required by this subsection due to economic hardship in that State.
 
-## § 27. Authorization of appropriations
+## § 27. Maximum allowable operating pressure
+
+- **(a)** *Establishment of records*
+  - **(1)** *In general* Not later than 6 months after the date of enactment of this Act, the Secretary of Transportation shall require pipeline operators to conduct a verification of records for all interstate and intrastate gas transmission lines in class 3 and class 4 locations and class 1 and class 2 high consequence areas that accurately reflect the pipeline’s physical and operational characteristics and confirm the established maximum allowable operating pressure of those pipelines.
+  - **(2)** *Elements* Verification of each record under paragraph (1) shall include such elements as the Secretary considers appropriate.
+- **(b)** *Reporting*
+  - **(1)** *Documentation of certain pipelines* Not later than 18 months after the date of enactment of this Act, pipeline operators shall submit to the Secretary documentation of all interstate and intrastate gas transmission pipelines in class 3 and class 4 locations and class 1 and class 2 high consequence areas where the records required under subsection (a) are not sufficient to confirm the established maximum allowable operating pressure of those pipeline segments.
+  - **(2)** *Exceedances of maximum allowable operating pressure* All pipeline operators shall report any exceedance of the maximum allowable operating pressure for gas transmission pipelines that exceed the build-up allowed for operation of pressure-limiting or control devices to the Secretary not later than 5 working days after the exceedance occurs. Notice of exceedance by gas transmission pipelines shall be provided concurrently to appropriate State authorities.
+- **(c)** *Determination of maximum allowable operating pressure*
+  - **(1)** *In general* For any transmission line reported in subsection (b), the Secretary shall require the operator of the transmission line to reconfirm a maximum allowable operational pressure as expeditiously as economically feasible.
+  - **(2)** *Interim actions* For cases described in paragraph (1), the Secretary will determine what actions are appropriate for a pipeline operator to take to maintain safety until a maximum allowable operating pressure is confirmed. In determining what actions an operator should take, the Secretary shall take into account consequences to public safety and the environment, impacts on pipeline system reliability and deliverability, and other factors, as appropriate.
+- **(d)** *Testing regulations* The Secretary shall, not later than 18 months after the date of the enactment of this Act, prescribe regulations for conducting tests to confirm the material strength of previously untested natural gas transmission pipelines located in areas identified pursuant to section 60109(a) of title 49, United States Code, and operating at a pressure greater than 30 percent of specified minimum yield strength. The Secretary shall consider safety testing methodologies including, at a minimum, pressure testing or other alternative methods, including in-line inspections, determined by the Secretary to be of equal or greater effectiveness. The Secretary, in consultation with the Chairman of the Federal Energy Regulatory Commission and State regulators, as appropriate, shall establish timeframes for the completion of such testing that take into account consequences to public safety and the environment and that minimize costs and service disruptions.
+
+## § 28. Administrative enforcement process
+
+- **(a)** *Issuance of regulations*
+  - **(1)** *In general* Not later than 2 years after the date of the enactment of this Act, the Secretary shall prescribe regulations—
+    - **(A)** requiring hearings under sections 60112, 60117, 60118, and 60122 to be convened before a presiding official;
+    - **(B)** providing the opportunity for any person requesting a hearing under sections 60112, 60117, 60118, and 60122 to arrange for a transcript of that hearing, at the expense of the requesting person; and
+    - **(C)** ensuring expedited review of any order issued pursuant to section 60112(e).
+  - **(2)** *Presiding official* The regulations prescribed under this subsection shall—
+    - **(A)** define the term “presiding official” to mean the person who conducts any hearing relating to civil penalty assessments, compliance orders, safety orders, or corrective action orders; and
+    - **(B)** require that the presiding official must be an attorney on the staff of the Deputy Chief Counsel that is not engaged in investigative or prosecutorial functions, including the preparation of notices of probable violations, orders relating to civil penalty assessments, compliance orders, or corrective action orders.
+- **(b)** *Standards of judicial review* Section 60119(a) is amended by adding at the end the following new paragraph:
+  > - **(3)** All judicial review of agency action under this section shall apply the standards of review established in section 706 of title 5.
+
+## § 29. Authorization of appropriations
 
 - **(a)** *Gas and hazardous liquid*
   - **(1)** Section 60125(a)(1) is amended by striking subparagraphs (A) through (D) and inserting the following:
-    > - **(A)** for fiscal year 2011, $92,206,000, of which $9,200,000 is for carrying out such section 12 and $36,958,000 is for making grants;
-    > - **(B)** for fiscal year 2012, $96,144,000, of which $9,600,000 for carrying out such section 12 and $39,611,000 is for making grants;
-    > - **(C)** for fiscal year 2013, $99,876,000, of which $9,900,000 is for carrying out such section 12 and $41,148,000 is for making grants; and
-    > - **(D)** for fiscal year 2014, $102,807,000, of which $10,200,000 is for carrying out such section 12 and $42,356,000 is for making grants.
+    > - **(A)** for fiscal year 2012, $92,206,000, of which $9,200,000 is for carrying out such section 12 and $36,958,000 is for making grants;
+    > - **(B)** for fiscal year 2013, $96,144,000, of which $9,600,000 for carrying out such section 12 and $39,611,000 is for making grants;
+    > - **(C)** for fiscal year 2014, $99,876,000, of which $9,900,000 is for carrying out such section 12 and $41,148,000 is for making grants; and
+    > - **(D)** for fiscal year 2015, $102,807,000, of which $10,200,000 is for carrying out such section 12 and $42,356,000 is for making grants.
 
   - **(2)** Section 60125(a)(2) is amended by striking subparagraphs (A) through (D) and inserting the following:
-    > - **(A)** for fiscal year 2011, $18,905,000, of which $7,562,000 is for carrying out such section 12 and $7,864,000 is for making grants;
-    > - **(B)** for fiscal year 2012, $19,661,000, of which $7,864,000 is for carrying out such section 12 and $7,864,000 is for making grants;
-    > - **(C)** for fiscal year 2013, $20,000,000, of which $8,000,000 is for carrying out such section 12 and $8,000,000 is for making grants; and
-    > - **(D)** for fiscal year 2014, $20,000,000, of which $8,000,000 is for carrying out such section 12 and $8,000,000 is for making grants.
+    > - **(A)** for fiscal year 2012, $18,905,000, of which $7,562,000 is for carrying out such section 12 and $7,864,000 is for making grants;
+    > - **(B)** for fiscal year 2013, $19,661,000, of which $7,864,000 is for carrying out such section 12 and $7,864,000 is for making grants;
+    > - **(C)** for fiscal year 2014, $20,000,000, of which $8,000,000 is for carrying out such section 12 and $8,000,000 is for making grants; and
+    > - **(D)** for fiscal year 2015, $20,000,000, of which $8,000,000 is for carrying out such section 12 and $8,000,000 is for making grants.
 
-- **(b)** *Emergency response grants* Section 60125(b)(2) is amended by striking “2007 through 2010” and inserting “2011 through 2014”.
+- **(b)** *Emergency response grants* Section 60125(b)(2) is amended by striking “2007 through 2010” and inserting “2012 through 2015”.
 - **(c)** *One-call notification programs* Section 6107 is amended—
-  - **(1)** by striking “2007 through 2010.” in subsection (a) and inserting “2011 through 2014.”;
-  - **(2)** by striking “2007 through 2010.” in subsection (b) and inserting “2011 through 2014.”; and
+  - **(1)** by striking “2007 through 2010.” in subsection (a) and inserting “2012 through 2015.”;
+  - **(2)** by striking “2007 through 2010.” in subsection (b) and inserting “2012 through 2015.”; and
   - **(3)** by striking subsection (c).
 - **(d)** *State damage prevention programs* Section 60134 is amended by adding at the end the following:
-  > - **(i)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary to provide grants under this section $2,000,000 for each of fiscal years 2011 through 2014. The funds shall remain available until expended.
+  > - **(i)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary to provide grants under this section $2,000,000 for each of fiscal years 2012 through 2015. The funds shall remain available until expended.
 
 - **(e)** *Community pipeline safety information grants* Section 60130 is amended—
   - **(1)** by striking “$50,000” in subsection (a)(1) and inserting “$100,000”; and
-  - **(2)** by striking “2003 through 2010.” in subsection (d) and inserting “2011 through 2014.”.
+  - **(2)** by striking “2003 through 2010.” in subsection (d) and inserting “2012 through 2015.”.
 - **(f)** *Pipeline transportation research and development* Section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note) is amended—
   - **(1)** by adding at the end of subsection (d) the following:
     > - **(3)** *Ongoing pipeline transportation research and development* After the initial 5-year program plan has been carried out by the participating agencies, the Secretary of Transportation shall prepare a research and development program plan every 5 years thereafter and shall transmit a report to Congress on the status and results-to-date of implementation of the program each year that funds are appropriated for carrying out the plan.
 
-  - **(2)** by striking “2003 through 2006.” in subsection (f) and inserting “2011 through 2014.”.
+  - **(2)** by striking “2003 through 2006.” in subsection (f) and inserting “2012 through 2015.”.
+
+## § 30. PAYGO compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.
