@@ -28,3 +28,11 @@ This Act may be cited as the “Emergency Judicial Relief Act of 2011”.
   - **(3)** by striking the item relating to the district of Minnesota and inserting the following:
   - **(4)** by striking the item relating to Texas and inserting the following:
 - **(d)** *Increase in filing fees* Section 1914(a) of title 28, United States Code, is amended by striking “$350” and inserting “$360”.
+- **(d)** *Increase in filing fees*
+  - **(1)** *In general* Section 1914(a) of title 28, United States Code, is amended by striking “$350” and inserting “$360”.
+  - **(2)** *Expenditure limitation* Incremental amounts collected by reason of the enactment of this subsection shall be deposited in a special fund in the Treasury to be established after the date of enactment of this Act. Such amounts shall be available for the purposes specified in section 1931(a) of title 28, United States Code, but only to the extent specifically appropriated by an Act of Congress enacted after the date of enactment of this Act.
+
+## § 3. Whistleblower protection
+
+- **(a)** *In General* No officer, employee, agent, contractor, or subcontractor in the judicial branch may discharge, demote, threaten, suspend, harass or in any other manner discriminate against an employee in the terms and conditions of employment because of any lawful act done by the employee to provide information, cause information to be provided, or otherwise assist in an investigation regarding any possible violation of Federal law or regulation, or misconduct, by a judge, justice, or any other employee in the judicial branch, which may assist in the investigation of the possible violation or misconduct.
+- **(b)** *Civil Action* An employee injured by a violation of subsection (a) may, in a civil action, obtain appropriate relief.

@@ -1,7 +1,7 @@
 ---
 measure: S. 1014
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,4 +35,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the item relating to California and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the item relating to the district of Minnesota and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the item relating to Texas and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 1914(a) of title 28, United States Code, is amended by striking “$350” and inserting “$360”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1914(a) of title 28, United States Code, is amended by striking “$350” and inserting “$360”. | the bill names no machine-readable US Code section |
