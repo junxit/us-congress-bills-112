@@ -1,7 +1,7 @@
 ---
 measure: H.R. 358
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 358
@@ -164,10 +164,11 @@ Protect Life Act
 - Rep. Gosar, Paul A. [R-AZ-1] (G000565)
 - Rep. Royce, Edward R. [R-CA-40] (R000487)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -206,3 +207,4 @@ Protect Life Act
 - 2011-10-13 — Rule provides for consideration of H.R. 358 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on Energy and Commerce now printed in the bill shall be considered as adopted.
 - 2011-10-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6903)
 - 2011-10-13 — The previous question was ordered pursuant to the rule. (consideration: CR H6901)
+- 2011-10-17 — Received in the Senate and Read twice and referred to the Committee on Finance.

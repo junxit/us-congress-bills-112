@@ -1,7 +1,7 @@
 ---
 measure: H.R. 358
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,42 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 0 executed, 11 stated and not applied.
+11 amendatory instructions. 3 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 26 U.S.C. § 36B
+
+> in paragraph (1), by striking “regarding the prohibition of (or requirement of) coverage, funding, or” and inserting “protecting conscience rights, restricting or prohibiting abortion or coverage or funding of abortion, or establishing”; and
+
+| | |
+|---|---|
+| Removed | `regarding the prohibition of (or requirement of) coverage, funding, or` |
+| Inserted | `protecting conscience rights, restricting or prohibiting abortion or coverage or funding of abortion, or establishing` |
+
+### 26 U.S.C. § 36B
+
+> in paragraph (2)(A), by striking “Nothing” and inserting “Subject to subsection (g), nothing”;
+
+| | |
+|---|---|
+| Removed | `Nothing` |
+| Inserted | `Subject to subsection (g), nothing` |
+
+### 26 U.S.C. § 36B
+
+> in subsection (f), as redesignated by paragraph (1), by striking “Nothing” and inserting “Subject to subsection (g), nothing”; and
+
+| | |
+|---|---|
+| Removed | `Nothing` |
+| Inserted | `Subject to subsection (g), nothing` |
 
 ## Stated, not applied
 
@@ -31,14 +60,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating subsections (c) and (d) as subsections (e) and (f), respectively; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (4) of subsection (b) as subsection (d) and transferring such subsection (d) after the subsection (c) inserted by paragraph (4) of this subsection with appropriate indentation (and conforming the style of the h… | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (b) the following new subsection: | the bill names no machine-readable US Code section |
-| — | strike | in the heading, by striking “regarding abortion”; | the bill names no machine-readable US Code section |
-| — | strike | in the heading of each of paragraphs (1) and (2), by striking each place it appears “regarding abortion”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “regarding the prohibition of (or requirement of) coverage, funding, or” and inserting “protecting conscience rights, restricting or prohibiting abortion or coverage or funding of abortion, or establishing”;… | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2)(A), by striking “Nothing” and inserting “Subject to subsection (g), nothing”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f), as redesignated by paragraph (1), by striking “Nothing” and inserting “Subject to subsection (g), nothing”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | amend | Section 1334(a)(6) of such Act is amended to read as follows: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 36B` | redesignate | by redesignating subsections (c) and (d) as subsections (e) and (f), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 36B` | redesignate | by redesignating paragraph (4) of subsection (b) as subsection (d) and transferring such subsection (d) after the subsection (c) inserted by paragraph (4) of this subsection with appropriate indentation (and conforming the style of the h… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 36B` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 36B` | insert | by inserting after subsection (b) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 36B` | strike | in the heading, by striking “regarding abortion”; | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 36B` | strike | in the heading of each of paragraphs (1) and (2), by striking each place it appears “regarding abortion”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 36B` | amend | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 36B` | amend | Section 1334(a)(6) of such Act is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
