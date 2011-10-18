@@ -1,7 +1,7 @@
 ---
 measure: S. 925
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 925
@@ -24,3 +24,8 @@ Mt. Andrea Lawrence Designation Act of 2011
 
 - 2011-05-09 — Introduced in Senate
 - 2011-05-09 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2011-07-28 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 112-214.
+- 2011-10-18 — Passed Senate without amendment by Unanimous Consent. (text: CR S6692)
+- 2011-10-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6692)
+- 2011-10-18 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S6692)
+- 2011-10-18 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S6692)
