@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2273
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Subtitle D of the Solid Waste Disposal Act (42 U.S.C. 6941 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of contents contained in section 1001 of the Solid Waste Disposal Act is amended by inserting after the item relating to section 4010 the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 6941` | add-at-end | Subtitle D of the Solid Waste Disposal Act (42 U.S.C. 6941 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6941` | insert | The table of contents contained in section 1001 of the Solid Waste Disposal Act is amended by inserting after the item relating to section 4010 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

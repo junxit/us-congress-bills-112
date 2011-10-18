@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2273
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2273
@@ -144,3 +144,5 @@ Coal Residuals Reuse and Management Act
 - 2011-10-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6957)
 - 2011-10-14 — The previous question was ordered pursuant to the rule. (consideration: CR H6956)
 - 2011-10-14 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of amendments which had previously been debated and on which further proceedings were postponed.
+- 2011-10-17 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-10-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 202.
