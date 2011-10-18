@@ -16,7 +16,7 @@ This Act may be cited as the “Keep Our Communities Safe Act of 2011”.
 ## § 2. Detention of dangerous aliens
 
 - **(a)** *In general* Section 241(a) of the Immigration and Nationality Act (8 U.S.C. 1231(a)) is amended—
-  - **(1)** by striking out “Attorney General” each place it appears, except for the first reference in clause (a)(4)(B)(i), and inserting “Secretary”;
+  - **(1)** by striking out “Attorney General” each place it appears, except for the first reference in subsection (a)(4)(B)(i), and inserting “Secretary of Homeland Security”;
   - **(2)** in paragraph (1), by amending subparagraph (B) to read as follows:
     > - **(B)** *Beginning of period* The removal period begins on the latest of the following:
     >   - **(i)** The date the order of removal becomes administratively final.
@@ -39,7 +39,7 @@ This Act may be cited as the “Keep Our Communities Safe Act of 2011”.
     - **(B)** by striking subparagraph (D) and inserting the following:
       > - **(D)** to obey reasonable restrictions on the alien’s conduct or activities that the Secretary prescribes for the alien, in order to prevent the alien from absconding, for the protection of the community, or for other purposes related to the enforcement of the immigration laws.
 
-  - **(5)** in subparagraph (4)(A), by striking “paragraph (2)” and inserting “subparagraph (B)”;
+  - **(5)** in paragraph (4)(A), by striking “paragraph (2)” and inserting “subparagraph (B)”;
   - **(6)** by striking paragraph (6) and inserting the following:
     > - **(6)** *Additional rules for detention or release of certain aliens*
     >   - **(A)** *Detention review process for cooperative aliens established* For an alien who is not otherwise subject to mandatory detention, who has made all reasonable efforts to comply with a removal order and to cooperate fully with the Secretary of Homeland Security's efforts to establish the alien's identity and carry out the removal order, including making timely application in good faith for travel or other documents necessary to the alien's departure, and who has not conspired or acted to prevent removal, the Secretary shall establish an administrative review process to determine whether the alien should be detained or released on conditions. The Secretary shall make a determination whether to release an alien after the removal period in accordance with subparagraph (B). The determination shall include consideration of any evidence submitted by the alien, and may include consideration of any other evidence, including any information or assistance provided by the Secretary of State or other Federal official and any other information available to the Secretary of Homeland Security pertaining to the ability to remove the alien.
@@ -67,7 +67,10 @@ This Act may be cited as the “Keep Our Communities Safe Act of 2011”.
     > - **(8)** *Judicial review* Without regard to the place of confinement, judicial review of any action or decision pursuant to this section shall be available exclusively in habeas corpus proceedings instituted in the United States District Court for the District of Columbia, and only if the alien has exhausted all administrative remedies (statutory and regulatory) available to the alien as of right.
 
 - **(b)** *Detention of aliens during removal proceedings*
-  - **(1)** *Clerical amendment* Sections 235 and 236 of the Immigration and Nationality Act (8 U.S.C. 1225 and 1226) are amended by striking “Attorney General” each place it appears and inserting “Secretary” except that section 236(a) is amended by inserting “the Secretary or” before “the Attorney General” the second place that term appears;
+  - **(1)** *Clerical amendment*
+    - **(A)** Sections 235 and 236 of the Immigration and Nationality Act (8 U.S.C. 1225 and 1226) are amended by striking “Attorney General” each place it appears (except in the second place that term appears in section 236(a)) and inserting “Secretary of Homeland Security”.
+    - **(B)** Section 236(a) of the Immigration and Nationality Act (8 U.S.C. 1226(a)) is amended by inserting “the Secretary of Homeland Security or” before “the Attorney General—”.
+    - **(C)** Section 236(e) of the Immigration and Nationality Act (8 U.S.C. 1226(e)) is amended by striking “Attorney General’s” and inserting “Secretary of Homeland Security’s”.
   - **(2)** *Length of detention of certain aliens; venue for certain actions* Section 235 of the Immigration and Nationality Act (8 U.S.C. 1225) is amended by adding at the end the following:
     > - **(e)** *Length of detention*
     >   - **(1)** Notwithstanding any other provision of this section, an alien may be detained under this section, without limitation, until the alien is subject to an final order of removal.
@@ -75,13 +78,13 @@ This Act may be cited as the “Keep Our Communities Safe Act of 2011”.
     > - **(f)** *Judicial review* Without regard to the place of confinement, judicial review of any action or decision made pursuant to subsection (e) shall be available exclusively in a habeas corpus proceeding instituted in the United States District Court for the District of Columbia and only if the alien has exhausted all administrative remedies (statutory and nonstatutory) available to the alien as of right.
 
   - **(3)** *Venue for certain actions seeking judicial review of length of detention* Section 236(e) of the Immigration and Nationality Act (8 U.S.C. 1226(e)) is amended by adding the following at the end: “Without regard to the place of confinement, judicial review of any action or decision made pursuant to subsection (f) shall be available exclusively in a habeas corpus proceeding instituted in the United States District Court for the District of Columbia and only if the alien has exhausted all administrative remedies (statutory and nonstatutory) available to the alien as of right.”.
-  - **(4)** *Length of detention* Section 236 of the Immigration and Nationality Act (8 U.S.C. 1226) is amended by adding the following subsection:
+  - **(4)** *Length of detention* Section 236 of the Immigration and Nationality Act (8 U.S.C. 1226) is amended by adding at the end the following subsection:
     > - **(f)** *Length of detention*
     >   - **(1)** Notwithstanding any other provision of this section, an alien may be detained under this section for any period, without limitation, until the alien is subject to a final order of removal.
     >   - **(2)** The length of detention under this section shall not affect detention under section 241 of this Act.
 
   - **(5)** *detention of criminal aliens* Section 236(c)(1) of the Immigration and Nationality Act (8 U.S.C. 1226(c)(1)) is amended, in the matter following subparagraph (D) to read as follows:
-  - **(6)** *Administrative review* Section 236 of the Immigration and Nationality Act (8 U.S.C. 1226) is amended by adding the following subsection:
+  - **(6)** *Administrative review* Section 236 of the Immigration and Nationality Act (8 U.S.C. 1226) is amended by adding at the end the following subsection:
     > - **(g)** *Administrative review*
     >   - **(1)** The Attorney General’s review of the Secretary’s custody determinations under section 236(a) shall be limited to whether the alien may be detained, released on bond (of at least $1,500 with security approved by the Secretary), or released with no bond.
     >   - **(2)** The Attorney General’s review of the Secretary’s custody determinations for the following classes of aliens:
@@ -92,11 +95,18 @@ This Act may be cited as the “Keep Our Communities Safe Act of 2011”.
     >     - **(E)** Aliens in deportation proceedings subject to section 242(a)(2) of the Act (as in effect prior to April 1, 1997, and as amended by section 440(c) of Public Law 104–132); is limited to a determination of whether the alien is properly included in such category.
 
   - **(7)** *Clerical amendments*
-    - **(A)** Sections 235 and 236 of the Immigration and Nationality Act (8 U.S.C. 1225 and 1226) are amended by striking out “Attorney General” each place it appears and inserting “Secretary”.
-    - **(B)** Sections 236(a)(2)(B) and 236(b) of the Immigration and Nationality Act (8 U.S.C. 1226(a)(2)(B) and 1226(b)) are amended by striking out “conditional parole” and inserting in lieu thereof “recognizance”.
+    - **(A)** Section 236(a)(2)(B) of the Immigration and Nationality Act (8 U.S.C. 1226(a)(2)(B)) is amended by striking out “conditional parole” and inserting in lieu thereof “recognizance”.
+    - **(B)** Section 236(b) of the Immigration and Nationality Act (8 U.S.C. 1226(b)) is amended by striking “parole” and inserting “recognizance”.
 - **(c)** *Severability* If any of the provisions of this Act or any amendment by this Act, or the application of any such provision to any person or circumstance, is held to be invalid for any reason, the remainder of this Act and of amendments made by this Act, and the application of the provisions and of the amendments made by this Act to any other person or circumstance shall not be affected by such holding.
 - **(d)** *Effective dates*
   - **(1)** The amendments made by subsection (a) shall take effect upon the date of enactment of this Act, and section 241 of the Immigration and Nationality Act, as so amended, shall in addition apply to—
     - **(A)** all aliens subject to a final administrative removal, deportation, or exclusion order that was issued before, on, or after the date of enactment of this Act; and
     - **(B)** acts and conditions occurring or existing before, on, or after the date of enactment of this Act.
   - **(2)** The amendments made by subsection (b) shall take effect upon the date of enactment of this Act, and sections 235 and 236 of the Immigration and Nationality Act, as so amended, shall in addition apply to any alien in detention under provisions of such sections on or after the date of enactment of this Act.
+
+## § 3. Sense of the Congress
+
+It is the sense of the Congress that—
+
+- **(1)** this Act should ensure that Constitutional rights are upheld and protected; and
+- **(2)** it is the intention of the Congress to uphold the Constitutional principles of due process and that due process of the law is a right afforded to everyone in the United States.
