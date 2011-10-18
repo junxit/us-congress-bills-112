@@ -1,7 +1,7 @@
 ---
 measure: S. 334
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 334
@@ -33,3 +33,5 @@ A bill to reinstate and extend the deadline for commencement of construction of 
 - 2011-08-30 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 08/02/2011 without amendment. With written report No. 112-54.
 - 2011-08-30 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 08/02/2011 without amendment. With written report No. 112-54.
 - 2011-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 134.
+- 2011-10-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6691-6692; text as passed Senate: CR S6691-6692)
+- 2011-10-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6691-6692; text as passed Senate: CR S6691-6692)
