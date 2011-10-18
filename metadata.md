@@ -1,7 +1,7 @@
 ---
 measure: S. 270
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 270
@@ -34,3 +34,5 @@ La Pine Land Conveyance Act
 - 2011-08-30 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 08/02/2011 with an amendment. With written report No. 112-49.
 - 2011-08-30 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 08/02/2011 with an amendment. With written report No. 112-49.
 - 2011-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 129.
+- 2011-10-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6690-6691; text as passed Senate: CR S6690-6691)
+- 2011-10-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6690-6691; text as passed Senate: CR S6690-6691)
