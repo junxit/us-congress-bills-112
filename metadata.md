@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2250
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2250
@@ -363,3 +363,5 @@ EPA Regulatory Relief Act of 2011
 - 2011-10-13 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2011-10-13 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2250.
 - 2011-10-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6904)
+- 2011-10-17 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-10-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 201.
