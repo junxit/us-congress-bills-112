@@ -1,7 +1,7 @@
 ---
 measure: S. 404
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 404
@@ -29,3 +29,5 @@ A bill to modify a land grant patent issued by the Secretary of the Interior.
 - 2011-08-30 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 08/02/2011 without amendment. With written report No. 112-56.
 - 2011-08-30 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 08/02/2011 without amendment. With written report No. 112-56.
 - 2011-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 136.
+- 2011-10-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6692; text as passed Senate: CR S6692)
+- 2011-10-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6692; text as passed Senate: CR S6692)
