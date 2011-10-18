@@ -23,7 +23,7 @@ In this Act:
 
 - **(1)** *Agreement* The term “Agreement” means the document between the United States, the State, and the Bering Straits Native Corporation that—
   - **(A)** is entitled the “Salmon Lake Area Land Ownership Consolidation Agreement”;
-  - **(B)** had an initial effective date of July 18, 2007, which was extended until January 1, 2011, by agreement of the parties to the Agreement effective January 1, 2009; and2007; and
+  - **(B)** had an initial effective date of July 18, 2007; and
   - **(C)** is on file with Department of the Interior, the Committee on Energy and Natural Resources of the Senate, and the Committee on Natural Resources of the House of Representatives.
 - **(2)** *Bering straits native corporation* The term “Bering Straits Native Corporation” means an Alaskan Native Regional Corporation formed under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) for the Bering Straits region of the State.
 - **(3)** *Secretary* The term “Secretary” means the Secretary of the Interior.
