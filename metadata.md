@@ -1,7 +1,7 @@
 ---
 measure: S. 1412
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1412
@@ -29,3 +29,8 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2011-07-25 — Introduced in Senate
 - 2011-07-25 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2011-07-25 — Sponsor introductory remarks on measure. (CR S4870)
+- 2011-07-29 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2011-10-19 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2011-10-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2011-10-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2011-10-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 206.
