@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2149
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2149
@@ -40,3 +40,8 @@ To designate the facility of the United States Postal Service located at 4354 Pa
 - 2011-07-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5728)
 - 2011-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5728)
 - 2011-07-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2011-08-18 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2011-10-19 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2011-10-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2011-10-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2011-10-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 210.
