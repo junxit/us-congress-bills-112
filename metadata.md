@@ -1,7 +1,7 @@
 ---
 measure: S. 894
 congress: 112
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 894
@@ -49,3 +49,18 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2011
 - 2011-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 125.
 - 2011-10-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6787; text as passed Senate: CR S6787)
 - 2011-10-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6787; text as passed Senate: CR S6787)
+- 2011-10-20 — Message on Senate action sent to the House.
+- 2011-10-21 — Held at the desk.
+- 2011-10-21 — Received in the House.
+- 2011-11-02 — Considered under suspension of the rules. (consideration: CR H7232-7234)
+- 2011-11-02 — DEBATE - The House proceeded with forty minutes of debate on S. 894.
+- 2011-11-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-11-02 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
+- 2011-11-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7232-7233)
+- 2011-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7232-7233)
+- 2011-11-03 — Presented to President.
+- 2011-11-03 — Presented to President.
+- 2011-11-09 — Became Public Law No: 112-53.
+- 2011-11-09 — Became Public Law No: 112-53.
+- 2011-11-09 — Signed by President.
+- 2011-11-09 — Signed by President.
