@@ -1,7 +1,7 @@
 ---
 measure: S. 894
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 894
@@ -47,3 +47,5 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2011
 - 2011-08-01 — Committee on Veterans' Affairs. Reported by Senator Murray without amendment. With written report No. 112-44.
 - 2011-08-01 — Committee on Veterans' Affairs. Reported by Senator Murray without amendment. With written report No. 112-44.
 - 2011-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 125.
+- 2011-10-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6787; text as passed Senate: CR S6787)
+- 2011-10-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6787; text as passed Senate: CR S6787)
