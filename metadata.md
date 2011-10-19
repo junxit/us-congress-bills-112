@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1975
 congress: 112
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1975
@@ -98,3 +98,12 @@ To designate the facility of the United States Postal Service located at 281 Eas
 - 2011-10-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2011-10-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2011-10-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 208.
+- 2011-10-20 — Message on Senate action sent to the House.
+- 2011-10-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6812)
+- 2011-10-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6812)
+- 2011-10-31 — Presented to President.
+- 2011-10-31 — Presented to President.
+- 2011-11-07 — Became Public Law No: 112-48.
+- 2011-11-07 — Became Public Law No: 112-48.
+- 2011-11-07 — Signed by President.
+- 2011-11-07 — Signed by President.
