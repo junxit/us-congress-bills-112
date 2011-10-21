@@ -1,7 +1,7 @@
 ---
 measure: S. 925
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 925
@@ -16,9 +16,10 @@ Mt. Andrea Lawrence Designation Act of 2011
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -29,3 +30,6 @@ Mt. Andrea Lawrence Designation Act of 2011
 - 2011-10-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6692)
 - 2011-10-18 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S6692)
 - 2011-10-18 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S6692)
+- 2011-10-19 — Message on Senate action sent to the House.
+- 2011-10-21 — Received in the House.
+- 2011-10-21 — Referred to the House Committee on Natural Resources.
