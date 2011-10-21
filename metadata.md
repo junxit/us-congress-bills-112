@@ -1,7 +1,7 @@
 ---
 measure: S. 270
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 270
@@ -20,9 +20,10 @@ La Pine Land Conveyance Act
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ La Pine Land Conveyance Act
 - 2011-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 129.
 - 2011-10-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6690-6691; text as passed Senate: CR S6690-6691)
 - 2011-10-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6690-6691; text as passed Senate: CR S6690-6691)
+- 2011-10-19 — Message on Senate action sent to the House.
+- 2011-10-21 — Received in the House.
+- 2011-10-21 — Referred to the House Committee on Natural Resources.
