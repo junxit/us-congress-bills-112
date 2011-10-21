@@ -1,7 +1,7 @@
 ---
 measure: S. 1412
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1412
@@ -20,9 +20,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Brown, Scott P. [R-MA] (B001268)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -37,3 +38,5 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2011-10-20 — Message on Senate action sent to the House.
 - 2011-10-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6812; text as passed Senate: CR S6812)
 - 2011-10-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6812; text as passed Senate: CR S6812)
+- 2011-10-21 — Received in the House.
+- 2011-10-21 — Referred to the House Committee on Oversight and Government Reform.
