@@ -1,7 +1,7 @@
 ---
 measure: S. 292
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 292
@@ -20,9 +20,10 @@ Salmon Lake Land Selection Resolution Act
 
 - Sen. Begich, Mark [D-AK] (B001265)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ Salmon Lake Land Selection Resolution Act
 - 2011-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 132.
 - 2011-10-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6691; text as passed Senate: CR S6691)
 - 2011-10-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6691; text as passed Senate: CR S6691)
+- 2011-10-19 — Message on Senate action sent to the House.
+- 2011-10-21 — Received in the House.
+- 2011-10-21 — Referred to the House Committee on Natural Resources.
