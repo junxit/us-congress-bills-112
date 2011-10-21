@@ -1,7 +1,7 @@
 ---
 measure: S. 404
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 404
@@ -16,9 +16,10 @@ A bill to modify a land grant patent issued by the Secretary of the Interior.
 
 - Sen. Levin, Carl [D-MI] (L000261)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -31,3 +32,6 @@ A bill to modify a land grant patent issued by the Secretary of the Interior.
 - 2011-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 136.
 - 2011-10-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6692; text as passed Senate: CR S6692)
 - 2011-10-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6692; text as passed Senate: CR S6692)
+- 2011-10-19 — Message on Senate action sent to the House.
+- 2011-10-21 — Received in the House.
+- 2011-10-21 — Referred to the House Committee on Natural Resources.
