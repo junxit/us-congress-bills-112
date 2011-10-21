@@ -1,7 +1,7 @@
 ---
 measure: S. 334
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 334
@@ -20,9 +20,10 @@ A bill to reinstate and extend the deadline for commencement of construction of 
 
 - Sen. Crapo, Mike [R-ID] (C000880)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -35,3 +36,7 @@ A bill to reinstate and extend the deadline for commencement of construction of 
 - 2011-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 134.
 - 2011-10-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6691-6692; text as passed Senate: CR S6691-6692)
 - 2011-10-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6691-6692; text as passed Senate: CR S6691-6692)
+- 2011-10-19 — Message on Senate action sent to the House.
+- 2011-10-21 — Received in the House.
+- 2011-10-21 — Referred to the House Committee on Energy and Commerce.
+- 2011-10-21 — Referred to the Subcommittee on Energy and Power.
