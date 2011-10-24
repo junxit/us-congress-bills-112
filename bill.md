@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 441
 
-> To authorize the Secretary of the Interior to issue permits for a microhydro project in nonwilderness areas within the boundaries of Denali National Park and Preserve, to acquire land for Denali National Park and Preserve from Doyon Tourism, Inc., and for other purposes.
+> To authorize the Secretary of the Interior to issue permits for microhydro projects in nonwilderness areas within the boundaries of Denali National Park and Preserve, to acquire land for Denali National Park and Preserve from Doyon Tourism, Inc., and for other purposes.
 
 ## § 1. Short title
 
@@ -29,7 +29,7 @@ In this Act:
 - **(4)** *Microhydro project*
   - **(A)** *In general* The term microhydro project means a hydroelectric power generating facility with a maximum power generation capability of 100 kilowatts.
   - **(B)** *Inclusions* The term microhydro project includes—
-    - **(i)** intake pipelines, including the intake pipeline located on Eureka Creek, approximately 1/2 mile upstream from the Park Road, as depicted on the map;
+    - **(i)** intake pipelines, including the intake pipeline located on Eureka Creek, approximately ½ mile upstream from the Park Road, as depicted on the map;
     - **(ii)** each system appurtenance of the microhydro projects; and
     - **(iii)** any distribution or transmission lines required to serve the Kantishna Hills area.
 - **(5)** *Park* The term Park means the Denali National Park and Preserve.

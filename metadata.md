@@ -1,7 +1,7 @@
 ---
 measure: H.R. 441
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 441
@@ -33,3 +33,10 @@ Kantishna Hills Renewable Energy Act of 2011
 - 2011-07-20 — Placed on the Union Calendar, Calendar No. 103.
 - 2011-07-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-158.
 - 2011-07-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-158.
+- 2011-10-24 — Considered under suspension of the rules. (consideration: CR H6990-6991)
+- 2011-10-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 441.
+- 2011-10-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-24 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
+- 2011-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6990)
+- 2011-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6990)
+- 2011-10-24 — The title of the measure was amended. Agreed to without objection.
