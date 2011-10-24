@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2594
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2594
@@ -74,3 +74,9 @@ European Union Emissions Trading Scheme Prohibition Act of 2011
 - 2011-10-05 — Placed on the Union Calendar, Calendar No. 151.
 - 2011-10-05 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-232, Part I.
 - 2011-10-05 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-232, Part I.
+- 2011-10-24 — Considered under suspension of the rules. (consideration: CR H6997-7002)
+- 2011-10-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2594.
+- 2011-10-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-24 — Mr. Petri moved to suspend the rules and pass the bill.
+- 2011-10-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6998)
+- 2011-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6998)
