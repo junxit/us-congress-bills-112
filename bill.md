@@ -23,13 +23,10 @@ This Act may be cited as the “McKinney Lake National Fish Hatchery Conveyance 
   - **(1)** is located at 220 McKinney Lake Road, Hoffman (between Southern Pines and Rockingham), in Richmond County, North Carolina;
   - **(2)** is a warmwater facility consisting of approximately 422 acres; and
   - **(3)** includes all improvements and related personal property under the jurisdiction of the Secretary that are located on the property (including buildings, structures, and equipment).
-- **(d)** *Use by State; reimbursement*
+- **(d)** *Use by State*
   - **(1)** *Use* The property conveyed to the State under this section shall be used by the State for purposes relating to fishery and wildlife resources management.
   - **(2)** *Reversion*
     - **(A)** *In general* If the property conveyed to the State under this section is used for any purpose other than the purpose described in paragraph (1), all right, title, and interest in and to the property shall revert to the United States.
     - **(B)** *Condition of property* If the property described in subparagraph (A) reverts to the United States under this paragraph, the State shall ensure that the property is in substantially the same or better condition as the condition of the property as of the date of the conveyance of the property under this section.
     - **(C)** *Exception* This paragraph shall not apply with respect to use of the property under subsection (e).
-- **(e)** *Use by Secretary*
-  - **(1)** *In general* The Secretary shall require, as a condition and term of the conveyance of property under this section, that the State shall, upon the request of the Secretary, allow the United States Fish and Wildlife Service to use the property in cooperation with the Commission for propagation of any critically important aquatic resources held in public trust to address specific restoration or recovery needs of such resource.
-  - **(2)** *Reimbursement* The Secretary shall reimburse the Commission for any costs incurred by the Commission for use of the property under this subsection.
-  - **(3)** *Funding* The authority of the Secretary to use the property under this subsection is subject to the availability of appropriations.
+- **(e)** *Use by Secretary* The Secretary shall require, as a condition and term of the conveyance of property under this section, that the State shall, upon the request of the Secretary, allow the United States Fish and Wildlife Service to use the property in cooperation with the Commission for propagation of any critically important aquatic resources held in public trust to address specific restoration or recovery needs of such resource.

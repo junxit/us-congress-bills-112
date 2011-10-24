@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1160
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1160
@@ -33,6 +33,10 @@ McKinney Lake National Fish Hatchery Conveyance Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2011-10-24 — [House 112-1-802](votes/house-112-1-0802.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (395–0)
+
 ## Actions
 
 - 2011-03-17 — Introduced in House
@@ -46,3 +50,11 @@ McKinney Lake National Fish Hatchery Conveyance Act
 - 2011-07-20 — Placed on the Union Calendar, Calendar No. 112.
 - 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-168.
 - 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-168.
+- 2011-10-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-10-24 — Considered as unfinished business. (consideration: CR H7003)
+- 2011-10-24 — Considered under suspension of the rules. (consideration: CR H6992-6994)
+- 2011-10-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1160.
+- 2011-10-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-24 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
+- 2011-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 802). (text: CR H6992-6993)
+- 2011-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 802).(text: CR H6992-6993)
