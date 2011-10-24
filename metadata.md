@@ -1,7 +1,7 @@
 ---
 measure: H.R. 295
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 295
@@ -33,3 +33,9 @@ To amend the Hydrographic Services Improvement Act of 1998 to authorize funds to
 - 2011-07-20 — Placed on the Union Calendar, Calendar No. 102.
 - 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-157.
 - 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-157.
+- 2011-10-24 — Considered under suspension of the rules. (consideration: CR H6991-6992)
+- 2011-10-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 295.
+- 2011-10-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-24 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
+- 2011-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6991)
+- 2011-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6991)

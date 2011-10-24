@@ -15,6 +15,6 @@ Section 306 of the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892d
 
 - **(1)** by inserting before the text the following: “(a) In general.—”; and
 - **(2)** by adding at the end the following new subsection:
-  > - **(b)** *Arctic programs* Of the amount authorized for each of fiscal years 2012 and 2013—
+  > - **(b)** *Arctic programs* Of the amount authorized by this section for fiscal year 2012—
   >   - **(1)** $5,000,000 is authorized for use to acquire hydrographic data, provide hydrographic services, conduct coastal change analyses necessary to ensure safe navigation, and improve the management of coastal change in the Arctic; and
   >   - **(2)** $2,000,000 is authorized for use to acquire hydrographic data and provide hydrographic services in the Arctic necessary to delineate the United States extended Continental Shelf.
