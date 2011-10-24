@@ -1,7 +1,7 @@
 ---
 measure: H.R. 320
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 320
@@ -49,6 +49,10 @@ Distinguished Flying Cross National Memorial Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2011-10-24 — [House 112-1-801](votes/house-112-1-0801.md) — On Motion to Suspend the Rules and Pass — **Passed** (392–1)
+
 ## Actions
 
 - 2011-01-19 — Introduced in House
@@ -62,3 +66,11 @@ Distinguished Flying Cross National Memorial Act
 - 2011-07-20 — Placed on the House Calendar, Calendar No. 55.
 - 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-170.
 - 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-170.
+- 2011-10-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-10-24 — Considered as unfinished business. (consideration: CR H7002-7003)
+- 2011-10-24 — Considered under suspension of the rules. (consideration: CR H6996-6997)
+- 2011-10-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 320.
+- 2011-10-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-24 — Mr. Young (AK) moved to suspend the rules and pass the bill.
+- 2011-10-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 1 (Roll no. 801). (text: CR H6996)
+- 2011-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 1 (Roll no. 801).(text: CR H6996)
