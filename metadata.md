@@ -1,7 +1,7 @@
 ---
 measure: H.R. 461
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 461
@@ -37,3 +37,9 @@ South Utah Valley Electric Conveyance Act
 - 2011-09-23 — Placed on the Union Calendar, Calendar No. 141.
 - 2011-09-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-217.
 - 2011-09-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-217.
+- 2011-10-24 — Considered under suspension of the rules. (consideration: CR H6994-6995)
+- 2011-10-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 461.
+- 2011-10-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-24 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
+- 2011-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6994)
+- 2011-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6994)
