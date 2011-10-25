@@ -15,6 +15,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Congress in consenting to the compact between Missouri and Illinois creating the Bi-State Development Agency and the Bi-State Metropolitan District provided that no power shall be exercised by the Bi-State Agency until such power has been conferred upon the Bi-State Agency by the legislatures of the States to the compact and approved by an Act of Congress;
 - Whereas such States previously enacted legislation providing that the Bi-State Agency had the power to issue notes, bonds, or other instruments in writing provided they shall mature in not to exceed 30 years, and Congress consented to such power; and
 - Whereas such States have now enacted legislation amending this power: Now therefore, be it
+- Whereas to grant the consent of Congress to an amendment to the compact between the States of Missouri and Illinois providing that bonds issued by the Bi-State Development Agency may mature in not to exceed 40 years;
+- Whereas the Congress in consenting to the compact between Missouri and Illinois creating the Bi-State Development Agency and the Bi-State Metropolitan District provided that no power shall be exercised by the Bi-State Agency until such power has been conferred upon the Bi-State Agency by the legislatures of the States to the compact and approved by an Act of Congress;
+- Whereas such States previously enacted legislation providing that the Bi-State Agency had the power to issue notes, bonds, or other instruments in writing provided they shall mature in not to exceed 30 years, and Congress consented to such power; and
+- Whereas such States have now enacted legislation amending this power: Now therefore, be it
 
 ## § 1. Consent
 
