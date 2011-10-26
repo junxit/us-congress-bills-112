@@ -70,7 +70,7 @@ In this Act:
       - **(ii)** make a cash payment to the United States; or
       - **(iii)** use a combination of the methods described in clauses (i) and (ii), as agreed to by Resolution Copper, the Secretary, and the Secretary of the Interior.
     - **(B)** *Amount of payment* The Secretary may accept a payment in excess of 25 percent of the total value of the land or interests conveyed, notwithstanding section 206(b) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1716(b)).
-    - **(C)** *Disposition and use of proceeds* Any amounts received by the United States under this subparagraph shall be deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”; 16 U.S.C. 484a) and shall be made available to the Secretary for the acquisition of land for addition to the National Forest System.
+    - **(C)** *Disposition and use of proceeds* Any amounts received by the United States under this subparagraph shall be deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”; 16 U.S.C. 484a) and shall be made available, in such amounts as are provided in advance in appropriation Acts, to the Secretary for the acquisition of land for addition to the National Forest System.
   - **(3)** *Surplus of non-Federal land* If the final appraised value of the non-Federal land exceeds the value of the Federal land—
     - **(A)** the United States shall not make a payment to Resolution Copper to equalize the value; and
     - **(B)** except as provided in section 9(b)(2)(B), the surplus value of the non-Federal land shall be considered to be a donation by Resolution Copper to the United States.
@@ -126,7 +126,7 @@ In this Act:
 - **(b)** *Payment on production* If the cumulative production of valuable locatable minerals produced in commercial quantities from the Federal land conveyed to Resolution Copper under section 4 exceeds the quantity of production of locatable minerals from the Federal land used in the income capitalization approach analysis prepared under section 4(d)(3), Resolution Copper shall pay to the United States, by not later than March 15 of each applicable calendar year, a value adjustment payment for the quantity of excess production at the same rate assumed for the income capitalization approach analysis prepared under section 4(d)(3).
 - **(c)** *State law unaffected* Nothing in this section modifies, expands, diminishes, amends, or otherwise affects any State law relating to the imposition, application, timing, or collection of a State excise or severance tax.
 - **(d)** *Use of funds*
-  - **(1)** *Separate fund* All funds paid to the United States under this section shall be deposited in a special fund established in the Treasury and shall be available to the Secretary and the Secretary of the Interior only for the purposes authorized by paragraph (2).
+  - **(1)** *Separate fund* All funds paid to the United States under this section shall be deposited in a special fund established in the Treasury and shall be available, in such amounts as are provided in advance in appropriation Acts, to the Secretary and the Secretary of the Interior only for the purposes authorized by paragraph (2).
   - **(2)** *Authorized use* Amounts in the special fund established pursuant to paragraph (1) shall be used for maintenance, repair, and rehabilitation projects for Forest Service and Bureau of Land Management assets.
 
 ## § 7. Withdrawal
@@ -157,7 +157,7 @@ Subject to valid existing rights, Apache Leap and any land acquired by the Unite
   - **(2)** The reversionary interest and any reserved mineral interest of the United States in the approximately 265 acres of land located in Pinal County, Arizona, as depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Reversionary Interest–Superior Airport” and dated March 2011.
   - **(3)** The approximately 250 acres of land located in Pinal County, Arizona, as depicted on the map entitled “Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Parcel–Superior Airport Contiguous Parcels” and dated March 2011.
 - **(b)** *Payment* The Town shall pay to the Secretary the market value for each parcel of land or interest in land acquired under this section, as determined by appraisals conducted in accordance with section 4(d).
-- **(c)** *Sisk Act* Any payment received by the Secretary from the Town under this section shall be deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”) (16 U.S.C. 484a) and shall be made available to the Secretary for the acquisition of land for addition to the National Forest System.
+- **(c)** *Sisk Act* Any payment received by the Secretary from the Town under this section shall be deposited in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”) (16 U.S.C. 484a) and shall be made available, in such amounts as are provided in advance in appropriation Acts, to the Secretary for the acquisition of land for addition to the National Forest System.
 - **(d)** *Terms and conditions* The conveyances under this section shall be subject to such terms and conditions as the Secretary may require.
 
 ## § 10. Miscellaneous provisions
