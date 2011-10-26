@@ -40,12 +40,12 @@ The Congress finds the following:
     - **(C)** be minted to the specifications for half-dollar coins contained in section 5112(b) of title 31, United States Code.
 - **(b)** *Legal Tender* The coins minted under this Act shall be legal tender, as provided in section 5103 of title 31, United States Code.
 - **(c)** *Numismatic Items* For purposes of sections 5134 and 5136 of title 31, United States Code, all coins minted under this Act shall be considered to be numismatic items.
-- **(d)** *Sense of Congress* It is the sense of Congress that coins minted under this Act should be produced in a fashion similar to the 2009 International Year of Astronomy coins issued by Monnaie de Paris, the French Mint, so that the reverse of the coin is convex to more closely resemble a baseball and the obverse concave, providing a more dramatic display of the obverse design chosen pursuant to section 4(c).
+- **(d)** *Sense of Congress* It is the sense of Congress that, to the extent possible without significantly adding to the purchase price of the coins, the $1 coins and $5 coins minted under this Act should be produced in a fashion similar to the 2009 International Year of Astronomy coins issued by Monnaie de Paris, the French Mint, so that the reverse of the coin is convex to more closely resemble a baseball and the obverse concave, providing a more dramatic display of the obverse design chosen pursuant to section 4(c).
 
 ## § 4. Design of coins
 
 - **(a)** *Design Requirements*
-  - **(1)** *In general* The design of the coins minted under this Act shall be emblematic of the game of baseball and of its place in American sports and the American way of life.
+  - **(1)** *In general* The design of the coins minted under this Act shall be emblematic of the game of baseball.
   - **(2)** *Designations and inscriptions* On each coin minted under this Act there shall be—
     - **(A)** a designation of the value of the coin;
     - **(B)** an inscription of the year “2015”; and
@@ -53,17 +53,16 @@ The Congress finds the following:
 - **(b)** *Selection* The design for the coins minted under this Act shall be—
   - **(1)** selected by the Secretary after consultation with the National Baseball Hall of Fame and the Commission of Fine Arts and in accordance with subparagraph (c); and
   - **(2)** reviewed by the Citizens Coinage Advisory Committee.
-- **(c)** *Obverse Design Competition* The Secretary shall hold a competition and provide compensation for its winner to design the obverse of the coins minted under this Act. The competition shall be held in the following manner:
+- **(c)** *Obverse Design Competition* The Secretary shall hold a competition and provide compensation for its winner to design the common obverse of the coins minted under this Act, with such design being emblematic of the game of baseball. The competition shall be held in the following manner:
   - **(1)** The competition shall be judged by an expert jury chaired by the Secretary and consisting of 3 members from the Citizens Coinage Advisory Committee who shall be elected by such Committee and 3 members from the Commission of Fine Arts who shall be elected by such Commission.
   - **(2)** The Secretary shall determine compensation for the winning design, which shall be not less than $5,000.
   - **(3)** The Secretary may not accept a design for the competition unless a plaster model accompanies the design.
-- **(d)** *Reverse Design* The design on the reverse of the coins minted under this Act shall depict a baseball similar to those used by Major League Baseball.
+- **(d)** *Reverse Design* The design on the common reverse of the coins minted under this Act shall depict a baseball similar to those used by Major League Baseball.
 
 ## § 5. Issuance of coins
 
 - **(a)** *Quality of Coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
-- **(b)** *Mint Facilities* Any facility of the United States Mint may be used to strike uncirculated and half-dollar coins, but only the United States Mint facility at West Point, New York, may be used to strike coins in proof quality.
-- **(c)** *Period for Issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2015.
+- **(b)** *Period for Issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2015.
 
 ## § 6. Sale of coins
 

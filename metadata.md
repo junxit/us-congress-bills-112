@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2527
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2527
@@ -16,7 +16,7 @@ National Baseball Hall of Fame Commemorative Coin Act
 
 - Rep. Hanna, Richard L. [R-NY-24] (H001051)
 
-## Cosponsors (293)
+## Cosponsors (296)
 
 - Rep. Barton, Joe [R-TX-6] (B000213)
 - Rep. Doyle, Michael F. [D-PA-14] (D000482)
@@ -311,11 +311,18 @@ National Baseball Hall of Fame Commemorative Coin Act
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 - Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Camp, Dave [R-MI-4] (C000071)
 
 ## Committees (2)
 
 - House — Financial Services Committee
 - House — Budget Committee
+
+## Recorded votes (1)
+
+- 2011-10-26 — [House 112-1-812](votes/house-112-1-0812.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (416–3)
 
 ## Actions
 
@@ -323,3 +330,14 @@ National Baseball Hall of Fame Commemorative Coin Act
 - 2011-07-14 — Introduced in House
 - 2011-07-14 — Referred to the Committee on Financial Services, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-07-14 — Referred to the Committee on Financial Services, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-07-19 — Referred to the Subcommittee on Domestic Monetary Policy and Technology.
+- 2011-07-20 — Committee Consideration and Mark-up Session Held.
+- 2011-07-20 — Ordered to be Reported (Amended) by Voice Vote.
+- 2011-10-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-10-25 — Considered under suspension of the rules. (consideration: CR H7030-7034)
+- 2011-10-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2527.
+- 2011-10-25 — Mr. Pearce moved to suspend the rules and pass the bill, as amended.
+- 2011-10-26 — Considered as unfinished business. (consideration: CR H7113-7114)
+- 2011-10-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 3 (Roll no. 812). (text: CR 10/25/2011 H7030-7031)
+- 2011-10-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 3 (Roll no. 812).(text: CR 10/25/2011 H7030-7031)
