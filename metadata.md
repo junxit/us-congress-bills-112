@@ -1,7 +1,7 @@
 ---
 measure: H.R. 674
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 674
@@ -292,6 +292,11 @@ To amend the Internal Revenue Code of 1986 to repeal the imposition of 3 percent
 
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2011-10-27 — [House 112-1-814](votes/house-112-1-0814.md) — On Motion to Recommit with Instructions — **Failed** (183–235)
+- 2011-10-27 — [House 112-1-815](votes/house-112-1-0815.md) — On Passage — **Passed** (405–16)
+
 ## Actions
 
 - 2011-02-11 — Introduced in House
@@ -302,3 +307,19 @@ To amend the Internal Revenue Code of 1986 to repeal the imposition of 3 percent
 - 2011-10-18 — Placed on the Union Calendar, Calendar No. 169.
 - 2011-10-18 — Reported by the Committee on Ways and Means. H. Rept. 112-253.
 - 2011-10-18 — Reported by the Committee on Ways and Means. H. Rept. 112-253.
+- 2011-10-25 — Rules Committee Resolution H. Res. 448 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The resolution waives all points of order against consideration of the bills. It directs the Clerk to, in the engrossment of H.R. 674, add the test of H.R. 2576, as passed by the
+- 2011-10-26 — Rule H. Res. 448 passed House.
+- 2011-10-27 — Considered as unfinished business. (consideration: CR H7149-7151)
+- 2011-10-27 — Considered under the provisions of rule H. Res. 448. (consideration: CR H7139-7143)
+- 2011-10-27 — DEBATE - The House proceeded with 10 minutes of debate on the Andrews motion to recommit with instructions. The instructions contained in the motion seek strike the entire bill and add language to deny relief to companies that are delinquent in paying their federal taxes.
+- 2011-10-27 — DEBATE - The House proceeded with one hour of debate on H.R. 674.
+- 2011-10-27 — House amendment offered
+- 2011-10-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-10-27 — Mr. Andrews moved to recommit with instructions to Ways and Means. (consideration: CR H7149-7150; text: CR H7149)
+- 2011-10-27 — On motion to recommit with instructions Failed by recorded vote: 183 - 235 (Roll no. 814).
+- 2011-10-27 — On passage Passed by the Yeas and Nays: 405 - 16 (Roll no. 815). (text: CR H7143)
+- 2011-10-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 405 - 16 (Roll no. 815).(text: CR H7143)
+- 2011-10-27 — Pursuant to clause 1(c) of rule 19, further consideration of the bill is postponed.
+- 2011-10-27 — Rule provides for consideration of H.R. 2576 and H.R. 674 with 1 hour of general debate on each measure. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions for each measure. Measures will be considered read. Bills are closed to amendments. The resolution waives all points of order against consideration of both bills and directs the Clerk, in the engrossment of H.R. 674, to add the text of H.R. 2576, as passed by the House, as new matter at the end of H.R. 674.
+- 2011-10-27 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7150)
+- 2011-10-27 — The previous question was ordered without objection. (consideration: CR H7143)

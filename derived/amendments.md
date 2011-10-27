@@ -1,7 +1,7 @@
 ---
 measure: H.R. 674
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | strike | Section 3402 of the Internal Revenue Code of 1986 is amended by striking subsection (t). | the bill names no machine-readable US Code section |
+| — | replace | Subparagraph (B) of section 36B(d)(2) of the Internal Revenue Code of 1986 is amended by striking “and” at the end of clause (i), by striking the period at the end of clause (ii) and inserting “, and”, and by adding at the end the follow… | the bill names no machine-readable US Code section |

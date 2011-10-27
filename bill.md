@@ -7,9 +7,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 674
 
-> To amend the Internal Revenue Code of 1986 to repeal the imposition of 3 percent withholding on certain payments made to vendors by government entities.
+> To amend the Internal Revenue Code of 1986 to repeal the imposition of 3 percent withholding on certain payments made to vendors by government entities, to modify the calculation of modified adjusted gross income for purposes of determining eligibility for certain healthcare-related programs, and for other purposes.
 
-## § 1. Repeal of imposition of 3 percent withholding on certain payments made to vendors by government entities
+## § 1. Table of Contents
 
-- **(a)** *In general* Section 3402 of the Internal Revenue Code of 1986 is amended by striking subsection (t).
-- **(b)** *Effective date* The amendment made by this section shall apply to payments made after December 31, 2011.
+The table of contents for this Act is as follows:
