@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2527
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2527
@@ -315,10 +315,11 @@ National Baseball Hall of Fame Commemorative Coin Act
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Camp, Dave [R-MI-4] (C000071)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Budget Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -341,3 +342,4 @@ National Baseball Hall of Fame Commemorative Coin Act
 - 2011-10-26 — Motion to reconsider laid on the table Agreed to without objection.
 - 2011-10-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 3 (Roll no. 812). (text: CR 10/25/2011 H7030-7031)
 - 2011-10-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 3 (Roll no. 812).(text: CR 10/25/2011 H7030-7031)
+- 2011-10-31 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
