@@ -1,7 +1,7 @@
 ---
 measure: H.R. 295
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | by inserting before the text the following: “(a) In general.—”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 892d` | insert | by inserting before the text the following: “(a) In general.—”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 892d` | amend | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

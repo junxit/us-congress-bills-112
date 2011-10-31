@@ -1,7 +1,7 @@
 ---
 measure: H.R. 295
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 295
@@ -16,9 +16,10 @@ To amend the Hydrographic Services Improvement Act of 1998 to authorize funds to
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To amend the Hydrographic Services Improvement Act of 1998 to authorize funds to
 - 2011-10-24 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
 - 2011-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6991)
 - 2011-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6991)
+- 2011-10-31 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
