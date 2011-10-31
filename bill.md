@@ -1,0 +1,92 @@
+---
+legis-num: H.R. 3283
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3283
+
+> To amend the Commodity Exchange Act and the Securities Exchange Act of 1934 to provide an exemption for certain swaps and security-based swaps involving non-U.S. persons, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Swap Jurisdiction Certainty Act”.
+
+## § 2. Commodity Exchange Act
+
+Section 4s(a) of the Commodity Exchange Act (7 U.S.C. 6s(a)) is amended by adding at the end the following:
+
+> - **(3)** *Extra-territorial swap transaction application of title VII*
+>   - **(A)** *In general* A swap entered into between—
+>     - **(i)** a swap dealer that is registered with the Commission who is either—
+>       - **(I)** a U.S. person, or
+>       - **(II)** a person that has a parent company that is a U.S. person, and
+>     - **(ii)** a person who is—
+>       - **(I)** a U.S. or non-U.S. subsidiary, branch, or affiliate of such swap dealer, or
+>       - **(II)** any other non-U.S. person that is not registered as a swap dealer with the Commission,
+>   - **(B)** *Swaps entered into by registered non-U.S. persons*
+>     - **(i)** *In general* A non-U.S. person that registers as a swap dealer with the Commission shall only be subject to the requirements of title VII of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and of amendments added by such title, with respect to swaps that such person enters into with a U.S. person who is not a U.S. subsidiary, branch, or affiliate of such non-U.S. person.
+>     - **(ii)** *Capital requirements* A non-U.S. person that registers as a swap dealer with the Commission shall be permitted by the Commission to comply with the capital requirements under subsection (e) by complying with comparable requirements established by the appropriate governmental authorities in the home country of the non-U.S. person, so long as such home country is a signatory to the Basel Accords.
+>   - **(C)** *Non-U.S. person* For purposes of this paragraph, the term non-U.S. person includes—
+>     - **(i)** any person that is not a U.S. person;
+>     - **(ii)** any discretionary account or similar account (other than an estate or trust) held for the benefit or account of a non-U.S. person by a dealer or other professional fiduciary organized, incorporated, or (if an individual) resident in the United States;
+>     - **(iii)** any agency or branch of a U.S. person located outside the United States if—
+>       - **(I)** the agency or branch operates for valid business reasons; and
+>       - **(II)** the agency or branch is engaged in the business of insurance or banking and is subject to substantive insurance or banking regulation, respectively, in the jurisdiction where it is located;
+>     - **(iv)** any trust of which any professional fiduciary acting as trustee is a U.S. person, if—
+>       - **(I)** a trustee who is a non-U.S. person has sole or shared investment discretion with respect to the trust assets; and
+>       - **(II)** no beneficiary of the trust (and no settlor if the trust is revocable) is a U.S. person;
+>     - **(v)** an employee benefit plan established and administered in accordance with the law, customary practices, and documentation of a country other than the United States; and
+>     - **(vi)** the International Monetary Fund, the International Bank for Reconstruction and Development, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank, the United Nations, a central bank or its functional equivalent which is located in a non-U.S. jurisdiction and that is a signatory to the Basel Accords, and their agencies, affiliates and pension plans, and any other similar international organizations, their agencies, affiliates and pension plans.
+>   - **(D)** *U.S. person* For purposes of this paragraph, the term U.S. person includes—
+>     - **(i)** any natural person resident in the United States;
+>     - **(ii)** any partnership or corporation organized or incorporated under the laws of the United States;
+>     - **(iii)** any estate of which any executor or administrator is a U.S. person;
+>     - **(iv)** any trust of which any trustee is a U.S. person;
+>     - **(v)** any agency or branch of a foreign entity located in the United States;
+>     - **(vi)** any non-discretionary account or similar account (other than an estate or trust) held by a dealer or other fiduciary for the benefit or account of a United States person;
+>     - **(vii)** any discretionary account or similar account (other than an estate or trust) held by a dealer or other fiduciary organized, incorporated, or (if an individual) resident in the United States; and
+>     - **(viii)** any partnership or corporation—
+>       - **(I)** organized or incorporated under the laws of any foreign jurisdiction; and
+>       - **(II)** formed by a U.S. person principally for the purpose of investing in securities not registered under the Securities Act of 1933, unless it is organized or incorporated, and owned, by accredited investors (as such term is defined under section 230.501 of title 17, Code of Federal Regulations) that are not natural persons, estates, or trusts.
+>   - **(E)** *Anti-Evasion* Notwithstanding any other provision of this paragraph, each registered swap dealer shall be subject to the provision under section 2(i)(2).
+
+## § 3. Securities Exchange Act of 1934
+
+Section 15F(a) of the Securities Exchange Act of 1934 (78o–10(a)) is amended by adding at the end the following:
+
+> - **(3)** *Extra-territorial swap transaction application of title VII*
+>   - **(A)** *In general* A security-based swap entered into between—
+>     - **(i)** a security-based swap dealer that is registered with the Commission who is either—
+>       - **(I)** a U.S. person, or
+>       - **(II)** a person that has a parent company that is a U.S. person, and
+>     - **(ii)** a person who is—
+>       - **(I)** a U.S. or non-U.S. subsidiary, branch, or affiliate of such security-based swap dealer, or
+>       - **(II)** any other non-U.S. person that is not registered as a security-based swap dealer with the Commission,
+>   - **(B)** *Security-based swaps entered into by registered non-U.S. persons*
+>     - **(i)** *In general* A non-U.S. person that registers as a security-based swap dealer with the Commission shall only be subject to the requirements of title VII of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and of amendments added by such title, with respect to security-based swaps that such person enters into with a U.S. person who is not a U.S. subsidiary, branch, or affiliate of such non-U.S. person.
+>     - **(ii)** *Capital requirements* A non-U.S. person that registers as a security-based swap dealer with the Commission shall be permitted by the Commission to comply with the capital requirements under subsection (e) by complying with comparable requirements established by the appropriate governmental authorities in the home country of the non-U.S. person, so long as such home country is a signatory to the Basel Accords.
+>   - **(C)** *Non-U.S. person* For purposes of this paragraph, the term non-U.S. person includes—
+>     - **(i)** any person that is not a U.S. person;
+>     - **(ii)** any discretionary account or similar account (other than an estate or trust) held for the benefit or account of a non-U.S. person by a dealer or other professional fiduciary organized, incorporated, or (if an individual) resident in the United States;
+>     - **(iii)** any agency or branch of a U.S. person located outside the United States if—
+>       - **(I)** the agency or branch operates for valid business reasons; and
+>       - **(II)** the agency or branch is engaged in the business of insurance or banking and is subject to substantive insurance or banking regulation, respectively, in the jurisdiction where it is located;
+>     - **(iv)** any trust of which any professional fiduciary acting as trustee is a U.S. person, if—
+>       - **(I)** a trustee who is a non-U.S. person has sole or shared investment discretion with respect to the trust assets; and
+>       - **(II)** no beneficiary of the trust (and no settlor if the trust is revocable) is a U.S. person;
+>     - **(v)** an employee benefit plan established and administered in accordance with the law, customary practices, and documentation of a country other than the United States; and
+>     - **(vi)** the International Monetary Fund, the International Bank for Reconstruction and Development, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank, the United Nations, a central bank or its functional equivalent which is located in a non-U.S. jurisdiction and that is a signatory to the Basel Accords, and their agencies, affiliates and pension plans, and any other similar international organizations, their agencies, affiliates and pension plans.
+>   - **(D)** *U.S. person* For purposes of this paragraph, the term U.S. person includes—
+>     - **(i)** any natural person resident in the United States;
+>     - **(ii)** any partnership or corporation organized or incorporated under the laws of the United States;
+>     - **(iii)** any estate of which any executor or administrator is a U.S. person;
+>     - **(iv)** any trust of which any trustee is a U.S. person;
+>     - **(v)** any agency or branch of a foreign entity located in the United States;
+>     - **(vi)** any non-discretionary account or similar account (other than an estate or trust) held by a dealer or other fiduciary for the benefit or account of a United States person;
+>     - **(vii)** any discretionary account or similar account (other than an estate or trust) held by a dealer or other fiduciary organized, incorporated, or (if an individual) resident in the United States; and
+>     - **(viii)** any partnership or corporation—
+>       - **(I)** organized or incorporated under the laws of any foreign jurisdiction; and
+>       - **(II)** formed by a U.S. person principally for the purpose of investing in securities not registered under the Securities Act of 1933, unless it is organized or incorporated, and owned, by accredited investors (as such term is defined under section 230.501 of title 17, Code of Federal Regulations) that are not natural persons, estates, or trusts.
+>   - **(E)** *Anti-Evasion* Notwithstanding any other provision of this paragraph, a registered security-based swap dealer shall not conduct any activities that are designed to evade any provision of this Act that was enacted by the Wall Street Transparency and Accountability Act of 2010.
