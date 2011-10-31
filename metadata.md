@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1160
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1160
@@ -29,9 +29,10 @@ McKinney Lake National Fish Hatchery Conveyance Act
 - Rep. Miller, Brad [D-NC-13] (M001154)
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ McKinney Lake National Fish Hatchery Conveyance Act
 - 2011-10-24 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
 - 2011-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 802). (text: CR H6992-6993)
 - 2011-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 802).(text: CR H6992-6993)
+- 2011-10-31 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
