@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1904
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1904
@@ -47,9 +47,10 @@ Southeast Arizona Land Exchange and Conservation Act of 2011
 - Rep. Lankford, James [R-OK-5] (L000575)
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (5)
 
@@ -123,3 +124,4 @@ Southeast Arizona Land Exchange and Conservation Act of 2011
 - 2011-10-26 — The Speaker designated the Honorable Tim Murphy to act as Chairman of the Committee.
 - 2011-10-26 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7111)
 - 2011-10-26 — The previous question was ordered pursuant to the rule. (consideration: CR H7110)
+- 2011-10-31 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
