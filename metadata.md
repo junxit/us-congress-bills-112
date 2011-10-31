@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2447
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2447
@@ -327,9 +327,10 @@ To grant the congressional gold medal to the Montford Point Marines.
 - Rep. Nunnelee, Alan [R-MS-1] (N000186)
 - Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -350,3 +351,4 @@ To grant the congressional gold medal to the Montford Point Marines.
 - 2011-10-25 — Mr. Jones moved to suspend the rules and pass the bill.
 - 2011-10-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 804). (text: CR H7024)
 - 2011-10-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 804).(text: CR H7024)
+- 2011-10-31 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
