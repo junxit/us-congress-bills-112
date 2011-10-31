@@ -1,7 +1,7 @@
 ---
 measure: H.R. 394
 congress: 112
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 394
@@ -56,3 +56,5 @@ Federal Courts Jurisdiction and Venue Clarification Act of 2011
 - 2011-10-17 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
 - 2011-10-17 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
 - 2011-10-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 200.
+- 2011-10-31 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S6925-6927; text as passed Senate: CR S6925-6927)
+- 2011-10-31 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S6925-6927; text as passed Senate: CR S6925-6927)
