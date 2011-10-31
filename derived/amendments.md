@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2096
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -38,13 +38,13 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “and usability” after “to the structure”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (H), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (I), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A) by inserting “identity management,” after “cryptography,”; and | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (I), by inserting “, crimes against children, and organized crime” after “intellectual property”. | the bill names no machine-readable US Code section |
 | — | replace | Section 4(a)(3) of such Act (15 U.S.C. 7403(a)(3)) is amended by striking subparagraphs (A) through (E) and inserting the following new subparagraphs: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (C), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (7) by striking subparagraphs (A) through (E) and inserting the following new subparagraphs: | the bill names no machine-readable US Code section |
 | — | replace | Section 5(a)(6) of such Act (15 U.S.C. 7404(a)(6)) is amended by striking subparagraphs (A) through (E) and inserting the following new subparagraphs: | the bill names no machine-readable US Code section |
 | — | replace | Section 5(b)(2) of such Act (15 U.S.C. 7404(b)(2)) is amended by striking subparagraphs (A) through (E) and inserting the following new subparagraphs: | the bill names no machine-readable US Code section |
