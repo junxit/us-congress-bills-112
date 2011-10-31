@@ -1,7 +1,7 @@
 ---
 measure: S. 1637
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
