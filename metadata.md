@@ -1,7 +1,7 @@
 ---
 measure: H.R. 320
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 320
@@ -45,9 +45,10 @@ Distinguished Flying Cross National Memorial Act
 - Rep. Campbell, John [R-CA-48] (C001064)
 - Rep. Kissell, Larry [D-NC-8] (K000369)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -74,3 +75,4 @@ Distinguished Flying Cross National Memorial Act
 - 2011-10-24 — Mr. Young (AK) moved to suspend the rules and pass the bill.
 - 2011-10-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 1 (Roll no. 801). (text: CR H6996)
 - 2011-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 392 - 1 (Roll no. 801).(text: CR H6996)
+- 2011-10-31 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
