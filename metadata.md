@@ -1,7 +1,7 @@
 ---
 measure: H.R. 818
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 818
@@ -39,3 +39,4 @@ To direct the Secretary of the Interior to allow for prepayment of repayment con
 - 2011-10-24 — Mr. Young (AK) moved to suspend the rules and pass the bill.
 - 2011-10-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6995)
 - 2011-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6995)
+- 2011-10-31 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 211.
