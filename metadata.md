@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2112
 congress: 112
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2112
@@ -16,12 +16,266 @@ Consolidated and Further Continuing Appropriations Act, 2012
 
 - Rep. Kingston, Jack [R-GA-1] (K000220)
 
+## Cosponsors (251)
+
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Risch, James E. [R-ID] (R000584)
+
 ## Committees (2)
 
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (40)
+## Recorded votes (62)
 
 - 2011-06-15 — [House 112-1-420](votes/house-112-1-0420.md) — On Agreeing to the Amendment — **Failed** (193–226)
 - 2011-06-15 — [House 112-1-421](votes/house-112-1-0421.md) — On Agreeing to the Amendment — **Agreed to** (226–199)
@@ -63,6 +317,28 @@ Consolidated and Further Continuing Appropriations Act, 2012
 - 2011-06-16 — [House 112-1-457](votes/house-112-1-0457.md) — On Agreeing to the Amendment — **Failed** (101–314)
 - 2011-06-16 — [House 112-1-458](votes/house-112-1-0458.md) — On Motion to Recommit with Instructions — **Failed** (185–233)
 - 2011-06-16 — [House 112-1-459](votes/house-112-1-0459.md) — On Passage — **Passed** (217–203)
+- 2011-10-18 — [Senate 112-1-167](votes/senate-112-1-0167.md) — On the Amendment — **Amendment Agreed to** (99–0)
+- 2011-10-18 — [Senate 112-1-168](votes/senate-112-1-0168.md) — On the Amendment — **Amendment Rejected** (44–55)
+- 2011-10-19 — [Senate 112-1-170](votes/senate-112-1-0170.md) — On the Motion to Table — **Motion to Table Agreed to** (59–39)
+- 2011-10-20 — [Senate 112-1-172](votes/senate-112-1-0172.md) — On the Amendment — **Amendment Rejected** (45–55)
+- 2011-10-20 — [Senate 112-1-173](votes/senate-112-1-0173.md) — On the Amendment — **Amendment Rejected** (57–43)
+- 2011-10-20 — [Senate 112-1-174](votes/senate-112-1-0174.md) — On the Amendment — **Amendment Rejected** (55–44)
+- 2011-10-20 — [Senate 112-1-175](votes/senate-112-1-0175.md) — On the Amendment — **Amendment Rejected** (46–54)
+- 2011-10-20 — [Senate 112-1-179](votes/senate-112-1-0179.md) — On the Amendment — **Amendment Rejected** (41–57)
+- 2011-10-20 — [Senate 112-1-180](votes/senate-112-1-0180.md) — On the Amendment — **Amendment Agreed to** (60–38)
+- 2011-10-20 — [Senate 112-1-181](votes/senate-112-1-0181.md) — On the Amendment — **Amendment Agreed to** (58–41)
+- 2011-10-20 — [Senate 112-1-182](votes/senate-112-1-0182.md) — On the Amendment — **Amendment Rejected** (41–58)
+- 2011-10-21 — [Senate 112-1-183](votes/senate-112-1-0183.md) — On the Amendment — **Amendment Agreed to** (84–15)
+- 2011-10-21 — [Senate 112-1-184](votes/senate-112-1-0184.md) — On the Amendment — **Amendment Rejected** (59–40)
+- 2011-10-21 — [Senate 112-1-185](votes/senate-112-1-0185.md) — On the Amendment — **Amendment Agreed to** (73–26)
+- 2011-10-21 — [Senate 112-1-186](votes/senate-112-1-0186.md) — On the Amendment — **Amendment Rejected** (47–52)
+- 2011-10-21 — [Senate 112-1-187](votes/senate-112-1-0187.md) — On the Cloture Motion — **Cloture Motion Agreed to** (82–16)
+- 2011-11-01 — [Senate 112-1-189](votes/senate-112-1-0189.md) — On the Amendment — **Amendment Rejected** (13–85)
+- 2011-11-01 — [Senate 112-1-190](votes/senate-112-1-0190.md) — On the Amendment — **Amendment Rejected** (38–60)
+- 2011-11-01 — [Senate 112-1-191](votes/senate-112-1-0191.md) — On the Amendment — **Amendment Rejected** (44–54)
+- 2011-11-01 — [Senate 112-1-192](votes/senate-112-1-0192.md) — On the Amendment — **Amendment Rejected** (41–57)
+- 2011-11-01 — [Senate 112-1-193](votes/senate-112-1-0193.md) — On the Motion to Recommit — **Motion to Recommit Rejected** (39–60)
+- 2011-11-01 — [Senate 112-1-194](votes/senate-112-1-0194.md) — On Passage of the Bill — **Bill Passed** (69–30)
 
 ## Actions
 
@@ -615,3 +891,459 @@ Consolidated and Further Continuing Appropriations Act, 2012
 - 2011-09-07 — Committee on Appropriations. Reported by Senator Kohl with an amendment in the nature of a substitute. With written report No. 112-73.
 - 2011-09-07 — Committee on Appropriations. Reported by Senator Kohl with an amendment in the nature of a substitute. With written report No. 112-73.
 - 2011-09-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 155.
+- 2011-10-13 — Senate amendment submitted
+- 2011-10-17 — Amendment SA 738 proposed by Senator Reid for Senator Inouye. (consideration: CR S6575) In the nature of a substitute.
+- 2011-10-17 — Amendment SA 750 proposed by Senator Reid for Senator Webb to Amendment SA 738. (consideration: CR S6575-6577) To establish the National Criminal Justice Commission.
+- 2011-10-17 — Amendment SA 755 proposed by Senator Kohl to Amendment SA 738. (consideration: CR S6577-6582; text: CR S6578) To require a report on plans to implement reductions to certain salaries and expenses accounts.
+- 2011-10-17 — Amendment SA 772 proposed by Senator Durbin for Senator Murray to Amendment SA 738. (consideration: CR S6590; text: CR S6590) To strike a section providing for certain exemptions from environmental requirements for the reconstruction of highway facilities damaged by natural disasters or emergencies.
+- 2011-10-17 — Amendment SA 775 proposed by Senator Cornyn to Amendment SA 738. (consideration: CR S6587-6590; text: CR S6587) To prohibit funding for Operation Fast and Furious or similar "gun walking" programs.
+- 2011-10-17 — Measure laid before Senate by unanimous consent. (consideration: CR S6575-6582, S6587-6590)
+- 2011-10-17 — See also H.R. 2596.
+- 2011-10-17 — See also S. 1572.
+- 2011-10-17 — See also S. 1596.
+- 2011-10-17 — Senate amendment proposed (on the floor): Amendment SA 738 proposed by Senator Reid for Senator Inouye.(consideration: CR S6575)
+- 2011-10-17 — Senate amendment proposed (on the floor): Amendment SA 750 proposed by Senator Reid for Senator Webb to Amendment SA 738.(consideration: CR S6575-6577)
+- 2011-10-17 — Senate amendment proposed (on the floor): Amendment SA 755 proposed by Senator Kohl to Amendment SA 738.(consideration: CR S6577-6582; text: CR S6578)
+- 2011-10-17 — Senate amendment proposed (on the floor): Amendment SA 772 proposed by Senator Durbin for Senator Murray to Amendment SA 738.(consideration: CR S6590; text: CR S6590)
+- 2011-10-17 — Senate amendment proposed (on the floor): Amendment SA 775 proposed by Senator Cornyn to Amendment SA 738.(consideration: CR S6587-6590; text: CR S6587)
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — Senate amendment submitted
+- 2011-10-17 — The committee reported amendment was withdrawn by Unanimous Consent.
+- 2011-10-18 — Amendment SA 739 proposed by Senator McCain to Amendment SA 738. (consideration: CR S6633-6634, S6644-6645, S6646-6648; text: CR S6633) To ensure that the critical surface transportation needs of the United States are made a priority by prohibiting funds from being used on lower-priority projects, such as transportation museums and landscaping.
+- 2011-10-18 — Amendment SA 740 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 168.
+- 2011-10-18 — Amendment SA 740 proposed by Senator McCain to Amendment SA 738. (consideration: CR S6633-6634, S6638, S6639-6640, S6643-6644, S6645-6646, S6649 text: CR S6633-6634) To eliminate funding for the trade adjustment assistance for firms program.
+- 2011-10-18 — Amendment SA 741 proposed by Senator McCain to Amendment SA 738. (consideration: CR S6633-6634; text: CR S6634) To prohibit the use of appropriated funds to construct, fund, install, or operate certain ethanol blender pumps and ethanol storage facilities.
+- 2011-10-18 — Amendment SA 769 proposed by Senator Vitter to Amendment SA 738. (consideration: CR S6650; text: CR S6650) To prohibit the Food and Drug Administration from preventing an individual not in the business of importing a prescription drug from importing an FDA-approved prescription drug from Canada.
+- 2011-10-18 — Amendment SA 775 as modified agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 167. (text as modified: CR S6649)
+- 2011-10-18 — Amendment SA 781 proposed by Senator Landrieu to Amendment SA 738. (consideration: CR S6650, S6650-6651; text: CR S6650) To prohibit the approval of certain farmer program loans.
+- 2011-10-18 — Amendment SA 791 proposed by Senator Coburn to Amendment SA 738. (consideration: CR S6651; text: CR S6651) To prohibit the use of funds to provide direct payments to persons or legal entities with an average adjusted gross income in excess of $1,000,000.
+- 2011-10-18 — Amendment SA 792 proposed by Senator Coburn to Amendment SA 738. (consideration: CR S6651-6653; text: CR S6651) To end payments to landlords who are endangering the lives of children and needy families.
+- 2011-10-18 — Amendment SA 804 agreed to in Senate by Voice Vote.
+- 2011-10-18 — Amendment SA 804 proposed by Senator Collins to Amendment SA 738. (consideration: CR S6649-6650; text: CR S6649) To prohibit the use of funds to implement a rule that sets maximum limits on the serving of vegetables in school meal programs or is inconsistent with the recommendations of the most recent Dietary Guidelines for Americans for vegetables.
+- 2011-10-18 — Amendment SA 816 proposed by Senator Sanders to Amendment SA 738. (consideration: CR S6650; text: CR S6650) To provide amounts to support innovative, utility-administered energy efficiency programs for small businesses.
+- 2011-10-18 — Considered by Senate. (CR S6633)
+- 2011-10-18 — Considered by Senate. (consideration: CR S6633)
+- 2011-10-18 — Considered by Senate. (consideration: CR S6633)
+- 2011-10-18 — Considered by Senate. (consideration: CR S6633, S6634-6636, S6638, S6648-6649)
+- 2011-10-18 — Considered by Senate. (consideration: CR S6633, S6636-6638; text as modified: CR S6636-6638)
+- 2011-10-18 — Considered by Senate. (consideration: CR S6633, S6638-6653)
+- 2011-10-18 — Roll call votes on amendments in Senate: Amendment SA 740 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 168.
+- 2011-10-18 — Roll call votes on amendments in Senate: Amendment SA 775 as modified agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 167.(text as modified: CR S6649)
+- 2011-10-18 — Senate amendment agreed to: Amendment SA 775 as modified agreed to in Senate by Yea-Nay Vote. 99 - 0. Record Vote Number: 167.(text as modified: CR S6649)
+- 2011-10-18 — Senate amendment agreed to: Amendment SA 804 agreed to in Senate by Voice Vote.
+- 2011-10-18 — Senate amendment not agreed to: Amendment SA 740 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 168.
+- 2011-10-18 — Senate amendment proposed (on the floor): Amendment SA 739 proposed by Senator McCain to Amendment SA 738.(consideration: CR S6633-6634, S6644-6645, S6646-6648; text: CR S6633)
+- 2011-10-18 — Senate amendment proposed (on the floor): Amendment SA 740 proposed by Senator McCain to Amendment SA 738.(consideration: CR S6633-6634, S6638, S6639-6640, S6643-6644, S6645-6646, S6649 text: CR S6633-6634)
+- 2011-10-18 — Senate amendment proposed (on the floor): Amendment SA 741 proposed by Senator McCain to Amendment SA 738.(consideration: CR S6633-6634; text: CR S6634)
+- 2011-10-18 — Senate amendment proposed (on the floor): Amendment SA 769 proposed by Senator Vitter to Amendment SA 738.(consideration: CR S6650; text: CR S6650)
+- 2011-10-18 — Senate amendment proposed (on the floor): Amendment SA 781 proposed by Senator Landrieu to Amendment SA 738.(consideration: CR S6650, S6650-6651; text: CR S6650)
+- 2011-10-18 — Senate amendment proposed (on the floor): Amendment SA 791 proposed by Senator Coburn to Amendment SA 738.(consideration: CR S6651; text: CR S6651)
+- 2011-10-18 — Senate amendment proposed (on the floor): Amendment SA 792 proposed by Senator Coburn to Amendment SA 738.(consideration: CR S6651-6653; text: CR S6651)
+- 2011-10-18 — Senate amendment proposed (on the floor): Amendment SA 804 proposed by Senator Collins to Amendment SA 738.(consideration: CR S6649-6650; text: CR S6649)
+- 2011-10-18 — Senate amendment proposed (on the floor): Amendment SA 816 proposed by Senator Sanders to Amendment SA 738.(consideration: CR S6650; text: CR S6650)
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-18 — Senate amendment submitted
+- 2011-10-19 — Amendment SA 753 proposed by Senator Ayotte to Amendment SA 738. (consideration: CR S6729-6730, S6736, S6737-6738, S6744-6746, S6746-6749, S6751-6752; text: CR S6729-6730) To prohibit the use of funds for the prosecution of enemy combatants in Article III courts of the United States.
+- 2011-10-19 — Amendment SA 763 proposed by Senator Blunt for Senator DeMint to Amendment SA 738. (consideration: CR S6751; text: CR S6751) To prohibit the use of funds to implement regulations regarding the removal of essential-use designation for epinephrine used in oral pressurized metered-dose inhalers.
+- 2011-10-19 — Amendment SA 764 proposed by Senator Blunt for Senator DeMint to Amendment SA 738. (consideration: CR S6751; text: CR S6751) To eliminate a certain increase in funding.
+- 2011-10-19 — Amendment SA 771 proposed by Senator Bingaman to Amendment SA 738. (consideration: CR S6735-6736; text as modified: CR S6735) To provide an additional $4,476,000, with an offset, for the Office of the United States Trade Representative to investigate trade violations committed by other countries and to enforce the trade laws of the United States and international trade agreements, which will fund the Office at the level requested in the President's budget and in H.R. 2596, as reported by the Committee on Appropriations of the House of Representatives.
+- 2011-10-19 — Amendment SA 793 agreed to in Senate by Unanimous Consent.
+- 2011-10-19 — Amendment SA 793 proposed by Senator Reid for Senator Coburn to Amendment SA 738. (consideration: CR S6758; text: CR S6758) To ensure transparency in federally attended and funded conferences, including the cost to taxpayers for food, drinks, and hotel stays associated with federally funded conferences of more than $20,000.
+- 2011-10-19 — Amendment SA 798 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S6758)
+- 2011-10-19 — Amendment SA 798 proposed by Senator Reid for Senator Coburn to Amendment SA 738. (consideration: CR S6758) To prohibit the use of amounts made available by this bill to purchase new passenger motor vehicles.
+- 2011-10-19 — Amendment SA 810 proposed by Senator Sessions to Amendment SA 738. (consideration: CR S6741-6744; text: CR S6742) To prohibit the use of funds to allow categorical eligibility for the supplemental nutrition assistance program.
+- 2011-10-19 — Amendment SA 814 proposed by Senator Crapo to Amendment SA 738. (consideration: CR S6731-6732, S6750; text: CR S6731) To provide for the orderly implementation of the provisions of title VII of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and for other purposes.
+- 2011-10-19 — Amendment SA 815 proposed by Senator Moran to Amendment SA 738. (consideration: CR S6734, S6741, S6750; text: CR S6734) To improve the bill.
+- 2011-10-19 — Amendment SA 816 agreed to in Senate by Unanimous Consent.
+- 2011-10-19 — Amendment SA 836 proposed by Senator Lautenberg to Amendment SA 738. (consideration: CR S6752-6753; text: CR S6752) To provide adequate funding for Economic Development Administration disaster relief grants pursuant to the agreement on disaster relief funding included in the Budget Control Act of 2011.
+- 2011-10-19 — Amendment SA 857 proposed by Senator Menendez to Amendment SA 738. (consideration: CR S6738-6740; text: CR S6738-6739) To extend loan limits for programs of the government-sponsored enterprises, the Federal Housing Administration, and the Veterans Affairs Administration, and for other purposes.
+- 2011-10-19 — Amendment SA 860 proposed by Senator Blunt for Senator Grassley to Amendment SA 738. (consideration: CR S6736-6737; text: CR S6736-6737) To ensure accountability in Federal grant programs administered by the Department of Justice.
+- 2011-10-19 — Amendment SA 869 proposed by Senator Gillibrand to Amendment SA 738. (consideration: CR S6753-6755; text: CR S6754) To increase funding for the emergency conservation program and the emergency watershed protection program.
+- 2011-10-19 — Amendment SA 879 proposed by Senator Merkley to Amendment SA 738. (consideration: CR S6732-6734; text: CR S6733) To prohibit amounts appropriated under this Act to carry out parts A and B of subtitle V of title 49, United States Code, from being expended unless all the steel, iron, and manufactured products used in the project are produced in the United States.
+- 2011-10-19 — Cloture motion on amendment SA 738 presented in Senate. (consideration: CR S6758; text: CR S6758)
+- 2011-10-19 — Cloture motion on the bill presented in Senate. (consideration: CR S6758; text: CR S6758)
+- 2011-10-19 — Considered by Senate. (consideration: CR S6708)
+- 2011-10-19 — Considered by Senate. (consideration: CR S6708)
+- 2011-10-19 — Considered by Senate. (consideration: CR S6708)
+- 2011-10-19 — Considered by Senate. (consideration: CR S6708)
+- 2011-10-19 — Considered by Senate. (consideration: CR S6708)
+- 2011-10-19 — Considered by Senate. (consideration: CR S6708)
+- 2011-10-19 — Considered by Senate. (consideration: CR S6708, S6730-6731, S6749-6750; text as modified: CR S6730)
+- 2011-10-19 — Considered by Senate. (consideration: CR S6708, S6746; text as modified: CR S6746)
+- 2011-10-19 — Considered by Senate. (consideration: CR S6708, S6750-6751)
+- 2011-10-19 — Considered by Senate. (consideration: CR S6708, S6758)
+- 2011-10-19 — Considered by Senate. (consideration: CR S6708-6713, S6716-6717)
+- 2011-10-19 — Considered by Senate. (consideration: CR S6708-6713, S6716-6753, S6753-6758)
+- 2011-10-19 — Motion by Senator Lee to recommit to Senate Committee on Appropriations with instructions to reduce spending in each division made in Senate. (consideration: CR S6740-6741; text: CR S6740)
+- 2011-10-19 — Motion to table amendment SA 739 agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 170.
+- 2011-10-19 — Proposed amendment SA 741 withdrawn in Senate. (consideration: CR S6751)
+- 2011-10-19 — Roll call votes on amendments in Senate: Motion to table amendment SA 739 agreed to in Senate by Yea-Nay Vote. 59 - 39. Record Vote Number: 170.
+- 2011-10-19 — Senate amendment agreed to: Amendment SA 793 agreed to in Senate by Unanimous Consent.
+- 2011-10-19 — Senate amendment agreed to: Amendment SA 798 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S6758)
+- 2011-10-19 — Senate amendment agreed to: Amendment SA 816 agreed to in Senate by Unanimous Consent.
+- 2011-10-19 — Senate amendment proposed (on the floor): Amendment SA 753 proposed by Senator Ayotte to Amendment SA 738.(consideration: CR S6729-6730, S6736, S6737-6738, S6744-6746, S6746-6749, S6751-6752; text: CR S6729-6730)
+- 2011-10-19 — Senate amendment proposed (on the floor): Amendment SA 763 proposed by Senator Blunt for Senator DeMint to Amendment SA 738.(consideration: CR S6751; text: CR S6751)
+- 2011-10-19 — Senate amendment proposed (on the floor): Amendment SA 764 proposed by Senator Blunt for Senator DeMint to Amendment SA 738.(consideration: CR S6751; text: CR S6751)
+- 2011-10-19 — Senate amendment proposed (on the floor): Amendment SA 771 proposed by Senator Bingaman to Amendment SA 738.(consideration: CR S6735-6736; text as modified: CR S6735)
+- 2011-10-19 — Senate amendment proposed (on the floor): Amendment SA 793 proposed by Senator Reid for Senator Coburn to Amendment SA 738.(consideration: CR S6758; text: CR S6758)
+- 2011-10-19 — Senate amendment proposed (on the floor): Amendment SA 798 proposed by Senator Reid for Senator Coburn to Amendment SA 738.(consideration: CR S6758)
+- 2011-10-19 — Senate amendment proposed (on the floor): Amendment SA 810 proposed by Senator Sessions to Amendment SA 738.(consideration: CR S6741-6744; text: CR S6742)
+- 2011-10-19 — Senate amendment proposed (on the floor): Amendment SA 814 proposed by Senator Crapo to Amendment SA 738.(consideration: CR S6731-6732, S6750; text: CR S6731)
+- 2011-10-19 — Senate amendment proposed (on the floor): Amendment SA 815 proposed by Senator Moran to Amendment SA 738.(consideration: CR S6734, S6741, S6750; text: CR S6734)
+- 2011-10-19 — Senate amendment proposed (on the floor): Amendment SA 836 proposed by Senator Lautenberg to Amendment SA 738.(consideration: CR S6752-6753; text: CR S6752)
+- 2011-10-19 — Senate amendment proposed (on the floor): Amendment SA 857 proposed by Senator Menendez to Amendment SA 738.(consideration: CR S6738-6740; text: CR S6738-6739)
+- 2011-10-19 — Senate amendment proposed (on the floor): Amendment SA 860 proposed by Senator Blunt for Senator Grassley to Amendment SA 738.(consideration: CR S6736-6737; text: CR S6736-6737)
+- 2011-10-19 — Senate amendment proposed (on the floor): Amendment SA 869 proposed by Senator Gillibrand to Amendment SA 738.(consideration: CR S6753-6755; text: CR S6754)
+- 2011-10-19 — Senate amendment proposed (on the floor): Amendment SA 879 proposed by Senator Merkley to Amendment SA 738.(consideration: CR S6732-6734; text: CR S6733)
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-19 — Senate amendment submitted
+- 2011-10-20 — Amendment SA 750 under the order of 10/19/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 173.
+- 2011-10-20 — Amendment SA 755 agreed to in Senate by Voice Vote.
+- 2011-10-20 — Amendment SA 769 under the order of 10/19/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 172.
+- 2011-10-20 — Amendment SA 771 as modified agreed to in Senate by Voice Vote.
+- 2011-10-20 — Amendment SA 781 as modified agreed to in Senate by Voice Vote. (text as modified: CR S6841)
+- 2011-10-20 — Amendment SA 794 proposed by Senator Coburn to Amendment SA 738. (consideration: CR S6808-6809; text: CR S6808-6809) To provide taxpayers with an annual report disclosing the cost of, performance by, and areas for improvements for Government programs, and for other purposes.
+- 2011-10-20 — Amendment SA 795 proposed by Senator Coburn to Amendment SA 738. (consideration: CR S6808-6809; text: CR S6809) To collect more than $500,000,000 from developers for failed, botched, and abandoned projects.
+- 2011-10-20 — Amendment SA 796 proposed by Senator Coburn to Amendment SA 738. (consideration: CR S6808-6809, S6846; text: CR S6809) To end lending schemes that force taxpayers to repay the loans of delinquent developers and bailout failed or poorly planned local projects.
+- 2011-10-20 — Amendment SA 797 proposed by Senator Coburn to Amendment SA 738. (consideration: CR S6808-6809; text: CR S6809) To delay or cancel new construction, purchasing, leasing, and renovation of Federal buildings and office space.
+- 2011-10-20 — Amendment SA 799 proposed by Senator Coburn to Amendment SA 738. (consideration: CR S6808-6809; text: CR S6809) To prohibit the use of funds to carry out the Rural Energy for America Program.
+- 2011-10-20 — Amendment SA 800 proposed by Senator Coburn to Amendment SA 738. (consideration: CR S6808-6809; text: CR S6809) To reduce funding for the Rural Development Agency.
+- 2011-10-20 — Amendment SA 801 proposed by Senator Coburn to Amendment SA 738. (consideration: CR S6808-6809; text: CR S6809) To eliminate funding for the Small Community Air Service Development Program.
+- 2011-10-20 — Amendment SA 815 agreed to in Senate by Voice Vote.
+- 2011-10-20 — Amendment SA 833 proposed by Senator Coburn to Amendment SA 738. (consideration: CR S6808-6809; text: CR S6809) To end the outdated direct payment program and to begin restoring the farm safety net as a true risk management tool.
+- 2011-10-20 — Amendment SA 836 agreed to in Senate by Voice Vote.
+- 2011-10-20 — Amendment SA 857 under the order of 10/20/2011, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 60 - 38. Record Vote Number: 180.
+- 2011-10-20 — Amendment SA 860 under the order of 10/19/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 175.
+- 2011-10-20 — Amendment SA 869 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 181.
+- 2011-10-20 — Amendment SA 874 as modified agreed to in Senate by Voice Vote. (text as modified: CR S6807)
+- 2011-10-20 — Amendment SA 874 proposed by Senator Brown OH. (consideration: CR S6807) To increase amounts made available to carry out section 561 of the Housing and Community Development Act of 1987, and to provide an offset.
+- 2011-10-20 — Amendment SA 879 under the order of 10/19/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 174.
+- 2011-10-20 — Amendment SA 917 proposed by Senator Vitter to Amendment SA 857. (consideration: CR S6841-6842; text: CR S6841) To reestablish the maximum aggregate amount permitted to be provided by the taxpayers to Fannie Mae and Freddie Mac.
+- 2011-10-20 — Amendment SA 917 under the order of 10/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 179.
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791, S6794, S6796-6797, S6798-6800, S6802)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791, S6794-6795, S6797-6798, S6801-6802)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791, S6795-6796, S6809-6810, S6818-6819, S6835-6837, S6846-6847)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791, S6802-6803, S6805-6806, S6807-6808)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791, S6803-6805, S6806-6807; text as modified: CR S6806-6807)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791, S6807)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791, S6837, S6839-6844)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791, S6841)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791, S6841)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791, S6842-6843)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791, S6844-6845)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791, S6845-6846)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791, S6945)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6791-6800, S6801-6812, S6812-6819, S6829-6840, S6841-6853)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6792, S6839-6840)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6792, S6843)
+- 2011-10-20 — Considered by Senate. (consideration: CR S6792, S6843-6844)
+- 2011-10-20 — Proposed amendment SA 772 withdrawn in Senate. (consideration: CR S6798)
+- 2011-10-20 — Roll call votes on amendments in Senate: Amendment SA 750 under the order of 10/19/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 173.
+- 2011-10-20 — Roll call votes on amendments in Senate: Amendment SA 769 under the order of 10/19/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 172.
+- 2011-10-20 — Roll call votes on amendments in Senate: Amendment SA 857 under the order of 10/20/2011, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 60 - 38. Record Vote Number: 180.
+- 2011-10-20 — Roll call votes on amendments in Senate: Amendment SA 860 under the order of 10/19/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 175.
+- 2011-10-20 — Roll call votes on amendments in Senate: Amendment SA 869 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 181.
+- 2011-10-20 — Roll call votes on amendments in Senate: Amendment SA 879 under the order of 10/19/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 174.
+- 2011-10-20 — Roll call votes on amendments in Senate: Amendment SA 917 under the order of 10/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 179.
+- 2011-10-20 — Senate amendment agreed to: Amendment SA 755 agreed to in Senate by Voice Vote.
+- 2011-10-20 — Senate amendment agreed to: Amendment SA 771 as modified agreed to in Senate by Voice Vote.
+- 2011-10-20 — Senate amendment agreed to: Amendment SA 781 as modified agreed to in Senate by Voice Vote.(text as modified: CR S6841)
+- 2011-10-20 — Senate amendment agreed to: Amendment SA 815 agreed to in Senate by Voice Vote.
+- 2011-10-20 — Senate amendment agreed to: Amendment SA 836 agreed to in Senate by Voice Vote.
+- 2011-10-20 — Senate amendment agreed to: Amendment SA 857 under the order of 10/20/2011, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 60 - 38. Record Vote Number: 180.
+- 2011-10-20 — Senate amendment agreed to: Amendment SA 869 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 181.
+- 2011-10-20 — Senate amendment agreed to: Amendment SA 874 as modified agreed to in Senate by Voice Vote.(text as modified: CR S6807)
+- 2011-10-20 — Senate amendment not agreed to: Amendment SA 750 under the order of 10/19/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 173.
+- 2011-10-20 — Senate amendment not agreed to: Amendment SA 769 under the order of 10/19/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 172.
+- 2011-10-20 — Senate amendment not agreed to: Amendment SA 860 under the order of 10/19/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 54. Record Vote Number: 175.
+- 2011-10-20 — Senate amendment not agreed to: Amendment SA 879 under the order of 10/19/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 174.
+- 2011-10-20 — Senate amendment not agreed to: Amendment SA 917 under the order of 10/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 179.
+- 2011-10-20 — Senate amendment proposed (on the floor): Amendment SA 794 proposed by Senator Coburn to Amendment SA 738.(consideration: CR S6808-6809; text: CR S6808-6809)
+- 2011-10-20 — Senate amendment proposed (on the floor): Amendment SA 795 proposed by Senator Coburn to Amendment SA 738.(consideration: CR S6808-6809; text: CR S6809)
+- 2011-10-20 — Senate amendment proposed (on the floor): Amendment SA 796 proposed by Senator Coburn to Amendment SA 738.(consideration: CR S6808-6809, S6846; text: CR S6809)
+- 2011-10-20 — Senate amendment proposed (on the floor): Amendment SA 797 proposed by Senator Coburn to Amendment SA 738.(consideration: CR S6808-6809; text: CR S6809)
+- 2011-10-20 — Senate amendment proposed (on the floor): Amendment SA 799 proposed by Senator Coburn to Amendment SA 738.(consideration: CR S6808-6809; text: CR S6809)
+- 2011-10-20 — Senate amendment proposed (on the floor): Amendment SA 800 proposed by Senator Coburn to Amendment SA 738.(consideration: CR S6808-6809; text: CR S6809)
+- 2011-10-20 — Senate amendment proposed (on the floor): Amendment SA 801 proposed by Senator Coburn to Amendment SA 738.(consideration: CR S6808-6809; text: CR S6809)
+- 2011-10-20 — Senate amendment proposed (on the floor): Amendment SA 833 proposed by Senator Coburn to Amendment SA 738.(consideration: CR S6808-6809; text: CR S6809)
+- 2011-10-20 — Senate amendment proposed (on the floor): Amendment SA 874 proposed by Senator Brown OH.(consideration: CR S6807)
+- 2011-10-20 — Senate amendment proposed (on the floor): Amendment SA 917 proposed by Senator Vitter to Amendment SA 857.(consideration: CR S6841-6842; text: CR S6841)
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-20 — Senate amendment submitted
+- 2011-10-21 — Amendment SA 738 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Amendment SA 753 under the order of 10/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 186.
+- 2011-10-21 — Amendment SA 791 agreed to in Senate by Yea-Nay Vote. 84 - 15. Record Vote Number: 183.
+- 2011-10-21 — Amendment SA 792 under the order of 10/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 184.
+- 2011-10-21 — Amendment SA 796 under the order of 10/20/2011, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 73 - 26. Record Vote Number: 185.
+- 2011-10-21 — Amendment SA 805 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S6849)
+- 2011-10-21 — Amendment SA 805 proposed by Senator Durbin for Senator Cochran. (consideration: CR 10/20/2011 S6848-6849) To set aside certain funding for the construction, acquisition, or improvement of fossil-fueled electric generating plants that utilize carbon sequestration systems.
+- 2011-10-21 — Amendment SA 806 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Amendment SA 806 proposed by Senator Reid for Senator Hutchison. (consideration: CR 10/20/2011 S6850; text: CR 10/20/2011 S6850) To amend the requirements for the designation of Moving-To-Work agencies.
+- 2011-10-21 — Amendment SA 809 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Amendment SA 809 proposed by Senator Reid for Senator Thune. (consideration: CR 10/20/2011 S6850; text: CR 10/20/2011 S6850) To authorize States to be reimbursed for expenditures made in reliance of a grant erroneously awarded pursuant to sections 4101(c)(4) and 4126 of Public Law 109-59.
+- 2011-10-21 — Amendment SA 810 under the order of 10/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 41 - 58. Record Vote Number: 182.
+- 2011-10-21 — Amendment SA 859 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Amendment SA 859 proposed by Senator Durbin for Senator Portman. (consideration: CR 10/20/2011 S6817-6818, S6848-6849; text: CR 10/20/2011 S6849) To strike a section relating to the approval of projects that include beam rail elements and terminal sections.
+- 2011-10-21 — Amendment SA 890 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Amendment SA 890 proposed by Senator Durbin for Senator Burr. (consideration: CR 10/20/2011 S6848-6849; text: CR 10/20/2011 S6849) To improve the transparency and accountability of the FDA in order to encourage regulatory certainty and innovation on behalf of America's patients.
+- 2011-10-21 — Amendment SA 892 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Amendment SA 892 proposed by Senator Durbin for Senator McCain. (consideration: CR 10/20/2011 S6848-6849; text: CR 10/20/2011 S6849) To provide additional flexibility for the closing or relocation of Rural Development offices.
+- 2011-10-21 — Amendment SA 893 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR 10/20/2011 S6849)
+- 2011-10-21 — Amendment SA 893 proposed by Senator Durbin for Senator Cantwell. (consideration: CR 10/20/2011 S6848-6849, S6849-6850) To direct the National Aquatic Animal Health Task Force to assess the risk Infections Salmon Anemia poses to wild Pacific salmon and the coastal economies which rely on them.
+- 2011-10-21 — Amendment SA 898 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Amendment SA 898 proposed by Senator Reid for Senator Rubio. (consideration: CR 10/20/2011 S6850; text: CR 10/20/2011 S6850) To require an evaluation of the Gulf Coast Claims Facility.
+- 2011-10-21 — Amendment SA 912 as modified agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Amendment SA 912 proposed by Senator Durbin for Senator Kyl. (consideration: CR 10/20/2011 S6829-6830, S6848-6849) To increase funding for the Southwest border enforcement.
+- 2011-10-21 — Amendment SA 918 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Amendment SA 918 proposed by Senator Durbin for Senator Inouye. (consideration: CR 10/20/2011 S6848-6849; text:   CR 10/20/2011 S6849) To strike provisions related to the Commission on Wartime Relocation and Internment of Latin Americans of Japanese Descent.
+- 2011-10-21 — Cloture on amendment SA 738 invoked in Senate by Yea-Nay Vote. 82 - 16. Record Vote Number: 187. (consideration: CR 10/20/2011 S6847; text: CR 10/20/2011 S6847)
+- 2011-10-21 — Roll call votes on amendments in Senate: Amendment SA 753 under the order of 10/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 186.
+- 2011-10-21 — Roll call votes on amendments in Senate: Amendment SA 791 agreed to in Senate by Yea-Nay Vote. 84 - 15. Record Vote Number: 183.
+- 2011-10-21 — Roll call votes on amendments in Senate: Amendment SA 792 under the order of 10/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 184.
+- 2011-10-21 — Roll call votes on amendments in Senate: Amendment SA 796 under the order of 10/20/2011, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 73 - 26. Record Vote Number: 185.
+- 2011-10-21 — Roll call votes on amendments in Senate: Amendment SA 810 under the order of 10/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 41 - 58. Record Vote Number: 182.
+- 2011-10-21 — Roll call votes on amendments in Senate: Cloture on amendment SA 738 invoked in Senate by Yea-Nay Vote. 82 - 16. Record Vote Number: 187.(consideration: CR 10/20/2011 S6847; text: CR 10/20/2011 S6847)
+- 2011-10-21 — Senate amendment agreed to: Amendment SA 738 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Senate amendment agreed to: Amendment SA 791 agreed to in Senate by Yea-Nay Vote. 84 - 15. Record Vote Number: 183.
+- 2011-10-21 — Senate amendment agreed to: Amendment SA 796 under the order of 10/20/2011, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 73 - 26. Record Vote Number: 185.
+- 2011-10-21 — Senate amendment agreed to: Amendment SA 805 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S6849)
+- 2011-10-21 — Senate amendment agreed to: Amendment SA 806 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Senate amendment agreed to: Amendment SA 809 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Senate amendment agreed to: Amendment SA 859 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Senate amendment agreed to: Amendment SA 890 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Senate amendment agreed to: Amendment SA 892 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Senate amendment agreed to: Amendment SA 893 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR 10/20/2011 S6849)
+- 2011-10-21 — Senate amendment agreed to: Amendment SA 898 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Senate amendment agreed to: Amendment SA 912 as modified agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Senate amendment agreed to: Amendment SA 918 agreed to in Senate by Unanimous Consent.
+- 2011-10-21 — Senate amendment not agreed to: Amendment SA 753 under the order of 10/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 186.
+- 2011-10-21 — Senate amendment not agreed to: Amendment SA 792 under the order of 10/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 184.
+- 2011-10-21 — Senate amendment not agreed to: Amendment SA 810 under the order of 10/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 41 - 58. Record Vote Number: 182.
+- 2011-10-21 — Senate amendment proposed (on the floor): Amendment SA 805 proposed by Senator Durbin for Senator Cochran.(consideration: CR 10/20/2011 S6848-6849)
+- 2011-10-21 — Senate amendment proposed (on the floor): Amendment SA 806 proposed by Senator Reid for Senator Hutchison.(consideration: CR 10/20/2011 S6850; text: CR 10/20/2011 S6850)
+- 2011-10-21 — Senate amendment proposed (on the floor): Amendment SA 809 proposed by Senator Reid for Senator Thune.(consideration: CR 10/20/2011 S6850; text: CR 10/20/2011 S6850)
+- 2011-10-21 — Senate amendment proposed (on the floor): Amendment SA 859 proposed by Senator Durbin for Senator Portman.(consideration: CR 10/20/2011 S6817-6818, S6848-6849; text: CR 10/20/2011 S6849)
+- 2011-10-21 — Senate amendment proposed (on the floor): Amendment SA 890 proposed by Senator Durbin for Senator Burr.(consideration: CR 10/20/2011 S6848-6849; text: CR 10/20/2011 S6849)
+- 2011-10-21 — Senate amendment proposed (on the floor): Amendment SA 892 proposed by Senator Durbin for Senator McCain.(consideration: CR 10/20/2011 S6848-6849; text: CR 10/20/2011 S6849)
+- 2011-10-21 — Senate amendment proposed (on the floor): Amendment SA 893 proposed by Senator Durbin for Senator Cantwell.(consideration: CR 10/20/2011 S6848-6849, S6849-6850)
+- 2011-10-21 — Senate amendment proposed (on the floor): Amendment SA 898 proposed by Senator Reid for Senator Rubio.(consideration: CR 10/20/2011 S6850; text: CR 10/20/2011 S6850)
+- 2011-10-21 — Senate amendment proposed (on the floor): Amendment SA 912 proposed by Senator Durbin for Senator Kyl.(consideration: CR 10/20/2011 S6829-6830, S6848-6849)
+- 2011-10-21 — Senate amendment proposed (on the floor): Amendment SA 918 proposed by Senator Durbin for Senator Inouye.(consideration: CR 10/20/2011 S6848-6849; text:   CR 10/20/2011 S6849)
+- 2011-10-31 — Senate amendment submitted
+- 2011-11-01 — Amendment SA 763 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 191.
+- 2011-11-01 — Amendment SA 764 ruled non-germane by the chair.
+- 2011-11-01 — Amendment SA 800 not agreed to in Senate by Yea-Nay Vote. 13 - 85. Record Vote Number: 189.
+- 2011-11-01 — Amendment SA 801 not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 192.
+- 2011-11-01 — Amendment SA 821 proposed by Senator Paul. (consideration: CR S6933-6934; text: CR S6933) To reallocate 10 percent of the amounts appropriated for capital investments in surface transportation infrastructure from transportation enhancement activities to the highway bridge program.
+- 2011-11-01 — Amendment SA 821 under the order of 10/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 190.
+- 2011-11-01 — Amendment SA 921 agreed to in Senate by Unanimous Consent.
+- 2011-11-01 — Amendment SA 921 proposed by Senator Durbin. (consideration: CR S6979; text: CR S6979) To amend the title.
+- 2011-11-01 — Cloture motion on the bill rendered moot in Senate.
+- 2011-11-01 — Considered by Senate. (consideration: CR S6932)
+- 2011-11-01 — Considered by Senate. (consideration: CR S6932)
+- 2011-11-01 — Considered by Senate. (consideration: CR S6932)
+- 2011-11-01 — Considered by Senate. (consideration: CR S6932)
+- 2011-11-01 — Considered by Senate. (consideration: CR S6932)
+- 2011-11-01 — Considered by Senate. (consideration: CR S6932)
+- 2011-11-01 — Considered by Senate. (consideration: CR S6932, S6932-6933)
+- 2011-11-01 — Considered by Senate. (consideration: CR S6932, S6934)
+- 2011-11-01 — Considered by Senate. (consideration: CR S6932, S6936)
+- 2011-11-01 — Considered by Senate. (consideration: CR S6932, S6937)
+- 2011-11-01 — Considered by Senate. (consideration: CR S6932-6980)
+- 2011-11-01 — Motion by Senator Lee to recommit to Senate Committee on Appropriations with instructions rejected in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 193. (consideration: CR S6932, S6936-6937)
+- 2011-11-01 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 69 - 30. Record Vote Number: 194. (text: CR S6937-6979)
+- 2011-11-01 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 69 - 30. Record Vote Number: 194.(text: CR S6937-6979)
+- 2011-11-01 — Point of order raised in Senate with respect to amendment SA 764.
+- 2011-11-01 — Proposed amendment SA 794 withdrawn in Senate. (consideration: CR S6937)
+- 2011-11-01 — Proposed amendment SA 795 withdrawn in Senate. (consideration: CR S6937)
+- 2011-11-01 — Proposed amendment SA 797 withdrawn in Senate. (consideration: CR S6937)
+- 2011-11-01 — Proposed amendment SA 799 withdrawn in Senate. (consideration: CR S6937)
+- 2011-11-01 — Proposed amendment SA 814 withdrawn in Senate. (consideration: CR S6934-6936)
+- 2011-11-01 — Proposed amendment SA 833 withdrawn in Senate. (consideration: CR S6937)
+- 2011-11-01 — Roll call votes on amendments in Senate: Amendment SA 763 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 191.
+- 2011-11-01 — Roll call votes on amendments in Senate: Amendment SA 800 not agreed to in Senate by Yea-Nay Vote. 13 - 85. Record Vote Number: 189.
+- 2011-11-01 — Roll call votes on amendments in Senate: Amendment SA 801 not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 192.
+- 2011-11-01 — Roll call votes on amendments in Senate: Amendment SA 821 under the order of 10/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 190.
+- 2011-11-01 — SA 764 fell when the Chair ruled the amendment non-germane.
+- 2011-11-01 — Senate amendment agreed to: Amendment SA 921 agreed to in Senate by Unanimous Consent.
+- 2011-11-01 — Senate amendment not agreed to: Amendment SA 763 not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 191.
+- 2011-11-01 — Senate amendment not agreed to: Amendment SA 800 not agreed to in Senate by Yea-Nay Vote. 13 - 85. Record Vote Number: 189.
+- 2011-11-01 — Senate amendment not agreed to: Amendment SA 801 not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 192.
+- 2011-11-01 — Senate amendment not agreed to: Amendment SA 821 under the order of 10/20/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 190.
+- 2011-11-01 — Senate amendment proposed (on the floor): Amendment SA 821 proposed by Senator Paul.(consideration: CR S6933-6934; text: CR S6933)
+- 2011-11-01 — Senate amendment proposed (on the floor): Amendment SA 921 proposed by Senator Durbin.(consideration: CR S6979; text: CR S6979)
+- 2011-11-01 — Senate amendment submitted
