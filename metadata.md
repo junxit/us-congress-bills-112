@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 13
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 13
@@ -87,6 +87,10 @@ Reaffirming "In God We Trust" as the official motto of the United States and sup
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2011-11-01 — [House 112-1-816](votes/house-112-1-0816.md) — On Motion to Suspend the Rules and Agree — **Passed** (396–9)
+
 ## Actions
 
 - 2011-01-26 — Introduced in House
@@ -99,3 +103,11 @@ Reaffirming "In God We Trust" as the official motto of the United States and sup
 - 2011-03-31 — Placed on the House Calendar, Calendar No. 23.
 - 2011-03-31 — Reported by the Committee on Judiciary. H. Rept. 112-47.
 - 2011-03-31 — Reported by the Committee on Judiciary. H. Rept. 112-47.
+- 2011-11-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-11-01 — Considered as unfinished business. (consideration: CR H7186)
+- 2011-11-01 — Considered under suspension of the rules. (consideration: CR H7169-7175)
+- 2011-11-01 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 13.
+- 2011-11-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-11-01 — Mr. Forbes moved to suspend the rules and agree to the resolution.
+- 2011-11-01 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 396 - 9, 2 Present (Roll no. 816). (text: CR H7169)
+- 2011-11-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 396 - 9, 2 Present (Roll no. 816).(text: CR H7169)
