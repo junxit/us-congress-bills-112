@@ -1,7 +1,7 @@
 ---
 measure: H.R. 674
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 674
@@ -323,3 +323,5 @@ To amend the Internal Revenue Code of 1986 to repeal the imposition of 3 percent
 - 2011-10-27 — Rule provides for consideration of H.R. 2576 and H.R. 674 with 1 hour of general debate on each measure. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions for each measure. Measures will be considered read. Bills are closed to amendments. The resolution waives all points of order against consideration of both bills and directs the Clerk, in the engrossment of H.R. 674, to add the text of H.R. 2576, as passed by the House, as new matter at the end of H.R. 674.
 - 2011-10-27 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7150)
 - 2011-10-27 — The previous question was ordered without objection. (consideration: CR H7143)
+- 2011-10-31 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-11-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 212.

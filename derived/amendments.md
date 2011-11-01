@@ -1,7 +1,7 @@
 ---
 measure: H.R. 674
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 26 U.S.C. § 36B
+
+> Subparagraph (B) of section 36B(d)(2) of the Internal Revenue Code of 1986 is amended by striking “and” at the end of clause (i), by striking the period at the end of clause (ii) and inserting “, and”, and by adding at the end the following new clause:
+
+| | |
+|---|---|
+| Removed | `and` |
+| Inserted | `, and` |
 
 ## Stated, not applied
 
@@ -31,5 +42,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | Section 3402 of the Internal Revenue Code of 1986 is amended by striking subsection (t). | the bill names no machine-readable US Code section |
-| — | replace | Subparagraph (B) of section 36B(d)(2) of the Internal Revenue Code of 1986 is amended by striking “and” at the end of clause (i), by striking the period at the end of clause (ii) and inserting “, and”, and by adding at the end the follow… | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 3402` | strike | Section 3402 of the Internal Revenue Code of 1986 is amended by striking subsection (t). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
