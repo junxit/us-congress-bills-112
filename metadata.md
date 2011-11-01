@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2112
 congress: 112
-version: Engrossed Amendment Senate
+version: Public Print
 ---
 
 # H.R. 2112
