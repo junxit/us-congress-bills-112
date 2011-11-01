@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2112
 congress: 112
-version: Public Print
+version: Enrolled Bill
 ---
 
 # H.R. 2112
@@ -275,7 +275,7 @@ Consolidated and Further Continuing Appropriations Act, 2012
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (62)
+## Recorded votes (65)
 
 - 2011-06-15 — [House 112-1-420](votes/house-112-1-0420.md) — On Agreeing to the Amendment — **Failed** (193–226)
 - 2011-06-15 — [House 112-1-421](votes/house-112-1-0421.md) — On Agreeing to the Amendment — **Agreed to** (226–199)
@@ -339,6 +339,9 @@ Consolidated and Further Continuing Appropriations Act, 2012
 - 2011-11-01 — [Senate 112-1-192](votes/senate-112-1-0192.md) — On the Amendment — **Amendment Rejected** (41–57)
 - 2011-11-01 — [Senate 112-1-193](votes/senate-112-1-0193.md) — On the Motion to Recommit — **Motion to Recommit Rejected** (39–60)
 - 2011-11-01 — [Senate 112-1-194](votes/senate-112-1-0194.md) — On Passage of the Bill — **Bill Passed** (69–30)
+- 2011-11-03 — [House 112-1-822](votes/house-112-1-0822.md) — On Motion to Instruct Conferees — **Passed** (265–160)
+- 2011-11-17 — [House 112-1-857](votes/house-112-1-0857.md) — On Agreeing to the Conference Report — **Passed** (298–121)
+- 2011-11-17 — [Senate 112-1-208](votes/senate-112-1-0208.md) — On the Conference Report — **Conference Report Agreed to** (70–30)
 
 ## Actions
 
@@ -1347,3 +1350,40 @@ Consolidated and Further Continuing Appropriations Act, 2012
 - 2011-11-01 — Senate amendment proposed (on the floor): Amendment SA 821 proposed by Senator Paul.(consideration: CR S6933-6934; text: CR S6933)
 - 2011-11-01 — Senate amendment proposed (on the floor): Amendment SA 921 proposed by Senator Durbin.(consideration: CR S6979; text: CR S6979)
 - 2011-11-01 — Senate amendment submitted
+- 2011-11-02 — Message on Senate action sent to the House.
+- 2011-11-03 — Conference committee actions: Conference held.
+- 2011-11-03 — Conference held.
+- 2011-11-03 — Message on Senate action sent to the House.
+- 2011-11-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-11-03 — Mr. Dicks moved that the House instruct conferees. (consideration: CR H7273; text: CR H7273)
+- 2011-11-03 — Mr. Rogers (KY) asked unanimous consent that the House disagree to the Senate amendments, and request a conference. (consideration: CR H7273-7279, H7288-7289)
+- 2011-11-03 — On motion that the House disagree to the Senate amendments, and request a conference Agreed to without objection. (consideration: CR H7273)
+- 2011-11-03 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 265 - 160 (Roll no. 822). (consideration: CR H7288-7289)
+- 2011-11-03 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Dicks motion to instruct conferees on H.R. 2112, the Chair put the question on the motion and by voice vote, announced that the ayes had prevailed. Mr. Dicks demanded the yeas and nays and pursuant to clause 8 of rule 20, the Chair postponed further proceedings on the motion to instruct conferees until a time to be announced.
+- 2011-11-03 — Senate insists on its amendments, agrees to request for a conference, appoints conferees Kohl; Harkin; Feinstein; Johnson SD; Nelson NE; Pryor; Brown OH; Inouye; Murray; Mikulski; Blunt; Cochran; McConnell; Collins; Moran; Hoeven; Hutchison; Shelby.
+- 2011-11-03 — The House proceeded with one hour of debate on the Dicks motion to instruct conferees on H.R. 2112. The instructions contained in the motion seek to require the managers on the part of the House to insist on (1) the highest level of funding for the "Federal Highway Administration-Emergency Relief Program" account for activities consistent with the definition of "disaster relief" included in the Budget Control Act of 2011, and (2) the highest level of funding for the Community Oriented Policing Services (COPS) programs.
+- 2011-11-03 — The Speaker appointed conferees: Rogers (KY), Young (FL), Lewis (CA), Wolf, Kingston, Latham, Aderholt, Emerson, Culberson, Carter, Bonner, LaTourette, Dicks, DeLauro, Olver, Pastor (AZ), Price (NC), Farr, Fattah, and Schiff.
+- 2011-11-03 — The previous question was ordered without objection. (consideration: CR H7279)
+- 2011-11-14 — Conferees agreed to file conference report.
+- 2011-11-14 — Conference committee actions: Conferees agreed to file conference report.
+- 2011-11-14 — Conference report H. Rept. 112-284 filed. (text of conference report: CR H7433-7576)
+- 2011-11-14 — Conference report filed: Conference report H. Rept. 112-284 filed.(text of conference report: CR H7433-7576)
+- 2011-11-14 — Mr. Rogers (KY) asked unanimous consent that managers on the part of the House have until midnight on Nov. 14 to file a conference report on H.R. 2112. Agreed to without objection.
+- 2011-11-17 — Conference papers: message on House action held at the desk in Senate.
+- 2011-11-17 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 298 - 121 (Roll no. 857).
+- 2011-11-17 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 70 - 30. Record Vote Number: 208.(consideration: CR S7684)
+- 2011-11-17 — Conference report considered in Senate. (consideration: CR S7678-7684)
+- 2011-11-17 — DEBATE - Pursuant to H.Res. 467, the House proceeded with 1 hour of debate on the conference report to accompany H.R. 2112.
+- 2011-11-17 — Message on Senate action sent to the House.
+- 2011-11-17 — Motions to reconsider laid on the table Agreed to without objection.
+- 2011-11-17 — Mr. Rogers (KY) brought up conference report H. Rept. 112-284 for consideration under the provisions of H. Res. 467. (consideration: CR H7746-7782)
+- 2011-11-17 — On agreeing to the conference report Agreed to by the Yeas and Nays: 298 - 121 (Roll no. 857).
+- 2011-11-17 — Presented to President.
+- 2011-11-17 — Presented to President.
+- 2011-11-17 — Senate agreed to conference report by Yea-Nay Vote. 70 - 30. Record Vote Number: 208. (consideration: CR S7684)
+- 2011-11-17 — The previous question was ordered pursuant to the rule. (consideration: CR H7781)
+- 2011-11-17 — Under the order of 11/17/2011, the vote by which the conference report was agreed to required 60 votes.
+- 2011-11-18 — Became Public Law No: 112-55.
+- 2011-11-18 — Became Public Law No: 112-55.
+- 2011-11-18 — Signed by President.
+- 2011-11-18 — Signed by President.
