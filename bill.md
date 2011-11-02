@@ -7,24 +7,25 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2061
 
-> To authorize the presentation of a United States flag at the funeral of Federal civilian employees who are killed while performing official duties or because of their status as a Federal employee.
+> To authorize the presentation of a United States flag on behalf of Federal civilian employees who die of injuries in connection with their employment.
 
 ## § 1. Short title
 
 This Act may be cited as the “Civilian Service Recognition Act of 2011”.
 
-## § 2. Presentation of United States flag on behalf of Federal civilian employees killed while performing official duties or because of their status as a Federal employee
+## § 2. Presentation of United States flag on behalf of Federal civilian employees who die of injuries in connection with their employment
 
-- **(a)** *Presentation required* Upon receipt of a request under subsection (b), the head of an executive agency shall furnish a flag of the United States to drape the casket of an individual who—
+- **(a)** *Presentation authorized* Upon receipt of a request under subsection (b), the head of an executive agency may pay the expenses incident to the presentation of a flag of the United States for an individual who—
   - **(1)** was an employee of the agency; and
-  - **(2)** was killed while performing official duties or because of the individual’s status as a Federal employee.
-- **(b)** *Request for flag* The head of an executive agency shall furnish a flag for a deceased employee described in subsection (a) upon the request of—
+  - **(2)** dies of injuries incurred in connection with such individual’s employment with the Federal Government.
+- **(b)** *Request for flag* The head of an executive agency may furnish a flag for a deceased employee described in subsection (a) upon the request of—
   - **(1)** the employee’s next of kin; or
-  - **(2)** if no request is received from the next of kin, a close friend or associate of the employee as determined by the head of the executive agency.
-- **(c)** *Manner of presentation and ceremony* A flag shall be furnished and presented under this section in the same manner as a flag is furnished and presented on behalf of a deceased member of the Armed Services who dies while on active duty. At the request of the individual who requested the flag under subsection (b), the head of the executive agency furnishing the flag under subsection (a) shall provide for the presentation of the flag to the individual following the use of the flag to drape the casket of the deceased employee.
-- **(d)** *Limitation on flags provided* If a flag furnished under subsection (a) is presented to an individual described in subsection (b)(2), no flag shall be subsequently presented to any other individual under this section on account of the death of the same employee.
-- **(e)** *Classified information* The head of an executive agency may disclose information necessary to show that a deceased individual is an employee described in subsection (a) to the extent that such information is not classified and to the extent that such disclosure does not endanger the national security of the United States.
-- **(f)** *Employee notification of flag ceremony benefit* The head of an executive agency shall provide appropriate notice to employees of the agency of the flag ceremony benefit provided for under this section.
-- **(g)** *Definitions* In this section:
-  - **(1)** *Employee* The term employee has the meaning given that term in section 2105 of title 5, United States Code, and includes employees of and donors of volunteer services to temporary organizations under section 3161 of such title.
-  - **(2)** *Executive agency* The term executive agency has the meaning given that term in section 501 of title 5, United States Code.
+  - **(2)** if no request is received from the next of kin, an individual other than the next of kin as determined by the Director of the Office of Personnel Management.
+- **(c)** *Classified information* The head of an executive agency may disclose information necessary to show that a deceased individual is an employee described in subsection (a) to the extent that such information is not classified and to the extent that such disclosure does not endanger the national security of the United States.
+- **(d)** *Employee notification of flag benefit* The head of an executive agency shall provide appropriate notice to employees of the agency of the flag benefit provided for under this section.
+- **(e)** *Regulations* The Director of the Office of Personnel Management, in coordination with the Secretary of Defense and the Secretary of Homeland Security, may prescribe regulations to implement this section. Any such regulations shall provide for the head of an executive agency to consider the conditions and circumstances surrounding the death of an employee and nature of the service of the employee.
+- **(f)** *Definitions* In this section:
+  - **(1)** *Employee* The term “employee” has the meaning given that term in section 2105 of title 5, United States Code, and includes—
+    - **(A)** individuals who perform volunteer services at the discretion of the head of an executive agency; and
+    - **(B)** an officer or employee of the United States Postal Service or of the Postal Regulatory Commission.
+  - **(2)** *Executive agency* The term “executive agency” has the meaning given that term in section 105 of title 5, United States Code, and includes the United States Postal Service and the Postal Regulatory Commission.
