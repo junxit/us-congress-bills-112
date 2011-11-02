@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1965
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking subparagraphs (A) and (B) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “commerce shall” and inserting “commerce shall, not later than 120 days after the last day of its first fiscal year ended after the effective date of this subsection, on which the issuer has total assets exceeding $10,000,000… | the bill names no machine-readable US Code section |
+| — | replace | by striking “$1,000,000” both places it appears and inserting “$10,000,000”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking the comma at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “three hundred” and inserting “300 persons, or, in the case of a bank, as such term is defined in section 3(a)(6), or a bank holding company, as such term is defined in section (2) of the Bank Holding Compan… | the bill names no machine-readable US Code section |
 | — | replace | Section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(d)) is amended, in the third sentence, by striking “three hundred” and inserting “300 persons, or, in the case of bank, as such term is defined in section 3(a)(6), or a … | the bill names no machine-readable US Code section |

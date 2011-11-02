@@ -11,23 +11,24 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Shareholder registration threshold
 
-- **(a)** *Amendments to section 12 of the Securities Exchange Act of 1934* Section 12(g) of the Securities Exchange Act of 1934 (15 U.S.C. 781(g)) is amended—
+- **(a)** *Amendments to section 12 of the Securities Exchange Act of 1934* Section 12(g) of the Securities Exchange Act of 1934 (15 U.S.C. 78l (g)) is amended—
   - **(1)** in paragraph (1)—
-    - **(A)** by striking subparagraphs (A) and (B) and inserting the following:
-      > - **(1)** in the case of an issuer that is a bank, as such term is defined in section 3(a)(6) of this title, or a bank holding company, as such term is defined in section (2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841), 2000 persons or more; and
-      > - **(2)** in the case of an issuer that is not a bank or bank holding company, 500 persons or more,
+    - **(A)** by striking “$1,000,000” both places it appears and inserting “$10,000,000”;
+    - **(B)** in subparagraph (A), by striking “; and” and inserting a semicolon;
+    - **(C)** in subparagraph (B), by striking the comma at the end and inserting “; and”; and
+    - **(D)** by inserting after subparagraph (B) the following:
+      > - **(C)** in the case of an issuer that is a bank, as such term is defined in section 3(a)(6) of this title, or a bank holding company, as such term is defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841), not later than 120 days after the last day of its first fiscal year ended after the effective date of this subsection, on which the issuer has total assets exceeding $10,000,000 and a class of equity security (other than an exempted security) held of record by 2,000 or more persons,
 
-    - **(B)** by striking “commerce shall” and inserting “commerce shall, not later than 120 days after the last day of its first fiscal year ended after the effective date of this subsection, on which the issuer has total assets exceeding $10,000,000 and a class of equity security (other than an exempted security) held of record by”; and
-  - **(2)** in paragraph (4), by striking “three hundred” and inserting “300 persons, or, in the case of a bank, as such term is defined in section 3(a)(6), or a bank holding company, as such term is defined in section (2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841), 1200”.
-- **(b)** *Amendments to section 15 of the Securities Exchange Act of 1934* Section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(d)) is amended, in the third sentence, by striking “three hundred” and inserting “300 persons, or, in the case of bank, as such term is defined in section 3(a)(6), or a bank holding company, as such term is defined in section (2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841), 1200”.
+  - **(2)** in paragraph (4), by striking “three hundred” and inserting “300 persons, or, in the case of a bank, as such term is defined in section 3(a)(6), or a bank holding company, as such term is defined in section (2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841), 1,200”.
+- **(b)** *Amendments to section 15 of the Securities Exchange Act of 1934* Section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(d)) is amended, in the third sentence, by striking “three hundred” and inserting “300 persons, or, in the case of bank, as such term is defined in section 3(a)(6), or a bank holding company, as such term is defined in section (2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841), 1,200”.
 
 ## § 2. Study and report on registration thresholds
 
 - **(a)** *Study*
   - **(1)** *Analysis required* The Chief Economist and Director of the Division of Corporation Finance of the Commission shall jointly conduct a study, including a cost-benefit analysis, of shareholder registration thresholds.
   - **(2)** *Costs and benefits* The cost-benefit analysis under paragraph (1) shall take into account—
-    - **(A)** the incremental benefits to investors of the increased disclosure that results from registration;
-    - **(B)** the incremental costs to issuers associated with registration and reporting requirements; and
+    - **(A)** the incremental costs and benefits to investors of the increased disclosure that results from registration;
+    - **(B)** the incremental costs and benefits to issuers associated with registration and reporting requirements; and
     - **(C)** the incremental administrative costs to the Commission associated with different thresholds.
   - **(3)** *Thresholds* The cost-benefit analysis under paragraph (1) shall evaluate whether it is advisable to—
     - **(A)** increase the asset threshold;
@@ -41,4 +42,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 3. Rulemaking
 
-Not later than one year after the date of enactment of this Act, the Commission shall issue final regulations to implement this Act and the amendments made by this Act.
+Not later than 1 year after the date of enactment of this Act, the Commission shall issue final regulations to implement this Act and the amendments made by this Act.
