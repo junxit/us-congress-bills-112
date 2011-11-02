@@ -2,7 +2,7 @@
 legis-num: H. CON. RES. 13
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H. CON. RES. 13
@@ -21,6 +21,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas John Adams said, “Statesmen may plan and speculate for Liberty, but it is Religion and Morality alone, which can establish the Principles upon which Freedom can securely stand.”;
 - Whereas if religion and morality are taken out of the marketplace of ideas, the very freedom on which the United States was founded cannot be secured;
 - Whereas as President Eisenhower said and President Ford later repeated, “Without God, there could be no American form of government, nor, an American way of life.”; and
-- Whereas President John F. Kennedy said, “The guiding principle and prayer of this Nation has been, is now, and ever shall be “In God We Trust.” ”: Now, therefore, be it
+- Whereas President John F. Kennedy said, “The guiding principle and prayer of this Nation has been, is now, and ever shall be “In God We Trust.””: Now, therefore, be it
 
 That Congress reaffirms “In God We Trust” as the official motto of the United States and supports and encourages the public display of the national motto in all public buildings, public schools, and other government institutions.

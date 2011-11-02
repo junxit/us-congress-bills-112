@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 13
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 13
@@ -83,9 +83,10 @@ Reaffirming "In God We Trust" as the official motto of the United States and sup
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -111,3 +112,4 @@ Reaffirming "In God We Trust" as the official motto of the United States and sup
 - 2011-11-01 — Mr. Forbes moved to suspend the rules and agree to the resolution.
 - 2011-11-01 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 396 - 9, 2 Present (Roll no. 816). (text: CR H7169)
 - 2011-11-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 396 - 9, 2 Present (Roll no. 816).(text: CR H7169)
+- 2011-11-02 — Received in the Senate and referred to the Committee on the Judiciary.
