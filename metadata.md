@@ -1,7 +1,7 @@
 ---
 measure: S. 684
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 684
@@ -29,3 +29,5 @@ A bill to provide for the conveyance of certain parcels of land to the town of A
 - 2011-08-30 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 08/02/2011 with amendments. With written report No. 112-61.
 - 2011-08-30 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 08/02/2011 with amendments. With written report No. 112-61.
 - 2011-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 141.
+- 2011-11-02 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S7091; text as passed Senate: CR S7091)
+- 2011-11-02 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S7091; text as passed Senate: CR S7091)
