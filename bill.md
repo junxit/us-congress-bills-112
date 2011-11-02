@@ -30,7 +30,7 @@ This Act may be cited as the “Wallowa Forest Service Compound Conveyance Act�
     - **(B)** such terms and conditions as the Secretary may require.
 - **(d)** *Use of wallowa forest service compound* As a condition of the conveyance under subsection (b), the City shall—
   - **(1)** use the Wallowa Forest Service Compound as a historical and cultural interpretation and education center;
-  - **(2)** ensure that the Wallowa Forest Service Compound is managed by a nonprofit entity; and
-  - **(3)** agree to manage the Wallowa Forest Service Compound with due consideration and protection for the historic values of the Wallowa Forest Service Compound.Compound; and
+  - **(2)** ensure that the Wallowa Forest Service Compound is managed by a nonprofit entity;
+  - **(3)** agree to manage the Wallowa Forest Service Compound with due consideration and protection for the historic values of the Wallowa Forest Service Compound; and
   - **(4)** pay the reasonable administrative costs associated with the conveyance.
 - **(e)** *Reversion* In the quitclaim deed to the City, the Secretary shall provide that the Wallowa Forest Service Compound shall revert to the Secretary, at the election of the Secretary, if any of the conditions under subsection (c) or (d) are violated.
