@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1002
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1002
@@ -255,9 +255,10 @@ Wireless Tax Fairness Act of 2011
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -277,3 +278,4 @@ Wireless Tax Fairness Act of 2011
 - 2011-11-01 — Mr. Franks (AZ) moved to suspend the rules and pass the bill, as amended.
 - 2011-11-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7175-7176)
 - 2011-11-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7175-7176)
+- 2011-11-02 — Received in the Senate and Read twice and referred to the Committee on Finance.
