@@ -1,7 +1,7 @@
 ---
 measure: S. 1487
 congress: 112
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S. 1487
