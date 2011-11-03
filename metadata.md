@@ -1,7 +1,7 @@
 ---
 measure: S. 535
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 535
@@ -20,9 +20,10 @@ Fort Pulaski National Monument Lease Authorization Act
 
 - Sen. Chambliss, Saxby [R-GA] (C000286)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ Fort Pulaski National Monument Lease Authorization Act
 - 2011-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 139.
 - 2011-11-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7090; text as passed Senate: CR S7090)
 - 2011-11-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7090; text as passed Senate: CR S7090)
+- 2011-11-03 — Message on Senate action sent to the House.
+- 2011-11-03 — Received in the House.
+- 2011-11-03 — Referred to the House Committee on Natural Resources.
