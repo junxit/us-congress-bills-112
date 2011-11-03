@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2061
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2061
@@ -70,3 +70,14 @@ Civilian Service Recognition Act of 2011
 - 2011-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 818).(text: CR H7223)
 - 2011-11-02 — The title of the measure was amended. Agreed to without objection.
 - 2011-11-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2011-12-08 — Passed Senate without amendment by Unanimous Consent.
+- 2011-12-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2011-12-08 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S8466)
+- 2011-12-08 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S8466)
+- 2011-12-09 — Message on Senate action sent to the House.
+- 2011-12-13 — Presented to President.
+- 2011-12-13 — Presented to President.
+- 2011-12-20 — Became Public Law No: 112-73.
+- 2011-12-20 — Became Public Law No: 112-73.
+- 2011-12-20 — Signed by President.
+- 2011-12-20 — Signed by President.
