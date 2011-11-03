@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 6
 congress: 112
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 6
@@ -16,7 +16,7 @@ A joint resolution disapproving the rule submitted by the Federal Communications
 
 - Sen. Hutchison, Kay Bailey [R-TX] (H001016)
 
-## Cosponsors (39)
+## Cosponsors (42)
 
 - Sen. McConnell, Mitch [R-KY] (M000355)
 - Sen. Ensign, John [R-NV] (E000194)
@@ -57,6 +57,9 @@ A joint resolution disapproving the rule submitted by the Federal Communications
 - Sen. Toomey, Patrick [R-PA] (T000461)
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
 
 ## Committees (1)
 
@@ -66,3 +69,6 @@ A joint resolution disapproving the rule submitted by the Federal Communications
 
 - 2011-02-16 — Introduced in Senate
 - 2011-02-16 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2011-11-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 219.
+- 2011-11-03 — Senate Committee on Commerce, Science, and Transportation discharged by petition, pursuant to 5 U.S.C. 802(c). (consideration: CR S7141; text: CR S7141)
+- 2011-11-03 — Senate Committee on Commerce, Science, and Transportation discharged by petition, pursuant to 5 U.S.C. 802(c).(consideration: CR S7141; text: CR S7141)
