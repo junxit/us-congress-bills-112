@@ -1,7 +1,7 @@
 ---
 measure: S. 897
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 897
@@ -23,9 +23,10 @@ A bill to amend the Surface Mining Control and Reclamation Act of 1977 to clarif
 - Sen. Udall, Tom [D-NM] (U000039)
 - Sen. Lee, Mike [R-UT] (L000577)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ A bill to amend the Surface Mining Control and Reclamation Act of 1977 to clarif
 - 2011-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 143.
 - 2011-11-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7091-7092; text as passed Senate: CR S7092)
 - 2011-11-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7091-7092; text as passed Senate: CR S7092)
+- 2011-11-03 — Message on Senate action sent to the House.
+- 2011-11-03 — Received in the House.
+- 2011-11-03 — Referred to the House Committee on Natural Resources.
