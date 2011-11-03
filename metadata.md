@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2061
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2061
@@ -40,9 +40,10 @@ Civilian Service Recognition Act of 2011
 - Rep. Tonko, Paul [D-NY-21] (T000469)
 - Rep. Hurt, Robert [R-VA-5] (H001060)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -68,3 +69,4 @@ Civilian Service Recognition Act of 2011
 - 2011-11-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 818). (text: CR H7223)
 - 2011-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 0 (Roll no. 818).(text: CR H7223)
 - 2011-11-02 — The title of the measure was amended. Agreed to without objection.
+- 2011-11-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
