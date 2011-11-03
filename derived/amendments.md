@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2940
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
