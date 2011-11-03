@@ -1,7 +1,7 @@
 ---
 measure: S. 271
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 271
@@ -20,9 +20,10 @@ Wallowa Forest Service Compound Conveyance Act
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ Wallowa Forest Service Compound Conveyance Act
 - 2011-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 130.
 - 2011-11-02 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S7089; text as passed Senate: CR S7089)
 - 2011-11-02 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S7089; text as passed Senate: CR S7089)
+- 2011-11-03 — Message on Senate action sent to the House.
+- 2011-11-03 — Received in the House.
+- 2011-11-03 — Referred to the House Committee on Natural Resources.
