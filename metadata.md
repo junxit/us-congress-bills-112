@@ -1,7 +1,7 @@
 ---
 measure: S. 997
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 997
@@ -16,9 +16,10 @@ East Bench Irrigation District Water Contract Extension Act
 
 - Sen. Tester, Jon [D-MT] (T000464)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -31,3 +32,6 @@ East Bench Irrigation District Water Contract Extension Act
 - 2011-08-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 145.
 - 2011-11-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7092; text as passed Senate: CR S7092)
 - 2011-11-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7092; text as passed Senate: CR S7092)
+- 2011-11-03 — Message on Senate action sent to the House.
+- 2011-11-03 — Received in the House.
+- 2011-11-03 — Referred to the House Committee on Natural Resources.
