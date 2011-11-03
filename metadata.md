@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2042
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2042
@@ -54,3 +54,5 @@ Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011
 - 2011-10-25 — Mr. Turner (NY) moved to suspend the rules and pass the bill.
 - 2011-10-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7034)
 - 2011-10-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7034)
+- 2011-10-31 — Received in the Senate.
+- 2011-11-03 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 217.
