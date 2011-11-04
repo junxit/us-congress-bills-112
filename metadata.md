@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 255
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 255
@@ -16,7 +16,7 @@ Expressing the sense of the House of Representatives that effective sharing of p
 
 - Rep. King, Peter T. [R-NY-3] (K000210)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
@@ -26,6 +26,7 @@ Expressing the sense of the House of Representatives that effective sharing of p
 - Rep. Quayle, Benjamin [R-AZ-3] (Q000024)
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
 - Rep. Long, Billy [R-MO-7] (L000576)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
 ## Committees (1)
 
@@ -36,3 +37,8 @@ Expressing the sense of the House of Representatives that effective sharing of p
 - 2011-05-10 — Introduced in House
 - 2011-05-10 — Introduced in House
 - 2011-05-10 — Referred to the House Committee on Homeland Security.
+- 2011-09-21 — Committee Consideration and Mark-up Session Held.
+- 2011-09-21 — Ordered to be Reported by Voice Vote.
+- 2011-11-04 — Placed on the House Calendar, Calendar No. 87.
+- 2011-11-04 — Reported by the Committee on Homeland Security. H. Rept. 112-272.
+- 2011-11-04 — Reported by the Committee on Homeland Security. H. Rept. 112-272.
