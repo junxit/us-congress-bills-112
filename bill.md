@@ -15,13 +15,14 @@ This Act may be cited as the “Jaime Zapata Border Enforcement Security Task Fo
 
 ## § 2. Findings and declaration of purposes
 
-- **(a)** *Findings* Congress finds the following:
-  - **(1)** The Department of Homeland Security’s (DHS) overriding mission is to lead a unified national effort to protect the United States. United States Immigration and Customs Enforcement (ICE) is the largest investigative agency within DHS and is charged with enforcing a wide array of laws, including laws related to securing the border and combating criminal smuggling.
-  - **(2)** Mexico’s northern border with the United States has experienced a dramatic surge in border crime and violence in recent years due to intense competition between Mexican drug cartels and criminal smuggling organizations that employ predatory tactics to realize their profits.
-  - **(3)** Law enforcement agencies at the United States northern border face similar challenges from transnational smuggling organizations.
-  - **(4)** In response, DHS has partnered with Federal, State, local, tribal, and foreign law enforcement counterparts to create the Border Enforcement Security Task Force (BEST) initiative as a comprehensive approach to addressing border security threats. These multi-agency teams are designed to increase information-sharing and collaboration among the participating law enforcement agencies.
-  - **(5)** BEST teams incorporate personnel from ICE, United States Customs and Border Protection (CBP), the Drug Enforcement Administration (DEA), the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATFE), the Federal Bureau of Investigation (FBI), the United States Coast Guard (USCG), and the U.S. Attorney’s Office (USAO), along with other key Federal, State and local law enforcement agencies.
-  - **(6)** Foreign law enforcement agencies include Mexico’s Secretaria de Seguridad Publica (SSP), the Canada Border Services Agency (CBSA), the Ontario Provincial Police (OPP), and the Royal Canadian Mounted Police (RCMP).
+Congress finds the following:
+
+- **(1)** The Department of Homeland Security’s (DHS) overriding mission is to lead a unified national effort to protect the United States. United States Immigration and Customs Enforcement (ICE) is the largest investigative agency within DHS and is charged with enforcing a wide array of laws, including laws related to securing the border and combating criminal smuggling.
+- **(2)** Mexico’s northern border with the United States has experienced a dramatic surge in border crime and violence in recent years due to intense competition between Mexican drug cartels and criminal smuggling organizations that employ predatory tactics to realize their profits.
+- **(3)** Law enforcement agencies at the United States northern border face similar challenges from transnational smuggling organizations.
+- **(4)** In response, DHS has partnered with Federal, State, local, tribal, and foreign law enforcement counterparts to create the Border Enforcement Security Task Force (BEST) initiative as a comprehensive approach to addressing border security threats. These multi-agency teams are designed to increase information-sharing and collaboration among the participating law enforcement agencies.
+- **(5)** BEST teams incorporate personnel from ICE, United States Customs and Border Protection (CBP), the Drug Enforcement Administration (DEA), the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATFE), the Federal Bureau of Investigation (FBI), the United States Coast Guard (USCG), and the U.S. Attorney’s Office (USAO), along with other key Federal, State and local law enforcement agencies.
+- **(6)** Foreign law enforcement agencies include Mexico’s Secretaria de Seguridad Publica (SSP), the Canada Border Services Agency (CBSA), the Ontario Provincial Police (OPP), and the Royal Canadian Mounted Police (RCMP).
 
 ## § 3. Border Enforcement Security Task Force
 
@@ -43,11 +44,12 @@ This Act may be cited as the “Jaime Zapata Border Enforcement Security Task Fo
     - **(A)** Whether the area where the BEST unit would be established is significantly impacted by cross-border threats.
     - **(B)** The availability of Federal, State, local, tribal, and foreign law enforcement resources to participate in the BEST unit.
     - **(C)** The extent to which border security threats are having a significant harmful impact in the jurisdiction in which the BEST unit is to be established, and other jurisdictions of the country.
+    - **(D)** Whether or not an Integrated Border Enforcement Team already exists in the area where the BEST unit would be established.
 - **(d)** *Operation* After making a designation under subsection (c)(2), and in order to provide Federal assistance to the area so designated, the Secretary of Homeland Security may—
   - **(1)** obligate such sums as are appropriated for the BEST program;
   - **(2)** direct the assignment of Federal personnel to the BEST program, subject to the approval of the head of the department or agency that employs such personnel; and
   - **(3)** take other actions to assist State, local, tribal, and foreign jurisdictions to participate in the BEST program.
 - **(e)** *Report* Not later than 180 days after the date of the establishment of the BEST program under subsection (a) and annually thereafter, the Secretary of Homeland Security shall submit to Congress a report on the effectiveness of the BEST program in enhancing border security and reducing the drug trafficking, arms smuggling, illegal alien trafficking and smuggling, violence, and kidnapping along and across the international borders of the United States as measured by crime statistics, including violent deaths, incidents of violence, and drug-related arrests.
-- **(f)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary of Homeland Security such funds as may be necessary for each of fiscal years 2012 through 2016 to—
+- **(f)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary of Homeland Security $10,000,000 for each of fiscal years 2012 through 2016 to—
   - **(1)** establish and operate the BEST program, including to provide for operational, administrative, and technological costs to Federal, State, local, tribal and foreign law enforcement agencies participating in the BEST program; and
   - **(2)** investigate, apprehend, and prosecute individuals engaged in drug trafficking, arms smuggling, illegal alien trafficking and smuggling, violence, and kidnapping along and across the international borders of the United States.
