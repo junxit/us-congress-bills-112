@@ -22,11 +22,10 @@ This Act may be cited as the “Transportation Security Administration Ombudsman
   >   - **(1)** *Establishment* There is established an Office of the Ombudsman in the Transportation Security Administration.
   >   - **(2)** *Ombudsman*
   >     - **(A)** *In general* The Office shall be under the direction of the Ombudsman of the Transportation Security Administration, who shall be appointed by the Chief Human Capital Officer of the Department of Homeland Security on behalf of the Secretary of Homeland Security.
-  >     - **(B)** *Qualifications* An individual may not be appointed as the Ombudsman unless the individual has demonstrated expertise in—
-  >       - **(i)** labor and employment relations; and
+  >     - **(B)** *Qualifications* An individual appointed as the Ombudsman must have expertise in—
+  >       - **(i)** labor and employment relations with Federal agencies; and
   >       - **(ii)** dispute resolution.
-  >     - **(C)** *Vacancies* If a vacancy occurs in the position of Ombudsman, the Chief Human Capital Officer of the Department of Homeland Security shall appoint an individual as Ombudsman by not later than 120 days after the date the vacancy first occurs.
-  >     - **(D)** *Notification of Appointment and removal* The Chief Human Capital Officer of the Department of Homeland Security shall notify the appropriate congressional committees within 30 days after the effective date of any of the following actions:
+  >     - **(C)** *Notification of Appointment and removal* The Chief Human Capital Officer of the Department of Homeland Security shall notify the appropriate congressional committees within 30 days after the effective date of any of the following actions:
   >       - **(i)** The appointment of an individual as Ombudsman.
   >       - **(ii)** The reappointment as Ombudsman of an individual who is serving as Ombudsman.
   >       - **(iii)** The removal of an individual from the position of Ombudsman.
@@ -35,10 +34,6 @@ This Act may be cited as the “Transportation Security Administration Ombudsman
   >       - **(i)** to the Administrator of the Transportation Security Administration; and
   >       - **(ii)** to the Chief Human Capital Officer of the Department of Homeland Security with respect to any dispute between the Ombudsman and the Administrator of Transportation Security Administration over matters involving the execution of the Ombudsman’s duties as set forth in subsection (b).
   >     - **(B)** *Inspector general’s authority to conduct investigations not affected* Nothing in this section shall prohibit the Inspector General of the Department of Homeland Security from initiating, carrying out, or completing any investigation.
-  >   - **(4)** *Regional ombudsmen*
-  >     - **(A)** *In general* The Ombudsman shall ensure that each of the Transportation Security Administration regions has a regional ombudsman and that no regional ombudsman is responsible for more than three regions.
-  >     - **(B)** *Appointment* The regional ombudsmen shall be appointed by and serve at the discretion of the Ombudsman.
-  >     - **(C)** *Meetings within regions* Each regional ombudsman shall travel not less than once each calendar quarter to each region for which he or she is appointed, to meet with Transportation Security Administration employees in that region.
   > - **(b)** *Duties* The Ombudsman shall—
   >   - **(1)** conduct outreach to Transportation Security Administration employees, including publicizing a toll-free telephone number to report complaints;
   >   - **(2)** evaluate each complainant’s claim objectively;
@@ -61,7 +56,8 @@ This Act may be cited as the “Transportation Security Administration Ombudsman
   >     - **(F)** such other information as the Ombudsman considers relevant.
   >   - **(3)** *Report to be submitted directly* Each report under this subsection shall be provided directly to the committees described in paragraph (1) without any prior comment or amendment by the Administrator of the Transportation Security Administration. However, the Ombudsman shall seek comment from the Administrator to be submitted by the Ombudsman together with the annual report.
   >   - **(4)** *Other reports* Nothing in this subsection shall be construed to preclude the Ombudsman from issuing other reports on the activities of the Office of the Ombudsman.
-  > - **(d)** *Appropriate congressional committee defined* In this section the term “appropriate congressional committee” means the Committee on Homeland Security of the House of Representatives and any committee of the House of Representatives or the Senate having legislative jurisdiction under the rules of the House of Representatives or Senate, respectively, over the matter concerned.
+  > - **(d)** *Contact information* The Administrator of the Transportation Security Administration shall make publically available on the Internet site of the Administration information about the Office of the Ombudsman, including regarding how to contact the Office.
+  > - **(e)** *Appropriate congressional committee defined* In this section the term “appropriate congressional committee” means the Committee on Homeland Security of the House of Representatives and any committee of the House of Representatives or the Senate having legislative jurisdiction under the rules of the House of Representatives or Senate, respectively, over the matter concerned.
 
 - **(b)** *Clerical amendment* The analysis at the beginning of such chapter is amended by adding at the end the items relating to subchapter II the following new item:
-- **(c)** *Authorization of Appropriations* There are authorized to be appropriated for fiscal years 2012, 2013, and 2014 such sums as are necessary for implementing section 44946 of title 49, United States Code, as amended by this section.
+- **(c)** *Authorization of Appropriations* There is authorized to be appropriated for each of fiscal years 2012, 2013, and 2014 $575,000 for implementing section 44946 of title 49, United States Code, as amended by this section.
