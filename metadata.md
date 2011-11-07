@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1070
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1070
@@ -71,3 +71,5 @@ Small Company Capital Formation Act of 2011
 - 2011-11-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 820). (text: CR H7229-7230)
 - 2011-11-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 820).(text: CR H7229-7230)
 - 2011-11-02 — The title of the measure was amended. Agreed to without objection.
+- 2011-11-03 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-11-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 222.

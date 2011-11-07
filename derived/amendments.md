@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1070
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+5 amendatory instructions. 1 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 15 U.S.C. § 77c
+
+> Section 4(5) of the Securities Act of 1933 is amended by striking “section 3(b)” and inserting “section 3(b)(1)”.
+
+| | |
+|---|---|
+| Removed | `section 3(b)` |
+| Inserted | `section 3(b)(1)` |
 
 ## Stated, not applied
 
@@ -31,8 +42,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking “(b) The Commission” and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (C), by striking “; or” at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (D) as subparagraph (E), and inserting after subparagraph (C) the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 4(5) of the Securities Act of 1933 is amended by striking “section 3(b)” and inserting “section 3(b)(1)”. | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 77c` | replace | by striking “(b) The Commission” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 77d` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77r` | replace | in subparagraph (C), by striking “; or” at the end and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 77r` | redesignate | by redesignating subparagraph (D) as subparagraph (E), and inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
