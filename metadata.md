@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 86
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 86
@@ -24,3 +24,4 @@ Directing the Clerk of the House of Representatives to make corrections in the e
 - 2011-11-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2011-11-04 — On agreeing to the resolution Agreed to without objection. (text: CR H7381)
 - 2011-11-04 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H7381)
+- 2011-11-07 — Received in the Senate.
