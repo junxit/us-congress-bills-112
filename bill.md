@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 86
-congress: 112th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H. CON. RES. 86
@@ -21,7 +21,7 @@ This Act may be cited as the “Civilian Service Recognition Act of 2011”.
 
 - **(a)** *Presentation authorized* Upon receipt of a request under subsection (b), the head of an executive agency may give a flag of the United States for an individual who—
   - **(1)** was an employee of the agency; and
-  - **(2)** dies of injuries incurred in connection with such individual’s employment with the Federal government, suffered as a result of a criminal act, an act of terrorism, a natural disaster, or other circumstance as determined by the President.
+  - **(2)** dies of injuries incurred in connection with such individual’s employment with the Federal Government, suffered as a result of a criminal act, an act of terrorism, a natural disaster, or other circumstance as determined by the President.
 - **(b)** *Request for flag* The head of an executive agency may furnish a flag for a deceased employee described in subsection (a) upon the request of—
   - **(1)** the employee’s widow or widower, child, sibling, or parent; or
   - **(2)** if no request is received from an individual described in paragraph (1), an individual other than the next of kin as determined by the Director of the Office of Personnel Management.
