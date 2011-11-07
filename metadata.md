@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3321
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3321
@@ -36,3 +36,4 @@ America's Cup Act of 2011
 - 2011-11-04 — Mr. LoBiondo moved to suspend the rules and pass the bill.
 - 2011-11-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 2, 1 Present (Roll no. 831). (text: CR H7342)
 - 2011-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 2, 1 Present (Roll no. 831).(text: CR H7342)
+- 2011-11-07 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 221.
