@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2930
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -31,10 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 4 of the Securities Act of 1933 (15 U.S.C. 77d) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The Securities Act of 1933 is amended by inserting after section 4 the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “(5) For the purposes” and inserting: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 18(c)(1) of the Securities Act of 1933 is amended by striking “with respect to fraud or deceit, or unlawful conduct by a broker or dealer, in connection with securities or securities transactions.” and inserting the following: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 77d` | amend | Section 4 of the Securities Act of 1933 (15 U.S.C. 77d) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77d` | insert | The Securities Act of 1933 is amended by inserting after section 4 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78l` | replace | by striking “(5) For the purposes” and inserting: | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 78l` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77r` | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77r` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77r` | replace | Section 18(c)(1) of the Securities Act of 1933 is amended by striking “with respect to fraud or deceit, or unlawful conduct by a broker or dealer, in connection with securities or securities transactions.” and inserting the following: | the bill quotes the text struck but describes what replaces it |

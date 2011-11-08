@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2930
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2930
@@ -111,3 +111,5 @@ Entrepreneur Access to Capital Act
 - 2011-11-03 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7310-7311)
 - 2011-11-03 — The previous question was ordered pursuant to the rule. (consideration: CR H7309)
 - 2011-11-03 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2011-11-07 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-11-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 224.
