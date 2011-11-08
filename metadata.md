@@ -1,7 +1,7 @@
 ---
 measure: S. 363
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 363
@@ -28,3 +28,7 @@ A bill to authorize the Secretary of Commerce to convey property of the National
 
 - 2011-02-16 — Introduced in Senate
 - 2011-02-16 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2011-05-05 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2011-11-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. Without written report.
+- 2011-11-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. Without written report.
+- 2011-11-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 226.
