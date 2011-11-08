@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2940
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2940
@@ -70,3 +70,5 @@ Access to Capital for Job Creators Act
 - 2011-11-03 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2930.
 - 2011-11-03 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2940.
 - 2011-11-03 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7313)
+- 2011-11-07 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-11-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 225.
