@@ -17,8 +17,9 @@ This Act may be cited as the “Southeast Alaska Native Land Entitlement Finaliz
 
 In this Act:
 
-- **(1)** *Sealaska* The term Sealaska means the Sealaska Corporation, a Regional Native Corporation created under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
-- **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(1)** *Conservation system unit* The term “conservation system unit” has the meaning given the term in section 102 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3102).
+- **(2)** *Sealaska* The term Sealaska means the Sealaska Corporation, a Regional Native Corporation created under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
+- **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
 
 ## § 3. Findings; purpose
 
@@ -56,7 +57,7 @@ In this Act:
     - **(A)** the deadline for applications for selection of cemetery sites and historic places on land outside withdrawal areas established under section 14 of the Alaska Native Claims Settlement Act (43 U.S.C. 1613) was July 1, 1976;
     - **(B)**
       - **(i)** as of that date, the Bureau of Land Management notified Sealaska that the total entitlement of Sealaska would be approximately 200,000 acres; and
-      - **(ii)** Sealaska made entitlement allocation decisions for cultural sites and economic development sites based on that original estimate;
+      - **(ii)** Sealaska made entitlement allocation decisions for cultural sites and economic development sites based on that original estimate; and
     - **(C)** as a result of the Alaska Land Transfer Acceleration Act (Public Law 108–452; 118 Stat. 3575) and subsequent related determinations and actions of the Bureau of Land Management, it became clear within the last decade that Sealaska will receive significantly more than 200,000 acres pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.);
   - **(10)** in light of the revised Bureau of Land Management estimate of the total number of acres that Sealaska will receive pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), and in consultation with Members of Alaska's congressional delegation, Sealaska and its shareholders believe that it is appropriate to allocate more of the entitlement of Sealaska to—
     - **(A)** the acquisition of places of sacred, cultural, traditional, and historical significance;
@@ -153,7 +154,7 @@ In this Act:
   - **(26)** on completion of the conveyances of land of Sealaska to fulfill the full land entitlement of Sealaska under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), the encumbrances on 327,000 acres of Federal land created by the withdrawal of land for selection by Native Corporations in southeast Alaska should be removed, which will facilitate thorough and complete planning and efficient management relating to national forest land in southeast Alaska by the Forest Service;
   - **(27)** although the Tribal Forest Protection Act (25 U.S.C. 3101 note; Public Law 108–278) defines the term “Indian tribe” to include Indian tribes under section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b), a term which includes “any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act …”, the Tribal Forest Protection Act does not define the term “Indian forest land or rangeland” to include lands owned by Alaska Native Corporations, including Sealaska, which are the primary Indian forest land owners in Alaska, and therefore, the Tribal Forest Protection Act should be amended in a manner that will—
     - **(A)** permit Native Corporations, including Sealaska, as Indian forest land owners in Alaska, to work with the Secretary of Agriculture under the Tribal Forest Protection Act to address forest fire and insect infestation issues, including the spread of the spruce bark beetle in southeast and southcentral Alaska, which threaten the health of the Native forestlands; and
-    - **(B)** ensure that Native Corporations, including Sealaska, can participate in programs administered by the Secretary of Agriculture under the Tribal Forest Protection Act without including Native Corporations under the definition in that Act of “Indian forest land or rangeland” or otherwise amending that Act in a manner that validates, invalidates, or otherwise affects any claim regarding the existence of Indian country in the State of Alaska;
+    - **(B)** ensure that Native Corporations, including Sealaska, can participate in programs administered by the Secretary of Agriculture under the Tribal Forest Protection Act without including Native Corporations under the definition in that Act of “Indian forest land or rangeland” or otherwise amending that Act in a manner that validates, invalidates, or otherwise affects any claim regarding the existence of Indian country in the State of Alaska; and
   - **(28)** the National Historic Preservation Act (16 U.S.C. 470 et seq.) defines the term Indian tribe to include any “Native village, Regional Corporation or Village Corporation, as those terms are defined in section 3 of the Alaska Native Claims Settlement Act” but does not define the term Tribal lands to include lands owned by Alaska Native Corporations, thereby excluding from the National Historic Preservation Act cemetery sites and historical places transferred to Native Corporations, including Sealaska, pursuant to the Alaska Native Claims Settlement Act, and therefore, the National Historic Preservation Act should be amended in a manner that will—
     - **(A)** permit Native Corporations, including Sealaska, as owners of Indian cemetery sites and historical places in Alaska, to work with the Secretary of the Interior under the National Historic Preservation Act to secure grants and other support to manage their own historic sites and programs pursuant to that Act; and
     - **(B)** ensure that Native Corporations, including Sealaska, can participate in programs administered by the Secretary of the Interior under the National Historic Preservation Act without including Native Corporations under the definition in that Act of “Tribal lands” or otherwise amending that Act in a manner that validates, invalidates, or otherwise affects any claim regarding the existence of Indian country in the State of Alaska.
@@ -167,10 +168,9 @@ In this Act:
     - **(A)** reservation of public easements across land pursuant to section 17(b) of the Alaska Native Claims Settlement Act (43 U.S.C. 1616(b));
     - **(B)** valid existing rights pursuant to section 14(g) of the Alaska Native Claims Settlement Act (43 U.S.C. 1613(g)); and
     - **(C)** the land bank protections of section 907(d) of the Alaska National Interest and Lands Conservation Act (43 U.S.C. 1636(d)).
-  - **(3)** *National park service* The National Park Service is authorized to enter into a cooperative management agreement described in subsection (e)(2) for the purpose, in part, of recognizing and perpetuating the values of the National Park Service, including those values associated with the Tlingit homeland and culture, wilderness, and ecological preservation.
 - **(b)** *Withdrawal of land* The following public land is withdrawn, subject to valid existing rights, from all forms of appropriation under public land laws, including the mining and mineral leasing laws, and from selection under the Act of July 7, 1958 (commonly known as the “Alaska Statehood Act”) (48 U.S.C. note prec. 21; Public Law 85–508), and shall be available for selection by and conveyance to Sealaska to complete the remaining land entitlement of Sealaska under section 14(h)(8) of the Alaska Native Claims Settlement Act (43 U.S.C. 1613(h)(8)):
   - **(1)** Land identified on the maps dated February 1, 2011, and labeled “Attachment A (Maps 1 through 8)”.
-  - **(2)** Sites with traditional and recreational use value, as identified on the map entitled “Sites with Traditional and Recreational Use Value”, dated February 1, 2011, and labeled “Attachment D”, subject to the condition that not more than 5,000 acres shall be selected for those purposes.
+  - **(2)** Sites with traditional, recreational, and renewable energy use value, as identified on the map entitled “Sites with Traditional, Recreational, and Renewable Energy Use Value”, dated February 1, 2011, and labeled “Attachment D”, subject to the condition that not more than 5,000 acres shall be selected for those purposes.
   - **(3)** Sites identified on the map entitled “Traditional and Customary Trade and Migration Routes”, dated February 1, 2011, and labeled “Attachment C”, which includes an identification of—
     - **(A)** a conveyance of land 25 feet in width, together with 1-acre sites at each terminus and at 8 locations along the route, with the route, location, and boundaries of the conveyance described on the map inset entitled “Yakutat to Dry Bay Trade and Migration Route” on the map entitled “Traditional and Customary Trade and Migration Routes”, dated February 1, 2011, and labeled “Attachment C”;
     - **(B)** a conveyance of land 25 feet in width, together with 1-acre sites at each terminus, with the route, location, and boundaries of the conveyance described on the map inset entitled “Bay of Pillars to Port Camden Trade and Migration Route” on the map entitled “Traditional and Customary Trade and Migration Routes”, dated February 1, 2011, and labeled “Attachment C”; and
@@ -182,19 +182,13 @@ In this Act:
     - **(B)** available for selection by and conveyance to Sealaska to complete the remaining land entitlement of Sealaska under section 14(h)(8) of the Alaska Native Claims Settlement Act (43 U.S.C. 1613(h)(8)) subject to the conditions that—
       - **(i)** no sites with sacred, cultural, traditional, or historic significance may be selected from within a unit of the National Park System; and
       - **(ii)** beginning on the date that is 15 years after the date of enactment of this Act, Sealaska shall be limited to identifying not more than 360 acres of sites with sacred, cultural, traditional, or historic significance under this subsection.
-- **(d)** *Forest development roads* Sealaska shall receive from the United States, subject to such reasonable terms and conditions as the Forest Service may impose, nonexclusive easements to Sealaska to allow—
+- **(d)** *Forest development roads* Sealaska shall receive from the United States, subject to all necessary State and Federal permits, nonexclusive easements to Sealaska to allow—
   - **(1)** access on the forest development road and use of the log transfer site identified in paragraphs (3)(b), (3)(c) and (3)(d) of the patent numbered 50–85–0112 and dated January 4, 1985;
   - **(2)** access on the forest development road identified in paragraphs (2)(a) and (2)(b) of the patent numbered 50–92–0203 and dated February 24, 1992;
   - **(3)** access on the forest development road identified in paragraph (2)(a) of the patent numbered 50–94–0046 and dated December 17, 1993;
   - **(4)** access on the forest development roads and use of the log transfer facilities identified on the maps dated February 1, 2011, and labeled “Attachment A (Maps 1 through 8)”;
   - **(5)** a reservation of a right to construct a new road to connect to existing forest development roads as generally identified on the maps identified in paragraph (4); and
   - **(6)** access to and reservation of a right to construct a new log transfer facility and log storage area at the location identified on the maps identified in paragraph (4).
-- **(e)** *Cooperative management of sites in Glacier Bay National Park*
-  - **(1)** *In general* The Director of the National Park Service shall offer to enter into a cooperative management agreement with Sealaska, other Village Corporations and Urban Corporations, and federally recognized Indian tribes with cultural and historical ties to Glacier Bay National Park, in accordance with the requirements of paragraph (2).
-  - **(2)** *Requirements* A cooperative management agreement under this paragraph shall—
-    - **(A)** recognize the contributions of the Alaska Natives of southeast Alaska to the history, culture, and ecology of Glacier Bay National Park and the surrounding area; and
-    - **(B)** ensure that the Alaska Native sacred and cultural sites located in Glacier Bay National Park and identified on the map entitled “Places of Sacred, Cultural, Traditional and Historic Significance”, dated February 1, 2011, and labeled “Attachment B”, are protected and enhanced by cooperative activities and partnerships among federally recognized Indian tribes, Village Corporations and Urban Corporations, Sealaska, and the National Park Service.
-  - **(3)** *Report* Not later than 2 years after the date of enactment of this Act, the Director of the National Park Service shall submit to Congress a report describing each activity for cooperative management of each site described in paragraph (2) and carried out under a cooperative management agreement under this subsection.
 
 ## § 5. Conveyances to Sealaska
 
@@ -207,14 +201,11 @@ In this Act:
   - **(1)** the right of Sealaska to receive any land under that Act from within a withdrawal area established under subsections (a) and (d) of section 16 of that Act shall be terminated;
   - **(2)** the withdrawal areas set aside for selection by Native Corporations in southeast Alaska under subsections (a) and (d) of section 16 of that Act shall be rescinded; and
   - **(3)** land located within a withdrawal area that is not conveyed to Sealaska or to a southeast Alaska Village Corporation or Urban Corporation shall be returned to the unencumbered management of the Forest Service as part of the Tongass National Forest.
-- **(c)** *Limitation* Sealaska shall not select or receive under this Act any conveyance of land pursuant to paragraphs (1) or (2) of section 4(b) located within—
-  - **(1)** any conservation system unit;
-  - **(2)** any federally designated wilderness area; or
-  - **(3)** any Land Use Designation I or II area.
+- **(c)** *Limitation* Sealaska shall not select or receive under this Act any conveyance of land pursuant to paragraphs (1) or (2) of section 4(b) located within any conservation system unit.
 - **(d)** *Applicable Easements and Public Access*
-  - **(1)** *In general* The conveyance to Sealaska of land withdrawn pursuant to paragraphs (1) and (3) of section 4(b) that are located outside a withdrawal area designated under section 16(a) of the Alaska Native Claims Settlement Act (43 U.S.C. 1615(a)) shall be subject to—
+  - **(1)** *In general* In addition to the reservation of public easements under section 4(a)(2)(A), the conveyance to Sealaska of land withdrawn pursuant to paragraphs (1) and (3) of section 4(b) that are located outside a withdrawal area designated under section 16(a) of the Alaska Native Claims Settlement Act (43 U.S.C. 1615(a)) shall be subject to—
     - **(A)** a reservation for easements for public access on the public roads depicted on the maps dated February 1, 2011, and labeled “Attachment A (Maps 1 through 8)”;
-    - **(B)** a reservation for easements along the temporary roads designated by the Forest Service as of the date of the enactment of this Act for the public access trails depicted on the maps described in subparagraph (A); and
+    - **(B)** a reservation for easements for public access on the temporary roads designated by the Forest Service as of the date of the enactment of this Act for the public access trails depicted on the maps described in subparagraph (A); and
     - **(C)** the right of noncommercial public access for subsistence uses, consistent with title VIII of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3111 et seq.), and recreational access, without liability to Sealaska, subject to—
       - **(i)** the right of Sealaska to regulate access to ensure public safety, to protect cultural or scientific resources, and to provide environmental protection; and
       - **(ii)** the condition that Sealaska shall post on any applicable property, in accordance with State law, notices of the conditions on use.
@@ -222,7 +213,7 @@ In this Act:
     - **(A)** the right of public access across the conveyances where no reasonable alternative access around the land is available without liability to Sealaska; and
     - **(B)** the right of Sealaska to regulate access across the conveyances to ensure public safety, to protect cultural or scientific resources, to provide environmental protection, or to prohibit activities incompatible with the use and enjoyment of the land by Sealaska, subject to the condition that Sealaska shall post on any applicable property, in accordance with State law, notices of any such condition.
   - **(3)** *Traditional and customary trade and migration routes* The conveyance to Sealaska of land withdrawn pursuant to section 4(b)(3) that is located outside of a withdrawal area designated under section 16(a) of the Alaska Native Claims Settlement Act (43 U.S.C. 1615(a)) shall be subject to a requirement that Sealaska provide public access across such linear conveyances if an adjacent landowner or the public has a legal right to use the adjacent private or public land.
-  - **(4)** *Certain native sites* The conveyance to Sealaska of land withdrawn pursuant to section 4(b)(2) that is located outside of a withdrawal area designated under section 16(a) of the Alaska Native Claims Settlement Act (43 U.S.C. 1615(a)) shall be subject to—
+  - **(4)** *Sites with traditional, recreational, and renewable energy use value* The conveyance to Sealaska of land withdrawn pursuant to section 4(b)(2) that is located outside of a withdrawal area designated under section 16(a) of the Alaska Native Claims Settlement Act (43 U.S.C. 1615(a)) shall be subject to—
     - **(A)** the right of public access across the land without liability to Sealaska; and
     - **(B)** the condition that public access across the land would not be unreasonably restricted or impaired.
   - **(5)** *Effect* No right of access provided to any individual or entity (other than Sealaska) by this subsection—
@@ -244,7 +235,7 @@ In this Act:
   - **(1)** *In general* Each restrictive covenant regarding cultural or historical values with respect to any interim conveyance or patent for a historic or cemetery site issued to Sealaska pursuant to the Federal regulations contained in sections 2653.5(a) and 2653.11 of title 43, Code of Federal Regulations (as in effect on the date of enactment of this Act), in accordance with section 14(h)(1) of the Alaska Native Claims Settlement Act (43 U.S.C. 1613(h)(1)), terminates as a matter of law on the date of enactment of this Act.
   - **(2)** *Remaining conditions* Land subject to a covenant described in paragraph (1) on the day before the date of enactment of this Act shall be subject to the conditions described in subsection (e).
   - **(3)** *Records* Sealaska shall be responsible for recording with the land title recorders office of the State of Alaska any modification to an existing conveyance of land under section 14(h)(1) of the Alaska Native Claims Settlement Act (43 U.S.C. 1613(h)(1)) as a result of this Act.
-- **(h)** *Conditions on certain native sites* Each conveyance of land to Sealaska from land withdrawn pursuant to section 4(b)(2) shall be subject to a covenant prohibiting any commercial timber harvest or mineral development.
+- **(h)** *Conditions on sites with traditional, recreational, and renewable energy use value* Each conveyance of land to Sealaska from land withdrawn pursuant to section 4(b)(2) shall be subject to a covenant prohibiting any commercial timber harvest or mineral development.
 - **(i)** *Escrow funds for withdrawn land* On the withdrawal by this Act of land identified for selection by Sealaska, the escrow requirements of section 2 of Public Law 94–204 (43 U.S.C. 1613 note), shall thereafter apply to the withdrawn land.
 - **(j)** *Guiding and outfitting special use permits or authorizations*
   - **(1)** *In general* Consistent with the provisions of section 14(g) of the Alaska Native Claims Settlement Act (43 U.S.C. 1613(g)), except as modified herein, on land conveyed to Sealaska from land withdrawn pursuant to sections 4(b)(1) and 4(b)(2), an existing holder of a guiding or outfitting special use permit or authorization issued by the Forest Service shall be entitled to its rights and privileges on the land for the remaining term of the permit, as of the date of conveyance to Sealaska, and for 1 subsequent 10-year renewal of the permit, subject to the condition that the rights shall be considered a valid existing right reserved pursuant to section 14(g) of the Alaska Native Claims Settlement Act (43 U.S.C. 1613(g)), and shall be managed accordingly.
@@ -265,17 +256,17 @@ In this Act:
   - **(1)** *In general* Except as required by paragraph (2), implementation of this Act, including the conveyance of land to Sealaska, alone or in combination with any other factor, shall not require an amendment of, or revision to, the Tongass National Forest Land and Resources Management Plan before the first revision of that Plan scheduled to occur after the date of enactment of this Act.
   - **(2)** *Boundary adjustments* The Secretary of Agriculture shall implement any land ownership boundary adjustments to the Tongass National Forest Land and Resources Management Plan resulting from the implementation of this Act through a technical amendment to that Plan.
 - **(d)** *Technical corrections*
-  - **(1)** *Tribal forest protection* Section 2 of the Tribal Forest Protection Act of 2004, 25 U.S.C. 3115a, is amended by adding a new subsection (h):
+  - **(1)** *Tribal forest protection* Section 2 of the Tribal Forest Protection Act of 2004 (25 U.S.C. 3115a) is amended by adding at the end a new subsection (h):
     > - **(h)**
     >   - **(1)** Land owned by an Alaska Native Corporation pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) that is forest land or formerly had a forest cover or vegetative cover that is capable of restoration shall be eligible for agreements and contracts authorized under this Act and administered by the Secretary.
     >   - **(2)** Nothing in this subsection validates, invalidates, or otherwise affects any claim regarding the existence of Indian country (as defined in section 1151 of title 18, United States Code) in the State of Alaska.
 
-  - **(2)** *National historic preservation* Section 101(d) of the National Historic Preservation Act, 16 U.S.C. 470a(d), is amended by adding a new paragraph (7):
+  - **(2)** *National historic preservation* Section 101(d) of the National Historic Preservation Act (16 U.S.C. 470a(d)), is amended by adding at the end a new paragraph (7):
     > - **(7)**
     >   - **(A)** Notwithstanding any other provision of law, an Alaska Native tribe, band, nation or other organized group or community, including a Native village, Regional Corporation, or Village Corporation, shall be eligible to participate in all programs administered by the Secretary under this Act on behalf of Indian tribes, including, but not limited to, securing grants and other support to manage their own historic preservation sites and programs on lands held by the Alaska Native tribe, band, nation or other organized group or community, including a Native village, Regional Corporation, or Village Corporation.
     >   - **(B)** Nothing in this paragraph validates, invalidates, or otherwise affects any claim regarding the existence of Indian country (as defined in section 1151 of title 18, United States Code) in the State of Alaska.
 
-- **(e)** *Effect on entitlement* Nothing in this section shall have any effect upon the entitlement due to any Native Corporation, other than Sealaska, under—
+- **(e)** *Effect on entitlement* Nothing in this Act shall have any effect upon the entitlement due to any Native Corporation, other than Sealaska, under—
   - **(1)** the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.); or
   - **(2)** the Alaska National Interest Lands Conservation Act (16 U.S.C. 3101 et seq.).
 
@@ -286,7 +277,3 @@ In this Act:
   - **(2)** the office of the Secretary.
 - **(b)** *Corrections* The Secretary or the Chief of the Forest Service may make any necessary correction to a clerical or typographical error in a map referred to in this Act.
 - **(c)** *Treatment* No map referred to in this Act shall be considered to be an attempt by the Federal Government to convey any State or private land.
-
-## § 8. Authorization of appropriations
-
-There are authorized to be appropriated such sums as are necessary to carry out this Act and the amendments made by this Act.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1408
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1408
@@ -37,3 +37,11 @@ Southeast Alaska Native Land Entitlement Finalization and Jobs Protection Act
 - 2011-04-06 — Introduced in House
 - 2011-04-06 — Introduced in House
 - 2011-04-06 — Referred to the House Committee on Natural Resources.
+- 2011-04-12 — Referred to the Subcommittee Indian and Alaska Native Affairs.
+- 2011-05-26 — Subcommittee Hearings Held.
+- 2011-07-13 — Committee Consideration and Mark-up Session Held.
+- 2011-07-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 10.
+- 2011-07-13 — Subcommittee Indian and Alaska Native Affairs Discharged.
+- 2011-11-10 — Placed on the Union Calendar, Calendar No. 188.
+- 2011-11-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-280.
+- 2011-11-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-280.
