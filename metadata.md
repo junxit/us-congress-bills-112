@@ -1,7 +1,7 @@
 ---
 measure: S. 363
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 363
@@ -32,3 +32,11 @@ A bill to authorize the Secretary of Commerce to convey property of the National
 - 2011-11-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. Without written report.
 - 2011-11-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. Without written report.
 - 2011-11-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 226.
+- 2011-11-10 — Amendment SA 942 agreed to in Senate by Unanimous Consent.
+- 2011-11-10 — Amendment SA 942 proposed by Senator Cantwell for Senator Wicker. To improve the bill.
+- 2011-11-10 — Measure laid before Senate by unanimous consent. (consideration: CR S7390)
+- 2011-11-10 — Passed Senate with an amendment by Unanimous Consent. (text: CR S7390)
+- 2011-11-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S7390)
+- 2011-11-10 — Senate amendment agreed to: Amendment SA 942 agreed to in Senate by Unanimous Consent.
+- 2011-11-10 — Senate amendment proposed (on the floor): Amendment SA 942 proposed by Senator Cantwell for Senator Wicker.
+- 2011-11-10 — Senate amendment submitted

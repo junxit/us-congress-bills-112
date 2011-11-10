@@ -27,9 +27,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
       - **(iii)** provision of office, storage, or other useable space; or
       - **(iv)** relocation services associated with conveyance of property under this section.
   - **(3)** *Determination of fair market value* The Secretary shall determine fair market value for purposes of paragraph (1) based on a highest- and best-use appraisal of the properties conveyed under subsection (a) conducted in conformance with the Uniform Appraisal Standards for Professional Appraisal Practice.
-- **(c)** *Use of proceeds* Any amounts received under subsection (b)(2)(A) by the United States as proceeds of any conveyance under this section shall be available to the Secretary, subject to appropriation, for—
-  - **(1)** activities related to the operations of, or capital improvements, to property of the Administration; or
-  - **(2)** relocation and other costs associated with the sale or exchange.
+- **(c)** *Use of proceeds* Any amounts received under subsection (b)(2)(A) by the United States as proceeds of any conveyance under this section shall be available to the Secretary, subject to appropriation, for activities related to the operations of, or capital improvements to, property of the Administration.
 - **(d)** *Additional terms and conditions*
   - **(1)** *In general* The Secretary may require such additional terms and conditions with the exchange of property by the United States under subsection (a) as the Secretary considers appropriate to protect the interest of the United States.
   - **(2)** *Easements or rights of way* The Secretary may grant or convey to the City of Pascagoula a right of way or easement if the Secretary determines such grant or conveyance is in the best interest of the Administration and the Federal Government.
