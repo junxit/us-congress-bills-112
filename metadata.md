@@ -1,7 +1,7 @@
 ---
 measure: H.R. 674
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 674
@@ -16,7 +16,7 @@ To amend the Internal Revenue Code of 1986 to repeal the imposition of 3 percent
 
 - Rep. Herger, Wally [R-CA-2] (H000528)
 
-## Cosponsors (269)
+## Cosponsors (349)
 
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. Nunes, Devin [R-CA-21] (N000181)
@@ -287,15 +287,99 @@ To amend the Internal Revenue Code of 1986 to repeal the imposition of 3 percent
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 - Rep. Flake, Jeff [R-AZ-6] (F000444)
 - Rep. Ryan, Paul [R-WI-1] (R000570)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
 
-## Recorded votes (2)
+## Recorded votes (6)
 
 - 2011-10-27 — [House 112-1-814](votes/house-112-1-0814.md) — On Motion to Recommit with Instructions — **Failed** (183–235)
 - 2011-10-27 — [House 112-1-815](votes/house-112-1-0815.md) — On Passage — **Passed** (405–16)
+- 2011-11-07 — [Senate 112-1-198](votes/senate-112-1-0198.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (94–1)
+- 2011-11-10 — [Senate 112-1-202](votes/senate-112-1-0202.md) — On the Amendment — **Amendment Rejected** (40–56)
+- 2011-11-10 — [Senate 112-1-203](votes/senate-112-1-0203.md) — On the Amendment — **Amendment Agreed to** (94–1)
+- 2011-11-10 — [Senate 112-1-204](votes/senate-112-1-0204.md) — On Passage of the Bill — **Bill Passed** (95–0)
 
 ## Actions
 
@@ -325,3 +409,35 @@ To amend the Internal Revenue Code of 1986 to repeal the imposition of 3 percent
 - 2011-10-27 — The previous question was ordered without objection. (consideration: CR H7143)
 - 2011-10-31 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2011-11-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 212.
+- 2011-11-03 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S7141; text: CR S7141)
+- 2011-11-03 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S7141)
+- 2011-11-07 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 94 - 1. Record Vote Number: 198. (consideration: CR S7151; text: CR S7151)
+- 2011-11-07 — Motion to proceed to measure considered in Senate. (consideration: CR S7151)
+- 2011-11-07 — Senate amendment submitted
+- 2011-11-08 — Amendment SA 927 proposed by Senator Reid for Senator Tester. (consideration: CR S7183) To amend the Internal Revenue Code of 1986 to permit a 100 percent levy for payments to Federal vendors relating to property, to require a study on how to reduce the amount of Federal taxes owed but not paid by Federal contractors, and to make certain improvements in the laws relating to the employment and training of veterans.
+- 2011-11-08 — Measure laid before Senate by motion. (consideration: CR S7183)
+- 2011-11-08 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent. (consideration: CR S7183)
+- 2011-11-08 — Motion to proceed to measure considered in Senate. (consideration: CR S7173-7183)
+- 2011-11-08 — Senate amendment proposed (on the floor): Amendment SA 927 proposed by Senator Reid for Senator Tester.(consideration: CR S7183)
+- 2011-11-08 — Senate amendment submitted
+- 2011-11-08 — Senate amendment submitted
+- 2011-11-08 — Senate amendment submitted
+- 2011-11-08 — Senate amendment submitted
+- 2011-11-09 — Amendment SA 928 proposed by Senator McCain to Amendment SA 927. (consideration: CR S7267-7268) To provide American jobs through economic growth.
+- 2011-11-09 — Considered by Senate. (consideration: CR S7263, S7266-7267, S7268-7269, S7277-7280)
+- 2011-11-09 — Considered by Senate. (consideration: CR S7263-7288)
+- 2011-11-09 — Senate amendment proposed (on the floor): Amendment SA 928 proposed by Senator McCain to Amendment SA 927.(consideration: CR S7267-7268)
+- 2011-11-09 — Senate amendment submitted
+- 2011-11-10 — Amendment SA 927 as modified, under the order of 11/8/2011, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 94 - 1. Record Vote Number: 203. (text as modified: CR S7330-7336)
+- 2011-11-10 — Amendment SA 928, under the order of 11/8/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 56. Record Vote Number: 202.
+- 2011-11-10 — Considered by Senate. (consideration: CR S7330-7336, S7336-7346)
+- 2011-11-10 — Considered by Senate. (consideration: CR S7336-7338, S7338-7339)
+- 2011-11-10 — Considered by Senate. (consideration: CR S7338)
+- 2011-11-10 — Message on Senate action sent to the House.
+- 2011-11-10 — Passed Senate with an amendment by Yea-Nay Vote. 95 - 0. Record Vote Number: 204. (text: CR S7339-7345)
+- 2011-11-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 95 - 0. Record Vote Number: 204.(text: CR S7339-7345)
+- 2011-11-10 — Roll call votes on amendments in Senate: Amendment SA 927 as modified, under the order of 11/8/2011, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 94 - 1. Record Vote Number: 203.(text as modified: CR S7330-7336)
+- 2011-11-10 — Roll call votes on amendments in Senate: Amendment SA 928, under the order of 11/8/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 56. Record Vote Number: 202.
+- 2011-11-10 — Senate amendment agreed to: Amendment SA 927 as modified, under the order of 11/8/2011, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 94 - 1. Record Vote Number: 203.(text as modified: CR S7330-7336)
+- 2011-11-10 — Senate amendment not agreed to: Amendment SA 928, under the order of 11/8/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 56. Record Vote Number: 202.
+- 2011-11-10 — Senate amendment submitted

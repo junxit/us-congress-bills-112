@@ -2,13 +2,11 @@
 legis-num: H.R. 674
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 674
 
-> To amend the Internal Revenue Code of 1986 to repeal the imposition of 3 percent withholding on certain payments made to vendors by government entities, to modify the calculation of modified adjusted gross income for purposes of determining eligibility for certain healthcare-related programs, and for other purposes.
+That the bill from the House of Representatives (H.R. 674) entitled “An Act to amend the Internal Revenue Code of 1986 to repeal the imposition of 3 percent withholding on certain payments made to vendors by government entities, to modify the calculation of modified adjusted gross income for purposes of determining eligibility for certain healthcare-related programs, and for other purposes.”, do pass with the following
 
-## § 1. Table of Contents
-
-The table of contents for this Act is as follows:
+*Strike title II and insert the following:*
