@@ -1,7 +1,7 @@
 ---
 measure: H.R. 674
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 674
@@ -372,7 +372,7 @@ To amend the Internal Revenue Code of 1986 to repeal the imposition of 3 percent
 
 - House — Ways and Means Committee
 
-## Recorded votes (6)
+## Recorded votes (7)
 
 - 2011-10-27 — [House 112-1-814](votes/house-112-1-0814.md) — On Motion to Recommit with Instructions — **Failed** (183–235)
 - 2011-10-27 — [House 112-1-815](votes/house-112-1-0815.md) — On Passage — **Passed** (405–16)
@@ -380,6 +380,7 @@ To amend the Internal Revenue Code of 1986 to repeal the imposition of 3 percent
 - 2011-11-10 — [Senate 112-1-202](votes/senate-112-1-0202.md) — On the Amendment — **Amendment Rejected** (40–56)
 - 2011-11-10 — [Senate 112-1-203](votes/senate-112-1-0203.md) — On the Amendment — **Amendment Agreed to** (94–1)
 - 2011-11-10 — [Senate 112-1-204](votes/senate-112-1-0204.md) — On Passage of the Bill — **Bill Passed** (95–0)
+- 2011-11-16 — [House 112-1-853](votes/house-112-1-0853.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (422–0)
 
 ## Actions
 
@@ -441,3 +442,15 @@ To amend the Internal Revenue Code of 1986 to repeal the imposition of 3 percent
 - 2011-11-10 — Senate amendment agreed to: Amendment SA 927 as modified, under the order of 11/8/2011, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 94 - 1. Record Vote Number: 203.(text as modified: CR S7330-7336)
 - 2011-11-10 — Senate amendment not agreed to: Amendment SA 928, under the order of 11/8/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 56. Record Vote Number: 202.
 - 2011-11-10 — Senate amendment submitted
+- 2011-11-16 — DEBATE - The House proceeded with forty minutes of debate on concurring in the Senate amendment to H.R. 674.
+- 2011-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-11-16 — Mr. Camp moved that the House suspend the rules and concur in the Senate amendment. (consideration: CR H7643-7661, H7690-7691)
+- 2011-11-16 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 853). (text as House agreed to Senate amendment: CR H7643-7650)
+- 2011-11-16 — POSTPONED PROCEEDINGS - At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-11-16 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 853).(text as House agreed to Senate amendment: CR H7643-7650)
+- 2011-11-19 — Presented to President.
+- 2011-11-19 — Presented to President.
+- 2011-11-21 — Became Public Law No: 112-56.
+- 2011-11-21 — Became Public Law No: 112-56.
+- 2011-11-21 — Signed by President.
+- 2011-11-21 — Signed by President.
