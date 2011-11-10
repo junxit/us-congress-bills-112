@@ -1,7 +1,7 @@
 ---
 measure: H.R. 588
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 588
@@ -25,3 +25,11 @@ To redesignate the Noxubee National Wildlife Refuge as the Sam D. Hamilton Noxub
 - 2011-02-09 — Introduced in House
 - 2011-02-09 — Introduced in House
 - 2011-02-09 — Referred to the House Committee on Natural Resources.
+- 2011-02-14 — Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.
+- 2011-04-07 — Subcommittee Hearings Held.
+- 2011-10-05 — Committee Consideration and Mark-up Session Held.
+- 2011-10-05 — Ordered to be Reported by Unanimous Consent.
+- 2011-10-05 — Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.
+- 2011-11-10 — Placed on the House Calendar, Calendar No. 88.
+- 2011-11-10 — Reported by the Committee on Natural Resources. H. Rept. 112-279.
+- 2011-11-10 — Reported by the Committee on Natural Resources. H. Rept. 112-279.
