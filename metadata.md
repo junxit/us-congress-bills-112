@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1299
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1299
@@ -16,7 +16,7 @@ Secure Border Act of 2012
 
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 
-## Cosponsors (18)
+## Cosponsors (32)
 
 - Rep. King, Peter T. [R-NY-3] (K000210)
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
@@ -36,6 +36,20 @@ Secure Border Act of 2012
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Scott, Tim [R-SC-1] (S001184)
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Young, Todd [R-IN-9] (Y000064)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Hunter, Duncan D. [R-CA-52] (H001048)
+- Rep. Gosar, Paul A. [R-AZ-1] (G000565)
 
 ## Committees (1)
 
@@ -46,3 +60,11 @@ Secure Border Act of 2012
 - 2011-03-31 — Introduced in House
 - 2011-03-31 — Introduced in House
 - 2011-03-31 — Referred to the House Committee on Homeland Security.
+- 2011-04-06 — Referred to the Subcommittee on Border and Maritime Security.
+- 2011-06-02 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2011-06-02 — Subcommittee Consideration and Mark-up Session Held.
+- 2011-09-21 — Committee Consideration and Mark-up Session Held.
+- 2011-09-21 — Ordered to be Reported (Amended) by Voice Vote.
+- 2011-11-10 — Placed on the Union Calendar, Calendar No. 184.
+- 2011-11-10 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-274.
+- 2011-11-10 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-274.
