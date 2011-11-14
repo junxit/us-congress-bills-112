@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2422
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2422
@@ -50,8 +50,22 @@ To designate the facility of the United States Postal Service located at 45 Bay 
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2011-11-14 — [House 112-1-839](votes/house-112-1-0839.md) — On Motion to Suspend the Rules and Pass — **Passed** (390–0)
+
 ## Actions
 
 - 2011-07-06 — Introduced in House
 - 2011-07-06 — Introduced in House
 - 2011-07-06 — Referred to the House Committee on Oversight and Government Reform.
+- 2011-11-03 — Committee Consideration and Mark-up Session Held.
+- 2011-11-03 — Ordered to be Reported by Unanimous Consent.
+- 2011-11-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-11-14 — Considered as unfinished business. (consideration: CR H7419-7420)
+- 2011-11-14 — Considered under suspension of the rules. (consideration: CR H7413-7414)
+- 2011-11-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2422.
+- 2011-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-11-14 — Mr. Farenthold moved to suspend the rules and pass the bill.
+- 2011-11-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 839). (text: CR H7413)
+- 2011-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 839).(text: CR H7413)
