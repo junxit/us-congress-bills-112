@@ -1,7 +1,7 @@
 ---
 measure: S. 363
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 363
@@ -20,9 +20,10 @@ A bill to authorize the Secretary of Commerce to convey property of the National
 
 - Sen. Cochran, Thad [R-MS] (C000567)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,6 @@ A bill to authorize the Secretary of Commerce to convey property of the National
 - 2011-11-10 — Senate amendment agreed to: Amendment SA 942 agreed to in Senate by Unanimous Consent.
 - 2011-11-10 — Senate amendment proposed (on the floor): Amendment SA 942 proposed by Senator Cantwell for Senator Wicker.
 - 2011-11-10 — Senate amendment submitted
+- 2011-11-14 — Message on Senate action sent to the House.
+- 2011-11-14 — Received in the House.
+- 2011-11-14 — Referred to the House Committee on Natural Resources.
