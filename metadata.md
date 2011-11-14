@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 296
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 296
@@ -31,3 +31,7 @@ A resolution commemorating the 50th anniversary of the Combined Federal Campaign
 - 2011-10-18 — Introduced in Senate
 - 2011-10-18 — Referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S6672)
 - 2011-10-18 — Sponsor introductory remarks on measure. (CR S6672)
+- 2011-11-09 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2011-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment and with a preamble. Without written report.
+- 2011-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment and with a preamble. Without written report.
+- 2011-11-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 229.
