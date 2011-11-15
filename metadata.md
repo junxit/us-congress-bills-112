@@ -1,7 +1,7 @@
 ---
 measure: H.R. 298
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 298
@@ -50,9 +50,10 @@ To designate the facility of the United States Postal Service located at 500 Eas
 - Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -75,3 +76,4 @@ To designate the facility of the United States Postal Service located at 500 Eas
 - 2011-11-14 — Mr. Farenthold moved to suspend the rules and pass the bill.
 - 2011-11-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 0 (Roll no. 838). (text: CR H7412)
 - 2011-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 391 - 0 (Roll no. 838).(text: CR H7412)
+- 2011-11-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
