@@ -1,7 +1,7 @@
 ---
 measure: H.R. 588
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 588
@@ -16,9 +16,10 @@ To redesignate the Noxubee National Wildlife Refuge as the Sam D. Hamilton Noxub
 
 - Rep. Harper, Gregg [R-MS-3] (H001045)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To redesignate the Noxubee National Wildlife Refuge as the Sam D. Hamilton Noxub
 - 2011-11-14 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
 - 2011-11-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7408)
 - 2011-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7408)
+- 2011-11-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
