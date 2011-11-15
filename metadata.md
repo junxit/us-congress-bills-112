@@ -1,7 +1,7 @@
 ---
 measure: S. 899
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 899
@@ -32,3 +32,7 @@ Nutria Eradication and Control Act of 2011
 - 2011-05-05 — Introduced in Senate
 - 2011-05-05 — Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S2739-2740)
 - 2011-05-05 — Sponsor introductory remarks on measure. (CR S2738-2739)
+- 2011-07-13 — Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.
+- 2011-11-15 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment. With written report No. 112-94.
+- 2011-11-15 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment. With written report No. 112-94.
+- 2011-11-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 231.

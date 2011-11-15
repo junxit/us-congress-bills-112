@@ -64,6 +64,10 @@ Section 4 of the Nutria Eradication and Control Act of 2003 (Public Law 108–16
 - **(4)** in subsection (e), by striking “financial assistance provided by the Secretary under this section” and inserting “the amounts made available under subsection (f) to carry out the program”; and
 - **(5)** by striking subsection (f) and inserting the following:
   > - **(f)** *Authorization of appropriations* Subject to subsection (e), for each of fiscal years 2012 through 2016, there are authorized to be appropriated to the Secretary to carry out the program such sums as are necessary.
+  > - **(f)** *Authorization of appropriations* Subject to subsection (e), there is authorized to be appropriated to the Secretary to carry out the program $6,000,000 for each of fiscal years 2012 through 2016, of which—
+  >   - **(1)** $2,000,000 shall be used to provide financial assistance to the State of Maryland;
+  >   - **(2)** $2,000,000 shall be used to provide financial assistance to the State of Louisiana; and
+  >   - **(3)** $2,000,000 shall be used to provide financial assistance, on a competitive basis, to other coastal States.
 
 ## § 5. Report
 
