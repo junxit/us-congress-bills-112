@@ -1,7 +1,7 @@
 ---
 measure: H.R. 588
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 588
@@ -41,3 +41,14 @@ To redesignate the Noxubee National Wildlife Refuge as the Sam D. Hamilton Noxub
 - 2011-11-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7408)
 - 2011-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7408)
 - 2011-11-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2012-02-01 — Passed Senate without amendment by Unanimous Consent.
+- 2012-02-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-02-01 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S276)
+- 2012-02-01 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S276)
+- 2012-02-02 — Message on Senate action sent to the House.
+- 2012-02-06 — Presented to President.
+- 2012-02-06 — Presented to President.
+- 2012-02-14 — Became Public Law No: 112-94.
+- 2012-02-14 — Became Public Law No: 112-94.
+- 2012-02-14 — Signed by President.
+- 2012-02-14 — Signed by President.
