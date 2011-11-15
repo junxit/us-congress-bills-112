@@ -15,3 +15,6 @@ Section 105(b)(3) of the Ethics in Government Act of 1978 (5 U.S.C. App.) is ame
 
 - **(1)** in subparagraph (A), by striking “Marshall” and inserting “Marshals”; and
 - **(2)** by striking subparagraph (E).
+- **(1)** in subparagraph (A), by striking ‘‘Marshall’’ and inserting “Marshals”;
+- **(2)** in subparagraph (C), by inserting “and the Senate Committee on Homeland Security and Governmental Affairs and the House Committee on Oversight and Government Reform” after “Senate”; and
+- **(3)** in subparagraph (E), by striking “2011” both places it appears and inserting “2017”.

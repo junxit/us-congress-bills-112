@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1059
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1059
@@ -51,3 +51,7 @@ To protect the safety of judges by extending the authority of the Judicial Confe
 - 2011-09-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 701). (text: CR H6048)
 - 2011-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 701).(text: CR H6048)
 - 2011-09-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2011-10-19 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2011-11-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. Without written report.
+- 2011-11-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. Without written report.
+- 2011-11-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 232.
