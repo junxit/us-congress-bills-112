@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 302
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 302
@@ -16,7 +16,7 @@ A resolution expressing support for the goals of National Adoption Day and Natio
 
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 
-## Cosponsors (20)
+## Cosponsors (26)
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Kerry, John F. [D-MA] (K000148)
@@ -38,8 +38,22 @@ A resolution expressing support for the goals of National Adoption Day and Natio
 - Sen. Johnson, Tim [D-SD] (J000177)
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+
+## Committees (1)
+
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
 - 2011-10-20 — Introduced in Senate
 - 2011-10-20 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S6879)
+- 2011-11-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S7605)
+- 2011-11-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S7605)
+- 2011-11-16 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S7605-7608)
+- 2011-11-16 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S7605-7608)
