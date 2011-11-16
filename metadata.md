@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2660
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2660
@@ -59,3 +59,13 @@ To designate the facility of the United States Postal Service located at 122 Nor
 - 2011-07-26 — Introduced in House
 - 2011-07-26 — Introduced in House
 - 2011-07-26 — Referred to the House Committee on Oversight and Government Reform.
+- 2011-11-03 — Committee Consideration and Mark-up Session Held.
+- 2011-11-03 — Ordered to be Reported by Unanimous Consent.
+- 2011-11-14 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Cummings objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2011-11-14 — Considered under suspension of the rules. (consideration: CR H7414-7415)
+- 2011-11-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2660.
+- 2011-11-14 — Mr. Farenthold moved to suspend the rules and pass the bill.
+- 2011-11-16 — Considered as unfinished business. (consideration: CR H7691)
+- 2011-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 11/14/2011 H7414)
+- 2011-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 11/14/2011 H7414)
