@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2415
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2415
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 11 Dock
 
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 
-## Cosponsors (17)
+## Cosponsors (18)
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 - Rep. Altmire, Jason [D-PA-4] (A000362)
@@ -35,6 +35,7 @@ To designate the facility of the United States Postal Service located at 11 Dock
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
 
 ## Committees (1)
 
@@ -45,3 +46,13 @@ To designate the facility of the United States Postal Service located at 11 Dock
 - 2011-07-06 — Introduced in House
 - 2011-07-06 — Introduced in House
 - 2011-07-06 — Referred to the House Committee on Oversight and Government Reform.
+- 2011-11-03 — Committee Consideration and Mark-up Session Held.
+- 2011-11-03 — Ordered to be Reported by Unanimous Consent.
+- 2011-11-14 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Cummings objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2011-11-14 — Considered under suspension of the rules. (consideration: CR H7415-7416)
+- 2011-11-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2415.
+- 2011-11-14 — Mr. Farenthold moved to suspend the rules and pass the bill.
+- 2011-11-16 — Considered as unfinished business. (consideration: CR H7691)
+- 2011-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 11/14/2011 H7415)
+- 2011-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 11/14/2011 H7415)
