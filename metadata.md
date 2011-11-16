@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2838
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2838
@@ -20,9 +20,10 @@ Coast Guard and Maritime Transportation Act of 2012
 
 - Rep. Mica, John L. [R-FL-7] (M000689)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (7)
 
@@ -159,3 +160,4 @@ Coast Guard and Maritime Transportation Act of 2012
 - 2011-11-15 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2838.
 - 2011-11-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7608)
 - 2011-11-15 — The previous question was ordered pursuant to the rule. (consideration: CR H7607)
+- 2011-11-16 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
