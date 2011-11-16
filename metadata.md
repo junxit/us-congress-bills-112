@@ -1,7 +1,7 @@
 ---
 measure: H.R. 822
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 822
@@ -269,6 +269,19 @@ National Right-to-Carry Reciprocity Act of 2011
 
 - House — Judiciary Committee
 
+## Recorded votes (10)
+
+- 2011-11-16 — [House 112-1-843](votes/house-112-1-0843.md) — On Agreeing to the Amendment — **Failed** (140–283)
+- 2011-11-16 — [House 112-1-844](votes/house-112-1-0844.md) — On Agreeing to the Amendment — **Failed** (147–274)
+- 2011-11-16 — [House 112-1-845](votes/house-112-1-0845.md) — On Agreeing to the Amendment — **Failed** (148–277)
+- 2011-11-16 — [House 112-1-846](votes/house-112-1-0846.md) — On Agreeing to the Amendment — **Failed** (139–284)
+- 2011-11-16 — [House 112-1-847](votes/house-112-1-0847.md) — On Agreeing to the Amendment — **Failed** (144–281)
+- 2011-11-16 — [House 112-1-848](votes/house-112-1-0848.md) — On Agreeing to the Amendment — **Failed** (150–276)
+- 2011-11-16 — [House 112-1-849](votes/house-112-1-0849.md) — On Agreeing to the Amendment — **Failed** (123–299)
+- 2011-11-16 — [House 112-1-850](votes/house-112-1-0850.md) — On Agreeing to the Amendment — **Failed** (146–277)
+- 2011-11-16 — [House 112-1-851](votes/house-112-1-0851.md) — On Motion to Recommit with Instructions — **Failed** (161–263)
+- 2011-11-16 — [House 112-1-852](votes/house-112-1-0852.md) — On Passage — **Passed** (272–154)
+
 ## Actions
 
 - 2011-02-18 — Introduced in House
@@ -284,3 +297,98 @@ National Right-to-Carry Reciprocity Act of 2011
 - 2011-11-10 — Placed on the Union Calendar, Calendar No. 187.
 - 2011-11-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-277.
 - 2011-11-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-277.
+- 2011-11-14 — Rules Committee Resolution H. Res. 463 Reported to House. Rule provides for consideration of H.R. 822 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution waives all points of order against the committee amendment in the nature of a substitute, now printed in the bill. The resolution waives all points of order against the amendments printed in the report.
+- 2011-11-15 — Rule H. Res. 463 passed House.
+- 2011-11-16 — Amendment (A001) offered by Mr. Woodall. (consideration: CR H7671-7672, H7682-7683; text: CR H7671)
+- 2011-11-16 — Amendment (A002) offered by Mrs. McCarthy (NY). (consideration: CR H7672-7673, H7683; text: CR H7672)
+- 2011-11-16 — Amendment (A003) offered by Mr. Hastings (FL). (consideration: CR H7673-7674, H7683-7684; text: CR H7673)
+- 2011-11-16 — Amendment (A004) offered by Ms. Jackson Lee (TX). (consideration: CR H7674-7676, H7684-7685; text: CR H7674)
+- 2011-11-16 — Amendment (A005) offered by Mr. Johnson (GA). (consideration: CR H7676-7677, H7685; text: CR H7676)
+- 2011-11-16 — Amendment (A006) offered by Mr. Cohen. (consideration: CR H7677-7678, H7685-7686; text: CR H7677)
+- 2011-11-16 — Amendment (A007) offered by Ms. Jackson Lee (TX). (consideration: CR H7678-7680, H7686-7687; text: CR H7678)
+- 2011-11-16 — Amendment (A008) offered by Mr. Cicilline. (consideration: CR H7680-7681, H7687; text: CR H7680)
+- 2011-11-16 — Amendment (A009) offered by Mr. Reichert. (consideration: CR H7681-7682; text: CR H7681)
+- 2011-11-16 — Amendment agreed to Committee of the Whole
+- 2011-11-16 — Amendment failed in Committee of the Whole
+- 2011-11-16 — Amendment failed in Committee of the Whole
+- 2011-11-16 — Amendment failed in Committee of the Whole
+- 2011-11-16 — Amendment failed in Committee of the Whole
+- 2011-11-16 — Amendment failed in Committee of the Whole
+- 2011-11-16 — Amendment failed in Committee of the Whole
+- 2011-11-16 — Amendment failed in Committee of the Whole
+- 2011-11-16 — Amendment failed in Committee of the Whole
+- 2011-11-16 — Considered under the provisions of rule H. Res. 463. (consideration: CR H7661-7690; text of amendment in the nature of a substitute: CR H7670-7671)
+- 2011-11-16 — DEBATE - Pursuant to the provisions of H. Res. 463, the Committee of the Whole proceeded with 10 minutes of debate on the Cicilline amendment No. 9.
+- 2011-11-16 — DEBATE - Pursuant to the provisions of H. Res. 463, the Committee of the Whole proceeded with 10 minutes of debate on the Cohen amendment No. 7.
+- 2011-11-16 — DEBATE - Pursuant to the provisions of H. Res. 463, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (FL) amendment No. 3.
+- 2011-11-16 — DEBATE - Pursuant to the provisions of H. Res. 463, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee (TX) amendment No. 4.
+- 2011-11-16 — DEBATE - Pursuant to the provisions of H. Res. 463, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee (TX) amendment No. 8.
+- 2011-11-16 — DEBATE - Pursuant to the provisions of H. Res. 463, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (GA) amendment No. 6.
+- 2011-11-16 — DEBATE - Pursuant to the provisions of H. Res. 463, the Committee of the Whole proceeded with 10 minutes of debate on the McCarthy (NY) amendment No. 2.
+- 2011-11-16 — DEBATE - Pursuant to the provisions of H. Res. 463, the Committee of the Whole proceeded with 10 minutes of debate on the Reichert amendment No. 10.
+- 2011-11-16 — DEBATE - Pursuant to the provisions of H. Res. 463, the Committee of the Whole proceeded with 10 minutes of debate on the Woodall amendment No. 1.
+- 2011-11-16 — DEBATE - The House proceeded with 10 minutes of debate on the Cicilline motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to limit state reciprocity for carrying a gun for child sex offenders, domestic violence offenders and known or suspected terrorists.
+- 2011-11-16 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 822.
+- 2011-11-16 — House amendment agreed to: On agreeing to the Reichert amendment (A009) Agreed to by voice vote.
+- 2011-11-16 — House amendment not agreed to: On agreeing to the Cicilline amendment (A008) Failed by recorded vote: 146 - 277 (Roll no. 850).
+- 2011-11-16 — House amendment not agreed to: On agreeing to the Cohen amendment (A006) Failed by recorded vote: 150 - 276 (Roll no. 848).
+- 2011-11-16 — House amendment not agreed to: On agreeing to the Hastings (FL) amendment (A003) Failed by recorded vote: 148 - 277 (Roll no. 845).
+- 2011-11-16 — House amendment not agreed to: On agreeing to the Jackson Lee (TX) amendment (A004) Failed by recorded vote: 139 - 284 (Roll no. 846).
+- 2011-11-16 — House amendment not agreed to: On agreeing to the Jackson Lee (TX) amendment (A007) Failed by recorded vote: 123 - 299 (Roll no. 849).
+- 2011-11-16 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A005) Failed by recorded vote: 144 - 281 (Roll no. 847).
+- 2011-11-16 — House amendment not agreed to: On agreeing to the McCarthy (NY) amendment (A002) Failed by recorded vote: 147 - 274 (Roll no. 844).
+- 2011-11-16 — House amendment not agreed to: On agreeing to the Woodall amendment (A001) Failed by recorded vote: 140 - 283 (Roll no. 843).
+- 2011-11-16 — House amendment offered
+- 2011-11-16 — House amendment offered
+- 2011-11-16 — House amendment offered
+- 2011-11-16 — House amendment offered
+- 2011-11-16 — House amendment offered
+- 2011-11-16 — House amendment offered
+- 2011-11-16 — House amendment offered
+- 2011-11-16 — House amendment offered
+- 2011-11-16 — House amendment offered
+- 2011-11-16 — House amendment offered/reported by: Amendment (A001) offered by Mr. Woodall.(consideration: CR H7671-7672, H7682-7683; text: CR H7671)
+- 2011-11-16 — House amendment offered/reported by: Amendment (A002) offered by Mrs. McCarthy (NY).(consideration: CR H7672-7673, H7683; text: CR H7672)
+- 2011-11-16 — House amendment offered/reported by: Amendment (A003) offered by Mr. Hastings (FL).(consideration: CR H7673-7674, H7683-7684; text: CR H7673)
+- 2011-11-16 — House amendment offered/reported by: Amendment (A004) offered by Ms. Jackson Lee (TX).(consideration: CR H7674-7676, H7684-7685; text: CR H7674)
+- 2011-11-16 — House amendment offered/reported by: Amendment (A005) offered by Mr. Johnson (GA).(consideration: CR H7676-7677, H7685; text: CR H7676)
+- 2011-11-16 — House amendment offered/reported by: Amendment (A006) offered by Mr. Cohen.(consideration: CR H7677-7678, H7685-7686; text: CR H7677)
+- 2011-11-16 — House amendment offered/reported by: Amendment (A007) offered by Ms. Jackson Lee (TX).(consideration: CR H7678-7680, H7686-7687; text: CR H7678)
+- 2011-11-16 — House amendment offered/reported by: Amendment (A008) offered by Mr. Cicilline.(consideration: CR H7680-7681, H7687; text: CR H7680)
+- 2011-11-16 — House amendment offered/reported by: Amendment (A009) offered by Mr. Reichert.(consideration: CR H7681-7682; text: CR H7681)
+- 2011-11-16 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 463 and Rule XVIII.
+- 2011-11-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-11-16 — Mr. Cicilline moved to recommit with instructions to Judiciary. (consideration: CR H7687-8689; text: CR H7688)
+- 2011-11-16 — On agreeing to the Cicilline amendment (A008) Failed by recorded vote: 146 - 277 (Roll no. 850).
+- 2011-11-16 — On agreeing to the Cohen amendment (A006) Failed by recorded vote: 150 - 276 (Roll no. 848).
+- 2011-11-16 — On agreeing to the Hastings (FL) amendment (A003) Failed by recorded vote: 148 - 277 (Roll no. 845).
+- 2011-11-16 — On agreeing to the Jackson Lee (TX) amendment (A004) Failed by recorded vote: 139 - 284 (Roll no. 846).
+- 2011-11-16 — On agreeing to the Jackson Lee (TX) amendment (A007) Failed by recorded vote: 123 - 299 (Roll no. 849).
+- 2011-11-16 — On agreeing to the Johnson (GA) amendment (A005) Failed by recorded vote: 144 - 281 (Roll no. 847).
+- 2011-11-16 — On agreeing to the McCarthy (NY) amendment (A002) Failed by recorded vote: 147 - 274 (Roll no. 844).
+- 2011-11-16 — On agreeing to the Reichert amendment (A009) Agreed to by voice vote.
+- 2011-11-16 — On agreeing to the Woodall amendment (A001) Failed by recorded vote: 140 - 283 (Roll no. 843).
+- 2011-11-16 — On motion to recommit with instructions Failed by recorded vote: 161 - 263 (Roll no. 851).
+- 2011-11-16 — On passage Passed by recorded vote: 272 - 154 (Roll no. 852).
+- 2011-11-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cicilline amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Smith(TX) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2011-11-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cohen amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Cohen demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2011-11-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hastings (FL) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Chabot demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2011-11-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Smith (TX) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2011-11-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mrs. Jackson Lee (TX) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2011-11-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Smith (TX) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2011-11-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McCarthy (NY) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mrs. McCarthy (NY) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2011-11-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Woodall amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Smith (TX) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2011-11-16 — Passed/agreed to in House: On passage Passed by recorded vote: 272 - 154 (Roll no. 852).
+- 2011-11-16 — Roll call votes on amendments in House
+- 2011-11-16 — Roll call votes on amendments in House
+- 2011-11-16 — Roll call votes on amendments in House
+- 2011-11-16 — Roll call votes on amendments in House
+- 2011-11-16 — Roll call votes on amendments in House
+- 2011-11-16 — Roll call votes on amendments in House
+- 2011-11-16 — Roll call votes on amendments in House
+- 2011-11-16 — Roll call votes on amendments in House
+- 2011-11-16 — Rule provides for consideration of H.R. 822 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution waives all points of order against the committee amendment in the nature of a substitute, now printed in the bill. The resolution waives all points of order against the amendments printed in the report.
+- 2011-11-16 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 822.
+- 2011-11-16 — The Speaker designated the Honorable Candice S. Miller to act as Chairwoman of the Committee.
+- 2011-11-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7689)
+- 2011-11-16 — The previous question was ordered pursuant to the rule. (consideration: CR H7687)

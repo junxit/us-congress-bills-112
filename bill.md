@@ -34,3 +34,8 @@ This Act may be cited as the “National Right-to-Carry Reciprocity Act of 2011�
   - **(2)** the number of such valid permits or licenses issued or denied (and the basis for such denials) by each State to persons other than a resident of such State; and
   - **(3)** the effectiveness of such State laws and regulations in protecting the public safety.
 - **(b)** Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit to Congress a report on the findings of the study conducted under subsection (a).
+
+## § 4. GAO study of the ability of State and local law enforcement to verify the validity of out-of-state concealed firearms permits
+
+- **(a)** *In general* The Comptroller General of the United States shall conduct a study of the ability of State and local law enforcement authorities to verify the validity of licenses or permits, issued by other States, to carry a concealed firearm.
+- **(b)** *Report to the Congress* Within 1 year after the date of the enactment of this Act, the Comptroller General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a written report which contains the results of the study required by subsection (a).
