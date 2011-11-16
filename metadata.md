@@ -1,7 +1,7 @@
 ---
 measure: H.R. 585
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 585
@@ -29,3 +29,6 @@ Small Business Size Standard Flexibility Act of 2011
 - 2011-02-09 — Introduced in House
 - 2011-02-09 — Introduced in House
 - 2011-02-09 — Referred to the House Committee on Small Business.
+- 2011-11-16 — Placed on the Union Calendar, Calendar No. 190.
+- 2011-11-16 — Reported by the Committee on Small Business. H. Rept. 112-288.
+- 2011-11-16 — Reported by the Committee on Small Business. H. Rept. 112-288.
