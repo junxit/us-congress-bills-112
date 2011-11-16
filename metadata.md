@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 251
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 251
@@ -16,7 +16,7 @@ A resolution expressing support for improvement in the collection, processing, a
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (13)
+## Cosponsors (20)
 
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
 - Sen. Murray, Patty [D-WA] (M001111)
@@ -31,6 +31,13 @@ A resolution expressing support for improvement in the collection, processing, a
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Udall, Tom [D-NM] (U000039)
 
 ## Committees (1)
 
@@ -40,3 +47,7 @@ A resolution expressing support for improvement in the collection, processing, a
 
 - 2011-08-02 — Introduced in Senate
 - 2011-08-02 — Referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S5267-5268)
+- 2011-11-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S7627-7628)
+- 2011-11-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S7627-7628)
+- 2011-11-16 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S7627-7628)
+- 2011-11-16 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S7627-7628)
