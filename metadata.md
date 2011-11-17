@@ -1,7 +1,7 @@
 ---
 measure: S. 1793
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1793
@@ -24,3 +24,7 @@ Investigative Assistance for Violent Crimes Act of 2012
 
 - 2011-11-02 — Introduced in Senate
 - 2011-11-02 — Read twice and referred to the Committee on the Judiciary.
+- 2011-11-17 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2011-11-17 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2011-11-17 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2011-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 233.
