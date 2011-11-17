@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3321
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3321
@@ -49,3 +49,14 @@ America's Cup Act of 2011
 - 2011-11-17 — Senate amendment agreed to: Amendment SA 1222 agreed to in Senate by Unanimous Consent.
 - 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1222 proposed by Senator Levin for Senator Feinstein.(consideration: CR S7777-7778; text: CR S7777-7778)
 - 2011-11-17 — Senate amendment submitted
+- 2011-11-18 — Message on Senate action sent to the House.
+- 2011-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-11-18 — Mr. LoBiondo asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H7875-7876)
+- 2011-11-18 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H7875-7876)
+- 2011-11-18 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H7875-7876)
+- 2011-11-19 — Presented to President.
+- 2011-11-19 — Presented to President.
+- 2011-11-29 — Became Public Law No: 112-61.
+- 2011-11-29 — Became Public Law No: 112-61.
+- 2011-11-29 — Signed by President.
+- 2011-11-29 — Signed by President.

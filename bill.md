@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 3321
-congress: 112th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 3321
 
-That the bill from the House of Representatives (H.R. 3321) entitled “An Act to facilitate the hosting in the United States of the 34th America’s Cup by authorizing certain eligible vessels to participate in activities related to the competition, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To facilitate the hosting in the United States of the 34th America's Cup by authorizing certain eligible vessels to participate in activities related to the competition, and for other purposes.
 
 ## § 1. Short title
 
