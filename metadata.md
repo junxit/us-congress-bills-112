@@ -1,7 +1,7 @@
 ---
 measure: H.R. 347
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 347
@@ -50,3 +50,7 @@ Federal Restricted Buildings and Grounds Improvement Act of 2011
 - 2011-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 3 (Roll no. 149). (text: CR H1373)
 - 2011-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 3 (Roll no. 149).(text: CR H1373)
 - 2011-03-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2011-11-17 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2011-11-17 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2011-11-17 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2011-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 235.
