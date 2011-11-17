@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2056
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2056
@@ -71,3 +71,17 @@ To instruct the Inspector General of the Federal Deposit Insurance Corporation t
 - 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1221 proposed by Senator Levin.(consideration: CR S7777; text: CR S7777)
 - 2011-11-17 — Senate amendment submitted
 - 2011-11-17 — Senate amendment submitted
+- 2011-11-18 — Message on Senate action sent to the House.
+- 2011-12-19 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Westmoreland objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2011-12-19 — DEBATE - The House proceeded with forty minutes of debate on agreeing to the Senate amendments to H.R. 2056.
+- 2011-12-19 — Mr. Westmoreland moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H9933-9936)
+- 2011-12-20 — Considered as unfinished business. (consideration: CR H9999)
+- 2011-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-20 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendments: CR 12/19/2011 H9933-9934)
+- 2011-12-20 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendments: CR 12/19/2011 H9933-9934)
+- 2011-12-23 — Presented to President.
+- 2011-12-23 — Presented to President.
+- 2012-01-03 — Became Public Law No: 112-88.
+- 2012-01-03 — Became Public Law No: 112-88.
+- 2012-01-03 — Signed by President.
+- 2012-01-03 — Signed by President.
