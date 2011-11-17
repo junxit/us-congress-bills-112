@@ -1,7 +1,7 @@
 ---
 measure: S. 99
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 99
@@ -16,8 +16,9 @@ American Medical Isotopes Production Act of 2011
 
 - Sen. Bingaman, Jeff [D-NM] (B000468)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
+- Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
 ## Committees (1)
@@ -34,3 +35,11 @@ American Medical Isotopes Production Act of 2011
 - 2011-05-18 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 112-17.
 - 2011-05-18 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 112-17.
 - 2011-05-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 53.
+- 2011-11-17 — Amendment SA 1223 agreed to in Senate by Unanimous Consent.
+- 2011-11-17 — Amendment SA 1223 proposed by Senator Levin for Senator Bingaman. (consideration: CR S7780; text: CR S7780) To improve the bill.
+- 2011-11-17 — Measure laid before Senate by unanimous consent. (consideration: CR S7778-7782; text of measure as reported in Senate: CR S7778-7780)
+- 2011-11-17 — Passed Senate with an amendment by Unanimous Consent. (text: CR S7780-7782)
+- 2011-11-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S7780-7782)
+- 2011-11-17 — Senate amendment agreed to: Amendment SA 1223 agreed to in Senate by Unanimous Consent.
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1223 proposed by Senator Levin for Senator Bingaman.(consideration: CR S7780; text: CR S7780)
+- 2011-11-17 — Senate amendment submitted
