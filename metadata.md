@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3004
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3004
@@ -71,9 +71,10 @@ To designate the facility of the United States Postal Service located at 260 Cal
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -92,3 +93,4 @@ To designate the facility of the United States Postal Service located at 260 Cal
 - 2011-11-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2011-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 11/14/2011 H7409)
 - 2011-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 11/14/2011 H7409)
+- 2011-11-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
