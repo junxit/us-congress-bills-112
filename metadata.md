@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1059
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1059
@@ -57,3 +57,17 @@ To protect the safety of judges by extending the authority of the Judicial Confe
 - 2011-11-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 232.
 - 2011-11-17 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7776-7777; text as passed Senate: CR S7777)
 - 2011-11-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7776-7777; text as passed Senate: CR S7777)
+- 2011-11-18 — Message on Senate action sent to the House.
+- 2011-12-19 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Smith (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2011-12-19 — DEBATE - The House proceeded with forty minutes of debate on agreeing to the Senate amendment to H.R. 1059.
+- 2011-12-19 — Mr. Smith (TX) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H9937-9938)
+- 2011-12-20 — Considered as unfinished business. (consideration: CR H9999)
+- 2011-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-20 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR 12/19/2011 H9937-9938)
+- 2011-12-20 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR 12/19/2011 H9937-9938)
+- 2011-12-23 — Presented to President.
+- 2011-12-23 — Presented to President.
+- 2012-01-03 — Became Public Law No: 112-84.
+- 2012-01-03 — Became Public Law No: 112-84.
+- 2012-01-03 — Signed by President.
+- 2012-01-03 — Signed by President.
