@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3321
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3321
@@ -15,6 +15,10 @@ America's Cup Act of 2011
 ## Sponsor
 
 - Rep. Herger, Wally [R-CA-2] (H000528)
+
+## Cosponsors (1)
+
+- Sen. Cantwell, Maria [D-WA] (C000127)
 
 ## Committees (1)
 
@@ -37,3 +41,11 @@ America's Cup Act of 2011
 - 2011-11-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 2, 1 Present (Roll no. 831). (text: CR H7342)
 - 2011-11-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 2, 1 Present (Roll no. 831).(text: CR H7342)
 - 2011-11-07 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 221.
+- 2011-11-17 — Amendment SA 1222 agreed to in Senate by Unanimous Consent.
+- 2011-11-17 — Amendment SA 1222 proposed by Senator Levin for Senator Feinstein. (consideration: CR S7777-7778; text: CR S7777-7778) In the nature of a substitute.
+- 2011-11-17 — Measure laid before Senate by unanimous consent. (consideration: CR S7777-7778)
+- 2011-11-17 — Passed Senate with an amendment by Unanimous Consent.
+- 2011-11-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2011-11-17 — Senate amendment agreed to: Amendment SA 1222 agreed to in Senate by Unanimous Consent.
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1222 proposed by Senator Levin for Senator Feinstein.(consideration: CR S7777-7778; text: CR S7777-7778)
+- 2011-11-17 — Senate amendment submitted

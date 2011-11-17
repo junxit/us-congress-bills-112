@@ -2,12 +2,14 @@
 legis-num: H.R. 3321
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3321
 
-> To facilitate the hosting in the United States of the 34th America’s Cup by authorizing certain eligible vessels to participate in activities related to the competition, and for other purposes.
+That the bill from the House of Representatives (H.R. 3321) entitled “An Act to facilitate the hosting in the United States of the 34th America’s Cup by authorizing certain eligible vessels to participate in activities related to the competition, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -56,10 +58,8 @@ Any vessel participating in the 34th America’s Cup as a competing vessel or su
 
 - **(a)** *In general* Notwithstanding sections 12112 and 12132 and chapter 551 of title 46, United States Code, the Secretary of the department in which the Coast Guard is operating may issue a certificate of documentation with a coastwise endorsement for each of the following vessels:
   - **(1)** M/V GEYSIR (United States official number 622178).
-  - **(2)** MACY–RENEE (United States official number 1107319).
-  - **(3)** OCEAN VERITAS (IMO number 7366805).
-  - **(4)** LUNA (United States official number 280133).
-  - **(5)** IL MORO DI VENEZIA IV (United States official number 1028654).
+  - **(2)** OCEAN VERITAS (IMO number 7366805).
+  - **(3)** LUNA (United States official number 280133).
 - **(b)** *Documentation of LNG tankers*
   - **(1)** *In general* Notwithstanding sections 12112 and 12132 and chapter 551 of title 46, United States Code, the Secretary of the department in which the Coast Guard is operating may issue a certificate of documentation with a coastwise endorsement for each of the following vessels:
     - **(A)** LNG GEMINI (United States official number 595752).
