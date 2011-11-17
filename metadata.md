@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2056
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2056
@@ -59,3 +59,15 @@ To instruct the Inspector General of the Federal Deposit Insurance Corporation t
 - 2011-07-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/26/2011 H5541-5542)
 - 2011-07-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/26/2011 H5541-5542)
 - 2011-07-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2011-11-17 — Amendment SA 1221 agreed to in Senate by Unanimous Consent.
+- 2011-11-17 — Amendment SA 1221 proposed by Senator Levin. (consideration: CR S7777; text: CR S7777) To clarify the types of losses to be studied, to require appearances before Congress, and for other purposes.
+- 2011-11-17 — Measure laid before Senate by unanimous consent. (consideration: CR S7777)
+- 2011-11-17 — Passed Senate with amendments by Unanimous Consent. (text: CR S7777)
+- 2011-11-17 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR S7777)
+- 2011-11-17 — Referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2011-11-17 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2011-11-17 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2011-11-17 — Senate amendment agreed to: Amendment SA 1221 agreed to in Senate by Unanimous Consent.
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1221 proposed by Senator Levin.(consideration: CR S7777; text: CR S7777)
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
