@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2660
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2660
@@ -50,9 +50,10 @@ To designate the facility of the United States Postal Service located at 122 Nor
 - Rep. Neugebauer, Randy [R-TX-19] (N000182)
 - Rep. Marchant, Kenny [R-TX-24] (M001158)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ To designate the facility of the United States Postal Service located at 122 Nor
 - 2011-11-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2011-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 11/14/2011 H7414)
 - 2011-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 11/14/2011 H7414)
+- 2011-11-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
