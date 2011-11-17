@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1791
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1791
@@ -40,9 +40,10 @@ To designate the United States courthouse under construction at 101 South United
 - Rep. Mica, John L. [R-FL-7] (M000689)
 - Rep. Southerland, Steve II [R-FL-2] (S001186)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ To designate the United States courthouse under construction at 101 South United
 - 2011-11-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2011-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 11/14/2011 H7416-7417)
 - 2011-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 11/14/2011 H7416-7417)
+- 2011-11-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
