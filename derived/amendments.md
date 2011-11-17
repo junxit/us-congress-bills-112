@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1059
 congress: 112
-version: Reported to Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,8 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subparagraph (A), by striking “Marshall” and inserting “Marshals”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking subparagraph (E). | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking ‘‘Marshall’’ and inserting “Marshals”; | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (C), by inserting “and the Senate Committee on Homeland Security and Governmental Affairs and the House Committee on Oversight and Government Reform” after “Senate”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E), by striking “2011” both places it appears and inserting “2017”. | the bill names no machine-readable US Code section |

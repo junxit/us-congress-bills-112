@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1059
 congress: 112
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1059
@@ -55,3 +55,5 @@ To protect the safety of judges by extending the authority of the Judicial Confe
 - 2011-11-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. Without written report.
 - 2011-11-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. Without written report.
 - 2011-11-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 232.
+- 2011-11-17 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7776-7777; text as passed Senate: CR S7777)
+- 2011-11-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7776-7777; text as passed Senate: CR S7777)
