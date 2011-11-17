@@ -1,7 +1,7 @@
 ---
 measure: H.R. 822
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 822
@@ -265,9 +265,10 @@ National Right-to-Carry Reciprocity Act of 2011
 - Rep. Hastings, Doc [R-WA-4] (H000329)
 - Rep. Calvert, Ken [R-CA-44] (C000059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (10)
 
@@ -392,3 +393,4 @@ National Right-to-Carry Reciprocity Act of 2011
 - 2011-11-16 — The Speaker designated the Honorable Candice S. Miller to act as Chairwoman of the Committee.
 - 2011-11-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7689)
 - 2011-11-16 — The previous question was ordered pursuant to the rule. (consideration: CR H7687)
+- 2011-11-17 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.

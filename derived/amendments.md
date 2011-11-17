@@ -1,7 +1,7 @@
 ---
 measure: H.R. 822
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Chapter 44 of title 18, United States Code, is amended by inserting after section 926C the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections for such chapter is amended by inserting after the item relating to section 926C the following: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 926C` | insert | Chapter 44 of title 18, United States Code, is amended by inserting after section 926C the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 926C` | insert | The table of sections for such chapter is amended by inserting after the item relating to section 926C the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
