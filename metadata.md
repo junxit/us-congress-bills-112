@@ -1,7 +1,7 @@
 ---
 measure: S. 1541
 congress: 112
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1541
@@ -52,3 +52,17 @@ A bill to revise the Federal charter for the Blue Star Mothers of America, Inc. 
 - 2011-11-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7874)
 - 2011-11-18 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7874)
 - 2011-11-18 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7874)
+- 2011-11-22 — Message on Senate action sent to the House.
+- 2011-11-25 — Held at the desk.
+- 2011-12-06 — Considered under suspension of the rules. (consideration: CR H8173-8174)
+- 2011-12-06 — DEBATE - The House proceeded with forty minutes of debate on S. 1541.
+- 2011-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-06 — Mr. Gohmert moved to suspend the rules and pass the bill.
+- 2011-12-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8173)
+- 2011-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8173)
+- 2011-12-08 — Presented to President.
+- 2011-12-08 — Presented to President.
+- 2011-12-13 — Became Public Law No: 112-65.
+- 2011-12-13 — Became Public Law No: 112-65.
+- 2011-12-13 — Signed by President.
+- 2011-12-13 — Signed by President.

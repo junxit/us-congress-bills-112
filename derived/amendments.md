@@ -1,7 +1,7 @@
 ---
 measure: S. 1541
 congress: 112
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
