@@ -1,7 +1,7 @@
 ---
 measure: H.R. 394
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 394
@@ -65,3 +65,12 @@ Federal Courts Jurisdiction and Venue Clarification Act of 2011
 - 2011-11-18 — Mr. Smith (TX) asked unanimous consent that the House agree with an amendment to the Senate amendments.
 - 2011-11-18 — On motion that the House agree with an amendment to the Senate amendments Agreed to without objection. (consideration: CR H7841; text as House agreed to Senate amendment with an amendment: CR H7841)
 - 2011-11-18 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendments Agreed to without objection.(consideration: CR H7841; text as House agreed to Senate amendment with an amendment: CR H7841)
+- 2011-11-30 — Resolving differences -- Senate actions: Senate agreed to the House amendment to Senate amendment No. 2 by Unanimous Consent.(consideration: CR S8074; text as Senate agreed to House amendment to Senate amendment: CR S8074)
+- 2011-11-30 — Senate agreed to the House amendment to Senate amendment No. 2 by Unanimous Consent. (consideration: CR S8074; text as Senate agreed to House amendment to Senate amendment: CR S8074)
+- 2011-12-01 — Message on Senate action sent to the House.
+- 2011-12-02 — Presented to President.
+- 2011-12-02 — Presented to President.
+- 2011-12-07 — Became Public Law No: 112-63.
+- 2011-12-07 — Became Public Law No: 112-63.
+- 2011-12-07 — Signed by President.
+- 2011-12-07 — Signed by President.
