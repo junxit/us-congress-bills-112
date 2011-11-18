@@ -1,7 +1,7 @@
 ---
 measure: S. 99
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 99
@@ -21,9 +21,12 @@ American Medical Isotopes Production Act of 2011
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Energy and Natural Resources Committee
+- House — Science, Space, and Technology Committee
+- House — Energy and Commerce Committee
+- House — Budget Committee
 
 ## Actions
 
@@ -43,3 +46,9 @@ American Medical Isotopes Production Act of 2011
 - 2011-11-17 — Senate amendment agreed to: Amendment SA 1223 agreed to in Senate by Unanimous Consent.
 - 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1223 proposed by Senator Levin for Senator Bingaman.(consideration: CR S7780; text: CR S7780)
 - 2011-11-17 — Senate amendment submitted
+- 2011-11-18 — Message on Senate action sent to the House.
+- 2011-11-18 — Received in the House.
+- 2011-11-18 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science, Space, and Technology, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-11-18 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science, Space, and Technology, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-11-18 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science, Space, and Technology, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-11-18 — Referred to the Subcommittee on Energy and Power.
