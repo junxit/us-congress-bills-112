@@ -1,7 +1,7 @@
 ---
 measure: H.R. 394
 congress: 112
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 394
@@ -58,3 +58,10 @@ Federal Courts Jurisdiction and Venue Clarification Act of 2011
 - 2011-10-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 200.
 - 2011-10-31 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S6925-6927; text as passed Senate: CR S6925-6927)
 - 2011-10-31 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S6925-6927; text as passed Senate: CR S6925-6927)
+- 2011-11-01 — Message on Senate action sent to the House.
+- 2011-11-18 — House agreed to Senate Amendment No. 1 to the bill (H.R. 394) and agreed to Senate Amendment No. 2 to the bill (H.R. 394) with an amendment.
+- 2011-11-18 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2011-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-11-18 — Mr. Smith (TX) asked unanimous consent that the House agree with an amendment to the Senate amendments.
+- 2011-11-18 — On motion that the House agree with an amendment to the Senate amendments Agreed to without objection. (consideration: CR H7841; text as House agreed to Senate amendment with an amendment: CR H7841)
+- 2011-11-18 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendments Agreed to without objection.(consideration: CR H7841; text as House agreed to Senate amendment with an amendment: CR H7841)
