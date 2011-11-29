@@ -11,13 +11,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Risk-Based Security Screening for Members of The Armed Forces Act”.
+This Act may be cited as the “Risk-Based Security Screening for Members of the Armed Forces Act”.
 
 ## § 2. Security screening for members of the Armed Forces
 
-- **(a)** *In general* Section 44903 of title 49, United States Code (as amended by this Act), is further amended by adding at the end the following:
+- **(a)** *In general* Section 44903 of title 49, United States Code, is amended by adding at the end the following:
   > - **(m)** *Security screening for members of the Armed Forces*
-  >   - **(1)** *In general* The Assistant Secretary shall develop and implement a plan to provide expedited security screening services for a member of the Armed Forces, and any accompanying family member, when the member of the Armed Forces is traveling on official orders while in uniform through a primary airport (as defined by section 47102 of this title).
+  >   - **(1)** *In general* The Assistant Secretary shall develop and implement a plan to provide expedited security screening services for a member of the Armed Forces, and any accompanying family member, when the member of the Armed Forces presents documentation indicating official orders while in uniform through a primary airport (as defined by section 47102 of this title).
   >   - **(2)** *Protocols* In developing the plan, the Assistant Secretary shall consider—
   >     - **(A)** leveraging existing security screening models used by airports and air carriers to reduce passenger wait times before entering a security screening checkpoint;
   >     - **(B)** establishing standard guidelines for the screening of military uniform items, including combat boots; and

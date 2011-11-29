@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1801
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1801
@@ -27,6 +27,10 @@ Risk-Based Security Screening for Members of the Armed Forces Act
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2011-11-29 — [House 112-1-862](votes/house-112-1-0862.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (404–0)
+
 ## Actions
 
 - 2011-05-10 — Introduced in House
@@ -40,3 +44,11 @@ Risk-Based Security Screening for Members of the Armed Forces Act
 - 2011-11-04 — Placed on the Union Calendar, Calendar No. 182.
 - 2011-11-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-271.
 - 2011-11-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-271.
+- 2011-11-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-11-29 — Considered as unfinished business. (consideration: CR H7917-7918)
+- 2011-11-29 — Considered under suspension of the rules. (consideration: CR H7907-7908)
+- 2011-11-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1801.
+- 2011-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-11-29 — Mr. Cravaack moved to suspend the rules and pass the bill, as amended.
+- 2011-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 862). (text: CR H7907)
+- 2011-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 862).(text: CR H7907)
