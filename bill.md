@@ -18,7 +18,7 @@ This Act may be cited as the “Federal Workers’ Compensation Modernization an
 - **(a)** *Definition of medical services* Section 8101(3) of title 5, United States Code, is amended—
   - **(1)** by striking “law. Reimbursable” and inserting “law (reimbursable”; and
   - **(2)** by inserting before the semicolon, the following: “, and medical services may include treatment by a physician assistant or advanced practice nurse, such as a nurse practitioner, within the scope of their practice as defined by State law, consistent with regulations prescribed by the Secretary of Labor)”.
-- **(b)** *Medical services and other Benefits* Section 8103(a) of title 5, United States Code, is amended—
+- **(b)** *Medical services and other Benefits* Section 8103 of title 5, United States Code, is amended—
   - **(1)** by redesignating subsection (b) as subsection (c); and
   - **(2)** by inserting after subsection (a), the following:
     > - **(b)** Medical services furnished or prescribed pursuant to subsection (a) may include treatment by a physician assistant or advanced practice nurse, such as a nurse practitioner, within the scope of their practice as defined by State law, consistent with regulations prescribed by the Secretary of Labor.
@@ -29,18 +29,16 @@ This Act may be cited as the “Federal Workers’ Compensation Modernization an
 
 Section 8102(b) of title 5, United States Code, is amended in the matter preceding paragraph (1)—
 
-- **(1)** by inserting “or from an attack by a terrorist or terrorist organization, either known or unknown,” after “force or individual,” and
+- **(1)** by inserting “or from an attack by a terrorist or terrorist organization, either known or unknown,” after “force or individual,”; and
 - **(2)** by striking “outside” and all that follows through “1979)” and inserting “outside of the United States”.
 
 ## § 4. Disfigurement
 
 Section 8107(c)(21) of title 5, United States Code—
 
-- **(1)** by striking “For” and inserting the following:
-  > - **(A)** Except as provided under subparagraph (B), for
-
+- **(1)** by striking “For” and inserting the following: “(A) Except as provided under subparagraph (B), for”; and
 - **(2)** by adding at the end the following:
-  > - **(B)** Notwithstanding subparagraph (A), for an injury occurring during the 3-year period prior to the date of enactment of the Federal Workers’ Compensation Modernization and Improvement Act for which the Secretary has not made a compensation determination on disfigurement under subparagraph (A), or for an injury occurring on or after the date of enactment of such Act resulting in a serious disfigurement of the face, head, or neck, proper and equitable compensation in proportion to the severity of the disfigurement, not to exceed $50,000, as determined by the Secretary, shall be awarded in addition to any other compensation payable under this schedule. The applicable maximum compensation for disfigurement provided under this subparagraph shall be adjusted annually on March 1 in accordance with the percentage amount determined by the cost of living adjustment in section 8146a.
+  > - **(B)** Notwithstanding subparagraph (A), for an injury occurring during the 3-year period prior to the date of enactment of the Federal Workers’ Compensation Modernization and Improvement Act for which the Secretary of Labor has not made a compensation determination on disfigurement under subparagraph (A), or for an injury occurring on or after the date of enactment of such Act resulting in a serious disfigurement of the face, head, or neck, proper and equitable compensation in proportion to the severity of the disfigurement, not to exceed $50,000, as determined by the Secretary, shall be awarded in addition to any other compensation payable under this schedule. The applicable maximum compensation for disfigurement provided under this subparagraph shall be adjusted annually on March 1 in accordance with the percentage amount determined by the cost of living adjustment in section 8146a.
 
 ## § 5. Social Security Earnings Information
 
@@ -60,7 +58,7 @@ Section 8118 of title 5, United States Code, is amended—
   > - **(e)** *Continuation of pay in a zone of armed conflict*
   >   - **(1)** *In general* Notwithstanding subsection (a), the United States shall authorize the continuation of pay of an employee as defined in section 8101(1) of this title (other than those referred to in subparagraph (B) or (E)), who has filed a claim for a period of wage loss due to traumatic injury in performance of duty in a zone of armed conflict (as so determined by the Secretary of Labor under paragraph (3)), as long as the employee files a claim for such wage loss benefit with his immediate superior not later than 45 days following termination of assignment to the zone of armed conflict or return to the United States, whichever occurs later.
   >   - **(2)** *Continuation of pay* Notwithstanding subsection (b), continuation of pay under this subsection shall be furnished for a period not to exceed 135 days without any break in time or waiting period, unless controverted under regulations prescribed by the Secretary of Labor.
-  >   - **(3)** *Determination of zones of armed conflict* For purposes of this subsection, the Secretary of Labor, in consultation with the Secretary of State and the Secretary of Defense, shall determine whether a foreign country or other foreign geographic area outside of the United States (as that term is defined in section 202(7) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4302(7)) is a zone of armed conflict based on whether—
+  >   - **(3)** *Determination of zones of armed conflict* For purposes of this subsection, the Secretary of Labor, in consultation with the Secretary of State and the Secretary of Defense, shall determine whether a foreign country or other foreign geographic area outside of the United States (as that term is defined in section 202(7) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4302(7))) is a zone of armed conflict based on whether—
   >     - **(A)** the Armed Forces of the United States are involved in hostilities in the country or area;
   >     - **(B)** the incidence of civil insurrection, civil war, terrorism, or wartime conditions threatens physical harm or imminent danger to the health or well-being of United States civilian employees in the country or area;
   >     - **(C)** the country or area has been designated a combat zone by the President under section 112(c) of the Internal Revenue Code of 1986 (26 U.S.C. 112(c));
@@ -104,3 +102,7 @@ Section 8101(1)(D) of title 5, United States Code, is amended by inserting befor
 ## § 11. Effective date
 
 Except as otherwise provided, this Act and the amendments made by this Act, shall take effect 60 days after the date of enactment of this Act.
+
+## § 12. Paygo compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.

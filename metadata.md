@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2465
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2465
@@ -31,3 +31,11 @@ Federal Workers' Compensation Modernization and Improvement Act
 - 2011-07-08 — Introduced in House
 - 2011-07-08 — Introduced in House
 - 2011-07-08 — Referred to the House Committee on Education and the Workforce.
+- 2011-07-13 — Committee Consideration and Mark-up Session Held.
+- 2011-07-13 — Ordered to be Reported by Voice Vote.
+- 2011-11-29 — Considered under suspension of the rules. (consideration: CR H7908-7916)
+- 2011-11-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2465.
+- 2011-11-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-11-29 — Mr. Walberg moved to suspend the rules and pass the bill, as amended.
+- 2011-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7908-7909)
+- 2011-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7908-7909)

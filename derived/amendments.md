@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2465
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -36,10 +36,10 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subsection (b) as subsection (c); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a), the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 8121(6) of title 5, United States Code, is amended by inserting before the period, the following: “(except that in a case of a traumatic injury, a physician assistant or advanced practice nurse, such as a nurse practitioner, with… | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or from an attack by a terrorist or terrorist organization, either known or unknown,” after “force or individual,” and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or from an attack by a terrorist or terrorist organization, either known or unknown,” after “force or individual,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “outside” and all that follows through “1979)” and inserting “outside of the United States”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “For” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “For” and inserting the following: “(A) Except as provided under subparagraph (B), for”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 8116 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “Continuation” and inserting “Except as provided under subsection (e)(2), continuation”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “subsections (a) and (b)” and inserting “subsections (a) and (b) or subsection (e),”; | the bill names no machine-readable US Code section |
