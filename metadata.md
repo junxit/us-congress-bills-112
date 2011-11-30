@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2192
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2192
@@ -51,3 +51,4 @@ National Guard and Reservist Debt Relief Extension Act of 2011
 - 2011-11-29 — Mr. Chaffetz moved to suspend the rules and pass the bill.
 - 2011-11-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 407 - 1 (Roll No. 861). (text: CR H7906)
 - 2011-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 407 - 1 (Roll No. 861).(text: CR H7906)
+- 2011-11-30 — Received in the Senate, read twice.
