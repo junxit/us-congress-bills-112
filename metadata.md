@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1801
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1801
@@ -23,9 +23,10 @@ Risk-Based Security Screening for Members of the Armed Forces Act
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Risk-Based Security Screening for Members of the Armed Forces Act
 - 2011-11-29 — Mr. Cravaack moved to suspend the rules and pass the bill, as amended.
 - 2011-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 862). (text: CR H7907)
 - 2011-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 862).(text: CR H7907)
+- 2011-11-30 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
