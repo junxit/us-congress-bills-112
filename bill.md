@@ -1,0 +1,30 @@
+---
+legis-num: S. RES. 341
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 341
+
+> Designating the first full week of December in 2011 as “National Christmas Tree Week”.
+
+## Preamble
+
+- Whereas Christmas trees are grown in all 50 States;
+- Whereas Christmas trees have been sold commercially in the United States since about 1850;
+- Whereas Edward Johnson, assistant to Thomas Edison, came up with the idea of electric lights for Christmas trees in 1882;
+- Whereas President Calvin Coolidge started the National Christmas Tree Lighting ceremony on the White House lawn in 1923;
+- Whereas there are close to 15,000 farms growing Christmas trees in the United States;
+- Whereas there are approximately 100,000 people employed full or part-time in the Christmas tree industry;
+- Whereas Christmas tree farms in the United States planted approximately 35,000,000 Christmas trees in 2011 to replace those harvested in 2010; and
+- Whereas growing Christmas trees preserves green space and small family-owned farms, provides habitats for wildlife, and sequesters carbon dioxide: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** designates the first full week of December in 2011 as “National Christmas Tree Week”;
+- **(2)** encourages the celebration of Christmas trees during that week;
+- **(3)** recognizes the role Christmas trees have played in the history of the United States;
+- **(4)** reaffirms the environmental benefits of Christmas tree farms and recycled Christmas trees;
+- **(5)** encourages the recycling of Christmas trees after the holiday season; and
+- **(6)** celebrates the joy Christmas trees bring to families across the United States.
