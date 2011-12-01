@@ -23,6 +23,18 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the Jasmine Revolution was largely a reaction to long-accumulated economic grievances, ongoing high unemployment and poor economic conditions sustain the potential to drive future political protestations;
 - Whereas the United States and Tunisia have enjoyed friendly relations for more than 200 years; and
 - Whereas the United States was among the first countries to recognize Tunisian independence in 1956: Now, therefore, be it
+- Whereas on January 14, 2011, a peaceful mass protest movement in Tunisia successfully brought to an end the authoritarian rule of President Zine el-Abidine Ben Ali;
+- Whereas Tunisia’s peaceful “Jasmine Revolution” was the first of several movements throughout the Middle East and North Africa and inspired democracy and human rights activists throughout the region and around the world;
+- Whereas Tunisia, in the wake of Ben Ali’s resignation, began a transition to democracy that has been broadly inclusive, consensus-based, and civilian-led;
+- Whereas on October 23, 2011, Tunisia conducted the first competitive, multi-party democratic election of the Arab Spring, which involved dozens of political parties and hundreds of independent candidates competing for a 217-member National Constituent Assembly;
+- Whereas more than 50 percent of all eligible voters and nearly 90 percent of registered voters participated in the October 23 election;
+- Whereas Tunisia's Independent Electoral Commission welcomed and accredited a robust domestic and international election observer presence, including 3 independent delegations from the United States;
+- Whereas election observers have broadly characterized the October 23 election as free, fair, and consistent with international standards;
+- Whereas roughly 25 percent of the seats in the National Constituent Assembly were won by women;
+- Whereas the newly-elected National Constituent Assembly is tasked with drafting a new constitution to guide Tunisia’s transition towards a representative democracy that reflects the aspirations of the Tunisian people;
+- Whereas the Jasmine Revolution was largely a reaction to long-accumulated economic grievances, and ongoing high unemployment and poor economic conditions sustain the potential to drive future political protestations;
+- Whereas the United States and Tunisia have enjoyed friendly relations for more than 200 years; and
+- Whereas the United States was among the first countries to recognize Tunisian independence in 1956: Now, therefore, be it
 
 That the Senate—
 
