@@ -1,7 +1,7 @@
 ---
 measure: S. 1792
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1792
@@ -16,6 +16,15 @@ Strengthening Investigations of Sex Offenders and Missing Children Act of 2011
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 
+## Cosponsors (6)
+
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+
 ## Committees (1)
 
 - Senate — Judiciary Committee
@@ -24,3 +33,7 @@ Strengthening Investigations of Sex Offenders and Missing Children Act of 2011
 
 - 2011-11-02 — Introduced in Senate
 - 2011-11-02 — Read twice and referred to the Committee on the Judiciary.
+- 2011-12-01 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2011-12-01 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2011-12-01 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2011-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 246.
