@@ -1,7 +1,7 @@
 ---
 measure: S. 535
 congress: 112
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 535
@@ -39,3 +39,8 @@ Fort Pulaski National Monument Lease Authorization Act
 - 2011-11-03 — Message on Senate action sent to the House.
 - 2011-11-03 — Received in the House.
 - 2011-11-03 — Referred to the House Committee on Natural Resources.
+- 2011-11-17 — Committee Consideration and Mark-up Session Held.
+- 2011-11-17 — Ordered to be Reported by Unanimous Consent.
+- 2011-12-01 — Placed on the Union Calendar, Calendar No. 198.
+- 2011-12-01 — Reported by the Committee on Natural Resources. H. Rept. 112-298.
+- 2011-12-01 — Reported by the Committee on Natural Resources. H. Rept. 112-298.
