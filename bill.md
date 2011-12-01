@@ -88,7 +88,17 @@ Section 60102 is amended—
 - **(e)** *Technical correction* Section 60109(c)(3)(B) is amended to read as follows:
   > - **(B)** Subject to paragraph (5), periodic reassessments of the facility, at a minimum of once every 7 calendar years, using methods described in subparagraph (A). Such deadline shall be extended for an additional 6 months if the operator submits written notice to the Secretary that includes an explanation of the need for the extension.
 
-- **(f)** *Prohibition* Notwithstanding the authority of the Secretary under section 60102 of title 49, United States Code, the Secretary shall not expand integrity management system requirements, or elements thereof, beyond high consequence areas.
+- **(f)** *Rulemaking requirements*
+  - **(1)** *Review period defined* In this subsection, the term “review period” means the period beginning on the date of enactment of this Act and ending on the earlier of—
+    - **(A)** the date that is 1 year after the date of completion of the report under subsection (c); or
+    - **(B)** the date that is 3 years after the date of enactment of this Act.
+  - **(2)** *Congressional authority* In order to provide Congress the necessary time to review the results of the report required by subsection (c) and implement appropriate recommendations, the Secretary shall not, during the review period, proceed with a rulemaking to prescribe regulations described in paragraph (3).
+  - **(3)** *Standards* Following the review period, the Secretary may, as appropriate, prescribe regulations that—
+    - **(A)** expand integrity management system requirements, or elements thereof, beyond high consequence areas; and
+    - **(B)** remove redundant class location requirements for gas transmission pipeline facilities that are regulated under an integrity management program adopted and implemented under section 60109(c)(2) of title 49, United States Code.
+  - **(4)** *Savings clause*
+    - **(A)** *In general* Notwithstanding any other provision of this subsection, the Secretary, during the review period, may proceed to a rulemaking to prescribe regulations described in paragraph (3), and may prescribe the regulations, if the Secretary determines that a condition that poses a risk to public safety, property, or the environment is present or an imminent hazard exists and that the rulemaking will address the risk or hazard.
+    - **(B)** *Imminent hazard defined* In subparagraph (A), the term “imminent hazard” means the existence of a condition related to pipelines or pipeline operations that presents a substantial likelihood that death, serious illness, severe personal injury, or substantial endangerment to health, property, or the environment may occur.
 - **(g)** *Report to Congress on risk-Based pipeline reassessment intervals* Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall evaluate—
   - **(1)** whether risk-based reassessment intervals are a more effective alternative for managing risks to pipelines in high-consequence areas once baseline assessments are complete when compared to a 7-year reassessment interval;
   - **(2)** the number of anomalies found in baseline assessments required under section 60109(c)(3)(A) of title 49, United States Code, as compared to the number of anomalies found in reassessments required under section 60109(c)(3)(B) of such title; and
@@ -122,7 +132,17 @@ Section 60102 is amended—
   - **(2)** *Contents* The report shall include—
     - **(A)** an analysis of the technical limitations of current leak detection systems, including the systems’ ability to detect ruptures and small leaks that are ongoing or intermittent, and what can be done to foster development of better technologies; and
     - **(B)** an analysis of the feasibility of establishing technically, operationally, and economically feasible standards for the capability of such systems to detect leaks, and the safety benefits and adverse consequences of requiring operators to use leak detection systems.
-- **(b)** *Prohibition* Notwithstanding the authority of the Secretary under section 60102 of title 49, United States Code, the Secretary shall not issue regulations establishing standards for the capability of leak detection systems or requiring operators to use leak detection systems.
+- **(b)** *Rulemaking requirements*
+  - **(1)** *Review period defined* In this subsection, the term “review period” means the period beginning on the date of enactment of this Act and ending on the earlier of—
+    - **(A)** the date that is 1 year after the date of completion of the report under subsection (a); or
+    - **(B)** the date that is 2 years after the date of enactment of this Act.
+  - **(2)** *Congressional authority* In order to provide Congress the necessary time to review the results of the report required by subsection (a) and implement appropriate recommendations, the Secretary shall not, during the review period, proceed with a rulemaking to prescribe regulations described in paragraph (3).
+  - **(3)** *Standards* Following the review period, the Secretary may, as appropriate, prescribe regulations that—
+    - **(A)** require operators of hazardous liquid pipeline facilities to use leak detection systems; and
+    - **(B)** establish technically, operationally, and economically feasible standards for the capability of such systems to detect leaks.
+  - **(4)** *Savings clause*
+    - **(A)** *In general* Notwithstanding any other provision of this subsection, the Secretary, during the review period, may proceed to a rulemaking to prescribe regulations described in paragraph (3), and may prescribe the regulations, if the Secretary determines that a condition that poses a risk to public safety, property, or the environment is present or an imminent hazard exists and that the rulemaking will address the risk or hazard.
+    - **(B)** *Imminent hazard defined* In subparagraph (A), the term “imminent hazard” means the existence of a condition related to pipelines or pipeline operations that presents a substantial likelihood that death, serious illness, severe personal injury, or substantial endangerment to health, property, or the environment may occur.
 
 ## § 9. Accident and incident notification
 

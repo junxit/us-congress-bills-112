@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2845
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,15 +35,15 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the last sentence by striking “$1,000,000” and inserting “$1,750,000”; and | the bill names no machine-readable US Code section |
 | — | strike | in subsection (b)(1)(B) by striking “the ability to pay,”. | the bill names no machine-readable US Code section |
 | — | amend | Section 60118(e) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 60120(a)(1) is amended by adding at the end the following: “The maximum amount of civil penalties for administrative enforcement actions under section 60122 shall not apply to enforcement actions under this section.”. | the bill names no machine-readable US Code section |
+| — | amend | Section 60120(a)(1) is amended by adding at the end the following: “The maximum amount of civil penalties for administrative enforcement actions under section 60122 shall not apply to enforcement actions under this section.”. | the bill names no machine-readable US Code section |
 | — | replace | in the subsection heading by striking “and Waiver Orders” and inserting “, Orders, and Other Final Agency Actions”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “about an application for a waiver under section 60118(c) or (d) of this title” and inserting “under this chapter”. | the bill names no machine-readable US Code section |
 | — | amend | Section 6103(a) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1) by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(B) by striking “(b).” and inserting “(b); and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (j)(3); and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 60109(c)(3)(B) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 60108(d) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Subparagraphs (A) and (B) of section 311(m)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1321(m)(2)) are each amended by striking “Administrator or” and inserting “Administrator, the Secretary of Transportation, or”. | the bill names no machine-readable US Code section |
