@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2842
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,4 +35,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “(1) shall” and inserting “(A) shall”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “(2) shall” and inserting “(B) shall”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “respecting the terms of sales of electric power and leases of power privileges shall be in addition and alternative to any authority in existing laws relating to particular projects” and inserting “respecting the sales of el… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
