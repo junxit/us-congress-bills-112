@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1556
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
