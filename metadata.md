@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2803
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2803
@@ -25,3 +25,11 @@ To direct the Secretary of the Interior, acting through the Bureau of Ocean Ener
 - 2011-08-05 — Introduced in House
 - 2011-08-05 — Introduced in House
 - 2011-08-05 — Referred to the House Committee on Natural Resources.
+- 2011-08-08 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2011-09-13 — Subcommittee Hearings Held.
+- 2011-10-05 — Committee Consideration and Mark-up Session Held.
+- 2011-10-05 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2011-10-05 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2011-12-01 — Placed on the Union Calendar, Calendar No. 202.
+- 2011-12-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-302.
+- 2011-12-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-302.
