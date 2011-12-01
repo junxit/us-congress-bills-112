@@ -49,7 +49,7 @@ In this Act:
   - **(A)** are located in the State;
   - **(B)** are located outside of the boundaries of the Reservation;
   - **(C)** consist of approximately 5,000 acres;
-  - **(D)** are generally depicted on the map entitled “Federal Coal Land Conveyance” and dated ______; and
+  - **(D)** are generally depicted on the map entitled “Federal Coal Land Conveyance” and dated March 18, 2011; and
   - **(E)** are comprised of land located in—
     - **(i)** T. 3 S., R. 44 E., sec. 26, S½;
     - **(ii)** T. 3 S., R. 44 E., sec. 34;
@@ -75,7 +75,7 @@ In this Act:
 
 ## § 5. Terms and conditions of mineral conveyances
 
-- **(a)** *Waiver of legal claims* In return for the mineral conveyances under section 4(a), the Tribe shall waive each claim relating to the failure of the United States to acquire in trust for the Tribe as part of the Reservation the private mineral interests underlying the Cheyenne tracts.
+- **(a)** *Waiver of legal claims* In return for the mineral conveyances under section 4(a), the Tribe shall waive any and all claims arising from the continuing failure of the United States to acquire in trust for the Tribe as part of the Reservation the mineral rights underlying approximately 5,000 acres of Reservation land (the Cheyenne Tracts) as directed by Congress in 1900.
 - **(b)** *Condition* As a condition of the mineral conveyances by the Secretary under section 4(a), the Tribe and Great Northern Properties shall jointly notify the Secretary in writing that the Tribe and Great Northern Properties have agreed on a formula for the sharing of revenue from coal produced from any portion of the Federal tracts.
 - **(c)** *Completion of mineral conveyances* Notwithstanding any other Federal law (including regulations) that otherwise applies to the conveyance of any Federal coal right, title, or interest, after satisfaction of the condition described in subsection (b) and not later than 90 days after the date on which the Secretary receives written notification under subsection (b), the mineral conveyances under section 4(a) shall be completed in a single transaction.
 - **(d)** *Rescission of mineral conveyances*
@@ -84,11 +84,7 @@ In this Act:
 
 ## § 6. Eligibility for other Federal benefits
 
-No sums or other benefits provided to the Tribe under this Act shall result in the reduction or denial of any Federal services, benefits, or programs to the Tribe or to any member of the Tribe to which the Tribe or member is entitled or eligible because of—
+No benefits provided to the Tribe under this Act shall result in the reduction or denial of any Federal services, benefits, or programs to the Tribe or to any member of the Tribe to which the Tribe or member is entitled or eligible because of—
 
 - **(1)** the status of the Tribe as a federally recognized Indian tribe; or
 - **(2)** the status of the member as a member of the Tribe.
-
-## § 7. Authorization of appropriations
-
-There are authorized to be appropriated to carry out this Act such sums as are necessary.
