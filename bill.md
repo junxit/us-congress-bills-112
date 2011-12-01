@@ -28,7 +28,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** *Initial regulatory flexibility analysis* Subsection (c) of section 603 of title 5, United States Code, is amended by striking the first sentence and inserting “Each initial regulatory flexibility analysis shall also contain a detailed description of alternatives to the proposed rule which minimize any adverse significant economic impact or maximize any beneficial significant economic impact on small entities.”.
   - **(2)** *Final regulatory flexibility analysis* The first paragraph (6) of section 604(a) of title 5, United States Code, is amended by striking “minimize the significant economic impact” and inserting “minimize the adverse significant economic impact or maximize the beneficial significant economic impact”.
 - **(d)** *Inclusion of rules affecting tribal organizations* Paragraph (5) of section 601 of title 5, United States Code, is amended by inserting “and tribal organizations (as defined in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l))),” after “special districts,”.
-- **(e)** *Inclusion of land management plans and formal rulemaking*
+- **(e)** *Inclusion of land management plans and formal rule making*
   - **(1)** *Initial regulatory flexibility analysis* Subsection (a) of section 603 of title 5, United States Code, is amended in the first sentence—
     - **(A)** by striking “or” after “proposed rule,”; and
     - **(B)** by inserting “or publishes a revision or amendment to a land management plan,” after “United States,”.
@@ -63,7 +63,20 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(B)** *Local labor organizations* In the case of any local labor organization, subparagraph (A) shall be applied without regard to any national or international organization of which such local labor organization is a part.
   >   - **(C)** *Agency definitions* Subparagraphs (A) and (B) shall not apply to the extent that an agency, after consultation with the Office of Advocacy of the Small Business Administration and after opportunity for public comment, establishes one or more definitions for such term which are appropriate to the activities of the agency and publishes such definitions in the Federal Register.
 
-## § 3. Requirements providing for more detailed analyses
+## § 3. Expansion of report of regulatory agenda
+
+Section 602 of title 5, United States Code, is amended—
+
+- **(1)** in subsection (a)—
+  - **(A)** in paragraph (2), by striking “, and” at the end and inserting “;”;
+  - **(B)** by redesignating paragraph (3) as paragraph (4); and
+  - **(C)** by inserting after paragraph (2) the following:
+    > - **(3)** a brief description of the sector of the North American Industrial Classification System that is primarily affected by any rule which the agency expects to propose or promulgate which is likely to have a significant economic impact on a substantial number of small entities; and
+
+- **(2)** in subsection (c), to read as follows:
+  > - **(c)** Each agency shall prominently display a plain language summary of the information contained in the regulatory flexibility agenda published under subsection (a) on its website within 3 days of its publication in the Federal Register. The Office of Advocacy of the Small Business Administration shall compile and prominently display a plain language summary of the regulatory agendas referenced in subsection (a) for each agency on its website within 3 days of their publication in the Federal Register.
+
+## § 4. Requirements providing for more detailed analyses
 
 - **(a)** *Initial regulatory flexibility analysis* Subsection (b) of section 603 of title 5, United States Code, is amended to read as follows:
   > - **(b)** Each initial regulatory flexibility analysis required under this section shall contain a detailed statement—
@@ -72,7 +85,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(3)** estimating the number and type of small entities to which the proposed rule will apply;
   >   - **(4)** describing the projected reporting, recordkeeping, and other compliance requirements of the proposed rule, including an estimate of the classes of small entities which will be subject to the requirement and the type of professional skills necessary for preparation of the report and record;
   >   - **(5)** describing all relevant Federal rules which may duplicate, overlap, or conflict with the proposed rule, or the reasons why such a description could not be provided;
-  >   - **(6)** estimating the additional cumulative economic impact of the proposed rule on small entities beyond that already imposed on the class of small entities by the agency or why such an estimate is not available; and
+  >   - **(6)** estimating the additional cumulative economic impact of the proposed rule, or the cumulative impact of any other rule stemming from the implementation of the Free Trade Agreements, on small entities beyond that already imposed on the class of small entities by the agency or why such an estimate is not available; and
   >   - **(7)** describing any disproportionate economic impact on small entities or a specific class of small entities.
 
 - **(b)** *Final regulatory flexibility analysis*
@@ -86,7 +99,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(3)** *Publication of analysis on website* Subsection (b) of section 604 of title 5, United States Code, is amended to read as follows:
     > - **(b)** The agency shall make copies of the final regulatory flexibility analysis available to the public, including placement of the entire analysis on the agency’s website, and shall publish in the Federal Register the final regulatory flexibility analysis, or a summary thereof which includes the telephone number, mailing address, and link to the website where the complete analysis may be obtained.
 
-- **(c)** *Cross-References to other analyses* Subsection (a) of section 605 of title 5, United States Code, is amended to read as follows:
+- **(c)** *Cross-references to other analyses* Subsection (a) of section 605 of title 5, United States Code, is amended to read as follows:
   > - **(a)** A Federal agency shall be treated as satisfying any requirement regarding the content of an agenda or regulatory flexibility analysis under section 602, 603, or 604, if such agency provides in such agenda or analysis a cross-reference to the specific portion of another agenda or analysis which is required by any other law and which satisfies such requirement.
 
 - **(d)** *Certifications* Subsection (b) of section 605 of title 5, United States Code, is amended—
@@ -100,7 +113,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   > - **(1)** a quantifiable or numerical description of the effects of the proposed or final rule and alternatives to the proposed or final rule; or
   > - **(2)** a more general descriptive statement and a detailed statement explaining why quantification is not practicable or reliable.
 
-## § 4. Repeal of waiver and delay authority; additional powers of the Chief Counsel for Advocacy
+## § 5. Repeal of waiver and delay authority; Additional powers of the Chief Counsel for Advocacy
 
 - **(a)** *In general* Section 608 is amended to read as follows:
   > ## § 608. Additional powers of Chief Counsel for Advocacy
@@ -119,7 +132,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(B)** by striking “(3)(A) A small entity” and inserting the following:
       > - **(3)** A small entity
 
-## § 5. Procedures for gathering comments
+## § 6. Procedures for gathering comments
 
 Section 609 of title 5, United States Code, is amended by striking subsection (b) and all that follows through the end of the section and inserting the following:
 
@@ -135,7 +148,7 @@ Section 609 of title 5, United States Code, is amended by striking subsection (b
 >   - **(2)** convene a review panel consisting of an employee from the Office of Advocacy of the Small Business Administration, an employee from the agency making the rule, and in the case of an agency other than an independent regulatory agency (as defined in section 3502(5) of title 44), an employee from the Office of Information and Regulatory Affairs of the Office of Management and Budget to review the materials and information provided to the Chief Counsel under subsection (b).
 > - **(d)**
 >   - **(1)** Not later than 60 days after the review panel described in subsection (c)(2) is convened, the Chief Counsel for Advocacy of the Small Business Administration shall, after consultation with the members of such panel, submit a report to the agency and, in the case of an agency other than an independent regulatory agency (as defined in section 3502(5) of title 44), the Office of Information and Regulatory Affairs of the Office of Management and Budget.
->   - **(2)** Such report shall include an assessment of the economic impact of the proposed rule on small entities and a discussion of any alternatives that will minimize adverse significant economic impacts or maximize beneficial significant economic impacts on small entities.
+>   - **(2)** Such report shall include an assessment of the economic impact of the proposed rule on small entities, including an assessment of the proposed rule’s impact on the cost that small entities pay for energy, and a discussion of any alternatives that will minimize adverse significant economic impacts or maximize beneficial significant economic impacts on small entities.
 >   - **(3)** Such report shall become part of the rulemaking record. In the publication of the proposed rule, the agency shall explain what actions, if any, the agency took in response to such report.
 > - **(e)** A proposed rule is described by this subsection if the Administrator of the Office of Information and Regulatory Affairs of the Office of Management and Budget, the head of the agency (or the delegatee of the head of the agency), or an independent regulatory agency determines that the proposed rule is likely to result in—
 >   - **(1)** an annual effect on the economy of $100,000,000 or more;
@@ -144,7 +157,7 @@ Section 609 of title 5, United States Code, is amended by striking subsection (b
 >   - **(4)** a significant economic impact on a substantial number of small entities.
 > - **(f)** Upon application by the agency, the Chief Counsel for Advocacy of the Small Business Administration may waive the requirements of subsections (b) through (e) if the Chief Counsel determines that compliance with the requirements of such subsections are impracticable, unnecessary, or contrary to the public interest.
 
-## § 6. Periodic review of rules
+## § 7. Periodic review of rules
 
 Section 610 of title 5, United States Code, is amended to read as follows:
 
@@ -152,18 +165,19 @@ Section 610 of title 5, United States Code, is amended to read as follows:
 >
 > - **(a)** Not later than 180 days after the enactment of the Regulatory Flexibility Improvements Act of 2011, each agency shall publish in the Federal Register and place on its website a plan for the periodic review of rules issued by the agency which the head of the agency determines have a significant economic impact on a substantial number of small entities. Such determination shall be made without regard to whether the agency performed an analysis under section 604. The purpose of the review shall be to determine whether such rules should be continued without change, or should be amended or rescinded, consistent with the stated objectives of applicable statutes, to minimize any adverse significant economic impacts or maximize any beneficial significant economic impacts on a substantial number of small entities. Such plan may be amended by the agency at any time by publishing the revision in the Federal Register and subsequently placing the amended plan on the agency’s website.
 > - **(b)** The plan shall provide for the review of all such agency rules existing on the date of the enactment of the Regulatory Flexibility Improvements Act of 2011 within 10 years of the date of publication of the plan in the Federal Register and for review of rules adopted after the date of enactment of the Regulatory Flexibility Improvements Act of 2011 within 10 years after the publication of the final rule in the Federal Register. If the head of the agency determines that completion of the review of existing rules is not feasible by the established date, the head of the agency shall so certify in a statement published in the Federal Register and may extend the review for not longer than 2 years after publication of notice of extension in the Federal Register. Such certification and notice shall be sent to the Chief Counsel for Advocacy of the Small Business Administration and the Congress.
-> - **(c)** Each agency shall annually submit a report regarding the results of its review pursuant to such plan to the Congress, the Chief Counsel for Advocacy of the Small Business Administration, and, in the case of agencies other than independent regulatory agencies (as defined in section 3502(5) of title 44) to the Administrator of the Office of Information and Regulatory Affairs of the Office of Management and Budget. Such report shall include the identification of any rule with respect to which the head of the agency made a determination described in paragraph (5) or (6) of subsection (d) and a detailed explanation of the reasons for such determination.
-> - **(d)** In reviewing a rule pursuant to subsections (a) through (c), the agency shall amend or rescind the rule to minimize any adverse significant economic impact on a substantial number of small entities or disproportionate economic impact on a specific class of small entities, or maximize any beneficial significant economic impact of the rule on a substantial number of small entities to the greatest extent possible, consistent with the stated objectives of applicable statutes. In amending or rescinding the rule, the agency shall consider the following factors:
+> - **(c)** The plan shall include a section that details how an agency will conduct outreach to and meaningfully include small businesses for the purposes of carrying out this section. The agency shall include in this section a plan for how the agency will contact small businesses and gather their input on existing agency rules.
+> - **(d)** Each agency shall annually submit a report regarding the results of its review pursuant to such plan to the Congress, the Chief Counsel for Advocacy of the Small Business Administration, and, in the case of agencies other than independent regulatory agencies (as defined in section 3502(5) of title 44) to the Administrator of the Office of Information and Regulatory Affairs of the Office of Management and Budget. Such report shall include the identification of any rule with respect to which the head of the agency made a determination described in paragraph (5) or (6) of subsection (e) and a detailed explanation of the reasons for such determination.
+> - **(e)** In reviewing a rule pursuant to subsections (a) through (d), the agency shall amend or rescind the rule to minimize any adverse significant economic impact on a substantial number of small entities or disproportionate economic impact on a specific class of small entities, or maximize any beneficial significant economic impact of the rule on a substantial number of small entities to the greatest extent possible, consistent with the stated objectives of applicable statutes. In amending or rescinding the rule, the agency shall consider the following factors:
 >   - **(1)** The continued need for the rule.
 >   - **(2)** The nature of complaints received by the agency from small entities concerning the rule.
 >   - **(3)** Comments by the Regulatory Enforcement Ombudsman and the Chief Counsel for Advocacy of the Small Business Administration.
 >   - **(4)** The complexity of the rule.
 >   - **(5)** The extent to which the rule overlaps, duplicates, or conflicts with other Federal rules and, unless the head of the agency determines it to be infeasible, State, territorial, and local rules.
->   - **(6)** The contribution of the rule to the cumulative economic impact of all Federal rules on the class of small entities affected by the rule, unless the head of the agency determines that such calculations cannot be made and reports that determination in the annual report required under subsection (c).
+>   - **(6)** The contribution of the rule to the cumulative economic impact of all Federal rules on the class of small entities affected by the rule, unless the head of the agency determines that such calculations cannot be made and reports that determination in the annual report required under subsection (d).
 >   - **(7)** The length of time since the rule has been evaluated or the degree to which technology, economic conditions, or other factors have changed in the area affected by the rule.
-> - **(e)** The agency shall publish in the Federal Register and on its website a list of rules to be reviewed pursuant to such plan. Such publication shall include a brief description of the rule, the reason why the agency determined that it has a significant economic impact on a substantial number of small entities (without regard to whether it had prepared a final regulatory flexibility analysis for the rule), and request comments from the public, the Chief Counsel for Advocacy of the Small Business Administration, and the Regulatory Enforcement Ombudsman concerning the enforcement of the rule.
+> - **(f)** The agency shall publish in the Federal Register and on its website a list of rules to be reviewed pursuant to such plan. Such publication shall include a brief description of the rule, the reason why the agency determined that it has a significant economic impact on a substantial number of small entities (without regard to whether it had prepared a final regulatory flexibility analysis for the rule), and request comments from the public, the Chief Counsel for Advocacy of the Small Business Administration, and the Regulatory Enforcement Ombudsman concerning the enforcement of the rule.
 
-## § 7. Judicial review of compliance with the requirements of the Regulatory Flexibility Act available after publication of the final rule
+## § 8. Judicial review of compliance with the requirements of the Regulatory Flexibility Act available after publication of the final rule
 
 - **(a)** *In general* Paragraph (1) of section 611(a) of title 5, United States Code, is amended by striking “final agency action” and inserting “such rule”.
 - **(b)** *Jurisdiction* Paragraph (2) of such section is amended by inserting “(or which would have such jurisdiction if publication of the final rule constituted final agency action)” after “provision of law,”.
@@ -172,12 +186,12 @@ Section 610 of title 5, United States Code, is amended to read as follows:
   - **(2)** by inserting “, in the case of a rule for which the date of final agency action is the same date as the publication of the final rule,” after “except that”.
 - **(d)** *Intervention by Chief Counsel for Advocacy* Subsection (b) of section 612 of title 5, United States Code, is amended by inserting before the first period “or agency compliance with section 601, 603, 604, 605(b), 609, or 610”.
 
-## § 8. Jurisdiction of court of appeals over rules implementing the Regulatory Flexibility Act
+## § 9. Jurisdiction of court of appeals over rules implementing the Regulatory Flexibility Act
 
 - **(a)** *In general* Section 2342 of title 28, United States Code, is amended—
   - **(1)** in paragraph (6), by striking “and” at the end;
   - **(2)** in paragraph (7), by striking the period at the end and inserting “; and”; and
-  - **(3)** by inserting after paragpraph (7) the following new paragraph:
+  - **(3)** by inserting after paragraph (7) the following new paragraph:
     > - **(8)** all final rules under section 608(a) of title 5.
 
 - **(b)** *Conforming amendments* Paragraph (3) of section 2341 of title 28, United States Code, is amended—
@@ -186,9 +200,9 @@ Section 610 of title 5, United States Code, is amended to read as follows:
   - **(3)** by adding at the end the following new subparagraph:
     > - **(F)** the Office of Advocacy of the Small Business Administration, when the final rule is under section 608(a) of title 5.
 
-- **(c)** *Authorization To intervene and comment on agency compliance with administrative procedure* Subsection (b) of section 612 of title 5, United States Code, is amended by inserting “chapter 5, and chapter 7,” after “this chapter,”.
+- **(c)** *Authorization to intervene and comment on agency compliance with administrative procedure* Subsection (b) of section 612 of title 5, United States Code, is amended by inserting “chapter 5, and chapter 7,” after “this chapter,”.
 
-## § 9. Clerical amendments
+## § 10. Clerical amendments
 
 - **(a)** Section 601 of title 5, United States Code, is amended—
   - **(1)** in paragraph (1)—
@@ -221,3 +235,9 @@ Section 610 of title 5, United States Code, is amended to read as follows:
 - **(d)** Chapter 6 of title 5, United States Code, is amended as follows:
   - **(1)** In section 603, by striking subsection (d).
   - **(2)** In section 604(a) by striking the second paragraph (6).
+
+## § 11. Agency preparation of guides
+
+Section 212(a)(5) the Small Business Regulatory Enforcement Fairness Act of 1996 (5 U.S.C. 601 note) is amended to read as follows:
+
+> - **(5)** *Agency preparation of guides* The agency shall, in its sole discretion, taking into account the subject matter of the rule and the language of relevant statutes, ensure that the guide is written using sufficiently plain language likely to be understood by affected small entities. Agencies may prepare separate guides covering groups or classes of similarly affected small entities and may cooperate with associations of small entities to distribute such guides. In developing guides, agencies shall solicit input from affected small entities or associations of affected small entities. An agency may prepare guides and apply this section with respect to a rule or a group of related rules.
