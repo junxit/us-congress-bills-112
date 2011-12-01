@@ -1,7 +1,7 @@
 ---
 measure: S. 1867
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 1867
@@ -16,9 +16,683 @@ National Defense Authorization Act for Fiscal Year 2012
 
 - Sen. Levin, Carl [D-MI] (L000261)
 
+## Cosponsors (659)
+
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Johanns, Mike [R-NE] (J000291)
+
 ## Committees (1)
 
 - Senate — Armed Services Committee
+
+## Recorded votes (9)
+
+- 2011-11-29 — [Senate 112-1-210](votes/senate-112-1-0210.md) — On the Amendment — **Amendment Rejected** (38–60)
+- 2011-11-29 — [Senate 112-1-211](votes/senate-112-1-0211.md) — On the Amendment — **Amendment Rejected** (30–67)
+- 2011-11-30 — [Senate 112-1-212](votes/senate-112-1-0212.md) — On the Cloture Motion — **Cloture Motion Agreed to** (88–12)
+- 2011-12-01 — [Senate 112-1-213](votes/senate-112-1-0213.md) — On the Amendment — **Amendment Rejected** (45–55)
+- 2011-12-01 — [Senate 112-1-214](votes/senate-112-1-0214.md) — On the Amendment — **Amendment Rejected** (45–55)
+- 2011-12-01 — [Senate 112-1-215](votes/senate-112-1-0215.md) — On the Amendment — **Amendment Agreed to** (99–1)
+- 2011-12-01 — [Senate 112-1-216](votes/senate-112-1-0216.md) — On the Amendment — **Amendment Agreed to** (100–0)
+- 2011-12-01 — [Senate 112-1-217](votes/senate-112-1-0217.md) — On the Amendment — **Amendment Rejected** (41–59)
+- 2011-12-01 — [Senate 112-1-218](votes/senate-112-1-0218.md) — On Passage of the Bill — **Bill Passed** (93–7)
 
 ## Actions
 
@@ -26,3 +700,1341 @@ National Defense Authorization Act for Fiscal Year 2012
 - 2011-11-15 — Committee on Armed Services. Original measure reported to Senate by Senator Levin. Without written report.
 - 2011-11-15 — Introduced in Senate
 - 2011-11-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 230.
+- 2011-11-16 — Senate amendment submitted
+- 2011-11-17 — Amendment SA 1064 proposed by Senator Paul. (consideration: CR S7674, S7675; text: CR S7674) To repeal the Authorization for the Use of Military Force Against Iraq Resolution of 2002.
+- 2011-11-17 — Amendment SA 1065 agreed to in Senate by Unanimous Consent.
+- 2011-11-17 — Amendment SA 1065 proposed by Senator Ayotte. (consideration: CR S7651-7652; text: CR S7651) Relating to the force structure for strategic airlift aircraft.
+- 2011-11-17 — Amendment SA 1072 proposed by Senator Leahy. (consideration: CR S7660) To enhance the national defense through empowerment of the National Guard, enhancement of the functions of the National Guard Bureau, and improvement of Federal-State military coordination in domestic emergency response.
+- 2011-11-17 — Amendment SA 1073 proposed by Senator Cardin. (consideration: CR S7685-7686; text: CR S7686) To prohibit expansion or operation of the District of Columbia National Guard Youth Challenge Program in Anne Arundel County, Maryland.
+- 2011-11-17 — Amendment SA 1084 proposed by Senator McConnell for Senator Kirk. (consideration: CR S7638-7639; text: CR S7638-7639) To require the President to impose sanctions on foreign financial institutions that conduct transactions with the Central Bank of Iran.
+- 2011-11-17 — Amendment SA 1092 proposed by Senator Levin. (consideration: CR S7643-7648, S7662, S7694) To bolster the detection and avoidance of counterfeit electronic parts.
+- 2011-11-17 — Amendment SA 1093 proposed by Senator Inhofe. (consideration: CR S7689-7691; text: CR S7691) To require the detention at United States Naval Station, Guantanamo Bay, Cuba, of high-value enemy combatants who will be detained long-term.
+- 2011-11-17 — Amendment SA 1094 proposed by Senator Inhofe. (consideration: CR S7689-7691; text: CR S7689) To include the Department of Commerce in contract authority using competitive procedures but excluding particular sources for establishing certain research and development capabilities.
+- 2011-11-17 — Amendment SA 1095 proposed by Senator Inhofe. (consideration: CR S7689-7691; text: CR S7689) To express the sense of the Senate on the importance of addressing deficiencies in mental health counseling.
+- 2011-11-17 — Amendment SA 1096 proposed by Senator Inhofe. (consideration: CR S7689-7691; text: CR S7689-7690) To express the sense of the Senate on treatment options for members of the Armed Forces and veterans for Traumatic Brain Injury and Post Traumatic Stress Disorder.
+- 2011-11-17 — Amendment SA 1097 proposed by Senator Inhofe. (consideration: CR S7689-7691; text: CR S7690) To eliminate gaps and redundancies between the over 200 programs within the Department of Defense that address psychological health and traumatic brain injury.
+- 2011-11-17 — Amendment SA 1098 proposed by Senator Inhofe. (consideration: CR S7689-7691; text: CR S7690) To require a report on the impact of foreign boycotts on the defense industrial base.
+- 2011-11-17 — Amendment SA 1099 proposed by Senator Inhofe. (consideration: CR S7689-7691; text: CR S7690-7691) To express the sense of Congress that the Secretary of Defense should implement the recommendations of the Comptroller General of the United States regarding prevention, abatement, and data collection to address hearing injuries and hearing loss among members of the Armed Forces.
+- 2011-11-17 — Amendment SA 1100 proposed by Senator Inhofe. (consideration: CR S7689-7691; text: CR S7691) To extend to products and services from Latvia existing temporary authority to procure certain products and services from countries along a major route of supply to Afghanistan.
+- 2011-11-17 — Amendment SA 1101 proposed by Senator Inhofe. (consideration: CR S7689-7691; text: CR S7691) To strike section 156, relating to a transfer of Air Force C-12 aircraft to the Army.
+- 2011-11-17 — Amendment SA 1102 proposed by Senator Inhofe. (consideration: CR S7689-7691; text: CR S7691) To require a report on the feasibility of using unmanned aerial systems to perform airborne inspection of navigational aids in foreign airspace.
+- 2011-11-17 — Amendment SA 1105 proposed by Senator Collins. (consideration: CR S7688-7689; text: CR S7688) To make permanent the requirement for certifications relating to the transfer of detainees at United States Naval Station, Guantanamo Bay, Cuba, to foreign countries and other foreign entities.
+- 2011-11-17 — Amendment SA 1107 proposed by Senator Udall CO. (consideration: CR S7685; text: CR S7685) To revise the provisions relating to detainee matters.
+- 2011-11-17 — Amendment SA 1114 proposed by Senator Begich. (consideration: CR S7686; text: CR S7686) To amend title 10, United States Code, to authorize space-available travel on military aircraft for members of the reserve components, a member or former member of a reserve component who is eligible for retired pay but for age, widows and widowers of retired members, and dependents.
+- 2011-11-17 — Amendment SA 1115 proposed by Senator Landrieu. (consideration: CR S7685) To reauthorize and improve the SBIR and STTR programs, and for other purposes.
+- 2011-11-17 — Amendment SA 1120 proposed by Senator Shaheen. (consideration: CR S7687; text: CR S7687) To exclude cases in which pregnancy is the result of an act of rape or incest from the prohibition on funding of abortions by the Department of Defense.
+- 2011-11-17 — Amendment SA 1125 proposed by Senator Feinstein. (consideration: CR S7685; text: CR S7685) To clarify the applicability of requirements for military custody with respect to detainees.
+- 2011-11-17 — Amendment SA 1126 proposed by Senator Feinstein. (consideration: CR S7685; text: CR S7685) To limit the authority of the Armed Forces to detain citizens of the United States under section 1031.
+- 2011-11-17 — Amendment SA 1139 proposed by Senator Casey. (consideration: CR S7693-7694; text: CR S7693) To require contractors to notify small business concerns that have been included in offers relating to contracts let by Federal agencies.
+- 2011-11-17 — Amendment SA 1140 proposed by Senator Casey. (consideration: CR S7693-7694; text: CR S7693-7694) To require a report by the Comptroller General on Department of Defense military spouse employment programs.
+- 2011-11-17 — Amendment SA 1149 proposed by Senator Begich. (consideration: CR S7686-7687; text: CR S7687) To authorize a land conveyance and exchange at Joint Base Elmendorf Richardson, Alaska.
+- 2011-11-17 — Amendment SA 1155 proposed by Senator Collins. (consideration: CR S7688-7689; text: CR S7688) To authorize educational assistance under the Armed Forces Health Professions Scholarship program for pursuit of advanced degrees in physical therapy and occupational therapy.
+- 2011-11-17 — Amendment SA 1158 proposed by Senator Collins. (consideration: CR S7688-7689; text: CR S7688) To clarify the permanence of the prohibition on transfers of recidivist detainees at United States Naval Station, Guantanamo Bay, Cuba, to foreign countries and entities.
+- 2011-11-17 — Amendment SA 1174 proposed by Senator Merkley. (consideration: CR S7674-7675; text: CR S7674-7675) To express the sense of Congress regarding the expedited transition of responsibility for military and security operations in Afghanistan to the Government of Afghanistan.
+- 2011-11-17 — Amendment SA 1180 proposed by Senator Collins. (consideration: CR S7688-7689; text: CR S7688-7689) Relating to man-portable air-defense systems originating from Libya.
+- 2011-11-17 — Amendment SA 1188 agreed to in Senate by Voice Vote.
+- 2011-11-17 — Amendment SA 1188 proposed by Senator Cardin. (consideration: CR S7686; text: CR S7686) To expand the Operation Hero Miles program to include the authority to accept the donation of travel benefits in the form of hotel points or awards for free or reduced-cost accommodations.
+- 2011-11-17 — Amendment SA 1197 proposed by Senator Franken. (consideration: CR S7685; text: CR S7685) To require contractors to make timely payments to subcontractors that are small business concerns.
+- 2011-11-17 — Amendment SA 1215 proposed by Senator Casey. (consideration: CR S7693-7694; text: CR S7693) To require a certification on efforts by the Government of Pakistan to implement a strategy to counter improvised explosive devices.
+- 2011-11-17 — Measure laid before Senate by unanimous consent. (consideration: CR S7638-7677, S7684-7694)
+- 2011-11-17 — Senate amendment agreed to: Amendment SA 1065 agreed to in Senate by Unanimous Consent.
+- 2011-11-17 — Senate amendment agreed to: Amendment SA 1188 agreed to in Senate by Voice Vote.
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1064 proposed by Senator Paul.(consideration: CR S7674, S7675; text: CR S7674)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1065 proposed by Senator Ayotte.(consideration: CR S7651-7652; text: CR S7651)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1072 proposed by Senator Leahy.(consideration: CR S7660)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1073 proposed by Senator Cardin.(consideration: CR S7685-7686; text: CR S7686)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1084 proposed by Senator McConnell for Senator Kirk.(consideration: CR S7638-7639; text: CR S7638-7639)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1092 proposed by Senator Levin.(consideration: CR S7643-7648, S7662, S7694)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1093 proposed by Senator Inhofe.(consideration: CR S7689-7691; text: CR S7691)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1094 proposed by Senator Inhofe.(consideration: CR S7689-7691; text: CR S7689)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1095 proposed by Senator Inhofe.(consideration: CR S7689-7691; text: CR S7689)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1096 proposed by Senator Inhofe.(consideration: CR S7689-7691; text: CR S7689-7690)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1097 proposed by Senator Inhofe.(consideration: CR S7689-7691; text: CR S7690)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1098 proposed by Senator Inhofe.(consideration: CR S7689-7691; text: CR S7690)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1099 proposed by Senator Inhofe.(consideration: CR S7689-7691; text: CR S7690-7691)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1100 proposed by Senator Inhofe.(consideration: CR S7689-7691; text: CR S7691)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1101 proposed by Senator Inhofe.(consideration: CR S7689-7691; text: CR S7691)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1102 proposed by Senator Inhofe.(consideration: CR S7689-7691; text: CR S7691)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1105 proposed by Senator Collins.(consideration: CR S7688-7689; text: CR S7688)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1107 proposed by Senator Udall CO.(consideration: CR S7685; text: CR S7685)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1114 proposed by Senator Begich.(consideration: CR S7686; text: CR S7686)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1115 proposed by Senator Landrieu.(consideration: CR S7685)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1120 proposed by Senator Shaheen.(consideration: CR S7687; text: CR S7687)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1125 proposed by Senator Feinstein.(consideration: CR S7685; text: CR S7685)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1126 proposed by Senator Feinstein.(consideration: CR S7685; text: CR S7685)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1139 proposed by Senator Casey.(consideration: CR S7693-7694; text: CR S7693)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1140 proposed by Senator Casey.(consideration: CR S7693-7694; text: CR S7693-7694)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1149 proposed by Senator Begich.(consideration: CR S7686-7687; text: CR S7687)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1155 proposed by Senator Collins.(consideration: CR S7688-7689; text: CR S7688)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1158 proposed by Senator Collins.(consideration: CR S7688-7689; text: CR S7688)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1174 proposed by Senator Merkley.(consideration: CR S7674-7675; text: CR S7674-7675)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1180 proposed by Senator Collins.(consideration: CR S7688-7689; text: CR S7688-7689)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1188 proposed by Senator Cardin.(consideration: CR S7686; text: CR S7686)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1197 proposed by Senator Franken.(consideration: CR S7685; text: CR S7685)
+- 2011-11-17 — Senate amendment proposed (on the floor): Amendment SA 1215 proposed by Senator Casey.(consideration: CR S7693-7694; text: CR S7693)
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-17 — Senate amendment submitted
+- 2011-11-18 — Amendment SA 1056 proposed by Senator McCain for Senator Wicker. (consideration: CR S7787-7790; text: CR S7789) To provide for the freedom of conscience of military chaplains with respect to the performance of marriages.
+- 2011-11-18 — Amendment SA 1066 proposed by Senator McCain for Senator Ayotte. (consideration: CR S7787-7788; text: CR S7788) To modify the Financial Improvement and Audit Readiness Plan to provide that a complete and validated full statement of budget resources is ready by not later than September 30, 2014.
+- 2011-11-18 — Amendment SA 1067 proposed by Senator McCain for Senator Ayotte. (consideration: CR S7787-7788; text as modified: CR S7788) To require notification of Congress with respect to the initial custody and further disposition of members of al-Qaeda and affiliated entities.
+- 2011-11-18 — Amendment SA 1068 proposed by Senator McCain for Senator Ayotte. (consideration: CR S7787-7790; text: CR S7788) To authorize lawful interrogation methods in addition to those authorized by the Army Field Manual for the collection of foreign intelligence information through interrogations.
+- 2011-11-18 — Amendment SA 1071 agreed to in Senate by Unanimous Consent.
+- 2011-11-18 — Amendment SA 1071 proposed by Senator Ayotte for Senator McCain. (consideration: CR S7804-7808, S7820-7822; text: CR S7807, S7820-7821) To require the Secretary of Defense to report on all information with respect to the Evolved Expendable Launch Vehicle program that would be required if the program were designated as a major defense acquisition program not in the sustainment phase.
+- 2011-11-18 — Amendment SA 1080 proposed by Senator Levin for Senator Leahy. (consideration: CR S7817-7819; text: CR S7818) To clarify the applicability of requirements for military custody with respect to detainees.
+- 2011-11-18 — Amendment SA 1086 agreed to in Senate by Unanimous Consent.
+- 2011-11-18 — Amendment SA 1086 proposed by Senator Levin for Senator Roberts. (consideration: CR S7820-7822; text: CR S7821) To authorize and request the President to award the Medal of Honor posthumously to Captain Emil Kapaun of the United States Army for the acts of valor during the Korean War.
+- 2011-11-18 — Amendment SA 1087 proposed by Senator Leahy. (consideration: CR S7799-7801; text: CR S7799-7800) To improve the provisions relating to the treatment of certain sensitive national security information under the Freedom of Information Act.
+- 2011-11-18 — Amendment SA 1089 proposed by Senator McCain for Senator Brown MA. (consideration: CR S7787-7790; text: CR S7789) To require certain disclosures from post-secondary institutions that participate in tuition assistance programs of the Department of Defense.
+- 2011-11-18 — Amendment SA 1090 proposed by Senator McCain for Senator Brown MA. (consideration: CR S7787-7790; text: CR S7789) To provide that the basic allowance for housing in effect for a member of the National Guard is not reduced when the member transitions between active duty and full-time National Guard duty without a break in active service.
+- 2011-11-18 — Amendment SA 1106 agreed to in Senate by Unanimous Consent.
+- 2011-11-18 — Amendment SA 1106 proposed by Senator Levin for Senator McCain. (consideration: CR S7820-7822; text: CR S7821) To require a report on the status of the implementation of accepted recommendations in the Final Report of the 2010 Army Acquisition Review panel.
+- 2011-11-18 — Amendment SA 1116 proposed by Senator McCain for Senator Wicker. (consideration: CR S7787-7790; text: CR S7789-7790) To improve the transition of members of the Armed Forces with experience in the operation of certain motor vehicles into careers operating commercial motor vehicles in the private sector.
+- 2011-11-18 — Amendment SA 1117 proposed by Senator Levin for Senator Bingaman. (consideration: CR S7794-7795; text: CR S7795) To provide for national security benefits for White Sands Missile Range and Fort Bliss.
+- 2011-11-18 — Amendment SA 1118 proposed by Senator Ayotte for Senator McCain. (consideration: CR S7804-7808; text: CR S7807-7808) To modify the availability of surcharges collected by commissary stores.
+- 2011-11-18 — Amendment SA 1119 proposed by Senator McCain for Senator Brown MA. (consideration: CR S7787-7790; text: CR S7789) To protect the child custody rights of members of the Armed Forces deployed in support of a contingency operation.
+- 2011-11-18 — Amendment SA 1132 proposed by Senator Ayotte for Senator McCain. (consideration: CR S7804-7808; text: CR S7807) To require a plan to ensure audit readiness of statements of budgetary resources.
+- 2011-11-18 — Amendment SA 1133 proposed by Senator Ayotte for Senator Blunt. (consideration: CR S7819-7820; text: CR S7820) To provide for employment and reemployment rights for certain individuals ordered to full-time National Guard Duty.
+- 2011-11-18 — Amendment SA 1134 proposed by Senator Ayotte for Senator Blunt. (consideration: CR S7819-7820; text: CR S7820) To require a report on the policies and practices of the Navy for naming the vessels of the Navy.
+- 2011-11-18 — Amendment SA 1137 proposed by Senator Ayotte for Senator Heller. (consideration: CR S7804-7808; text: CR S7804-7805) To provide for the recognition of Jerusalem as the capital of Israel and the relocation to Jerusalem of the United States Embassy in Israel.
+- 2011-11-18 — Amendment SA 1138 proposed by Senator Ayotte for Senator Heller. (consideration: CR S7804-7808; text: CR S7805) To provide for the exhumation and transfer of remains of deceased members of the Armed Forces buried in Tripoli, Libya.
+- 2011-11-18 — Amendment SA 1140 agreed to in Senate by Unanimous Consent.
+- 2011-11-18 — Amendment SA 1146 proposed by Senator Levin for Senator Reed. (consideration: CR S7811-7814; text: CR S7811) To provide for the participation of military technicians (dual status) in the study on the termination of military technician as a distinct personnel management category.
+- 2011-11-18 — Amendment SA 1147 proposed by Senator Levin for Senator Reed. (consideration: CR S7811-7814; text: CR S7811) To prohibit the repayment of enlistment or related bonuses by certain individuals who become employed as military technicians (dual status) while already a member of a reserve component.
+- 2011-11-18 — Amendment SA 1148 proposed by Senator Levin for Senator Reed. (consideration: CR S7811-7814; text: CR S7811) To provide rights of grievance, arbitration, appeal, and review beyond the adjutant general for military technicians.
+- 2011-11-18 — Amendment SA 1151 proposed by Senator Levin for Senator Pryor. (consideration: CR S7817-7819; text: CR S7818) To authorize a death gratuity and related benefits for Reserves who die during an authorized stay at their residence during or between successive days of inactive duty training.
+- 2011-11-18 — Amendment SA 1152 proposed by Senator Levin for Senator Pryor. (consideration: CR S7817-7819; text: CR S7818) To recognize the service in the reserve components of the Armed Forces of certain persons by honoring them with status as veterans under law.
+- 2011-11-18 — Amendment SA 1153 proposed by Senator Udall NM. (consideration: CR S7790-7794; text: CR S7790) To include ultralight vehicles in the definition of aircraft for purposes of the aviation smuggling provisions of the Tariff Act of 1930.
+- 2011-11-18 — Amendment SA 1154 proposed by Senator Udall NM. (consideration: CR S7790-7794; text: CR S7790) To direct the Secretary of Veterans Affairs to establish an open burn pit registry to ensure that members of the Armed Forces who may have been exposed to toxic chemicals and fumes caused by open burn pits while deployed to Afghanistan or Iraq receive information regarding such exposure.
+- 2011-11-18 — Amendment SA 1160 proposed by Senator Wyden. (consideration: CR S7801-7804; text: CR S7801) To provide for the closure of Umatilla Army Chemical Depot, Oregon.
+- 2011-11-18 — Amendment SA 1171 proposed by Senator McCain for Senator Corker. (consideration: CR S7794; text: CR S7794) To prohibit funding for any unit of a security force of Pakistan if there is credible evidence that the unit maintains connections with an organization known to conduct terrorist activities against the United States or United States allies.
+- 2011-11-18 — Amendment SA 1172 proposed by Senator McCain for Senator Corker. (consideration: CR S7794; text: CR S7794) To require a report assessing the reimbursements from the Coalition Support Fund to the Government of Pakistan for operations conducted in support of Operation Enduring Freedom.
+- 2011-11-18 — Amendment SA 1173 proposed by Senator McCain for Senator Corker. (consideration: CR S7794; text: CR S7794) To express the sense of the Senate on the North Atlantic Treaty Organization.
+- 2011-11-18 — Amendment SA 1179 proposed by Senator Ayotte for Senator Graham. (consideration: CR S7804-7808; text: CR S7804) To specify the number of judge advocates of the Air Force in the regular grade of brigadier general.
+- 2011-11-18 — Amendment SA 1182 proposed by Senator Sessions. (consideration: CR S7808-7811; text: CR S7808) To prohibit the permanent stationing of more than two Army Brigade Combat Teams within the geographic boundaries of the United States European Command.
+- 2011-11-18 — Amendment SA 1183 proposed by Senator Sessions. (consideration: CR S7808-7811; text: CR S7808) To require reports to Congress on the modification of the force structure for strategic nuclear weapons delivery systems of the United States.
+- 2011-11-18 — Amendment SA 1184 proposed by Senator Sessions. (consideration: CR S7808-7811; text: CR S7808) To limit any reduction in the number of surface combatants of the Navy below 313 vessels.
+- 2011-11-18 — Amendment SA 1185 proposed by Senator Sessions. (consideration: CR S7808-7811; text: CR S7808) To require a report on the missile defense hedging strategy of the United States.
+- 2011-11-18 — Amendment SA 1186 proposed by Senator Leahy. (consideration: CR S7801) To provide the Department of Justice necessary tools to fight fraud by reforming the working capital fund and for other purposes.
+- 2011-11-18 — Amendment SA 1187 proposed by Senator Levin for Senator Gillibrand. (consideration: CR S7794-7795; text: CR S7795) To expedite the hiring authority for the defense information technology/cyber workforce.
+- 2011-11-18 — Amendment SA 1200 proposed by Senator McCain for Senator Cornyn. (consideration: CR S7787-7788; text: CR S7787-7788) To provide Taiwan with critically needed United States-built multirole fighter aircraft to strengthen its self-defense capability against the increasing military threat from China.
+- 2011-11-18 — Amendment SA 1202 proposed by Senator Udall NM. (consideration: CR S7790-7794; text: CR S7790) To clarify the application of the provisions of the Buy American Act to the procurement of photovoltaic devices by the Department of Defense.
+- 2011-11-18 — Amendment SA 1204 proposed by Senator Levin for Senator Reed. (consideration: CR S7811-7814; text: CR S7812) To authorize a pilot program on enhancements of Department of Defense efforts on mental health in the National Guard and Reserves through community partnerships.
+- 2011-11-18 — Amendment SA 1206 proposed by Senator Levin for Senator Boxer. (consideration: CR S7811-7814; text: CR S7813) To implement common sense controls on the taxpayer-funded salaries of defense contractors.
+- 2011-11-18 — Amendment SA 1209 proposed by Senator Levin for Senator Nelson FL. (consideration: CR S7817-7819; text: CR S7818-7819) To repeal the requirement for reduction of survivor annuities under the Survivor Benefit Plan by veterans' dependency and indemnity compensation.
+- 2011-11-18 — Amendment SA 1210 proposed by Senator Levin for Senator Nelson FL. (consideration: CR S7817-7819; text: CR S7819) To require an assessment of the advisability of stationing additional DDG-51 class destroyers at Naval Station Mayport, Florida.
+- 2011-11-18 — Amendment SA 1211 proposed by Senator Levin for Senator Gillibrand. (consideration: CR S7794-7795; text: CR S7795) To authorize the Secretary of Defense to provide assistance to State National Guards to provide counseling and reintegration services for members of reserve components of the Armed Forces ordered to active duty in support of a contingency operation, members returning from such active duty, veterans of the Armed Forces, and their families.
+- 2011-11-18 — Amendment SA 1219 agreed to in Senate by Unanimous Consent.
+- 2011-11-18 — Amendment SA 1219 proposed by Senator Levin. (consideration: CR S7820-7822; text: CR S7821-7822) To provide authority to order Army Reserve, Navy Reserve, Marine Corps Reserve, and Air Force Reserve to active duty to provide assistance in response to a major disaster or emergency.
+- 2011-11-18 — Amendment SA 1220 proposed by Senator Ayotte for Senator McCain. (consideration: CR S7804-7808; text: CR S7807) To require Comptroller General of the United States reports on the Department of Defense implementation of justification and approval requirements for certain sole-source contracts.
+- 2011-11-18 — Amendment SA 1229 proposed by Senator Ayotte for Senator McCain. (consideration: CR S7804-7808; text: CR S7806) To provide for greater cybersecurity collaboration between the Department of Defense and the Department of Homeland Security.
+- 2011-11-18 — Amendment SA 1230 proposed by Senator Ayotte for Senator McCain. (consideration: CR S7804-7808; text as modified: CR S7806) To modify the annual adjustment in enrollment fees for TRICARE Prime.
+- 2011-11-18 — Amendment SA 1236 proposed by Senator Levin for Senator Nelson FL. (consideration: CR S7817-7819; text: CR S7819) To require a report on the effects of changing flag officer positions within the Air Force Material Command.
+- 2011-11-18 — Amendment SA 1239 proposed by Senator Merkley. (consideration: CR S7795-7799; text: CR S7796) To expand the Marine Gunnery Sergeant John David Fry scholarship to include spouses of members of the Armed Forces who die in the line of duty.
+- 2011-11-18 — Amendment SA 1246 proposed by Senator Ayotte for Senator McCain. (consideration: CR S7804-7808; text: CR S7805-7806) To require the Secretary of Defense to consult with the Armed Services committees in commissioning an independent assessment of United States security interests in East Asia and the Pacific region.
+- 2011-11-18 — Amendment SA 1247 proposed by Senator Ayotte for Senator McCain. (consideration: CR S7804-7808; text: CR S7805) To restrict the authority of the Secretary of Defense to develop public infrastructure on Guam until certain conditions related to Guam realignment have been met.
+- 2011-11-18 — Amendment SA 1248 proposed by Senator Ayotte for Senator McCain. (consideration: CR S7804-7808; text: CR S7807) To expand the authority for the overhaul and repair of vessels to the United States, Guam, and the Commonwealth of the Northern Mariana Islands.
+- 2011-11-18 — Amendment SA 1249 proposed by Senator Ayotte for Senator McCain. (consideration: CR S7804-7808, S7811; text: CR S7806-7807) To limit the use of cost-type contracts by the Department of Defense for major defense acquisition programs.
+- 2011-11-18 — Amendment SA 1250 proposed by Senator Ayotte for Senator McCain. (consideration: CR S7804-7808; text: CR S7807) To require the Secretary of Defense to submit a report on the probationary period in the development of the short take-off, vertical landing variant of the Joint Strike Fighter.
+- 2011-11-18 — Amendment SA 1253 proposed by Senator Wyden. (consideration: CR S7801-7804; text: CR S7801-7802) To provide for the retention of members of the reserve components on active duty for a period of 45 days following an extended deployment in contingency operations or homeland defense missions to support their reintegration into civilian life.
+- 2011-11-18 — Amendment SA 1255 proposed by Senator Levin for Senator Nelson FL. (consideration: CR S7817-7819; text: CR S7819) To require an epidemiological study on the health of military personnel exposed to burn pit emissions at Joint Base Balad.
+- 2011-11-18 — Amendment SA 1256 proposed by Senator Merkley. (consideration: CR S7795-7799; text: CR S7796) To require a plan for the expedited transition of responsibility for military and security operations in Afghanistan to the Government of Afghanistan.
+- 2011-11-18 — Amendment SA 1257 proposed by Senator Merkley. (consideration: CR S7795-7799; text: CR S7796) To require a plan for the expedited transition of responsibility for military and security operations in Afghanistan to the Government of Afghanistan.
+- 2011-11-18 — Amendment SA 1258 proposed by Senator Merkley. (consideration: CR S7795-7799; text: CR S7796) To require the timely identification of qualified census tracts for purposes of the HUBZone program, and for other purposes.
+- 2011-11-18 — Amendment SA 1259 proposed by Senator Levin for Senator Brown OH. (consideration: CR S7817-7819; text: CR S7817) To link domestic manufacturers to defense supply chain opportunities.
+- 2011-11-18 — Amendment SA 1260 proposed by Senator Levin for Senator Brown OH. (consideration: CR S7817-7819; text: CR S7817) To strike section 846, relating to a waiver of "Buy American" requirements for procurement of components otherwise producible overseas with specialty metal not produced in the United States.
+- 2011-11-18 — Amendment SA 1261 proposed by Senator Levin for Senator Brown OH. (consideration: CR S7817-7819; text: CR S7817) To extend treatment of base closure areas as HUBZones for purposes of the Small Business Act.
+- 2011-11-18 — Amendment SA 1262 proposed by Senator Levin for Senator Brown OH. (consideration: CR S7817-7819; text: CR S7817) To clarify the meaning of "produced" for purposes of limitations on the procurement by the Department of Defense of specialty metals within the United States.
+- 2011-11-18 — Amendment SA 1263 proposed by Senator Levin for Senator Brown OH. (consideration: CR S7817-7819; text: CR S7817-7818) To authorize the conveyance of the John Kunkel Army Reserve Center, Warren, Ohio.
+- 2011-11-18 — Amendment SA 1274 proposed by Senator Sessions. (consideration: CR S7808-7811; text: CR S7808) To clarify the disposition under the law of war of persons detained by the Armed Forces of the United States pursuant to the Authorization for Use of Military Force.
+- 2011-11-18 — Amendment SA 1281 proposed by Senator Ayotte for Senator McCain. (consideration: CR S7819-7820; text: CR S7819-7820) To require a plan for normalizing defense cooperation with the Republic of Georgia.
+- 2011-11-18 — Amendment SA 1286 proposed by Senator Ayotte for Senator Murkowski. (consideration: CR S7819-7820; text: CR S7820) To require a Department of Defense Inspector General report on theft of computer tapes containing protected information on covered beneficiaries under the TRICARE program.
+- 2011-11-18 — Amendment SA 1287 proposed by Senator Ayotte for Senator Murkowski. (consideration: CR S7819-7820; text: CR S7820) To provide limitations on the retirement of C-23 aircraft.
+- 2011-11-18 — Amendment SA 1290 proposed by Senator Ayotte for Senator Rubio. (consideration: CR S7819-7820; text: CR S7820) To strike the national security waiver authority in section 1032, relating to requirements for military custody.
+- 2011-11-18 — Amendment SA 1291 proposed by Senator Ayotte for Senator Rubio. (consideration: CR S7819-7820; text: CR S7820) To strike the national security waiver authority in section 1033, relating to requirements for certifications relating to the transfer of detainees at United States Naval Station, Guantanamo Bay, Cuba, to foreign countries and entities.
+- 2011-11-18 — Amendment SA 1292 proposed by Senator Levin for Senator Menendez. (consideration: CR S7811-7814; text: CR S7813) To require the President to impose sanctions with respect to the Central Bank of Iran if the President determines that the Central Bank of Iran has engaged in conduct that threatens the national security of the United States or allies of the United States.
+- 2011-11-18 — Amendment SA 1293 proposed by Senator Levin. (consideration: CR S7811-7814; text: CR S7812-7813) To authorize the transfer of certain high-speed ferries to the Navy.
+- 2011-11-18 — Amendment SA 1294 proposed by Senator Levin for Senator Reed. (consideration: CR S7811-7814; text: CR S7812) To enhance consumer credit protections for members of the Armed Forces and their dependents.
+- 2011-11-18 — Amendment SA 1296 proposed by Senator Levin for Senator Wyden. (consideration: CR S7817-7819; text: CR S7818) To require reports on the use of indemnification agreements in Department of Defense contracts.
+- 2011-11-18 — Amendment SA 1304 proposed by Senator Chambliss. (consideration: CR S7814-7817; text: CR S7814) To require a report on the alignment, organizational reporting, and performance rating of Air Force system program managers, sustainment program managers, and product support managers at Air Logistics Centers or Air Logistics Complexes.
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785, S7822)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785, S7822-7824)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7785-7824)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7786)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7786)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7786)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7786)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7786)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7786)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7786)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7786)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7786)
+- 2011-11-18 — Considered by Senate. (consideration: CR S7786, S7820-7822; text: CR S7821)
+- 2011-11-18 — Senate amendment agreed to: Amendment SA 1071 agreed to in Senate by Unanimous Consent.
+- 2011-11-18 — Senate amendment agreed to: Amendment SA 1086 agreed to in Senate by Unanimous Consent.
+- 2011-11-18 — Senate amendment agreed to: Amendment SA 1106 agreed to in Senate by Unanimous Consent.
+- 2011-11-18 — Senate amendment agreed to: Amendment SA 1140 agreed to in Senate by Unanimous Consent.
+- 2011-11-18 — Senate amendment agreed to: Amendment SA 1219 agreed to in Senate by Unanimous Consent.
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1056 proposed by Senator McCain for Senator Wicker.(consideration: CR S7787-7790; text: CR S7789)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1066 proposed by Senator McCain for Senator Ayotte.(consideration: CR S7787-7788; text: CR S7788)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1067 proposed by Senator McCain for Senator Ayotte.(consideration: CR S7787-7788; text as modified: CR S7788)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1068 proposed by Senator McCain for Senator Ayotte.(consideration: CR S7787-7790; text: CR S7788)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1071 proposed by Senator Ayotte for Senator McCain.(consideration: CR S7804-7808, S7820-7822; text: CR S7807, S7820-7821)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1080 proposed by Senator Levin for Senator Leahy.(consideration: CR S7817-7819; text: CR S7818)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1086 proposed by Senator Levin for Senator Roberts.(consideration: CR S7820-7822; text: CR S7821)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1087 proposed by Senator Leahy.(consideration: CR S7799-7801; text: CR S7799-7800)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1089 proposed by Senator McCain for Senator Brown MA.(consideration: CR S7787-7790; text: CR S7789)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1090 proposed by Senator McCain for Senator Brown MA.(consideration: CR S7787-7790; text: CR S7789)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1106 proposed by Senator Levin for Senator McCain.(consideration: CR S7820-7822; text: CR S7821)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1116 proposed by Senator McCain for Senator Wicker.(consideration: CR S7787-7790; text: CR S7789-7790)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1117 proposed by Senator Levin for Senator Bingaman.(consideration: CR S7794-7795; text: CR S7795)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1118 proposed by Senator Ayotte for Senator McCain.(consideration: CR S7804-7808; text: CR S7807-7808)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1119 proposed by Senator McCain for Senator Brown MA.(consideration: CR S7787-7790; text: CR S7789)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1132 proposed by Senator Ayotte for Senator McCain.(consideration: CR S7804-7808; text: CR S7807)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1133 proposed by Senator Ayotte for Senator Blunt.(consideration: CR S7819-7820; text: CR S7820)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1134 proposed by Senator Ayotte for Senator Blunt.(consideration: CR S7819-7820; text: CR S7820)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1137 proposed by Senator Ayotte for Senator Heller.(consideration: CR S7804-7808; text: CR S7804-7805)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1138 proposed by Senator Ayotte for Senator Heller.(consideration: CR S7804-7808; text: CR S7805)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1146 proposed by Senator Levin for Senator Reed.(consideration: CR S7811-7814; text: CR S7811)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1147 proposed by Senator Levin for Senator Reed.(consideration: CR S7811-7814; text: CR S7811)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1148 proposed by Senator Levin for Senator Reed.(consideration: CR S7811-7814; text: CR S7811)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1151 proposed by Senator Levin for Senator Pryor.(consideration: CR S7817-7819; text: CR S7818)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1152 proposed by Senator Levin for Senator Pryor.(consideration: CR S7817-7819; text: CR S7818)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1153 proposed by Senator Udall NM.(consideration: CR S7790-7794; text: CR S7790)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1154 proposed by Senator Udall NM.(consideration: CR S7790-7794; text: CR S7790)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1160 proposed by Senator Wyden.(consideration: CR S7801-7804; text: CR S7801)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1171 proposed by Senator McCain for Senator Corker.(consideration: CR S7794; text: CR S7794)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1172 proposed by Senator McCain for Senator Corker.(consideration: CR S7794; text: CR S7794)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1173 proposed by Senator McCain for Senator Corker.(consideration: CR S7794; text: CR S7794)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1179 proposed by Senator Ayotte for Senator Graham.(consideration: CR S7804-7808; text: CR S7804)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1182 proposed by Senator Sessions.(consideration: CR S7808-7811; text: CR S7808)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1183 proposed by Senator Sessions.(consideration: CR S7808-7811; text: CR S7808)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1184 proposed by Senator Sessions.(consideration: CR S7808-7811; text: CR S7808)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1185 proposed by Senator Sessions.(consideration: CR S7808-7811; text: CR S7808)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1186 proposed by Senator Leahy.(consideration: CR S7801)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1187 proposed by Senator Levin for Senator Gillibrand.(consideration: CR S7794-7795; text: CR S7795)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1200 proposed by Senator McCain for Senator Cornyn.(consideration: CR S7787-7788; text: CR S7787-7788)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1202 proposed by Senator Udall NM.(consideration: CR S7790-7794; text: CR S7790)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1204 proposed by Senator Levin for Senator Reed.(consideration: CR S7811-7814; text: CR S7812)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1206 proposed by Senator Levin for Senator Boxer.(consideration: CR S7811-7814; text: CR S7813)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1209 proposed by Senator Levin for Senator Nelson FL.(consideration: CR S7817-7819; text: CR S7818-7819)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1210 proposed by Senator Levin for Senator Nelson FL.(consideration: CR S7817-7819; text: CR S7819)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1211 proposed by Senator Levin for Senator Gillibrand.(consideration: CR S7794-7795; text: CR S7795)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1219 proposed by Senator Levin.(consideration: CR S7820-7822; text: CR S7821-7822)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1220 proposed by Senator Ayotte for Senator McCain.(consideration: CR S7804-7808; text: CR S7807)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1229 proposed by Senator Ayotte for Senator McCain.(consideration: CR S7804-7808; text: CR S7806)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1230 proposed by Senator Ayotte for Senator McCain.(consideration: CR S7804-7808; text as modified: CR S7806)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1236 proposed by Senator Levin for Senator Nelson FL.(consideration: CR S7817-7819; text: CR S7819)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1239 proposed by Senator Merkley.(consideration: CR S7795-7799; text: CR S7796)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1246 proposed by Senator Ayotte for Senator McCain.(consideration: CR S7804-7808; text: CR S7805-7806)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1247 proposed by Senator Ayotte for Senator McCain.(consideration: CR S7804-7808; text: CR S7805)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1248 proposed by Senator Ayotte for Senator McCain.(consideration: CR S7804-7808; text: CR S7807)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1249 proposed by Senator Ayotte for Senator McCain.(consideration: CR S7804-7808, S7811; text: CR S7806-7807)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1250 proposed by Senator Ayotte for Senator McCain.(consideration: CR S7804-7808; text: CR S7807)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1253 proposed by Senator Wyden.(consideration: CR S7801-7804; text: CR S7801-7802)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1255 proposed by Senator Levin for Senator Nelson FL.(consideration: CR S7817-7819; text: CR S7819)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1256 proposed by Senator Merkley.(consideration: CR S7795-7799; text: CR S7796)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1257 proposed by Senator Merkley.(consideration: CR S7795-7799; text: CR S7796)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1258 proposed by Senator Merkley.(consideration: CR S7795-7799; text: CR S7796)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1259 proposed by Senator Levin for Senator Brown OH.(consideration: CR S7817-7819; text: CR S7817)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1260 proposed by Senator Levin for Senator Brown OH.(consideration: CR S7817-7819; text: CR S7817)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1261 proposed by Senator Levin for Senator Brown OH.(consideration: CR S7817-7819; text: CR S7817)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1262 proposed by Senator Levin for Senator Brown OH.(consideration: CR S7817-7819; text: CR S7817)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1263 proposed by Senator Levin for Senator Brown OH.(consideration: CR S7817-7819; text: CR S7817-7818)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1274 proposed by Senator Sessions.(consideration: CR S7808-7811; text: CR S7808)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1281 proposed by Senator Ayotte for Senator McCain.(consideration: CR S7819-7820; text: CR S7819-7820)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1286 proposed by Senator Ayotte for Senator Murkowski.(consideration: CR S7819-7820; text: CR S7820)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1287 proposed by Senator Ayotte for Senator Murkowski.(consideration: CR S7819-7820; text: CR S7820)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1290 proposed by Senator Ayotte for Senator Rubio.(consideration: CR S7819-7820; text: CR S7820)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1291 proposed by Senator Ayotte for Senator Rubio.(consideration: CR S7819-7820; text: CR S7820)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1292 proposed by Senator Levin for Senator Menendez.(consideration: CR S7811-7814; text: CR S7813)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1293 proposed by Senator Levin.(consideration: CR S7811-7814; text: CR S7812-7813)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1294 proposed by Senator Levin for Senator Reed.(consideration: CR S7811-7814; text: CR S7812)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1296 proposed by Senator Levin for Senator Wyden.(consideration: CR S7817-7819; text: CR S7818)
+- 2011-11-18 — Senate amendment proposed (on the floor): Amendment SA 1304 proposed by Senator Chambliss.(consideration: CR S7814-7817; text: CR S7814)
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-18 — Senate amendment submitted
+- 2011-11-28 — Amendment SA 1072 agreed to in Senate by Unanimous Consent.
+- 2011-11-28 — Amendment SA 1414 proposed by Senator Levin for Senator Menendez. (consideration: CR S7903) To require the imposition of sanctions with respect to the financial sector of Iran, including the Central Bank of Iran.
+- 2011-11-28 — Cloture motion on the bill presented in Senate. (consideration: CR S7886; text: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884, S7896-7898, S7902-7903, S7903-7904)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884, S7903-7904)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7884-7898, S7902-7904)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7885-7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Considered by Senate. (consideration: CR S7886)
+- 2011-11-28 — Proposed amendment SA 1084 withdrawn in Senate. (consideration: CR S7903)
+- 2011-11-28 — Proposed amendment SA 1292 withdrawn in Senate. (consideration: CR S7903)
+- 2011-11-28 — Senate amendment agreed to: Amendment SA 1072 agreed to in Senate by Unanimous Consent.
+- 2011-11-28 — Senate amendment proposed (on the floor): Amendment SA 1414 proposed by Senator Levin for Senator Menendez.(consideration: CR S7903)
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-28 — Senate amendment submitted
+- 2011-11-29 — Amendment SA 1064, under the order of 11/29/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 30 - 67. Record Vote Number: 211.
+- 2011-11-29 — Amendment SA 1092 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7966-7967)
+- 2011-11-29 — Amendment SA 1107 not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 210.
+- 2011-11-29 — Amendment SA 1115 as modified agreed to in Senate by Voice Vote. (text as modified: CR S7971-7982)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943, S7944-7956, S7956-7957)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943, S7957-7958, S7968-7971, S7982-7983)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943, S7957-7958, S7971-7982, S7983-7984)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943, S7961-7963)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943, S7961-7963)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943, S7965-7968)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943, S7984)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943-7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7943-7956, S7956-7987)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944, S7956; text as modified: CR S7956)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944, S7956; text as modified: CR S7956)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944, S7984-7985)
+- 2011-11-29 — Considered by Senate. (consideration: CR S7944, S7985)
+- 2011-11-29 — Proposed amendment SA 1260 withdrawn in Senate. (consideration: CR S7985)
+- 2011-11-29 — Proposed amendment SA 1262 withdrawn in Senate. (consideration: CR S7985)
+- 2011-11-29 — Roll call votes on amendments in Senate: Amendment SA 1064, under the order of 11/29/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 30 - 67. Record Vote Number: 211.
+- 2011-11-29 — Roll call votes on amendments in Senate: Amendment SA 1107 not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 210.
+- 2011-11-29 — Senate amendment agreed to: Amendment SA 1092 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7966-7967)
+- 2011-11-29 — Senate amendment agreed to: Amendment SA 1115 as modified agreed to in Senate by Voice Vote.(text as modified: CR S7971-7982)
+- 2011-11-29 — Senate amendment not agreed to: Amendment SA 1064, under the order of 11/29/2011, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 30 - 67. Record Vote Number: 211.
+- 2011-11-29 — Senate amendment not agreed to: Amendment SA 1107 not agreed to in Senate by Yea-Nay Vote. 38 - 60. Record Vote Number: 210.
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-29 — Senate amendment submitted
+- 2011-11-30 — Amendment SA 1056 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1066 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1098 as modified agreed to in Senate by Voice Vote. (text as modified: CR S8061)
+- 2011-11-30 — Amendment SA 1102 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1116 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1122 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1122 proposed by Senator Levin for Senator Shaheen. (consideration: CR S8015-8021; text: CR S8016-8017) To authorize the acquisition of real property and associated real property interests in the vicinity of Hanover, New Hampshire, as may be needed for the Engineer Research and Development Center laboratory facilities at the Cold Regions Research and Engineering Laboratory.
+- 2011-11-30 — Amendment SA 1129 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1129 proposed by Senator Levin for Senator Reid. (consideration: CR S1015-1021; text: CR S8017) To redesignate the Mike O'Callaghan Federal Hospital in Nevada as the Mike O'Callaghan Federal Medical Center.
+- 2011-11-30 — Amendment SA 1130 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1130 proposed by Senator Levin for Senator Reid. (consideration: CR S8015-8021; text: CR S8017) To clarify certain provisions of the Clean Air Act relating to fire suppression agents.
+- 2011-11-30 — Amendment SA 1132 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1134 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1143 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1143 proposed by Senator Levin for Senator Hagan. (consideration: CR S8015-8021; text: CR S8017) To require the Comptroller General to review medical research and development sponsored by the Department of Defense relating to improved combat casualty care and saving lives on the battlefield.
+- 2011-11-30 — Amendment SA 1149 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8017-8018)
+- 2011-11-30 — Amendment SA 1162 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1162 proposed by Senator Levin for Senator Warner. (consideration: CR S8015-8021; text as modified: CR S8018) To provide for the consideration of energy security and reliability in the development and implementation of energy performance goals.
+- 2011-11-30 — Amendment SA 1164 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1164 proposed by Senator Levin for Senator Warner. (consideration: CR S8015-8021; text: CR S8018) To promote increased acquisition and procurement exchanges between officials in the Department of Defense and defense officials in India.
+- 2011-11-30 — Amendment SA 1165 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1165 proposed by Senator Levin for Senator Warner. (consideration: CR S8015-8021; text: CR S8018) To express the sense of Congress on the use of modeling and simulation in Department of Defense activities.
+- 2011-11-30 — Amendment SA 1166 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1166 proposed by Senator Levin for Senator Warner. (consideration: CR S8015-8021; text: CR S8018) To express the sense of Congress on ties between the Joint Warfighting and Coalition Center and the Allied Command Transformation of NATO.
+- 2011-11-30 — Amendment SA 1167 as modified agreed to in Senate by Unanimous Consent. (text as nodified: CR S8018)
+- 2011-11-30 — Amendment SA 1167 proposed by Senator Levin for Senator Warner. (consideration: CR S8015-8021) To require a report on the effects of planned reductions of personnel at the Joint Warfare Analysis Center on personnel skills at the Center.
+- 2011-11-30 — Amendment SA 1172 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8033-8034)
+- 2011-11-30 — Amendment SA 1178 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8018)
+- 2011-11-30 — Amendment SA 1178 proposed by Senator Levin for Senator Murray. (consideration: CR S8015-8021) To require a report on the authorities available to the Department of Defense for multiyear contracts for the purchase of advanced biofuels.
+- 2011-11-30 — Amendment SA 1180 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8015-8016)
+- 2011-11-30 — Amendment SA 1183 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8016)
+- 2011-11-30 — Amendment SA 1185 as modified agreed to in Senate by Voice Vote. (text as modified: CR S8061)
+- 2011-11-30 — Amendment SA 1207 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1207 proposed by Senator Levin for Senator Coburn. (consideration: CR S8015-8021; text: CR S8018) To require Comptroller General of the United States reports on the major automated information system programs of the Department of Defense.
+- 2011-11-30 — Amendment SA 1210 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1215 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8016)
+- 2011-11-30 — Amendment SA 1227 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1227 proposed by Senator McCain. (consideration: CR S8015-8021; text: CR S8018-8019) To require a Comptroller General report on redundancies, inefficiencies, and gaps in DOD 6.1-6.3 Science and Technology (S&T) programs.
+- 2011-11-30 — Amendment SA 1228 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1228 proposed by Senator McCain. (consideration: CR S8015-8021; text: CR S8019) To require a Comptroller General Report on Science, Technology, Engineering, and Math (STEM) initiatives.
+- 2011-11-30 — Amendment SA 1229 agreed to in Senate by Voice Vote.
+- 2011-11-30 — Amendment SA 1237 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1237 proposed by Senator Levin for Senator Shaheen. (consideration: CR S8015-8021; text: CR S8019) To require a Department of Defense assessment of the industrial base for night vision image intensification sensors.
+- 2011-11-30 — Amendment SA 1240 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1240 proposed by Senator Levin for Senator Warner. (consideration: CR S8015-8021; text: CR S8019) To provide for installation energy metering requirements.
+- 2011-11-30 — Amendment SA 1245 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1245 proposed by Senator McCain. (consideration: CR S8015-8021; text: CR S8019) To provide for increased efficiency and a reduction of Federal spending required for data servers and centers.
+- 2011-11-30 — Amendment SA 1246 as modified agreed to in Senate by Voice Vote. (text as modified: CR S8060)
+- 2011-11-30 — Amendment SA 1250 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1257 as modified agreed to in Senate by Voice Vote. (text as modified: CR S8045-8046)
+- 2011-11-30 — Amendment SA 1266 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1266 proposed by Senator Levin for Senator Warner. (consideration: CR S8015-8021; text: CR S8019) To establish a training policy for Department of Defense energy managers.
+- 2011-11-30 — Amendment SA 1276 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1276 proposed by Senator Levin for Senator Baucus. (consideration: CR S8015-8021; text: CR S8019-8020) To require a pilot program on the receipt by members of the Armed Forces of civilian credentialing for skills required of military occupational specialties.
+- 2011-11-30 — Amendment SA 1280 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1280 proposed by Senator McCain. (consideration: CR S8015-8021; text: CR S8020) To require the Secretary of Defense to submit, with the budget justification materials supporting the Department of Defense budget request for fiscal year 2013, information on the implementation of recommendations made by the Government Accountability Office with respect to the acquisition of launch services through the Evolved Expendable Launch Vehicle program.
+- 2011-11-30 — Amendment SA 1281 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8016)
+- 2011-11-30 — Amendment SA 1298 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1298 proposed by Senator Levin for Senator Webb. (consideration: CR S8015-8021; text: CR S8020) To extend the time limit for submittal of claims under TRICARE for care provided outside the United States.
+- 2011-11-30 — Amendment SA 1301 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1301 proposed by Senator Levin. (consideration: CR S8015-8021; text: CR S8020) To authorize the award of the distinguished service cross for captain Frederick L. Spaulding for acts of valor during the Vietnam War.
+- 2011-11-30 — Amendment SA 1303 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1303 proposed by Senator Levin. (consideration: CR S8015-8021; text: CR S8020) To authorize the exchange with the United Kingdom of certain F-35 Lightning II Joint Strike Fighter aircraft.
+- 2011-11-30 — Amendment SA 1315 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1315 proposed by Senator Levin for Senator Hatch. (consideration: CR S8015-8021; text: CR S8020) To require the Secretary of Defense to submit to Congress a long-term plan for maintaining a minimal capacity to produce intercontinental ballistic missile solid rocket motors.
+- 2011-11-30 — Amendment SA 1317 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1317 proposed by Senator Levin for Senator Portman. (consideration: CR S8015-8021; text: CR S8020-8021) To require a report on the analytic capabilities of the Department of Defense regarding foreign ballistic missile threats.
+- 2011-11-30 — Amendment SA 1324 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1324 proposed by Senator Levin for Senator Cochran. (consideration: CR S8015-8021; text: CR S8021) To extend the authorization for a military construction project for the Air National Guard to relocate a munitions storage complex at Gulfport-Biloxi International Airport, Mississippi.
+- 2011-11-30 — Amendment SA 1326 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1326 proposed by Senator Levin for Senator Risch. (CR S8015-8021; text: CR S8021) To require exploration of opportunities to increase foreign military training with allies at test and training ranges in the continental United States.
+- 2011-11-30 — Amendment SA 1332 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Amendment SA 1332 proposed by Senator Levin for Senator Lieberman. (consideration: CR S8015-8021; text: CR S8021) To require a report on the approval and implementation of the Air Sea Battle Concept.
+- 2011-11-30 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 88 - 12. Record Vote Number: 212. (consideration: CR S8021-8022; text: CR S8021)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012, S8015-8021)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012, S8015-8021)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012, S8025-8026)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012, S8025-8026, S8036-8045, S8048)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012, S8032-8033)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012, S8062)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012, S8062)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012, S8062)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012-8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8012-8054, S8060-8062)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8015-8021)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8015-8021)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8015-8021)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8015-8021)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8015-8021)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8015-8021)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8015-8021)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8015-8021)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S80160-8061)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8023-8024)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8030-8032)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8033)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8033-8036)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8045-8048, S8948-8049)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8049-8050)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8050-8053)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8053-8054)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8060)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8061)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8061-8062)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8013, S8062)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014, S8015-8021)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014, S8015-8021)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014, S8015-8021)
+- 2011-11-30 — Considered by Senate. (consideration: CR S8014, S8027-8030)
+- 2011-11-30 — Proposed amendment SA 1067 withdrawn in Senate. (consideration: CR S8053)
+- 2011-11-30 — Proposed amendment SA 1073 withdrawn in Senate. (consideration: CR S8032)
+- 2011-11-30 — Proposed amendment SA 1094 withdrawn in Senate. (consideration: CR S8012, S8062)
+- 2011-11-30 — Proposed amendment SA 1095 withdrawn in Senate. (consideration: CR S8062)
+- 2011-11-30 — Proposed amendment SA 1096 withdrawn in Senate. (consideration: CR S8012, S8062)
+- 2011-11-30 — Proposed amendment SA 1101 withdrawn in Senate. (consideration: CR S8062)
+- 2011-11-30 — Proposed amendment SA 1230 withdrawn in Senate. (consideration: CR S8033)
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1056 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1066 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1098 as modified agreed to in Senate by Voice Vote.(text as modified: CR S8061)
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1102 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1116 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1122 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1129 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1130 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1132 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1134 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1143 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1149 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8017-8018)
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1162 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1164 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1165 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1166 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1167 as modified agreed to in Senate by Unanimous Consent.(text as nodified: CR S8018)
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1172 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8033-8034)
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1178 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8018)
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1180 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8015-8016)
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1183 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8016)
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1185 as modified agreed to in Senate by Voice Vote.(text as modified: CR S8061)
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1207 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1210 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1215 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8016)
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1227 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1228 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1229 agreed to in Senate by Voice Vote.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1237 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1240 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1245 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1246 as modified agreed to in Senate by Voice Vote.(text as modified: CR S8060)
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1250 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1257 as modified agreed to in Senate by Voice Vote.(text as modified: CR S8045-8046)
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1266 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1276 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1280 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1281 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8016)
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1298 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1301 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1303 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1315 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1317 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1324 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1326 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment agreed to: Amendment SA 1332 agreed to in Senate by Unanimous Consent.
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1122 proposed by Senator Levin for Senator Shaheen.(consideration: CR S8015-8021; text: CR S8016-8017)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1129 proposed by Senator Levin for Senator Reid.(consideration: CR S1015-1021; text: CR S8017)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1130 proposed by Senator Levin for Senator Reid.(consideration: CR S8015-8021; text: CR S8017)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1143 proposed by Senator Levin for Senator Hagan.(consideration: CR S8015-8021; text: CR S8017)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1162 proposed by Senator Levin for Senator Warner.(consideration: CR S8015-8021; text as modified: CR S8018)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1164 proposed by Senator Levin for Senator Warner.(consideration: CR S8015-8021; text: CR S8018)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1165 proposed by Senator Levin for Senator Warner.(consideration: CR S8015-8021; text: CR S8018)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1166 proposed by Senator Levin for Senator Warner.(consideration: CR S8015-8021; text: CR S8018)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1167 proposed by Senator Levin for Senator Warner.(consideration: CR S8015-8021)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1178 proposed by Senator Levin for Senator Murray.(consideration: CR S8015-8021)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1207 proposed by Senator Levin for Senator Coburn.(consideration: CR S8015-8021; text: CR S8018)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1227 proposed by Senator McCain.(consideration: CR S8015-8021; text: CR S8018-8019)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1228 proposed by Senator McCain.(consideration: CR S8015-8021; text: CR S8019)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1237 proposed by Senator Levin for Senator Shaheen.(consideration: CR S8015-8021; text: CR S8019)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1240 proposed by Senator Levin for Senator Warner.(consideration: CR S8015-8021; text: CR S8019)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1245 proposed by Senator McCain.(consideration: CR S8015-8021; text: CR S8019)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1266 proposed by Senator Levin for Senator Warner.(consideration: CR S8015-8021; text: CR S8019)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1276 proposed by Senator Levin for Senator Baucus.(consideration: CR S8015-8021; text: CR S8019-8020)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1280 proposed by Senator McCain.(consideration: CR S8015-8021; text: CR S8020)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1298 proposed by Senator Levin for Senator Webb.(consideration: CR S8015-8021; text: CR S8020)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1301 proposed by Senator Levin.(consideration: CR S8015-8021; text: CR S8020)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1303 proposed by Senator Levin.(consideration: CR S8015-8021; text: CR S8020)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1315 proposed by Senator Levin for Senator Hatch.(consideration: CR S8015-8021; text: CR S8020)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1317 proposed by Senator Levin for Senator Portman.(consideration: CR S8015-8021; text: CR S8020-8021)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1324 proposed by Senator Levin for Senator Cochran.(consideration: CR S8015-8021; text: CR S8021)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1326 proposed by Senator Levin for Senator Risch.(CR S8015-8021; text: CR S8021)
+- 2011-11-30 — Senate amendment proposed (on the floor): Amendment SA 1332 proposed by Senator Levin for Senator Lieberman.(consideration: CR S8015-8021; text: CR S8021)
+- 2011-11-30 — Senate amendment submitted
+- 2011-11-30 — Senate amendment submitted
+- 2011-12-01 — Amendment SA 1068 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1087 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8128)
+- 2011-12-01 — Amendment SA 1089 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1090 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8117)
+- 2011-12-01 — Amendment SA 1097 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1099 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1100 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1114 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8116-8117)
+- 2011-12-01 — Amendment SA 1117 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1118 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1119 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1120 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1125 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 213.
+- 2011-12-01 — Amendment SA 1126 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 214.
+- 2011-12-01 — Amendment SA 1133 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8117)
+- 2011-12-01 — Amendment SA 1137 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1138 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1139 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1146 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8117)
+- 2011-12-01 — Amendment SA 1147 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1148 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1151 agreed to in Senate by Unanimous Consent.
+- 2011-12-01 — Amendment SA 1152 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1153 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1154 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1155 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1160 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1171 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1173 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1174 ruled out of order by the chair.
+- 2011-12-01 — Amendment SA 1179 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1182 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1184 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1186 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1187 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1197 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1200 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1202 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8128)
+- 2011-12-01 — Amendment SA 1204 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1206 agreed to in Senate by Unanimous Consent.
+- 2011-12-01 — Amendment SA 1209 agreed to in Senate by Voice Vote.
+- 2011-12-01 — Amendment SA 1211 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1220 agreed to in Senate by Unanimous Consent.
+- 2011-12-01 — Amendment SA 1236 agreed to in Senate by Unanimous Consent.
+- 2011-12-01 — Amendment SA 1239 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1247 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1248 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1249 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1253 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1255 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1258 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1259 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1261 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1263 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1274 not agreed to in Senate by Yea-Nay Vote. 41 - 59. Record Vote Number: 217.
+- 2011-12-01 — Amendment SA 1286 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1287 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8117)
+- 2011-12-01 — Amendment SA 1291 ruled out of order by the chair.
+- 2011-12-01 — Amendment SA 1293 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8117)
+- 2011-12-01 — Amendment SA 1294 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1296 ruled non-germane by the chair.
+- 2011-12-01 — Amendment SA 1304 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8117)
+- 2011-12-01 — Amendment SA 1414 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 216.
+- 2011-12-01 — Amendment SA 1456 agreed to in Senate by Yea-Nay Vote. 99 - 1. Record Vote Number: 215.
+- 2011-12-01 — Amendment SA 1456 proposed by Senator Feinstein. (consideration: CR S8123-8124, S8125; text: CR S8123) Of a perfecting nature.
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094, S8095-8105, S8107-8108)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094, S8107)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094, S8110, S8122-8123, S8124-8125)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094, S8115, S8116-8117)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094, S8116-8117)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094, S8117)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8094-8138)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8105-8107, S8125-8126)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8109, S8115-8116, S8116-8117)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8113-8115, S8126-8127)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8116-8117)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8116-8117)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8116-8117)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8116-8117)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8116-8117)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8116-8117)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8116-8117)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8116-8117)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8122)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8122)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8126)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8126)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8127-8128)
+- 2011-12-01 — Considered by Senate. (consideration: CR S8095, S8128-8129)
+- 2011-12-01 — Passed Senate with amendments by Yea-Nay. 93 - 7. Record Vote Number: 218.
+- 2011-12-01 — Passed/agreed to in Senate: Passed Senate with amendments by Yea-Nay. 93 - 7. Record Vote Number: 218.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1068.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1089.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1097.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1099.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1100.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1117.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1118.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1119.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1120.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1137.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1138.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1139.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1147.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1148.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1152.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1153.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1154.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1155.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1160.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1171.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1173.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1174.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1179.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1182.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1184.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1186.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1187.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1197.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1200.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1204.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1211.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1239.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1247.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1248.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1249.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1253.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1255.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1258.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1259.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1261.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1263.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1286.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1291.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1294.
+- 2011-12-01 — Point of order that the amendment violates Rule XXII raised in Senate with respect to amendment SA 1296.
+- 2011-12-01 — Proposed amendment SA 1080 withdrawn in Senate. (consideration: CR S8126)
+- 2011-12-01 — Proposed amendment SA 1093 withdrawn in Senate. (consideration: CR S8107)
+- 2011-12-01 — Proposed amendment SA 1105 withdrawn in Senate. (consideration: CR S8117)
+- 2011-12-01 — Proposed amendment SA 1158 withdrawn in Senate. (consideration: CR S8117)
+- 2011-12-01 — Proposed amendment SA 1256 withdrawn in Senate. (consideration: CR S8122)
+- 2011-12-01 — Proposed amendment SA 1290 withdrawn in Senate. (consideration: CR S8122)
+- 2011-12-01 — Roll call votes on amendments in Senate: Amendment SA 1125 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 213.
+- 2011-12-01 — Roll call votes on amendments in Senate: Amendment SA 1126 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 214.
+- 2011-12-01 — Roll call votes on amendments in Senate: Amendment SA 1274 not agreed to in Senate by Yea-Nay Vote. 41 - 59. Record Vote Number: 217.
+- 2011-12-01 — Roll call votes on amendments in Senate: Amendment SA 1414 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 216.
+- 2011-12-01 — Roll call votes on amendments in Senate: Amendment SA 1456 agreed to in Senate by Yea-Nay Vote. 99 - 1. Record Vote Number: 215.
+- 2011-12-01 — See also H.R. 1540.
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1087 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8128)
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1090 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8117)
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1114 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8116-8117)
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1133 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8117)
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1146 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8117)
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1151 agreed to in Senate by Unanimous Consent.
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1202 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8128)
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1206 agreed to in Senate by Unanimous Consent.
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1209 agreed to in Senate by Voice Vote.
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1220 agreed to in Senate by Unanimous Consent.
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1236 agreed to in Senate by Unanimous Consent.
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1287 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8117)
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1293 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8117)
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1304 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8117)
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1414 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 216.
+- 2011-12-01 — Senate amendment agreed to: Amendment SA 1456 agreed to in Senate by Yea-Nay Vote. 99 - 1. Record Vote Number: 215.
+- 2011-12-01 — Senate amendment not agreed to: Amendment SA 1125 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 213.
+- 2011-12-01 — Senate amendment not agreed to: Amendment SA 1126 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 214.
+- 2011-12-01 — Senate amendment not agreed to: Amendment SA 1274 not agreed to in Senate by Yea-Nay Vote. 41 - 59. Record Vote Number: 217.
+- 2011-12-01 — Senate amendment proposed (on the floor): Amendment SA 1456 proposed by Senator Feinstein.(consideration: CR S8123-8124, S8125; text: CR S8123)
+- 2011-12-01 — Senate amendment submitted
+- 2011-12-01 — Senate incorporated this measure in H.R. 1540 as an amendment.
