@@ -1,7 +1,7 @@
 ---
 measure: S. 671
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 0 executed, 10 stated and not applied.
+21 amendatory instructions. 0 executed, 21 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,3 +41,14 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (6)(A), by striking “United State” and inserting “United States”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (9), by striking “or (1)(A)(ii)” and inserting “or (1)(A)(iii)”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (10), by striking “paragraph (1)(A)(ii)” and inserting “paragraph (1)(A)(iii)”. | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (A), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in clause (i)(II), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clause (ii) as clause (iii); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after clause (i) the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraph (D) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (6)(A), by striking “United State” and inserting “United States”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (9), by striking “or (1)(A)(ii)” and inserting “or (1)(A)(iii)”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (10), by striking “paragraph (1)(A)(ii)” and inserting “paragraph (1)(A)(iii)”. | the bill names no machine-readable US Code section |
+| — | insert | Section 3486 of title 18, United States Code, is amended by inserting at the end the following: | the bill names no machine-readable US Code section |
