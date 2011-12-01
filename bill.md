@@ -28,10 +28,13 @@ This Act may be cited at the “Utilizing America’s Federal Lands for Wind Ene
     - **(A)** removal of any towers, devices, or other surface infrastructure from the site; and
     - **(B)** restoration of the site to approximately the condition that existed at the time the project began; and
   - **(4)** provides meteorological information obtained by the permitted project to the Bureau of Land Management and the Forest Service.
-- **(b)** *NEPA exclusion* Section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) shall not apply with respect to a meteorological site testing and monitoring project.
-- **(c)** *Permit timeline*
+- **(b)** *NEPA exclusion* Section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)) shall not apply with respect to a meteorological site testing and monitoring project.
+- **(c)** *Permit timeline and conditions*
   - **(1)** *In general* The Director of the Bureau of Land Management or Chief of the Forest Service, as applicable, shall decide whether to issue a permit for a project that is a meteorological site testing and monitoring project within 30 days after receiving an application for the permit.
-  - **(2)** *Denial of Application* If the application is denied, the Director or Chief, respectively, shall provide the applicant—
+  - **(2)** *Public comment and consultation* During the period referred to in paragraph (1), the Director of the Bureau of Land Management or the Chief of the Forest Service, as applicable, shall—
+    - **(A)** provide an opportunity for submission of comments by the public; and
+    - **(B)** consult with the heads of other Federal, State, and local agencies that would be affected by the issuance of the permit.
+  - **(3)** *Denial of Application* If the application is denied, the Director or Chief, respectively, shall provide the applicant—
     - **(A)** in writing, clear and comprehensive reasons why the application was not approved and detailed information concerning any deficiencies, and
     - **(B)** an opportunity to remedy any deficiencies.
 - **(d)** *Protection of information* The information provided to the Bureau of Land Management and the Forest Service pursuant to subsection (a)(4) shall be treated by such agency as proprietary information and protected against disclosure.
