@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1540
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1540
@@ -507,3 +507,11 @@ National Defense Authorization Act for Fiscal Year 2012
 - 2011-05-26 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3736)
 - 2011-05-26 — The title of the measure was amended. Agreed to without objection.
 - 2011-06-06 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
+- 2011-12-01 — Measure laid before Senate by unanimous consent. (consideration: CR S8138)
+- 2011-12-01 — Passed Senate with an amendment by Unanimous Consent. (text: CR 12/5/2011 S8187-8341)
+- 2011-12-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR 12/5/2011 S8187-8341)
+- 2011-12-01 — See also S. 1867.
+- 2011-12-01 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2011-12-01 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2011-12-01 — Senate insists on its amendment, asks for a conference, appoints conferees Levin; Lieberman; Reed; Akaka; Nelson NE; Webb; McCaskill; Udall CO; Hagan; Begich; Manchin; Shaheen; Gillibrand; Blumenthal; McCain; Inhofe; Sessions; Chambliss; Wicker; Brown MA; Portman; Ayotte; Collins; Graham; Cornyn; Vitter. (consideration: CR S8138)
+- 2011-12-01 — Senate struck all after the Enacting Clause and substituted the language of S. 1867 amended.
