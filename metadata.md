@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3010
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3010
@@ -56,9 +56,10 @@ Regulatory Accountability Act of 2011
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 - Rep. Shuler, Heath [D-NC-11] (S001171)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (7)
 
@@ -152,3 +153,4 @@ Regulatory Accountability Act of 2011
 - 2011-12-02 — The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee.
 - 2011-12-02 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8104)
 - 2011-12-02 — The previous question was ordered pursuant to the rule. (consideration: CR H8103)
+- 2011-12-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
