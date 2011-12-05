@@ -1,7 +1,7 @@
 ---
 measure: S. 384
 congress: 112
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 384
@@ -89,6 +89,10 @@ A bill to amend title 39, United States Code, to extend the authority of the Uni
 
 - Senate — Homeland Security and Governmental Affairs Committee
 
+## Recorded votes (1)
+
+- 2011-12-13 — [House 112-1-921](votes/house-112-1-0921.md) — On Motion to Suspend the Rules and Pass — **Passed** (417–1)
+
 ## Actions
 
 - 2011-02-17 — Introduced in Senate
@@ -101,3 +105,20 @@ A bill to amend title 39, United States Code, to extend the authority of the Uni
 - 2011-11-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 239.
 - 2011-12-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8342; text as passed Senate: CR S8342)
 - 2011-12-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8342; text as passed Senate: CR S8342)
+- 2011-12-06 — Held at the desk.
+- 2011-12-06 — Message on Senate action sent to the House.
+- 2011-12-06 — Received in the House.
+- 2011-12-12 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2011-12-12 — Considered under suspension of the rules. (consideration: CR H8324-8325)
+- 2011-12-12 — DEBATE - The House proceeded with forty minutes of debate on S. 384.
+- 2011-12-12 — Mr. Issa moved to suspend the rules and pass the bill.
+- 2011-12-13 — Considered as unfinished business. (consideration: CR H8760-8761)
+- 2011-12-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-13 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 417 - 1 (Roll no. 921). (text: CR 12/12/2011 H8324)
+- 2011-12-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 417 - 1 (Roll no. 921).(text: CR 12/12/2011 H8324)
+- 2011-12-16 — Presented to President.
+- 2011-12-16 — Presented to President.
+- 2011-12-23 — Became Public Law No: 112-80.
+- 2011-12-23 — Became Public Law No: 112-80.
+- 2011-12-23 — Signed by President.
+- 2011-12-23 — Signed by President.
