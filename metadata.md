@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3463
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3463
@@ -20,10 +20,11 @@ To reduce Federal spending and the deficit by terminating taxpayer financing of 
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Recorded votes (2)
 
@@ -50,3 +51,4 @@ To reduce Federal spending and the deficit by terminating taxpayer financing of 
 - 2011-12-01 — Passed/agreed to in House: On passage Passed by recorded vote: 235 - 190 (Roll no. 873).(text: CR H8016-8019)
 - 2011-12-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8033)
 - 2011-12-01 — The previous question was ordered pursuant to the rule. (consideration: CR H8032)
+- 2011-12-05 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
