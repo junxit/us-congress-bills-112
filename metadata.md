@@ -1,7 +1,7 @@
 ---
 measure: H.R. 527
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 527
@@ -45,10 +45,11 @@ Regulatory Flexibility Improvements Act of 2011
 - Rep. McKinley, David B. [R-WV-1] (M001180)
 - Rep. Brooks, Mo [R-AL-5] (B001274)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Small Business Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (7)
 
@@ -147,3 +148,4 @@ Regulatory Flexibility Improvements Act of 2011
 - 2011-12-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8055)
 - 2011-12-01 — The previous question was ordered pursuant to the rule. (consideration: CR H8054)
 - 2011-12-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which were debated earlier and on which further proceedings were postponed.
+- 2011-12-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
