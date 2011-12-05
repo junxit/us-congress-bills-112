@@ -1,7 +1,7 @@
 ---
 measure: S. 384
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 384
@@ -99,3 +99,5 @@ A bill to amend title 39, United States Code, to extend the authority of the Uni
 - 2011-11-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 112-97.
 - 2011-11-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 112-97.
 - 2011-11-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 239.
+- 2011-12-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8342; text as passed Senate: CR S8342)
+- 2011-12-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8342; text as passed Senate: CR S8342)
