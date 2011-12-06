@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2471
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2471
@@ -57,6 +57,10 @@ To amend section 2710 of title 18, United States Code, to clarify that a video t
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2011-12-06 — [House 112-1-891](votes/house-112-1-0891.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (303–116)
+
 ## Actions
 
 - 2011-07-08 — Introduced in House
@@ -69,3 +73,11 @@ To amend section 2710 of title 18, United States Code, to clarify that a video t
 - 2011-12-02 — Placed on the Union Calendar, Calendar No. 211.
 - 2011-12-02 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-312.
 - 2011-12-02 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-312.
+- 2011-12-06 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2011-12-06 — Considered as unfinished business. (consideration: CR H8169)
+- 2011-12-06 — Considered under suspension of the rules. (consideration: CR H8161-8165)
+- 2011-12-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2471.
+- 2011-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-06 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
+- 2011-12-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 303 - 116 (Roll no. 891). (text: CR H8161)
+- 2011-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 303 - 116 (Roll no. 891).(text: CR H8161)
