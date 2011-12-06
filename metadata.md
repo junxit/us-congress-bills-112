@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 22
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 22
@@ -43,3 +43,13 @@ A joint resolution to grant the consent of Congress to an amendment to the compa
 - 2011-12-06 — Mr. Gohmert moved to suspend the rules and pass the resolution, as amended.
 - 2011-12-06 — On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote. (text: CR H8169-8170)
 - 2011-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.(text: CR H8169-8170)
+- 2011-12-07 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2011-12-08 — Resolving differences -- Senate actions: Senate agreed to the House amendment to Senate bill by Unanimous Consent.(consideration: CR S8466; text as Senate agreed to House amendment: CR S8466)
+- 2011-12-08 — Senate agreed to the House amendment to Senate bill by Unanimous Consent. (consideration: CR S8466; text as Senate agreed to House amendment: CR S8466)
+- 2011-12-09 — Message on Senate action sent to the House.
+- 2011-12-13 — Presented to President.
+- 2011-12-13 — Presented to President.
+- 2011-12-19 — Became Public Law No: 112-71.
+- 2011-12-19 — Became Public Law No: 112-71.
+- 2011-12-19 — Signed by President.
+- 2011-12-19 — Signed by President.

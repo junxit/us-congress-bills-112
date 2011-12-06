@@ -1,15 +1,15 @@
 ---
-legis-num: S.J.Res. 22
-congress: 112th CONGRESS
+legis-num: S.J. RES. 22
+congress: One Hundred Twelfth Congress of the United States of America
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
-# S.J.Res. 22
+# S.J. RES. 22
 
-That the resolution from the Senate (S.J. Res. 22) entitled “Joint resolution to grant the consent of Congress to an amendment to the compact between the States of Missouri and Illinois providing that bonds issued by the Bi-State Development Agency may mature in not to exceed 40 years.”, do pass with the following
+> To grant the consent of Congress to an amendment to the compact between the States of Missouri and Illinois providing that bonds issued by the Bi-State Development Agency may mature in not to exceed 40 years.
 
-*Strike out all after the resolving clause and insert:*
+That
 
 ## § 1. Consent
 
