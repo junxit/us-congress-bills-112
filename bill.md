@@ -277,7 +277,7 @@ Section 564 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb–3) i
   >     - **(A)** the issuance of emergency use instructions under paragraph (1) with respect to such product; or
   >     - **(B)** the introduction or delivery for introduction of such product into interstate commerce accompanied by such instructions during an emergency response to an actual emergency described in subsection (a)(2)(B).
 
-- **(b)** *Risk evaluation and mitigation strategies* Section 505–1 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355-1), is amended—
+- **(b)** *Risk evaluation and mitigation strategies* Section 505–1 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1), is amended—
   - **(1)** in subsection (f), by striking paragraph (7); and
   - **(2)** by adding at the end the following:
     > - **(k)** *Waiver in public health emergencies* The Secretary may waive any requirement of this section with respect to a qualified countermeasure (as defined in section 319F–1(a)(2) of the Public Health Service Act) to which a requirement under this section has been applied, if the Secretary determines that such waiver is required to mitigate the effects of, or reduce the severity of, an actual or potential domestic emergency or military emergency involving heightened risk of attack with a biological, chemical, radiological, or nuclear agent, or an actual or potential public health emergency affecting national security or the health and security of United States citizens abroad.
