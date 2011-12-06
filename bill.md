@@ -39,7 +39,7 @@ This Act may be cited as the “Temporary Bankruptcy Judgeships Extension Act of
     - **(A)** *Single vacancies* Except as provided in subparagraphs (B), (C), (D), and (E), the 1st vacancy in the office of a bankruptcy judge for each district specified in paragraph (1)—
       - **(i)** occurring more than 5 years after the date of the enactment of this Act, and
       - **(ii)** resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
-    - **(B)** *Central district of California* The 1st, 2d, and 3d vacancies in the office of bankruptcy judge for the central district of California—
+    - **(B)** *Central district of California* The 1st, 2d, and 3d vacancies in the office of a bankruptcy judge for the central district of California—
       - **(i)** occurring 5 years or more after the date of the enactment of this Act, and
       - **(ii)** resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
     - **(C)** *District of Delaware* The 1st, 2d, 3d, and 4th vacancies in the office of a bankruptcy judge for the district of Delaware—
@@ -71,3 +71,9 @@ This Act may be cited as the “Temporary Bankruptcy Judgeships Extension Act of
     - **(A)** occurring more than 5 years after the date of the enactment of this Act, and
     - **(B)** resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
   - **(3)** *Applicability of other provisions* Except as provided in paragraphs (1) and (2), all other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 (28 U.S.C. 152 note) remain applicable to the temporary office of the bankruptcy judge referred to in paragraph (1).
+
+## § 3. Bankruptcy filing fee
+
+- **(a)** *Bankruptcy filing fee* Section 1930(a)(3) of title 28, United States Code, is amended by striking “$1,000” and inserting “$1,042”.
+- **(b)** *Expenditure limitation* Incremental amounts collected by reason of the enactment of subsection (a) shall be deposited in a special fund in the Treasury to be established after the date of enactment of this Act. Such amounts shall be available for the purposes specified in section 1931(a) of title 28, United States Code, but only to the extent specifically appropriated by an Act of Congress enacted after the date of enactment of this Act.
+- **(c)** *Effective date* This section shall take effect 180 days after the date of enactment of this Act.
