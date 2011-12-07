@@ -20,3 +20,9 @@ The purpose of this Act is to increase accountability for and transparency in th
 ## § 3. Congressional review of agency rulemaking
 
 Chapter 8 of title 5, United States Code, is amended to read as follows:
+
+## § 4. Budgetary effects of rules subject to section 802 of title 5, United States Code
+
+Section 257(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985 is amended by adding at the end the following new subparagraph:
+
+> - **(E)** *Budgetary effects of rules subject to section 802 of title 5, United States Code* Any rules subject to the congressional approval procedure set forth in section 802 of chapter 8 of title 5, United States Code, affecting budget authority, outlays, or receipts shall be assumed to be effective unless it is not approved in accordance with such section.

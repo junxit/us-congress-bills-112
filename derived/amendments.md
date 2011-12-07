@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | amend | Chapter 8 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Chapter 8 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 257(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985 is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |

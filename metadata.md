@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 10
@@ -228,6 +228,16 @@ Regulations From the Executive in Need of Scrutiny Act of 2011
 - House — Rules Committee
 - House — Judiciary Committee
 
+## Recorded votes (7)
+
+- 2011-12-07 — [House 112-1-895](votes/house-112-1-0895.md) — On Agreeing to the Amendment — **Failed** (187–236)
+- 2011-12-07 — [House 112-1-896](votes/house-112-1-0896.md) — On Agreeing to the Amendment — **Failed** (183–238)
+- 2011-12-07 — [House 112-1-897](votes/house-112-1-0897.md) — On Agreeing to the Amendment — **Failed** (177–246)
+- 2011-12-07 — [House 112-1-898](votes/house-112-1-0898.md) — On Agreeing to the Amendment — **Failed** (177–242)
+- 2011-12-07 — [House 112-1-899](votes/house-112-1-0899.md) — On Agreeing to the Amendment — **Failed** (183–240)
+- 2011-12-07 — [House 112-1-900](votes/house-112-1-0900.md) — On Motion to Recommit with Instructions — **Failed** (183–235)
+- 2011-12-07 — [House 112-1-901](votes/house-112-1-0901.md) — On Passage — **Passed** (241–184)
+
 ## Actions
 
 - 2011-01-20 — Introduced in House
@@ -244,3 +254,78 @@ Regulations From the Executive in Need of Scrutiny Act of 2011
 - 2011-11-18 — Placed on the Union Calendar, Calendar No. 192.
 - 2011-11-18 — Reported (Amended) by the Committee on Rules. H. Rept. 112-278, Part II.
 - 2011-11-18 — Reported (Amended) by the Committee on Rules. H. Rept. 112-278, Part II.
+- 2011-12-01 — Rules Committee Resolution H. Res. 479 Reported to House. Rule provides for consideration of H.R. 10 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution waives all points of order against consideration of the bill. The resolution waives all points of order against provisions in the bill, as amended.
+- 2011-12-06 — Rule H. Res. 479 passed House.
+- 2011-12-07 — Amendment (A001) offered by Mr. Sessions. (consideration: CR H8224-8225; text: CR H3224)
+- 2011-12-07 — Amendment (A002) offered by Mr. Johnson (GA). (consideration: CR H8225-8227, H8232; text: CR H8225)
+- 2011-12-07 — Amendment (A003) offered by Mr. Schrader. (consideration: CR H8227, H8232-8233; text: CR H8227)
+- 2011-12-07 — Amendment (A004) offered by Mr. McKinley. (consideration: CR H8228; text: CR H8228)
+- 2011-12-07 — Amendment (A005) offered by Mrs. McCarthy (NY). (consideration: CR H8228-82229, H8233-8234; text: CR H8228)
+- 2011-12-07 — Amendment (A006) offered by Ms. Jackson Lee (TX). (consideration: CR H8229-8230, H8234; text: CR H3229)
+- 2011-12-07 — Amendment (A007) offered by Ms. Moore. (consideration: CR H8230-8232, H8234-8235; text: CR H3231)
+- 2011-12-07 — Amendment agreed to Committee of the Whole
+- 2011-12-07 — Amendment failed in Committee of the Whole
+- 2011-12-07 — Amendment failed in Committee of the Whole
+- 2011-12-07 — Amendment failed in Committee of the Whole
+- 2011-12-07 — Amendment failed in Committee of the Whole
+- 2011-12-07 — Amendment failed in Committee of the Whole
+- 2011-12-07 — By unanimous consent, the McKinley amendment was withdrawn. (consideration: CR H8228)
+- 2011-12-07 — Considered under the provisions of rule H. Res. 479. (consideration: CR H8209-8237)
+- 2011-12-07 — DEBATE - Pursuant to the provisions of H. Res. 479, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee (TX) Part B amendment No. 6.
+- 2011-12-07 — DEBATE - Pursuant to the provisions of H. Res. 479, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (GA) Part B amendment No. 2.
+- 2011-12-07 — DEBATE - Pursuant to the provisions of H. Res. 479, the Committee of the Whole proceeded with 10 minutes of debate on the McCarthy (NY) Part B amendment No. 5.
+- 2011-12-07 — DEBATE - Pursuant to the provisions of H. Res. 479, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley Part B amendment No. 4.
+- 2011-12-07 — DEBATE - Pursuant to the provisions of H. Res. 479, the Committee of the Whole proceeded with 10 minutes of debate on the Moore Part B amendment No. 7.
+- 2011-12-07 — DEBATE - Pursuant to the provisions of H. Res. 479, the Committee of the Whole proceeded with 10 minutes of debate on the Schrader Part B amendment No. 3.
+- 2011-12-07 — DEBATE - Pursuant to the provisions of H. Res. 479, the Committee of the Whole proceeded with 10 minutes of debate on the Sessions Part B amendment No. 1.
+- 2011-12-07 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the DeLauro motion to recommit. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to insert a provision entitled "Protection of Food Safety and Consumer's Right to Know through Country-of-Origin Labeling".
+- 2011-12-07 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 10.
+- 2011-12-07 — House amendment agreed to: On agreeing to the Sessions amendment (A001) Agreed to by voice vote.
+- 2011-12-07 — House amendment not agreed to: On agreeing to the Jackson Lee (TX) amendment (A006) Failed by recorded vote: 177 - 242 (Roll no. 898).
+- 2011-12-07 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A002) Failed by recorded vote: 187 - 236 (Roll no. 895).
+- 2011-12-07 — House amendment not agreed to: On agreeing to the McCarthy (NY) amendment (A005) Failed by recorded vote: 177 - 246 (Roll no. 897).
+- 2011-12-07 — House amendment not agreed to: On agreeing to the Moore amendment (A007) Failed by recorded vote: 183 - 240 (Roll no. 899).
+- 2011-12-07 — House amendment not agreed to: On agreeing to the Schrader amendment (A003) Failed by recorded vote: 183 - 238 (Roll no. 896).
+- 2011-12-07 — House amendment offered
+- 2011-12-07 — House amendment offered
+- 2011-12-07 — House amendment offered
+- 2011-12-07 — House amendment offered
+- 2011-12-07 — House amendment offered
+- 2011-12-07 — House amendment offered
+- 2011-12-07 — House amendment offered
+- 2011-12-07 — House amendment offered/reported by: Amendment (A001) offered by Mr. Sessions.(consideration: CR H8224-8225; text: CR H3224)
+- 2011-12-07 — House amendment offered/reported by: Amendment (A002) offered by Mr. Johnson (GA).(consideration: CR H8225-8227, H8232; text: CR H8225)
+- 2011-12-07 — House amendment offered/reported by: Amendment (A003) offered by Mr. Schrader.(consideration: CR H8227, H8232-8233; text: CR H8227)
+- 2011-12-07 — House amendment offered/reported by: Amendment (A004) offered by Mr. McKinley.(consideration: CR H8228; text: CR H8228)
+- 2011-12-07 — House amendment offered/reported by: Amendment (A005) offered by Mrs. McCarthy (NY).(consideration: CR H8228-82229, H8233-8234; text: CR H8228)
+- 2011-12-07 — House amendment offered/reported by: Amendment (A006) offered by Ms. Jackson Lee (TX).(consideration: CR H8229-8230, H8234; text: CR H3229)
+- 2011-12-07 — House amendment offered/reported by: Amendment (A007) offered by Ms. Moore.(consideration: CR H8230-8232, H8234-8235; text: CR H3231)
+- 2011-12-07 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 479 and Rule XVIII.
+- 2011-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-07 — Ms. DeLauro moved to recommit with instructions to Judiciary. (consideration: CR H8235-8237; text: CR H8235)
+- 2011-12-07 — On agreeing to the Jackson Lee (TX) amendment (A006) Failed by recorded vote: 177 - 242 (Roll no. 898).
+- 2011-12-07 — On agreeing to the Johnson (GA) amendment (A002) Failed by recorded vote: 187 - 236 (Roll no. 895).
+- 2011-12-07 — On agreeing to the McCarthy (NY) amendment (A005) Failed by recorded vote: 177 - 246 (Roll no. 897).
+- 2011-12-07 — On agreeing to the Moore amendment (A007) Failed by recorded vote: 183 - 240 (Roll no. 899).
+- 2011-12-07 — On agreeing to the Schrader amendment (A003) Failed by recorded vote: 183 - 238 (Roll no. 896).
+- 2011-12-07 — On agreeing to the Sessions amendment (A001) Agreed to by voice vote.
+- 2011-12-07 — On motion to recommit with instructions Failed by recorded vote: 183 - 235 (Roll no. 900).
+- 2011-12-07 — On passage Passed by recorded vote: 241 - 184 (Roll no. 901).
+- 2011-12-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. Jackson Lee (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-12-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2011-12-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McCarthy (NY) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mrs. McCarthy (NY) demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2011-12-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moore amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. Moore demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-12-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Schrader amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Schrader demanded a recorded vote and the Chair postponed further proceedings on adoption of the amendment until later in the legislative day.
+- 2011-12-07 — Passed/agreed to in House: On passage Passed by recorded vote: 241 - 184 (Roll no. 901).
+- 2011-12-07 — Roll call votes on amendments in House
+- 2011-12-07 — Roll call votes on amendments in House
+- 2011-12-07 — Roll call votes on amendments in House
+- 2011-12-07 — Roll call votes on amendments in House
+- 2011-12-07 — Roll call votes on amendments in House
+- 2011-12-07 — Rule provides for consideration of H.R. 10 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution waives all points of order against consideration of the bill. The resolution waives all points of order against provisions in the bill, as amended.
+- 2011-12-07 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H8222-8224)
+- 2011-12-07 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 10.
+- 2011-12-07 — The Speaker designated the Honorable Jeff Denham to act as Chairman of the Committee.
+- 2011-12-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8236)
+- 2011-12-07 — The previous question was ordered pursuant to the rule. (consideration: CR H8235)
+- 2011-12-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which were debated earlier and on which further proceedings were postponed.
