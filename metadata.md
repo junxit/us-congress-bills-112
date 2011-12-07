@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2351
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2351
@@ -33,3 +33,11 @@ North Cascades National Park Service Complex Fish Stocking Act
 - 2011-12-01 — Placed on the Union Calendar, Calendar No. 205.
 - 2011-12-01 — Reported by the Committee on Natural Resources. H. Rept. 112-305.
 - 2011-12-01 — Reported by the Committee on Natural Resources. H. Rept. 112-305.
+- 2011-12-05 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lujan objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2011-12-05 — Considered under suspension of the rules. (consideration: CR H8131)
+- 2011-12-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2351.
+- 2011-12-05 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2011-12-07 — Considered as unfinished business. (consideration: CR H8245)
+- 2011-12-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 12/05/2011 H8131)
+- 2011-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 12/05/2011 H8131)
