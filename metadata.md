@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2471
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2471
@@ -53,9 +53,10 @@ To amend section 2710 of title 18, United States Code, to clarify that a video t
 - Rep. Clarke, Hansen [D-MI-13] (C001085)
 - Rep. Petri, Thomas E. [R-WI-6] (P000265)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -81,3 +82,4 @@ To amend section 2710 of title 18, United States Code, to clarify that a video t
 - 2011-12-06 — Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.
 - 2011-12-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 303 - 116 (Roll no. 891). (text: CR H8161)
 - 2011-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 303 - 116 (Roll no. 891).(text: CR H8161)
+- 2011-12-07 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
