@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 10
@@ -223,10 +223,11 @@ Regulations From the Executive in Need of Scrutiny Act of 2011
 - Rep. Dold, Robert J. [R-IL-10] (D000613)
 - Rep. Mack, Connie [R-FL-14] (M001155)
 
-## Committees (2)
+## Committees (3)
 
 - House — Rules Committee
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (7)
 
@@ -329,3 +330,4 @@ Regulations From the Executive in Need of Scrutiny Act of 2011
 - 2011-12-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8236)
 - 2011-12-07 — The previous question was ordered pursuant to the rule. (consideration: CR H8235)
 - 2011-12-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments which were debated earlier and on which further proceedings were postponed.
+- 2011-12-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
