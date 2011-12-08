@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1021
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1021
@@ -22,9 +22,10 @@ Temporary Bankruptcy Judgeships Extension Act of 2011
 - Rep. Coble, Howard [R-NC-6] (C000556)
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -42,3 +43,5 @@ Temporary Bankruptcy Judgeships Extension Act of 2011
 - 2011-12-06 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2011-12-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8165)
 - 2011-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8165)
+- 2011-12-07 — Received in the Senate.
+- 2011-12-08 — Read twice and referred to the Committee on the Judiciary.
