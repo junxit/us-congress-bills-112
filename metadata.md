@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1633
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1633
@@ -144,6 +144,16 @@ Farm Dust Regulation Prevention Act of 2011
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (7)
+
+- 2011-12-08 — [House 112-1-906](votes/house-112-1-0906.md) — On Agreeing to the Amendment — **Failed** (150–255)
+- 2011-12-08 — [House 112-1-907](votes/house-112-1-0907.md) — On Agreeing to the Amendment — **Failed** (159–250)
+- 2011-12-08 — [House 112-1-908](votes/house-112-1-0908.md) — On Agreeing to the Amendment — **Failed** (165–249)
+- 2011-12-08 — [House 112-1-909](votes/house-112-1-0909.md) — On Agreeing to the Amendment — **Failed** (158–257)
+- 2011-12-08 — [House 112-1-910](votes/house-112-1-0910.md) — On Agreeing to the Amendment — **Failed** (170–247)
+- 2011-12-08 — [House 112-1-911](votes/house-112-1-0911.md) — On Motion to Recommit with Instructions — **Failed** (166–252)
+- 2011-12-08 — [House 112-1-912](votes/house-112-1-0912.md) — On Passage — **Passed** (268–150)
+
 ## Actions
 
 - 2011-04-15 — Introduced in House
@@ -158,3 +168,87 @@ Farm Dust Regulation Prevention Act of 2011
 - 2011-12-06 — Placed on the Union Calendar, Calendar No. 215.
 - 2011-12-06 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-316.
 - 2011-12-06 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-316.
+- 2011-12-07 — Rules Committee Resolution H. Res. 487 Reported to House. Rule provides for consideration of H.R. 1633 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution waives all points of order against consideration of the bill; proivdes that the amendment in the nature of a substitute recommended by the Committee on Energy and Commerce shall be considered as original text for the purpose of amendment and shall be considered as read. Further it waives all points of order against the committee amendment in the nature of a substitute.
+- 2011-12-08 — Amendment (A001) offered by Mr. Rush. (consideration: CR H8282-8283, H8290-8291; text: CR H8282-8283)
+- 2011-12-08 — Amendment (A002) offered by Mrs. Christensen. (consideration: CR H8283-8284, H8291-8292; text: CR H8283)
+- 2011-12-08 — Amendment (A003) offered by Mr. Crawford. (consideration: CR H8284-8285; text: CR H8284)
+- 2011-12-08 — Amendment (A004) offered by Mr. Markey. (consideration: CR H8285-8286, H8292; text: CR H8285)
+- 2011-12-08 — Amendment (A005) offered by Mr. Waxman. (consideration: CR H8286-8287, H8292-8293; text: CR H8286)
+- 2011-12-08 — Amendment (A006) offered by Mr. Flake. (consideration: CR H8287; text: CR H8287)
+- 2011-12-08 — Amendment (A007) offered by Mr. Schock. (consideration: CR H8287-8289; text: CR H8287-8288)
+- 2011-12-08 — Amendment (A008) offered by Mr. Green, Al. (consideration: CR H8289-8290, H8293-8294; text: CR H8289)
+- 2011-12-08 — Amendment agreed to Committee of the Whole
+- 2011-12-08 — Amendment agreed to Committee of the Whole
+- 2011-12-08 — Amendment agreed to Committee of the Whole
+- 2011-12-08 — Amendment failed in Committee of the Whole
+- 2011-12-08 — Amendment failed in Committee of the Whole
+- 2011-12-08 — Amendment failed in Committee of the Whole
+- 2011-12-08 — Amendment failed in Committee of the Whole
+- 2011-12-08 — Amendment failed in Committee of the Whole
+- 2011-12-08 — Considered under the provisions of rule H. Res. 487. (consideration: CR H8274-8296)
+- 2011-12-08 — DEBATE - Pursuant to the provisions of H.Res. 487, the Committee of the Whole proceeded with 10 minutes of debate on the Al Green (TX) amendment.
+- 2011-12-08 — DEBATE - Pursuant to the provisions of H.Res. 487, the Committee of the Whole proceeded with 10 minutes of debate on the Christensen amendment.
+- 2011-12-08 — DEBATE - Pursuant to the provisions of H.Res. 487, the Committee of the Whole proceeded with 10 minutes of debate on the Crawford amendment.
+- 2011-12-08 — DEBATE - Pursuant to the provisions of H.Res. 487, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment.
+- 2011-12-08 — DEBATE - Pursuant to the provisions of H.Res. 487, the Committee of the Whole proceeded with 10 minutes of debate on the Markey amendment.
+- 2011-12-08 — DEBATE - Pursuant to the provisions of H.Res. 487, the Committee of the Whole proceeded with 10 minutes of debate on the Rush amendment.
+- 2011-12-08 — DEBATE - Pursuant to the provisions of H.Res. 487, the Committee of the Whole proceeded with 10 minutes of debate on the Schock amendment.
+- 2011-12-08 — DEBATE - Pursuant to the provisions of H.Res. 487, the Committee of the Whole proceeded with 10 minutes of debate on the Waxman amendment.
+- 2011-12-08 — DEBATE - The House proceeded with 10 minutes of debate on the DeGette motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment that adds a new section to the bill to prohibit any part of the bill from limiting the Administrator of the Environmental Protection Agency from proposing, finalizing, implementing, or enforcing any regulation promulgated under the Clean Air Act relating to specified emissions.
+- 2011-12-08 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1633.
+- 2011-12-08 — House amendment agreed to: On agreeing to the Crawford amendment (A003) Agreed to by voice vote.
+- 2011-12-08 — House amendment agreed to: On agreeing to the Flake amendment (A006) Agreed to by voice vote.
+- 2011-12-08 — House amendment agreed to: On agreeing to the Schock amendment (A007) Agreed to by voice vote.
+- 2011-12-08 — House amendment not agreed to: On agreeing to the Christensen amendment (A002) Failed by recorded vote: 159 - 250 (Roll no. 907).
+- 2011-12-08 — House amendment not agreed to: On agreeing to the Green, Al amendment (A008) Failed by recorded vote: 170 - 247 (Roll no. 910).
+- 2011-12-08 — House amendment not agreed to: On agreeing to the Markey amendment (A004) Failed by recorded vote: 165 - 249 (Roll no. 908).
+- 2011-12-08 — House amendment not agreed to: On agreeing to the Rush amendment (A001) Failed by recorded vote: 150 - 255 (Roll no. 906).
+- 2011-12-08 — House amendment not agreed to: On agreeing to the Waxman amendment (A005) Failed by recorded vote: 158 - 257 (Roll no. 909).
+- 2011-12-08 — House amendment offered
+- 2011-12-08 — House amendment offered
+- 2011-12-08 — House amendment offered
+- 2011-12-08 — House amendment offered
+- 2011-12-08 — House amendment offered
+- 2011-12-08 — House amendment offered
+- 2011-12-08 — House amendment offered
+- 2011-12-08 — House amendment offered
+- 2011-12-08 — House amendment offered/reported by: Amendment (A001) offered by Mr. Rush.(consideration: CR H8282-8283, H8290-8291; text: CR H8282-8283)
+- 2011-12-08 — House amendment offered/reported by: Amendment (A002) offered by Mrs. Christensen.(consideration: CR H8283-8284, H8291-8292; text: CR H8283)
+- 2011-12-08 — House amendment offered/reported by: Amendment (A003) offered by Mr. Crawford.(consideration: CR H8284-8285; text: CR H8284)
+- 2011-12-08 — House amendment offered/reported by: Amendment (A004) offered by Mr. Markey.(consideration: CR H8285-8286, H8292; text: CR H8285)
+- 2011-12-08 — House amendment offered/reported by: Amendment (A005) offered by Mr. Waxman.(consideration: CR H8286-8287, H8292-8293; text: CR H8286)
+- 2011-12-08 — House amendment offered/reported by: Amendment (A006) offered by Mr. Flake.(consideration: CR H8287; text: CR H8287)
+- 2011-12-08 — House amendment offered/reported by: Amendment (A007) offered by Mr. Schock.(consideration: CR H8287-8289; text: CR H8287-8288)
+- 2011-12-08 — House amendment offered/reported by: Amendment (A008) offered by Mr. Green, Al.(consideration: CR H8289-8290, H8293-8294; text: CR H8289)
+- 2011-12-08 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 487 and Rule XVIII.
+- 2011-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-08 — Ms. DeGette moved to recommit with instructions to Energy and Commerce. (consideration: CR H8294-8296; text: CR H8294)
+- 2011-12-08 — On agreeing to the Christensen amendment (A002) Failed by recorded vote: 159 - 250 (Roll no. 907).
+- 2011-12-08 — On agreeing to the Crawford amendment (A003) Agreed to by voice vote.
+- 2011-12-08 — On agreeing to the Flake amendment (A006) Agreed to by voice vote.
+- 2011-12-08 — On agreeing to the Green, Al amendment (A008) Failed by recorded vote: 170 - 247 (Roll no. 910).
+- 2011-12-08 — On agreeing to the Markey amendment (A004) Failed by recorded vote: 165 - 249 (Roll no. 908).
+- 2011-12-08 — On agreeing to the Rush amendment (A001) Failed by recorded vote: 150 - 255 (Roll no. 906).
+- 2011-12-08 — On agreeing to the Schock amendment (A007) Agreed to by voice vote.
+- 2011-12-08 — On agreeing to the Waxman amendment (A005) Failed by recorded vote: 158 - 257 (Roll no. 909).
+- 2011-12-08 — On motion to recommit with instructions Failed by recorded vote: 166 - 252 (Roll no. 911).
+- 2011-12-08 — On passage Passed by recorded vote: 268 - 150 (Roll no. 912).
+- 2011-12-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Al Green (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Green demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-12-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Christensen amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Christensen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-12-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Markey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Markey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-12-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rush amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Rush demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-12-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Waxman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Whitfield demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2011-12-08 — Passed/agreed to in House: On passage Passed by recorded vote: 268 - 150 (Roll no. 912).
+- 2011-12-08 — Roll call votes on amendments in House
+- 2011-12-08 — Roll call votes on amendments in House
+- 2011-12-08 — Roll call votes on amendments in House
+- 2011-12-08 — Roll call votes on amendments in House
+- 2011-12-08 — Roll call votes on amendments in House
+- 2011-12-08 — Rule H. Res. 487 passed House.
+- 2011-12-08 — Rule provides for consideration of H.R. 1633 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution waives all points of order against consideration of the bill; proivdes that the amendment in the nature of a substitute recommended by the Committee on Energy and Commerce shall be considered as original text for the purpose of amendment and shall be considered as read. Further it waives all points of order against the committee amendment in the nature of a substitute.
+- 2011-12-08 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H8282-8283)
+- 2011-12-08 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1633.
+- 2011-12-08 — The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee.
+- 2011-12-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8295)
+- 2011-12-08 — The previous question was ordered pursuant to the rule. (consideration: CR H8294)
+- 2011-12-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which were debated earlier and on which further proceedings were postponed.
