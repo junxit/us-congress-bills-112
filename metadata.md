@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1254
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1254
@@ -42,10 +42,15 @@ Synthetic Drug Control Act of 2011
 - Rep. Pingree, Chellie [D-ME-1] (P000597)
 - Rep. Gowdy, Trey [R-SC-4] (G000566)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2011-12-08 — [House 112-1-904](votes/house-112-1-0904.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (317–98)
 
 ## Actions
 
@@ -69,3 +74,12 @@ Synthetic Drug Control Act of 2011
 - 2011-11-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-295, Part I.
 - 2011-11-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-295, Part II.
 - 2011-11-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-295, Part II.
+- 2011-12-07 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Pitts objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2011-12-07 — Considered under suspension of the rules. (consideration: CR H8238-8244)
+- 2011-12-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1254.
+- 2011-12-07 — Mr. Pitts moved to suspend the rules and pass the bill, as amended.
+- 2011-12-08 — Considered as unfinished business. (consideration: CR H8272-8273)
+- 2011-12-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 317 - 98 (Roll no. 904). (text: CR 12/07/2011 H8238)
+- 2011-12-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 317 - 98 (Roll no. 904).(text: CR 12/07/2011 H8238)
+- 2011-12-08 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.

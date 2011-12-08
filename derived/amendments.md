@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1254
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,10 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Schedule I, as set forth in section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Schedule I of section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended in subsection (c) by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “one year” and inserting “2 years”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “six months” and inserting “1 year”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Schedule I, as set forth in section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Schedule I of section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended in subsection (c) by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “one year” and inserting “2 years”; and | the bill names no machine-readable US Code section |
