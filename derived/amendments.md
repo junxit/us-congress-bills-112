@@ -1,7 +1,7 @@
 ---
 measure: S. 1958
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
