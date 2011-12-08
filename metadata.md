@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2829
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2829
@@ -16,7 +16,7 @@ United Nations Transparency, Accountability, and Reform Act of 2011
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Cosponsors (57)
+## Cosponsors (141)
 
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 - Rep. Pence, Mike [R-IN-6] (P000587)
@@ -75,6 +75,90 @@ United Nations Transparency, Accountability, and Reform Act of 2011
 - Rep. Walsh, Joe [R-IL-8] (W000811)
 - Rep. West, Allen B. [R-FL-22] (W000807)
 - Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Buchanan, Vern [R-FL-13] (B001260)
+- Rep. Johnson, Timothy V. [R-IL-15] (J000285)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
+- Rep. Southerland, Steve II [R-FL-2] (S001186)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Woodall, Rob [R-GA-7] (W000810)
+- Rep. Camp, Dave [R-MI-4] (C000071)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Flake, Jeff [R-AZ-6] (F000444)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Schweikert, David [R-AZ-5] (S001183)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Adams, Sandy [R-FL-24] (A000366)
+- Rep. Canseco, Francisco "Quico" [R-TX-23] (C001082)
+- Rep. Diaz-Balart, Mario [R-FL-21] (D000600)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Gosar, Paul A. [R-AZ-1] (G000565)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Landry, Jeffrey M. [R-LA-3] (L000574)
+- Rep. Meehan, Patrick [R-PA-7] (M001181)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Shimkus, John [R-IL-19] (S000364)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Nugent, Richard B. [R-FL-5] (N000185)
+- Rep. Turner, Robert L. [R-NY-9] (T000471)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Rooney, Thomas J. [R-FL-16] (R000583)
+- Rep. King, Steve [R-IA-5] (K000362)
+- Rep. Kinzinger, Adam [R-IL-11] (K000378)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. Gardner, Cory [R-CO-4] (G000562)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Ryan, Paul [R-WI-1] (R000570)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Hayworth, Nan A. S. [R-NY-19] (H001054)
+- Rep. Labrador, Raul R. [R-ID-1] (L000573)
+- Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Runyan, Jon [R-NJ-3] (R000594)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Rep. Latham, Tom [R-IA-4] (L000111)
+- Rep. Mack, Connie [R-FL-14] (M001155)
+- Rep. Rohrabacher, Dana [R-CA-46] (R000409)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Cravaack, Chip [R-MN-8] (C001086)
+- Rep. Royce, Edward R. [R-CA-40] (R000487)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. Austria, Steve [R-OH-7] (A000365)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Hunter, Duncan D. [R-CA-52] (H001048)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Rigell, E. Scott [R-VA-2] (R000589)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Lankford, James [R-OK-5] (L000575)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Barton, Joe [R-TX-6] (B000213)
 
 ## Committees (1)
 
@@ -85,3 +169,8 @@ United Nations Transparency, Accountability, and Reform Act of 2011
 - 2011-08-30 — Introduced in House
 - 2011-08-30 — Introduced in House
 - 2011-08-30 — Referred to the House Committee on Foreign Affairs.
+- 2011-10-13 — Committee Consideration and Mark-up Session Held.
+- 2011-10-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 15.
+- 2011-12-08 — Placed on the Union Calendar, Calendar No. 221.
+- 2011-12-08 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 112-323.
+- 2011-12-08 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 112-323.
