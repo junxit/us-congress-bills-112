@@ -1,7 +1,7 @@
 ---
 measure: S. 1400
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1400
@@ -35,3 +35,7 @@ Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Econ
 
 - 2011-07-21 — Introduced in Senate
 - 2011-07-21 — Read twice and referred to the Committee on Environment and Public Works.
+- 2011-09-21 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2011-12-08 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 112-100.
+- 2011-12-08 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 112-100.
+- 2011-12-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 254.
