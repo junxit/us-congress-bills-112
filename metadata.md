@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1560
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1560
@@ -16,9 +16,10 @@ To amend the Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Te
 
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To amend the Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Te
 - 2011-12-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2011-12-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 12/05/2011 H8132)
 - 2011-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 12/05/2011 H8132)
+- 2011-12-08 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
