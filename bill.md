@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 491
+congress: 112th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 491
+
+> Providing for consideration of the bill (H.R. 3630) to provide incentives for the creation of jobs, and for other purposes.
+
+That upon the adoption of this resolution it shall be in order to consider in the House the bill (H.R. 3630) to provide incentives for the creation of jobs, and for other purposes. All points of order against consideration of the bill are waived. The amendment printed in the report of the Committee on Rules accompanying this resolution shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, to final passage without intervening motion except: (1) 90 minutes of debate equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means; and (2) one motion to recommit with or without instructions.
