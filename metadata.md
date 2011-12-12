@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1264
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1264
@@ -16,6 +16,12 @@ To designate the property between the United States Federal Courthouse and the E
 
 - Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
 
+## Cosponsors (3)
+
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Rep. Green, Al [D-TX-9] (G000553)
+
 ## Committees (1)
 
 - House — Transportation and Infrastructure Committee
@@ -26,3 +32,14 @@ To designate the property between the United States Federal Courthouse and the E
 - 2011-03-30 — Introduced in House
 - 2011-03-30 — Referred to the House Committee on Transportation and Infrastructure.
 - 2011-03-30 — Sponsor introductory remarks on measure. (CR E565-566)
+- 2011-03-31 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2011-06-22 — Committee Consideration and Mark-up Session Held.
+- 2011-06-22 — Ordered to be Reported by Voice Vote.
+- 2011-06-22 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2011-12-12 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Fleischmann objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2011-12-12 — Considered under suspension of the rules. (consideration: CR H8343-8344)
+- 2011-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1264.
+- 2011-12-12 — Mr. Fleischmann moved to suspend the rules and pass the bill, as amended.
+- 2011-12-12 — Placed on the House Calendar, Calendar No. 97.
+- 2011-12-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-325.
+- 2011-12-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-325.
