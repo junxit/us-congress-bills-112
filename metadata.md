@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1801
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1801
@@ -16,12 +16,14 @@ Risk-Based Security Screening for Members of the Armed Forces Act
 
 - Rep. Cravaack, Chip [R-MN-8] (C001086)
 
-## Cosponsors (4)
+## Cosponsors (6)
 
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Burr, Richard [R-NC] (B001135)
 
 ## Committees (2)
 
@@ -54,3 +56,13 @@ Risk-Based Security Screening for Members of the Armed Forces Act
 - 2011-11-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 862). (text: CR H7907)
 - 2011-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 862).(text: CR H7907)
 - 2011-11-30 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2011-12-12 — Amendment SA 1458 agreed to in Senate by Unanimous Consent.
+- 2011-12-12 — Amendment SA 1458 proposed by Senator Hutchison. (consideration: CR S8485-8486; text: CR S8485-8486) In the nature of a substitute.
+- 2011-12-12 — Measure laid before Senate by unanimous consent. (consideration: CR S8485-8486)
+- 2011-12-12 — Passed Senate with an amendment by Voice Vote.
+- 2011-12-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
+- 2011-12-12 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2011-12-12 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2011-12-12 — Senate amendment agreed to: Amendment SA 1458 agreed to in Senate by Unanimous Consent.
+- 2011-12-12 — Senate amendment proposed (on the floor): Amendment SA 1458 proposed by Senator Hutchison.(consideration: CR S8485-8486; text: CR S8485-8486)
+- 2011-12-12 — Senate amendment submitted

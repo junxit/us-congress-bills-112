@@ -2,12 +2,14 @@
 legis-num: H.R. 1801
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1801
 
-> To amend title 49, United States Code, to provide for expedited security screenings for members of the Armed Forces.
+That the bill from the House of Representatives (H.R. 1801) entitled “An Act to amend title 49, United States Code, to provide for expedited security screenings for members of the Armed Forces.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -17,11 +19,12 @@ This Act may be cited as the “Risk-Based Security Screening for Members of the
 
 - **(a)** *In general* Section 44903 of title 49, United States Code, is amended by adding at the end the following:
   > - **(m)** *Security screening for members of the Armed Forces*
-  >   - **(1)** *In general* The Assistant Secretary shall develop and implement a plan to provide expedited security screening services for a member of the Armed Forces, and any accompanying family member, when the member of the Armed Forces presents documentation indicating official orders while in uniform through a primary airport (as defined by section 47102 of this title).
+  >   - **(1)** *In general* The Assistant Secretary of Homeland Security (Transportation Security Administration), in consultation with the Department of Defense, shall develop and implement a plan to provide expedited security screening services for a member of the armed forces, and, to the extent possible, any accompanying family member, if the member of the armed forces, while in uniform, presents documentation indicating official orders for air transportation departing from a primary airport (as defined in section 47102).
   >   - **(2)** *Protocols* In developing the plan, the Assistant Secretary shall consider—
-  >     - **(A)** leveraging existing security screening models used by airports and air carriers to reduce passenger wait times before entering a security screening checkpoint;
+  >     - **(A)** leveraging existing security screening models used to reduce passenger wait times;
   >     - **(B)** establishing standard guidelines for the screening of military uniform items, including combat boots; and
-  >     - **(C)** incorporating any new screening protocols into an existing trusted passenger program, as established pursuant to section 109(a)(3) of the Aviation and Transportation Security Act (Public Law 107–71; 115 Stat. 613; 49 U.S.C. 114 note), or into the development of any new credential or system that incorporates biometric technology and other applicable technologies to verify the identity of individuals traveling in air transportation.
-  >   - **(3)** *Report to Congress* The Assistant Secretary shall submit to the appropriate committees of Congress a report on the implementation of the plan.
+  >     - **(C)** incorporating any new screening protocols into an existing trusted passenger program, as established pursuant to section 109(a)(3) of the Aviation and Transportation Security Act (49 U.S.C. 114 note), or into the development of any new credential or system that incorporates biometric technology and other applicable technologies to verify the identity of individuals traveling in air transportation.
+  >   - **(3)** *Rule of construction* Nothing in this subsection shall affect the authority of the Assistant Secretary to require additional screening of a member of the armed forces if intelligence or law enforcement information indicates that additional screening is necessary.
+  >   - **(4)** *Report to Congress* The Assistant Secretary shall submit to the appropriate committees of Congress a report on the implementation of the plan.
 
-- **(b)** *Effective date* Not later than 180 days after the date of the enactment of this Act, the Assistant Secretary shall implement the plan required by this Act.
+- **(b)** *Effective date* Not later than 180 days after the date of enactment of this Act, the Assistant Secretary shall implement the plan required by this Act.
