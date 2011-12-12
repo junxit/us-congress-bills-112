@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2845
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the last sentence by striking “$1,000,000” and inserting “$1,750,000”; and | the bill names no machine-readable US Code section |
 | — | strike | in subsection (b)(1)(B) by striking “the ability to pay,”. | the bill names no machine-readable US Code section |
 | — | amend | Section 60118(e) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 60120(a)(1) is amended by adding at the end the following: “The maximum amount of civil penalties for administrative enforcement actions under section 60122 shall not apply to enforcement actions under this section.”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 60120(a)(1) is amended by adding at the end the following: “The maximum amount of civil penalties for administrative enforcement actions under section 60122 shall not apply to enforcement actions under this section.”. | the bill names no machine-readable US Code section |
 | — | replace | in the subsection heading by striking “and Waiver Orders” and inserting “, Orders, and Other Final Agency Actions”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “about an application for a waiver under section 60118(c) or (d) of this title” and inserting “under this chapter”. | the bill names no machine-readable US Code section |
 | — | amend | Section 6103(a) is amended to read as follows: | the bill names no machine-readable US Code section |
