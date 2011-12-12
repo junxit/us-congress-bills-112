@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2668
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2668
@@ -16,7 +16,7 @@ Brian A. Terry Memorial Act
 
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 
-## Cosponsors (52)
+## Cosponsors (69)
 
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Rep. Mica, John L. [R-FL-7] (M000689)
@@ -70,6 +70,23 @@ Brian A. Terry Memorial Act
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
 - Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Gosar, Paul A. [R-AZ-1] (G000565)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Schweikert, David [R-AZ-5] (S001183)
+- Rep. Flake, Jeff [R-AZ-6] (F000444)
+- Rep. Canseco, Francisco "Quico" [R-TX-23] (C001082)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
 ## Committees (1)
 
@@ -80,3 +97,13 @@ Brian A. Terry Memorial Act
 - 2011-07-27 — Introduced in House
 - 2011-07-27 — Introduced in House
 - 2011-07-27 — Referred to the House Committee on Transportation and Infrastructure.
+- 2011-07-28 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2011-10-13 — Committee Consideration and Mark-up Session Held.
+- 2011-10-13 — Ordered to be Reported by Voice Vote.
+- 2011-12-12 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Cummings objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2011-12-12 — Considered under suspension of the rules. (consideration: CR H8329-8330)
+- 2011-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2668.
+- 2011-12-12 — Mr. Denham moved to suspend the rules and pass the bill.
+- 2011-12-12 — Placed on the House Calendar, Calendar No. 98.
+- 2011-12-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-326.
+- 2011-12-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-326.
