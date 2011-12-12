@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2167
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,4 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 12(g)(1)(B) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(g)(1)(B)) is amended by striking “shall—” and all that follows through “register” and insert “shall, within 120 days after the last day of its first fiscal year en… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 12(g)(5) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(g)(5)) is amended by adding at the end the following: “For purposes of determining whether an issuer is required to register a security with the Commission pursuant t… | the bill names no machine-readable US Code section |
+| — | replace | Section 12(g)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(g)(1)) is amended by striking “shall—” and all that follows through the first instance of “register” and insert “shall, within 120 days after the last day of its firs… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 12(g)(5) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(g)(5)) is amended by adding at the end the following: “For purposes of determining whether an issuer is required to register a security with the Commission pursuant t… | the bill names no machine-readable US Code section |
