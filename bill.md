@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1801
-congress: 112th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 1801
 
-That the bill from the House of Representatives (H.R. 1801) entitled “An Act to amend title 49, United States Code, to provide for expedited security screenings for members of the Armed Forces.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title 49, United States Code, to provide for expedited security screenings for members of the Armed Forces.
 
 ## § 1. Short title
 

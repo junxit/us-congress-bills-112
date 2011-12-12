@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1801
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1801
@@ -66,3 +66,17 @@ Risk-Based Security Screening for Members of the Armed Forces Act
 - 2011-12-12 — Senate amendment agreed to: Amendment SA 1458 agreed to in Senate by Unanimous Consent.
 - 2011-12-12 — Senate amendment proposed (on the floor): Amendment SA 1458 proposed by Senator Hutchison.(consideration: CR S8485-8486; text: CR S8485-8486)
 - 2011-12-12 — Senate amendment submitted
+- 2011-12-13 — Message on Senate action sent to the House.
+- 2011-12-19 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Cravaack objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2011-12-19 — DEBATE - The House proceeded with forty minutes of debate on agreeing to the Senate amendment to H.R. 1801.
+- 2011-12-19 — Mr. Cravaack moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H9936-9937)
+- 2011-12-20 — Considered as unfinished business. (consideration: CR H9999)
+- 2011-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-20 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR 12/19/2011 H9936)
+- 2011-12-20 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR 12/19/2011 H9936)
+- 2011-12-23 — Presented to President.
+- 2011-12-23 — Presented to President.
+- 2012-01-03 — Became Public Law No: 112-86.
+- 2012-01-03 — Became Public Law No: 112-86.
+- 2012-01-03 — Signed by President.
+- 2012-01-03 — Signed by President.
