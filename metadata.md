@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1633
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1633
@@ -252,3 +252,5 @@ Farm Dust Regulation Prevention Act of 2011
 - 2011-12-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8295)
 - 2011-12-08 — The previous question was ordered pursuant to the rule. (consideration: CR H8294)
 - 2011-12-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which were debated earlier and on which further proceedings were postponed.
+- 2011-12-12 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-12-13 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 256.
