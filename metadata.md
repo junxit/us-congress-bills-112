@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2867
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2867
@@ -47,3 +47,13 @@ United States Commission on International Religious Freedom Reform and Reauthori
 - 2011-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 21 (Roll no. 709). (text: CR 9/14/2011 H6152-6153)
 - 2011-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 21 (Roll no. 709).(text: CR 9/14/2011 H6152-6153)
 - 2011-09-15 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2011-12-13 — Amendment SA 1461 agreed to in Senate by Unanimous Consent.
+- 2011-12-13 — Amendment SA 1461 proposed by Senator Reid for Senator Durbin. (consideration: CR S8552-8553; text: CR S8552-8553) To limit appointments to the United States Commission on International Religious Freedom to 2 2-year terms, to authorize employees of the Commission who have filed a discrimination complaint under section 717 of the Civil Rights Act of 1964 to complete such proceedings, and to clarify that travel by members of the United States Commission on International Religious Freedom is subject to the Federal Travel Regulation and the Department of State Standardized Regulations.
+- 2011-12-13 — Measure laid before Senate by unanimous consent. (consideration: CR S8552-8553)
+- 2011-12-13 — Passed Senate with amendments by Voice Vote. (text: CR S8553)
+- 2011-12-13 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.(text: CR S8553)
+- 2011-12-13 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2011-12-13 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2011-12-13 — Senate amendment agreed to: Amendment SA 1461 agreed to in Senate by Unanimous Consent.
+- 2011-12-13 — Senate amendment proposed (on the floor): Amendment SA 1461 proposed by Senator Reid for Senator Durbin.(consideration: CR S8552-8553; text: CR S8552-8553)
+- 2011-12-13 — Senate amendment submitted
