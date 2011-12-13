@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2867
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2867
@@ -57,3 +57,15 @@ United States Commission on International Religious Freedom Reform and Reauthori
 - 2011-12-13 — Senate amendment agreed to: Amendment SA 1461 agreed to in Senate by Unanimous Consent.
 - 2011-12-13 — Senate amendment proposed (on the floor): Amendment SA 1461 proposed by Senator Reid for Senator Durbin.(consideration: CR S8552-8553; text: CR S8552-8553)
 - 2011-12-13 — Senate amendment submitted
+- 2011-12-14 — Message on Senate action sent to the House.
+- 2011-12-16 — DEBATE - The House proceeded with forty minutes of debate on agreeing to the Senate amendments to H.R. 2867.
+- 2011-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-16 — Ms. Ros-Lehtinen moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H9810-9812)
+- 2011-12-16 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendment (CR H9810)
+- 2011-12-16 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendment (CR H9810)
+- 2011-12-19 — Presented to President.
+- 2011-12-19 — Presented to President.
+- 2011-12-23 — Became Public Law No: 112-75.
+- 2011-12-23 — Became Public Law No: 112-75.
+- 2011-12-23 — Signed by President.
+- 2011-12-23 — Signed by President.
