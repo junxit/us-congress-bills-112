@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 10
 congress: 112
-version: Introduced in Senate
+version: Committee Discharged Senate
 ---
 
 # S.J.Res. 10
@@ -16,7 +16,7 @@ Joint resolution proposing a balanced budget amendment to the Constitution of th
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (46)
+## Cosponsors (47)
 
 - Sen. Lee, Mike [R-UT] (L000577)
 - Sen. Cornyn, John [R-TX] (C001056)
@@ -64,6 +64,7 @@ Joint resolution proposing a balanced budget amendment to the Constitution of th
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Portman, Rob [R-OH] (P000449)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Heller, Dean [R-NV] (H001041)
 
 ## Committees (1)
 
@@ -73,3 +74,11 @@ Joint resolution proposing a balanced budget amendment to the Constitution of th
 
 - 2011-03-31 — Introduced in Senate
 - 2011-03-31 — Read twice and referred to the Committee on the Judiciary.
+- 2011-12-13 — Amendment SA 1460 agreed to in Senate by Unanimous Consent.
+- 2011-12-13 — Amendment SA 1460 proposed by Senator Hatch. (consideration: CR S8507-8508; text: CR S8508) To amend the title.
+- 2011-12-13 — Measure laid before Senate by unanimous consent. (consideration: CR S8507-8508, S8508-8540)
+- 2011-12-13 — Senate Committee on the Judiciary discharged by Unanimous Consent as pursuant to the Budget Control Act of 2011.
+- 2011-12-13 — Senate Committee on the Judiciary discharged by Unanimous Consent as pursuant to the Budget Control Act of 2011.
+- 2011-12-13 — Senate amendment agreed to: Amendment SA 1460 agreed to in Senate by Unanimous Consent.
+- 2011-12-13 — Senate amendment proposed (on the floor): Amendment SA 1460 proposed by Senator Hatch.(consideration: CR S8507-8508; text: CR S8508)
+- 2011-12-13 — Senate amendment submitted
