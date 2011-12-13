@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 306
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 306
@@ -16,7 +16,7 @@ Urging the Republic of Turkey to safeguard its Christian heritage and to return 
 
 - Rep. Royce, Edward R. [R-CA-40] (R000487)
 
-## Cosponsors (32)
+## Cosponsors (42)
 
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
@@ -50,6 +50,16 @@ Urging the Republic of Turkey to safeguard its Christian heritage and to return 
 - Rep. Denham, Jeff [R-CA-19] (D000612)
 - Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
 - Rep. Dold, Robert J. [R-IL-10] (D000613)
+- Rep. Olver, John W. [D-MA-1] (O000085)
+- Rep. Grimm, Michael G. [R-NY-13] (G000569)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Heinrich, Martin [D-NM-1] (H001046)
+- Rep. Garrett, Scott [R-NJ-5] (G000548)
+- Rep. Tsongas, Niki [D-MA-5] (T000465)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Hahn, Janice [D-CA-36] (H001063)
 
 ## Committees (1)
 
@@ -60,3 +70,10 @@ Urging the Republic of Turkey to safeguard its Christian heritage and to return 
 - 2011-06-15 — Introduced in House
 - 2011-06-15 — Introduced in House
 - 2011-06-15 — Referred to the House Committee on Foreign Affairs.
+- 2011-08-02 — Referred to the Subcommittee on Europe and Eurasia.
+- 2011-12-13 — Considered under suspension of the rules. (consideration: CR H8873-8878)
+- 2011-12-13 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 306.
+- 2011-12-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-13 — Mr. Royce moved to suspend the rules and agree to the resolution, as amended.
+- 2011-12-13 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H8873)
+- 2011-12-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H8873)
