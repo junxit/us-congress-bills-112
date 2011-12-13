@@ -1,7 +1,7 @@
 ---
 measure: H.R. 313
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 313
@@ -40,3 +40,9 @@ Drug Trafficking Safe Harbor Elimination Act of 2011
 - 2011-12-12 — Placed on the Union Calendar, Calendar No. 222.
 - 2011-12-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-324, Part I.
 - 2011-12-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-324, Part I.
+- 2011-12-13 — Considered under suspension of the rules. (consideration: CR H8831-8834)
+- 2011-12-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 313.
+- 2011-12-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-13 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2011-12-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8831)
+- 2011-12-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8831)

@@ -19,4 +19,4 @@ Section 406 of the Controlled Substances Act (21 U.S.C. 846) is amended by—
 
 - **(1)** inserting “(a)” before “Any”; and
 - **(2)** inserting at the end the following:
-  > - **(b)** Whoever, within the United States, conspires with one or more persons, or aids or abets one or more persons, regardless of where such other persons are located, to engage in conduct at any place outside the United States that would constitute a violation of this title if committed within the United States, shall be subject to the same penalties that would apply to such conduct if it were to occur within the United States.
+  > - **(b)** Whoever, within the United States, conspires with one or more persons, or aids or abets one or more persons, regardless of where such other persons are located, to engage in conduct at any place outside the United States that would constitute a violation of this title, other than a violation of section 404(a), if committed within the United States, shall be subject to the same penalties that would apply to such conduct if it were to occur within the United States.
