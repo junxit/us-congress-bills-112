@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2158
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2158
@@ -68,9 +68,10 @@ To designate the facility of the United States Postal Service located at 14901 A
 - Rep. Nunes, Devin [R-CA-21] (N000181)
 - Rep. Royce, Edward R. [R-CA-40] (R000487)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -94,3 +95,4 @@ To designate the facility of the United States Postal Service located at 14901 A
 - 2011-12-12 — Mr. Issa moved to suspend the rules and pass the bill.
 - 2011-12-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 353 - 1 (Roll no. 914). (text: CR H8327)
 - 2011-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 353 - 1 (Roll no. 914).(text: CR H8327)
+- 2011-12-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
