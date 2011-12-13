@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3630
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3630
@@ -39,6 +39,11 @@ Middle Class Tax Relief and Job Creation Act of 2012
 - House — Foreign Affairs Committee
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2011-12-13 — [House 112-1-922](votes/house-112-1-0922.md) — On Motion to Recommit with Instructions — **Failed** (183–244)
+- 2011-12-13 — [House 112-1-923](votes/house-112-1-0923.md) — On Passage — **Passed** (234–193)
+
 ## Actions
 
 - 2011-12-09 — Introduced in House
@@ -56,3 +61,21 @@ Middle Class Tax Relief and Job Creation Act of 2012
 - 2011-12-09 — Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Financial Services, Foreign Affairs, Transportation and Infrastructure, Agriculture, Oversight and Government Reform, House Administration, the Budget, Natural Resources, Rules, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-12-09 — Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Financial Services, Foreign Affairs, Transportation and Infrastructure, Agriculture, Oversight and Government Reform, House Administration, the Budget, Natural Resources, Rules, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-12-09 — Referred to the Subcommittee on Health.
+- 2011-12-12 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2011-12-12 — Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- 2011-12-12 — Referred to the Subcommittee on Water Resources and Environment.
+- 2011-12-12 — Rules Committee Resolution H. Res. 491 Reported to House. Rule provides for consideration of H.R. 3630 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived. The amendment printed in the report of the Committee on Rules accompanying the resolution shall be considered as adopted.
+- 2011-12-13 — Considered under the provisions of rule H. Res. 491. (consideration: CR H8762-8824)
+- 2011-12-13 — DEBATE - The House proceeded with 10 minutes of debate on the Van Hollen motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new title, Additional Provisions, at the end of the bill.
+- 2011-12-13 — DEBATE - The House proceeded with 90 minutes of debate on H.R. 3630.
+- 2011-12-13 — House amendment offered
+- 2011-12-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-13 — Mr. Van Hollen moved to recommit with instructions to Ways and Means. (consideration: CR H8820-8824; text: CR H8820-8822)
+- 2011-12-13 — On motion to recommit with instructions Failed by recorded vote: 183 - 244 (Roll no. 922).
+- 2011-12-13 — On passage Passed by recorded vote: 234 - 193 (Roll no. 923). (text: CR H8763-8799)
+- 2011-12-13 — Passed/agreed to in House: On passage Passed by recorded vote: 234 - 193 (Roll no. 923).(text: CR H8763-8799)
+- 2011-12-13 — Read the first time. Ordered Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-12-13 — Rule H. Res. 491 passed House.
+- 2011-12-13 — Rule provides for consideration of H.R. 3630 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived. The amendment printed in the report of the Committee on Rules accompanying the resolution shall be considered as adopted.
+- 2011-12-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8823)
+- 2011-12-13 — The previous question was ordered pursuant to the rule. (consideration: CR H8820)
