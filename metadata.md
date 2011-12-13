@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2845
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2845
@@ -49,3 +49,10 @@ Pipeline Safety, Regulatory Certainty, and Job Creation Act of 2011
 - 2011-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8330-8333)
 - 2011-12-13 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S8552)
 - 2011-12-13 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S8552)
+- 2011-12-14 — Message on Senate action sent to the House.
+- 2011-12-23 — Presented to President.
+- 2011-12-23 — Presented to President.
+- 2012-01-03 — Became Public Law No: 112-90.
+- 2012-01-03 — Became Public Law No: 112-90.
+- 2012-01-03 — Signed by President.
+- 2012-01-03 — Signed by President.
