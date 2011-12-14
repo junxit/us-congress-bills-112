@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3246
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3246
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 15455 M
 - Rep. Emerson, Jo Ann [R-MO-8] (E000172)
 - Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ To designate the facility of the United States Postal Service located at 15455 M
 - 2011-12-13 — Motion to reconsider laid on the table Agreed to without objection.
 - 2011-12-13 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 415 - 0 (Roll no. 920). (text: CR 12/12/2011 H8326)
 - 2011-12-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 415 - 0 (Roll no. 920).(text: CR 12/12/2011 H8326)
+- 2011-12-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
