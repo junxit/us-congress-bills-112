@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2668
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2668
@@ -107,3 +107,7 @@ Brian A. Terry Memorial Act
 - 2011-12-12 — Placed on the House Calendar, Calendar No. 98.
 - 2011-12-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-326.
 - 2011-12-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-326.
+- 2011-12-14 — Considered as unfinished business. (consideration: CR H8952)
+- 2011-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 12/12/2011 H8329)
+- 2011-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 12/12/2011 H8329)
