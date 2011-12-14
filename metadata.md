@@ -1,7 +1,7 @@
 ---
 measure: H.R. 515
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 515
@@ -16,7 +16,7 @@ Belarus Democracy and Human Rights Act of 2011
 
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
 - Rep. Burton, Dan [R-IN-5] (B001149)
@@ -30,6 +30,7 @@ Belarus Democracy and Human Rights Act of 2011
 - Rep. Pompeo, Mike [R-KS-4] (P000602)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 - Rep. Shimkus, John [R-IL-19] (S000364)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
 
 ## Committees (4)
 
@@ -60,3 +61,13 @@ Belarus Democracy and Human Rights Act of 2011
 - 2011-07-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4632-4634)
 - 2011-07-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4632-4634)
 - 2011-07-07 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2011-12-14 — Amendment SA 1462 agreed to in Senate by Unanimous Consent.
+- 2011-12-14 — Amendment SA 1462 proposed by Senator Reid for Senator Kerry. (consideration: CR S8611; text: CR S8611) To make minor edits to the bill.
+- 2011-12-14 — Measure laid before Senate by unanimous consent. (consideration: CR S8611)
+- 2011-12-14 — Passed Senate with amendments by Voice Vote. (text: CR S8611)
+- 2011-12-14 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.(text: CR S8611)
+- 2011-12-14 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2011-12-14 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2011-12-14 — Senate amendment agreed to: Amendment SA 1462 agreed to in Senate by Unanimous Consent.
+- 2011-12-14 — Senate amendment proposed (on the floor): Amendment SA 1462 proposed by Senator Reid for Senator Kerry.(consideration: CR S8611; text: CR S8611)
+- 2011-12-14 — Senate amendment submitted
