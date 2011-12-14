@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1892
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-47 amendatory instructions. 0 executed, 47 stated and not applied.
+45 amendatory instructions. 0 executed, 45 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,10 +34,10 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 102A of the National Security Act of 1947 (50 U.S.C. 403–1) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 102A of the National Security Act of 1947 (50 U.S.C. 403–1), as amended by section 304 of this Act, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(A)” after “(2)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(A)” after “(2)”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), as so designated, by striking “associated with the acquisition of a major system,” and inserting “associated with the development, acquisition, procurement, operation, and sustainment of a major system across its pro… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.) is amended by inserting after section 506H the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents in the first section of the National Security Act of 1947 is amended by inserting after the item relating to section 506H the following new item: | the bill names no machine-readable US Code section |
 | — | strike | Section 1041(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (50 U.S.C. 403–1b(b)) is amended by striking paragraphs (3) and (4). | the bill names no machine-readable US Code section |
@@ -49,8 +49,6 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 5315 of title 5, United States Code, is amended by inserting after the item relating to the Chief Information Officer, Small Business Administration the following new item: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (e) as subsection (f); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (d) the following new subsection: | the bill names no machine-readable US Code section |
-| — | insert | in the heading, by inserting “and burial allowance” after “gratuities”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” after “(a)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the second and third sentences and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
@@ -68,7 +66,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Paragraph (5) of section 11(a) of the National Security Agency Act of 1959 (50 U.S.C. 402 note) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (B), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | amend | Section 3(4)(K) of the National Security Act of 1947 (50 U.S.C. 401a(4)(K)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (b) of section 6372 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | Chapter 21 of title 10, United States Code, is amended by inserting after section 428 the following new section: | the bill names no machine-readable US Code section |

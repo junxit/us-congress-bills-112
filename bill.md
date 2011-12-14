@@ -2,12 +2,14 @@
 legis-num: H.R. 1892
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1892
 
-> To authorize appropriations for fiscal year 2012 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.
+That the bill from the House of Representatives (H.R. 1892) entitled “An Act to authorize appropriations for fiscal year 2012 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title; Table of contents
 

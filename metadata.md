@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1892
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1892
@@ -15,6 +15,10 @@ Intelligence Authorization Act for Fiscal Year 2012
 ## Sponsor
 
 - Rep. Rogers, Mike J. [R-MI-8] (R000572)
+
+## Cosponsors (1)
+
+- Sen. Chambliss, Saxby [R-GA] (C000286)
 
 ## Committees (1)
 
@@ -105,3 +109,11 @@ Intelligence Authorization Act for Fiscal Year 2012
 - 2011-09-09 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2011-09-09 — Wolf amendment (A002) modified by unanimous consent. (text as modified: CR H6027)
 - 2011-09-12 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 161.
+- 2011-12-14 — Amendment SA 1463 agreed to in Senate by Unanimous Consent.
+- 2011-12-14 — Amendment SA 1463 proposed by Senator Reid for Senator Feinstein. (consideration: CR S8617) In the nature of a substitute.
+- 2011-12-14 — Measure laid before Senate by unanimous consent. (consideration: CR S8611-8617)
+- 2011-12-14 — Passed Senate with an amendment by Unanimous Consent.
+- 2011-12-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2011-12-14 — Senate amendment agreed to: Amendment SA 1463 agreed to in Senate by Unanimous Consent.
+- 2011-12-14 — Senate amendment proposed (on the floor): Amendment SA 1463 proposed by Senator Reid for Senator Feinstein.(consideration: CR S8617)
+- 2011-12-14 — Senate amendment submitted
