@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 Congress finds as follows:
 
-- **(1)** The Federal Government has the responsibility to honor and recognize Americans who have positively impacted the welfare of other Americans.
+- **(1)** The Government has the responsibility to honor and recognize Americans who have positively impacted the welfare of other Americans.
 - **(2)** Monroe Dunaway Anderson, born in Jackson, Tennessee, in 1873, was one of the United States’ most successful agri-businessmen and respected philanthropists.
 - **(3)** Monroe Dunaway Anderson, also known as M.D. Anderson, attended public schools in Jackson, Tennessee.
 - **(4)** After attending college in Memphis, Tennessee, M.D. Anderson returned to Jackson, Tennessee, to work at the People’s National Bank.
@@ -25,9 +25,14 @@ Congress finds as follows:
 
 ## § 2. M.D. Anderson Plaza
 
-- **(a)** *Designation* The property in between the United States Federal Courthouse and the Ed Jones Building located at 109 South Highland Avenue in Jackson, Tennessee, shall be known and designated as the “M.D. Anderson Plaza”.
+- **(a)** *Designation* The property in between the United States Courthouse and the Ed Jones Building located at 109 South Highland Avenue in Jackson, Tennessee, shall be known and designated as the “M.D. Anderson Plaza”.
 - **(b)** *Marker and Statues Authorized* West Tennessee Health Care Foundation is hereby authorized to install in a prominent location on that portion of the Plaza under the jurisdiction of the General Services Administration—
-  - **(1)** a Tennessee State Historical Society marker recognizing the outstanding achievements in business and philanthropy on the grounds between the Federal Courthouse and the Ed Jones Building; and
-  - **(2)** a life-sized statue depicting M.D. Anderson, and 3 bust statues depicting Will Clayton, Ben Clayton, and Frank Anderson, with information recognizing persons who donated funds for the manufacturing of the statues.
+  - **(1)** a Tennessee State Historical Society marker recognizing the outstanding achievements in business and philanthropy on the grounds between the United States Courthouse and the Ed Jones Building; and
+  - **(2)** a life-sized statue depicting M.D. Anderson, with information recognizing persons who donated funds for the manufacturing of the statues.
 - **(c)** *Design of marker* The marker authorized by subsection (b)(1) shall be at least 42 inches in height.
 - **(d)** *Prohibition on Use of Federal Funds* No Federal funds may be expended to design the marker, to acquire the marker, to prepare the sight selected for the marker, to install the marker, or to maintain the marker or the statues authorized in subsection (b).
+- **(e)** *Approval*
+  - **(1)** *Submission of design* The West Tennessee Health Care Foundation shall consult with the Administrator of General Services in the design of the marker and statue authorized under subsection (b) and shall submit a design for approval.
+  - **(2)** *Design approval* The design of a marker or statue as authorized under subsection (b) shall be subject to the approval of the Administrator.
+  - **(3)** *Timing of review* The Administrator shall conduct a review of the design not later than 90 days after the submission of the design.
+  - **(4)** *Failure to approve* In the event that the Administrator fails to approve the design, the Administrator shall submit a report to the Committee on Transportation and Infrastructure in the House of Representatives and the Committee on Environment and Public Works in the Senate detailing the reasons for failing to approve the design.

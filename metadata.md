@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1264
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1264
@@ -26,6 +26,10 @@ To designate the property between the United States Federal Courthouse and the E
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2011-12-14 — [House 112-1-930](votes/house-112-1-0930.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (418–1)
+
 ## Actions
 
 - 2011-03-30 — Introduced in House
@@ -43,3 +47,7 @@ To designate the property between the United States Federal Courthouse and the E
 - 2011-12-12 — Placed on the House Calendar, Calendar No. 97.
 - 2011-12-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-325.
 - 2011-12-12 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-325.
+- 2011-12-14 — Considered as unfinished business. (consideration: CR H8940-8941)
+- 2011-12-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 930). (text: CR 12/12/2011 H8343)
+- 2011-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 930).(text: CR 12/12/2011 H8343)
