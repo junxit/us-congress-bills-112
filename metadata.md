@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2767
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2767
@@ -28,9 +28,10 @@ To designate the facility of the United States Postal Service located at 8 West 
 - Rep. Tsongas, Niki [D-MA-5] (T000465)
 - Rep. Keating, William R. [D-MA-10] (K000375)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ To designate the facility of the United States Postal Service located at 8 West 
 - 2011-12-13 — Motion to reconsider laid on the table Agreed to without objection.
 - 2011-12-13 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 420 - 0 (Roll no. 924). (text: CR 12/12/2011 H8328)
 - 2011-12-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 420 - 0 (Roll no. 924).(text: CR 12/12/2011 H8328)
+- 2011-12-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
