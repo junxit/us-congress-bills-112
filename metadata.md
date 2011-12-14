@@ -1,7 +1,7 @@
 ---
 measure: H.R. 313
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 313
@@ -20,10 +20,11 @@ Drug Trafficking Safe Harbor Elimination Act of 2011
 
 - Rep. Schiff, Adam B. [D-CA-29] (S001150)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Drug Trafficking Safe Harbor Elimination Act of 2011
 - 2011-12-13 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2011-12-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8831)
 - 2011-12-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8831)
+- 2011-12-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
