@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1905
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -40,6 +40,6 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 104(c) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 212(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 428 of the Homeland Security Act of 2002 (6 U.S.C. 236) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 428 of the Homeland Security Act of 2002 (6 U.S.C. 236) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “attempt to violate, conspire to violate” and inserting “attempt or conspire to violate”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “not to exceed” and all that follows and inserting “that is not less than twice the value of the transaction that is the basis of the violation.”; and | the bill names no machine-readable US Code section |
