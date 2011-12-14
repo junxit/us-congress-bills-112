@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 92
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 92
@@ -25,3 +25,6 @@ Directing the Clerk of the House of Representatives to correct the enrollment of
 - 2011-12-14 — On agreeing to the resolution Agreed to without objection. (text: CR H8942)
 - 2011-12-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8942)
 - 2011-12-14 — Received in the Senate.
+- 2011-12-15 — Message on Senate action sent to the House.
+- 2011-12-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S8664)
+- 2011-12-15 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S8664)
