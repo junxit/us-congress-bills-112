@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3630
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -69,7 +69,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 4001 of such Act is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 4001 of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) is amended by inserting after subsection (h) (as added by section 2161) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 4002 of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note), as amended by section 2142(b), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Title IV of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Title IV of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “may” and inserting “shall”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “exceed” and inserting “be less than”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “made.” and inserting “made, unless the amount to be repaid is less than 50 percent of the weekly benefit amount.”. | the bill names no machine-readable US Code section |
@@ -251,10 +251,10 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Subsection (c) of section 5 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) is amended by adding at the end the following new sentence: “Each such good faith estimate shall include the following conspicuous state… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1360 of the National Flood Insurance Act of 1968 (42 U.S.C. 4101), as amended by the preceding provisions of this title, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1360 of the National Flood Insurance Act of 1968 (42 U.S.C. 4101), as amended by the preceding provisions of this title, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1360 of the National Flood Insurance Act of 1968 (42 U.S.C. 4101), as amended by the preceding provisions of this title, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 1360 of the National Flood Insurance Act of 1968 (42 U.S.C. 4101), as amended by the preceding provisions of this title, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter I of the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1345 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1345 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 1345 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 1345 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a), by inserting after “determinations” by inserting the following: “by notifying a local television and radio station,”; and | the bill names no machine-readable US Code section |
 | — | insert | in the first sentence of subsection (b), by inserting before the period at the end the following: “and shall notify a local television and radio station at least once during the same 10-day period”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “(b) The Director” and inserting “(b)(1) The Administrator”; and | the bill names no machine-readable US Code section |
@@ -283,7 +283,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “, in consultation with the Secretary of Commerce and the Attorney General; and” and inserting a period; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “36 megahertz” and inserting “Not more than 40 megahertz”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 309(j)(8) of the Communications Act of 1934, as amended by section 4101(c), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)) is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | amend | Section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)) is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | replace | Section 309(j)(11) of the Communications Act of 1934 (47 U.S.C. 309(j)(11)) is amended by striking “2012” and inserting “2021”. | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “to protect the safety of life, health, or property” and inserting “to provide law enforcement, fire and rescue response, or emergency medical assistance (including such assistance provided by ambulance s… | the bill names no machine-readable US Code section |
 | — | insert | in clause (i), by inserting “or tribal organizations (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b))” before the semicolon; and | the bill names no machine-readable US Code section |
@@ -328,7 +328,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (g), by striking “subsection (d)(2)” and inserting “subsection (d)(1)”. | the bill names no machine-readable US Code section |
 | — | amend | Subpart A of part 2 of subtitle A of title XIII of the Housing and Community Development Act of 1992 is amended by adding after section 1326 (12 U.S.C. 4546) the following new section: | the bill names no machine-readable US Code section |
 | — | redesignate | Subsection (d) of section 6047 of the Internal Revenue Code of 1986 is amended by redesignating paragraph (2) as paragraph (3) and by inserting after paragraph (1) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Paragraph (1) of section 6103(l) of such Code is amended by striking “and” at the end of subparagraph (B), by striking the period at the end of subparagraph (C) and inserting “; and”, and by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Paragraph (1) of section 6103(l) of such Code is amended by striking “and” at the end of subparagraph (B), by striking the period at the end of subparagraph (C) and inserting “; and”, and by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (d) of section 24 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Subparagraph (I) of section 6213(g)(2) of such Code is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | Subsection (e) of section 24 of such Code is amended by inserting “with respect to qualifying children” after “Identification requirement” in the heading thereof. | the bill names no machine-readable US Code section |

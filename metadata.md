@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3630
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3630
@@ -79,3 +79,4 @@ Middle Class Tax Relief and Job Creation Act of 2012
 - 2011-12-13 — Rule provides for consideration of H.R. 3630 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived. The amendment printed in the report of the Committee on Rules accompanying the resolution shall be considered as adopted.
 - 2011-12-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8823)
 - 2011-12-13 — The previous question was ordered pursuant to the rule. (consideration: CR H8820)
+- 2011-12-14 — Received in the Senate. Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 257.
