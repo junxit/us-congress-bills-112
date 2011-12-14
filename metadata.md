@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 93
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 93
@@ -16,6 +16,10 @@ Providing for a correction to the enrollment of the bill H.R. 2845.
 
 - Rep. Shuster, Bill [R-PA-9] (S001154)
 
+## Committees (1)
+
+- House — Transportation and Infrastructure Committee
+
 ## Actions
 
 - 2011-12-14 — Considered as privileged matter. (consideration: CR H8942-8948)
@@ -25,3 +29,6 @@ Providing for a correction to the enrollment of the bill H.R. 2845.
 - 2011-12-14 — On agreeing to the resolution Agreed to without objection. (text: CR H8942-8948)
 - 2011-12-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8942-8948)
 - 2011-12-14 — Received in the Senate.
+- 2011-12-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S8689-8690)
+- 2011-12-15 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S8689-8690)
+- 2011-12-16 — Message on Senate action sent to the House.
