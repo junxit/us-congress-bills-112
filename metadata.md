@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3421
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3421
@@ -373,3 +373,12 @@ Fallen Heroes of 9/11 Act
 - 2011-12-14 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 416 - 0 (Roll no. 929). (text: CR 12/13/2011 H8825-8826)
 - 2011-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 416 - 0 (Roll no. 929).(text: CR 12/13/2011 H8825-8826)
 - 2011-12-14 — Received in the Senate, read twice.
+- 2011-12-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8689)
+- 2011-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8689)
+- 2011-12-16 — Message on Senate action sent to the House.
+- 2011-12-19 — Presented to President.
+- 2011-12-19 — Presented to President.
+- 2011-12-23 — Became Public Law No: 112-76.
+- 2011-12-23 — Became Public Law No: 112-76.
+- 2011-12-23 — Signed by President.
+- 2011-12-23 — Signed by President.
