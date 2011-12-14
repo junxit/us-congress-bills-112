@@ -2,7 +2,7 @@
 legis-num: H. RES. 493
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 493
@@ -25,7 +25,7 @@ On any legislative day of the first session of the One Hundred Twelfth Congress 
 
 ## § 4.
 
-On any legislative day of the second session of the One Hundred Twelfth Congress before January 17, 2012 —
+On any legislative day of the second session of the One Hundred Twelfth Congress before January 17, 2012—
 
 - **(a)** the Speaker may dispense with organizational and legislative business;
 - **(b)** the Journal of the proceedings of the previous day shall be considered as approved if applicable; and
