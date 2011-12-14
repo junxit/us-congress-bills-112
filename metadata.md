@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1892
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1892
@@ -24,12 +24,13 @@ Intelligence Authorization Act for Fiscal Year 2012
 
 - House — Intelligence (Permanent Select) Committee
 
-## Recorded votes (4)
+## Recorded votes (5)
 
 - 2011-09-09 — [House 112-1-695](votes/house-112-1-0695.md) — On Agreeing to the Amendment — **Agreed to** (397–0)
 - 2011-09-09 — [House 112-1-696](votes/house-112-1-0696.md) — On Agreeing to the Amendment — **Agreed to** (303–92)
 - 2011-09-09 — [House 112-1-697](votes/house-112-1-0697.md) — On Motion to Recommit with Instructions — **Failed** (145–257)
 - 2011-09-09 — [House 112-1-698](votes/house-112-1-0698.md) — On Passage — **Passed** (384–14)
+- 2011-12-16 — [House 112-1-939](votes/house-112-1-0939.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (396–23)
 
 ## Actions
 
@@ -117,3 +118,16 @@ Intelligence Authorization Act for Fiscal Year 2012
 - 2011-12-14 — Senate amendment agreed to: Amendment SA 1463 agreed to in Senate by Unanimous Consent.
 - 2011-12-14 — Senate amendment proposed (on the floor): Amendment SA 1463 proposed by Senator Reid for Senator Feinstein.(consideration: CR S8617)
 - 2011-12-14 — Senate amendment submitted
+- 2011-12-15 — Message on Senate action sent to the House.
+- 2011-12-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2011-12-16 — DEBATE - The House proceeded with forty minutes of debate on agreeing to the Senate amendment to H.R. 1892.
+- 2011-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-16 — Mr. Rogers (MI) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H9801-9810, H9821-9822)
+- 2011-12-16 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 396 - 23 (Roll no. 939). (text as House agreed to Senate amendment: CR H9801-9807)
+- 2011-12-16 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 396 - 23 (Roll no. 939).(text as House agreed to Senate amendment: CR H9801-9807)
+- 2011-12-23 — Presented to President.
+- 2011-12-23 — Presented to President.
+- 2012-01-03 — Became Public Law No: 112-87.
+- 2012-01-03 — Became Public Law No: 112-87.
+- 2012-01-03 — Signed by President.
+- 2012-01-03 — Signed by President.
