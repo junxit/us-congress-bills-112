@@ -57,7 +57,7 @@ The Congress hereby finds as follows:
   - **(3)** *Coin images*
     - **(A)** *$5 Gold coins*
       - **(i)** *Obverse* The obverse of the $5 coins issued under this Act shall bear an image of the United States Marshals Service Star (also known as “America’s Star”).
-      - **(ii)** *Reverse* The reverse of the $5 coins issued under this Act shall bear a design emblematic of the sacrifice and service of the men and women of the United States Marshals Service who lost their lives in the line of duty and include the Marshals Service motto “Justice, Integrity, Service.”
+      - **(ii)** *Reverse* The reverse of the $5 coins issued under this Act shall bear a design emblematic of the sacrifice and service of the men and women of the United States Marshals Service who lost their lives in the line of duty and include the Marshals Service motto “Justice, Integrity, Service”.
     - **(B)** *$1 Silver coins*
       - **(i)** *Obverse* The obverse of the $1 coins issued under this Act shall bear an image of the United States Marshals Service Star (also known as “America’s Star”).
       - **(ii)** *Reverse* The reverse of the $1 silver coins issued under this Act shall bear an image emblematic of the United States Marshals legendary status in America’s cultural landscape. The image should depict Marshals as the lawmen of our frontiers, including their geographic, political, or cultural history, and shall include the Marshals Service motto “Justice, Integrity, Service”.
@@ -98,8 +98,14 @@ The Congress hereby finds as follows:
 - **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, the Secretary shall promptly distribute all surcharges received from the sale of coins issued under this Act as follows:
   - **(1)** The first $5,000,000 available for distribution under this section, to the U.S. Marshals Museum, Inc., also known as the United States Marshals Museum, for the preservation, maintenance, and display of artifacts and documents.
   - **(2)** Of amounts available for distribution after the payment under paragraph (1)—
-    - **(A)** Thirty-three and one-third percent shall be distributed to The National Center for Missing & Exploited Children.
-    - **(B)** Thirty-three and one-third percent shall be distributed to the National Law Enforcement Officers Memorial Fund, in support of the National Law Enforcement Museum and the National Law Enforcement Officers Memorial.
-    - **(C)** Thirty-three and one-third percent shall be distributed to the Federal Law Enforcement Officers Association Foundation.
+    - **(A)** One third shall be distributed to the National Center for Missing & Exploited Children, to be used for finding missing children and combating child sexual exploitation.
+    - **(B)** One third shall be distributed to the Federal Law Enforcement Officers Association Foundation, to be used—
+      - **(i)** to provide financial assistance for—
+        - **(I)** surviving family members of Federal law enforcement members killed in the line of duty;
+        - **(II)** Federal law enforcement members who have become disabled; and
+        - **(III)** Federal law enforcement employees and their families in select instances, such as severe trauma or financial loss, where no other source of assistance is available;
+      - **(ii)** to provide scholarships to students pursuing a career in the law enforcement field; and
+      - **(iii)** to provide selective grants to charitable organizations.
+    - **(C)** One third shall be distributed to the National Law Enforcement Officers Memorial Fund, to support the construction of the National Law Enforcement Museum and the preservation and display of its artifacts.
 - **(c)** *Audits* All organizations, associations, and funds shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
 - **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to this issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
