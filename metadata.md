@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 347
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 347
@@ -16,7 +16,7 @@ A resolution recognizing the 40th anniversary of the National Cancer Act of 1971
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 
-## Cosponsors (43)
+## Cosponsors (45)
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Kerry, John F. [D-MA] (K000148)
@@ -61,6 +61,8 @@ A resolution recognizing the 40th anniversary of the National Cancer Act of 1971
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (1)
 
@@ -71,3 +73,7 @@ A resolution recognizing the 40th anniversary of the National Cancer Act of 1971
 - 2011-12-13 — Introduced in Senate
 - 2011-12-13 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S8549-8550)
 - 2011-12-13 — Sponsor introductory remarks on measure. (CR S8550-8551)
+- 2011-12-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S8690-8691)
+- 2011-12-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S8690-8691)
+- 2011-12-15 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S8690-8691)
+- 2011-12-15 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S8690-8691)
