@@ -1,7 +1,7 @@
 ---
 measure: H.R. 789
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 789
@@ -31,9 +31,10 @@ To designate the facility of the United States Postal Service located at 20 Main
 - Rep. Runyan, Jon [R-NJ-3] (R000594)
 - Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,8 @@ To designate the facility of the United States Postal Service located at 20 Main
 - 2011-07-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/28/2011 H5724))
 - 2011-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/28/2011 H5724))
 - 2011-07-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2011-08-18 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2011-12-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2011-12-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2011-12-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2011-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 258.
