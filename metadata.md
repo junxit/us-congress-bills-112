@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1264
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1264
@@ -51,3 +51,4 @@ To designate the property between the United States Federal Courthouse and the E
 - 2011-12-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2011-12-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 930). (text: CR 12/12/2011 H8343)
 - 2011-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 1 (Roll no. 930).(text: CR 12/12/2011 H8343)
+- 2011-12-15 — Received in the Senate, read twice.
