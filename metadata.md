@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3659
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3659
