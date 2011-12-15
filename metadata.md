@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2422
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2422
@@ -71,3 +71,8 @@ To designate the facility of the United States Postal Service located at 45 Bay 
 - 2011-11-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 839). (text: CR H7413)
 - 2011-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 839).(text: CR H7413)
 - 2011-11-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2011-11-30 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2011-12-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2011-12-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2011-12-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2011-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 259.
