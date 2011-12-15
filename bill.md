@@ -79,3 +79,9 @@ This Act may be cited as the Temporary Bankruptcy Judgeships Extension Act of 20
 - **(c)** *Collection and deposit of miscellaneous bankruptcy fees* Section 406(b) of the Judiciary Appropriations Act, 1990 (28 U.S.C. 1931 note) is amended by striking “25” and inserting “23.99”.
 - **(d)** *Expenditure limitation* Incremental amounts collected by reason of the enactment of subsection (a) shall be deposited in a special fund in the Treasury of the United States, to be established after the date of enactment of this Act. Such amounts shall be available for the purposes specified in section 1931(a) of title 28, United States Code, but only to the extent specifically appropriated by an Act of Congress enacted after the date of enactment of this Act.
 - **(e)** *Effective date* This section and the amendments made by this section shall take effect 180 days after the date of enactment of this Act.
+
+## § 3. Temporary judgeship paygo offset
+
+- **(a)** *Bankruptcy filing fees* Section 1930(a)(3) of title 28, United States Code, is amended by striking “$1,000” and inserting “$1,042”.
+- **(b)** *Expenditure limitation* Incremental amounts collected by reason of the enactment of subsection (a) shall be deposited in a special fund in the United States Treasury, to be established after the date of enactment of this Act. Such amounts shall be available for the purposes specified in section 1931(a) of title 28, United States Code, but only to the extent specifically appropriated by an Act of Congress enacted after the date of enactment of this Act.
+- **(c)** *Effective date* This section shall take effect 180 days after the date of enactment of this Act.

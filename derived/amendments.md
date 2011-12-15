@@ -1,7 +1,7 @@
 ---
 measure: S. 1821
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1930(a)(3) of title 28, United States Code, is amended by striking “$1,000” and inserting “$1,042”. | the bill names no machine-readable US Code section |
 | — | replace | Section 589a(b)(2) of title 28, United States Code, is amended by striking “55” and inserting “52.78”. | the bill names no machine-readable US Code section |
 | — | replace | Section 406(b) of the Judiciary Appropriations Act, 1990 (28 U.S.C. 1931 note) is amended by striking “25” and inserting “23.99”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1930(a)(3) of title 28, United States Code, is amended by striking “$1,000” and inserting “$1,042”. | the bill names no machine-readable US Code section |
