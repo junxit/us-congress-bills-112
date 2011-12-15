@@ -36,7 +36,7 @@ The table of contents of this Act is as follows:
 - **(f)** *Census bureau study* Section 414(b) of such Act (42 U.S.C. 614(b)) is amended by striking “each of fiscal years 1996” and all that follows through “2003” and inserting “fiscal year 2012”.
 - **(g)** *Child care entitlement* Section 418(a)(3) of such Act (42 U.S.C. 618(a)(3)) is amended by striking “appropriated” and all that follows and inserting “appropriated $2,917,000,000 for fiscal year 2012.”.
 - **(h)** *Grants to territories* Section 1108(b)(2) of such Act (42 U.S.C. 1308(b)(2)) is amended by striking “for fiscal years 1997 through 2003” and inserting “fiscal year 2012”.
-- **(i)** *Prevention of duplicate appropriations for fiscal year 2012* Expenditures made pursuant to the Short-Term TANF Extension Act (Public Law 112–35) or section 403(b) of the Social Security Act for fiscal year 2012 shall be charged to the applicable appropriation or authorization provided by the amendments made by this section for such fiscal year.
+- **(i)** *Prevention of duplicate appropriations for fiscal year 2012* Expenditures made pursuant to the Short-Term TANF Extension Act (Public Law 112–35) for fiscal year 2012 shall be charged to the applicable appropriation or authorization provided by the amendments made by this section for such fiscal year.
 - **(j)** *Effective date* This section and the amendments made by this section shall take effect on the date of the enactment of this Act.
 
 ## § 4. Data standardization
