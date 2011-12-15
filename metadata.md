@@ -1,7 +1,7 @@
 ---
 measure: H.R. 443
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 443
@@ -16,10 +16,15 @@ To provide for the conveyance of certain property from the United States to the 
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
+
+## Recorded votes (1)
+
+- 2011-12-15 — [House 112-1-936](votes/house-112-1-0936.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (407–4)
 
 ## Actions
 
@@ -38,3 +43,12 @@ To provide for the conveyance of certain property from the United States to the 
 - 2011-12-08 — Placed on the Union Calendar, Calendar No. 216.
 - 2011-12-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-318, Part I.
 - 2011-12-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-318, Part I.
+- 2011-12-14 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Hastings (WA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2011-12-14 — Considered under suspension of the rules. (consideration: CR H8948-8949)
+- 2011-12-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 443.
+- 2011-12-14 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2011-12-15 — Considered as unfinished business. (consideration: CR H8992-8993)
+- 2011-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 407 - 4 (Roll no. 936). (text: CR 12/14/2011 H8948-8949)
+- 2011-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 407 - 4 (Roll no. 936).(text: CR 12/14/2011 H8948-8949)
+- 2011-12-15 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
