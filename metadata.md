@@ -1,7 +1,7 @@
 ---
 measure: S. 1134
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1134
@@ -30,3 +30,8 @@ St. Croix River Crossing Project Authorization Act
 
 - 2011-05-26 — Introduced in Senate
 - 2011-05-26 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2011-07-28 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 112-214.
+- 2011-11-10 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2011-12-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. Without written report.
+- 2011-12-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. Without written report.
+- 2011-12-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 264.
