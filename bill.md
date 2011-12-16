@@ -18,7 +18,8 @@ This Act may be cited as the “Protecting Children From Internet Pornographers 
 - **(a)** *Offense* Chapter 95 of title 18, United States Code, is amended by adding at the end the following:
   > ## § 1960A. Financial facilitation of access to child pornography
   >
-  > Whoever knowingly conducts, or attempts or conspires to conduct, a financial transaction (as defined in section 1956(c)) in or affecting interstate or foreign commerce, knowing that such transaction will facilitate access to, or the possession of, child pornography (as defined in section 2256) shall be fined under this title or imprisoned not more than 20 years, or both.
+  > - **(a)** *In general* Whoever knowingly conducts, or attempts or conspires to conduct, a financial transaction (as defined in section 1956(c)) in or affecting interstate or foreign commerce, knowing that such transaction will facilitate access to, or the possession of, child pornography (as defined in section 2256) shall be fined under this title or imprisoned not more than 20 years, or both.
+  > - **(b)** *Exclusion from offense* This section does not apply to a financial transaction conducted by a person in cooperation with, or with the consent of, any Federal, State, or local law enforcement agency.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 95 of title 18, United States Code, is amended by adding at the end the following new item:
 
@@ -26,20 +27,34 @@ This Act may be cited as the “Protecting Children From Internet Pornographers 
 
 Section 1956(c)(7)(D) of title 18, United States Code, is amended—
 
-- **(1)** by inserting “1466A (relating to obscene visual representation of the abuse of children),” before “section 1708”;
-- **(2)** by inserting “1960A (relating to financial facilitation of access to child pornography),” before “section 2113”; and
-- **(3)** by inserting “2260A (relating to increased penalties for registered sex offenders),” before “section 2280”.
+- **(1)** by inserting “1466A (relating to obscene visual representation of the abuse of children),” before “section 1708”; and
+- **(2)** by inserting “1960A (relating to financial facilitation of access to child pornography),” before “section 2113”.
 
 ## § 4. Retention of certain records by electronic communication service providers
 
 - **(a)** *In general* Section 2703 of title 18, United States Code, is amended by adding at the end the following:
-  > - **(h)** *Retention of certain records* A provider of an electronic communication service or remote computing service shall retain for a period of at least 18 months the temporarily assigned network addresses the service assigns to each account, unless that address is transmitted by radio communication (as defined in section 3 of the Communications Act of 1934).
+  > - **(h)** *Retention of certain records*
+  >   - **(1)** A commercial provider of an electronic communication service shall retain for a period of at least one year a log of the temporarily assigned network addresses the provider assigns to a subscriber to or customer of such service that enables the identification of the corresponding customer or subscriber information under subsection (c)(2) of this section.
+  >   - **(2)** Access to a record or information required to be retained under this subsection may not be compelled by any person or other entity that is not a governmental entity.
+  >   - **(3)** The Attorney General shall make a study to determine the costs associated with compliance by providers with the requirement of paragraph (1). Such study shall include an assessment of all the types of costs, including for hardware, software, and personnel that are involved. Not later than 2 years after the date of the enactment of this paragraph, the Attorney General shall report to Congress the results of that study.
+  >   - **(4)** In this subsection—
+  >     - **(A)** the term “commercial provider” means a provider of electronic communication service that offers Internet access capability for a fee to the public or to such classes of users as to be effectively available to the public, regardless of the facilities used; and
+  >     - **(B)** the term “Internet” has the same meaning given that term in section 230(f) of the Communications Act of 1934.
 
-- **(b)** *Sense of Congress* It is the sense of Congress that records retained pursuant to section 2703(h) of title 18, United States Code, should be stored securely to protect customer privacy and prevent against breaches of the records.
+- **(b)** *Sense of Congress* It is the sense of Congress—
+  - **(1)** to encourage electronic communication service providers to give prompt notice to their customers in the event of a breach of the data retained pursuant to section 2703(h) of title 18 of the United States Code, in order that those effected can take the necessary steps to protect themselves from potential misuse of private information; and
+  - **(2)** that records retained pursuant to section 2703(h) of title 18, United States Code, should be stored securely to protect customer privacy and prevent against breaches of the records.
+- **(c)** *Transition rule* The amendment made by this section shall not apply until 180 days after the date of the enactment of this Act to a provider of an electronic communications service that does not, on that date of enactment, have in effect a system of retention of records that complies with the requirements of that amendment.
+- **(d)** *Study*
+  - **(1)** The Attorney General, not later than 2 years after the date of the enactment of this Act, shall complete a study of providers affected by section 2703(h) of title 18, United States Code.
+  - **(2)** Such study shall include—
+    - **(A)** the privacy standards and considerations implemented by those providers as they comply with the requirements of section 2703(h); and
+    - **(B)** the frequency of any reported breaches of data retained pursuant to section 2703(h).
+  - **(3)** The Attorney General shall, upon the completion of the study, report the results of the study to Congress.
 
 ## § 5. No cause of action against a provider disclosing information under this chapter
 
-Section 2703(e) of title 18, United States Code, is amended by inserting “retaining records or” after “other specified persons for”.
+Section 2703(e) of title 18, United States Code, is amended by inserting “retaining records,” after “other specified persons for”.
 
 ## § 6. Good faith reliance on requirement
 
@@ -87,15 +102,15 @@ Section 1514 of title 18, United States Code, is amended—
 
 ## § 9. Sentencing guidelines
 
-Pursuant to its authority under section 994 of title 28, United States Code, and in accordance with this section, the United States Sentencing Commission shall review and amend the Federal sentencing guidelines and policy statements to ensure—
+Pursuant to its authority under section 994 of title 28, United States Code, and in accordance with this section, the United States Sentencing Commission shall review and, if appropriate, amend the Federal sentencing guidelines and policy statements to ensure—
 
-- **(1)** that the guidelines provide an additional penalty increase of up to 8 offense levels, if appropriate, above the sentence otherwise applicable in Part J of the Guidelines Manual if the defendant was convicted of a violation of section 1591 of title 18, United States Code, or chapters 109A, 109B, 110 or 117 of title 18, United States Code; and
-- **(2)** if the offense described in paragraph (1) involved causing or threatening to cause physical injury to a person under 18 years of age, in order to obstruct the administration of justice, an additional penalty increase of up to 12 levels, if appropriate, above the sentence otherwise applicable in Part J of the Guidelines Manual.
+- **(1)** that the guidelines provide an additional penalty increase above the sentence otherwise applicable in Part J of Chapter 2 of the Guidelines Manual if the defendant was convicted of a violation of section 1591 of title 18, United States Code, or chapters 109A, 109B, 110, or 117 of title 18, United States Code; and
+- **(2)** if the offense described in paragraph (1) involved causing or threatening to cause physical injury to a person under 18 years of age, in order to obstruct the administration of justice, an additional penalty increase above the sentence otherwise applicable in Part J of Chapter 2 of the Guidelines Manual.
 
 ## § 10. Enhanced penalties for possession of child pornography
 
 - **(a)** *Certain activities relating to material involving the sexual exploitation of minors* Section 2252(b)(2) of title 18, United States Code, is amended by inserting after “but if” the following: “any visual depiction involved in the offense involved a prepubescent minor or a minor who had not attained 12 years of age, such person shall be fined under this title and imprisoned for not more than 20 years, or if”.
-- **(b)** *Certain activities relating to material constituting or containing child pornography* Section 2252A(b)(2) of title 18, United States Code, is amended by inserting after “but, if” the following: “any image of child pornography involved in the offense involved a prepubescent minor or a minor who had not attained 12 years of age, such person shall be fined under this title and imprisoned for more than 20 years, or if”.
+- **(b)** *Certain activities relating to material constituting or containing child pornography* Section 2252A(b)(2) of title 18, United States Code, is amended by inserting after “but, if” the following: “any image of child pornography involved in the offense involved a prepubescent minor or a minor who had not attained 12 years of age, such person shall be fined under this title and imprisoned for not more than 20 years, or if”.
 
 ## § 11. Administrative subpoenas
 

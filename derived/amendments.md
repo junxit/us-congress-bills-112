@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1981
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-29 amendatory instructions. 0 executed, 29 stated and not applied.
+28 amendatory instructions. 0 executed, 28 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,15 +33,14 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Chapter 95 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of chapter 95 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “1466A (relating to obscene visual representation of the abuse of children),” before “section 1708”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting “1960A (relating to financial facilitation of access to child pornography),” before “section 2113”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “2260A (relating to increased penalties for registered sex offenders),” before “section 2280”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “1466A (relating to obscene visual representation of the abuse of children),” before “section 1708”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “1960A (relating to financial facilitation of access to child pornography),” before “section 2113”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2703 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 2703(e) of title 18, United States Code, is amended by inserting “retaining records or” after “other specified persons for”. | the bill names no machine-readable US Code section |
+| — | insert | Section 2703(e) of title 18, United States Code, is amended by inserting “retaining records,” after “other specified persons for”. | the bill names no machine-readable US Code section |
 | — | insert | Section 2707(e)(1) of title 18, United States Code, is amended by inserting “, or the requirement to retain records under section 2703(h),” after “section 2703(f)”. | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or its own motion,” after “attorney for the Government,”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or investigation” after “Federal criminal case” each place it appears; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2), (3), and (4) as paragraphs (3), (4), and (5), respectively; | the bill names no machine-readable US Code section |
@@ -56,7 +55,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after clause (i) the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “paragraph, the term” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6)(A), by striking “United State” and inserting “United States”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (9), by striking “(1)(A)(ii)” and inserting “(1)(A)(iii)”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (10), by striking “paragraph (1)(A)(ii)” and inserting “paragraph (1)(A)(iii)”. | the bill names no machine-readable US Code section |
