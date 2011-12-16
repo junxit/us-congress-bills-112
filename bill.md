@@ -2,7 +2,7 @@
 legis-num: H. RES. 500
 congress: 112th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 500
