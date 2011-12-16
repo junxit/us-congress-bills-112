@@ -1,7 +1,7 @@
 ---
 measure: S. 2009
 congress: 112
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | by striking “Notwithstanding” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 297(a) of title 28, United States Code, is amended by striking “circuit or district judge” and inserting “circuit, district, magistrate, or territorial judge of a court”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “each year thereafter until” and inserting “on September 30 of every third year thereafter until”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “except that” and all that follows through “September 30” and inserting “except that there shall be no such increase in 2012, 2013, and 2014 pending the triennial report required under section 8104(a)”. | the bill names no machine-readable US Code section |
