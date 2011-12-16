@@ -1,7 +1,7 @@
 ---
 measure: S. 1612
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1612
@@ -26,10 +26,12 @@ Targeting Transnational Drug Trafficking Act of 2011
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Committees (2)
+## Committees (4)
 
 - Senate — Judiciary Committee
 - Senate — United States Senate Caucus on International Narcotics Control
+- House — Judiciary Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -47,3 +49,8 @@ Targeting Transnational Drug Trafficking Act of 2011
 - 2011-12-15 — Senate amendment agreed to: Amendment SA 1464 agreed to in Senate by Unanimous Consent.
 - 2011-12-15 — Senate amendment proposed (on the floor): Amendment SA 1464 proposed by Senator Durbin for Senator Feinstein.(consideration: CR S8690; text: CR S8690)
 - 2011-12-15 — Senate amendment submitted
+- 2011-12-16 — Message on Senate action sent to the House.
+- 2011-12-16 — Received in the House.
+- 2011-12-16 — Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-12-16 — Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-12-16 — Referred to the Subcommittee on Health.
