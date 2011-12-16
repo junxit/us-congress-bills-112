@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3094
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -31,9 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subsection (b), by striking “The Board shall decide” and all that follows through “Provided, That the” and inserting: “In each case, prior to an election, the Board shall determine, in order to assure to employees the fullest freedom … | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, but in no circumstances less than 14 calendar days after the filing of the petition” after “hearing upon due notice”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting before the last sentence the following: “An appropriate hearing shall be one that is non-adversarial with the hearing officer charged, in collaboration with the parties, with the responsibility of identifying any relevant an… | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or consideration of a request for review of a regional director’s decision and direction of election,” after “record of such hearing”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “to be conducted as soon as practicable but not less than 35 calendar days following the filing of an election petition” after “election by secret ballot”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: “Not earlier than 7 days after final determination by the Board of the appropriate bargaining unit, the Board shall acquire from the employer a list of all eligible voters to be made available to all p… | the bill names no machine-readable US Code section |
+| `29 U.S.C. § 159` | replace | in subsection (b), by striking “The Board shall decide” and all that follows through “Provided, That the” and inserting: “In each case, prior to an election, the Board shall determine, in order to assure to employees the fullest freedom … | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 159` | insert | by inserting “, but in no circumstances less than 14 calendar days after the filing of the petition” after “hearing upon due notice”; | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 159` | insert | by inserting before the last sentence the following: “An appropriate hearing shall be one that is non-adversarial with the hearing officer charged, in collaboration with the parties, with the responsibility of identifying any relevant an… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 159` | insert | by inserting “or consideration of a request for review of a regional director’s decision and direction of election,” after “record of such hearing”; and | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 159` | insert | by inserting “to be conducted as soon as practicable but not less than 35 calendar days following the filing of an election petition” after “election by secret ballot”; and | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 159` | amend | by adding at the end the following: “Not earlier than 7 days after final determination by the Board of the appropriate bargaining unit, the Board shall acquire from the employer a list of all eligible voters to be made available to all p… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

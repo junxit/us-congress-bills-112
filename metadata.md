@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3094
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3094
@@ -143,3 +143,6 @@ Workforce Democracy and Fairness Act
 - 2011-11-30 — The Speaker designated the Honorable Ted Poe to act as Chairman of the Committee.
 - 2011-11-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7985)
 - 2011-11-30 — The previous question was ordered pursuant to the rule. (consideration: CR H7984)
+- 2011-12-01 — Received in the Senate.
+- 2011-12-15 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2011-12-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 262.
