@@ -2,12 +2,14 @@
 legis-num: S. 278
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 278
 
-> To provide for the exchange of certain land located in the Arapaho-Roosevelt National Forests in the State of Colorado, and for other purposes.
+That the bill from the Senate (S. 278) entitled “An Act to provide for the exchange of certain land located in the Arapaho-Roosevelt National Forests in the State of Colorado, and for other purposes”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -46,7 +48,7 @@ In this Act:
   - **(1)** *In general* The Secretary shall deposit in the fund established under Public Law 90–171 (commonly known as the “Sisk Act”) (16 U.S.C. 484a) any amount received by the Secretary as the result of—
     - **(A)** any cash equalization payment made under subsection (b); and
     - **(B)** any sale carried out under subsection (e).
-  - **(2)** *Use of proceeds* Amounts deposited under paragraph (1) shall be available to the Secretary, without further appropriation and until expended, for the acquisition of land or interests in land in the National Forest.
+  - **(2)** *Use of proceeds* Amounts deposited under paragraph (1) shall be available to the Secretary, without further appropriation and until expended, for the acquisition of land or interests in land in the National Forest System.
 - **(g)** *Management and status of acquired land* The non-Federal land acquired by the Secretary under this section shall be—
   - **(1)** added to, and administered as part of, the National Forest; and
   - **(2)** managed by the Secretary in accordance with—
