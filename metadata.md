@@ -1,7 +1,7 @@
 ---
 measure: S. 2009
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2009
