@@ -1,7 +1,7 @@
 ---
 measure: S. 278
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 278
@@ -52,3 +52,12 @@ Sugar Loaf Fire Protection District Land Exchange Act of 2011
 - 2011-12-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2011-12-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 413 - 0 (Roll no. 940). (text: CR 12/14/2011 H8950-8952)
 - 2011-12-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 413 - 0 (Roll no. 940).(text: CR 12/14/2011 H8950-8952)
+- 2011-12-17 — Message on Senate action sent to the House.
+- 2011-12-17 — Resolving differences -- Senate actions: Senate agreed to the House amendment by Unanimous Consent.(consideration: CR S8780; text of measure as agreed to in House: CR S8780)
+- 2011-12-17 — Senate agreed to the House amendment by Unanimous Consent. (consideration: CR S8780; text of measure as agreed to in House: CR S8780)
+- 2011-12-20 — Presented to President.
+- 2011-12-20 — Presented to President.
+- 2011-12-23 — Became Public Law No: 112-79.
+- 2011-12-23 — Became Public Law No: 112-79.
+- 2011-12-23 — Signed by President.
+- 2011-12-23 — Signed by President.

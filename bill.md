@@ -1,15 +1,13 @@
 ---
 legis-num: S. 278
-congress: 112th CONGRESS
+congress: One Hundred Twelfth Congress of the United States of America
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 278
 
-That the bill from the Senate (S. 278) entitled “An Act to provide for the exchange of certain land located in the Arapaho-Roosevelt National Forests in the State of Colorado, and for other purposes”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To provide for the exchange of certain land located in the Arapaho-Roosevelt National Forests in the State of Colorado, and for other purposes
 
 ## § 1. Short title
 
