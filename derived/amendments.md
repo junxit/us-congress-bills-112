@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 94
 congress: 112
-version: Considered and Passed House
+version: Engrossed in House
 derived: true
 ---
 
