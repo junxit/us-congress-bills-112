@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3672
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3672
@@ -21,9 +21,21 @@ Disaster Relief Appropriations Act, 2012
 - House — Budget Committee
 - House — Appropriations Committee
 
+## Recorded votes (1)
+
+- 2011-12-16 — [House 112-1-943](votes/house-112-1-0943.md) — On Passage — **Passed** (351–67)
+
 ## Actions
 
 - 2011-12-14 — Introduced in House
 - 2011-12-14 — Introduced in House
 - 2011-12-14 — Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-12-14 — Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-12-16 — Considered as unfinished business. (consideration: CR H9907)
+- 2011-12-16 — Considered under the provisions of rule H. Res. 500. (consideration: CR H9903-9905)
+- 2011-12-16 — DEBATE - The House proceeded with one hour of debate on H.R. 3672.
+- 2011-12-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2011-12-16 — On passage Passed by the Yeas and Nays: 351 - 67 (Roll no. 943). (text: CR H9903)
+- 2011-12-16 — POSTPONED PROCEEDINGS - Pursuant to clause X of Rule 20, the yeas and nays were ordered. Pursuant to clause VIII of Rule 20, further proceedings on H.R. 3672 were postponed.
+- 2011-12-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 351 - 67 (Roll no. 943).(text: CR H9903)
+- 2011-12-16 — The previous question was ordered pursuant to the rule. (consideration: CR H9905)
