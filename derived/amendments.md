@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 94
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
