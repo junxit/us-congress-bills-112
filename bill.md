@@ -32,3 +32,4 @@ This Act may be cited as the “Haqqani Network Terrorist Designation Act of 201
   - **(3)** *Appropriate committees of Congress defined* In this subsection, the term appropriate committees of Congress means—
     - **(A)** the Committee on Armed Services, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
     - **(B)** the Committee on Armed Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
+- **(c)** *Construction* Nothing in this Act may be construed to infringe upon the sovereignty of Pakistan to combat militant or terrorist groups operating inside the boundaries of Pakistan.

@@ -1,7 +1,7 @@
 ---
 measure: S. 1959
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1959
@@ -16,7 +16,7 @@ Haqqani Network Terrorist Designation Act of 2012
 
 - Sen. Burr, Richard [R-NC] (B001135)
 
-## Cosponsors (11)
+## Cosponsors (15)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Chambliss, Saxby [R-GA] (C000286)
@@ -29,6 +29,10 @@ Haqqani Network Terrorist Designation Act of 2012
 - Sen. Corker, Bob [R-TN] (C001071)
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
 - Sen. Udall, Mark [D-CO] (U000038)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Roberts, Pat [R-KS] (R000307)
 
 ## Committees (1)
 
@@ -38,3 +42,14 @@ Haqqani Network Terrorist Designation Act of 2012
 
 - 2011-12-07 — Introduced in Senate
 - 2011-12-07 — Read twice and referred to the Committee on Foreign Relations.
+- 2011-12-17 — Amendment SA 1467 agreed to in Senate by Unanimous Consent.
+- 2011-12-17 — Amendment SA 1467 proposed by Senator Reid for Senator Burr. (consideration: CR S8781; text: CR S8781) To provide that the Act may not be construed to infringe upon the sovereignty of Pakistan to combat militant or terrorist groups operating inside the boundaries of Pakistan.
+- 2011-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S8781-8782)
+- 2011-12-17 — Message on Senate action sent to the House.
+- 2011-12-17 — Passed Senate with an amendment by Unanimous Consent. (text: CR S8781-8782)
+- 2011-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S8781-8782)
+- 2011-12-17 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2011-12-17 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2011-12-17 — Senate amendment agreed to: Amendment SA 1467 agreed to in Senate by Unanimous Consent.
+- 2011-12-17 — Senate amendment proposed (on the floor): Amendment SA 1467 proposed by Senator Reid for Senator Burr.(consideration: CR S8781; text: CR S8781)
+- 2011-12-17 — Senate amendment submitted
