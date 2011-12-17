@@ -1,7 +1,7 @@
 ---
 measure: S. 1874
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1874
@@ -29,3 +29,8 @@ HUBZone Qualified Census Tract Act of 2011
 
 - 2011-11-15 — Introduced in Senate
 - 2011-11-15 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2011-12-17 — Message on Senate action sent to the House.
+- 2011-12-17 — Passed Senate without amendment by Unanimous Consent. (text: CR S8781)
+- 2011-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S8781)
+- 2011-12-17 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S8780-8781)
+- 2011-12-17 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S8780-8781)
