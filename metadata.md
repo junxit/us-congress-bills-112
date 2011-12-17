@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3237
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3237
@@ -39,3 +39,14 @@ SOAR Technical Corrections Act
 - 2011-12-06 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-315.
 - 2011-12-07 — Received in the Senate.
 - 2011-12-17 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2012-01-23 — Passed Senate without amendment by Unanimous Consent.
+- 2012-01-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-01-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S47)
+- 2012-01-23 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S47)
+- 2012-01-24 — Message on Senate action sent to the House.
+- 2012-01-26 — Presented to President.
+- 2012-01-26 — Presented to President.
+- 2012-02-01 — Became Public Law No: 112-92.
+- 2012-02-01 — Became Public Law No: 112-92.
+- 2012-02-01 — Signed by President.
+- 2012-02-01 — Signed by President.

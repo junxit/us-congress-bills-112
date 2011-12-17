@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3237
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 7801` | amend | Section 3007(a)(4)(F) of the Scholarships for Opportunity and Results Act (Public Law 112–10; 125 Stat. 203) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 3007(a)(4)(F) of the Scholarships for Opportunity and Results Act (Public Law 112–10; 125 Stat. 203) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 3008(h) of the Scholarships for Opportunity and Results Act (Public Law 112–10; 125 Stat. 205) is amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A), by inserting before the semicolon the following: “in a manner consistent with section 3008(h)”; and | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (C), by inserting “, if requested by the Institute of Education Sciences,” after “will participate”. | the bill names no machine-readable US Code section |
