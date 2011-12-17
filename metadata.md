@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3672
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3672
@@ -45,3 +45,9 @@ Disaster Relief Appropriations Act, 2012
 - 2011-12-17 — Passed Senate, under the order of 12/16/2011, having received 60 votes in the affirmative, without amendment by Yea-Nay. 72 - 27. Record Vote Number: 233.
 - 2011-12-17 — Passed/agreed to in Senate: Passed Senate, under the order of 12/16/2011, having received 60 votes in the affirmative, without amendment by Yea-Nay. 72 - 27. Record Vote Number: 233.
 - 2011-12-17 — Received in the Senate.
+- 2011-12-21 — Presented to President.
+- 2011-12-21 — Presented to President.
+- 2011-12-23 — Became Public Law No: 112-77.
+- 2011-12-23 — Became Public Law No: 112-77.
+- 2011-12-23 — Signed by President.
+- 2011-12-23 — Signed by President.
