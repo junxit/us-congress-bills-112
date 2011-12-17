@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3630
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3630
@@ -16,13 +16,15 @@ Middle Class Tax Relief and Job Creation Act of 2012
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 
-## Cosponsors (5)
+## Cosponsors (7)
 
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Upton, Fred [R-MI-6] (U000031)
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. McConnell, Mitch [R-KY] (M000355)
 
 ## Committees (12)
 
@@ -39,10 +41,11 @@ Middle Class Tax Relief and Job Creation Act of 2012
 - House — Foreign Affairs Committee
 - House — Ways and Means Committee
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2011-12-13 — [House 112-1-922](votes/house-112-1-0922.md) — On Motion to Recommit with Instructions — **Failed** (183–244)
 - 2011-12-13 — [House 112-1-923](votes/house-112-1-0923.md) — On Passage — **Passed** (234–193)
+- 2011-12-17 — [Senate 112-1-232](votes/senate-112-1-0232.md) — On the Amendment — **Amendment Agreed to** (89–10)
 
 ## Actions
 
@@ -80,3 +83,22 @@ Middle Class Tax Relief and Job Creation Act of 2012
 - 2011-12-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8823)
 - 2011-12-13 — The previous question was ordered pursuant to the rule. (consideration: CR H8820)
 - 2011-12-14 — Received in the Senate. Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 257.
+- 2011-12-15 — Cloture motion on the motion to proceed to the bill presented in Senate. (consideration: CR S8673; text: CR S8673)
+- 2011-12-15 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S8673)
+- 2011-12-16 — Cloture motion on the motion to proceed to the bill withdrawn by unanimous consent in Senate.
+- 2011-12-17 — Amendment SA 1465 proposed by Senator Reid. (consideration: CR S8748-8749) In the nature of a substitute.
+- 2011-12-17 — Amendment SA 1465 under the order of 12/16/2011, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 89 - 10. Record Vote Number: 232.
+- 2011-12-17 — Amendment SA 1466 agreed to in Senate by Unanimous Consent.
+- 2011-12-17 — Amendment SA 1466 proposed by Senator Reid. (consideration: CR S8752; text: CR S8752) To amend the title.
+- 2011-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S8748-8753)
+- 2011-12-17 — Message on Senate action sent to the House.
+- 2011-12-17 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent. (consideration: CR S8748)
+- 2011-12-17 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (text: CR S8749-8752)
+- 2011-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(text: CR S8749-8752)
+- 2011-12-17 — Roll call votes on amendments in Senate: Amendment SA 1465 under the order of 12/16/2011, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 89 - 10. Record Vote Number: 232.
+- 2011-12-17 — Senate amendment agreed to: Amendment SA 1465 under the order of 12/16/2011, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 89 - 10. Record Vote Number: 232.
+- 2011-12-17 — Senate amendment agreed to: Amendment SA 1466 agreed to in Senate by Unanimous Consent.
+- 2011-12-17 — Senate amendment proposed (on the floor): Amendment SA 1465 proposed by Senator Reid.(consideration: CR S8748-8749)
+- 2011-12-17 — Senate amendment proposed (on the floor): Amendment SA 1466 proposed by Senator Reid.(consideration: CR S8752; text: CR S8752)
+- 2011-12-17 — Senate amendment submitted
+- 2011-12-17 — Senate amendment submitted
