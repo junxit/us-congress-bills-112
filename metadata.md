@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2594
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2594
@@ -55,10 +55,11 @@ European Union Emissions Trading Scheme Prohibition Act of 2011
 - Rep. Capito, Shelley Moore [R-WV-2] (C001047)
 - Rep. Ribble, Reid J. [R-WI-8] (R000587)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -80,3 +81,6 @@ European Union Emissions Trading Scheme Prohibition Act of 2011
 - 2011-10-24 — Mr. Petri moved to suspend the rules and pass the bill.
 - 2011-10-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6998)
 - 2011-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6998)
+- 2011-10-25 — Referred to the Subcommittee on Europe and Eurasia.
+- 2011-10-31 — Received in the Senate.
+- 2011-12-17 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
