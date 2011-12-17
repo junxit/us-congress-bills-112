@@ -1,7 +1,7 @@
 ---
 measure: H.R. 886
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 886
@@ -320,9 +320,10 @@ United States Marshals Service 225th Anniversary Commemorative Coin Act
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -343,3 +344,4 @@ United States Marshals Service 225th Anniversary Commemorative Coin Act
 - 2011-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 412 - 1, 1 Present (Roll no. 934). (text: CR 12/13/2011 H8828-8829)
 - 2011-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 412 - 1, 1 Present (Roll no. 934).(text: CR 12/13/2011 H8828-8829)
 - 2011-12-15 — Received in the Senate.
+- 2011-12-17 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
