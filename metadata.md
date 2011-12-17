@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3237
 congress: 112
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3237
@@ -16,9 +16,10 @@ SOAR Technical Corrections Act
 
 - Rep. Gowdy, Trey [R-SC-4] (G000566)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -36,3 +37,5 @@ SOAR Technical Corrections Act
 - 2011-12-06 — Placed on the Union Calendar, Calendar No. 214.
 - 2011-12-06 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-315.
 - 2011-12-06 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-315.
+- 2011-12-07 — Received in the Senate.
+- 2011-12-17 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.

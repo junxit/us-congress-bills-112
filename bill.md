@@ -2,7 +2,7 @@
 legis-num: H.R. 3237
 congress: 112th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3237
@@ -17,14 +17,14 @@ This Act may be cited as the “SOAR Technical Corrections Act”.
 
 Section 3007(a)(4)(F) of the Scholarships for Opportunity and Results Act (Public Law 112–10; 125 Stat. 203) is amended to read as follows:
 
-> - **(F)** ensures that participating students are taught by core subject matter teachers who have a baccalaureate degree or equivalent degree, whether such degree was awarded in or outside of the United States.
+> - **(F)** ensures that, with respect to core academic subjects (as such term is defined in section 9101(11) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(11)), participating students are taught by a teacher who has a baccalaureate degree or equivalent degree, whether such degree was awarded in or outside of the United States.
 
 ## § 3. Nationally norm-referenced standardized tests
 
-Section 3008(h) of the Scholarships for Opportunity and Results Act (Public Law 112–10; 125 Stat. 205) is amended by striking paragraphs (1) and (2) and inserting the following:
+Section 3008(h) of the Scholarships for Opportunity and Results Act (Public Law 112–10; 125 Stat. 205) is amended by striking paragraph (2) and inserting the following:
 
-> - **(1)** *In general* The Institute of Education Sciences shall administer nationally norm-referenced standardized tests, as described in paragraph (3)(A) of section 3009(a), to students participating in the evaluation under section 3009(a) for the purpose of conducting the evaluation under such section, except where a student is attending a participating school that is administering the same nationally norm-referenced standardized test.
-> - **(2)** *Test results* Each participating school that administers the nationally norm-referenced standardized test described in paragraph (1) to an eligible student shall make the test results, with respect to such student, available to the Secretary as necessary for evaluation under section 3009(a).
+> - **(2)** *Administration of tests* The Institute of Education Sciences shall administer nationally norm-referenced standardized tests, as described in paragraph (3)(A) of section 3009(a), to students participating in the evaluation under section 3009(a) for the purpose of conducting the evaluation under such section, except where a student is attending a participating school that is administering the same nationally norm-referenced standardized test in accordance with the testing requirements described in paragraph (1).
+> - **(3)** *Test results* Each participating school that administers the nationally norm-referenced standardized test described in paragraph (2) to an eligible student shall make the test results, with respect to such student, available to the Secretary as necessary for evaluation under section 3009(a).
 
 ## § 4. Evaluations
 
