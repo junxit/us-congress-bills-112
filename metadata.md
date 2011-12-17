@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3672
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3672
@@ -21,9 +21,10 @@ Disaster Relief Appropriations Act, 2012
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2011-12-16 — [House 112-1-943](votes/house-112-1-0943.md) — On Passage — **Passed** (351–67)
+- 2011-12-17 — [Senate 112-1-233](votes/senate-112-1-0233.md) — On Passage of the Bill — **Bill Passed** (72–27)
 
 ## Actions
 
@@ -39,3 +40,8 @@ Disaster Relief Appropriations Act, 2012
 - 2011-12-16 — POSTPONED PROCEEDINGS - Pursuant to clause X of Rule 20, the yeas and nays were ordered. Pursuant to clause VIII of Rule 20, further proceedings on H.R. 3672 were postponed.
 - 2011-12-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 351 - 67 (Roll no. 943).(text: CR H9903)
 - 2011-12-16 — The previous question was ordered pursuant to the rule. (consideration: CR H9905)
+- 2011-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S8759)
+- 2011-12-17 — Message on Senate action sent to the House.
+- 2011-12-17 — Passed Senate, under the order of 12/16/2011, having received 60 votes in the affirmative, without amendment by Yea-Nay. 72 - 27. Record Vote Number: 233.
+- 2011-12-17 — Passed/agreed to in Senate: Passed Senate, under the order of 12/16/2011, having received 60 votes in the affirmative, without amendment by Yea-Nay. 72 - 27. Record Vote Number: 233.
+- 2011-12-17 — Received in the Senate.
