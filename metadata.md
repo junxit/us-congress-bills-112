@@ -1,7 +1,7 @@
 ---
 measure: S. 1959
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1959
@@ -34,9 +34,10 @@ Haqqani Network Terrorist Designation Act of 2012
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 - Sen. Roberts, Pat [R-KS] (R000307)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -53,3 +54,5 @@ Haqqani Network Terrorist Designation Act of 2012
 - 2011-12-17 — Senate amendment agreed to: Amendment SA 1467 agreed to in Senate by Unanimous Consent.
 - 2011-12-17 — Senate amendment proposed (on the floor): Amendment SA 1467 proposed by Senator Reid for Senator Burr.(consideration: CR S8781; text: CR S8781)
 - 2011-12-17 — Senate amendment submitted
+- 2011-12-19 — Received in the House.
+- 2011-12-19 — Referred to the House Committee on the Judiciary.
