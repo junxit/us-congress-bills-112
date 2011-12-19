@@ -1,7 +1,7 @@
 ---
 measure: S. 1710
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1710
@@ -20,9 +20,10 @@ A bill to designate the United States courthouse located at 222 West 7th Avenue,
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -34,3 +35,5 @@ A bill to designate the United States courthouse located at 222 West 7th Avenue,
 - 2011-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S8782)
 - 2011-12-17 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S8782)
 - 2011-12-17 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S8782)
+- 2011-12-19 — Received in the House.
+- 2011-12-19 — Referred to the House Committee on Transportation and Infrastructure.
