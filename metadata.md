@@ -1,7 +1,7 @@
 ---
 measure: S. 1710
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1710
@@ -37,3 +37,16 @@ A bill to designate the United States courthouse located at 222 West 7th Avenue,
 - 2011-12-17 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S8782)
 - 2011-12-19 — Received in the House.
 - 2011-12-19 — Referred to the House Committee on Transportation and Infrastructure.
+- 2011-12-20 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2012-03-05 — Considered under suspension of the rules. (consideration: CR H1141-1142)
+- 2012-03-05 — DEBATE - The House proceeded with forty minutes of debate on S. 1710.
+- 2012-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-03-05 — Mr. Denham moved to suspend the rules and pass the bill.
+- 2012-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1141-1142)
+- 2012-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1141-1142)
+- 2012-03-07 — Presented to President.
+- 2012-03-07 — Presented to President.
+- 2012-03-14 — Became Public Law No: 112-101.
+- 2012-03-14 — Became Public Law No: 112-101.
+- 2012-03-14 — Signed by President.
+- 2012-03-14 — Signed by President.
