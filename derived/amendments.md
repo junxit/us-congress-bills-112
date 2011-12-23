@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3765
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -70,7 +70,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1902(a)(10)(E)(iv) of the Social Security Act (42 U.S.C. 1396a(a)(10)(E)(iv)) is amended by striking “December 2011” and inserting “February 2012”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subparagraph (O); | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (P), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Sections 1902(e)(1)(B) and 1925(f) of the Social Security Act (42 U.S.C. 1396a(e)(1)(B), 1396r–6(f)) are each amended by striking “December 31, 2011” and inserting “February 29, 2012”. | the bill names no machine-readable US Code section |
 | — | amend | Subpart A of part 2 of subtitle A of title XIII of the Housing and Community Development Act of 1992 is amended by adding after section 1326 (12 U.S.C. 4546) the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 203(c)(2) of the National Housing Act (12 U.S.C. 1709(c)(2)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
