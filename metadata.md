@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3765
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3765
