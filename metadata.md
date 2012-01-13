@@ -1,7 +1,7 @@
 ---
 measure: H.R. 461
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 461
@@ -45,3 +45,6 @@ South Utah Valley Electric Conveyance Act
 - 2011-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6994)
 - 2011-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6994)
 - 2011-10-31 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2012-01-13 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 12/17/2011 without amendment. With written report No. 112-130.
+- 2012-01-13 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 12/17/2011 without amendment. With written report No. 112-130.
+- 2012-01-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 291.
