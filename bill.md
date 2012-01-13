@@ -1,7 +1,7 @@
 ---
 legis-num: S. 247
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -47,7 +47,7 @@ This Act may be cited as the “Harriet Tubman National Historical Parks Act”.
       - **(i)** *Federal share* The Federal share of the total cost of any activity carried out under this paragraph shall not exceed 50 percent.
       - **(ii)** *Form of non-federal share* The non-Federal share of the cost of carrying out an activity under this paragraph may be in the form of in-kind contributions or goods or services fairly valued.
 - **(d)** *General management plan*
-  - **(1)** *In general* Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall prepare a general management plan for the historical park in accordance with section 12(b) of Public Law 91–383 (commonly known as the “National Park Service General Authorities Act”) (16 U.S.C. 1a–7(b)).
+  - **(1)** *In general* Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall prepare a general management plan for the historical park in accordance with section 12(b) of Public Law 91–383 (commonly known as the “National Park Service General Authorities Act”)the National Park Service General Authorities Act (16 U.S.C. 1a–7(b)).
   - **(2)** *Consultation* The general management plan shall be prepared in consultation with the State (including political subdivisions of the State).
   - **(3)** *Coordination* The Secretary shall coordinate the preparation and implementation of the management plan with—
     - **(A)** the Blackwater National Wildlife Refuge;
@@ -91,7 +91,7 @@ This Act may be cited as the “Harriet Tubman National Historical Parks Act”.
       - **(i)** *In general* The Secretary shall submit to the Attorney General for review any cooperative agreement under this paragraph involving religious property or property owned by a religious institution.
       - **(ii)** *Finding* No cooperative agreement subject to review under this subparagraph shall take effect until the date on which the Attorney General issues a finding that the proposed agreement does not violate the Establishment Clause of the first amendment to the Constitution.
 - **(d)** *General management plan*
-  - **(1)** *In general* Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall prepare a general management plan for the historical park in accordance with section 12(b) of Public Law 91–383 (commonly known as the “National Park Service General Authorities Act”) (16 U.S.C. 1a–7(b)).
+  - **(1)** *In general* Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall prepare a general management plan for the historical park in accordance with section 12(b) of Public Law 91–383 (commonly known as the “National Park Service General Authorities Act”)the National Park Service General Authorities Act (16 U.S.C. 1a–7(b)).
   - **(2)** *Coordination* The Secretary shall coordinate the preparation and implementation of the management plan with—
     - **(A)** the Harriet Tubman Underground Railroad National Historical Park established by section 2(b)(1); and
     - **(B)** the National Underground Railroad Network to Freedom.
