@@ -1,7 +1,7 @@
 ---
 legis-num: S. 264
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -29,3 +29,18 @@ In this Act:
 - **(d)** *Boundary adjustments*
   - **(1)** *Exclusion of conveyed land* On completion of the conveyance to the State of the land described in subsection (b), the Secretary shall adjust the boundary of the Natchez Trace Parkway to exclude the conveyed land.
   - **(2)** *Inclusion of additional land* Effective on the date of enactment of this Act, the boundary of the Natchez Trace Parkway is adjusted to include the approximately 10 acres of land that are generally depicted as “Proposed Addition” on the map.
+
+## § 3. Land conveyance
+
+- **(a)** *Conveyance authority*
+  - **(1)** *In general* Subject to paragraph (2), the Secretary shall convey to the State, by quitclaim deed and without consideration, all right, title, and interest of the United States in and to the parcels of land described in subsection (b).
+  - **(2)** *Compatible use* The deed of conveyance to the parcel of land that is located southeast of U.S. Route 61/84 and which is commonly known as the “bean field property” shall reserve an easement to the United States restricting the use of the parcel to only those uses which are compatible with the Natchez Trace Parkway.
+- **(b)** *Description of land* The parcels of land referred to in subsection (a) are the 2 parcels totaling approximately 67 acres generally depicted as “Proposed Conveyance” on the map.
+- **(c)** *Availability of map* The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+## § 4. Boundary adjustments
+
+- **(a)** *Exclusion of conveyed land* On completion of the conveyance to the State of the land described in section 3(b), the boundary of the Natchez Trace Parkway shall be adjusted to exclude the conveyed land.
+- **(b)** *Inclusion of additional land*
+  - **(1)** *In general* Effective on the date of enactment of this Act, the boundary of the Natchez Trace Parkway is adjusted to include the approximately 10 acres of land that is generally depicted as “Proposed Addition” on the map.
+  - **(2)** *Administration* The land added under paragraph (1) shall be administered by the Secretary as part of the Natchez Trace Parkway.
