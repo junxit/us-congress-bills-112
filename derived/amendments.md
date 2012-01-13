@@ -1,7 +1,7 @@
 ---
 measure: S. 896
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-80 amendatory instructions. 0 executed, 80 stated and not applied.
+81 amendatory instructions. 0 executed, 81 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -109,5 +109,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “section 211” and inserting “section 213”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or Indian Youth Service Corps” after “Corps”. | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “year” and all that follows through the period and inserting “year.”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (b); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (c) as subsection (b). | the bill names no machine-readable US Code section |

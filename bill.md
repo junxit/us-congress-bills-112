@@ -1,7 +1,7 @@
 ---
 legis-num: S. 896
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -260,7 +260,8 @@ A reference in this Act to “the Act” is a reference to the Public Lands Serv
   >   - **(1)** *In general* The Secretary shall provide each Corps participant with a living allowance in an amount established by the Secretary.
   >   - **(2)** *Cost-of-living differential; travel costs* The Secretary may—
   >     - **(A)** apply a cost-of-living differential to the living allowances established under paragraph (1); and
-  >     - **(B)** if the Secretary determines reimbursement to be appropriate, reimburse Corps participants for travel costs at the beginning and end of the term of service of the Corps participants.
+  >     - **(B)** if the Secretary determines reimbursement to be appropriate, reimburse Corps
+  >   - **(2)** *Travel costs* The Secretary may reimburse Corps participants for travel costs at the beginning and end of the term of service of the Corps participants.
   > - **(b)** *Terms of Service*
   >   - **(1)** *In general* Each Corps participant shall agree to participate for such term of service as may be established by the Secretary.
   >   - **(2)** *Consultations* With respect to the Indian Youth Service Corps, the term of service shall be established in consultation with the affected Indian tribe or tribally authorized organization.
@@ -298,5 +299,6 @@ A reference in this Act to “the Act” is a reference to the Public Lands Serv
   - **(1)** by amending subsection (a) to read as follows:
     > - **(a)** *In General* There are authorized to be appropriated such sums as may be necessary to carry out this Act.
 
+  - **(1)** in subsection (a), by striking “year” and all that follows through the period and inserting “year.”;
   - **(2)** by striking subsection (b); and
   - **(3)** by redesignating subsection (c) as subsection (b).
