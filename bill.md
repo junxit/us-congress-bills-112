@@ -1,7 +1,7 @@
 ---
 legis-num: S. 500
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -29,7 +29,7 @@ In this Act:
 
 ## § 3. Conveyance of Electric Distribution System
 
-- **(a)** *In general* Inasmuch as the Strawberry Water Users Association conveyed its interest, if any, in the Electric Distribution System to the District by a contract dated April 7, 1986, and in consideration of the District assuming from the United States all liability for administration, operation, maintenance, and replacement of the Electric Distribution System, the Secretary shall, pursuant to the provisions of this Act convey and assign to the District without charge or further consideration—
+- **(a)** *In general* Inasmuch as the Strawberry Water Users Association conveyed its interest, if any, in the Electric Distribution System to the District by a contract dated April 7, 1986, and in consideration of the District assuming from the United States all liability for administration, operation, maintenance, and replacement of the Electric Distribution System, the Secretary shall, pursuant to the provisions of this Actas soon as practicable after the date of enactment of this Act and in accordance with applicable law, convey and assign to the District without charge or further consideration—
   - **(1)** all of the United States right, title, and interest in and to—
     - **(A)** all fixtures owned by the United States as part of the Electric Distribution System; and
     - **(B)** the distribution fixture land;
@@ -55,11 +55,11 @@ On conveyance of any land or facility under section 3(a)(1)—
 
 - **(1)** the conveyed and assigned land and facilities shall no longer be part of a Federal reclamation project;
 - **(2)** the District shall not be entitled to receive any future Bureau or Reclamation benefits with respect to the conveyed and assigned land and facilities, except for benefits that would be available to other non-Bureau of Reclamation facilities; and
-- **(3)** the United States shall not be liable for damages arising out of any act, omission, or occurrence relating to the land and facilities, but shall continue to be liable for damages caused by acts of negligence committed by the United States or by any employee or agent of the United States before the date of conveyance, consistent with chapter 171 of title 28, United States Code.
+- **(3)** the United States shall not be liable for damages arising out of any act, omission, or occurrence relating to the land and facilities, but shall continue to be liable for damages caused by acts of negligence committed by the United States or by any employee or agent of the United States before the date of conveyance, consistent with chapter 171 of title 28, United States Code.including the transaction of April 7, 1986, between the Strawberry Water Users Association and the Strawberry Electric Service District.
 
 ## § 5. Report
 
-If a conveyance required under section 3 is not completed by the date that is 24 months after the date of the enactment of this Act, the Secretary shall submit to Congress a report that—
+If a conveyance required under section 3 is not completed by the date that is 24 months after the date of the enactment of this Act1 year after the date of enactment of this Act, not later than 30 days after that date, the Secretary shall submit to Congress a report that—
 
 - **(1)** describes the status of the conveyance;
 - **(2)** describes any obstacles to completing the conveyance; and
