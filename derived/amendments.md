@@ -1,7 +1,7 @@
 ---
 measure: S. 1047
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
