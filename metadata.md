@@ -1,0 +1,25 @@
+---
+measure: H.Res. 515
+congress: 112
+version: Reported in House
+---
+
+# H.Res. 515
+
+Addressing a motion to proceed under section 3101A of title 31, United States Code.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Scott, Tim [R-SC-1] (S001184)
+
+## Actions
+
+- 2012-01-17 — Introduced in House
+- 2012-01-17 — Placed on the House Calendar, Calendar No. 105.
+- 2012-01-17 — The House Committee on Rules reported an original measure, H. Rept. 112-365, by Mr. Scott (SC).
+- 2012-01-17 — The House Committee on Rules reported an original measure, H. Rept. 112-365, by Mr. Scott (SC).
+- 2012-01-17 — The resolution provides that a motion to proceed with regard to a joint resolution of disapproval specified in subsection (a)(2) of section 3101A of title 31, United States Code, may be offered even if the joint resolution has not been reported to the House as contemplated by subsection (c)(3) of such section and shall be in order only if offered by the Majority Leader or his designee.
