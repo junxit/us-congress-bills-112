@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 496
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 496
@@ -25,3 +25,8 @@ Adjusting the amount provided for the expenses of certain committees of the Hous
 - 2011-12-14 — Introduced in House
 - 2011-12-14 — Introduced in House
 - 2011-12-14 — Referred to the House Committee on House Administration.
+- 2011-12-16 — Committee Consideration and Mark-up Session Held.
+- 2011-12-16 — Ordered to be Reported by Voice Vote.
+- 2012-01-17 — Placed on the House Calendar, Calendar No. 104.
+- 2012-01-17 — Reported by the Committee on House Administration. H. Rept. 112-362.
+- 2012-01-17 — Reported by the Committee on House Administration. H. Rept. 112-362.
