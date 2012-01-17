@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1221
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,18 +19,18 @@ The Congress finds that—
 
 - **(1)** the Federal National Mortgage Association (known as Fannie Mae) and the Federal Home Loan Mortgage Corporation (known as Freddie Mac), which are both privately owned but publicly chartered Government-sponsored enterprises (GSEs), were at the center of the mortgage market meltdown that caused the financial crisis that commenced in 2008;
 - **(2)** the failures of Fannie Mae and Freddie Mac helped precipitate the deepest economic decline since World War II;
-- **(3)** in September 2008, the Treasury Department, Federal Reserve Board, and Federal Housing Finance Agency (FHFA) exercised authority granted by the Congress to place the two GSEs in conservatorship, a form of nationalization that puts the regulators firmly in control of the GSEs’ daily operations;
-- **(4)** in September 2008, the Administration established a $200 billion facility to purchase senior preferred stock in the enterprises to backstop their losses;
+- **(3)** in September 2008, the Bush Administration, Federal Reserve Board, and Federal Housing Finance Agency (FHFA) exercised authority granted by the Congress to place the two GSEs in conservatorship, a form of nationalization that puts the regulators firmly in control of the GSEs’ daily operations;
+- **(4)** in September 2008, the Bush Administration established a $200 billion facility to purchase senior preferred stock in the enterprises to backstop their losses;
 - **(5)** in February 2009, the Obama Administration raised the senior preferred stock purchase commitment to $400 billion;
-- **(6)** on Christmas Eve 2009, the Obama Administration removed any limits on the use of Federal funds to cover losses at the enterprises, significantly expanding a commitment that has resulted in the expenditure of so far nearly $150 billion in taxpayer funds to purchase senior preferred stock in the two enterprises;
+- **(6)** on Christmas Eve 2009, the Obama Administration removed any limits on the use of Federal funds to cover losses at the enterprises, significantly expanding a commitment that has resulted in the expenditure of so far nearly $175 billion in taxpayer funds to purchase senior preferred stock in the two enterprises;
 - **(7)** as a result of the Government’s actions, the taxpayers of the United States now own nearly 80 percent of the two GSEs;
 - **(8)** the Congressional Budget Office has concluded that Fannie Mae and Freddie Mac have effectively become Government entities whose operations should be included in the Federal budget;
 - **(9)** the GSEs are expected to be a long-term drain on the taxpayers as a result of market conditions and the political and public policy mandates imposed on them by the Administration and the Congress;
-- **(10)** in spite of these liabilities, the Treasury Department and FHFA approved compensation packages for the chief executive officers of Fannie Mae and Freddie Mac in 2009 and 2010 that were nearly 15 times greater than the annual compensation of the President of the United States and 30 times greater than the annual compensation of a Cabinet Secretary;
+- **(10)** in spite of these liabilities, the Treasury Department and FHFA approved compensation packages for the chief executive officers of Fannie Mae and Freddie Mac in 2009, 2010, and 2011 that were nearly 15 times greater than the annual compensation of the President of the United States and 30 times greater than the annual compensation of a Cabinet Secretary;
 - **(11)** the Treasury Department and the FHFA also approved multi-million dollar compensation packages for a number of the GSEs’ top executives, payable in cash rather than in the type of stock options that have characterized compensation arrangements at other large financial institutions that have received extraordinary government assistance;
 - **(12)** on September 17, 2008, FHFA determined that no executive officer of Fannie Mae or Freddie Mac would be entitled to receive a cash bonus or long-term incentive awards for 2008;
 - **(13)** FHFA’s five-year Strategic Plan for Fannie Mae and Freddie Mac includes a commitment that the GSEs will operate in a safe and sound manner; and
-- **(14)** section 1318(c) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4518(c), as added by section 1113(a)(4) of the Housing and Economic Recovery Act of 2008 (Public Law 110–289; 122 Stat. 2678)), permits the Director of FHFA to “withhold any payment, transfer, or disbursement of compensation to an executive officer, or to place such compensation in an escrow account, during the review of the reasonableness and comparability of compensation”.
+- **(14)** section 1318(c) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4518(c), as added by section 1113(a)(4) of the Housing and Economic Recovery Act of 2008 (Public Law 110–289; 122 Stat. 2678)), permits the Director of FHFA to withhold any payment, transfer, or disbursement of compensation to an executive officer, or to place such compensation in an escrow account, during the review of the reasonableness and comparability of compensation.
 
 ## § 3. Definitions
 
@@ -45,10 +45,12 @@ In this Act:
 
 ## § 4. Reasonable pay for executive officers
 
-- **(a)** *Suspension of Current Compensation Packages* The Director shall suspend the compensation packages approved for 2011 for the executive officers of an enterprise and, in lieu of such packages, establish a compensation system for the executive officers of such enterprise in accordance with the rates of pay for positions in the Executive Schedule and the Senior Executive Service of the Federal Government.
-- **(b)** *Clawback of 2010 Compensation*
-  - **(1)** *Sense of the congress* It is the sense of the Congress that each executive officer performing services for an enterprise on the date of the enactment of this Act whose compensation package is suspended under this subsection should return to the Secretary of the Treasury any compensation earned in 2010 that was in excess of the maximum annual rate of basic pay authorized for a position in level I of the Executive Schedule.
+- **(a)** *Suspension of Current Compensation Packages* The Director shall suspend the compensation packages approved for 2011 for the executive officers of an enterprise and, in lieu of such packages, subject to the limitation under subsection (d), establish a compensation system for the executive officers of such enterprise in accordance with the schedules of compensation and benefits established and adjusted pursuant to section 1206 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1833b).
+- **(b)** *Clawback of 2010 and 2011 Compensation*
+  - **(1)** *Sense of the congress* It is the sense of the Congress that each executive officer performing services for an enterprise on the date of the enactment of this Act whose compensation package is suspended under subsection (a) should return to the Secretary of the Treasury any compensation earned in 2010 and 2011 that was in excess of the maximum annual rate of basic pay authorized for a position in level I of the Executive Schedule.
   - **(2)** *Use to reduce national debt* The Secretary of the Treasury shall transfer any amounts referred to in paragraph (1) that are returned to the Secretary to the special account established by section 3113(d) of title 31, United States Code (relating to reducing the public debt).
+- **(c)** *Additional requirement* An executive officer of an enterprise shall be subject to section 111 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221), which relates to executive compensation and corporate governance.
+- **(d)** *Limitation on compensation* An executive officer of an enterprise whose compensation package is suspended under subsection (a) shall not be compensated more than the highest compensated employee of the Federal Housing Finance Agency.
 
 ## § 5. Compensation rate of employees of Fannie Mae and Freddie Mac
 
@@ -64,3 +66,7 @@ In this Act:
   - **(4)** *Service performed since last compensation increase* Each employee performing services for an enterprise on the date of the enactment of this Act whose position is converted under this subsection to the General Schedule shall be granted credit, for purposes of his or her first step increase under the General Schedule, for all satisfactory service performed since his or her last increase in compensation prior to the initial adjustment of his or her rate of basic compensation under paragraph (1).
   - **(5)** *Compensation increase under this section* An increase in the rate of basic compensation by reason of the enactment of paragraph (1) shall not be considered to be an equivalent increase with respect to step increases for employees whose positions are converted to the General Schedule under authority of this subsection.
 - **(c)** *New employees* Except for as provided in section 4, the grade and rate of basic pay of any individual beginning employment with an enterprise after the date of enactment of this Act shall be fixed in accordance with the General Schedule set forth in section 5332 of title 5, United States Code.
+
+## § 6. Fannie and Freddie employees not Federal employees
+
+Any executive officer or employee affected by any provision under sections 4 and 5, respectively, shall not be considered a Federal employee.
