@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2336
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,10 +17,20 @@ This Act may be cited as the “York River Wild and Scenic River Study Act of 20
 
 Section 5(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(a)) is amended by adding at the end the following:
 
-> - **(_)** *York River, Maine* The York River that flows 11.25 miles from its headwaters at York Pond to the mouth of the river at York Harbor, and all associated tributaries.
+> - **(_)** *York River, Maine*
+>   - **(A)** The York River that flows 11.25 miles from its headwaters at York Pond to the mouth of the river at York Harbor, and all associated tributaries.
+>   - **(B)** The study conducted under this paragraph shall—
+>     - **(i)** determine the effect of the designation on—
+>       - **(I)** existing commercial and recreational activities, such as hunting, fishing, trapping, recreational shooting, motor boat use, bridge construction;
+>       - **(II)** the authorization, construction, operation, maintenance, or improvement of energy production and transmission infrastructure; and
+>       - **(III)** the authority of State and local governments to manage those activities; and
+>     - **(ii)** identify—
+>       - **(I)** all authorities that will authorize or require the Secretary to influence local land use decisions (such as zoning) or place restrictions on non-Federal land if designated under this Act;
+>       - **(II)** all authorities that the Secretary may use to condemn property; and
+>       - **(III)** all private property located in the area studied under this paragraph.
 
 ## § 3. Study and report
 
 Section 5(b) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(b)) is amended by adding at the end the following:
 
-> - **(_)** The study of the York River, Maine, named in paragraph (__) of subsection (a) shall be completed by the Secretary of the Interior and the report thereon submitted to Congress not later than 3 years after the date on which funds are made available to carry out this paragraph.
+> - **(_)** *York River, Maine* The study of the York River, Maine, named in paragraph (__) of subsection (a) shall be completed by the Secretary of the Interior and the report thereon submitted to Congress not later than 3 years after the date on which funds are made available to carry out this paragraph.
