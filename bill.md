@@ -1,0 +1,28 @@
+---
+legis-num: H. RES. 517
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 517
+
+> To commemorate the 150th Anniversary of the Battle of Mill Springs and the significance of this battle during the Civil War.
+
+## Preamble
+
+- Whereas the Battle of Mill Springs on January 19, 1862, in Pulaski and Wayne Counties in Kentucky was the first significant victory for the Union Army in the west during the Civil War;
+- Whereas the death of Confederate General Felix Zollicoffer at the Battle of Mill Springs was the first general to die in the Civil War;
+- Whereas the Battle of Mill Springs was the second largest battle to take place in Kentucky engaging over 10,000 soldiers;
+- Whereas the outcome of the Battle of Mill Springs opened the path for the Union Army to move through Kentucky and into Tennessee, affecting the outcome of the war;
+- Whereas the Mills Springs Battlefield has been designated as a National Historic Landmark by the Department of Interior;
+- Whereas the Mill Springs Battlefield Association along with volunteers in the surrounding community have made significant strides in preserving this historic site and educating the public about this historic event;
+- Whereas the Mill Springs Battlefield Association Visitor Center provides visitors with battlefield tours, access to Civil War artifacts, and a Civil War library; and
+- Whereas over 50,000 visitors have traveled to this uniquely preserved, nearly 500-acre battlefield: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** recognizes the 150th Anniversary of the Battle of Mill Springs;
+- **(2)** recognizes the work of the Mill Springs Battlefield Association in acquiring, preserving, and maintaining this battlefield for posterity and its continuing effort to educate the public of this significant historic event;
+- **(3)** encourages the people of the United States to visit the Mill Springs Battlefield on the occasion of this anniversary; and
+- **(4)** recognizes the contributions of those who fought in the Battle of Mill Springs and the outcome which helped to preserve the union of the United States.
