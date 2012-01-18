@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2752
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | insert | in subparagraph (A), in the third sentence, by inserting “, except as provided in subparagraph (C)” after “by oral bidding”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
