@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 96
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 96
@@ -26,3 +26,4 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2012-01-18 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H54)
 - 2012-01-23 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S48)
 - 2012-01-23 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S48)
+- 2012-01-24 — Message on Senate action sent to the House.
