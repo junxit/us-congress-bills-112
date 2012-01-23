@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3012
 congress: 112
-version: Received in Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 

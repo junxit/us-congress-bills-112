@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3012
 congress: 112
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3012
@@ -59,3 +59,4 @@ Fairness for High-Skilled Immigrants Act of 2011
 - 2011-11-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 389 - 15 (Roll no. 860).(text: CR H7903)
 - 2011-11-30 — Received in the Senate.
 - 2011-12-17 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-01-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 293.
