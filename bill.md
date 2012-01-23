@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3117
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,19 +11,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Permanent Electronic Duck Stamp Act of 2011”.
+This Act may be cited as the “Permanent Electronic Duck Stamp Act of 2012”.
 
 ## § 2. Definitions
 
 In this Act:
 
-- **(1)** *Actual stamp* The term actual stamp means a Federal migratory-bird hunting and conservation stamp required under the Act of March 16, 1934 (16 U.S.C. 718a et seq.) (popularly known as the “Duck Stamp Act”), that is printed on paper and sold through a means in use immediately before the date of enactment of this Act.
+- **(1)** *Actual stamp* The term actual stamp means a Federal migratory-bird hunting and conservation stamp required under the Act of March 16, 1934 (16 U.S.C. 718a et seq.) (popularly known as the “Duck Stamp Act”), that is printed on paper and sold through the means established by the authority of the Secretary immediately before the date of enactment of this Act.
 - **(2)** *Automated licensing system*
   - **(A)** *In general* The term automated licensing system means an electronic, computerized licensing system used by a State fish and wildlife agency to issue hunting, fishing, and other associated licenses and products.
-  - **(B)** *Inclusion* The term automated licensing system includes a point-of-sale, Internet, or telephonic system used for a purpose described in subparagraph (A).
+  - **(B)** *Inclusion* The term automated licensing system includes a point-of-sale, Internet, telephonic system, or other electronic applications used for a purpose described in subparagraph (A).
 - **(3)** *Electronic stamp* The term electronic stamp means an electronic version of an actual stamp that—
   - **(A)** is a unique identifier for the individual to whom it is issued;
-  - **(B)** can be printed on paper;
+  - **(B)** can be printed on paper or produced through an electronic application with the same indicators as the State endorsement provides;
   - **(C)** is issued through a State automated licensing system that is authorized, under State law and by the Secretary under this Act, to issue electronic stamps;
   - **(D)** is compatible with the hunting licensing system of the State that issues the electronic stamp; and
   - **(E)** is described in the State application approved by the Secretary under section 4(b).
@@ -36,7 +36,7 @@ In this Act:
 
 ## § 4. State application
 
-- **(a)** *Approval of Application required* The Secretary may not authorize a State to issue electronic stamps under this Act unless the Secretary has received and approved an application submitted by the State in accordance with this section.
+- **(a)** *Approval of Application required* The Secretary may not authorize a State to issue electronic stamps under this Act unless the Secretary has received and approved an application submitted by the State in accordance with this section. The Secretary may determine the number of new States per year to participate in the electronic stamp program.
 - **(b)** *Contents of Application* The Secretary may not approve a State application unless the application contains—
   - **(1)** a description of the format of the electronic stamp that the State will issue under this Act, including identifying features of the licensee that will be specified on the stamp;
   - **(2)** a description of any fee the State will charge for issuance of an electronic stamp;
@@ -60,9 +60,7 @@ In this Act:
     - **(A)** the first name, last name, and complete mailing address of each individual that purchases an electronic stamp from the State;
     - **(B)** the face value amount of each electronic stamp sold by the State; and
     - **(C)** the amount of the Federal portion of any fee required by the agreement for each stamp sold.
-  - **(2)** *Time of transmittal* The Secretary shall require the submission under paragraph (1) to be made with respect to sales of electronic stamps by a State occurring in a month—
-    - **(A)** by not later than the 15th day of the subsequent month; or
-    - **(B)** as otherwise specified in the application of the State approved by the Secretary under section 4.
+  - **(2)** *Time of transmittal* The Secretary shall require the submission under paragraph (1) to be made with respect to sales of electronic stamps by a State according to the written agreement between the Secretary and the State agency.
   - **(3)** *Additional fees not affected* This section shall not apply to the State portion of any fee collected by a State under subsection (c).
 - **(c)** *Electronic Stamp Issuance Fee* A State authorized to issue electronic stamps may charge a reasonable fee to cover costs incurred by the State and the Department of the Interior in issuing electronic stamps under this Act, including costs of delivery of actual stamps.
 - **(d)** *Duplicate Electronic Stamps* A State authorized to issue electronic stamps may issue a duplicate electronic stamp to replace an electronic stamp issued by the State that is lost or damaged.
@@ -77,7 +75,7 @@ In this Act:
   - **(1)** bestow upon the licensee the same privileges as are bestowed by an actual stamp;
   - **(2)** be recognized nationally as a valid Federal migratory bird hunting and conservation stamp; and
   - **(3)** authorize the licensee to hunt migratory waterfowl in any other State, in accordance with the laws of the other State governing that hunting.
-- **(c)** *Duration* An electronic stamp issued by a State under the pilot program shall be valid for a period agreed to by the State and the Secretary, which shall not exceed 45 days.
+- **(c)** *Duration* An electronic stamp issued by a State shall be valid for a period agreed to by the State and the Secretary, which shall not exceed 45 days.
 
 ## § 7. Termination of State participation
 
