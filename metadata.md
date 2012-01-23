@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 98
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 98
@@ -123,3 +123,4 @@ Relating to the disapproval of the President's exercise of authority to increase
 - 2012-01-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 239 - 176, 2 Present (Roll no. 4).(text: CR H54)
 - 2012-01-18 — Pursuant to the provisions of H.Res. 515 and section 3101A(c)(4) of title 31, United States Code, the House proceeded with 2 hours of debate on H.J.Res. 98. (consideration: CR H54-69)
 - 2012-01-18 — The previous question was ordered pursuant to the statute. (consideration: CR H68)
+- 2012-01-23 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 294 pursuant to P.L. 112-25, sec. 301(a)(2).
