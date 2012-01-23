@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1134
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -19,7 +19,8 @@ Notwithstanding section 7(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1278(a
 
 ## § 3. Offset
 
-To provide an offset for the funds made available to carry out this Act, there is rescinded from the Department of the Interior franchise fund authorized under section 113 of division A of title I of Public Law 104–208 (31 U.S.C. 501 note; 110 Stat. 3009–181) $8,000,000.
+- **(a)** *In general* Notwithstanding any other provision of law, amounts made available for items 676, 813, 3186, 4358, and 5132 in the table contained in section 1702 of the SAFETEA–LU (119 Stat. 1288, 1380, 1423) shall be subject to the limitation on obligations for Federal-aid highways and highway safety construction programs distributed under section 120(a)(6) of title I of division C of Public Law 112–55 (23 U.S.C. 104 note; 125 Stat. 652).
+- **(b)** *Rescission* Any obligation authority made available until used to a State as a result of receipt of contract authority for the items described in subsection (a) that remains available to the State as of the date of enactment of this Act is permanently rescinded.
 
 ## § 4. Budgetary effects
 
