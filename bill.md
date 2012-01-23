@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Permanent Electronic Duck Stamp Act of 2012”.
+This Act may be cited as the “Permanent Electronic Duck Stamp Act of 2011”.
 
 ## § 2. Definitions
 
