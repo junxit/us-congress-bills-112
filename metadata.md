@@ -1,7 +1,7 @@
 ---
 measure: H.R. 440
 congress: 112
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 440
@@ -126,3 +126,4 @@ To provide for the establishment of the Special Envoy to Promote Religious Freed
 - 2011-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 20 (Roll no. 673).(text: CR 7/27/2011 H5595-5596)
 - 2011-07-29 — Received in the Senate.
 - 2011-12-17 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-01-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 292.
