@@ -1,7 +1,7 @@
 ---
 measure: S. 1134
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1134
@@ -31,6 +31,10 @@ St. Croix River Crossing Project Authorization Act
 - House — Transportation and Infrastructure Committee
 - House — Budget Committee
 
+## Recorded votes (1)
+
+- 2012-03-01 — [House 112-2-93](votes/house-112-2-0093.md) — On Motion to Suspend the Rules and Pass — **Passed** (339–80)
+
 ## Actions
 
 - 2011-05-26 — Introduced in Senate
@@ -56,3 +60,19 @@ St. Croix River Crossing Project Authorization Act
 - 2012-01-24 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-01-24 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-01-24 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-01-25 — Referred to the Subcommittee on Highways and Transit.
+- 2012-01-31 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2012-02-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-02-29 — Considered under suspension of the rules. (consideration: CR H1079-1085)
+- 2012-02-29 — DEBATE - The House proceeded with forty minutes of debate on S. 1134.
+- 2012-02-29 — Mr. Petri moved to suspend the rules and pass the bill.
+- 2012-03-01 — Considered as unfinished business. (consideration: CR H1113)
+- 2012-03-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-03-01 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 339 - 80 (Roll no. 93). (text: CR 3/1/2012 H1079-1080)
+- 2012-03-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 339 - 80 (Roll no. 93).(text: CR 3/1/2012 H1079-1080)
+- 2012-03-06 — Presented to President.
+- 2012-03-06 — Presented to President.
+- 2012-03-14 — Became Public Law No: 112-100.
+- 2012-03-14 — Became Public Law No: 112-100.
+- 2012-03-14 — Signed by President.
+- 2012-03-14 — Signed by President.
