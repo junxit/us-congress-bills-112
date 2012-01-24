@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1141
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1141
@@ -25,9 +25,10 @@ Rota Cultural and Natural Resources Study Act
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ Rota Cultural and Natural Resources Study Act
 - 2012-01-23 — Mr. Wittman moved to suspend the rules and pass the bill.
 - 2012-01-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 278 - 100 (Roll no. 6). (text: CR H87)
 - 2012-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 278 - 100 (Roll no. 6).(text: CR H87)
+- 2012-01-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
