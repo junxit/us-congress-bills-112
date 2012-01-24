@@ -1,7 +1,7 @@
 ---
 measure: S. 1134
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1134
@@ -24,9 +24,12 @@ St. Croix River Crossing Project Authorization Act
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Franken, Al [D-MN] (F000457)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
+- House — Transportation and Infrastructure Committee
+- House — Budget Committee
 
 ## Actions
 
@@ -48,3 +51,8 @@ St. Croix River Crossing Project Authorization Act
 - 2012-01-23 — Senate amendment proposed (on the floor): Amendment SA 1468 proposed by Senator Durbin for Senator Klobuchar.(consideration: CR S47-48; text: CR S47-48)
 - 2012-01-23 — Senate amendment submitted
 - 2012-01-23 — The committee reported amendment is agreed to by Unanimous Consent and considered as original text.
+- 2012-01-24 — Message on Senate action sent to the House.
+- 2012-01-24 — Received in the House.
+- 2012-01-24 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-01-24 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-01-24 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
