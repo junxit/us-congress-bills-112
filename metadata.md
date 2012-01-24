@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3117
 congress: 112
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3117
@@ -20,9 +20,10 @@ Permanent Electronic Duck Stamp Act of 2012
 
 - Rep. Kind, Ron [D-WI-3] (K000188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Permanent Electronic Duck Stamp Act of 2012
 - 2012-01-23 — Placed on the Union Calendar, Calendar No. 255.
 - 2012-01-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-374.
 - 2012-01-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-374.
+- 2012-01-24 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.

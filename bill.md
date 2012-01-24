@@ -2,7 +2,7 @@
 legis-num: H.R. 3117
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3117
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Permanent Electronic Duck Stamp Act of 2011”.
+This Act may be cited as the “Permanent Electronic Duck Stamp Act of 2012”.
 
 ## § 2. Definitions
 
