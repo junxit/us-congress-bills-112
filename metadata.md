@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3800
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3800
@@ -36,3 +36,10 @@ Airport and Airway Extension Act of 2012
 - 2012-01-23 — Introduced in House
 - 2012-01-23 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-01-23 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-01-24 — Considered under suspension of the rules. (consideration: CR H135-137)
+- 2012-01-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3800.
+- 2012-01-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-01-24 — Mr. Petri moved to suspend the rules and pass the bill.
+- 2012-01-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H135)
+- 2012-01-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H135)
+- 2012-01-24 — Referred to the Subcommittee on Aviation.
