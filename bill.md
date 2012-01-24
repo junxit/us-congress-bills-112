@@ -1,0 +1,44 @@
+---
+legis-num: H.R. 3811
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3811
+
+> To approve the Keystone XL pipeline project permit.
+
+## § 1. Short title
+
+This Act may be cited as the “Keystone For a Secure Tomorrow Act”.
+
+## § 2. Finding
+
+The Congress finds that the delivery of oil from Alberta, Canada, to domestic markets in the United States is in the national interest of the United States, and the earliest possible completion of the Keystone XL pipeline will best serve the national interest.
+
+## § 3. Keystone XL pipeline permit approval
+
+- **(a)** *Permit approval* The permit described in subsection (b) is hereby approved.
+- **(b)** *Description of permit* The permit approved under subsection (a) is the permit with respect to certain energy-related facilities and land transportation crossings on the international boundaries of the United States for the Keystone XL pipeline project, an application for which was filed on September 19, 2008 (including amendments).
+- **(c)** *Requirements* The permit granted under subsection (a) shall require the following:
+  - **(1)** The permittee shall comply with all applicable Federal and State laws (including regulations) and all applicable industrial codes regarding the construction, connection, operation, and maintenance of the United States facilities.
+  - **(2)** The permittee shall take all appropriate measures to prevent or mitigate any adverse environmental impact or disruption of historic properties in connection with the construction, operation, and maintenance of the United States facilities.
+  - **(3)** For the purpose of the permit approved under subsection (a) (regardless of any modifications under subsection (d))—
+    - **(A)** the final environmental impact statement issued by the Secretary of State on August 26, 2011, satisfies all requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and section 106 of the National Historic Preservation Act (16 U.S.C. 470f);
+    - **(B)** any modification required by the Secretary of State to the Plan described in paragraph (4)(A) shall not require supplementation of the final environmental impact statement described in that paragraph; and
+    - **(C)** no further Federal environmental review shall be required.
+  - **(4)** The construction, operation, and maintenance of the facilities shall be in all material respects similar to that described in the application described in subsection (b) and in accordance with—
+    - **(A)** the construction, mitigation, and reclamation measures agreed to by the permittee in the Construction Mitigation and Reclamation Plan found in appendix B of the final environmental impact statement issued by the Secretary of State on August 26, 2011, subject to the modification described in subsection (d);
+    - **(B)** the special conditions agreed to between the permittee and the Administrator of the Pipeline Hazardous Materials Safety Administration of the Department of Transportation found in appendix U of the final environmental impact statement described in subparagraph (A);
+    - **(C)** if the modified route submitted by the Governor of Nebraska under subsection (d)(3)(B) crosses the Sand Hills region, the measures agreed to by the permittee for the Sand Hills region found in appendix H of the final environmental impact statement described in subparagraph (A); and
+    - **(D)** the stipulations identified in appendix S of the final environmental impact statement described in subparagraph (A).
+  - **(5)** Other requirements that are standard industry practice or commonly included in Federal permits that are similar to a permit approved under subsection (a).
+- **(d)** *Modification* The permit approved under subsection (a) shall require—
+  - **(1)** the reconsideration of routing of the Keystone XL pipeline within the State of Nebraska;
+  - **(2)** a review period during which routing within the State of Nebraska may be reconsidered and the route of the Keystone XL pipeline through the State altered with any accompanying modification to the Plan described in subsection (c)(4)(A); and
+  - **(3)** the President—
+    - **(A)** to coordinate review with the State of Nebraska and provide any necessary data and reasonable technical assistance material to the review process required under this subsection; and
+    - **(B)** to approve the route within the State of Nebraska that has been submitted to the Secretary of State by the Governor of Nebraska.
+- **(e)** *Effect of no approval* If the President does not approve the route within the State of Nebraska submitted by the Governor of Nebraska under subsection (d)(3)(B) not later than 10 days after the date of submission, the route submitted by the Governor of Nebraska under subsection (d)(3)(B) shall be considered approved, pursuant to the terms of the permit approved under subsection (a) that meets the requirements of subsection (c) and this subsection, by operation of law.
+- **(f)** *Private property savings clause* Nothing in this section alters the Federal, State, or local processes or conditions in effect on the date of enactment of this Act that are necessary to secure access from private property owners to construct the Keystone XL pipeline.
