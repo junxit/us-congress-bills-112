@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “World War II Memorial Prayer Act of 2011”.
+This Act may be cited as the “World War II Memorial Prayer Act of 2012”.
 
 ## § 2. Placement of plaque or inscription at world war II memorial
 
