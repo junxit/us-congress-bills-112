@@ -1,7 +1,7 @@
 ---
 measure: H.R. 290
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 290
@@ -55,3 +55,9 @@ War Memorial Protection Act
 - 2011-07-20 — Placed on the Union Calendar, Calendar No. 101.
 - 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-156.
 - 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-156.
+- 2012-01-24 — Considered under suspension of the rules. (consideration: CR H132-134)
+- 2012-01-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 290.
+- 2012-01-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-01-24 — Mr. Johnson (OH) moved to suspend the rules and pass the bill.
+- 2012-01-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H132)
+- 2012-01-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H132)
