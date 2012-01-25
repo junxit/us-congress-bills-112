@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1022
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1022
@@ -51,6 +51,10 @@ Buffalo Soldiers in the National Parks Study Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2012-01-25 — [House 112-2-10](votes/house-112-2-0010.md) — On Motion to Suspend the Rules and Pass — **Passed** (338–70)
+
 ## Actions
 
 - 2011-03-10 — Introduced in House
@@ -64,3 +68,11 @@ Buffalo Soldiers in the National Parks Study Act
 - 2011-07-20 — Placed on the Union Calendar, Calendar No. 110.
 - 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-166.
 - 2011-07-20 — Reported by the Committee on Natural Resources. H. Rept. 112-166.
+- 2012-01-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-01-24 — Considered under suspension of the rules. (consideration: CR H134-135)
+- 2012-01-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1022.
+- 2012-01-24 — Mr. Johnson (OH) moved to suspend the rules and pass the bill.
+- 2012-01-25 — Considered as unfinished business. (consideration: CR H166-167)
+- 2012-01-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-01-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 338 - 70 (Roll no. 10). (text: CR 1/24/2012 H134)
+- 2012-01-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 338 - 70 (Roll no. 10).(text: CR 1/24/2012 H134)
