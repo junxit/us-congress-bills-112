@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3800
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3800
@@ -43,3 +43,6 @@ Airport and Airway Extension Act of 2012
 - 2012-01-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H135)
 - 2012-01-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H135)
 - 2012-01-24 — Referred to the Subcommittee on Aviation.
+- 2012-01-26 — Message on Senate action sent to the House.
+- 2012-01-26 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S136)
+- 2012-01-26 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S136)
