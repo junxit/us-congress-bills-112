@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2070
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2070
@@ -76,9 +76,10 @@ World War II Memorial Prayer Act of 2012
 - Rep. Heck, Joseph J. [R-NV-3] (H001055)
 - Rep. Harper, Gregg [R-MS-3] (H001045)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -105,3 +106,4 @@ World War II Memorial Prayer Act of 2012
 - 2012-01-24 — Mr. Johnson (OH) moved to suspend the rules and pass the bill, as amended.
 - 2012-01-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 26 (Roll no. 8). (text: CR H131)
 - 2012-01-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 26 (Roll no. 8).(text: CR H131)
+- 2012-01-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
