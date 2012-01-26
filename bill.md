@@ -1,7 +1,7 @@
 ---
 legis-num: S. 97
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -46,6 +46,7 @@ Title I of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) is a
 >       - **(ii)** provided from non-Federal sources.
 > - **(d)** *Funding*
 >   - **(1)** *Authorization of appropriations* There are authorized to be appropriated to the Administrator to carry out this section such sums as are necessary for each of fiscal years 2012 through 2021.
+>   - **(1)** *Authorization of appropriations* There is authorized to be appropriated to the Administrator to carry out this section $5,000,000 for each of fiscal years 2012 through 2016.
 >   - **(2)** *Administrative expenses* Of the amount made available to carry out this section for a fiscal year, the Administrator shall use not more than 5 percent to pay administrative expenses incurred in carrying out this section.
 >   - **(3)** *Relationship to other funding* Nothing in this section limits the eligibility of the Estuary Partnership to receive funding under section 320(g).
 >   - **(4)** *Prohibition* No amounts made available under subsection (c) may be used for the administration of a management conference under section 320.
