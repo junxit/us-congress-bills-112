@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1022
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1022
@@ -47,9 +47,10 @@ Buffalo Soldiers in the National Parks Study Act
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 - Rep. Filner, Bob [D-CA-51] (F000116)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -76,3 +77,4 @@ Buffalo Soldiers in the National Parks Study Act
 - 2012-01-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-01-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 338 - 70 (Roll no. 10). (text: CR 1/24/2012 H134)
 - 2012-01-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 338 - 70 (Roll no. 10).(text: CR 1/24/2012 H134)
+- 2012-01-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
