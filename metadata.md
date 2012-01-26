@@ -1,7 +1,7 @@
 ---
 measure: S. 1789
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1789
@@ -31,3 +31,7 @@ version: Introduced in Senate
 - 2011-11-02 — Introduced in Senate
 - 2011-11-02 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S7070-7081)
 - 2011-11-02 — Sponsor introductory remarks on measure. (CR S7070)
+- 2011-11-09 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-01-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2012-01-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2012-01-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 296.
