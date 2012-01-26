@@ -1,7 +1,7 @@
 ---
 measure: S. 2039
 congress: 112
-version: Engrossed in Senate
+version: Introduced in Senate
 ---
 
 # S. 2039
