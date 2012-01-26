@@ -29,6 +29,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(C)** specifying the person responsible for performing each maintenance activity (by name or title);
     - **(D)** detailing the plan for financing the maintenance of the levee; and
     - **(E)** documenting the ability of the State, local, or tribal government to finance the maintenance of the levee.
-- **(c)** *Maintenance Certification*
+- **(c)** *Maintenance certification*
   - **(1)** *In general* A State, local, or tribal government that constructs a permanent flood risk reduction levee under subsection (b) shall submit to the Administrator and the Chief of Engineers an annual certification indicating whether the State, local, or tribal government is in compliance with the maintenance plan provided under subsection (b)(3).
   - **(2)** *Review* The Chief of Engineers shall review a certification submitted under paragraph (1) and determine whether the State, local, or tribal government has complied with the maintenance plan.
