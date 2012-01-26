@@ -1,7 +1,7 @@
 ---
 measure: H.R. 290
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 290
@@ -38,9 +38,10 @@ War Memorial Protection Act
 - Rep. Miller, Gary G. [R-CA-42] (M001139)
 - Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ War Memorial Protection Act
 - 2012-01-24 — Mr. Johnson (OH) moved to suspend the rules and pass the bill.
 - 2012-01-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H132)
 - 2012-01-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H132)
+- 2012-01-26 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
