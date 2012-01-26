@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3801
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating subsection (g) as subsection (h); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (f) the following: | the bill names no machine-readable US Code section |
-| — | insert | Subsection (d) of section 590 of the Tariff Act of 1930 (19 U.S.C. 1590(d)) is amended in the matter preceding paragraph (1) by inserting “, or attempts or conspires to commit,” after “commits”. | the bill names no machine-readable US Code section |
+| `19 U.S.C. § 1590` | redesignate | by redesignating subsection (g) as subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 40102` | insert | by inserting after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1590` | insert | Subsection (d) of section 590 of the Tariff Act of 1930 (19 U.S.C. 1590(d)) is amended in the matter preceding paragraph (1) by inserting “, or attempts or conspires to commit,” after “commits”. | the bill quotes the text inserted but describes where it goes |

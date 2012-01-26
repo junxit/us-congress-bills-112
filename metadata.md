@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3801
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3801
@@ -43,3 +43,6 @@ Ultralight Aircraft Smuggling Prevention Act of 2012
 - 2012-01-25 — Mr. Reichert moved to suspend the rules and pass the bill.
 - 2012-01-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 11). (text: CR H163)
 - 2012-01-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 11).(text: CR H163)
+- 2012-01-26 — Message on Senate action sent to the House.
+- 2012-01-26 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S136)
+- 2012-01-26 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S136)
