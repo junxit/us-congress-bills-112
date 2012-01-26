@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3801
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3801
@@ -46,3 +46,9 @@ Ultralight Aircraft Smuggling Prevention Act of 2012
 - 2012-01-26 — Message on Senate action sent to the House.
 - 2012-01-26 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S136)
 - 2012-01-26 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S136)
+- 2012-01-30 — Presented to President.
+- 2012-01-30 — Presented to President.
+- 2012-02-10 — Became Public Law No: 112-93.
+- 2012-02-10 — Became Public Law No: 112-93.
+- 2012-02-10 — Signed by President.
+- 2012-02-10 — Signed by President.
