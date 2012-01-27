@@ -1,7 +1,7 @@
 ---
 measure: S. 300
 congress: 112
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 300
@@ -44,3 +44,10 @@ Government Charge Card Abuse Prevention Act of 2012
 - 2011-07-25 — Received in the House.
 - 2011-07-25 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2011-07-25 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2011-09-20 — Referred to the Subcommittee on Readiness.
+- 2011-10-13 — Ordered to be Reported by Unanimous Consent.
+- 2012-01-27 — Committee on Armed Services discharged.
+- 2012-01-27 — Committee on Armed Services discharged.
+- 2012-01-27 — Placed on the Union Calendar, Calendar No. 257.
+- 2012-01-27 — Reported by the Committee on Oversight and Government Reform. H. Rept. 112-376, Part I.
+- 2012-01-27 — Reported by the Committee on Oversight and Government Reform. H. Rept. 112-376, Part I.
