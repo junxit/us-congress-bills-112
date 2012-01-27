@@ -2,7 +2,7 @@
 legis-num: S. 2039
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # S. 2039
@@ -20,9 +20,9 @@ chamber: IN THE SENATE OF THE UNITED STATES
       - **(ii)** in a community that—
         - **(I)** is participating in the National Flood Insurance Program on the date on which a State, local, or tribal government submits an application requesting to construct a permanent flood risk reduction levee under subsection (b); and
         - **(II)** certifies to the Administrator and the Chief of Engineers that the community will continue to participate in the National Flood Insurance Program.
-- **(b)** *Authority* Notwithstanding clause (i) or (ii) of section 404(b)(2)(B) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170c(b)(2)(B)), the Administrator shall approve the construction of a permanent flood risk reduction levee by a State, local, or tribal government on covered hazard mitigation land if the Administrator and the Chief of Engineers determine, through a process established by the Administrator and Chief of Engineers, that—
-  - **(1)** construction of the proposed permanent flood risk reduction levee would more effectively mitigate against flooding risk than an open floodplain;
-  - **(2)** the proposed permanent flood risk reduction levee complies with Federal, State, and local requirements, including the consideration of mitigation of adverse impacts and floodplain management requirements, which shall include an evaluation of whether the construction, operation, and maintenance of the proposed levee would continue to meet best available industry standards and practices and would protect against the assessed flood risk; and
+- **(b)** *Authority* Notwithstanding clause (i) or (ii) of section 404(b)(2)(B) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170c(b)(2)(B)), the Administrator shall approve the construction of a permanent flood risk reduction levee by a State, local, or tribal government on covered hazard mitigation land if the Administrator and the Chief of Engineers determine, through a process established by the Administrator and Chief of Engineers and funded entirely by the State, local, or tribal government seeking to construct the proposed levee, that—
+  - **(1)** construction of the proposed permanent flood risk reduction levee would more effectively mitigate against flooding risk than an open floodplain or other flood risk reduction measures;
+  - **(2)** the proposed permanent flood risk reduction levee complies with Federal, State, and local requirements, including mitigation of adverse impacts and implementation of floodplain management requirements, which shall include an evaluation of whether the construction, operation, and maintenance of the proposed levee would continue to meet best available industry standards and practices, would be the most cost-effective measure to protect against the assessed flood risk and minimizes future costs to the federal government;
   - **(3)** the State, local, or tribal government seeking to construct the proposed levee has provided an adequate maintenance plan that documents the procedures the State, local, or tribal government will use to ensure that the stability, height, and overall integrity of the proposed levee and the structure and systems of the proposed levee are maintained, including—
     - **(A)** specifying the maintenance activities to be performed;
     - **(B)** specifying the frequency with which maintenance activities will be performed;

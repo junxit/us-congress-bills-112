@@ -1,7 +1,7 @@
 ---
 measure: S. 2039
 congress: 112
-version: Introduced in Senate
+version: Referred in House
 ---
 
 # S. 2039
@@ -20,6 +20,10 @@ A bill to allow a State or local government to construct levees on certain prope
 
 - Sen. Conrad, Kent [D-ND] (C000705)
 
+## Committees (1)
+
+- House — Transportation and Infrastructure Committee
+
 ## Actions
 
 - 2012-01-26 — Amendment SA 1469 agreed to in Senate by Unanimous Consent.
@@ -33,3 +37,5 @@ A bill to allow a State or local government to construct levees on certain prope
 - 2012-01-26 — Senate amendment agreed to: Amendment SA 1469 agreed to in Senate by Unanimous Consent.
 - 2012-01-26 — Senate amendment proposed (on the floor): Amendment SA 1469 proposed by Senator Reid for Senator Boxer.(consideration: CR S136-137; text: CR S136-137)
 - 2012-01-26 — Senate amendment submitted
+- 2012-01-27 — Received in the House.
+- 2012-01-27 — Referred to the House Committee on Transportation and Infrastructure.
