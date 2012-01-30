@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3578
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,40 +11,44 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Baseline Reform Act of 2011”.
+This Act may be cited as the “Baseline Reform Act of 2012”.
 
 ## § 2. The baseline
 
-- **(a)** *In general* Section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 is amended to read as follows:
-  > ## § 257. The baseline
-  >
-  > - **(a)** *In general*
-  >   - **(1)** For any fiscal year, the baseline refers to a projection of current-year levels of new budget authority, outlays, or receipts and the surplus or deficit for the current year, the budget year, and the ensuing nine outyears based on laws enacted through the applicable date.
-  >   - **(2)** The baselines referred to in paragraph (1) shall be prepared annually.
-  > - **(b)** *Direct spending and receipts* For the budget year and each outyear, estimates for direct spending in the baseline shall be calculated as follows:
-  >   - **(1)** *In general* Laws providing or creating direct spending and receipts are assumed to operate in the manner specified in those laws for each such year and funding for entitlement authority is assumed to be adequate to make all payments required by those laws.
-  >   - **(2)** *Exceptions*
-  >     - **(A)**
-  >       - **(i)** No program established by a law enacted on or before the date of enactment of the Balanced Budget Act of 1997 with estimated current year outlays greater than $50,000,000 shall be assumed to expire in the budget year or the outyears. The scoring of new programs with estimated outlays greater than $50,000,000 a year shall be based on scoring by the Committees on the Budget or OMB, as applicable. OMB, CBO, and the Committees on the Budget shall consult on the scoring of such programs where there are differences between CBO and OMB.
-  >       - **(ii)** On the expiration of the suspension of a provision of law that is suspended under section 171 of Public Law 104–127 and that authorizes a program with estimated fiscal year outlays that are greater than $50,000,000, for purposes of clause (i), the program shall be assumed to continue to operate in the same manner as the program operated immediately before the expiration of the suspension.
-  >     - **(B)** The increase for veterans' compensation for a fiscal year is assumed to be the same as that required by law for veterans' pensions unless otherwise provided by law enacted in that session.
-  >     - **(C)** Excise taxes dedicated to a trust fund, if expiring, are assumed to be extended at current rates.
-  >     - **(D)** If any law expires before the budget year or any outyear, then any program with estimated current year outlays greater than $50,000,000 that operates under that law shall be assumed to continue to operate under that law as in effect immediately before its expiration.
-  >   - **(3)** *Hospital insurance trust fund* Notwithstanding any other provision of law, the receipts and disbursements of the Hospital Insurance Trust Fund shall be included in all calculations required by this Act.
-  > - **(c)** *Discretionary spending* For the budget year and each of the nine ensuing outyears, the baseline shall be calculated using the following assumptions regarding all amounts other than those covered by subsection (b):
-  >   - **(1)** *Estimated appropriations* Budgetary resources other than unobligated balances shall be at the level provided for the budget year in full-year appropriation Acts. If for any account a full-year appropriation has not yet been enacted, budgetary resources other than unobligated balances shall be at the level available in the current year.
-  >   - **(2)** *Current-year appropriations* If, for any account, a continuing appropriation is in effect for less than the entire current year, then the current-year amount shall be assumed to equal the amount that would be available if that continuing appropriation covered the entire fiscal year. If law permits the transfer of budget authority among budget accounts in the current year, the current-year level for an account shall reflect transfers accomplished by the submission of, or assumed for the current year in, the President’s original budget for the budget year.
-  > - **(d)** *Up-To-Date concepts* In calculating the baseline for the budget year or each of the nine ensuing outyears, current-year amounts shall be calculated using the concepts and definitions that are required for that budget year.
-  > - **(e)** *Asset sales* Amounts realized from the sale of an asset shall not be included in estimates under section 251, 251A, 252, or 253 of this part or section 5 of the Statutory-Pay-As-You-Go Act of 2010 if that sale would result in a financial cost to the Government as determined pursuant to scorekeeping guidelines.
+Section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 is amended to read as follows:
 
-- **(b)** *Definitions* Section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 is amended by adding at the end the following new paragraphs:
-  > - **(22)** The term Medicare means programs within budget function 570.
-  > - **(23)** The term Medicaid and other health-related spending means programs within budget function 550.
-  > - **(24)** The term other direct spending means programs other than those within budget functions 550 and 570, excluding Social Security and net interest.
+> ## § 257. The baseline
+>
+> - **(a)** *In general*
+>   - **(1)** For any fiscal year, the baseline refers to a projection of current-year levels of new budget authority, outlays, or receipts and the surplus or deficit for the current year, the budget year, and the ensuing nine outyears based on laws enacted through the applicable date.
+>   - **(2)** The baselines referred to in paragraph (1) shall be prepared annually.
+> - **(b)** *Direct spending and receipts* For the budget year and each outyear, estimates for direct spending in the baseline shall be calculated as follows:
+>   - **(1)** *In general* Laws providing or creating direct spending and receipts are assumed to operate in the manner specified in those laws for each such year and funding for entitlement authority is assumed to be adequate to make all payments required by those laws.
+>   - **(2)** *Exceptions*
+>     - **(A)**
+>       - **(i)** No program established by a law enacted on or before the date of enactment of the Balanced Budget Act of 1997 with estimated current year outlays greater than $50,000,000 shall be assumed to expire in the budget year or the outyears. The scoring of new programs with estimated outlays greater than $50,000,000 a year shall be based on scoring by the Committees on the Budget or OMB, as applicable. OMB, CBO, and the Committees on the Budget shall consult on the scoring of such programs where there are differences between CBO and OMB.
+>       - **(ii)** On the expiration of the suspension of a provision of law that is suspended under section 171 of Public Law 104–127 and that authorizes a program with estimated fiscal year outlays that are greater than $50,000,000, for purposes of clause (i), the program shall be assumed to continue to operate in the same manner as the program operated immediately before the expiration of the suspension.
+>     - **(B)** The increase for veterans' compensation for a fiscal year is assumed to be the same as that required by law for veterans' pensions unless otherwise provided by law enacted in that session.
+>     - **(C)** Excise taxes dedicated to a trust fund, if expiring, are assumed to be extended at current rates.
+>     - **(D)** If any law expires before the budget year or any outyear, then any program with estimated current year outlays greater than $50,000,000 that operates under that law shall be assumed to continue to operate under that law as in effect immediately before its expiration.
+>   - **(3)** *Hospital insurance trust fund* Notwithstanding any other provision of law, the receipts and disbursements of the Hospital Insurance Trust Fund shall be included in all calculations required by this Act.
+> - **(c)** *Discretionary spending* For the budget year and each of the nine ensuing outyears, the baseline shall be calculated using the following assumptions regarding all amounts other than those covered by subsection (b):
+>   - **(1)** *Estimated appropriations* Budgetary resources other than unobligated balances shall be at the level provided for the budget year in full-year appropriation Acts. If for any account a full-year appropriation has not yet been enacted, budgetary resources other than unobligated balances shall be at the level available in the current year.
+>   - **(2)** *Current-year appropriations* If, for any account, a continuing appropriation is in effect for less than the entire current year, then the current-year amount shall be assumed to equal the amount that would be available if that continuing appropriation covered the entire fiscal year. If law permits the transfer of budget authority among budget accounts in the current year, the current-year level for an account shall reflect transfers accomplished by the submission of, or assumed for the current year in, the President’s original budget for the budget year.
+> - **(d)** *Up-To-Date concepts* In calculating the baseline for the budget year or each of the nine ensuing outyears, current-year amounts shall be calculated using the concepts and definitions that are required for that budget year.
+> - **(e)** *Asset sales* Amounts realized from the sale of an asset shall not be included in estimates under section 251, 251A, 252, or 253 of this part or section 5 of the Statutory-Pay-As-You-Go Act of 2010 if that sale would result in a financial cost to the Government as determined pursuant to scorekeeping guidelines.
 
 ## § 3. Additional CBO report to budget committees
 
 Section 202(e) of the Congressional Budget Act of 1974 is amended by adding at the end the following new paragraphs:
 
-> - **(4)** After the President’s budget submission under section 1105(a) of title 31, United States Code, in addition to the baseline projections, the Director shall submit to the Committees on the Budget of the House of Representatives or the Senate a supplemental projection assuming extension of current tax policy for the fiscal year commencing on October 1 of that year with an alternative projection for that fiscal year, assuming the extension of current tax policy, excluding emergency provisions, in the fiscal year before the submission of a report.
-> - **(5)** On or before July 1 of each year, the Director shall submit to the Committees on the Budget of the House of Representatives and the Senate, the Long-Term Budget Outlook for the fiscal year commencing on October 1 of that year and at least the ensuing 30 fiscal years.
+> - **(4)**
+>   - **(A)** After the President’s budget submission under section 1105(a) of title 31, United States Code, in addition to the baseline projections, the Director shall submit to the Committees on the Budget of the House of Representatives and the Senate a supplemental projection assuming extension of current tax policy for the fiscal year commencing on October 1 of that year with a supplemental projection for the 10 fiscal-year period beginning with that fiscal year, assuming the extension of current tax policy.
+>   - **(B)** For the purposes of this paragraph, the term “current tax policy” means the tax policy in statute as of December 31 of the current year assuming—
+>     - **(i)** the budgetary effects of measures extending the Economic Growth and Tax Relief Reconciliation Act of 2001;
+>     - **(ii)** the budgetary effects of measures extending the Jobs and Growth Tax Relief Reconciliation Act of 2003;
+>     - **(iii)** the continued application of the alternative minimum tax as in effect for taxable years beginning in 2011 pursuant to title II of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010, assuming that for taxable years beginning after 2011 the exemption amount shall equal—
+>       - **(I)** the exemption amount for taxable years beginning in 2011, as indexed for inflation; or
+>       - **(II)** if a subsequent law modifies the exemption amount for later taxable years, the modified exemption amount, as indexed for inflation; and
+>     - **(iv)** the budgetary effects of extending the estate, gift, and generation-skipping transfer tax provisions of title III of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010.
+> - **(5)** On or before July 1 of each year, the Director shall submit to the Committees on the Budget of the House of Representatives and the Senate, the Long-Term Budget Outlook for the fiscal year commencing on October 1 of that year and at least the ensuing 40 fiscal years.
