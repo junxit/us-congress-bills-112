@@ -1,7 +1,7 @@
 ---
 measure: S. 1236
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1236
@@ -37,3 +37,5 @@ Border Tunnel Prevention Act of 2011
 - 2011-12-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2011-12-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2011-12-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 260.
+- 2012-01-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S172-173; text: CR S172-173)
+- 2012-01-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S172-173; text: CR S172-173)
