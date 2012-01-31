@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3575
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -29,6 +29,10 @@ Section 300 of the Congressional Budget Act of 1974 (2 U.S.C. 631) is amended to
 >
 > - **(a)** *In general* Except as provided by subsection (b), the timetable with respect to the congressional budget process for any Congress (beginning with the One Hundred Thirteenth Congress or a subsequent Congress, as applicable) is as follows:
 > - **(b)** *Special Rule* In the case of any first session of Congress that begins in any year during which the term of a President (except a President who succeeds himself) begins, the following dates shall supersede those set forth in subsection (a):
+
+## § 3. Conforming amendments to section 300
+
+Section 300 of the Congressional Budget Act of 1974 is amended by striking “concurrent” in each place it appears and inserting “joint”.
 
 ## § 4. Amendments to section 303 and conforming amendments
 
@@ -62,13 +66,22 @@ Section 305 of the Congressional Budget Act of 1974 is amended by adding at the 
 
 - **(b)** *Conforming amendment* The table of contents set forth in section 1(b) of the Congressional Budget and Impoundment Control Act of 1974 is amended by inserting after the item relating to section 315 the following new item:
 
+## § 7. Automatic Congressional Enforcement of Joint Resolution
+
+- **(a)** *In general* Title III of the Congressional Budget Act of 1974 is amended by adding after section 315 the following new section:
+  > ## § 316. Automatic Congressional Enforcement of Joint Resolution
+  >
+  > For purposes of congressional enforcement under titles III and IV of this Act and the rules of the House of Representatives and the Senate, the aggregates, allocations, and any other matters that pertain solely to the Congress set forth in the joint resolution shall be considered as enforceable upon enactment or 15 days following presentment to the President, whichever occurs earlier.
+
+- **(b)** *Conforming Amendment* The table of contents set forth in section 1(b) of the Congressional Budget and Impoundment Control Act of 1974 is amended by inserting after the item relating to section 315 the following new item:
+
 ## § 8. Public debt limit
 
 Section 301(b) of the Congressional Budget Act of 1974 is amended by striking “and” at the end of paragraph (8), by striking the period and inserting “; and” at the end of paragraph (9), and by inserting after paragraph (9) the following new paragraph:
 
 > - **(10)** set forth the public debt limit.
 
-## § 9. Additional amendments to the Congressional Budget Act of 1974 to effectuate joint resolutions on the budget
+## § 9 8. Additional amendments to the Congressional Budget Act of 1974 to effectuate joint resolutions on the budget
 
 - **(a)** *Additional amendments to the Congressional Budget and Impoundment Control Act of 1974*
   - **(1)**
@@ -86,10 +99,10 @@ Section 301(b) of the Congressional Budget Act of 1974 is amended by striking �
   - **(3)** The first sentence of section 310(b) of the Congressional Budget Act of 1974 is amended by striking “If” and inserting “If the joint explanatory statement accompanying the conference report on”.
   - **(4)** Section 310(c)(1) of the Congressional Budget Act of 1974 is amended by inserting “the joint explanatory statement accompanying the conference report on” after “pursuant to”.
 
-## § 10. Amendments to the Rules of the House of Representatives to effectuate joint budget resolutions
+## § 10 9. Amendments to the Rules of the House of Representatives to effectuate joint budget resolutions
 
 Clauses 1(d)(1), 4(a)(4), 4(b)(2), 4(f)(1)(A), and 4(f)(2) of rule X, clause 10 of rule XVIII, clause 10 of rule XX, and clauses 7 and 10 of rule XXI of the Rules of the House of Representatives are amended by striking “concurrent” each place it appears and inserting “joint”.
 
-## § 11. Conforming amendments to the Balanced Budget and Emergency Deficit Control Act of 1985
+## § 11 10. Conforming amendments to the Balanced Budget and Emergency Deficit Control Act of 1985
 
 Section 258C(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 907d(b)(1)) is amended by striking “concurrent” and inserting “joint”.

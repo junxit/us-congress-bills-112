@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3575
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-22 amendatory instructions. 0 executed, 22 stated and not applied.
+25 amendatory instructions. 0 executed, 25 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,11 +33,14 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | Section 3 of the Congressional Budget Act of 1974 is amended by striking paragraph (4) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Section 300 of the Congressional Budget Act of 1974 (2 U.S.C. 631) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 300 of the Congressional Budget Act of 1974 is amended by striking “concurrent” in each place it appears and inserting “joint”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “(a) In General.—”, by striking “has been agreed to” and inserting “takes effect”, and by striking subsections (b) and (c); and | the bill names no machine-readable US Code section |
 | — | replace | by striking its section heading and inserting the following new section heading: “Consideration of budget-related legislation before budget becomes law”. | the bill names no machine-readable US Code section |
 | — | amend | The item relating to section 303 in the table of contents set forth in section 1(b) of the Congressional Budget and Impoundment Control Act of 1974 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 304 of the Congressional Budget Act of 1974 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 305 of the Congressional Budget Act of 1974 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Title III of the Congressional Budget Act of 1974 is amended by adding after section 315 the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of contents set forth in section 1(b) of the Congressional Budget and Impoundment Control Act of 1974 is amended by inserting after the item relating to section 315 the following new item: | the bill names no machine-readable US Code section |
 | — | amend | Title III of the Congressional Budget Act of 1974 is amended by adding after section 315 the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents set forth in section 1(b) of the Congressional Budget and Impoundment Control Act of 1974 is amended by inserting after the item relating to section 315 the following new item: | the bill names no machine-readable US Code section |
 | — | replace | Section 301(b) of the Congressional Budget Act of 1974 is amended by striking “and” at the end of paragraph (8), by striking the period and inserting “; and” at the end of paragraph (9), and by inserting after paragraph (9) the following… | the bill names no machine-readable US Code section |
