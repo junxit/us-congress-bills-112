@@ -1,0 +1,89 @@
+---
+legis-num: S. 2048
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2048
+
+> To amend the Internal Revenue Code of 1986 to clarify the tax treatment of certain life insurance contract transactions, and for other purposes.
+
+## § 1. Tax reporting for life settlement transactions
+
+- **(a)** *In general* Subpart B of part III of subchapter A of chapter 61 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:
+  > ## § 6050X. Returns relating to certain life insurance contract transactions
+  >
+  > - **(a)** *Requirement of reporting of certain payments*
+  >   - **(1)** *In general* Every person who acquires a life insurance contract or any interest in a life insurance contract in a reportable policy sale during any taxable year shall make a return for such taxable year (at such time and in such manner as the Secretary shall prescribe) setting forth—
+  >     - **(A)** the name, address, and TIN of such person,
+  >     - **(B)** the name, address, and TIN of each recipient of payment in the reportable policy sale,
+  >     - **(C)** the date of such sale,
+  >     - **(D)** the name of the issuer of the life insurance contract sold and the policy number of such contract, and
+  >     - **(E)** the amount of each payment.
+  >   - **(2)** *Statement to be furnished to persons with respect to whom information is required* Every person required to make a return under this subsection shall furnish to each person whose name is required to be set forth in such return a written statement showing—
+  >     - **(A)** the name, address, and phone number of the information contact of the person required to make such return, and
+  >     - **(B)** the information required to be shown on such return with respect to such person, except that in the case of an issuer of a life insurance contract, such statement is not required to include the information specified in paragraph (1)(E).
+  > - **(b)** *Requirement of reporting of seller's basis in life insurance contracts*
+  >   - **(1)** *In general* Upon receipt of the statement required under subsection (a)(2) or upon notice of a transfer of a life insurance contract to a foreign person, each issuer of a life insurance contract shall make a return (at such time and in such manner as the Secretary shall prescribe) setting forth—
+  >     - **(A)** the name, address, and TIN of the seller who transfers any interest in such contract in such sale,
+  >     - **(B)** the investment in the contract (as defined in section 72(e)(6)) with respect to such seller, and
+  >     - **(C)** the policy number of such contract.
+  >   - **(2)** *Statement to be furnished to persons with respect to whom information is required* Every person required to make a return under this subsection shall furnish to each person whose name is required to be set forth in such return a written statement showing—
+  >     - **(A)** the name, address, and phone number of the information contact of the person required to make such return, and
+  >     - **(B)** the information required to be shown on such return with respect to each seller whose name is required to be set forth in such return.
+  > - **(c)** *Requirement of reporting with respect to reportable death benefits*
+  >   - **(1)** *In general* Every person who makes a payment of reportable death benefits during any taxable year shall make a return for such taxable year (at such time and in such manner as the Secretary shall prescribe) setting forth—
+  >     - **(A)** the name, address, and TIN of the person making such payment,
+  >     - **(B)** the name, address, and TIN of each recipient of such payment,
+  >     - **(C)** the date of each such payment, and
+  >     - **(D)** the amount of each such payment.
+  >   - **(2)** *Statement to be furnished to persons with respect to whom information is required* Every person required to make a return under this subsection shall furnish to each person whose name is required to be set forth in such return a written statement showing—
+  >     - **(A)** the name, address, and phone number of the information contact of the person required to make such return, and
+  >     - **(B)** the information required to be shown on such return with respect to each recipient of payment whose name is required to be set forth in such return.
+  > - **(d)** *Definitions* For purposes of this section:
+  >   - **(1)** *Payment* The term payment means the amount of cash and the fair market value of any consideration transferred in a reportable policy sale.
+  >   - **(2)** *Reportable policy sale* The term reportable policy sale has the meaning given such term in section 101(a)(3)(B).
+  >   - **(3)** *Issuer* The term issuer means any life insurance company that bears the risk with respect to a life insurance contract on the date any return or statement is required to be made under this section.
+  >   - **(4)** *Reportable death benefits* The term reportable death benefits means amounts paid by reason of the death of the insured under a life insurance contract that has been transferred in a reportable policy sale.
+
+- **(b)** *Clerical amendment* The table of sections for subpart B of part III of subchapter A of chapter 61 of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 6050W the following new item:
+- **(c)** *Conforming amendments*
+  - **(1)** Subsection (d) of section 6724 of the Internal Revenue Code of 1986 is amended—
+    - **(A)** by striking “or” at the end of clause (xxiv) of paragraph (1)(B), by striking “and” at the end of clause (xxv) of such paragraph and inserting “or”, and by inserting after such clause (xxv) the following new clause:
+      > - **(xxvi)** section 6050X (relating to returns relating to certain life insurance contract transactions), and
+
+    - **(B)** by striking “or” at the end of subparagraph (GG) of paragraph (2), by striking the period at the end of subparagraph (HH) of such paragraph and inserting “, or”, and by inserting after such subparagraph (HH) the following new subparagraph:
+      > - **(II)** subsection (a)(2), (b)(2), or (c)(2) of section 6050X (relating to returns relating to certain life insurance contract transactions).
+
+  - **(2)** Section 6047 of such Code is amended—
+    - **(A)** by redesignating subsection (g) as subsection (h),
+    - **(B)** by inserting after subsection (f) the following new subsection:
+      > - **(g)** *Information relating to life insurance contract transactions* This section shall not apply to any information which is required to be reported under section 6050X.
+
+    - **(C)** by adding at the end of subsection (h), as so redesignated, the following new paragraph:
+      > - **(4)** For provisions requiring reporting of information relating to certain life insurance contract transactions, see section 6050X.
+
+- **(d)** *Effective date* The amendments made by this section shall apply to—
+  - **(1)** reportable policy sales after December 31, 2012, and
+  - **(2)** reportable death benefits paid after December 31, 2012.
+
+## § 2. Clarification of tax basis of life insurance contracts
+
+- **(a)** *In general* Paragraph (1) of section 1016(a) of the Internal Revenue Code of 1986 is amended by striking subparagraph (A) and all that follows and inserting the following:
+  > - **(A)** for—
+  >   - **(i)** taxes or other carrying charges described in section 266; or
+  >   - **(ii)** expenditures described in section 173 (relating to circulation expenditures),
+  > - **(B)** for mortality, expense, or other reasonable charges incurred under an annuity or life insurance contract;
+
+- **(b)** *Effective date* The amendment made by this section shall apply to transactions entered into after August 25, 2009.
+
+## § 3. Exception to transfer for valuable consideration rules
+
+- **(a)** *In general* Subsection (a) of section 101 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+  > - **(3)** *Exception to valuable consideration rules for commercial transfers*
+  >   - **(A)** *In general* The second sentence of paragraph (2) shall not apply in the case of a transfer of a life insurance contract, or any interest therein, which is a reportable policy sale.
+  >   - **(B)** *Reportable policy sale* For purposes of this paragraph, the term reportable policy sale means the acquisition of an interest in a life insurance contract, directly or indirectly, if the acquirer has no substantial family, business, or financial relationship with the insured apart from the acquirer's interest in such life insurance contract. For purposes of the preceding sentence, the term indirectly applies to the acquisition of an interest in a partnership, trust, or other entity that holds an interest in the life insurance contract.
+
+- **(b)** *Conforming amendment* Paragraph (1) of section 101(a) of the Internal Revenue Code of 1986 is amended by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”.
+- **(c)** *Effective date* The amendments made by this section shall apply to transfers after December 31, 2012.
