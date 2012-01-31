@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3581
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,5 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | amend | Title V of the Congressional Budget Act of 1974 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The table of contents set forth in section 1(b) of the Congressional Budget and Impoundment Control Act of 1974 is amended by striking the items relating to title V and inserting the following: | the bill names no machine-readable US Code section |
-| — | repeal | Section 2009a of title 39, United States Code, is repealed. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 251(b)(1) of the Balanced Budget and Emergency Deficit Control Act of 1985 is amended by adding at the end the following new sentence: “A change in discretionary spending solely as a result of the amendment to title V of the Cong… | the bill names no machine-readable US Code section |
 | — | insert | Section 1108 of title 31, United States Code, is amended by inserting at the end the following new subsection: | the bill names no machine-readable US Code section |
