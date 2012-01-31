@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 34
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 34
@@ -35,8 +35,15 @@ A concurrent resolution expressing the sense of Congress in honor of the life an
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
+## Committees (1)
+
+- House — Foreign Affairs Committee
+
 ## Actions
 
 - 2012-01-30 — Introduced in Senate
 - 2012-01-30 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S174; text as passed Senate: CR S174; text of measure as introduced: CR S168)
 - 2012-01-30 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S174; text as passed Senate: CR S174; text of measure as introduced: CR S168)
+- 2012-01-31 — Message on Senate action sent to the House.
+- 2012-01-31 — Received in the House.
+- 2012-01-31 — Referred to the House Committee on Foreign Affairs.
