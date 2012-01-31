@@ -1,7 +1,7 @@
 ---
 legis-num: S. RES. 286
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -27,12 +27,4 @@ That—
 
 - **(1)** the Senate—
   - **(A)** recognizes and celebrates May 16, 2012, as Hereditary Angioedema Awareness Day; and
-  - **(B)** supports increased awareness of Hereditary Angioedema (HAE) by physicians and the public; and
-- **(2)** it is the sense of the Senate that increased Federal research on HAE is needed, including that—
-  - **(A)** the Director of the National Institutes of Health (NIH) should take a leadership role in the search for new treatment options and a cure for HAE by—
-    - **(i)** encouraging the National Institute of Allergy and Infectious Diseases (NIAID) to implement the research recommendations of the international HAE research community;
-    - **(ii)** exploring collaborative research opportunities between the NIAID, the Office of Rare Diseases Research, and other NIH Institutes and Centers; and
-    - **(iii)** encouraging NIAID to provide the necessary funding for continued expansion and advancement of the HAE research portfolio through intramural and extramural research; and
-  - **(B)** the Commissioner of Food and Drugs should take a leadership role in ensuring new HAE treatments are developed and appropriately monitored by—
-    - **(i)** issuing further guidance to industry on the development criteria and adverse event standards for HAE treatments; and
-    - **(ii)** encouraging the participation of patient groups and considering the views of patients when discussing standards and protocols for the development and monitoring of HAE treatments.
+  - **(B)** supports increased awareness of Hereditary Angioedema (HAE) by physicians and the public.

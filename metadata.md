@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 286
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 286
@@ -28,3 +28,13 @@ A resolution recognizing May 16, 2012, as Hereditary Angioedema Awareness Day an
 
 - 2011-10-05 — Introduced in Senate
 - 2011-10-05 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6225-6226)
+- 2012-01-31 — Amendment SA 1495 agreed to in Senate by Unanimous Consent.
+- 2012-01-31 — Amendment SA 1495 proposed by Senator Udall CO for Senator Inouye. (consideration: CR S222; text: CR S222) To strike provisions relating to increased research.
+- 2012-01-31 — Measure laid before Senate by unanimous consent. (consideration: CR S222)
+- 2012-01-31 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.(text: CR S222)
+- 2012-01-31 — Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent. (text: CR S222)
+- 2012-01-31 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2012-01-31 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2012-01-31 — Senate amendment agreed to: Amendment SA 1495 agreed to in Senate by Unanimous Consent.
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1495 proposed by Senator Udall CO for Senator Inouye.(consideration: CR S222; text: CR S222)
+- 2012-01-31 — Senate amendment submitted
