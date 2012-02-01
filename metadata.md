@@ -1,7 +1,7 @@
 ---
 measure: S. 1296
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1296
@@ -32,3 +32,5 @@ A bill to revise the boundaries of John H. Chafee Coastal Barrier Resources Syst
 - 2012-01-26 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-138.
 - 2012-01-26 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-138.
 - 2012-01-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 304.
+- 2012-02-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S276; text as passed Senate: CR S276)
+- 2012-02-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S276; text as passed Senate: CR S276)
