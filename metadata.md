@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1173
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1173
@@ -136,6 +136,15 @@ Fiscal Responsibility and Retirement Security Act of 2011
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
 
+## Recorded votes (6)
+
+- 2012-02-01 — [House 112-2-13](votes/house-112-2-0013.md) — On Agreeing to the Amendment — **Failed** (161–263)
+- 2012-02-01 — [House 112-2-14](votes/house-112-2-0014.md) — On Agreeing to the Amendment — **Failed** (157–264)
+- 2012-02-01 — [House 112-2-15](votes/house-112-2-0015.md) — On Agreeing to the Amendment — **Failed** (164–260)
+- 2012-02-01 — [House 112-2-16](votes/house-112-2-0016.md) — On Agreeing to the Amendment — **Failed** (160–264)
+- 2012-02-01 — [House 112-2-17](votes/house-112-2-0017.md) — On Motion to Recommit with Instructions — **Failed** (175–247)
+- 2012-02-01 — [House 112-2-18](votes/house-112-2-0018.md) — On Passage — **Passed** (267–159)
+
 ## Actions
 
 - 2011-03-17 — Introduced in House
@@ -156,3 +165,58 @@ Fiscal Responsibility and Retirement Security Act of 2011
 - 2012-01-23 — Placed on the Union Calendar, Calendar No. 253.
 - 2012-01-23 — Reported by the Committee on Ways and Means. H. Rept. 112-342, Part II.
 - 2012-01-23 — Reported by the Committee on Ways and Means. H. Rept. 112-342, Part II.
+- 2012-01-24 — Rules Committee Resolution H. Res. 522 Reported to House. Rule provides for consideration of H.R. 1173 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. Specified amendments are in order. The resolution makes in order the amendment in the nature of a substitute recommended by the Committee on Energy and Commerce now printed in the bill for the purpose of amendment. The resolution makes in order only those amendments that are submitted for printing in the Congressional Record not later than the legislative day of Tuesday, January 31, 2012, or pro forma amendments for the purpose of debate. The bill shall be considered for amendment for a period not to exceed three hours.
+- 2012-01-31 — Rule H. Res. 522 passed House.
+- 2012-02-01 — Amendment (A001) offered by Ms. Jackson Lee (TX). (consideration: CR H333-335, H349-350; text: CR H333)
+- 2012-02-01 — Amendment (A002) offered by Ms. Jackson Lee (TX). (consideration: CR H335-337, H350; text: CR H335)
+- 2012-02-01 — Amendment (A003) offered by Mr. Deutch. (consideration: CR H337, H350-351; text: CR H337)
+- 2012-02-01 — Amendment (A004) offered by Mr. Deutch. (consideration: CR H337-339, H351-352; text: CR H337-338)
+- 2012-02-01 — Amendment failed in Committee of the Whole
+- 2012-02-01 — Amendment failed in Committee of the Whole
+- 2012-02-01 — Amendment failed in Committee of the Whole
+- 2012-02-01 — Amendment failed in Committee of the Whole
+- 2012-02-01 — Considered under the provisions of rule H. Res. 522. (consideration: CR H322-354)
+- 2012-02-01 — DEBATE - The Committee of the Whole proceeded with debate on the Deutch amendment No. 4 under the five-minute rule.
+- 2012-02-01 — DEBATE - The Committee of the Whole proceeded with debate on the Deutch amendment No. 5 under the five-minute rule.
+- 2012-02-01 — DEBATE - The Committee of the Whole proceeded with debate on the Jackson Lee (TX) amendment No. 1 under the five-minute rule.
+- 2012-02-01 — DEBATE - The Committee of the Whole proceeded with debate on the Jackson Lee (TX) amendment No. 2 under the five-minute rule.
+- 2012-02-01 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Garamendi motion to recommit. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to insert a section entitled "Ensuring Long-Term Care Services for Seniors with Alzheimer's Disease and Other Disabled Individuals".
+- 2012-02-01 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1173.
+- 2012-02-01 — House amendment not agreed to: On agreeing to the Deutch amendment (A003) Failed by recorded vote: 164 - 260 (Roll no. 15).
+- 2012-02-01 — House amendment not agreed to: On agreeing to the Deutch amendment (A004) Failed by recorded vote: 160 - 264 (Roll no. 16).
+- 2012-02-01 — House amendment not agreed to: On agreeing to the Jackson Lee (TX) amendment (A001) Failed by recorded vote: 161 - 263 (Roll no. 13).
+- 2012-02-01 — House amendment not agreed to: On agreeing to the Jackson Lee (TX) amendment (A002) Failed by recorded vote: 157 - 264 (Roll no. 14).
+- 2012-02-01 — House amendment offered
+- 2012-02-01 — House amendment offered
+- 2012-02-01 — House amendment offered
+- 2012-02-01 — House amendment offered
+- 2012-02-01 — House amendment offered/reported by: Amendment (A001) offered by Ms. Jackson Lee (TX).(consideration: CR H333-335, H349-350; text: CR H333)
+- 2012-02-01 — House amendment offered/reported by: Amendment (A002) offered by Ms. Jackson Lee (TX).(consideration: CR H335-337, H350; text: CR H335)
+- 2012-02-01 — House amendment offered/reported by: Amendment (A003) offered by Mr. Deutch.(consideration: CR H337, H350-351; text: CR H337)
+- 2012-02-01 — House amendment offered/reported by: Amendment (A004) offered by Mr. Deutch.(consideration: CR H337-339, H351-352; text: CR H337-338)
+- 2012-02-01 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 522 and Rule XVIII.
+- 2012-02-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-02-01 — Mr. Garamendi moved to recommit with instructions to Energy and Commerce. (consideration: CR H352-354; text: CR H352)
+- 2012-02-01 — On agreeing to the Deutch amendment (A003) Failed by recorded vote: 164 - 260 (Roll no. 15).
+- 2012-02-01 — On agreeing to the Deutch amendment (A004) Failed by recorded vote: 160 - 264 (Roll no. 16).
+- 2012-02-01 — On agreeing to the Jackson Lee (TX) amendment (A001) Failed by recorded vote: 161 - 263 (Roll no. 13).
+- 2012-02-01 — On agreeing to the Jackson Lee (TX) amendment (A002) Failed by recorded vote: 157 - 264 (Roll no. 14).
+- 2012-02-01 — On motion to recommit with instructions Failed by recorded vote: 175 - 247 (Roll no. 17).
+- 2012-02-01 — On passage Passed by recorded vote: 267 - 159 (Roll no. 18).
+- 2012-02-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Deutch amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Deutch demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-02-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Deutch amendment No. 5, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Deutch demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-02-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-02-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-02-01 — Passed/agreed to in House: On passage Passed by recorded vote: 267 - 159 (Roll no. 18).
+- 2012-02-01 — Roll call votes on amendments in House
+- 2012-02-01 — Roll call votes on amendments in House
+- 2012-02-01 — Roll call votes on amendments in House
+- 2012-02-01 — Roll call votes on amendments in House
+- 2012-02-01 — Rule provides for consideration of H.R. 1173 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. Specified amendments are in order. The resolution makes in order the amendment in the nature of a substitute recommended by the Committee on Energy and Commerce now printed in the bill for the purpose of amendment. The resolution makes in order only those amendments that are submitted for printing in the Congressional Record not later than the legislative day of Tuesday, January 31, 2012, or pro forma amendments for the purpose of debate. The bill shall be considered for amendment for a period not to exceed three hours.
+- 2012-02-01 — The Committee of the Whole proceeded with pro forma amendments.
+- 2012-02-01 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H333)
+- 2012-02-01 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1173.
+- 2012-02-01 — The Speaker designated the Honorable Candice S. Miller to act as Chairwoman of the Committee.
+- 2012-02-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H353)
+- 2012-02-01 — The previous question was ordered pursuant to the rule. (consideration: CR H352)
+- 2012-02-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
