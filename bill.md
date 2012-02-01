@@ -1,0 +1,37 @@
+---
+legis-num: S. 2058
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2058
+
+> To close loopholes, increase transparency, and improve the effectiveness of sanctions on Iranian trade in petroleum products.
+
+## § 1. Sale of petroleum from Strategic Petroleum Reserve
+
+- **(a)** *In general* The Secretary of Energy (referred to in this section as the Secretary) shall engage in any sale, purchase, or exchange activity involving the Strategic Petroleum Reserve established under part B of title I of the Energy Policy and Conservation Act (42 U.S.C. 6231 et seq.) (referred to in this section as the Reserve) only with a person that certifies to the Secretary that the person is not directly or indirectly conducting transactions in or with Iran or an Iranian entity.
+- **(b)** *Certification* To be eligible to participate in any sale, purchase, or exchange activity involving the Reserve, a person shall certify to the Secretary, on a regular basis, that the person is not directly or indirectly conducting transactions in or with Iran or an Iranian entity (including executed contracts and ongoing negotiations relating to such transactions).
+- **(c)** *New activities* Prior to participating in any sale, purchase, or exchange activity involving the Reserve, a person shall disclose to the Secretary any new activity of the person relating to directly or indirectly conducting transactions in or with Iran or an Iranian entity (including executed contracts and ongoing negotiations relating to such transactions).
+- **(d)** *Exceptions* This section shall not apply to a transaction of a person relating to the provision of humanitarian assistance, an agricultural commodity or product, medicine, or a medical device to Iran or an Iranian entity.
+- **(e)** *Waiver* The President may waive the requirement for certification with respect to a person under this section if the President—
+  - **(1)** determines that such a waiver is in the national interests of the United States; and
+  - **(2)** not later than 15 days after making the determination, submits to the appropriate congressional committees a report that describes the reasons for the determination.
+- **(f)** *Applicability* The requirements of this section terminate on the date on which the President determines that all economic sanctions imposed by the United States with respect to Iran have been lifted.
+
+## § 2. Reports on Iranian imports of crude oil and refined petroleum products
+
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act and every 180 days thereafter, the Comptroller General of the United States shall submit to Congress a report that, to the maximum extent practicable, describes—
+  - **(1)** the annual volume and national origin of crude oil and refined petroleum products imported to and exported from Iran (including through swaps and similar arrangements);
+  - **(2)** the identity and national origin of persons selling and transporting crude oil and refined petroleum products described in paragraph (1);
+  - **(3)** entities providing shipping and insurance services to Iran;
+  - **(4)** the sources of financing for imports to Iran of crude oil and refined petroleum products described in paragraph (1); and
+  - **(5)** the involvement of persons in efforts to assist Iran, and to conduct joint ventures with Iran, in—
+    - **(A)** developing upstream oil and gas production capacity;
+    - **(B)** importing advanced technology to upgrade existing Iranian refineries;
+    - **(C)** converting existing chemical plants to petroleum refineries; or
+    - **(D)** maintaining, upgrading, or expanding refineries or constructing new refineries.
+- **(b)** *Applicability* The period covered by reports under subsection (a) shall—
+  - **(1)** commence on July 1, 2010; and
+  - **(2)** terminate on the date on which the President determines that all economic sanctions imposed by the United States with respect to Iran have been lifted.
