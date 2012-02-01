@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3567
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 408(a) of the Social Security Act (42 U.S.C. 608(a)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | Section 409(a) of the Social Security Act (42 U.S.C. 609(a)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 409(a) of the Social Security Act (42 U.S.C. 609(a)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 409(c)(4) of the Social Security Act (42 U.S.C. 609(c)(4)) is amended by striking “or (13)” and inserting “(13), or (16)”. | the bill names no machine-readable US Code section |
