@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 90
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 90
@@ -34,3 +34,8 @@ Authorizing the printing of the 25th edition of the pocket version of the United
 - 2012-02-01 — On agreeing to the resolution Agreed to without objection. (text: CR H314)
 - 2012-02-01 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H314)
 - 2012-02-02 — Received in the Senate and referred to the Committee on Rules and Administration.
+- 2012-07-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2012-07-26 — Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2012-07-26 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S5627-5628)
+- 2012-07-26 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S5627-5628)
+- 2012-07-27 — Message on Senate action sent to the House.
