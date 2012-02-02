@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3835
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3835
@@ -23,10 +23,11 @@ To extend the pay limitation for Members of Congress and Federal employees.
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 - Rep. Amash, Justin [R-MI-3] (A000367)
 
-## Committees (2)
+## Committees (3)
 
 - House — Committee on House Administration
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ To extend the pay limitation for Members of Congress and Federal employees.
 - 2012-02-01 — Mr. Ross (FL) moved to suspend the rules and pass the bill.
 - 2012-02-01 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 309 - 117 (Roll no. 19). (text: CR H304)
 - 2012-02-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 309 - 117 (Roll no. 19).(text: CR H304)
+- 2012-02-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
