@@ -1,7 +1,7 @@
 ---
 measure: S. 2038
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 2038
@@ -16,9 +16,84 @@ STOCK Act
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
+## Cosponsors (57)
+
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+
+## Recorded votes (12)
+
+- 2012-01-30 — [Senate 112-2-3](votes/senate-112-2-0003.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (93–2)
+- 2012-02-02 — [Senate 112-2-4](votes/senate-112-2-0004.md) — On the Amendment — **Amendment Rejected** (37–61)
+- 2012-02-02 — [Senate 112-2-5](votes/senate-112-2-0005.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2012-02-02 — [Senate 112-2-6](votes/senate-112-2-0006.md) — On the Amendment — **Amendment Agreed to** (81–18)
+- 2012-02-02 — [Senate 112-2-7](votes/senate-112-2-0007.md) — On the Amendment — **Amendment Agreed to** (58–41)
+- 2012-02-02 — [Senate 112-2-8](votes/senate-112-2-0008.md) — On the Amendment — **Amendment Rejected** (40–59)
+- 2012-02-02 — [Senate 112-2-9](votes/senate-112-2-0009.md) — On the Amendment — **Amendment Rejected** (26–73)
+- 2012-02-02 — [Senate 112-2-10](votes/senate-112-2-0010.md) — On the Amendment — **Amendment Rejected** (60–39)
+- 2012-02-02 — [Senate 112-2-11](votes/senate-112-2-0011.md) — On the Amendment — **Amendment Rejected** (24–75)
+- 2012-02-02 — [Senate 112-2-12](votes/senate-112-2-0012.md) — On the Amendment — **Amendment Agreed to** (60–39)
+- 2012-02-02 — [Senate 112-2-13](votes/senate-112-2-0013.md) — On the Amendment — **Amendment Rejected** (26–73)
+- 2012-02-02 — [Senate 112-2-14](votes/senate-112-2-0014.md) — On Passage of the Bill — **Bill Passed** (96–3)
 
 ## Actions
 
@@ -28,3 +103,197 @@ STOCK Act
 - 2012-01-26 — Introduced in Senate
 - 2012-01-26 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S120; text: CR S120)
 - 2012-01-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 301.
+- 2012-01-30 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 93 - 2. Record Vote Number: 3. (consideration: CR S148-149; text: CR S148-149)
+- 2012-01-30 — Motion to proceed to measure considered in Senate. (consideration: CR S142-149)
+- 2012-01-30 — Senate amendment submitted
+- 2012-01-30 — Senate amendment submitted
+- 2012-01-30 — Senate amendment submitted
+- 2012-01-30 — Senate amendment submitted
+- 2012-01-30 — Senate amendment submitted
+- 2012-01-30 — Senate amendment submitted
+- 2012-01-30 — Senate amendment submitted
+- 2012-01-31 — Amendment SA 1470 proposed by Senator Reid. (consideration: CR S181) In the nature of a substitute.
+- 2012-01-31 — Amendment SA 1471 proposed by Senator McCain to Amendment SA 1470. (consideration: CR S183-186; text: CR S184) To protect the American taxpayer by prohibiting bonuses for Senior Executives at Fannie Mae and Freddie Mac while they are in conservatorship.
+- 2012-01-31 — Amendment SA 1472 proposed by Senator Toomey to Amendment SA 1470. (consideration: CR S182, S197-199; text: CR S182) To prohibit earmarks.
+- 2012-01-31 — Amendment SA 1473 proposed by Senator Coburn to Amendment SA 1470. (consideration: CR S188-189; text: CR S189) To prevent the creation of duplicative and overlapping Federal programs.
+- 2012-01-31 — Amendment SA 1474 proposed by Senator Coburn to Amendment SA 1470. (consideration: CR S189-190; text: CR S189-190) To require that all legislation be placed online for 72 hours before it is voted on by the Senate or the House.
+- 2012-01-31 — Amendment SA 1476 proposed by Senator Coburn to Amendment SA 1470. (consideration: CR S190-192; text: CR S190; text as modified: CR S191) In the nature of a substitute.
+- 2012-01-31 — Amendment SA 1477 proposed by Senator Thune to Amendment SA 1470. (consideration: CR S183; text: CR S183) To direct the Securities and Exchange Commission to eliminate the prohibition against general solicitation as a requirement for a certain exemption under Regulation D.
+- 2012-01-31 — Amendment SA 1478 proposed by Senator Brown OH to Amendment SA 1470. (consideration: CR S181, S182; text: CR S181) To change the reporting requirement to 10 days.
+- 2012-01-31 — Amendment SA 1481 proposed by Senator Brown OH to Amendment SA 1470. (consideration: CR S181-182, S182; text: CR S181) To prohibit financial conflicts of interest by Senators and staff.
+- 2012-01-31 — Amendment SA 1482 proposed by Senator Reid for Senator Lieberman to Amendment SA 1470. (consideration: CR S181; text: CR S181) To make a technical amendment to a reporting requirement.
+- 2012-01-31 — Amendment SA 1483 proposed by Senator Leahy to Amendment SA 1470. (consideration: CR S186-187) To deter public corruption, and for other purposes.
+- 2012-01-31 — Amendment SA 1484 proposed by Senator Paul to Amendment SA 1470. (consideration: CR S194; text: CR S194) To require Members of Congress to certify that they are not trading using material, non-public information.
+- 2012-01-31 — Amendment SA 1485 proposed by Senator Paul to Amendment SA 1470. (consideration: CR S194; text: CR S194) To extend the transaction reporting requirement to judicial officers and senior executive branch employees.
+- 2012-01-31 — Amendment SA 1487 proposed by Senator Paul to Amendment SA 1470. (consideration: CR S194-195; text: CR S194) To prohibit executive branch appointees or staff holding positions that give them oversight, rule-making, loan or grant-making abilities over industries or companies in which they or their spouse have a significant financial interest.
+- 2012-01-31 — Amendment SA 1488 proposed by Senator DeMint to Amendment SA 1470. (consideration: CR S195-197; text: CR S195) To express the sense of the Senate that the Senate should pass a joint resolution proposing an amendment to the Constitution that limits the number of terms a Member of Congress may serve.
+- 2012-01-31 — Amendment SA 1490 proposed by Senator Paul to Amendment SA 1470. (consideration: CR S199-200; text: CR S199-200) To require former Members of Congress to forfeit Federal retirement benefits if they work as a lobbyist or engage in lobbying activities.
+- 2012-01-31 — Measure laid before Senate by unanimous consent. (consideration: CR S187-193, S194-200, S201-202)
+- 2012-01-31 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S181)
+- 2012-01-31 — Motion to proceed to measure considered in Senate. (consideration: CR S181)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1470 proposed by Senator Reid.(consideration: CR S181)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1471 proposed by Senator McCain to Amendment SA 1470.(consideration: CR S183-186; text: CR S184)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1472 proposed by Senator Toomey to Amendment SA 1470.(consideration: CR S182, S197-199; text: CR S182)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1473 proposed by Senator Coburn to Amendment SA 1470.(consideration: CR S188-189; text: CR S189)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1474 proposed by Senator Coburn to Amendment SA 1470.(consideration: CR S189-190; text: CR S189-190)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1476 proposed by Senator Coburn to Amendment SA 1470.(consideration: CR S190-192; text: CR S190; text as modified: CR S191)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1477 proposed by Senator Thune to Amendment SA 1470.(consideration: CR S183; text: CR S183)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1478 proposed by Senator Brown OH to Amendment SA 1470.(consideration: CR S181, S182; text: CR S181)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1481 proposed by Senator Brown OH to Amendment SA 1470.(consideration: CR S181-182, S182; text: CR S181)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1482 proposed by Senator Reid for Senator Lieberman to Amendment SA 1470.(consideration: CR S181; text: CR S181)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1483 proposed by Senator Leahy to Amendment SA 1470.(consideration: CR S186-187)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1484 proposed by Senator Paul to Amendment SA 1470.(consideration: CR S194; text: CR S194)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1485 proposed by Senator Paul to Amendment SA 1470.(consideration: CR S194; text: CR S194)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1487 proposed by Senator Paul to Amendment SA 1470.(consideration: CR S194-195; text: CR S194)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1488 proposed by Senator DeMint to Amendment SA 1470.(consideration: CR S195-197; text: CR S195)
+- 2012-01-31 — Senate amendment proposed (on the floor): Amendment SA 1490 proposed by Senator Paul to Amendment SA 1470.(consideration: CR S199-200; text: CR S199-200)
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-01-31 — Senate amendment submitted
+- 2012-02-01 — Amendment SA 1489 proposed by Senator Boxer to Amendment SA 1470. (consideration: CR S245-248; text: CR S245) To require full and complete public disclosure of the terms of home mortgages held by Members of Congress, the President, the Vice President, and executive branch officers nominated or appointed to a position by the President, by and with the advice and consent of the Senate.
+- 2012-02-01 — Amendment SA 1491 proposed by Senator Shelby to Amendment SA 1470. (consideration: CR S240-241; text: CR S240) To extend the STOCK Act to ensure that the reporting requirements set forth in the STOCK Act apply to the executive branch and independent agencies.
+- 2012-02-01 — Amendment SA 1492 proposed by Senator Tester to Amendment SA 1470. (consideration: CR S248-249; text: CR S248-249) To amend the Securities Act of 1933 to require the Securities and Exchange Commission to exempt a certain class of securities from such Act.
+- 2012-02-01 — Amendment SA 1498 proposed by Senator Blumenthal to Amendment SA 1470. (consideration: CR S239-240; text: CR S239-240) To amend title 5, United States Code, to deny retirement benefits accrued by an individual as a Member of Congress if such individual is convicted of certain offenses.
+- 2012-02-01 — Amendment SA 1500 proposed by Senator Inhofe to Amendment SA 1470. (consideration: CR S243-245; text: CR S243-244) To prohibit unauthorized earmarks.
+- 2012-02-01 — Amendment SA 1503 proposed by Senator Tester to Amendment SA 1470. (consideration: CR S249; text: CR S249) To require Senate candidates to file designations, statements, and reports in electronic form.
+- 2012-02-01 — Considered by Senate. (consideration: CR S238)
+- 2012-02-01 — Considered by Senate. (consideration: CR S238)
+- 2012-02-01 — Considered by Senate. (consideration: CR S238)
+- 2012-02-01 — Considered by Senate. (consideration: CR S238)
+- 2012-02-01 — Considered by Senate. (consideration: CR S238)
+- 2012-02-01 — Considered by Senate. (consideration: CR S238)
+- 2012-02-01 — Considered by Senate. (consideration: CR S238)
+- 2012-02-01 — Considered by Senate. (consideration: CR S238)
+- 2012-02-01 — Considered by Senate. (consideration: CR S238, S241-243; text as modified: CR S243)
+- 2012-02-01 — Considered by Senate. (consideration: CR S239)
+- 2012-02-01 — Considered by Senate. (consideration: CR S239)
+- 2012-02-01 — Considered by Senate. (consideration: CR S239)
+- 2012-02-01 — Considered by Senate. (consideration: CR S239)
+- 2012-02-01 — Considered by Senate. (consideration: CR S239)
+- 2012-02-01 — Considered by Senate. (consideration: CR S239)
+- 2012-02-01 — Considered by Senate. (consideration: CR S239)
+- 2012-02-01 — Considered by Senate. (consideration: CR: S238-250, S250-254)
+- 2012-02-01 — Senate amendment proposed (on the floor): Amendment SA 1489 proposed by Senator Boxer to Amendment SA 1470.(consideration: CR S245-248; text: CR S245)
+- 2012-02-01 — Senate amendment proposed (on the floor): Amendment SA 1491 proposed by Senator Shelby to Amendment SA 1470.(consideration: CR S240-241; text: CR S240)
+- 2012-02-01 — Senate amendment proposed (on the floor): Amendment SA 1492 proposed by Senator Tester to Amendment SA 1470.(consideration: CR S248-249; text: CR S248-249)
+- 2012-02-01 — Senate amendment proposed (on the floor): Amendment SA 1498 proposed by Senator Blumenthal to Amendment SA 1470.(consideration: CR S239-240; text: CR S239-240)
+- 2012-02-01 — Senate amendment proposed (on the floor): Amendment SA 1500 proposed by Senator Inhofe to Amendment SA 1470.(consideration: CR S243-245; text: CR S243-244)
+- 2012-02-01 — Senate amendment proposed (on the floor): Amendment SA 1503 proposed by Senator Tester to Amendment SA 1470.(consideration: CR S249; text: CR S249)
+- 2012-02-01 — Senate amendment submitted
+- 2012-02-01 — Senate amendment submitted
+- 2012-02-01 — Senate amendment submitted
+- 2012-02-01 — Senate amendment submitted
+- 2012-02-01 — Senate amendment submitted
+- 2012-02-01 — Senate amendment submitted
+- 2012-02-01 — Senate amendment submitted
+- 2012-02-01 — Senate amendment submitted
+- 2012-02-01 — Senate amendment submitted
+- 2012-02-01 — Senate amendment submitted
+- 2012-02-01 — Senate amendment submitted
+- 2012-02-01 — Senate amendment submitted
+- 2012-02-01 — Senate amendment submitted
+- 2012-02-01 — Senate amendment submitted
+- 2012-02-01 — Senate amendment submitted
+- 2012-02-02 — Amendment SA 1470 agreed to in Senate by Unanimous Consent.
+- 2012-02-02 — Amendment SA 1471 agreed to in Senate by Voice Vote.
+- 2012-02-02 — Amendment SA 1472, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 8.
+- 2012-02-02 — Amendment SA 1473, under the order of 2/2/2012, not having achieved 67 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 60 - 39. Record Vote Number: 10.
+- 2012-02-02 — Amendment SA 1481, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 26 - 73. Record Vote Number: 13.
+- 2012-02-02 — Amendment SA 1482 agreed to in Senate by Voice Vote.
+- 2012-02-02 — Amendment SA 1483 agreed to in Senate by Voice Vote.
+- 2012-02-02 — Amendment SA 1484 not agreed to in Senate by Yea-Nay Vote. 37 - 61. Record Vote Number: 4.
+- 2012-02-02 — Amendment SA 1487, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 5.
+- 2012-02-02 — Amendment SA 1488, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 24 - 75. Record Vote Number: 11.
+- 2012-02-02 — Amendment SA 1489 as modified agreed to in Senate by Voice Vote. (text as modified: CR S298)
+- 2012-02-02 — Amendment SA 1491 as modified agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 7.
+- 2012-02-02 — Amendment SA 1493 proposed by Senator Grassley to Amendment SA 1470. (consideration: CR S295-297, S308-309; text: CR S296) To require disclosure of political intelligence activities under Lobbying Disclosure Act of 1995.
+- 2012-02-02 — Amendment SA 1493, under the order of 2/2/2012, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 60 - 39. Record Vote Number: 12.
+- 2012-02-02 — Amendment SA 1498 agreed to in Senate by Voice Vote.
+- 2012-02-02 — Amendment SA 1500, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 26 - 73. Record Vote Number: 9.
+- 2012-02-02 — Amendment SA 1505 agreed to in Senate by Voice Vote.
+- 2012-02-02 — Amendment SA 1505 proposed by Senator Gillibrand for Senator Portman to Amendment SA 1470. (consideration: CR S298-299, S302; text: CR S298) To clarify that political intelligence includes information gathered from executive branch employees, Congressional employees, and Members of Congress.
+- 2012-02-02 — Amendment SA 1510 agreed to in Senate by Voice Vote.
+- 2012-02-02 — Amendment SA 1510 proposed by Senator Collins for Senator Enzi to Amendment SA 1470. (consideration: CR S302; text: CR S302) To clarify that the transaction reporting requirement is not intended to apply to widely held investment funds.
+- 2012-02-02 — Amendment SA 1511 agreed to in Senate by Yea-Nay Vote. 81 - 18. Record Vote Number: 6.
+- 2012-02-02 — Amendment SA 1511 proposed by Senator Gillibrand for Senator Lieberman to Amendment SA 1470. (consideration: CR S298-299, S300-301; text: CR S298) To extend the STOCK Act to ensure that the reporting requirements set forth in the STOCK Act apply to the executive branch and independent agencies.
+- 2012-02-02 — Considered by Senate. (consideration: CR S290)
+- 2012-02-02 — Considered by Senate. (consideration: CR S290, S291-292, S302-304)
+- 2012-02-02 — Considered by Senate. (consideration: CR S290, S295, S309)
+- 2012-02-02 — Considered by Senate. (consideration: CR S290, S297-298, S301; text as modified: CR S298)
+- 2012-02-02 — Considered by Senate. (consideration: CR S290, S299)
+- 2012-02-02 — Considered by Senate. (consideration: CR S290, S299)
+- 2012-02-02 — Considered by Senate. (consideration: CR S290, S299)
+- 2012-02-02 — Considered by Senate. (consideration: CR S290, S299)
+- 2012-02-02 — Considered by Senate. (consideration: CR S290, S299)
+- 2012-02-02 — Considered by Senate. (consideration: CR S290, S299-300)
+- 2012-02-02 — Considered by Senate. (consideration: CR S290, S300)
+- 2012-02-02 — Considered by Senate. (consideration: CR S290, S304)
+- 2012-02-02 — Considered by Senate. (consideration: CR S290, S304-307)
+- 2012-02-02 — Considered by Senate. (consideration: CR S290, S307-308)
+- 2012-02-02 — Considered by Senate. (consideration: CR S290-315)
+- 2012-02-02 — Considered by Senate. (consideration: CR S291, S292-295, S304)
+- 2012-02-02 — Considered by Senate. (consideration: CR S291, S297, S301)
+- 2012-02-02 — Considered by Senate. (consideration: CR S291, S297-298, S302)
+- 2012-02-02 — Considered by Senate. (consideration: CR S291, S299)
+- 2012-02-02 — Considered by Senate. (consideration: CR S291, S299)
+- 2012-02-02 — Considered by Senate. (consideration: CR S291, S299)
+- 2012-02-02 — Considered by Senate. (consideration: CR S291, S302)
+- 2012-02-02 — Considered by Senate. (consideration: CR S291, S308)
+- 2012-02-02 — Passed Senate with an amendment by Yea-Nay Vote. 96 - 3. Record Vote Number: 14. (text: CR S310-315)
+- 2012-02-02 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 96 - 3. Record Vote Number: 14.(text: CR S310-315)
+- 2012-02-02 — Proposed amendment SA 1474 withdrawn in Senate. (consideration: CR S299)
+- 2012-02-02 — Proposed amendment SA 1476 withdrawn in Senate. (consideration: CR S299)
+- 2012-02-02 — Proposed amendment SA 1477 withdrawn in Senate. (consideration: CR S299)
+- 2012-02-02 — Proposed amendment SA 1478 withdrawn in Senate. (consideration: CR S299)
+- 2012-02-02 — Proposed amendment SA 1485 withdrawn in Senate. (consideration: CR S301)
+- 2012-02-02 — Proposed amendment SA 1490 withdrawn in Senate. (consideration: CR S299)
+- 2012-02-02 — Proposed amendment SA 1492 withdrawn in Senate. (consideration: CR S299)
+- 2012-02-02 — Proposed amendment SA 1503 withdrawn in Senate. (consideration: CR S299)
+- 2012-02-02 — Roll call votes on amendments in Senate: Amendment SA 1472, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 8.
+- 2012-02-02 — Roll call votes on amendments in Senate: Amendment SA 1473, under the order of 2/2/2012, not having achieved 67 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 60 - 39. Record Vote Number: 10.
+- 2012-02-02 — Roll call votes on amendments in Senate: Amendment SA 1481, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 26 - 73. Record Vote Number: 13.
+- 2012-02-02 — Roll call votes on amendments in Senate: Amendment SA 1484 not agreed to in Senate by Yea-Nay Vote. 37 - 61. Record Vote Number: 4.
+- 2012-02-02 — Roll call votes on amendments in Senate: Amendment SA 1487, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 5.
+- 2012-02-02 — Roll call votes on amendments in Senate: Amendment SA 1488, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 24 - 75. Record Vote Number: 11.
+- 2012-02-02 — Roll call votes on amendments in Senate: Amendment SA 1491 as modified agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 7.
+- 2012-02-02 — Roll call votes on amendments in Senate: Amendment SA 1493, under the order of 2/2/2012, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 60 - 39. Record Vote Number: 12.
+- 2012-02-02 — Roll call votes on amendments in Senate: Amendment SA 1500, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 26 - 73. Record Vote Number: 9.
+- 2012-02-02 — Roll call votes on amendments in Senate: Amendment SA 1511 agreed to in Senate by Yea-Nay Vote. 81 - 18. Record Vote Number: 6.
+- 2012-02-02 — Senate amendment agreed to: Amendment SA 1470 agreed to in Senate by Unanimous Consent.
+- 2012-02-02 — Senate amendment agreed to: Amendment SA 1471 agreed to in Senate by Voice Vote.
+- 2012-02-02 — Senate amendment agreed to: Amendment SA 1482 agreed to in Senate by Voice Vote.
+- 2012-02-02 — Senate amendment agreed to: Amendment SA 1483 agreed to in Senate by Voice Vote.
+- 2012-02-02 — Senate amendment agreed to: Amendment SA 1489 as modified agreed to in Senate by Voice Vote.(text as modified: CR S298)
+- 2012-02-02 — Senate amendment agreed to: Amendment SA 1491 as modified agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 7.
+- 2012-02-02 — Senate amendment agreed to: Amendment SA 1493, under the order of 2/2/2012, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 60 - 39. Record Vote Number: 12.
+- 2012-02-02 — Senate amendment agreed to: Amendment SA 1498 agreed to in Senate by Voice Vote.
+- 2012-02-02 — Senate amendment agreed to: Amendment SA 1505 agreed to in Senate by Voice Vote.
+- 2012-02-02 — Senate amendment agreed to: Amendment SA 1510 agreed to in Senate by Voice Vote.
+- 2012-02-02 — Senate amendment agreed to: Amendment SA 1511 agreed to in Senate by Yea-Nay Vote. 81 - 18. Record Vote Number: 6.
+- 2012-02-02 — Senate amendment not agreed to: Amendment SA 1472, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 8.
+- 2012-02-02 — Senate amendment not agreed to: Amendment SA 1473, under the order of 2/2/2012, not having achieved 67 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 60 - 39. Record Vote Number: 10.
+- 2012-02-02 — Senate amendment not agreed to: Amendment SA 1481, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 26 - 73. Record Vote Number: 13.
+- 2012-02-02 — Senate amendment not agreed to: Amendment SA 1484 not agreed to in Senate by Yea-Nay Vote. 37 - 61. Record Vote Number: 4.
+- 2012-02-02 — Senate amendment not agreed to: Amendment SA 1487, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 5.
+- 2012-02-02 — Senate amendment not agreed to: Amendment SA 1488, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 24 - 75. Record Vote Number: 11.
+- 2012-02-02 — Senate amendment not agreed to: Amendment SA 1500, under the order of 2/2/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 26 - 73. Record Vote Number: 9.
+- 2012-02-02 — Senate amendment proposed (on the floor): Amendment SA 1493 proposed by Senator Grassley to Amendment SA 1470.(consideration: CR S295-297, S308-309; text: CR S296)
+- 2012-02-02 — Senate amendment proposed (on the floor): Amendment SA 1505 proposed by Senator Gillibrand for Senator Portman to Amendment SA 1470.(consideration: CR S298-299, S302; text: CR S298)
+- 2012-02-02 — Senate amendment proposed (on the floor): Amendment SA 1510 proposed by Senator Collins for Senator Enzi to Amendment SA 1470.(consideration: CR S302; text: CR S302)
+- 2012-02-02 — Senate amendment proposed (on the floor): Amendment SA 1511 proposed by Senator Gillibrand for Senator Lieberman to Amendment SA 1470.(consideration: CR S298-299, S300-301; text: CR S298)
+- 2012-02-02 — Senate amendment submitted
