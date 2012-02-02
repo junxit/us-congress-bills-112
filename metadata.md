@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3567
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3567
@@ -20,9 +20,10 @@ WIN for Children and Families Act
 
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -41,3 +42,4 @@ WIN for Children and Families Act
 - 2012-02-01 — Mr. Boustany moved to suspend the rules and pass the bill, as amended.
 - 2012-02-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 27 (Roll no. 20). (text: CR H315)
 - 2012-02-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 27 (Roll no. 20).(text: CR H315)
+- 2012-02-02 — Received in the Senate and Read twice and referred to the Committee on Finance.

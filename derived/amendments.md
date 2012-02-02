@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3567
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+3 amendatory instructions. 1 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 609
+
+> Section 409(c)(4) of the Social Security Act (42 U.S.C. 609(c)(4)) is amended by striking “or (13)” and inserting “(13), or (16)”.
+
+| | |
+|---|---|
+| Removed | `or (13)` |
+| Inserted | `(13), or (16)` |
 
 ## Stated, not applied
 
@@ -31,6 +42,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 408(a) of the Social Security Act (42 U.S.C. 608(a)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 409(a) of the Social Security Act (42 U.S.C. 609(a)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 409(c)(4) of the Social Security Act (42 U.S.C. 609(c)(4)) is amended by striking “or (13)” and inserting “(13), or (16)”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 608` | add-at-end | Section 408(a) of the Social Security Act (42 U.S.C. 608(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 609` | add-at-end | Section 409(a) of the Social Security Act (42 U.S.C. 609(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
