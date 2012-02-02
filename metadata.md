@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 90
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 90
@@ -16,9 +16,10 @@ Authorizing the printing of the 25th edition of the pocket version of the United
 
 - Rep. Harper, Gregg [R-MS-3] (H001045)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Authorizing the printing of the 25th edition of the pocket version of the United
 - 2012-02-01 — Mr. Lungren, Daniel E. asked unanimous consent to discharge from committee and consider.
 - 2012-02-01 — On agreeing to the resolution Agreed to without objection. (text: CR H314)
 - 2012-02-01 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H314)
+- 2012-02-02 — Received in the Senate and referred to the Committee on Rules and Administration.
