@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1162
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -28,45 +28,31 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(A)** to resolve the longstanding dispute along portions of the northern boundary of the Quileute Indian Reservation;
     - **(B)** to clarify public use and access to Olympic National Park lands that are contiguous to the Reservation;
     - **(C)** to provide the Quileute Indian Tribe with approximately 275 acres of land currently located within the Park and approximately 510 acres of land along the Quillayute River, also within the Park;
-    - **(D)** to adjust the wilderness boundaries to provide the Quileute Indian Tribe Tsunami and flood protection;
-    - **(E)** through the land conveyance, to grant the Tribe access to land outside of tsunami and Quillayute River flood zones, and link existing Reservation land with Tribe land to the east of the Park; and
-    - **(F)** to add 4,100 acres of wilderness to the Park.
-- **(c)** *Designation of additional national park system land in Olympic National Park as wilderness or potential wilderness*
-  - **(1)** *Designation* In accordance with the Wilderness Act (16 U.S.C. 1131 et seq.), the following lands within Olympic National Park in the State of Washington are designated as wilderness or potential wilderness and incorporated in the Olympic Wilderness designated by section 101(a) of Public Law 100–668 (102 Stat. 3961):
-    - **(A)** Certain Federal land comprising approximately 4,100 acres as generally depicted on the Map entitled “Wilderness Boundary—Lake Crescent Addition, Olympic National Park, Washington”, numbered 149/60,471a, and dated May 2010, is hereby designated as wilderness. The boundary along Lake Crescent shall be set back a sufficient distance to allow management of the historic World War I Spruce Railroad grade as the Olympic Discovery Trail, and to allow for operation and maintenance of the existing county road. The World War II Pyramid Peak lookout shall be included in the wilderness and be managed and maintained as a historic structure.
-    - **(B)** Certain Federal land comprising approximately 11 acres as generally depicted on the Map entitled “Wilderness Boundary—Boulder Creek Addition, Olympic National Park, Washington”, numbered 149/60,470, and dated May 2009, is hereby designated as a potential wilderness addition.
-  - **(2)** *Management* Except as provided in paragraph (3), and subject to valid existing rights, the Secretary shall manage each area designated as wilderness or potential wilderness in accordance with the Wilderness Act (16 U.S.C. 1131 et seq.), except that any reference in the Wilderness Act to the effective date of the Wilderness Act shall be considered to be a reference to the date of enactment of this Act.
-  - **(3)** *Ecological restoration* For purposes of ecological restoration (including the elimination of nonnative species, removal of decommissioned roads, and any other activity necessary to restore the natural ecosystems in the potential wilderness area) and construction of a foot/stock trail, the Secretary may use motorized equipment and mechanized transport in the potential wilderness area until the date on which the potential wilderness area is incorporated into the Olympic Wilderness, whereupon wilderness minimum requirement practices shall be implemented in accordance with the Wilderness Act.
-  - **(4)** *Boulder creek addition wilderness designation* The Boulder Creek Addition, consisting of the Boulder Creek Trail and the Boulder Creek campground potential wilderness area, approximately 15 acres as shown on the Map titled “Wilderness Boundary—Boulder Creek Addition, Olympic National Park, Washington”, numbered 149/60,470, and dated May 2009, shall be designated as wilderness and incorporated in the Olympic Wilderness on the date on which the Secretary publishes notice in the Federal Register that conditions in the potential wilderness areas that are incompatible with the Wilderness Act (16 U.S.C. 1131 et seq.) have been removed.
-  - **(5)** *Map and legal description*
-    - **(A)** *Submission of map and legal description* As soon as practicable, after the date of enactment of this section, the Secretary shall file a map and legal description of each area designated as wilderness and potential wilderness by this subtitle with—
-      - **(i)** the Senate Committee on Energy and Natural Resources; and
-      - **(ii)** the House Committee on Natural Resources.
-    - **(B)** *Force and effect* The map and legal description filed under subparagraph (A) shall have the same force and effect as if included in this subtitle, except that the Secretary may correct any clerical or typographical errors in the map or legal description.
-    - **(C)** *Public availability* The map and legal description filed under subparagraph (A) shall be on file and available for public inspection in the Office of the Secretary.
-- **(d)** *Redesignation of Federal wilderness land, Olympic National Park conveyance*
+    - **(D)** to adjust the wilderness boundaries to provide the Quileute Indian Tribe Tsunami and flood protection; and
+    - **(E)** through the land conveyance, to grant the Tribe access to land outside of tsunami and Quillayute River flood zones, and link existing Reservation land with Tribe land to the east of the Park.
+- **(c)** *Redesignation of Federal wilderness land, Olympic National Park conveyance*
   - **(1)** *Redesignation of wilderness* Certain Federal land in the Park that was designated as part of the Olympic Wilderness under title I of the Washington Park Wilderness Act of 1988 (Public Law 100–668; 102 Stat. 3961; 16 U.S.C. 1132 note) and comprises approximately 222 acres, as generally depicted on the Map is hereby no longer designated as wilderness, and is no longer a component of the National Wilderness Preservation System under the Wilderness Act (16 U.S.C. 1131 et seq.).
   - **(2)** *Lands to be held in Trust* All right, title, and interest of the United States in and to the approximately 510 acres generally depicted on the Map as “Northern Lands”, and the approximately 275 acres generally depicted on the Map as “Southern Lands”, are declared to be held in trust by the United States for the benefit of the Tribe without any further action by the Secretary.
   - **(3)** *Boundary adjustment; survey* The Secretary shall—
     - **(A)** adjust the boundaries of Olympic Wilderness and the Park to reflect the change in status of Federal lands under paragraph (2); and
     - **(B)** as soon as practicable after the date of enactment of this section, conduct a survey, defining the boundaries of the Reservation and Park, and of the Federal lands taken into and held in trust that are adjacent to the north and south bank of the Quillayute River as depicted on the Map as “Northern Lands”.
   - **(4)** *Law applicable to certain land* The land taken into trust under this subsection shall not be subject to any requirements for valuation, appraisal, or equalization under any Federal law.
-- **(e)** *Non-Federal land conveyance* Upon completion and acceptance of an environmental hazard assessment, the Secretary shall take into trust for the benefit of the Tribe certain non-Federal land owned by the Tribe, consisting of approximately 184 acres, as depicted on the Map as “Eastern Lands”, such non-Federal land shall be designated as part of the Reservation.
-- **(f)** *Map requirements*
+- **(d)** *Non-Federal land conveyance* Upon completion and acceptance of an environmental hazard assessment, the Secretary shall take into trust for the benefit of the Tribe certain non-Federal land owned by the Tribe, consisting of approximately 184 acres, as depicted on the Map as “Eastern Lands”, such non-Federal land shall be designated as part of the Reservation.
+- **(e)** *Map requirements*
   - **(1)** *Availability of initial map* The Secretary shall make the Map available for public inspection in appropriate offices of the National Park Service. The Map shall also depict any non-Federal land currently owned by the Tribe which is being placed in trust under this section.
   - **(2)** *Revised map* Not later than one year after the date of the land transaction in subsections (d) and (e), the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and Committee on Natural Resources of the House of Representatives a revised map that depicts—
     - **(A)** the Federal and non-Federal land taken into trust under this section and the Second Beach Trail; and
     - **(B)** the actual boundaries of the Park as modified by the land conveyance.
-- **(g)** *Jurisdiction* The land conveyed to the Tribe by this section shall be designated as part of the Quileute Reservation and placed in the following jurisdictions:
-  - **(1)** *Trust land* The same Federal, State, and Tribe jurisdiction as on all other trust lands within the Reservation, so long as the exercise of such jurisdiction does not conflict with the terms of the easement described in subsection (h) below.
+- **(f)** *Jurisdiction* The land conveyed to the Tribe by this section shall be designated as part of the Quileute Reservation and placed in the following jurisdictions:
+  - **(1)** *Trust land* The same Federal, State, and Tribe jurisdiction as on all other trust lands within the Reservation, so long as the exercise of such jurisdiction does not conflict with the terms of the easement described in subsection (g) below.
   - **(2)** *Tribe jurisdiction* Park visitors shall remain subject to the jurisdiction of the Tribe while on the Second Beach parking lot, on those portions of the Second Beach Trail on the Reservation, and Rialto Spit, to the same extent that such visitors are subject to the Tribe’s jurisdiction elsewhere on the Reservation.
-- **(h)** *Grant of easement in connection with land conveyance*
-  - **(1)** *Easement required* The conveyances under subsection (d)(2) shall be subject to the conditions described in this subsection.
+- **(g)** *Grant of easement in connection with land conveyance*
+  - **(1)** *Easement required* The conveyances under subsection (c)(2) shall be subject to the conditions described in this subsection.
   - **(2)** *Required rights under easement* Any easement granted under this subsection must contain the following express terms:
     - **(A)** *No impact on existing rights* An easement shall not limit the Tribe’s treaty rights or other existing rights.
     - **(B)** *Retention of rights* The Tribe retains the right to enforce its rules against visitors for disorderly conduct, drug and alcohol use, use or possession of firearms, and other disruptive behaviors.
     - **(C)** *Monitoring of easement conditions* The Park has the right, with prior notice to the Tribe, to access lands conveyed to the Tribe for purposes of monitoring compliance with any easement made under this subsection.
-  - **(3)** *Exemption for subsection (e) land* The non-Federal land owned by the Tribe and being placed into trust by the Secretary in accordance with subsection (e) shall not be included in, or subject to, any easement or condition specified in this subsection.
+  - **(3)** *Exemption for subsection (d) land* The non-Federal land owned by the Tribe and being placed into trust by the Secretary in accordance with subsection (d) shall not be included in, or subject to, any easement or condition specified in this subsection.
   - **(4)** *Required terms and conditions* The following specified land areas shall be subject to the following easement conditions:
     - **(A)** *Conditions on northern land* Certain land that will be added to the northern boundary of the Reservation by the land conveyance, from Rialto Beach to the east line of Section 23, shall be subject to an easement, which shall contain the following requirements:
       - **(i)** The Tribe may lease or encumber the land, consistent with their status as trust lands, provided that the Tribe expressly subjects the conveyance or authorized use to the terms of the easement.
@@ -87,9 +73,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       - **(vii)** The Park officials and the Tribe shall negotiate an agreement for the design, location, construction, and maintenance of a gathering structure in the Second Beach headlands overlook for the benefit of Park visitors and the Tribe, if such a structure is proposed to be built.
     - **(C)** *Southern lands exempt* All other land conveyed to the Tribe along the southern boundary of the Reservation under this section shall not be subject to any easements or conditions, and the natural conditions of such land may be altered to allow for the relocation of Tribe members and structures outside the tsunami and Quillayute River flood zones.
     - **(D)** *Protection of infrastructure* Nothing in this Act is intended to require the modification of the parklands and resources adjacent to the transferred Federal lands. The Tribe shall be responsible for developing its lands in a manner that reasonably protects its property and facilities from adjacent parklands by locating buildings and facilities an adequate distance from parklands to prevent damage to these facilities from such threats as hazardous trees and wildfire.
-- **(i)** *Effect of Land Conveyance on Claims*
+- **(h)** *Effect of Land Conveyance on Claims*
   - **(1)** *Claims extinguished* Upon the date of the land conveyances under subsections (d) and (e) and the placement of conveyed lands into trust for the benefit of the Tribe, any claims of the Tribe against the United States, the Secretary, or the Park relating to the Park’s past or present ownership, entry, use, surveys, or other activities are deemed fully satisfied and extinguished upon a formal Tribal Council resolution, including claims related to the following:
     - **(A)** *Land along quillayute river* The lands along the sections of the Quillayute River, starting east of the existing Rialto Beach parking lot to the east line of Section 22.
     - **(B)** *Second beach* The portions of the Federal or Tribal lands near Second Beach.
     - **(C)** *Southern boundary portions* Portions of the Federal or Tribal lands on the southern boundary of the Reservation.
   - **(2)** *Rialto beach* Nothing in this section shall create or extinguish claims of the Tribe relating to Rialto Beach.
+- **(i)** *Gaming prohibition* No land taken into trust for the benefit of the Tribe under this Act shall be considered Indian lands for the purpose of the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.).
