@@ -1,7 +1,7 @@
 ---
 measure: H.R. 347
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 347
@@ -25,9 +25,10 @@ Federal Restricted Buildings and Grounds Improvement Act of 2011
 - House — Judiciary Committee
 - Senate — Judiciary Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2011-02-28 — [House 112-1-149](votes/house-112-1-0149.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (399–3)
+- 2012-02-27 — [House 112-2-73](votes/house-112-2-0073.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (388–3)
 
 ## Actions
 
@@ -56,3 +57,16 @@ Federal Restricted Buildings and Grounds Improvement Act of 2011
 - 2011-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 235.
 - 2012-02-06 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S358; text as passed Senate: CR S358)
 - 2012-02-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S358; text as passed Senate: CR S358)
+- 2012-02-07 — Message on Senate action sent to the House.
+- 2012-02-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2012-02-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-02-27 — Mr. Smith (TX) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H953-954, H954-955)
+- 2012-02-27 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 388 - 3 (Roll no. 73). (text as House agreed to Senate amendment: CR H953)
+- 2012-02-27 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 388 - 3 (Roll no. 73).(text as House agreed to Senate amendment: CR H953)
+- 2012-02-27 — The House proceeded with forty minutes of debate on the motion to agree in the Senate amendment to H.R. 347.
+- 2012-03-01 — Presented to President.
+- 2012-03-01 — Presented to President.
+- 2012-03-08 — Became Public Law No: 112-98.
+- 2012-03-08 — Became Public Law No: 112-98.
+- 2012-03-08 — Signed by President.
+- 2012-03-08 — Signed by President.
