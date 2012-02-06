@@ -1,7 +1,7 @@
 ---
 measure: S. 1408
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1408
@@ -25,3 +25,7 @@ Data Breach Notification Act of 2011
 - 2011-07-22 — Introduced in Senate
 - 2011-07-22 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S4847-4849)
 - 2011-07-22 — Sponsor introductory remarks on measure. (CR S4846-4847)
+- 2011-09-22 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-02-06 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2012-02-06 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2012-02-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 310.
