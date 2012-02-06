@@ -1,7 +1,7 @@
 ---
 measure: H.R. 347
 congress: 112
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 347
@@ -54,3 +54,5 @@ Federal Restricted Buildings and Grounds Improvement Act of 2011
 - 2011-11-17 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2011-11-17 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2011-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 235.
+- 2012-02-06 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S358; text as passed Senate: CR S358)
+- 2012-02-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S358; text as passed Senate: CR S358)
