@@ -1,7 +1,7 @@
 ---
 measure: H.R. 306
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 306
@@ -45,3 +45,9 @@ Corolla Wild Horses Protection Act
 - 2011-12-01 — Placed on the Union Calendar, Calendar No. 210.
 - 2011-12-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-310.
 - 2011-12-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-310.
+- 2012-02-06 — Considered under suspension of the rules. (consideration: CR H480-481)
+- 2012-02-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 306.
+- 2012-02-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-02-06 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2012-02-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H480)
+- 2012-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H480)
