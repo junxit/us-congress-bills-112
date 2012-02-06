@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1162
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1162
@@ -20,6 +20,10 @@ To provide the Quileute Indian Tribe Tsunami and Flood Protection, and for other
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2012-02-06 — [House 112-2-35](votes/house-112-2-0035.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (381–7)
+
 ## Actions
 
 - 2011-03-17 — Introduced in House
@@ -36,3 +40,11 @@ To provide the Quileute Indian Tribe Tsunami and Flood Protection, and for other
 - 2012-02-03 — Placed on the Union Calendar, Calendar No. 265.
 - 2012-02-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-387.
 - 2012-02-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-387.
+- 2012-02-06 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Hastings (WA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2012-02-06 — Considered as unfinished business. (consideration: CR H489-490)
+- 2012-02-06 — Considered under suspension of the rules. (consideration: CR H483-485)
+- 2012-02-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1162.
+- 2012-02-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-02-06 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2012-02-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 7 (Roll no. 35). (text: CR H483-484)
+- 2012-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 7 (Roll no. 35).(text: CR H483-484)

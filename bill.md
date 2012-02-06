@@ -9,7 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To provide the Quileute Indian Tribe Tsunami and Flood Protection, and for other purposes.
 
-## § 1. Olympic National Park — Quileute Tribe
+## § 1. Olympic National Park—Quileute Tribe
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Map* The term Map means the map entitled “Olympic National Park and Quileute Reservation Boundary Adjustment Map”, numbered 149/80,059, and dated June 2010.
