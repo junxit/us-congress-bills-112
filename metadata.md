@@ -1,7 +1,7 @@
 ---
 measure: S. 1813
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1813
@@ -30,3 +30,7 @@ MAP-21
 
 - 2011-11-07 — Introduced in Senate
 - 2011-11-07 — Read twice and referred to the Committee on Environment and Public Works.
+- 2011-11-09 — Committee on Environment and Public Works. Ordered to be reported with amendments favorably.
+- 2012-02-06 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. Without written report.
+- 2012-02-06 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. Without written report.
+- 2012-02-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 311.

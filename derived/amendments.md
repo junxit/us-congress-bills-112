@@ -1,7 +1,7 @@
 ---
 measure: S. 1813
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-315 amendatory instructions. 0 executed, 315 stated and not applied.
+318 amendatory instructions. 0 executed, 318 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -56,6 +56,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 101(c) of title 23, United States Code, is amended by striking “system” and inserting “highway”. | the bill names no machine-readable US Code section |
 | — | amend | Section 103 of title 23, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | repeal | The National Network designated under the Surface Transportation Assistance Act of 1982 (Public Law 97–424; 96 Stat. 2119) is repealed. | the bill names no machine-readable US Code section |
+| — | replace | Section 1105(e)(5)(A) of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 2032; 109 Stat. 597) is amended by striking “and subsections (c)(18) and (c)(20)” and inserting “, in subsections (c)(18) and (c)(20), and i… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1105(e)(5)(C)(i) of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 2032; 109 Stat. 598) is amended by adding at the end the following: “The routes referred to subparagraphs (A)(iii) and (B)(i) of subsecti… | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 1 of title 23, United States Code, is amended by striking the item relating to section 103 and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a) by striking “the Federal-aid systems” and inserting “Federal-aid highways”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), in the first sentence, by striking “of the Federal-aid systems” and inserting “Federal-aid highway”. | the bill names no machine-readable US Code section |
@@ -208,6 +210,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “shoulder and centerline rumble strips and stripes,” after “pavement marking,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Federal-aid systems” and inserting “Federal-aid programs”; | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding paragraph (1) by striking “on such highway” and inserting “on the system”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) by striking “within 180 days after the actual occurrence of the natural disaster or catastrophic failure may amount to 100 percent of the costs thereof” and inserting “, beginning for fiscal year 2012, in such time perio… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking “forest highways, forest development roads and trails, park roads and trails, parkways, public lands highways, public lands development roads and trails, and Indian reservation roads” and inserting “Federal l… | the bill names no machine-readable US Code section |
 | — | strike | by striking the second and third sentences; | the bill names no machine-readable US Code section |
 | — | redesignate | by striking subsection (g) and redesignating subsections (h) through (l) as subsections (g) through (k), respectively; | the bill names no machine-readable US Code section |
@@ -253,7 +256,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subsection (i) as subsection (e); | the bill names no machine-readable US Code section |
 | — | strike | by striking subsections (j) and (k); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (l) as subsection (f); | the bill names no machine-readable US Code section |
-| — | replace | in subsection (e) (as so redesignated) by striking “this section” the second place it appears and inserting “section 104(b)(3)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e) (as so redesignated) by striking “this section”the second place it appearsthe second place it appears and inserting “section 104(b)(3)”; and | the bill names no machine-readable US Code section |
 | — | redesignate | in subsection (f) (as so redesignated) by striking paragraphs (3) and (4). | the bill names no machine-readable US Code section |
 | — | replace | by striking “motor vehicles (other than rail)” and inserting “buses”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “(hereafter in this section referred to as buses)”; | the bill names no machine-readable US Code section |
