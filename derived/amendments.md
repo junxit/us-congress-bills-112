@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3582
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Part A of title IV of the Congressional Budget Act of 1974 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents set forth in section 1(b) of the Congressional Budget Act of 1974 is amended by inserting after the item relating to section 406 the following new item: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 202(e) of the Congressional Budget Act of 1974 is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| `31 U.S.C. § 1105` | add-at-end | Section 202(e) of the Congressional Budget Act of 1974 is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

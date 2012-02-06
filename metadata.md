@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3582
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3582
@@ -85,10 +85,11 @@ Pro-Growth Budgeting Act of 2012
 - Rep. Hayworth, Nan A. S. [R-NY-19] (H001054)
 - Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
 
-## Committees (2)
+## Committees (3)
 
 - House — Rules Committee
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (7)
 
@@ -193,3 +194,4 @@ Pro-Growth Budgeting Act of 2012
 - 2012-02-02 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H417)
 - 2012-02-02 — The previous question was ordered without objection. (consideration: CR H417)
 - 2012-02-02 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2012-02-06 — Received in the Senate and Read twice and referred to the Committee on the Budget.
