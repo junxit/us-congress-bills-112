@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 3902
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3902
+
+> To amend the District of Columbia Home Rule Act to revise the timing of special elections for local office in the District of Columbia.
+
+## § 1. Short title
+
+This Act may be cited as the “District of Columbia Special Election Reform Act”.
+
+## § 2. Timing of special elections for local office in District of Columbia
+
+- **(a)** *Council*
+  - **(1)** *Chair* The first sentence of section 401(b)(3) of the District of Columbia Home Rule Act (sec. 1–204.01(b)(3), D.C. Official Code) is amended to read as follows: “To fill a vacancy in the Office of Chairman, the Board of Elections shall hold a special election in the District on the Tuesday occurring at least 70 days and not more than 174 days after the date on which such vacancy occurs which the Board of Elections determines, based on a totality of the circumstances, taking into account, inter alia, cultural and religious holidays and the administrability of the election, will provide the largest opportunity for voter participation.”.
+  - **(2)** *Members elected from wards* The first sentence of section 401(d)(1) of such Act (sec. 1–204.01(d)(1), D.C. Official Code) is amended to read as follows: “In the event of a vacancy in the Council of a member elected from a ward, the Board of Elections shall hold a special election in the District on the Tuesday occurring at least 70 days and not more than 174 days after the date on which such vacancy occurs which the Board of Elections determines, based on a totality of the circumstances, taking into account, inter alia, cultural and religious holidays and the administrability of the election, will provide the largest opportunity for voter participation.”.
+  - **(3)** *Members elected at-large* The second sentence of section 401(d)(2) of such Act (sec. 1–204.01(d)(2)) is amended by striking “and such special election” and all that follows and inserting the following: “and such special election shall be held on the Tuesday occurring at least 70 days and not more than 174 days after the date on which such vacancy occurs which the Board of Elections determines, based on a totality of the circumstances, taking into account, inter alia, cultural and religious holidays and the administrability of the election, will provide the largest opportunity for voter participation.”.
+- **(b)** *Mayor* The first sentence of section 421(c)(2) of such Act (sec. 1–204.21(c)(2), D.C. Official Code) is amended to read as follows: “To fill a vacancy in the Office of Mayor, the Board of Elections shall hold a special election in the District on the Tuesday occurring at least 70 days and not more than 174 days after the date on which such vacancy occurs which the Board of Elections determines, based on a totality of the circumstances, taking into account, inter alia, cultural and religious holidays and the administrability of the election, will provide the largest opportunity for voter participation.”.
+- **(c)** *Attorney General* The first sentence of section 435(b)(1) of such Act (sec. 1–204.35(b)(1), D.C. Official Code) is amended by striking “the Board” and all that follows and inserting the following: “the Board of Elections shall hold a special election in the District on the Tuesday occurring at least 70 days and not more than 174 days after the date on which such vacancy occurs which the Board of Elections determines, based on a totality of the circumstances, taking into account, inter alia, cultural and religious holidays and the administrability of the election, will provide the largest opportunity for voter participation.”.
+
+## § 3. Effective date
+
+The amendments made by section 2 shall apply with respect to vacancies occurring on or after the enactment of this Act.
