@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3578
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3578
@@ -41,9 +41,10 @@ Baseline Reform Act of 2012
 - Rep. Kline, John [R-MN-2] (K000363)
 - Rep. Huelskamp, Tim [R-KS-1] (H001057)
 
-## Committees (1)
+## Committees (2)
 
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (2)
 
@@ -74,3 +75,4 @@ Baseline Reform Act of 2012
 - 2012-02-03 — On passage Passed by the Yeas and Nays: 235 - 177 (Roll no. 32). (text: CR 2/02/2012 H419-420)
 - 2012-02-03 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 235 - 177 (Roll no. 32).(text: CR 2/02/2012 H419-420)
 - 2012-02-03 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H457)
+- 2012-02-06 — Received in the Senate and Read twice and referred to the Committee on the Budget.

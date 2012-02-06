@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3578
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | amend | Section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 202(e) of the Congressional Budget Act of 1974 is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| `31 U.S.C. § 1105` | add-at-end | Section 202(e) of the Congressional Budget Act of 1974 is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
