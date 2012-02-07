@@ -1,13 +1,13 @@
 ---
 legis-num: S. 1925
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1925
 
-> To reauthorize the Violence Against Women Act of 1994
+> To reauthorize the Violence Against Women Act of 1994.
 
 ## § 1. Short title
 
