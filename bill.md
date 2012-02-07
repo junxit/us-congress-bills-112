@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1142
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -26,7 +26,7 @@ This Act may be cited as the “Geothermal Exploration and Technology Act of 201
     - **(A)** the potential for unproven geothermal resources that would be explored and developed under a project;
     - **(B)** the expertise and experience of an applicant in developing geothermal resources; and
     - **(C)** the importance of the project in meeting the goals of the Department of Energy.
-  - **(2)** *Preference* In selecting applicants for loans under this section to carry out projects under the program, the Secretary shall provide a preference for previously unexplored, underexplored, or unproven geothermal resources in a variety of geologic and geographic settings.
+  - **(2)** *Preference* In selecting applicants for loans under this section to carry out projects under the program, the Secretary shall provide a preference for previously unexplored, underexplored, or unproven geothermal resources in a variety of geologic and geographic settingsprojects likely to lead to successful new geothermal development leading to electricity production.
 - **(e)** *Data sharing* Data from all exploratory wells that are carried out under the program shall be provided to the Secretary and the Secretary of the Interior for use in mapping national geothermal resources and other uses, including—
   - **(1)** subsurface geologic data;
   - **(2)** metadata;
@@ -49,6 +49,9 @@ This Act may be cited as the “Geothermal Exploration and Technology Act of 201
 - **(h)** *Geothermal Investment Fund*
   - **(1)** *Establishment of Fund* There is established in the Treasury of the United States a fund to be known as the “Geothermal Investment Fund”, to be administered by the Secretary, to be available without fiscal year limitation and not subject to appropriation, to carry out this section.
   - **(2)** *Transfers to Fund* The Fund shall consist of such amounts as are appropriated to the Fund under subsection (j).
+  - **(2)** *Transfers to Fund* The Fund shall consist of—
+    - **(A)** such amounts as are appropriated to the Fund under subsection (j); and
+    - **(B)** amounts repaid on loans under subsection (g)(3).
   - **(3)** *Prohibition* Amounts in the Fund may not be made available for any purpose other than a purpose described in paragraph (1).
   - **(4)** *Annual reports*
     - **(A)** *In general* Not later than 60 days after the end of each fiscal year beginning with fiscal year 2012, the Secretary of Energy shall submit to the the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the operation of the Fund during the fiscal year.
@@ -57,7 +60,16 @@ This Act may be cited as the “Geothermal Exploration and Technology Act of 201
       - **(ii)** A description of the expenditures made from the Fund for the fiscal year, including the purpose of the expenditures.
       - **(iii)** Recommendations for additional authorities to fulfill the purpose of the Fund.
       - **(iv)** A statement of the balance remaining in the Fund at the end of the fiscal year.
-- **(i)** *Guidelines* Not later than 180 days after the date of enactment of this Act, the Secretary shall develop guidelines for the implementation of the program.
+- **(i)** *Guidelines* Not later
+  - **(1)** *In general* Not later than 180 days after the date of enactment of this Act, the Secretary shall developissue guidelines for the implementation of the program.
+  - **(2)** *Administration* The guidelines shall—
+    - **(A)** specify—
+      - **(i)** the terms and conditions that would require a higher or lower level of cost sharing under this section;
+      - **(ii)** the conditions under which the Secretary will allow loan modifications or forgiveness in cases in which a well cannot be used for production or injection; and
+      - **(iii)** the information necessary to provide a loan applicant with certainty about application of subsection (f), including the level of cost and risk that the applicant and the Secretary will assume; and
+    - **(B)** require that—
+      - **(i)** loans be provided under this section only after the developer has committed the share of the developer for expenditures for drilling costs; and
+      - **(ii)** loans for successful wells shall to be repaid by the developer within a 10-year period.
 - **(j)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2012 through 2021.
 
 ## § 3. Large-Scale Geothermal Energy
@@ -80,9 +92,9 @@ Title VI of the Energy Independence and Security Act of 2007 is amended by inser
 >     - **(A)** heating to buildings; or
 >     - **(B)** heat required for industrial processes, agriculture, aquaculture, and other facilities.
 >   - **(2)** *Geothermal heat pump* The term geothermal heat pump means a system that provides heating and cooling by exchanging heat from shallow ground or surface water using—
->     - **(A)** a closed loop system, which transfers heat via buried or immersed pipes that contain a mix of water and antifreeze; or
+>     - **(A)** a closed loop system, which transfers heat viaby way of buried or immersed pipes that contain a mix of water and antifreeze; or
 >     - **(B)** an open loop system, which circulates ground or surface water directly into the building and returns the water to the same aquifer or surface water source.
->   - **(3)** *Large-scale application* The term large-scale application means an application for space or process heating or cooling for large entities, such as a large building, commercial district, residential community, or a large municipal, agricultural, or industrial project.
+>   - **(3)** *Large-scale application* The term large-scale application means an application for space or process heating or cooling for large entities with a name-plate capacity, expected resource, or rating of 10 or more megawatts, such as a large building, commercial district, residential community, or a large municipal, agricultural, or industrial project.
 >   - **(4)** *Secretary* The term Secretary means Secretary of Energy, acting through the Assistant Secretary for Energy Efficiency and Renewable Energy.
 > - **(d)** *Program*
 >   - **(1)** *In general* The Secretary shall establish a program of research, development, demonstration, and commercial application for geothermal heat pumps and the direct use of geothermal energy.
@@ -92,6 +104,8 @@ Title VI of the Energy Independence and Security Act of 2007 is amended by inser
 >     - **(C)** geothermal ground loop installation cost reduction through—
 >       - **(i)** improved drilling methods; and
 >       - **(ii)** improvements in drilling equipment;
+>       - **(iii)** improvements in design methodology and energy analysis procedures; and
+>       - **(iv)** improved methods for determination of ground thermal properties and ground temperatures;
 >     - **(D)** installing geothermal ground loops near the foundation walls of new construction to take advantage of existing structures;
 >     - **(E)** using gray or black wastewater as a method of heat exchange;
 >     - **(F)** improving geothermal heat pump system economics through integration of geothermal systems with other building systems, including providing hot and cold water and rejecting or circulating industrial process heat through refrigeration heat rejection and waste heat recovery;
