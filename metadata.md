@@ -1,7 +1,7 @@
 ---
 measure: S. 432
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 432
@@ -31,3 +31,7 @@ Lake Tahoe Restoration Act of 2011
 - 2011-03-02 — Introduced in Senate
 - 2011-03-02 — Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S1123-1128)
 - 2011-03-02 — Sponsor introductory remarks on measure. (CR S1121-1123)
+- 2011-12-08 — Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.
+- 2012-02-07 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 112-148.
+- 2012-02-07 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 112-148.
+- 2012-02-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 317.

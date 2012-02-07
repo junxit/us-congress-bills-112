@@ -1,7 +1,7 @@
 ---
 legis-num: S. 432
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -72,7 +72,7 @@ The Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 2351) is amended
 >     - **(E)** $249,000,000 from private interests;
 >   - **(22)** significant additional investment from Federal, State, local, and private sources is necessary—
 >     - **(A)** to restore and sustain the environmental health of the Lake Tahoe Basin;
->     - **(B)** to adapt to the impacts of changing climatic conditions; and
+>     - **(B)** to adapt to the impacts of changing climatic conditionswater temperature and precipitation; and
 >     - **(C)** to protect the Lake Tahoe Basin from the introduction and establishment of invasive species; and
 >   - **(23)** the Secretary has indicated that the Lake Tahoe Basin Management Unit has the capacity for at least $10,000,000 and up to $20,000,000 annually for the Fire Risk Reduction and Forest Management Program.
 > - **(b)** *Purposes* The purposes of this Act are—
@@ -143,7 +143,7 @@ Section 4 of the Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 235
   >         - **(I)** reducing forest fuels;
   >         - **(II)** maintaining or restoring biological diversity;
   >         - **(III)** improving wetland and water quality, including in Stream Environment Zones; and
-  >         - **(IV)** increasing resilience to changing climatic conditions; and
+  >         - **(IV)** increasing resilience to changing climatic conditionswater temperature and precipitation; and
   >       - **(ii)** helps achieve and maintain the environmental threshold carrying capacities established by the Planning Agency.
   >     - **(B)** *Exception* Notwithstanding clause (A)(i), the attainment of multiple ecosystem benefits shall not be required if the Secretary determines that management for multiple ecosystem benefits would excessively increase the cost of a project in relation to the additional ecosystem benefits gained from the management activity.
   >   - **(3)** *Ground disturbance* Consistent with applicable Federal law and Lake Tahoe Basin Management Unit land and resource management plan direction, the Secretary shall—
@@ -332,7 +332,7 @@ The Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 2351) is amended
   > - **(1)** develops and regularly updates an integrated multiagency programmatic assessment and monitoring plan—
   >   - **(A)** to evaluate the effectiveness of the Environmental Improvement Program;
   >   - **(B)** to evaluate the status and trends of indicators related to environmental threshold carrying capacities; and
-  >   - **(C)** to assess the impacts and risks of changing climatic conditions and invasive species;
+  >   - **(C)** to assess the impacts and risks of changing climatic conditionswater temperature and precipitation and invasive species;
   > - **(2)** develops a comprehensive set of performance measures for Environmental Improvement Program assessment;
   > - **(3)** coordinates the development of the annual report described in section 13;
   > - **(4)** produces and synthesizes scientific information necessary for—
@@ -346,7 +346,7 @@ The Lake Tahoe Restoration Act (Public Law 106–506; 114 Stat. 2351) is amended
   > - **(8)** establishes and maintains independent peer review processes—
   >   - **(A)** to evaluate the Environmental Improvement Program; and
   >   - **(B)** to assess the technical adequacy and scientific consistency of central environmental documents, such as the 5-year threshold review; and
-  > - **(9)** provides scientific and technical support for the development of appropriate management strategies to accommodate changing climatic conditions in the Lake Tahoe Basin.
+  > - **(9)** provides scientific and technical support for the development of appropriate management strategies to accommodate changing climatic conditionswater temperature and precipitation in the Lake Tahoe Basin.
   >
   > ## § 12. Public outreach and education
   >
