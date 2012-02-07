@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1734
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,4 +35,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the period at the end of paragraph (7) and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 33 of title 40, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The analysis for such chapter is amended by adding at the end: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for such chapter is amended by adding at the end: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3305 of title 40, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (7), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (8), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
