@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1149
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -27,15 +27,15 @@ Congress finds that—
 - **(5)** developers of geothermal energy on Federal land that have invested substantial capital and made high risk investments should be allowed to secure a discovery of geothermal energy resources; and
 - **(6)** successful geothermal development on Federal land will provide increased revenue to the Federal Government, with the payment of production royalties over decades.
 
-## § 3. Noncompetitive leasing of adjoining areas for development of geothermal resources
+## § 32. Noncompetitive leasing of adjoining areas for development of geothermal resources
 
 Section 4(b) of the Geothermal Steam Act of 1970 (30 U.S.C. 1003(b)) is amended by adding at the end the following:
 
 > - **(4)** *Adjoining land*
 >   - **(A)** *Definitions* In this paragraph:
 >     - **(i)** *Fair market value per acre* The term fair market value per acre means a dollar amount per acre that—
->       - **(I)** except as provided in this clause, shall be equal to the market value per acre as determined by the Secretary under regulations issued under this paragraph;
->       - **(II)** shall be determined by the Secretary with respect to a lease under this paragraph, by not later than the end of the 90-day period beginning on the date the Secretary receives an application for the lease; and
+>       - **(I)** except as provided in this clause, shall be equal to the market value per acre (taking into account the determination under subparagraph (B)(iii) regarding a valid discovery on the adjoining land) as determined by the Secretary under regulations issued under this paragraph;
+>       - **(II)** shall be determined by the Secretary with respect to a lease under this paragraph, by not later than the end of the 90-day180-day period beginning on the date the Secretary receives an application for the lease; and
 >       - **(III)** shall be not less than the greater of—
 >         - **(aa)** 4 times the median amount paid per acre for all land leased under this Act during the preceding year; or
 >         - **(bb)** $50.
@@ -60,4 +60,4 @@ Section 4(b) of the Geothermal Steam Act of 1970 (30 U.S.C. 1003(b)) is amended 
 >       - **(IV)** provide to the qualified lessee and any adversely affected party the opportunity to appeal the final determination of fair market value in an administrative proceeding before the applicable Federal land management agency, in accordance with applicable law (including regulations).
 >     - **(ii)** *Limitation on nomination* After publication of a notice of request to lease land under this paragraph, the Secretary may not accept under subsection (a) any nomination of the land for leasing unless the request has been denied or withdrawn.
 >     - **(iii)** *Annual rental* For purposes of section 5(a)(3), a lease awarded under this paragraph shall be considered a lease awarded in a competitive lease sale.
->   - **(D)** *Regulations* Not later than 180 days after the date of enactment of the Geothermal Production Expansion Act of 2011, the Secretary shall issue regulations to carry out this paragraph.
+>   - **(D)** *Regulations* Not later than 180270 days after the date of enactment of the Geothermal Production Expansion Act of 2011, the Secretary shall issue regulations to carry out this paragraph.

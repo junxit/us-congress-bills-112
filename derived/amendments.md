@@ -1,7 +1,7 @@
 ---
 measure: S. 1149
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 4(b) of the Geothermal Steam Act of 1970 (30 U.S.C. 1003(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 4(b) of the Geothermal Steam Act of 1970 (30 U.S.C. 1003(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
