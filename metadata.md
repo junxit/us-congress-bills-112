@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2606
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2606
@@ -38,3 +38,11 @@ New York City Natural Gas Supply Enhancement Act
 - 2012-01-23 — Placed on the Union Calendar, Calendar No. 254.
 - 2012-01-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-373.
 - 2012-01-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-373.
+- 2012-02-06 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Hastings (WA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2012-02-06 — Considered under suspension of the rules. (consideration: CR H481-483)
+- 2012-02-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2606.
+- 2012-02-06 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2012-02-07 — Considered as unfinished business. (consideration: CR H549)
+- 2012-02-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-02-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 2/6/2012 H481-482)
+- 2012-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 2/6/2012 H481-482)

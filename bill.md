@@ -17,12 +17,12 @@ This Act may be cited as the “New York City Natural Gas Supply Enhancement Act
 
 In this Act:
 
-- **(1)** *Entity* The term “entity” means an entity holding a permit issued under this Act.
+- **(1)** *Entity* The term entity means an entity holding a permit issued under this Act.
 - **(2)** *Lease* The term lease means an agreement that authorizes the occupancy and use of certain designated premises for facilities associated with the project, particularly a meter and regulating station.
 - **(3)** *Natural gas pipeline facilities* The term natural gas pipeline facilities means pipeline and related equipment necessary for the transmission and distribution of natural gas, such as meters and heating and pressure-regulating devices used in the transportation of natural gas.
 - **(4)** *Permit* The term permit means any permits, rights-of-way, or any other authorizations necessary for the Secretary to authorize the construction, operation, and maintenance of natural gas pipeline facilities in the Gateway National Recreation Area.
-- **(5)** *Project* The term “project” means the natural gas pipeline facilities within Gateway National Recreation Area, including the meter and regulating station to be located at Floyd Bennett Field, that are part of the Rockaway Delivery Lateral/Brooklyn Queens Interconnect Project, as further described in Federal Energy Regulatory Commission (FERC) Docket No. PF09-8, and including authorized revisions to the project.
-- **(6)** *Rent* The term “rent” means any payment to the Secretary pursuant to a lease for occupancy and use of designated premises to be made in such a manner and at such intervals as determined by the Secretary.
+- **(5)** *Project* The term project means the natural gas pipeline facilities within Gateway National Recreation Area, including the meter and regulating station to be located at Floyd Bennett Field, that are part of the Rockaway Delivery Lateral/Brooklyn Queens Interconnect Project, as further described in Federal Energy Regulatory Commission (FERC) Docket No. PF09–8, and including authorized revisions to the project.
+- **(6)** *Rent* The term rent means any payment to the Secretary pursuant to a lease for occupancy and use of designated premises to be made in such a manner and at such intervals as determined by the Secretary.
 - **(7)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the National Park Service.
 
 ## § 3. Permitting instruments for natural gas pipeline facilities
@@ -40,10 +40,11 @@ In this Act:
 The Secretary may enter into a non-competitive lease with any entity to allow the occupancy and use of buildings and associated properties on Floyd Bennett Field to house facilities associated with the project, particularly a meter and regulating station. Such lease shall—
 
 - **(1)** otherwise be subject to National Park Service leasing regulations;
-- **(2)** provide for the restoration and maintenance of the buildings and associated properties in accordance with the Secretary of the Interior’s Treatment Standards for Historic Property (36 CFR Part 68), Section 106 of the National Historic Preservation Act (36 CFR 800), and any programmatic agreements;
+- **(2)** provide for the restoration and maintenance of the buildings and associated properties in accordance with the Secretary of the Interior’s Treatment Standards for Historic Property (36 CFR Part 68), section 106 of the National Historic Preservation Act (36 CFR 800), and any programmatic agreements;
 - **(3)** provide for appropriate rent for occupancy and use of the property representing, at minimum but not limited to, fair market value; and
 - **(4)** provide for monetary penalties for violations of the lease.
 
-## § 5. Fees
+## § 5. Fees and rent
 
-Any fees and rent collected pursuant to this Act shall be deposited in the Treasury of the United States.
+- **(a)** *Fees* The Secretary shall retain the portion of any fee assessed under section 3(b)(3) that is equal to the costs incurred in processing and issuing the permit request and monitoring the permitted activities, and the balance of the fee shall be deposited in the Treasury of the United States.
+- **(b)** *Rent* Any rent collected pursuant to section 4 shall be deposited in a special account in the Treasury of the United States in accordance with section 3(k)(5) of Public Law 91–383 (16 U.S.C. 1a–2(k)(5)) and shall be available to the Secretary, without further appropriation and without fiscal year limitation, for infrastructure needs, resource protection, and visitor services at the Gateway National Recreation Area.
