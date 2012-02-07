@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1162
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1162
@@ -49,3 +49,12 @@ To provide the Quileute Indian Tribe Tsunami and Flood Protection, and for other
 - 2012-02-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 7 (Roll no. 35). (text: CR H483-484)
 - 2012-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 7 (Roll no. 35).(text: CR H483-484)
 - 2012-02-07 — Received in the Senate, read twice.
+- 2012-02-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S582)
+- 2012-02-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S582)
+- 2012-02-14 — Message on Senate action sent to the House.
+- 2012-02-16 — Presented to President.
+- 2012-02-16 — Presented to President.
+- 2012-02-27 — Became Public Law No: 112-97.
+- 2012-02-27 — Became Public Law No: 112-97.
+- 2012-02-27 — Signed by President.
+- 2012-02-27 — Signed by President.
