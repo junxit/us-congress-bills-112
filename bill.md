@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1108
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -76,5 +76,5 @@ In this Act:
   - **(1)** *Report Regarding Additional Recommendations* Not later than 270 days after the date of enactment of this Act, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that contains additional recommendations that the Secretary determines to be necessary to achieve each goal described in subsection (g).
   - **(2)** *Report regarding progress of grant recipients* Not later than 2 years after the date on which funds are first made available under this section, the Secretary shall submit to the appropriate committees of Congress a report that contains a description of the progress of grant recipients under this section in implementing and maintaining best practices for solar permitting.
 - **(i)** *Funding*
-  - **(1)** *In general* Of the amounts authorized to be appropriated under section 641(p)(3) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17231(p)(3)), the Secretary may use to carry out this section $50,000,000 for each of fiscal years 2012 through 2016.
+  - **(1)** *In general* Of the amounts authorized to be appropriated under section 641(p)(3) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17231(p)(3))section 399A(i)(1) of the Energy Policy and Conservation Act (42 U.S.C. 6371h–1(i)(1)), the Secretary may use to carry out this section $50,000,000 for each of fiscal years 2012 through 2016.
   - **(2)** *Termination* Paragraph (1) shall terminate on October 1, 2016.
