@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3521
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,11 +31,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | Title X of the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 621 et seq.) is amended by striking all of part B (except for sections 1015, 1016, and 1013, which are redesignated as sections 1017, 1018, and 1019, respe… | the bill names no machine-readable US Code section |
+| — | redesignate | Title X of the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 621 et seq.) is amended by striking all of part B (except for sections 1015, 1016, and 1013, which are transferred and redesignated as sections 1017, 1018,… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “1017” and inserting “1013”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d), by striking “section 1017” and inserting “section 1013”. | the bill names no machine-readable US Code section |
-| — | amend | The last sentence of section 1(a) of the Congressional Budget and Impoundment Control Act of 1974 is amended to read as follows: “Sections 1011 through 1016 of part B of title X may be cited as the Expedited Line-Item Veto and Rescission… | the bill names no machine-readable US Code section |
-| — | replace | Section 1017 of such Act (as redesignated) is amended by striking “section 1012 or 1013” each place it appears and inserting “section 1011 or 1019” and by striking “calendar” and “of continuous session” . | the bill names no machine-readable US Code section |
+| — | amend | The last sentence of section 1(a) of the Congressional Budget and Impoundment Control Act of 1974 is amended to read as follows: “Sections 1011 through 1016 of part B of title X may be cited as the Expedited Legislative Line-Item Veto an… | the bill names no machine-readable US Code section |
+| — | replace | Section 1017 of such Act (as redesignated) is amended by striking “section 1012 or 1013” each place it appears and inserting “section 1011 or 1019” and section 1018 (as redesignated) is amended by striking “calendar” and “of continuous s… | the bill names no machine-readable US Code section |
 | — | replace | Section 1019(c) of such Act (as redesignated) is amended by striking “1012” and inserting “1011”. | the bill names no machine-readable US Code section |
 | — | replace | The table of contents set forth in section 1(b) of the Congressional Budget and Impoundment Control Act of 1974 is amended by striking the items relating to parts B and C (including all of the items relating to the sections therein) of t… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (b) through (e) as subsections (c) through (f) and by inserting after subsection (a) the following new subsection: | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3521
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Expedited Line-Item Veto and Rescissions Act of 2011” .
+This Act may be cited as the “Expedited Legislative Line-Item Veto and Rescissions Act of 2012” .
 
 ## § 2. Congressional consideration of proposed rescissions and deferrals of budget authority and obligation limitations
 
-- **(a)** *In General* Title X of the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 621 et seq.) is amended by striking all of part B (except for sections 1015, 1016, and 1013, which are redesignated as sections 1017, 1018, and 1019, respectively) and part C and inserting the following:
+Title X of the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 621 et seq.) is amended by striking all of part B (except for sections 1015, 1016, and 1013, which are transferred and redesignated as sections 1017, 1018, and 1019, respectively) and part C and by inserting after part A the following:
 
 ## § 3. Technical and conforming amendments
 
@@ -23,8 +23,8 @@ This Act may be cited as the “Expedited Line-Item Veto and Rescissions Act of 
   - **(1)** in subsection (a), by striking “1017” and inserting “1013”; and
   - **(2)** in subsection (d), by striking “section 1017” and inserting “section 1013”.
 - **(b)** *Clerical Amendments*
-  - **(1)** The last sentence of section 1(a) of the Congressional Budget and Impoundment Control Act of 1974 is amended to read as follows: “Sections 1011 through 1016 of part B of title X may be cited as the “Expedited Line-Item Veto and Rescissions Act of 2011”.”.
-  - **(2)** Section 1017 of such Act (as redesignated) is amended by striking “section 1012 or 1013” each place it appears and inserting “section 1011 or 1019” and by striking “calendar” and “of continuous session” .
+  - **(1)** The last sentence of section 1(a) of the Congressional Budget and Impoundment Control Act of 1974 is amended to read as follows: “Sections 1011 through 1016 of part B of title X may be cited as the “Expedited Legislative Line-Item Veto and Rescissions Act of 2012”.”.
+  - **(2)** Section 1017 of such Act (as redesignated) is amended by striking “section 1012 or 1013” each place it appears and inserting “section 1011 or 1019” and section 1018 (as redesignated) is amended by striking “calendar” and “of continuous session” .
   - **(3)** Section 1019(c) of such Act (as redesignated) is amended by striking “1012” and inserting “1011”.
   - **(4)** *Table of Contents* The table of contents set forth in section 1(b) of the Congressional Budget and Impoundment Control Act of 1974 is amended by striking the items relating to parts B and C (including all of the items relating to the sections therein) of title X and inserting the following:
 - **(c)** *Effective Date* The amendments made by this Act shall apply to funding as defined in section 1015(8) of the Congressional Budget Act and Impoundment Control of 1974 in any Act enacted after the date of enactment of this Act.
