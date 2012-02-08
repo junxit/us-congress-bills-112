@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3336
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | replace | Section 1a(49)(A) of the Commodity Exchange Act (7 U.S.C. 1a(49)(A)) is amended by striking all that follows clause (iv) and inserting the following flush language: | the bill names no machine-readable US Code section |
+| — | amend | Section 2(h)(7)(C)(ii) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(C)(ii)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 1a(49)(A) of the Commodity Exchange Act (7 U.S.C. 1a(49)(A)) is amended by striking all that follows clause (iv) and inserting the following flush language: | the bill names no machine-readable US Code section |
 | — | amend | Section 2(h)(7)(C)(ii) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(C)(ii)) is amended to read as follows: | the bill names no machine-readable US Code section |
