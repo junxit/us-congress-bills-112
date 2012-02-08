@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2682
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,4 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 4s(e) of the Commodity Exchange Act (7 U.S.C. 6s(e)), as added by section 731 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 15F(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–10(e)), as added by section 764(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 4s(e) of the Commodity Exchange Act (7 U.S.C. 6s(e)), as added by section 731 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 15F(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–10(e)), as added by section 764(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
