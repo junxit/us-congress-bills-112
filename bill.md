@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2586
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,7 +19,7 @@ This Act may be cited as the “Swap Execution Facility Clarification Act”.
   - **(1)** by striking “The term” and inserting the following:
     > - **(A)** *In general* The term
 
-  - **(2)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively; and
+  - **(2)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively (and by moving the margins 2 ems to the right); and
   - **(3)** by adding at the end the following:
     > - **(B)** *Interpretation* In interpreting or further defining the term swap execution facility, the Commission shall not require a swap execution facility to—
     >   - **(i)** have a minimum number of participants receive a bid or offer or respond to any trading system or platform functionality;
@@ -31,10 +31,10 @@ This Act may be cited as the “Swap Execution Facility Clarification Act”.
   - **(1)** by striking “The term” and inserting the following:
     > - **(A)** *In general* The term
 
-  - **(2)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively; and
+  - **(2)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively (and by moving the margins 2 ems to the right); and
   - **(3)** by adding at the end the following:
     > - **(B)** *Interpretation* In interpreting or further defining the term security-based swap execution facility, the Commission shall not require a security-based swap execution facility to—
     >   - **(i)** have a minimum number of participants receive a bid or offer or respond to any trading system or platform functionality;
     >   - **(ii)** display or delay bids or offers for any period of time;
-    >   - **(iii)** limit the means of interstate commerce utilized by market participants to enter into and execute any security-based swap transactions on the trading system or platform; or
-    >   - **(iv)** require bids or offers on one trading system or platform operated by the swap execution facility to interact with bids or offers on another trading system or platform operated by the swap execution facility.
+    >   - **(iii)** limit the means of interstate commerce utilized by market participants to enter into and execute any security-based swap transactions on the ‘method of trading functionality; or
+    >   - **(iv)** require bids or offers on one trading system or platform operated by the swap execution facility to interact with bids or offers on another method of trading functionality operated by the swap execution facility.
