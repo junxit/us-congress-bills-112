@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3864
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
