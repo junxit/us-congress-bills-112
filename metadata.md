@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2606
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2606
@@ -21,9 +21,10 @@ New York City Natural Gas Supply Enhancement Act
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 - Rep. Turner, Robert L. [R-NY-9] (T000471)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ New York City Natural Gas Supply Enhancement Act
 - 2012-02-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-02-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 2/6/2012 H481-482)
 - 2012-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 2/6/2012 H481-482)
+- 2012-02-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
