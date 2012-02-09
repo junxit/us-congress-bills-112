@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3407
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | repeal | Section 1003 of the Alaska National Interest Lands Conservation Act of 1980 (16 U.S.C. 3143) is repealed. | the bill names no machine-readable US Code section |
+| — | repeal | Section 1003 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3143) is repealed. | the bill names no machine-readable US Code section |
 | — | strike | The table of contents in section 1 of such Act is amended by striking the item relating to section 1003. | the bill names no machine-readable US Code section |

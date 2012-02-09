@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3407
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,7 +19,7 @@ In this Act:
 
 - **(1)** *Coastal plain* The term “Coastal Plain” means that area described in appendix I to part 37 of title 50, Code of Federal Regulations.
 - **(2)** *Peer reviewed* The term “peer reviewed” means reviewed—
-  - **(A)** by individuals chosen by the National Academy of Sciences with no contractual relationship with or those who have an application for a grant or other funding pending with the Federal agency with leasing jurisdiction; or
+  - **(A)** by individuals chosen by the National Academy of Sciences with no contractual relationship with, or those who have no application for a grant or other funding pending with, the Federal agency with leasing jurisdiction; or
   - **(B)** if individuals described in subparagraph (A) are not available, by the top individuals in the specified biological fields, as determined by the National Academy of Sciences.
 - **(3)** *Secretary* The term “Secretary”, except as otherwise provided, means the Secretary of the Interior or the Secretary’s designee.
 
@@ -29,11 +29,11 @@ In this Act:
   - **(1)** to establish and implement, in accordance with this Act and acting through the Director of the Bureau of Land Management in consultation with the Director of the United States Fish and Wildlife Service, a competitive oil and gas leasing program that will result in the exploration, development, and production of the oil and gas resources of the Coastal Plain; and
   - **(2)** to administer the provisions of this Act through regulations, lease terms, conditions, restrictions, prohibitions, stipulations, and other provisions that ensure the oil and gas exploration, development, and production activities on the Coastal Plain will result in no significant adverse effect on fish and wildlife, their habitat, subsistence resources, and the environment, including, in furtherance of this goal, by requiring the application of the best commercially available technology for oil and gas exploration, development, and production to all exploration, development, and production operations under this Act in a manner that ensures the receipt of fair market value by the public for the mineral resources to be leased.
 - **(b)** *Repeal of existing restriction*
-  - **(1)** *Repeal* Section 1003 of the Alaska National Interest Lands Conservation Act of 1980 (16 U.S.C. 3143) is repealed.
+  - **(1)** *Repeal* Section 1003 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3143) is repealed.
   - **(2)** *Conforming amendment* The table of contents in section 1 of such Act is amended by striking the item relating to section 1003.
 - **(c)** *Compliance with requirements under certain other laws*
   - **(1)** *Compatibility* For purposes of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.), the oil and gas leasing program and activities authorized by this section in the Coastal Plain are deemed to be compatible with the purposes for which the Arctic National Wildlife Refuge was established, and no further findings or decisions are required to implement this determination.
-  - **(2)** *Adequacy of the Department of the Interior’s legislative environmental impact statement* The “Final Legislative Environmental Impact Statement” (April 1987) on the Coastal Plain prepared pursuant to section 1002 of the Alaska National Interest Lands Conservation Act of 1980 (16 U.S.C. 3142) and section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)) is deemed to satisfy the requirements under the National Environmental Policy Act of 1969 that apply with respect to prelease activities under this Act, including actions authorized to be taken by the Secretary to develop and promulgate the regulations for the establishment of a leasing program authorized by this Act before the conduct of the first lease sale.
+  - **(2)** *Adequacy of the Department of the Interior’s legislative environmental impact statement* The “Final Legislative Environmental Impact Statement” (April 1987) on the Coastal Plain prepared pursuant to section 1002 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3142) and section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)) is deemed to satisfy the requirements under the National Environmental Policy Act of 1969 that apply with respect to prelease activities under this Act, including actions authorized to be taken by the Secretary to develop and promulgate the regulations for the establishment of a leasing program authorized by this Act before the conduct of the first lease sale.
   - **(3)** *Compliance with NEPA for other actions* Before conducting the first lease sale under this Act, the Secretary shall prepare an environmental impact statement under the National Environmental Policy Act of 1969 with respect to the actions authorized by this Act that are not referred to in paragraph (2). Notwithstanding any other law, the Secretary is not required to identify nonleasing alternative courses of action or to analyze the environmental effects of such courses of action. The Secretary shall only identify a preferred action for such leasing and a single leasing alternative, and analyze the environmental effects and potential mitigation measures for those two alternatives. The identification of the preferred action and related analysis for the first lease sale under this Act shall be completed within 18 months after the date of enactment of this Act. The Secretary shall only consider public comments that specifically address the Secretary’s preferred action and that are filed within 20 days after publication of an environmental analysis. Notwithstanding any other law, compliance with this paragraph is deemed to satisfy all requirements for the analysis and consideration of the environmental effects of proposed leasing under this Act.
 - **(d)** *Relationship to State and local authority* Nothing in this Act shall be considered to expand or limit State and local regulatory authority.
 - **(e)** *Special areas*
@@ -78,8 +78,16 @@ In this Act:
   - **(7)** provide that the lessee, its agents, and its contractors use best efforts to provide a fair share, as determined by the level of obligation previously agreed to in the 1974 agreement implementing section 29 of the Federal Agreement and Grant of Right of Way for the Operation of the Trans-Alaska Pipeline, of employment and contracting for Alaska Natives and Alaska Native corporations from throughout the State;
   - **(8)** prohibit the export of oil produced under the lease; and
   - **(9)** contain such other provisions as the Secretary determines necessary to ensure compliance with this Act and the regulations issued under this Act.
+- **(b)** *Negotiated labor agreements* The Secretary, as a term and condition of each lease under this Act, shall require that the lessee and its agents and contractors negotiate to obtain an agreement for the employment of laborers and mechanics on production, maintenance, and construction under the lease.
 
-## § 7. Coastal Plain environmental protection
+## § 7. Policies regarding buying, building, and working for America
+
+- **(a)** *Congressional intent* It is the intent of the Congress that—
+  - **(1)** this Act will support a healthy and growing United States domestic energy sector that, in turn, helps to reinvigorate American manufacturing, transportation, and service sectors by employing the vast talents of United States workers to assist in the development of energy from domestic sources; and
+  - **(2)** Congress will monitor the deployment of personnel and material onshore and offshore to encourage the development of American technology and manufacturing to enable United States workers to benefit from this Act through good jobs and careers, as well as the establishment of important industrial facilities to support expanded access to American resources.
+- **(b)** *Requirement* The Secretary of the Interior shall when possible, and practicable, encourage the use of United States workers and equipment manufactured in the United States in all construction related to mineral development on the Coastal Plain.
+
+## § 8. Coastal Plain environmental protection
 
 - **(a)** *No significant adverse effect standard To govern authorized Coastal Plain activities* The Secretary shall, consistent with the requirements of section 3, administer this Act through regulations, lease terms, conditions, restrictions, prohibitions, stipulations, and other provisions that—
   - **(1)** ensure the oil and gas exploration, development, and production activities on the Coastal Plain will result in no significant adverse effect on fish and wildlife, their habitat, and the environment;
@@ -127,10 +135,10 @@ In this Act:
     - **(D)** Utilizing existing facilities wherever practicable.
     - **(E)** Enhancing compatibility between wildlife values and development activities.
 - **(g)** *Access to public lands* The Secretary shall—
-  - **(1)** manage public lands in the Coastal Plain subject to of section 811 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3121); and
+  - **(1)** manage public lands in the Coastal Plain subject to section 811 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3121); and
   - **(2)** ensure that local residents shall have reasonable access to public lands in the Coastal Plain for traditional uses.
 
-## § 8. Expedited judicial review
+## § 9. Expedited judicial review
 
 - **(a)** *Filing of complaint*
   - **(1)** *Deadline* Subject to paragraph (2), any complaint seeking judicial review—
@@ -143,11 +151,11 @@ In this Act:
 - **(b)** *Limitation on other review* Actions of the Secretary with respect to which review could have been obtained under this section shall not be subject to judicial review in any civil or criminal proceeding for enforcement.
 - **(c)** *Limitation on attorneys’ fees and court costs* No person seeking judicial review of any action under this Act shall receive payment from the Federal Government for their attorneys’ fees and other court costs, including under any provision of law enacted by the Equal Access to Justice Act (5 U.S.C. 504 note).
 
-## § 9. Treatment of revenues
+## § 10. Treatment of revenues
 
 Notwithstanding any other provision of law, 50 percent of the amount of bonus, rental, and royalty revenues from Federal oil and gas leasing and operations authorized under this Act shall be deposited in the Treasury.
 
-## § 10. Rights-of-way across the Coastal Plain
+## § 11. Rights-of-way across the Coastal Plain
 
 - **(a)** *In general* The Secretary shall issue rights-of-way and easements across the Coastal Plain for the transportation of oil and gas produced under leases under this Act—
   - **(1)** except as provided in paragraph (2), under section 28 of the Mineral Leasing Act (30 U.S.C. 185), without regard to title XI of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3161 et seq.); and
@@ -155,7 +163,7 @@ Notwithstanding any other provision of law, 50 percent of the amount of bonus, r
 - **(b)** *Terms and conditions* The Secretary shall include in any right-of-way or easement issued under subsection (a) such terms and conditions as may be necessary to ensure that transportation of oil and gas does not result in a significant adverse effect on the fish and wildlife, subsistence resources, their habitat, and the environment of the Coastal Plain, including requirements that facilities be sited or designed so as to avoid unnecessary duplication of roads and pipelines.
 - **(c)** *Regulations* The Secretary shall include in regulations under section 3(g) provisions granting rights-of-way and easements described in subsection (a) of this section.
 
-## § 11. Conveyance
+## § 12. Conveyance
 
 In order to maximize Federal revenues by removing clouds on title to lands and clarifying land ownership patterns within the Coastal Plain, the Secretary, notwithstanding section 1302(h)(2) of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3192(h)(2)), shall convey—
 
