@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2484
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Harmful Algal Blooms and Hypoxia Research and Control Amendments Act of 2011”.
+This Act may be cited as the “Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2011”.
 
 ## § 2. Amendment of Harmful Algal Bloom and Hypoxia Research and Control Act of 1998
 
@@ -28,9 +28,9 @@ Section 602 is amended to read as follows:
 > - **(1)** *Administrator* The term “Administrator” means the Administrator of the Environmental Protection Agency.
 > - **(2)** *NOAA* The term “NOAA” means the National Oceanic and Atmospheric Administration.
 > - **(3)** *Plan* The term “Plan” means the comprehensive research plan and action strategy under section 605.
-> - **(4)** *Program* The term “Program” means the National Harmful Algal Bloom and Hypoxia Program established under section 604(a).
-> - **(5)** *State* The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any other territory or possession of the United States, and any Indian tribe.
-> - **(6)** *Task Force* The term “Task Force” means the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia established under section 603(a)(1).
+> - **(4)** *Program* The term “Program” means the National Harmful Algal Bloom and Hypoxia Program under section 604(a).
+> - **(5)** *State* The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any other territory or possession of the United States, and any Indian tribe.
+> - **(6)** *Task Force* The term “Task Force” means the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia under section 603(a)(1).
 > - **(7)** *Under Secretary* The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
 
 ## § 4. Inter-Agency Task Force
@@ -76,17 +76,27 @@ The Act is amended—
   >   - **(3)** assist and coordinate, where appropriate, with State, tribal, and local government agencies, programs, and regional efforts that address marine and freshwater harmful algal blooms and hypoxia, including the development and implementation of appropriate response plans, strategies, and tools;
   >   - **(4)** identify additional research, development, and demonstration needs and priorities relating to understanding, detection, monitoring, prediction, prevention, control, mitigation, and response to marine and freshwater harmful algal blooms and hypoxia;
   >   - **(5)** ensure the development and use of methods and technologies to protect the ecosystems affected by marine and freshwater harmful algal blooms and hypoxia;
-  >   - **(6)** coordinate existing education programs to improve public understanding and awareness of the causes, impacts, and mitigation efforts for marine and freshwater harmful algal blooms and hypoxia;
-  >   - **(7)** provide resources to assist in the training of State, tribal, and local water and coastal resource managers in the methods and technologies for detecting, monitoring, controlling, mitigating, and responding to the effects of marine and freshwater harmful algal blooms and hypoxia events;
-  >   - **(8)** oversee the development, review, and periodic updating of the Plan; and
-  >   - **(9)** administer peer-reviewed, merit-based competitive grant funding to support—
+  >   - **(6)** encourage the appropriate exchange of research information with other countries in order to better mitigate, control, and respond to marine and freshwater harmful algal blooms;
+  >   - **(7)** coordinate existing education programs to improve public understanding and awareness of the causes, impacts, and mitigation efforts for marine and freshwater harmful algal blooms and hypoxia;
+  >   - **(8)** provide resources to assist in the training of State, tribal, and local water and coastal resource managers in the methods and technologies for detecting, monitoring, controlling, mitigating, and responding to the effects of marine and freshwater harmful algal bloom and hypoxia events;
+  >   - **(9)** oversee the development, review, and periodic updating of the Plan;
+  >   - **(10)** administer peer-reviewed, merit-based, competitive grant funding to support—
   >     - **(A)** the projects maintained and established by the Program; and
-  >     - **(B)** the research and management needs and priorities identified in the Plan.
+  >     - **(B)** the research and management needs and priorities identified in the Plan; and
+  >   - **(11)** encourage the development of innovative concepts for the beneficial utilization of—
+  >     - **(A)** biomass from harmful algal blooms that have been removed from the natural system; and
+  >     - **(B)** the growth of certain biofuel crops that reduce runoff that causes harmful algal blooms.
   > - **(c)** *Cooperative efforts* The Under Secretary shall work cooperatively and avoid duplication of efforts with other offices, centers, and programs within NOAA and other agencies represented on the Task Force, States, tribes, and nongovernmental organizations concerned with marine and freshwater aquatic issues related to harmful algal blooms and hypoxia.
-  > - **(d)** *Freshwater program* With respect to the freshwater aspects of the Program, the Administrator and the Under Secretary, through the Task Force, shall carry out the duties otherwise assigned to the Under Secretary under this section, excluding the activities described in subsection (e). The Administrator’s participation under this subsection shall include—
-  >   - **(1)** research on the ecology of freshwater harmful algal blooms;
-  >   - **(2)** monitoring of and event response to freshwater harmful algal blooms in lakes, rivers, estuaries, and reservoirs; and
-  >   - **(3)** mitigation and control of freshwater harmful algal blooms.
+  > - **(d)** *Freshwater program*
+  >   - **(1)** *In general* With respect to the freshwater aspects of the Program, the Administrator and the Under Secretary, through the Task Force, shall carry out the duties otherwise assigned to the Under Secretary under this section, excluding the activities described in subsection (e).
+  >   - **(2)** *Participation* The Administrator’s participation under this subsection shall include—
+  >     - **(A)** research on the ecology of freshwater harmful algal blooms;
+  >     - **(B)** monitoring of and event response to freshwater harmful algal blooms in lakes, rivers, estuaries (including their tributaries), and reservoirs; and
+  >     - **(C)** mitigation and control of freshwater harmful algal blooms.
+  >   - **(3)** *Nonduplication* The Administrator shall ensure that activities carried out under this Act shall focus on new approaches to addressing freshwater harmful algal blooms and are not duplicative of existing research and development programs authorized by this or any other Act.
+  >   - **(4)** *Report* Not later than 1 year after the date of enactment of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2011, the Administrator shall prepare and transmit to the Committee on Science, Space, and Technology of the House of Representatives a report containing—
+  >     - **(A)** a detailed budget explanation for all of the activities conducted by the Administrator under this Act; and
+  >     - **(B)** a description of how such activities reduce the effects of freshwater harmful algal blooms and improve water quality.
   > - **(e)** *NOAA Activities* As part of the program under this section, the Under Secretary shall—
   >   - **(1)** maintain existing peer-reviewed competitive grant programs at NOAA relating to marine and freshwater harmful algal blooms and hypoxia;
   >   - **(2)** conduct marine and freshwater harmful algal bloom and hypoxia event response activities; and
@@ -113,13 +123,12 @@ The Act is amended—
   >     - **(A)** the Federal agencies involved in research and development on understanding, detection, monitoring, prediction, prevention, control, mitigation, and response activities;
   >     - **(B)** tools available to predict and model events; and
   >     - **(C)** current or developing technologies for detection, monitoring, prediction, prevention, control, mitigation, and response, including remediation.
-  >   - **(2)** *Toxin standards* The Under Secretary, in coordination with the Administrator, shall—
+  >   - **(2)** *Toxin standards* The Under Secretary, in consultation with the Administrator, shall—
   >     - **(A)** develop a mechanism to provide a reliable and cost-effective supply of toxin standards for comparative research; and
   >     - **(B)** notify the Congress of such mechanism as part of the report required under subsection (i).
-  > - **(i)** *Report* Not later than 1 year after the submission of the Plan, the Under Secretary, in coordination with the Administrator, shall prepare and transmit to the Congress a report that describes—
-  >   - **(1)** the activities carried out under the Program and the Plan and the budget related to such activities;
-  >   - **(2)** the progress made on implementing the action strategy; and
-  >   - **(3)** the need to revise or terminate activities or projects under the Program.
+  > - **(i)** *Report* Not later than 1 year after the submission of the Plan, the Under Secretary, through the Task Force, shall prepare and transmit to the Congress a report that describes—
+  >   - **(1)** the activities carried out under the Program and the Plan and the budget related to such activities; and
+  >   - **(2)** the need to revise or terminate activities or projects under the Program.
 
 ## § 6. Comprehensive research plan and action strategy
 
@@ -127,7 +136,7 @@ The Act is amended by inserting after section 604, as added by section 5(3) of t
 
 > ## § 605. Comprehensive research plan and action strategy
 >
-> - **(a)** *In general* Not later than 2 years after the date of enactment of the Harmful Algal Blooms and Hypoxia Research and Control Amendments Act of 2011, the Under Secretary, through the Task Force, shall transmit to the Congress a comprehensive research plan and action strategy to address marine and freshwater harmful algal blooms and hypoxia that identifies—
+> - **(a)** *In general* Not later than 2 years after the date of enactment of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2011, the Under Secretary, through the Task Force, shall transmit to the Congress a comprehensive research plan and action strategy to address marine and freshwater harmful algal blooms and hypoxia that identifies—
 >   - **(1)** the specific activities to be carried out by the Program and the timeline for carrying out such activities;
 >   - **(2)** the roles and responsibilities of each Federal agency in the Task Force in carrying out Program activities; and
 >   - **(3)** appropriate regions and subregions requiring specific research and activities to address local, State, and regional harmful algal blooms and hypoxia.
@@ -136,7 +145,7 @@ The Act is amended by inserting after section 604, as added by section 5(3) of t
 >   - **(2)** research, development, and demonstration activities needed to develop and advance technologies and techniques for minimizing the occurrence of harmful algal blooms and hypoxia and improving capabilities to detect, predict, monitor, control, mitigate, respond to, and remediate harmful algal blooms and hypoxia;
 >   - **(3)** ways to reduce the duration and intensity of harmful algal blooms and hypoxia, including deployment of response technologies in a timely manner;
 >   - **(4)** research and methods to address human health dimensions of harmful algal blooms and hypoxia;
->   - **(5)** mechanisms, including the potential costs and benefits of those mechanisms, to protect ecosystems that may be or have been affected by harmful algal blooms and hypoxia events;
+>   - **(5)** mechanisms, including the potential costs and benefits of those mechanisms, to protect ecosystems that may be or have been affected by harmful algal bloom and hypoxia events;
 >   - **(6)** mechanisms by which data, information, and products may be transferred between the Program and State, tribal, and local governments and relevant research entities;
 >   - **(7)** communication and information dissemination methods that State, tribal, and local governments may undertake to educate and inform the public concerning harmful algal blooms and hypoxia; and
 >   - **(8)** the roles that Federal agencies may have to assist in the implementation of the Plan.
@@ -164,7 +173,7 @@ The Act is amended by inserting after section 604, as added by section 5(3) of t
 Section 606, as redesignated by section 5(2) of this Act, is amended by adding at the end the following:
 
 > - **(c)** *Required update*
->   - **(1)** *In general* Prior to the implementation of any plan developed under this section, including the Gulf Hypoxia Action Plan 2008, the Administrator, through the Mississippi River/Gulf of Mexico Watershed Nutrient Task Force, shall complete and submit to the Congress and the President an updated assessment and a revised action plan based on the updated assessment.
+>   - **(1)** *In general* Within 2 years after the date of enactment of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2011, the Administrator, through the Mississippi River/Gulf of Mexico Watershed Nutrient Task Force, shall complete and submit to the Congress and the President an updated assessment and a revised action plan based on the updated assessment.
 >   - **(2)** *Requirements* The updated assessment shall take into account the following:
 >     - **(A)** The role of nutrient influx in the context of water column stratification, seasonal flows and conditions, and wind and current dynamics in the Gulf of Mexico.
 >     - **(B)** The contribution of the topography of the Gulf of Mexico in the effects of the characteristics described in subparagraph (A) on the hypoxic zone.
@@ -187,22 +196,23 @@ Section 606, as redesignated by section 5(2) of this Act, is amended by adding a
 - **(a)** *In general* The Act is amended by inserting after section 606, as redesignated by section 5(2) of this Act, the following:
   > ## § 607. Chesapeake Bay dead zone
   >
-  > - **(a)** *Assessment plan* Not later than 12 months after the date of enactment of the Harmful Algal Blooms and Hypoxia Research and Control Amendments Act of 2011, the Task Force, in accordance with the authority under section 603, shall complete and submit to the Congress and the President an integrated assessment of hypoxia in the Chesapeake Bay that examines the status of and gaps within current research, monitoring, prevention, response, and control activities by—
+  > - **(a)** *Assessment plan* Not later than 12 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2011, the Task Force, in accordance with the authority under section 603, shall complete and submit to the Congress and the President an integrated assessment of hypoxia in the Chesapeake Bay that examines the status of and gaps within current research, monitoring, prevention, response, and control activities by—
   >   - **(1)** Federal agencies;
-  >   - **(2)** state agencies;
+  >   - **(2)** State agencies;
   >   - **(3)** regional research consortia;
   >   - **(4)** academia;
   >   - **(5)** private industry; and
   >   - **(6)** nongovernmental organizations.
   > - **(b)** *Research plan*
-  >   - **(1)** *In general* Not later than 2 years after the date of enactment of the Harmful Algal Blooms and Hypoxia Research and Control Amendments Act of 2011, the Task Force shall develop and submit to the Congress a plan, based on the integrated assessment submitted under subsection (a), for reducing, mitigating, and controlling hypoxia in the Chesapeake Bay.
+  >   - **(1)** *In general* Not later than 2 years after the date of enactment of the Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2011, the Task Force shall develop and submit to the Congress a plan, based on the integrated assessment submitted under subsection (a), for reducing, mitigating, and controlling hypoxia in the Chesapeake Bay.
   >   - **(2)** *Requirements* In developing such plan, the Task Force shall—
   >     - **(A)** consult with State and local governments and representatives from academic, agricultural, industry, and other stakeholder groups;
-  >     - **(B)** include incentive-based partnership approaches;
-  >     - **(C)** include an economic cost-benefit analysis of the measures for reducing, mitigating, and controlling hypoxia events;
-  >     - **(D)** utilize existing research, assessments, reports, and program activities;
-  >     - **(E)** publish a summary of the proposed plan in the Federal Register 90 days prior to the submission to the Congress of the completed plan; and
-  >     - **(F)** provide progress reports every 2 years after the submission to the Congress of the completed plan on the activities leading toward attainment of the goals set forth in the plan.
+  >     - **(B)** ensure that the plan does not duplicate activities conducted by other Federal or State agencies;
+  >     - **(C)** include incentive-based partnership approaches;
+  >     - **(D)** include an economic cost-benefit analysis of the measures for reducing, mitigating, and controlling hypoxia events;
+  >     - **(E)** utilize existing research, assessments, reports, and program activities;
+  >     - **(F)** publish a summary of the proposed plan in the Federal Register 90 days prior to the submission to the Congress of the completed plan; and
+  >     - **(G)** provide progress reports every 2 years after the submission to the Congress of the completed plan on the activities leading toward attainment of the goals set forth in the plan.
   >   - **(3)** *Contents* The plan shall—
   >     - **(A)** address the monitoring needs identified in the integrated assessment submitted under subsection (a) and develop a timeline and budgetary requirements for deployment of future assets;
   >     - **(B)** detail procedures for the development and verification of Chesapeake Bay hypoxia models, including making available to the public—
@@ -217,7 +227,7 @@ Section 606, as redesignated by section 5(2) of this Act, is amended by adding a
 - **(a)** *Authorization* Section 608, as redesignated by section 5(1) of this Act, is amended to read as follows:
   > ## § 608. Authorization of appropriations
   >
-  > - **(a)** *In general* There are authorized to be appropriated to the Under Secretary to carry out this Act $18,000,000 for each of fiscal years 2012 through 2015, of which, for each fiscal year—
+  > - **(a)** *Under Secretary* There are authorized to be appropriated to the Under Secretary to carry out this Act $18,000,000 for each of fiscal years 2012 through 2015, of which, for each fiscal year—
   >   - **(1)** $1,000,000 may be used for the development of the comprehensive research plan and action strategy under section 605 and the assessment and reports required by sections 606 and 607;
   >   - **(2)** $4,000,000 may be used for the research and assessment activities related to marine and freshwater harmful algal blooms at research laboratories of NOAA;
   >   - **(3)** $4,000,000 may be used to carry out the Ecology of Harmful Algal Blooms Program (ECOHAB);
@@ -227,9 +237,11 @@ Section 606, as redesignated by section 5(2) of this Act, is amended by adding a
   >   - **(7)** $1,500,000 may be used to carry out prevention, control, and mitigation activities;
   >   - **(8)** $500,000 may be used to carry out event response activities; and
   >   - **(9)** $500,000 may be used to carry out infrastructure activities.
-  > - **(b)** *Use of funds* From funds made available under section 2(a)(2) of the Environmental Research, Development, and Demonstration Authorization Act of 1981 (Public Law 96–569; 94 Stat. 3335), the Administrator may utilize up to $3,000,000 for each of the fiscal years 2012 through 2015 to carry out the authorized activities under this Act.
+  > - **(b)** *Administrator*
+  >   - **(1)** *In general* There are authorized to be appropriated to the Administrator $2,700,000 for each of the fiscal years 2012 through 2015 to carry out the activities authorized under this Act.
+  >   - **(2)** *Nonduplication* The Administrator shall ensure that activities carried out using the amounts authorized under paragraph (1) do not duplicate research and development activities related to harmful algal blooms and hypoxia conducted by Federal agencies represented on the Task Force, States, tribes, and nongovernmental organizations concerned with marine and freshwater aquatic issues.
 
-- **(b)** *Extramural research activities* The Under Secretary shall ensure that a substantial portion of funds appropriated pursuant to section 608 of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 that are used for research purposes are allocated to extramural research activities.
+- **(b)** *Extramural research activities* The Under Secretary of Commerce for Oceans and Atmosphere shall ensure that a substantial portion of funds appropriated pursuant to section 608 of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 that are used for research purposes are allocated to extramural research activities.
 
 ## § 10. Clerical amendments
 
