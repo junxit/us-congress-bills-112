@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 99
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 99
@@ -33,3 +33,6 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2012-02-09 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H658-659)
 - 2012-02-09 — Received in the Senate.
 - 2012-02-09 — Referred to the House Committee on House Administration.
+- 2012-02-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S802-803)
+- 2012-02-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S802-803)
+- 2012-02-16 — Message on Senate action sent to the House.

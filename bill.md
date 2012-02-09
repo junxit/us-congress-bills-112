@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 99
-congress: 112th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H. CON. RES. 99
@@ -20,7 +20,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas slave-quarried stones from the remnants of the original Capitol walls can be found in Rock Creek Park in the District of Columbia;
 - Whereas the Statue of Freedom now atop the Capitol dome could not have been cast without the pivotal intervention of Philip Reid, an enslaved African-American foundry worker who deciphered the puzzle of how to separate the 5-piece plaster model for casting when all others failed;
 - Whereas the great hall of the Capitol Visitor Center was named Emancipation Hall to help acknowledge the work of the slave laborers who built the Capitol;
-- Whereas no narrative on the construction of the Capitol that does not include the contribution of enslaved African- Americans can fully and accurately reflect its history;
+- Whereas no narrative on the construction of the Capitol that does not include the contribution of enslaved African-Americans can fully and accurately reflect its history;
 - Whereas recognition of the contributions of enslaved African-Americans brings to all Americans an understanding of the continuing evolution of our representative democracy;
 - Whereas in 2007 the Slave Labor Task Force recommended to Congress the creation of a marker commemorating the contributions of enslaved African-Americans in the construction of the Capitol; and
 - Whereas the marker dedicated to the enslaved African-Americans who helped to build the Capitol reflects the charge of the Capitol Visitor Center to teach visitors about Congress and its development: Now, therefore, be it
