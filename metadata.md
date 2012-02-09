@@ -1,7 +1,7 @@
 ---
 measure: S. 2038
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2038
@@ -16,8 +16,9 @@ STOCK Act
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
-## Cosponsors (58)
+## Cosponsors (59)
 
+- Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Cochran, Thad [R-MS] (C000567)
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Coburn, Tom [R-OK] (C000560)
@@ -81,7 +82,7 @@ STOCK Act
 
 - Senate — Homeland Security and Governmental Affairs Committee
 
-## Recorded votes (13)
+## Recorded votes (14)
 
 - 2012-01-30 — [Senate 112-2-3](votes/senate-112-2-0003.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (93–2)
 - 2012-02-02 — [Senate 112-2-4](votes/senate-112-2-0004.md) — On the Amendment — **Amendment Rejected** (37–61)
@@ -96,6 +97,7 @@ STOCK Act
 - 2012-02-02 — [Senate 112-2-13](votes/senate-112-2-0013.md) — On the Amendment — **Amendment Rejected** (26–73)
 - 2012-02-02 — [Senate 112-2-14](votes/senate-112-2-0014.md) — On Passage of the Bill — **Bill Passed** (96–3)
 - 2012-02-09 — [House 112-2-47](votes/house-112-2-0047.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (417–2)
+- 2012-03-22 — [Senate 112-2-56](votes/senate-112-2-0056.md) — On the Cloture Motion — **Cloture Motion Agreed to** (96–3)
 
 ## Actions
 
@@ -309,3 +311,49 @@ STOCK Act
 - 2012-02-09 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2012-02-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 47). (text: CR H645-648)
 - 2012-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 47).(text: CR H645-648)
+- 2012-03-20 — Amendment SA 1940 proposed by Senator Reid. (consideration: CR S1839; text: CR S1839) To change the enactment date.
+- 2012-03-20 — Amendment SA 1941 proposed by Senator Reid to Amendment SA 1940. (consideration: CR S1839; text: CR S1839) Of a perfecting nature.
+- 2012-03-20 — Amendment SA 1942 proposed by Senator Reid. (consideration: CR S1839-1840; text: CR S1839) To change the enactment date.
+- 2012-03-20 — Amendment SA 1943 proposed by Senator Reid to Amendment SA 1942 (the instructions of the motion to refer). (consideration: CR S1840; text: CR S1840) Of a perfecting nature.
+- 2012-03-20 — Amendment SA 1944 proposed by Senator Reid to Amendment SA 1943. (consideration: CR S1840; text: CR S1840) Of a perfecting nature.
+- 2012-03-20 — Cloture motion on the motion to concur in the House amendment to the bill (S. 2038) presented in Senate. (consideration: CR S1839; text: CR S1839)
+- 2012-03-20 — Measure laid before Senate by unanimous consent. (consideration: CR S1839-1840)
+- 2012-03-20 — Motion by Senator Reid to concur in the House amendment to the bill (S. 2038) made in Senate. (consideration: CR S1839)
+- 2012-03-20 — Motion by Senator Reid to concur in the House amendment to the bill (S. 2038) with an amendment (SA 1940) made in Senate. (consideration: CR S1839)
+- 2012-03-20 — Motion by Senator Reid to refer to Senate Committee on Homeland Security and Governmental Affairs the House message on S. 2038 with instructions to report back forthwith with amendment (SA 1942) made in Senate. (consideration: CR S1839)
+- 2012-03-20 — Senate amendment proposed (on the floor): Amendment SA 1940 proposed by Senator Reid.(consideration: CR S1839; text: CR S1839)
+- 2012-03-20 — Senate amendment proposed (on the floor): Amendment SA 1941 proposed by Senator Reid to Amendment SA 1940.(consideration: CR S1839; text: CR S1839)
+- 2012-03-20 — Senate amendment proposed (on the floor): Amendment SA 1942 proposed by Senator Reid.(consideration: CR S1839-1840; text: CR S1839)
+- 2012-03-20 — Senate amendment proposed (on the floor): Amendment SA 1943 proposed by Senator Reid to Amendment SA 1942 (the instructions of the motion to refer).(consideration: CR S1840; text: CR S1840)
+- 2012-03-20 — Senate amendment proposed (on the floor): Amendment SA 1944 proposed by Senator Reid to Amendment SA 1943.(consideration: CR S1840; text: CR S1840)
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-21 — Senate amendment submitted
+- 2012-03-22 — Cloture on the motion to concur in the House amendment to the bill (S. 2038) invoked in Senate by Yea-Nay Vote. 96 - 3. Record Vote Number: 56. (consideration: CR S1980-1981; text: CR S1980)
+- 2012-03-22 — Considered by Senate (Message from the House considered). (consideration: CR S1977-1981)
+- 2012-03-22 — Considered by Senate. (consideration: CR S1981)
+- 2012-03-22 — Considered by Senate. (consideration: CR S1981)
+- 2012-03-22 — Considered by Senate. (consideration: CR S1981)
+- 2012-03-22 — Considered by Senate. (consideration: CR S1981)
+- 2012-03-22 — Considered by Senate. (consideration: CR S1981)
+- 2012-03-22 — Motion by Senator Reid to concur in the House amendment to the bill (S. 2038) with an amendment (SA 1940) withdrawn in Senate by Unanimous Consent. (consideration: CR S1981)
+- 2012-03-22 — Motion by Senator Reid to refer to Senate Committee on Homeland Security and Governmental Affairs the House message on S. 2038 with instructions to report back forthwith with amendment (SA 1942) fell when cloture invoked on the motion to concur in the House amendment to the bill (S. 2038) in Senate. (consideration: CR S1981)
+- 2012-03-22 — Proposed amendment SA 1940 withdrawn in Senate. (consideration: CR S1981)
+- 2012-03-22 — Resolving differences -- Senate actions: Senate agreed to House amendment to the bill (S. 2038) by Unanimous Consent.
+- 2012-03-22 — SA 1941 fell when SA 1940 withdrawn. (consideration: CR S1981)
+- 2012-03-22 — SA 1942 fell when cloture invoked on the motion to concur in the House amendment to the bill (S. 2038). (consideration: CR S1981)
+- 2012-03-22 — SA 1943 fell when SA 1942 fell. (consideration: CR S1981)
+- 2012-03-22 — SA 1944 fell when SA 1943 fell. (consideration: CR S1981)
+- 2012-03-22 — Senate agreed to House amendment to the bill (S. 2038) by Unanimous Consent.
+- 2012-03-27 — Message on Senate action sent to the House.
+- 2012-03-28 — Presented to President.
+- 2012-03-28 — Presented to President.
+- 2012-04-04 — Became Public Law No: 112-105.
+- 2012-04-04 — Became Public Law No: 112-105.
+- 2012-04-04 — Signed by President.
+- 2012-04-04 — Signed by President.
+- 2012-12-03 — By Senator Lieberman from Committee on Homeland Security and Governmental Affairs filed written report. Report No. 112-244.
+- 2012-12-03 — By Senator Lieberman from Committee on Homeland Security and Governmental Affairs filed written report. Report No. 112-244.

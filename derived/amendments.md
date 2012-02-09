@@ -1,7 +1,7 @@
 ---
 measure: S. 2038
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -43,7 +43,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in clause (iii), by inserting “to Congress, any Member of Congress, any employee of Congress, any judicial officer, or any judicial employee,” after “Federal Government,”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 103 of the Ethics in Government Act of 1978 (5 U.S.C. App. 103) is amended by adding at the end the following subsection: | the bill names no machine-readable US Code section |
 | — | amend | Section 105(d) of the Ethics in Government Act of 1978 (5 U.S.C. App. 105(d)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 21A of the Securities Exchange Act of 1934 (15 U.S.C. 78u–1), as amended by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 21A of the Securities Exchange Act of 1934 (15 U.S.C. 78u–1), as amended by this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 21A of the Securities Exchange Act of 1934 (15 U.S.C. 78u–1), as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 102(a)(4)(A) of the Ethics in Government Act of 1978 (5 U.S.C. App. 102(a)(4)(A)) is amended by striking “spouse; and” and inserting the following: “spouse, except that this exception shall not apply to a reporting individual— | the bill names no machine-readable US Code section |
 | — | insert | in clause (i), by inserting “, the President, the Vice President, or an elected official of a State or local government” after “Member”; and | the bill names no machine-readable US Code section |
