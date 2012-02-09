@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3581
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3581
@@ -39,11 +39,12 @@ Budget and Accounting Transparency Act of 2012
 - Rep. Kline, John [R-MN-2] (K000363)
 - Rep. Black, Diane [R-TN-6] (B001273)
 
-## Committees (3)
+## Committees (4)
 
 - House — Ways and Means Committee
 - House — Oversight and Accountability Committee
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (3)
 
@@ -98,3 +99,4 @@ Budget and Accounting Transparency Act of 2012
 - 2012-02-07 — The Speaker designated the Honorable Candice S. Miller to act as Chairwoman of the Committee.
 - 2012-02-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H547)
 - 2012-02-07 — The previous question was ordered pursuant to the rule. (consideration: CR H547)
+- 2012-02-09 — Received in the Senate and Read twice and referred to the Committee on the Budget.
