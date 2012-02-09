@@ -2,7 +2,7 @@
 legis-num: H.R. 1734
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1734
@@ -235,11 +235,12 @@ The Commission shall cease operations and terminate 6 years after the date of en
 
 ## § 19. Congressional approval of proposed projects
 
--  Section 3307(b) of title 40, United States Code is amended—
-  - **(1)** by striking “and” at the end of paragraph (6);
-  - **(2)** by striking the period at the end of paragraph (7) and inserting “; and”; and
-  - **(3)** by adding at the end the following:
-    > - **(8)** a statement of how the proposed project is consistent with section 11(b) of the Civilian Property Realignment Act.
+Section 3307(b) of title 40, United States Code is amended—
+
+- **(1)** by striking “and” at the end of paragraph (6);
+- **(2)** by striking the period at the end of paragraph (7) and inserting “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(8)** a statement of how the proposed project is consistent with section 11(b) of the Civilian Property Realignment Act.
 
 ## § 20. Limitation of certain leasing authorities
 

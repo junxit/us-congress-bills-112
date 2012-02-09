@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1734
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1734
@@ -50,11 +50,12 @@ CPRA
 - Rep. Womack, Steve [R-AR-3] (W000809)
 - Rep. Herger, Wally [R-CA-2] (H000528)
 
-## Committees (3)
+## Committees (4)
 
 - House — Rules Committee
 - House — Oversight and Accountability Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (3)
 
@@ -139,3 +140,4 @@ CPRA
 - 2012-02-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H532)
 - 2012-02-07 — The previous question was ordered pursuant to the rule. (consideration: CR H530)
 - 2012-02-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of the Connolly (VA) amendment numbered 3 which had been debated earlier and on which further proceedings were postponed.
+- 2012-02-09 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.

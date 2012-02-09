@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1734
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,12 +31,12 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | by striking “and” at the end of paragraph (6); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of paragraph (7) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `40 U.S.C. § 3307` | strike | by striking “and” at the end of paragraph (6); | the bill quotes the text struck but describes what replaces it |
+| `40 U.S.C. § 3307` | replace | by striking the period at the end of paragraph (7) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `40 U.S.C. § 3307` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Chapter 33 of title 40, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The analysis for such chapter is amended by adding at the end: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3305 of title 40, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (7), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (8), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The analysis for such chapter is amended by adding at the end: | the bill names no machine-readable US Code section |
+| `40 U.S.C. § 3305` | add-at-end | Section 3305 of title 40, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 3307` | strike | in paragraph (7), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `40 U.S.C. § 3307` | replace | in paragraph (8), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `40 U.S.C. § 3307` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
