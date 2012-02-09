@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3521
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3521
@@ -57,10 +57,11 @@ Expedited Legislative Line-Item Veto and Rescissions Act of 2012
 - Rep. Loebsack, David [D-IA-2] (L000565)
 - Rep. Polis, Jared [D-CO-2] (P000598)
 
-## Committees (2)
+## Committees (3)
 
 - House — Rules Committee
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (2)
 
@@ -110,3 +111,4 @@ Expedited Legislative Line-Item Veto and Rescissions Act of 2012
 - 2012-02-08 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3521.
 - 2012-02-08 — The Speaker designated the Honorable Jeff Denham to act as Chairman of the Committee.
 - 2012-02-08 — The previous question was ordered pursuant to the rule. (consideration: CR H615)
+- 2012-02-09 — Received in the Senate and Read twice and referred to the Committee on the Budget.

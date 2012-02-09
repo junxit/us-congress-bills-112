@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3521
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,51 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+9 amendatory instructions. 4 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 2 U.S.C. § 621
+
+> in subsection (a), by striking “1017” and inserting “1013”; and
+
+| | |
+|---|---|
+| Removed | `1017` |
+| Inserted | `1013` |
+
+### 2 U.S.C. § 621
+
+> in subsection (d), by striking “section 1017” and inserting “section 1013”.
+
+| | |
+|---|---|
+| Removed | `section 1017` |
+| Inserted | `section 1013` |
+
+### 2 U.S.C. § 621
+
+> Section 1017 of such Act (as redesignated) is amended by striking “section 1012 or 1013” each place it appears and inserting “section 1011 or 1019” and section 1018 (as redesignated) is amended by striking “calendar” and “of continuous session” .
+
+| | |
+|---|---|
+| Removed | `section 1012 or 1013` |
+| Inserted | `section 1011 or 1019` |
+
+### 2 U.S.C. § 621
+
+> Section 1019(c) of such Act (as redesignated) is amended by striking “1012” and inserting “1011”.
+
+| | |
+|---|---|
+| Removed | `1012` |
+| Inserted | `1011` |
 
 ## Stated, not applied
 
@@ -31,12 +69,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | Title X of the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 621 et seq.) is amended by striking all of part B (except for sections 1015, 1016, and 1013, which are transferred and redesignated as sections 1017, 1018,… | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking “1017” and inserting “1013”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d), by striking “section 1017” and inserting “section 1013”. | the bill names no machine-readable US Code section |
-| — | amend | The last sentence of section 1(a) of the Congressional Budget and Impoundment Control Act of 1974 is amended to read as follows: “Sections 1011 through 1016 of part B of title X may be cited as the Expedited Legislative Line-Item Veto an… | the bill names no machine-readable US Code section |
-| — | replace | Section 1017 of such Act (as redesignated) is amended by striking “section 1012 or 1013” each place it appears and inserting “section 1011 or 1019” and section 1018 (as redesignated) is amended by striking “calendar” and “of continuous s… | the bill names no machine-readable US Code section |
-| — | replace | Section 1019(c) of such Act (as redesignated) is amended by striking “1012” and inserting “1011”. | the bill names no machine-readable US Code section |
-| — | replace | The table of contents set forth in section 1(b) of the Congressional Budget and Impoundment Control Act of 1974 is amended by striking the items relating to parts B and C (including all of the items relating to the sections therein) of t… | the bill names no machine-readable US Code section |
+| `2 U.S.C. § 621` | redesignate | Title X of the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 621 et seq.) is amended by striking all of part B (except for sections 1015, 1016, and 1013, which are transferred and redesignated as sections 1017, 1018,… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 621` | amend | The last sentence of section 1(a) of the Congressional Budget and Impoundment Control Act of 1974 is amended to read as follows: “Sections 1011 through 1016 of part B of title X may be cited as the Expedited Legislative Line-Item Veto an… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 621` | replace | The table of contents set forth in section 1(b) of the Congressional Budget and Impoundment Control Act of 1974 is amended by striking the items relating to parts B and C (including all of the items relating to the sections therein) of t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating subsections (b) through (e) as subsections (c) through (f) and by inserting after subsection (a) the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | in subsection (d) (as redesignated), by inserting “or (b)” after “subsection (a)”. | the bill names no machine-readable US Code section |
