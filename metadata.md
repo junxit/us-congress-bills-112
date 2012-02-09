@@ -1,7 +1,7 @@
 ---
 measure: S. 2038
 congress: 112
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 2038
@@ -16,7 +16,7 @@ STOCK Act
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
-## Cosponsors (57)
+## Cosponsors (58)
 
 - Sen. Cochran, Thad [R-MS] (C000567)
 - Sen. Tester, Jon [D-MT] (T000464)
@@ -75,12 +75,13 @@ STOCK Act
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Heller, Dean [R-NV] (H001041)
 - Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
 
-## Recorded votes (12)
+## Recorded votes (13)
 
 - 2012-01-30 — [Senate 112-2-3](votes/senate-112-2-0003.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (93–2)
 - 2012-02-02 — [Senate 112-2-4](votes/senate-112-2-0004.md) — On the Amendment — **Amendment Rejected** (37–61)
@@ -94,6 +95,7 @@ STOCK Act
 - 2012-02-02 — [Senate 112-2-12](votes/senate-112-2-0012.md) — On the Amendment — **Amendment Agreed to** (60–39)
 - 2012-02-02 — [Senate 112-2-13](votes/senate-112-2-0013.md) — On the Amendment — **Amendment Rejected** (26–73)
 - 2012-02-02 — [Senate 112-2-14](votes/senate-112-2-0014.md) — On Passage of the Bill — **Bill Passed** (96–3)
+- 2012-02-09 — [House 112-2-47](votes/house-112-2-0047.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (417–2)
 
 ## Actions
 
@@ -297,3 +299,13 @@ STOCK Act
 - 2012-02-02 — Senate amendment proposed (on the floor): Amendment SA 1510 proposed by Senator Collins for Senator Enzi to Amendment SA 1470.(consideration: CR S302; text: CR S302)
 - 2012-02-02 — Senate amendment proposed (on the floor): Amendment SA 1511 proposed by Senator Gillibrand for Senator Lieberman to Amendment SA 1470.(consideration: CR S298-299, S300-301; text: CR S298)
 - 2012-02-02 — Senate amendment submitted
+- 2012-02-06 — Held at the desk.
+- 2012-02-06 — Message on Senate action sent to the House.
+- 2012-02-06 — Received in the House.
+- 2012-02-09 — Considered under suspension of the rules. (consideration: CR H645-657)
+- 2012-02-09 — DEBATE - The House proceeded with forty minutes of debate on S. 2038.
+- 2012-02-09 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2012-02-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-02-09 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2012-02-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 47). (text: CR H645-648)
+- 2012-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 47).(text: CR H645-648)
