@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3813
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3813
@@ -27,3 +27,10 @@ Securing Annuities for Federal Employees Act of 2012
 - 2012-01-24 — Introduced in House
 - 2012-01-24 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-01-24 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-02-07 — Committee Consideration and Mark-up Session Held.
+- 2012-02-07 — Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 16.
+- 2012-02-09 — Committee on House Administration discharged.
+- 2012-02-09 — Committee on House Administration discharged.
+- 2012-02-09 — Placed on the Union Calendar, Calendar No. 274.
+- 2012-02-09 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-394, Part I.
+- 2012-02-09 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-394, Part I.

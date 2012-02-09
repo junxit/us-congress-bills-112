@@ -16,38 +16,26 @@ This Act may be cited as the “Securing Annuities for Federal Employees Act of 
 ## § 2. Retirement contributions
 
 - **(a)** *Civil Service Retirement System*
-  - **(1)** *Individual contributions* Section 8334(a)(1)(A) of title 5, United States Code, is amended—
-    - **(A)** by striking “(a)(1)(A) The” and inserting “(a)(1)(A)(i) Except as provided in clause (ii), the”; and
+  - **(1)** *Individual contributions* Section 8334(c) of title 5, United States Code, is amended—
+    - **(A)** by striking “(c) Each” and inserting “(c)(1) Each”; and
     - **(B)** by adding at the end the following:
-      > - **(ii)** The percentage of basic pay to be deducted and withheld under clause (i) shall—
-      >   - **(I)** for each of calendar years 2013, 2014, and 2015, be equal to the percentage that applied in the preceding calendar year (as increased under this subclause, if applicable), plus an additional 0.5 percentage point; and
-      >   - **(II)** for each calendar year after 2015, be equal to the applicable percentage for calendar year 2015 (as determined under subclause (I)).
+      > - **(2)** Notwithstanding any other provision of this subsection, the applicable percentage of basic pay under this subsection shall, for purposes of computing an amount—
+      >   - **(A)** for a period in calendar year 2013, 2014, or 2015, be equal to the applicable percentage under this subsection for the preceding calendar year (including as increased under this paragraph, if applicable), plus an additional 0.5 percentage point; and
+      >   - **(B)** for a period in any calendar year after 2015, be equal to the applicable percentage under this subsection for calendar year 2015 (as determined under subparagraph (A)).
 
   - **(2)** *Government contributions* Section 8334(a)(1)(B) of title 5, United States Code, is amended—
     - **(A)** in clause (i), by striking “Except as provided in clause (ii),” and inserting “Except as provided in clause (ii) or (iii),”; and
     - **(B)** by adding at the end the following:
-      > - **(iii)** The amount to be contributed under clause (i) shall, with respect to a period in any calendar year specified in subparagraph (A)(ii), be equal to—
-      >   - **(I)** the amount that would otherwise apply under clause (i), reduced by
-      >   - **(II)** the amount by which the withholding under subparagraph (A) exceeds the amount which would (but for clause (ii) of such subparagraph) otherwise have been withheld under such subparagraph from the basic pay of the employee or elected official involved with respect to such period.
+      > - **(iii)** The amount to be contributed under clause (i) shall, with respect to a period in any year beginning after December 31, 2012, be equal to—
+      >   - **(I)** the amount which would otherwise apply under clause (i) with respect to such period, reduced by
+      >   - **(II)** the amount by which, with respect to such period, the withholding under subparagraph (A) exceeds the amount which would otherwise have been withheld from the basic pay of the employee or elected official involved under subparagraph (A) based on the percentage applicable under subsection (c) for calendar year 2012.
 
-  - **(3)** *Offset rule* Section 8334(k) of title 5, United States Code, is amended by adding at the end the following:
-    > - **(5)** This subsection shall be applied in a manner consistent with subsections (a)(1)(A)(ii) and (a)(1)(B)(iii) of section 8334.
-
-- **(b)** *Federal Employees’ Retirement System* Section 8422(a) of title 5, United States Code, is amended—
-  - **(1)** in paragraph (1), by striking “paragraph (2).” and inserting “this subsection.”; and
+- **(b)** *Federal Employees’ Retirement System* Section 8422(a)(3) of title 5, United States Code, is amended—
+  - **(1)** by striking “(3) The” and inserting “(3)(A) The”; and
   - **(2)** by adding at the end the following:
-    > - **(4)** Notwithstanding any other provision of this subsection, the percentage to be deducted and withheld under this subsection shall—
-    >   - **(A)** for each of calendar years 2013, 2014, and 2015, be equal to the percentage that applied in the preceding calendar year under this subsection (including this subparagraph, if applicable), plus an additional 0.5 percentage point; and
-    >   - **(B)** for each calendar year after 2015, be equal to the applicable percentage for calendar year 2015 (as determined under subparagraph (A)).
-
-- **(c)** *Foreign Service* For provisions of law requiring maintenance of existing conformity—
-  - **(1)** between the Civil Service Retirement System and the Foreign Service Retirement System, and
-  - **(2)** between the Federal Employees’ Retirement System and the Foreign Service Pension System,
-- **(d)** *CIARDS*
-  - **(1)** *Compatibility with CSRS* In order to carry out the purposes of this section with respect to the Central Intelligence Agency Retirement and Disability System, the authority under section 292 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2141) shall be applied.
-  - **(2)** *Applicability of FERS* For provisions of law providing for the application of the Federal Employees’ Retirement System with respect to employees of the Central Intelligence Agency, see title III of the Central Intelligence Agency Retirement Act (50 U.S.C. 2151 and following).
-- **(e)** *TVA* Section 3 of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831b) is amended by adding at the end the following:
-  > - **(c)** The chief executive officer shall prescribe any regulations which may be necessary in order to carry out the purposes of the Securing Annuities for Federal Employees Act of 2012 with respect to any defined benefit plan covering employees of the Tennessee Valley Authority.
+    > - **(B)** Notwithstanding any other provision of this paragraph, the applicable percentage under this paragraph shall, for purposes of computing any amount—
+    >   - **(i)** for a period in calendar year 2013, 2014, or 2015, be equal to the applicable percentage under this paragraph for the preceding calendar year (including as increased under this subparagraph, if applicable), plus an additional 0.5 percentage point; and
+    >   - **(ii)** for a period in any calendar year after 2015, be equal to the applicable percentage under this paragraph for calendar year 2015 (as determined under clause (i)).
 
 ## § 3. Amendments relating to secure annuity employees
 
@@ -59,12 +47,12 @@ This Act may be cited as the “Securing Annuities for Federal Employees Act of 
     >   - **(A)** first becomes subject to this chapter after December 31, 2012; and
     >   - **(B)** at the time of first becoming subject to this chapter, does not have at least 5 years of civilian service creditable under the Civil Service Retirement System or any other retirement system for Government employees.
 
-- **(b)** *Individual contributions* Section 8422(a) of title 5, United States Code (as amended by section 2(b)) is further amended—
-  - **(1)** in paragraph (4) (as added by section 2(b)), in the matter before subparagraph (A), by inserting “and except in the case of a secure annuity employee,” after “this subsection”; and
-  - **(2)** by adding after paragraph (4) (as so added) the following:
-    > - **(5)** Notwithstanding any other provision of this subsection, in the case of a secure annuity employee, the percentage to be deducted and withheld shall be computed under paragraphs (1) through (3), except that the applicable percentage under paragraph (3) for civilian service shall—
-    >   - **(A)** in the case of a secure annuity employee who is an employee, Congressional employee, or Member, be equal to 10.2 percent; and
-    >   - **(B)** in the case of a secure annuity employee who is a law enforcement officer, firefighter, member of the Capitol Police, member of the Supreme Court Police, air traffic controller, nuclear materials courier, or customs and border protection officer, be equal to 10.7 percent.
+- **(b)** *Individual contributions* Section 8422(a)(3) of title 5, United States Code (as amended by section 2(b)) is further amended—
+  - **(1)** in subparagraph (B) (as added by section 2(b)), in the matter before clause (i), by striking “this paragraph, the” and inserting “this paragraph and except in the case of a secure annuity employee, the”; and
+  - **(2)** by adding after subparagraph (B) (as so added) the following:
+    > - **(C)** Notwithstanding any other provision of this paragraph, in the case of a secure annuity employee, the applicable percentage under this paragraph shall—
+    >   - **(i)** in the case of a secure annuity employee who is an employee, Congressional employee, or Member, be equal to 10.2 percent; and
+    >   - **(ii)** in the case of a secure annuity employee who is a law enforcement officer, firefighter, member of the Capitol Police, member of the Supreme Court Police, air traffic controller, nuclear materials courier, or customs and border protection officer, be equal to 10.7 percent.
 
 - **(c)** *Average pay* Section 8401(3) of title 5, United States Code, is amended—
   - **(1)** by striking “(3)” and inserting “(3)(A)”; and
@@ -114,3 +102,36 @@ Section 8421(a) of title 5, United States Code, is amended—
   > - **(4)**
   >   - **(A)** Except as provided in subparagraph (B), no annuity supplement under this section shall be payable in the case of an individual whose entitlement to annuity is based on such individual’s separation from service after December 31, 2012.
   >   - **(B)** Nothing in this paragraph applies in the case of an individual separating under subsection (d) or (e) of section 8412.
+
+## § 5. Contributions to Thrift Savings Fund of payments for accrued or accumulated leave
+
+- **(a)** *Amendments relating to CSRS* Section 8351(b) of title 5, United States Code, is amended—
+  - **(1)** by striking paragraph (2)(A) and inserting the following:
+    > - **(2)**
+    >   - **(A)** An employee or Member may contribute to the Thrift Savings Fund in any pay period any amount of such employee’s or Member’s basic pay for such pay period, and may contribute (by direct transfer to the Fund) any part of any payment that the employee or Member receives for accumulated and accrued annual or vacation leave under section 5551 or 5552. Notwithstanding section 2105(e), in this paragraph the term “employee” includes an employee of the United States Postal Service or of the Postal Regulatory Commission.
+
+  - **(2)** by striking subparagraph (B) of paragraph (2); and
+  - **(3)** by redesignating subparagraph (C) of paragraph (2) as subparagraph (B).
+- **(b)** *Amendments relating to FERS* Section 8432(a) of title 5, United States Code, is amended—
+  - **(1)** by striking paragraphs (1) and (2) and inserting the following:
+    > - **(1)** An employee or Member—
+    >   - **(A)** may contribute to the Thrift Savings Fund in any pay period, pursuant to an election under subsection (b), any amount of such employee’s or Member’s basic pay for such pay period; and
+    >   - **(B)** may contribute (by direct transfer to the Fund) any part of any payment that the employee or Member receives for accumulated and accrued annual or vacation leave under section 5551 or 5552.
+    > - **(2)** Contributions made under paragraph (1)(A) pursuant to an election under subsection (b) shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
+
+  - **(2)** by adding at the end the following new paragraph:
+    > - **(4)** Notwithstanding section 2105(e), in this subsection the term “employee” includes an employee of the United States Postal Service or of the Postal Regulatory Commission.
+
+- **(c)** *Regulations* The Executive Director of the Federal Retirement Thrift Investment Board shall promulgate regulations to carry out the amendments made by this section.
+- **(d)** *Effective date* The amendments made by subsections (a) and (b) shall take effect one year after the date of the enactment of this section, or upon such earlier date as may be established by the Executive Director of the Federal Retirement Thrift Investment Board under the regulations promulgated pursuant to subsection (c).
+
+## § 6. Coordination with other retirement systems
+
+- **(a)** *Foreign Service* For provisions of law requiring maintenance of existing conformity—
+  - **(1)** between the Civil Service Retirement System and the Foreign Service Retirement System, and
+  - **(2)** between the Federal Employees’ Retirement System and the Foreign Service Pension System,
+- **(b)** *CIARDS*
+  - **(1)** *Compatibility with CSRS* For provisions of law relating to maintenance of existing conformity between the Civil Service Retirement System and the Central Intelligence Agency Retirement and Disability System, see section 292 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2141).
+  - **(2)** *Applicability of FERS* For provisions of law providing for the application of the Federal Employees’ Retirement System with respect to employees of the Central Intelligence Agency, see title III of the Central Intelligence Agency Retirement Act (50 U.S.C. 2151 and following).
+- **(c)** *TVA* Section 3 of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831b) is amended by adding at the end the following:
+  > - **(c)** The chief executive officer shall prescribe any regulations which may be necessary in order to carry out the purposes of the Securing Annuities for Federal Employees Act of 2012 with respect to any defined benefit plan covering employees of the Tennessee Valley Authority.
