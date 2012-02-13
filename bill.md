@@ -16,7 +16,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 2. General definitions
 
-In this Act, the following definitions apply:
+In titles I through XIII of this Act, the following definitions apply:
 
 - **(1)** *Department* The term “Department” means the Department of Transportation.
 - **(2)** *Secretary* The term “Secretary” means the Secretary of Transportation.

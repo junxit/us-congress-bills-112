@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-894 amendatory instructions. 0 executed, 894 stated and not applied.
+918 amendatory instructions. 0 executed, 918 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,7 +50,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the matter preceding clause (i) by striking “62.5 percent of the remaining 90 percent” and inserting “50 percent”; and | the bill names no machine-readable US Code section |
 | — | replace | in matter following clause (ii) by striking “37.5 percent” and inserting “50 percent”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (5)(A) by striking “funded from the allocation required under paragraph (2)”. | the bill names no machine-readable US Code section |
+| — | strike | Section 133(d)(5)(A) is amended by striking “funded from the allocation required under paragraph (2)”. | the bill names no machine-readable US Code section |
 | — | amend | Section 133(e)(3) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “2004 through 2006” and inserting “2011 through 2013”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “2007 through 2009” and inserting “2014 through 2016”. | the bill names no machine-readable US Code section |
@@ -86,16 +86,18 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (d) by striking “sections 104 and 144” and inserting “section 104”. | the bill names no machine-readable US Code section |
 | — | strike | Section 120(j)(1)(A) is amended by striking “and the Appalachian development highway system program under section 14501 of title 40”. | the bill names no machine-readable US Code section |
 | — | insert | Section 601(a)(1) is amended in the matter preceding subparagraph (A) by inserting “(regardless of when incurred)” after “including the cost”. | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (7) through (14) as paragraphs (8) through (15), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (6) the following: | the bill names no machine-readable US Code section |
-| — | redesignate | Section 601(a)(8) (as redesignated by paragraph (2)(A) of this subsection) is amended by inserting “limited liability company,” after “corporation,”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13), and (14) as paragraphs (3), (4), (5), (6), (7), (9), (10), (11), (12), (14), (15), (16), and (17), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 601(a) (as amended by paragraph (2)(A) of this subsection) is further amended by inserting after paragraph (7) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 601(a)(9) (as redesignated by paragraph (2)(A) of this subsection) is amended by inserting “limited liability company,” after “corporation,”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subparagraph (C); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of subparagraph (D) and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | Section 601(a)(14) (as redesignated by paragraph (2)(A) of this subsection) is amended by inserting “, or other source of funds provided pursuant to section 608(c)(2),” after “budget authority”. | the bill names no machine-readable US Code section |
+| — | insert | Section 601(a) (as amended by paragraph (2)(A) of this subsection) is further amended by inserting after paragraph (12) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 601(a)(16) (as redesignated by paragraph (2)(A) of this subsection) is amended by inserting “, or other source of funds provided pursuant to section 608(c)(2),” after “budget authority”. | the bill names no machine-readable US Code section |
 | — | amend | Section 602 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 6 is amended by striking the item relating to section 602 and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 603 is amended by striking “selected” each place it appears and inserting “approved”. | the bill names no machine-readable US Code section |
+| — | replace | Section 603(1) is amended by striking “selected” each place it appears and inserting “approved”. | the bill names no machine-readable US Code section |
 | — | insert | Section 603(a)(1) is amended in the matter preceding subparagraph (A) by inserting “, including master credit agreements,” after “agreements”. | the bill names no machine-readable US Code section |
 | — | replace | Section 603(a)(3) is amended by striking “602(b)(2)(B)” and inserting “602(c)”. | the bill names no machine-readable US Code section |
 | — | insert | Section 603(b)(1) is amended by inserting “are consistent with this chapter and its purpose and that” before “the Secretary determines appropriate.”. | the bill names no machine-readable US Code section |
@@ -121,7 +123,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 610(k) is amended by striking “fiscal years 2005 through 2009” and inserting “fiscal years 2013 through 2016”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 6 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The analysis for chapter 6 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The analysis for chapter 6 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 129(a) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraphs (A) and (B) by striking “2009” and inserting “2016”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “subparagraph (B)” and inserting “this paragraph”; and | the bill names no machine-readable US Code section |
@@ -132,16 +134,15 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 130(d) is amended by adding at the end the following: “Each State shall make the surveys conducted and schedules implemented under this subsection available to the public on an appropriate Internet Web site of the State.”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 130 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 127(a) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 127(d) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 127 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (a) by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E) by striking “; or” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (F) by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a)(1) by striking the period at the end and inserting “, but not including a trailer or semitrailer transported as part of a towaway trailer transporter combination as defined in section 31111(a).”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 31114(a)(2) of title 49, United States Code, is amended by inserting “a towaway trailer transporter combination as defined in section 31111(a),” before “or any”. | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B) by striking “400” and inserting “550”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C)(ii) by striking “400-pound” and inserting “550-pound”. | the bill names no machine-readable US Code section |
 | — | replace | Chapter 2 is amended by striking sections 201 through 203 and inserting the following: | the bill names no machine-readable US Code section |
 | — | repeal | Paragraphs (7), (9), (12), (19), (20), (24), (25), (26), and (28) of section 101(a) are repealed. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 101(a) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -156,6 +157,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 315 is amended by striking “sections 204(f) and 205(a) of this title” and inserting “sections 203(b)(4) and 205(a)”. | the bill names no machine-readable US Code section |
 | — | repeal | Sections 204 and 214, and the items relating to such sections in the analysis for chapter 2, are repealed. | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 2 is amended by striking the items relating to sections 201 through 203 and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | Chapter 2 is amended by inserting after section 206 the following: | the bill names no machine-readable US Code section |
+| — | insert | The analysis for such chapter is amended by inserting after the item relating to section 206 the following: | the bill names no machine-readable US Code section |
 | — | repeal | Section 110, and the item relating to that section in the analysis for chapter 1, are repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Section 117, and the item relating to that section in the analysis for chapter 1, are repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Section 118(c) is repealed. | the bill names no machine-readable US Code section |
@@ -214,23 +217,37 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (b) by striking “State and” and inserting “State government and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 3 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter I of chapter 3 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The analysis for chapter 3 is amended by inserting after the item relating to section 309 the following: | the bill names no machine-readable US Code section |
 | — | replace | in the heading of paragraph (1) by striking “Temporary exemption” and inserting “Exemption”; | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (1) by striking “, for the period beginning on October 6, 1992, and ending on October 1, 2009,”; and | the bill names no machine-readable US Code section |
+| — | strike | in the matter preceding subparagraph (A) by striking “, for the period beginning on October 6, 1992, and ending on October 1, 2009,”; | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (A) by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B) by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(A) by striking “For the period beginning on the date of enactment of this subparagraph and ending on September 30, 2009, a” and inserting “A”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1105(e)(5)(A) of the Intermodal Surface Transportation Efficiency Act of 1991 is amended by striking “that the segment” and all that follows through the period at the end and inserting “that the segment meets the Interstate Syste… | the bill names no machine-readable US Code section |
 | — | replace | Section 1411(a) of SAFETEA–LU (23 U.S.C. 402 note; 119 Stat. 1234) is amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 1409 of SAFETEA–LU (23 U.S.C. 401 note; 119 Stat. 1232) is amended by striking subsection (c)(1) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 137(a) is amended by adding at the end the following: “The addition of electric vehicle charging stations to new or previously funded parking facilities shall be eligible for funding under this section.”. | the bill names no machine-readable US Code section |
+| — | insert | Section 142(a)(1) is amended by inserting “(which may include electric vehicle charging stations)” after “parking facilities”. | the bill names no machine-readable US Code section |
+| — | insert | Section 205(d) is amended by inserting “(which may include electric vehicle charging stations)” after “parking areas”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 313 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 114 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” after “devices,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the period at the end the following: “, and real-time ridesharing projects (where drivers, using an electronic transfer of funds, recover costs directly associated with the trip provided using location technology to q… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1)(I) by striking “10 percent” and inserting “15 percent”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (12) through (17) as paragraphs (13) through (18), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (11) the following: | the bill names no machine-readable US Code section |
 | — | insert | in the heading for subsection (d) by inserting “Transportation” before “Planning”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (d)(2), by striking “designated under this section” and inserting “responsible for carrying out the provisions of section 5203 of this title”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (d)(2), by striking “designated under this section” and inserting “responsible for carrying out the provisions of section 5203 of this title”; | the bill names no machine-readable US Code section |
 | — | replace | in the subsection heading by striking “State” and inserting “Statewide Transportation”; and | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (1)(A) by striking “5315,”. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1)(A) by striking “5315,”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (g) by striking “section 5338(c)” and inserting “section 5338(a)(2)”. | the bill names no machine-readable US Code section |
 | — | strike | Section 5306(a) is amended by striking “, as determined by local policies, criteria, and decisionmaking,”. | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of subparagraph (E); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (F) as subparagraph (G); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (E) the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “Transportation management areas.—” before “In a”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “elderly and handicapped individuals, or an” and inserting “elderly individuals, individuals with disabilities, and any”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking the comma before “will be charged”; | the bill names no machine-readable US Code section |
@@ -248,7 +265,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “and” at the end of subparagraph (A); | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 5311(c) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 5311(c) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 5311(e) is amended by striking “15 percent” and inserting “10 percent”. | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B) by striking “shelters” and inserting “facilities”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C) by striking “stops and depots” and inserting “facilities”. | the bill names no machine-readable US Code section |
@@ -269,18 +286,20 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “and” at the end of paragraph (3); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 5322 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 5322 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 53 is amended by striking the item relating to section 5322 and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 5323(i) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 5323 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 5323(i) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 5323 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 5325(h) is amended by striking “Federal Public Transportation Act of 2005” and inserting “Public Transportation Act of 2012”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5325 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Chapter 53 is amended by inserting after section 5325 the following: | the bill names no machine-readable US Code section |
 | — | insert | The analysis for such chapter is amended by inserting after the item relating to section 5325 the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “to make contracts”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraph (F) and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 5330(b) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 5336(i) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 5336(k) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 5336(d)(1) is amended by striking “subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338” and inserting “section 5338(a)(2)(B)”. | the bill names no machine-readable US Code section |
 | — | replace | by striking the section designation and heading and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (a) through (f) as subsections (c) through (h), respectively; and | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting before subsection (c) (as so redesignated) the following: | the bill names no machine-readable US Code section |
@@ -289,6 +308,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 5337 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 53 is amended by striking the item relating to section 5337 and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 5338 is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 5333(b)(1) is amended by striking “5338(b)” and inserting “5338(a)” each place it appears. | the bill names no machine-readable US Code section |
 | — | repeal | Section 5308, and the item relating to that section in the analysis for chapter 53, are repealed. | the bill names no machine-readable US Code section |
 | — | replace | Section 5327(c) is amended by striking “5310” each place it appears and inserting “5317”. | the bill names no machine-readable US Code section |
 | — | replace | Section 31138(e)(4) is amended by striking “section 5307, 5310, or 5311” and inserting “section 5307, 5311, or 5317” . | the bill names no machine-readable US Code section |
@@ -296,14 +316,12 @@ complete account of the bill's effect, which it is not.
 | — | repeal | Section 5313, and the item relating to that section in the analysis for chapter 53, are repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Section 5314, and the item relating to that section in the analysis for chapter 53, are repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Section 5315, and the item relating to that section in the analysis for chapter 53, are repealed. | the bill names no machine-readable US Code section |
-| — | strike | in section 5305(e)(1)(A) by striking “5315,”; and | the bill names no machine-readable US Code section |
-| — | strike | in section 5307(k)(1) by striking “5315(c)”. | the bill names no machine-readable US Code section |
-| — | strike | Section 3519 is amended by striking the last sentence. | the bill names no machine-readable US Code section |
+| — | strike | Section 5307(k)(1) is amended by striking “5315(c),”. | the bill names no machine-readable US Code section |
+| — | strike | Section 5319 is amended by striking the last sentence. | the bill names no machine-readable US Code section |
 | — | repeal | Section 5316, and the item relating to that section in the analysis for chapter 53, are repealed. | the bill names no machine-readable US Code section |
 | — | strike | Chapter 53 is amended in section 5333(b)(1) by striking “5316,” each place it appears. | the bill names no machine-readable US Code section |
 | — | repeal | Section 5320, and the item relating to that section in the analysis for chapter 53, are repealed. | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (1) by striking subparagraph (F); and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2)(B) by striking “5311, and 5320” and inserting “and 5311” | the bill names no machine-readable US Code section |
+| — | replace | Section 5327(c)(2)(B) is amended by striking “5311, and 5320” and inserting “and 5311”. | the bill names no machine-readable US Code section |
 | — | strike | Section 5323(e) is amended by striking paragraph (4). | the bill names no machine-readable US Code section |
 | — | strike | Section 5328 is amended by striking subsection (c). | the bill names no machine-readable US Code section |
 | — | repeal | Section 5339, and the item relating to that section in the analysis for chapter 53, are repealed. | the bill names no machine-readable US Code section |
@@ -313,11 +331,12 @@ complete account of the bill's effect, which it is not.
 | — | repeal | Section 3045 of SAFETEA–LU (49 U.S.C. 5308 note; 119 Stat. 1705), and the item relating to that section in the table of contents contained in section 1(b) of that Act, are repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Section 3046 of SAFETEA–LU (49 U.S.C. 5338 note; 119 Stat. 1706), and the item relating to that section in the table of contents contained in section 1(b) of that Act, are repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Section 3038 of the Transportation Equity Act for the 21st Century (49 U.S.C. 5310 note; 112 Stat. 392), and the item relating to that section in the table of contents contained in section 1(b) of that Act, are repealed. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5323(j) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 101(b) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “real property” each place it appears and inserting “real property interests”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “right-of-way” each place it appears and inserting “real property interest”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “rights-of-way” each place it appears and inserting “real property interests”. | the bill names no machine-readable US Code section |
-| — | replace | in the subsection heading by striking “Early acquisition of rights-of-way” and inserting “State-funded early acquisition of real property interests”; | the bill names no machine-readable US Code section |
+| — | replace | in the subsection heading by striking “Early acquisition of rights-of-Way” and inserting “State-Funded early acquisition of real property interests”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively; | the bill names no machine-readable US Code section |
 | — | replace | in the heading by striking “General rule” and inserting “Eligibility for reimbursement”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Subject to paragraph (2)” and inserting “Subject to paragraph (3)”; | the bill names no machine-readable US Code section |
@@ -340,7 +359,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 303 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 139(b) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2) by inserting “, and any requirements established in this section may be satisfied,” after “exercised”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding after paragraph (3), as added by section 3009 of this Act, the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding after paragraph (3), as added by this Act, the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in paragraph (1) by adding at the end the following: “If the project requires approval from more than one modal administration within the Department, the Secretary shall designate a single modal administration to serve as the Federal lea… | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (3) by inserting “or other approvals by the Secretary” after “chapter 53 of title 49”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (5) and inserting the following: | the bill names no machine-readable US Code section |
@@ -388,7 +407,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 327 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 3 is amended by striking the item relating to section 327 and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 3 (as amended by title I of this Act) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The analysis for such chapter (as amended by title I of this Act) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The analysis for such chapter (as amended by title I of this Act) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 3 (as amended by this title) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for such chapter (as amended by this title) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a)(4) by striking “$10,000” and inserting “$25,000, as adjusted by regulation, in accordance with section 213(d)”; and | the bill names no machine-readable US Code section |
@@ -449,7 +468,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 13901 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 139 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 13902(a)(2) is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -460,7 +479,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 13905(c) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (2) as paragraph (4); | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (4) (as redesignated by subparagraph (A) of this paragraph) by striking “paragraph (1)(B)” and inserting “paragraph (2)(B)”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4) (as redesignated by paragraph (1)) by striking “paragraph (1)(B)” and inserting “paragraph (2)(B)”. | the bill names no machine-readable US Code section |
 | — | insert | Section 13905(e) is amended by inserting “or if the Secretary determines that the registrant has failed to disclose a material fact in an application for registration in accordance with subsection (d)(2)(C)” before the first comma. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (d) as subsection (e); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
@@ -470,7 +489,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 13906 is amended by striking subsections (b) and (c) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | Section 13908(d)(1) is amended by striking “but shall not exceed $300”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 149 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Subchapter III of chapter 311 is amended by inserting after section 31133 the following: | the bill names no machine-readable US Code section |
 | — | insert | The analysis for chapter 311 is amended by inserting after the item relating to section 31133 the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 31102 is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -499,7 +518,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 31144(g)(5) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 31103(b) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 31144(g) is amended, in the subsection heading, by striking “Safety Reviews of New Operators” and inserting “New Entrant Motor Carrier Safety Reviews”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 31144 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 31144 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 31149(c)(1)(D) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (E) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (F) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
@@ -514,8 +533,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 31309(e)(4)(A) is amended by striking the period at the end and inserting “and must use the systems to receive and submit conviction and disqualification data.”. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5) by striking “At least” and all that follows through “regulation),” and inserting the following: “Within the time period the Secretary prescribes by regulation,”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 31311 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 31311 is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 31311 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 31311 is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 31313(a) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking subsections (b) and (c); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (d) as subsection (b); and | the bill names no machine-readable US Code section |
@@ -575,6 +594,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subsections (d) through (j). | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 5 of title 23, United States Code, is amended by striking the item relating to section 502 and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 503 of title 23, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | The analysis for chapter 5 of such title is amended by striking the item relating to section 503 and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | Chapter 5 of title 23, United States Code, is amended by inserting after section 503 the following: | the bill names no machine-readable US Code section |
 | — | insert | The analysis for chapter 5 of title 23, United States Code, is amended by inserting after the item relating to section 503 the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a)(2) by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
@@ -587,7 +607,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (E) by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2) by inserting before the period at the end the following: “, except for activities carried out under paragraph (1)(G), for which the Federal share shall be 50 percent as described in subsection (b)(3)(A)”; and | the bill names no machine-readable US Code section |
-| — | redesignate | in the heading of subsection (e) (as redesignated by paragraph (4) of this section) by striking “Pilot”. | the bill names no machine-readable US Code section |
+| — | redesignate | in the heading of subsection (e) (as redesignated by paragraph (5) of this section) by striking “Pilot”. | the bill names no machine-readable US Code section |
 | — | replace | Section 505(a) of title 23, United States Code, is amended in the first sentence by striking “104(h)) and under section 144” and inserting “104(i))”. | the bill names no machine-readable US Code section |
 | — | repeal | Section 506 of title 23, United States Code, and the item relating to such section in the analysis for chapter 5 of such title, are repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Section 507 of title 23, United States Code, and the item relating to such section in the analysis for chapter 5 of such title, are repealed. | the bill names no machine-readable US Code section |
@@ -614,14 +634,15 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Chapter 5 of title 23, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | repeal | Section 5307 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users is repealed. | the bill names no machine-readable US Code section |
 | — | amend | The analysis for chapter 5 of title 23, United States Code, is further amended by adding after the item relating to section 516 the following: | the bill names no machine-readable US Code section |
-| — | repeal | Section 5505 of title 49, United States Code, and the item relating to such section in the analysis of chapter 55 of such title, is repealed. | the bill names no machine-readable US Code section |
-| — | amend | in subsection (b)(1) by adding “that is consistent with section 503 of title 23” after “applied research”; | the bill names no machine-readable US Code section |
+| — | repeal | Section 5505 of title 49, United States Code, and the item relating to such section in the analysis of chapter 55 of such title, are repealed. | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b)(1) by inserting “that is consistent with section 503 of title 23” after “applied research”; | the bill names no machine-readable US Code section |
 | — | replace | in the heading by striking “Regional, Tier I, and Tier II Centers” and inserting “Regional and standard centers”; | the bill names no machine-readable US Code section |
 | — | replace | in the heading by striking “Regional and Tier I centers” and inserting “Regional and standard centers”; | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A) by striking “2005 through 2009” and inserting “2013 through 2016”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B) by striking “10 Tier I” and inserting “20 standard”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively; | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (d) by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1) by striking “March 31, 2006, and not later than March 31st of every 4th year thereafter” and inserting “180 days after the date of enactment of the American Energy and Infrastructure Jobs Act of 2012, and every 4 years t… | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (B) by striking “and”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (C) by striking the period and adding “; and”; and | the bill names no machine-readable US Code section |
@@ -636,9 +657,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “Tier I” and inserting “standard”; | the bill names no machine-readable US Code section |
 | — | redesignate | by striking subsection (g) and redesignating subsections (h) through (m) as subsections (g) through (l), respectively; | the bill names no machine-readable US Code section |
 | — | replace | by striking “Maintenance of Effort.—”and all that follows through “In order to be” and inserting “Maintenance of Effort.—In order to be”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (2); | the bill names no machine-readable US Code section |
 | — | replace | by striking “50” and inserting “65”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “503” and inserting “503A”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “503” and inserting “503A”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c) by striking paragraph (5) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (d) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (n) by striking “Mass Transit” and inserting “Alternative Transportation”; and | the bill names no machine-readable US Code section |
@@ -672,9 +694,10 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 24310 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 24305(c)(4) of title 49, United States Code, is amended by striking “only if revenues from the services each year at least equal the cost of providing the services” and inserting “only as provided in subsection (h)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 24305 of title 49, United States Code, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 24305(f) of title 49, United States Code, is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | add-at-end | Part B of subtitle V of title 49, United States Code, is amended by adding at the end the following new chapter: | the bill names no machine-readable US Code section |
 | — | insert | The chapter analysis for subtitle V of title 49, United States Code, is amended by inserting after the item relating to chapter 227 the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 502(b)(1)(C) of such Act (45 U.S.C. 822(b)(1)(C)) is amended by inserting “, including high-speed rail (as defined in section 26101(6)) of title 49, United States Code) facilities” after “railroad facilities”. | the bill names no machine-readable US Code section |
+| — | insert | Section 502(b)(1)(C) of such Act (45 U.S.C. 822(b)(1)(C)) is amended by inserting “, including high-speed rail (as defined in section 26105(2) of title 49, United States Code) facilities” after “railroad facilities”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “under this section a commitment” and inserting “under this section private insurance, including bond insurance, or any other commitment”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or private insurance, including bond insurance,” after “authority and credit risk premiums”. | the bill names no machine-readable US Code section |
 | — | insert | Section 502(f)(3) of such Act (45 U.S.C. 822(f)(3)) is amended by inserting “, or, at the discretion of the Secretary, in a series of payments over the term of the loan. If private insurance, including bond insurance, is used, the policy… | the bill names no machine-readable US Code section |
@@ -686,7 +709,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “Disapproval.—Not later than 90 days after receiving” and inserting | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 502(j) of such Act (45 U.S.C. 822(j)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | insert | Section 502(c)(1) of such Act (45 U.S.C. 822(c)(1)) is amended by inserting “, including projects for the installation of positive train control systems as defined in section 20157(a) of title 49, United States Code” after “public safety”. | the bill names no machine-readable US Code section |
+| — | insert | Section 502(c)(1) of such Act (45 U.S.C. 822(c)(1)) is amended by inserting “, including projects for the installation of positive train control systems as defined in section 20157(i) of title 49, United States Code” after “public safety”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 502(h)(2) of such Act (45 U.S.C. 822(h)(2)), as amended by this section, is further amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 502 of such Act (45 U.S.C. 822) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 502 of such Act (45 U.S.C. 822) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
@@ -727,13 +750,13 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the item relating to section 307, by striking “website” and inserting “Web site”; | the bill names no machine-readable US Code section |
 | — | replace | in the item relating to section 403, by striking “Track inspection time study” and inserting “Study and rulemaking on track inspection time; rulemaking on concrete cross ties”; | the bill names no machine-readable US Code section |
 | — | replace | in the item relating to section 408, by striking “Conrail” and inserting “Consolidated Rail Corporation”; | the bill names no machine-readable US Code section |
-| — | replace | in the item relating to title VI, by striking “Solid waste facilities” and inserting “Solid waste rail transfer facilities”; and | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to title VI, by striking “solid waste facilities” and inserting “solid waste rail transfer facilities”; and | the bill names no machine-readable US Code section |
 | — | replace | in the item relating to section 602 by striking “solid waste transfer facilities” and inserting “solid waste rail transfer facilities”. | the bill names no machine-readable US Code section |
 | — | insert | Section 2(a)(1) of the Rail Safety Improvement Act of 2008 is amended by inserting a comma after “tracks at grade”. | the bill names no machine-readable US Code section |
 | — | amend | Section 102(a)(6) of the Rail Safety Improvement Act of 2008 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 206(a) of the Rail Safety Improvement Act of 2008 is amended by striking “Public Service Announcements” and inserting “public service announcements”. | the bill names no machine-readable US Code section |
 | — | replace | in the section heading, by striking “website” and inserting “Web site”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking “website” and inserting “Web site”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “website” each place it appears and inserting “Web site”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “website’s” and inserting “Web site’s”. | the bill names no machine-readable US Code section |
 | — | replace | Section 403 of the Rail Safety Improvement Act of 2008 is amended in the section heading by striking “Track inspection time study” and inserting “Study and rulemaking on track inspection time; rulemaking on concrete cross ties”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “cell phones” and inserting “cellular telephones”; and | the bill names no machine-readable US Code section |
@@ -758,6 +781,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “and” at the end of subclause (II); and | the bill names no machine-readable US Code section |
 | — | strike | by striking subclauses (III) and (IV). | the bill names no machine-readable US Code section |
 | — | replace | Section 209(c) of the Passenger Rail Investment and Improvement Act of 2008 (Public Law 110–432, 122 Stat. 4918) is amended by striking “within 1 year after the Board’s determination” and inserting “by the first day of the first fiscal y… | the bill names no machine-readable US Code section |
+| — | redesignate | by striking paragraph (4) and redesignating paragraphs (5) through (11) as paragraphs (4) through (10), respectively; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | strike | Section 5101 is amended by striking “that are inherent”. | the bill names no machine-readable US Code section |
 | — | strike | Section 5102(4)(A)(i)(I) is amended by striking “or uses”. | the bill names no machine-readable US Code section |
 | — | amend | Section 5102(13) is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -790,11 +815,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the first sentence by striking “planning grants” and all that follows through “and under section 5107” and inserting “grants allocated under subsections (a), (b), and (j)”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “planning and” before “training grants”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “planning and” before “training programs”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “(a) Authority to issue special permits.—(1) As provided under procedures prescribed by regulation,” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(a) Authority To issue special permits.—(1) As provided under procedures prescribed by regulation,” and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(2) A special permit” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 5119 is amended by striking subsection (a) and all that follows and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 5119 is amended by striking subsection (a) and all that follows through the end of the section and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a) by striking “State, the Secretary of Transportation shall participate” and inserting “State and the Secretary of Transportation, the Administrator of the Pipelines and Hazardous Materials Safety Administration, or the A… | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Secretary” and inserting “The Administrator”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “sections 5103(b), 5104, 5110, and 5112 of this title” and inserting “this chapter”. | the bill names no machine-readable US Code section |
@@ -830,8 +855,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 5128 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a) in the matter preceding paragraph (1), by striking “For each of” and all that follows through “the balance of each annual” and inserting “For each fiscal year through fiscal year 2016, the balance of each annual”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b)(1)(A), by striking “From the annual” and all that follows through “the Secretary” and inserting “From the annual appropriation made in accordance with section 3 for each fiscal year through fiscal year 2016, the Secreta… | the bill names no machine-readable US Code section |
-| — | replace | by striking “The available amount” and all that follows through “the sum of—” and inserting “The available amount referred to in subparagraph (A) is, for each fiscal year, the sum of—”; and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subitems (aa) and (bb) as clauses (i) and (ii), and moving them 4 ems to the left. | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (b)(1)(B) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b)(2), by striking “(as in effect on” each place it appears and all that follows through the next closed parenthesis and inserting “(as in effect on the date of enactment of the Sportfishing and Recreational Boating Safety… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d)(2), by striking “before” and all that follows through “in accordance” and inserting “before October 1, 2016, in accordance”. | the bill names no machine-readable US Code section |
 | — | replace | in section 13107(a)(2), by striking “two” and inserting “1.5”; and | the bill names no machine-readable US Code section |

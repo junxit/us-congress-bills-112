@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7
@@ -29,3 +29,10 @@ American Energy and Infrastructure Jobs Act of 2012
 - 2012-01-31 — Introduced in House
 - 2012-01-31 — Introduced in House
 - 2012-01-31 — Referred to the House Committee on Transportation and Infrastructure.
+- 2012-02-01 — Referred to the Subcommittee on Highways and Transit.
+- 2012-02-02 — Committee Consideration and Mark-up Session Held.
+- 2012-02-02 — Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 24.
+- 2012-02-02 — Subcommittee on Highways and Transit Discharged.
+- 2012-02-13 — Placed on the Union Calendar, Calendar No. 277.
+- 2012-02-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 112-397.
+- 2012-02-13 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 112-397.
