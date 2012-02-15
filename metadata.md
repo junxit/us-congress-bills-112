@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3248
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3248
@@ -31,8 +31,22 @@ To designate the facility of the United States Postal Service located at 112 Sou
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2012-02-15 — [House 112-2-54](votes/house-112-2-0054.md) — On Motion to Suspend the Rules and Pass — **Passed** (412–0)
+
 ## Actions
 
 - 2011-10-24 — Introduced in House
 - 2011-10-24 — Introduced in House
 - 2011-10-24 — Referred to the House Committee on Oversight and Government Reform.
+- 2011-11-03 — Committee Consideration and Mark-up Session Held.
+- 2011-11-03 — Ordered to be Reported by Unanimous Consent.
+- 2012-02-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-02-14 — Considered under suspension of the rules. (consideration: CR H707-708)
+- 2012-02-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3248.
+- 2012-02-14 — Mr. Kelly moved to suspend the rules and pass the bill.
+- 2012-02-15 — Considered as unfinished business. (consideration: CR H751-752)
+- 2012-02-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-02-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 54). (text: CR 02/14/2012 H707)
+- 2012-02-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 54).(text: CR 02/14/2012 H707)
