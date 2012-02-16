@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2079
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2079
@@ -46,9 +46,10 @@ To designate the facility of the United States Postal Service located at 10 Main
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 - Rep. Buerkle, Ann Marie [R-NY-25] (B001276)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -71,3 +72,4 @@ To designate the facility of the United States Postal Service located at 10 Main
 - 2012-02-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-02-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 52). (text: CR 02/14/2012 H705)
 - 2012-02-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 52).(text: CR 02/14/2012 H705)
+- 2012-02-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
