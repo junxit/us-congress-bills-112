@@ -1,0 +1,280 @@
+---
+legis-num: H.R. 4067
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4067
+
+> To approve the settlement of water rights claims of the Navajo Nation, the Hopi Tribe, and the allottees of the Navajo Nation and Hopi Tribe in the State of Arizona, to authorize construction of municipal water projects relating to the water rights claims, to resolve litigation against the United States concerning Colorado River operations affecting the States of California, Arizona, and Nevada, and for other purposes.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Navajo-Hopi Little Colorado River Water Rights Settlement Act of 2012”.
+- **(b)** *Table of contents* The table of contents of this Act is as follows:
+
+## § 2. Findings
+
+Congress finds that—
+
+- **(1)** it is the policy of the United States, in keeping with the trust responsibility of the United States to Indian tribes, to settle Indian water rights claims whenever possible without lengthy and costly litigation;
+- **(2)** the water rights settlements described in paragraph (1) typically require congressional review and approval;
+- **(3)** the Navajo Nation and the United States, acting as trustee for the Navajo Nation and allottees of the Navajo Nation, claim the right to an unquantified amount of water from the Little Colorado River system and source;
+- **(4)** the Navajo Nation claims the right to an unquantified amount of water from the lower basin of the Colorado River and has challenged the legality of the Colorado River Interim Surplus Guidelines, the Colorado River Quantification Settlement Agreement of the State of California, interstate water banking regulations, and Central Arizona Project water deliveries;
+- **(5)** the defendants in the action described in paragraph (4) include—
+  - **(A)** the Department of the Interior, including the Bureau of Reclamation and the Bureau of Indian Affairs, and
+  - **(B)** intervenor-defendants, including—
+    - **(i)** the Southern Nevada Water Authority;
+    - **(ii)** the Colorado River Commission of Nevada;
+    - **(iii)** the State of Arizona;
+    - **(iv)** the State of Nevada;
+    - **(v)** the Central Arizona Water Conservation District;
+    - **(vi)** the Southern California Metropolitan Water District;
+    - **(vii)** the Imperial Irrigation District;
+    - **(viii)** the Coachella Valley Water District;
+    - **(ix)** the Arizona Power Authority;
+    - **(x)** the Salt River Project Agricultural Improvement and Power District; and
+    - **(xi)** the Salt River Valley Water Users Association;
+- **(6)** the Hopi Tribe and the United States, acting as trustee for the Hopi Tribe and allottees of the Hopi Tribe, claim the right to an unquantified amount of water from the Little Colorado River system and source; and
+- **(7)** consistent with the policy of the United States, this Act settles the water rights claims of the Navajo Nation, allottees of the Navajo Nation, the Hopi Tribe, and allottees of the Hopi Tribe by providing drinking water infrastructure to the Navajo Nation and the Hopi Tribe in exchange for limiting the legal exposure and litigation expenses of the United States, the States of Arizona and Nevada, and agricultural, municipal, and industrial water users in the States of Arizona, Nevada, and California.
+
+## § 3. Purposes
+
+The purposes of this Act are—
+
+- **(1)** to resolve, fully and finally—
+  - **(A)** any and all claims to the Little Colorado River system and source in the State of Arizona of—
+    - **(i)** the Navajo Nation, on behalf of itself and the members of the Navajo Nation;
+    - **(ii)** the United States, acting as trustee for the Navajo Nation, the members of the Navajo Nation, and allottees of the Navajo Nation;
+    - **(iii)** the Hopi Tribe, on behalf of itself and the members of the Hopi Tribe; and
+    - **(iv)** the United States, acting as trustee for the Hopi Tribe, the members of the Hopi Tribe, and allottees of the Hopi Tribe; and
+  - **(B)** any and all claims to the Gila River system and source in the State of Arizona of the Navajo Nation, on behalf of itself and the members of the Navajo Nation;
+- **(2)** to approve, ratify, and confirm the settlement agreement entered into among the Navajo Nation, the Hopi Tribe, the United States, the State of Arizona, and any other party;
+- **(3)** to authorize and direct the Secretary to execute and perform the duties and obligations of the Secretary under the settlement agreement and this Act; and
+- **(4)** to authorize any actions and appropriations necessary for the United States to fulfill the duties and obligations of the United States to the Navajo Nation, allottees of the Navajo Nation, the Hopi Tribe, and allottees of the Hopi Tribe, as provided in the settlement agreement and this Act.
+
+## § 4. Definitions
+
+In this Act:
+
+- **(1)** *1934 Act case* The term 1934 Act case means the litigation styled Honyoama v. Shirley, Case No. CIV 74–842–PHX–EHC (D. Ariz. 2006).
+- **(2)** *Abstract* The term abstract means a summary of water rights or uses held or owned by any person, as represented in a form substantially similar to the form attached as exhibit 3.1.4 to the settlement agreement.
+- **(3)** *Afy* The term afy means acre-feet per year.
+- **(4)** *Allotment* The term allotment means an allotment that—
+  - **(A)** was originally allotted to an individual identified as a Navajo or Hopi Indian in the allotting document;
+  - **(B)** is located—
+    - **(i)** within the exterior boundaries of the Navajo Reservation;
+    - **(ii)** within the exterior boundaries of the Hopi Reservation; or
+    - **(iii)** on land that is—
+      - **(I)** off-reservation land; and
+      - **(II)** within Apache, Coconino, or Navajo County, in the State; and
+  - **(C)** is held in trust by the United States for the benefit of an allottee.
+- **(5)** *Allottee* The term allottee means a person who holds a beneficial real property interest in an allotment.
+- **(6)** *Available CAP supply* The term available CAP supply means, for any given year—
+  - **(A)** all fourth priority Colorado River water available for delivery through the CAP system;
+  - **(B)** water available from CAP dams and reservoirs other than Modified Roosevelt Dam; and
+  - **(C)** return flows captured by the Secretary for CAP use.
+- **(7)** *CAP contract* The term CAP contract means a long-term contract or subcontract, as those terms are used in the CAP repayment stipulation, for delivery of CAP water.
+- **(8)** *CAP contractor* The term CAP contractor means a person or entity that has entered into a long-term contract or subcontract (as those terms are used in the CAP repayment stipulation) with the United States or the United States and the Central Arizona Water Conservation District for delivery of water through the CAP system.
+- **(9)** *CAP fixed OM&R charge* The term CAP fixed OM&R charge means Fixed OM&R Charge, as that term is defined in the CAP repayment stipulation.
+- **(10)** *CAP M&I priority water* The term CAP M&I priority water means the CAP water that has a municipal and industrial delivery priority under the CAP repayment contract.
+- **(11)** *CAP NIA priority water* The term CAP NIA priority water means the CAP water deliverable under a CAP contract providing for the delivery of non-Indian agricultural priority water.
+- **(12)** *CAP operating agency*
+  - **(A)** *In general* The term CAP operating agency has the meaning given the term in section 2 of the Arizona Water Settlements Act (Public Law 108–451; 118 Stat. 3478).
+  - **(B)** *Administration* As of the date of enactment of this Act, the CAP operating agency is the Central Arizona Water Conservation District.
+- **(13)** *Cap pumping energy charge* The term CAP pumping energy charge means Pumping Energy Charge, as that term is defined in the CAP repayment stipulation.
+- **(14)** *CAP repayment contract* The term CAP repayment contract has the meaning given the term in section 2 of the Arizona Water Settlements Act (Public Law 108–451; 118 Stat. 3478).
+- **(15)** *CAP repayment stipulation* The term CAP repayment stipulation means the Stipulated Judgment and the Stipulation for Judgment (including exhibits), entered on November 21, 2007, in the case styled Central Arizona Water Conservation District v. United States, et al., No. CIV 95–625–TUC–WDB (EHC), No. CIV 95–1720–PHX–EHC (Consolidated Action), United States District Court for the District of Arizona (including any amendments or revisions).
+- **(16)** *CAP system* The term CAP system has the meaning given the term in section 2 of the Arizona Water Settlements Act (Public Law 108–451; 118 Stat. 3478).
+- **(17)** *CAP water* The term CAP water means Project Water, as that term is defined in the CAP repayment stipulation.
+- **(18)** *Central Arizona Project or CAP* The term Central Arizona Project or CAP means the Federal reclamation project authorized and constructed by the United States in accordance with title III of the Colorado River Basin Project Act (43 U.S.C. 1521 et seq.).
+- **(19)** *Central Arizona Water Conservation District* The term Central Arizona Water Conservation District means the political subdivision of the State that is the contractor under the CAP repayment contract.
+- **(20)** *Colorado river compact* The term Colorado River Compact means the Colorado River Compact of 1922, as ratified and reprinted in article 2 of chapter 7 of title 45, Arizona Revised Statutes.
+- **(21)** *Colorado River system* The term Colorado River system has the meaning given the term in article II(a) of the Colorado River Compact.
+- **(22)** *Commissioner* The term Commissioner means the Commissioner of Reclamation.
+- **(23)** *Decree* The term decree, when used without a modifying adjective, means—
+  - **(A)** the decree of the Supreme Court in the case styled Arizona v. California (376 U.S. 340 (1964));
+  - **(B)** the Consolidated Decree entered on March 27, 2006 (547 U.S. 150), in the case described in subparagraph (A); and
+  - **(C)** any modifications to the decrees described in subparagraphs (A) and (B).
+- **(24)** *Divert* The term divert means to receive, withdraw, develop, produce, or capture groundwater, surface water, Navajo Nation CAP water, or effluent by means of a ditch, canal, flume, bypass, pipeline, pit, collection or infiltration gallery, conduit, well, pump, turnout, other mechanical device, or any other human act, including the initial impoundment of that water.
+- **(25)** *Effluent*
+  - **(A)** *In general* The term effluent means water that—
+    - **(i)** has been used in the State for domestic, municipal, or industrial purposes; and
+    - **(ii)** is available for use for any purpose.
+  - **(B)** *Exclusion* The term effluent does not include water that has been used solely for hydropower generation.
+- **(26)** *Fourth priority Colorado river water* The term fourth priority Colorado River water means Colorado River water that is available for delivery in the State for satisfaction of entitlements—
+  - **(A)** pursuant to contracts, Secretarial reservations, perfected rights, and other arrangements between the United States and water users in the State entered into or established subsequent to September 30, 1968, for use on Federal, State, or privately owned land in the State, in a total quantity that does not exceed 164,652 afy of diversions; and
+  - **(B)** after first providing for the delivery of water under section 304(e) of the Colorado River Basin Project Act (43 U.S.C. 1524(e)), pursuant to the CAP repayment contract for the delivery of Colorado River water for the CAP, including use of Colorado River water on Indian land.
+- **(27)** *Gila River adjudication* The term Gila River adjudication means the action pending in the Superior Court of the State of Arizona in and for the County of Maricopa styled In Re the General Adjudication of All Rights To Use Water In The Gila River System and Source, W–1 (Salt), W–2 (Verde), W–3 (Upper Gila), W–4 (San Pedro) (Consolidated).
+- **(28)** *Gila River adjudication court* The term Gila River adjudication court means the Superior Court of the State of Arizona in and for the County of Maricopa, exercising jurisdiction over the Gila River adjudication.
+- **(29)** *Gila River adjudication decree* The term Gila River adjudication decree means the judgment or decree entered by the Gila River adjudication court, which shall be in substantially the same form as the form of judgment attached to the settlement agreement as exhibit 3.1.49.
+- **(30)** *Groundwater* The term groundwater means all water beneath the surface of the earth within the State that is not—
+  - **(A)** surface water;
+  - **(B)** underground water within the Upper Basin;
+  - **(C)** Lower Colorado River water; or
+  - **(D)** effluent.
+- **(31)** *Hopi fee land* The term Hopi fee land means land, other than Hopi trust land, that—
+  - **(A)** is located in the State;
+  - **(B)** is located outside the exterior boundaries of the Hopi Reservation; and
+  - **(C)** as of the LCR enforceability date, is owned by the Hopi Tribe, including ownership through a related entity.
+- **(32)** *Hopi groundwater project* The term Hopi Groundwater Project means the project carried out in accordance with section 103(b).
+- **(33)** *Hopi groundwater project account* The term Hopi Groundwater Project Account means the account created in the Treasury of the United States pursuant to section 104(c).
+- **(34)** *Hopi land* The term Hopi land means—
+  - **(A)** the Hopi Reservation;
+  - **(B)** Hopi trust land; and
+  - **(C)** Hopi fee land.
+- **(35)** *Hopi OM&R Trust Account* The term Hopi OM&R Trust Account means the account created in the Treasury of the United States pursuant to section 104(d).
+- **(36)** *Hopi reservation*
+  - **(A)** *In general* The term Hopi Reservation means the land within the exterior boundaries of the Hopi Reservation, including—
+    - **(i)** all land withdrawn by the Executive Order dated December 16, 1882, and in which the Hopi Tribe is recognized as having an exclusive interest in the case styled Healing v. Jones, Case No. CIV–579 (D. Ariz. September 28, 1962), or that was partitioned to the Hopi Tribe in accordance with section 4 of the Act of December 22, 1974 (Public Law 93–531; 88 Stat. 1713), and codified in the Navajo-Hopi Land Dispute Settlement Act of 1996 (25 U.S.C. 640d note; Public Law 104–301);
+    - **(ii)** all land partitioned to the Hopi Tribe by Judgment of Partition, dated February 10, 1977, in the case styled Sekaquaptewa v. MacDonald, Case No. CIV–579–PCT–JAW (D. Ariz.);
+    - **(iii)** all land recognized as part of the Hopi Reservation in the 1934 Act case; and
+    - **(iv)** all individual allotments made to members of the Hopi Tribe within the boundaries of the Hopi Reservation.
+  - **(B)** *Map*
+    - **(i)** *In general* The Hopi Reservation is also depicted more particularly on the map attached to the settlement agreement as exhibit 3.1.100.
+    - **(ii)** *Applicability* In case of a conflict relating to the Hopi Reservation as depicted on the map under clause (i) and the definition in subparagraph (A), the definition under subparagraph (A) shall control.
+  - **(C)** *Exclusion* The term Hopi Reservation does not include any land held in trust by the United States for the benefit of the Navajo Nation within the exterior boundaries of the Hopi Reservation.
+- **(37)** *Hopi Tribe* The term Hopi Tribe means the Hopi Tribe, a Tribe of Hopi Indians organized under section 16 of the Act of June 18, 1934 (25 U.S.C. 476) (commonly known as the “Indian Reorganization Act”).
+- **(38)** *Hopi trust land* The term Hopi trust land means land that—
+  - **(A)** is located in the State;
+  - **(B)** is located outside the exterior boundaries of the Hopi Reservation; and
+  - **(C)** as of the LCR enforceability date, is held in trust by the United States for the benefit of the Hopi Tribe.
+- **(39)** *Indian tribe* The term Indian tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+- **(40)** *Injury to quality of Lower Colorado River water* The term injury to quality of Lower Colorado River water means—
+  - **(A)** any diminution or degradation of the quality of Lower Colorado River water due to a change in the salinity or concentration of naturally occurring chemical constituents of Lower Colorado River water; and
+  - **(B)** any effect of a change described in subparagraph (A) if the change and effect of the change are due to the withdrawal, diversion, or use of Lower Colorado River water.
+- **(41)** *Injury to rights to Lower Colorado River water* The term injury to rights to Lower Colorado River water means any interference with, diminution of, or deprivation of the right of any entity to Lower Colorado River water under applicable law.
+- **(42)** *Injury to water quality* The term injury to water quality means—
+  - **(A)** any diminution or degradation of the quality of water due to a change in the salinity or concentration of naturally occurring chemical constituents of water; and
+  - **(B)** any effect of a change described in subparagraph (A) if the change and effect of the change are due to the withdrawal, diversion, or use of water.
+- **(43)** *Injury to water rights* The term injury to water rights means an interference with, diminution of, or deprivation of, water rights under applicable law.
+- **(44)** *LCR* The term LCR means the Little Colorado River, a tributary of the Colorado River in Arizona.
+- **(45)** *LCR adjudication* The term LCR adjudication means the action pending in the Superior Court of the State of Arizona in and for the County of Apache styled In Re the General Adjudication of All Rights To Use Water In The Little Colorado River System and Source, CIV No. 6417.
+- **(46)** *LCR adjudication court* The term LCR adjudication court means the Superior Court of the State of Arizona in and for the County of Apache, exercising jurisdiction over the LCR adjudication.
+- **(47)** *LCR decree* The term LCR decree means the judgment and decree entered by the LCR adjudication court, which shall be in substantially the same form as the form of judgment attached to the settlement agreement as exhibit 3.1.70.
+- **(48)** *LCR enforceability date* The term LCR enforceability date means the date on which the Secretary publishes in the Federal Register the statement of findings described in section 108(a).
+- **(49)** *LCR watershed* The term LCR watershed means all land located within the surface water drainage of the LCR and the tributaries of the LCR in the State.
+- **(50)** *Lee Ferry* The term Lee Ferry has the meaning given the term in article II(e) of the Colorado River Compact.
+- **(51)** *Lower basin* The term lower basin has the meaning given the term in article II(g) of the Colorado River Compact.
+- **(52)** *Lower Colorado River* The term Lower Colorado River means the portion of the Colorado River that is in the United States and downstream from Lee Ferry, including any reservoirs on that portion of the Colorado River.
+- **(53)** *Lower Colorado River Basin Development Fund* The term Lower Colorado River Basin Development Fund means the fund established by section 403 of the Colorado River Basin Project Act (43 U.S.C. 1543).
+- **(54)** *Lower Colorado River water*
+  - **(A)** *In general* The term Lower Colorado River water means the waters of the Lower Colorado River, including—
+    - **(i)** the waters of the reservoirs on the Lower Colorado River;
+    - **(ii)** the waters of the tributaries to the Lower Colorado River, other than—
+      - **(I)** tributaries located within the State;
+      - **(II)** tributaries located within the Western Navajo Colorado River Basin; or
+      - **(III)** tributaries of the LCR in the State of New Mexico;
+    - **(iii)** all underground water that is hydraulically connected to the Lower Colorado River; and
+    - **(iv)** all underground water that is hydraulically connected to tributaries to the Lower Colorado River, other than—
+      - **(I)** tributaries located within the State;
+      - **(II)** tributaries located within the Western Navajo Colorado River Basin; or
+      - **(III)** tributaries of the LCR in the State of New Mexico.
+  - **(B)** *Applicability* The definition of the term Lower Colorado River water in subparagraph (A) and any definition of the term included in the settlement agreement—
+    - **(i)** shall apply only to this Act and the settlement agreement, as applicable; and
+    - **(ii)** shall not be used in any interpretation of—
+      - **(I)** the Colorado River Compact;
+      - **(II)** the Boulder Canyon Project Act (43 U.S.C. 617 et seq.);
+      - **(III)** the Colorado River Basin Project Act (43 U.S.C. 1501 et seq.); or
+      - **(IV)** any contract or agreement entered into pursuant to the documents described in subclauses (I) through (III).
+- **(55)** *Navajo fee land* The term Navajo fee land means land, other than Navajo trust land, that—
+  - **(A)** is located in the State;
+  - **(B)** is located outside the exterior boundaries of the Navajo Reservation; and
+  - **(C)** as of the LCR enforceability date, is owned by the Navajo Nation, including through a related entity.
+- **(56)** *Navajo-Gallup Water Supply Project* The term Navajo-Gallup water supply project means the project authorized, constructed, and operated pursuant to the Northwestern New Mexico Rural Water Projects Act (Public Law 111–11; 123 Stat. 1368).
+- **(57)** *Navajo Generating Station* The term Navajo generating station means the Navajo generating station, a steam electric generating station located on the Navajo Reservation near Page, Arizona, and consisting of Units 1, 2, and 3, the switchyard facilities, and all facilities and structures used or related to the Navajo generating station.
+- **(58)** *Navajo groundwater projects* The term Navajo Groundwater Projects means the projects carried out in accordance with section 103(a).
+- **(59)** *Navajo groundwater projects account* The term Navajo Groundwater Projects Account means the account created in the Treasury of the United States pursuant to section 104(a).
+- **(60)** *Navajo land* The term Navajo land means—
+  - **(A)** the Navajo Reservation;
+  - **(B)** Navajo trust land; and
+  - **(C)** Navajo fee land.
+- **(61)** *Navajo Nation*
+  - **(A)** *In general* The term Navajo Nation means the Navajo Nation, a body politic and federally recognized Indian nation, as provided in the notice of the Department of the Interior entitled “Indian Entities Recognized and Eligible To Receive Services From The United States Bureau of Indian Affairs ” (75 Fed. Reg. 60810 (October 1, 2010)) published pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a–1).
+  - **(B)** *Inclusions*
+    - **(i)** *In general* The term Navajo Nation includes—
+      - **(I)** the Navajo Tribe;
+      - **(II)** the Navajo Tribe of Arizona, New Mexico & Utah;
+      - **(III)** the Navajo Tribe of Indians; and
+      - **(IV)** other similar names.
+    - **(ii)** *Bands and chapters* The term Navajo Nation includes all bands of Navajo Indians and chapters of the Navajo Nation.
+- **(62)** *Navajo nation cap water* The term Navajo Nation CAP water means the 6,411 afy of the CAP NIA priority water retained by the Secretary pursuant to section 104(a)(1)(B)(ii) of the Arizona Water Settlements Act of 2004 (Public Law 108–451; 118 Stat. 3487) and reallocated to the Navajo Nation pursuant to section 202(a) of this Act.
+- **(63)** *Navajo Nation water delivery contract* The term Navajo Nation water delivery contract means the contract entered into pursuant to the settlement agreement and section 202(c) of this Act for the delivery of Navajo Nation CAP water.
+- **(64)** *Navajo OM&R Trust Account* The term Navajo OM&R Trust Account means the account created in the Treasury of the United States pursuant to section 104(b).
+- **(65)** *Navajo Project Lease* The term Navajo Project lease means the Indenture of Lease made and entered into on September 29, 1969, between—
+  - **(A)** the Navajo Nation, as lessor; and
+  - **(B)** lessees—
+    - **(i)** the Arizona Public Service Company (including any successor or assignee);
+    - **(ii)** the Department of Water and Power of the City of Los Angeles (including any successor or assignee);
+    - **(iii)** the Nevada Power Company (including any successor or assignee);
+    - **(iv)** the Salt River Project Agricultural Improvement and Power District (including any successor or assignee); and
+    - **(v)** the Tucson Gas & Electric Company (including any successor or assignee).
+- **(66)** *Navajo project lessees* The term Navajo Project lessees means the lessees described in paragraph (65)(B).
+- **(67)** *Navajo Reservation*
+  - **(A)** *In general* The term Navajo Reservation means land that is within the exterior boundaries of the Navajo Reservation in the State, as defined by the Act of June 14, 1934 (48 Stat. 960, chapter 521), including—
+    - **(i)** all land—
+      - **(I)** withdrawn by the Executive Order dated December 16, 1882, and partitioned to the Navajo Nation in accordance with the Act of December 22, 1974 (Public Law 93–531; 88 Stat. 1713), and codified in the Navajo-Hopi Land Dispute Settlement Act of 1996 (25 U.S.C. 640d note; Public Law 104–301); and
+      - **(II)** partitioned to the Navajo Nation by Judgment of Partition, dated February 10, 1977, in the case styled Sekaquaptewa v. MacDonald, Case No. CIV–579–PCT–JAW (D. Ariz.); and
+    - **(ii)** all land taken into trust as a part of the Navajo Reservation pursuant to section 11 of the Act of December 22, 1974 (25 U.S.C. 640d–10) and codified in the Navajo-Hopi Land Dispute Settlement Act of 1996 (25 U.S.C. 640d note; Public Law 104–301).
+  - **(B)** *Map*
+    - **(i)** *In general* The Navajo Reservation is also depicted more particularly on the map attached to the settlement agreement as exhibit 3.1.100.
+    - **(ii)** *Applicability* In case of a conflict relating to the Navajo Reservation as depicted on the map under clause (i) and the definition in subparagraph (A), the map under clause (i) shall control.
+  - **(C)** *Exclusion* Except as provided in paragraph (36)(C), the term Navajo Reservation does not include any land within the boundaries of the Hopi Reservation.
+- **(68)** *Navajo trust land* The term Navajo trust land means land that—
+  - **(A)** is located in the State;
+  - **(B)** is located outside the exterior boundaries of the Navajo Reservation; and
+  - **(C)** as of the LCR enforceability date, is held in trust by the United States for the benefit of the Navajo Nation.
+- **(69)** *Norviel Decree* The term Norviel Decree means the final decree of the State of Arizona Superior Court in and for the County of Apache in the case styled The St. John's Irrigation Company and the Meadows Reservoir Irrigation Company, et al. v. Round Valley Water Storage & Ditch Company, Eagar Irrigation Company, Springerville Water Right and Ditch Company, et al., Case No. 569 (Apr. 29, 1918), including any modifications to the final decree.
+- **(70)** *OM&R* The term OM&R means operation, maintenance, and replacement.
+- **(71)** *Party* The term party means a person who is a signatory to the settlement agreement.
+- **(72)** *Peabody* The term Peabody means the Peabody Western Coal Company, including any affiliate or successor of the Peabody Western Coal Company.
+- **(73)** *Person*
+  - **(A)** *In general* The term person means—
+    - **(i)** an individual;
+    - **(ii)** a public or private corporation;
+    - **(iii)** a company;
+    - **(iv)** a partnership;
+    - **(v)** a joint venture;
+    - **(vi)** a firm;
+    - **(vii)** an association;
+    - **(viii)** a society;
+    - **(ix)** an estate or trust;
+    - **(x)** a private organization or enterprise;
+    - **(xi)** the United States;
+    - **(xii)** an Indian tribe;
+    - **(xiii)** a State, territory, or country;
+    - **(xiv)** a governmental entity; and
+    - **(xv)** a political subdivision or municipal corporation organized under or subject to the constitution and laws of the State.
+  - **(B)** *Inclusions* The term person includes an officer, director, agent, insurer, representative, employee, attorney, assign, subsidiary, affiliate, enterprise, legal representative, any predecessor and successor in interest and any heir of a predecessor and successor in interest of a person.
+- **(74)** *Preconstruction activity*
+  - **(A)** *In general* The term preconstruction activity means the work associated with the preplanning, planning, and design phases of construction, as those terms are defined in paragraphs (1) through (3) of section 900.112(a) of title 25, Code of Federal Regulations (or successor regulation).
+  - **(B)** *Inclusion* The term preconstruction activity includes activities described in section 900.112(b) of title 25, Code of Federal Regulations (or successor regulation).
+- **(75)** *Railroad granted land* The term Railroad granted land means the land granted (including Federal rights-of-way and easements) to Navajo Project lessees in accordance with sections 1.16 and 2 of the grant issued by the Secretary and dated January 19, 1971.
+- **(76)** *Rights to Lower Colorado River water* The term rights to Lower Colorado River water means any and all rights in or to Lower Colorado River water under applicable law.
+- **(77)** *Secretary* The term Secretary means the Secretary of the Interior (or the designee of the Secretary).
+- **(78)** *Settlement agreement*
+  - **(A)** *In general* The term settlement agreement means the 2012 agreement, including exhibits, entitled the “Navajo-Hopi Little Colorado River Water Rights Settlement Agreement”.
+  - **(B)** *Inclusions* The term settlement agreement includes—
+    - **(i)** any amendments necessary to make the settlement agreement consistent with this Act; and
+    - **(ii)** any other amendments approved by the parties to the settlement agreement and the Secretary.
+- **(79)** *State* The term State means the State of Arizona.
+- **(80)** *State implementing law* The term State implementing law means a law enacted by the State that includes terms that are substantially similar to the terms of the settlement agreement and attached to the settlement agreement as exhibit 3.1.128.
+- **(81)** *Surface water*
+  - **(A)** *In general* The term surface water means all water in the State that is appropriable under State law.
+  - **(B)** *Exclusions* The term surface water does not include—
+    - **(i)** appropriable water that is located within the upper basin; or
+    - **(ii)** Lower Colorado River water.
+- **(82)** *Underground water*
+  - **(A)** *In general* The term underground water means all water beneath the surface of the earth within the boundaries of the State, regardless of the legal characterization of that water as appropriable or nonappropriable under applicable law.
+  - **(B)** *Exclusion* The term underground water does not include effluent.
+- **(83)** *Upper basin* The term upper basin has the meaning given the term in article II(f) of the Colorado River Compact.
+- **(84)** *Upper Basin Compact* The term Upper Basin Compact means the Upper Colorado River Basin Compact of 1948, as ratified and reprinted in article 3 of chapter 7 of title 45, Arizona Revised Statutes.
+- **(85)** *Upper basin water* The term upper basin water means the waters of the upper basin.
+- **(86)** *Water* The term water, when used without a modifying adjective, means—
+  - **(A)** groundwater;
+  - **(B)** surface water; and
+  - **(C)** effluent.
+- **(87)** *Water right* The term water right means any right in or to water under Federal, State, or law.
+- **(88)** *Western Navajo Colorado River Basin* The term Western Navajo Colorado River Basin means the portions of the Navajo Reservation that are located in the lower basin and outside of the LCR watershed.
+- **(89)** *Window rock* The term Window Rock means the geographical area in the State to be served by the Navajo-Gallup water supply project, which shall include Window Rock, Arizona.
