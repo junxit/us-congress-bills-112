@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3248
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3248
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 112 Sou
 - Rep. Emerson, Jo Ann [R-MO-8] (E000172)
 - Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ To designate the facility of the United States Postal Service located at 112 Sou
 - 2012-02-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-02-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 54). (text: CR 02/14/2012 H707)
 - 2012-02-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 54).(text: CR 02/14/2012 H707)
+- 2012-02-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
