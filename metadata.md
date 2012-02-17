@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 379
 congress: 112
-version: Placed on Calendar Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 379
@@ -26,3 +26,5 @@ An original resolution condemning violence by the Government of Syria against th
 - 2012-02-16 — Committee on Foreign Relations. Original measure reported to Senate by Senator Kerry with a preamble. Without written report.
 - 2012-02-16 — Introduced in Senate
 - 2012-02-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 325. (text of measure as introduced: CR S858-859)
+- 2012-02-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(consideration: CR S1020, S1020-1021; text as passed Senate: CR S1020-1021)
+- 2012-02-17 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S1020, S1020-1021; text as passed Senate: CR S1020-1021)
