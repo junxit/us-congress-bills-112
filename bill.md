@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1433
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,13 +11,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Private Property Rights Protection Act of 2011”.
+This Act may be cited as the “Private Property Rights Protection Act of 2012”.
 
 ## § 2. Prohibition on eminent domain abuse by States
 
 - **(a)** *In General* No State or political subdivision of a State shall exercise its power of eminent domain, or allow the exercise of such power by any person or entity to which such power has been delegated, over property to be used for economic development or over property that is used for economic development within 7 years after that exercise, if that State or political subdivision receives Federal economic development funds during any fiscal year in which the property is so used or intended to be used.
 - **(b)** *Ineligibility for Federal Funds* A violation of subsection (a) by a State or political subdivision shall render such State or political subdivision ineligible for any Federal economic development funds for a period of 2 fiscal years following a final judgment on the merits by a court of competent jurisdiction that such subsection has been violated, and any Federal agency charged with distributing those funds shall withhold them for such 2-year period, and any such funds distributed to such State or political subdivision shall be returned or reimbursed by such State or political subdivision to the appropriate Federal agency or authority of the Federal Government, or component thereof.
-- **(c)** *Opportunity To Cure Violation* A State or political subdivision shall not be ineligible for any Federal economic development funds under subsection (b) if such State or political subdivision returns all real property the taking of which was found by a court of competent jurisdiction to have constituted a violation of subsection (a) and replaces any other property destroyed and repairs any other property damaged as a result of such violation.
+- **(c)** *Opportunity To Cure Violation* A State or political subdivision shall not be ineligible for any Federal economic development funds under subsection (b) if such State or political subdivision returns all real property the taking of which was found by a court of competent jurisdiction to have constituted a violation of subsection (a) and replaces any other property destroyed and repairs any other property damaged as a result of such violation. In addition, the State must pay applicable penalties and interest to reattain eligibility.
 
 ## § 3. Prohibition on eminent domain abuse by the Federal Government
 
@@ -34,7 +34,7 @@ The Federal Government or any authority of the Federal Government shall not exer
 - **(a)** *Submission of report to attorney general* Any (1) owner of private property whose property is subject to eminent domain who suffers injury as a result of a violation of any provision of this Act with respect to that property, or (2) any tenant of property that is subject to eminent domain who suffers injury as a result of a violation of any provision of this Act with respect to that property, may report a violation by the Federal Government, any authority of the Federal Government, State, or political subdivision of a State to the Attorney General.
 - **(b)** *Investigation by attorney general* Upon receiving a report of an alleged violation, the Attorney General shall conduct an investigation to determine whether a violation exists.
 - **(c)** *Notification of violation* If the Attorney General concludes that a violation does exist, then the Attorney General shall notify the Federal Government, authority of the Federal Government, State, or political subdivision of a State that the Attorney General has determined that it is in violation of the Act. The notification shall further provide that the Federal Government, State, or political subdivision of a State has 90 days from the date of the notification to demonstrate to the Attorney General either that (1) it is not in violation of the Act or (2) that it has cured its violation by returning all real property the taking of which the Attorney General finds to have constituted a violation of the Act and replacing any other property destroyed and repairing any other property damaged as a result of such violation.
-- **(d)** *Attorney general’s bringing of action To enforce act* If, at the end of the 90-day period described in subsection (c), the Attorney General determines that the Federal Government, authority of the Federal Government, State, or political subdivision of a State is still violating the Act or has not cured its violation as described in subsection (c), then the Attorney General will bring an action to enforce the Act unless the property owner or tenant who reported the violation has already brought an action to enforce the Act. In such a case, the Attorney General shall intervene if it determines that intervention is necessary in order to enforce the Act. The Attorney General may file its lawsuit to enforce the Act in the appropriate Federal or State court. A State shall not be immune under the 11th Amendment to the Constitution of the United States from any such action in a Federal or State court of competent jurisdiction. In such action, the defendant has the burden to show by clear and convincing evidence that the taking is not for economic development. The Attorney General may seek any appropriate relief through a preliminary injunction or a temporary restraining order.
+- **(d)** *Attorney general’s bringing of action to enforce act* If, at the end of the 90-day period described in subsection (c), the Attorney General determines that the Federal Government, authority of the Federal Government, State, or political subdivision of a State is still violating the Act or has not cured its violation as described in subsection (c), then the Attorney General will bring an action to enforce the Act unless the property owner or tenant who reported the violation has already brought an action to enforce the Act. In such a case, the Attorney General shall intervene if it determines that intervention is necessary in order to enforce the Act. The Attorney General may file its lawsuit to enforce the Act in the appropriate Federal or State court. A State shall not be immune under the 11th Amendment to the Constitution of the United States from any such action in a Federal or State court of competent jurisdiction. In such action, the defendant has the burden to show by clear and convincing evidence that the taking is not for economic development. The Attorney General may seek any appropriate relief through a preliminary injunction or a temporary restraining order.
 - **(e)** *Limitation on bringing action* An action brought by the Attorney General under this Act may be brought if the property is used for economic development following the conclusion of any condemnation proceedings condemning the property of an owner or tenant who reports a violation of the Act to the Attorney General, but shall not be brought later than seven years following the conclusion of any such proceedings.
 - **(f)** *Attorneys’ fee and other costs* In any action or proceeding under this Act brought by the Attorney General, the court shall, if the Attorney General is a prevailing plaintiff, award the Attorney General a reasonable attorneys’ fee as part of the costs, and include expert fees as part of the attorneys’ fee.
 
@@ -50,9 +50,10 @@ The Federal Government or any authority of the Federal Government shall not exer
 - **(a)** *By Attorney General* Not later than 1 year after the date of enactment of this Act, and every subsequent year thereafter, the Attorney General shall transmit a report identifying States or political subdivisions that have used eminent domain in violation of this Act to the Chairman and Ranking Member of the Committee on the Judiciary of the House of Representatives and to the Chairman and Ranking Member of the Committee on the Judiciary of the Senate. The report shall—
   - **(1)** identify all private rights of action brought as a result of a State’s or political subdivision’s violation of this Act;
   - **(2)** identify all violations reported by property owners and tenants under section 5(c) of this Act;
-  - **(3)** identify all lawsuits brought by the Attorney General under section 5(d) of this Act;
-  - **(4)** identify all States or political subdivisions that have lost Federal economic development funds as a result of a violation of this Act, as well as describe the type and amount of Federal economic development funds lost in each State or political subdivision and the Agency that is responsible for withholding such funds; and
-  - **(5)** discuss all instances in which a State or political subdivision has cured a violation as described in section 2(c) of this Act.
+  - **(3)** identify the percentage of minority residents compared to the surrounding nonminority residents and the median incomes of those impacted by a violation of this Act;
+  - **(4)** identify all lawsuits brought by the Attorney General under section 5(d) of this Act;
+  - **(5)** identify all States or political subdivisions that have lost Federal economic development funds as a result of a violation of this Act, as well as describe the type and amount of Federal economic development funds lost in each State or political subdivision and the Agency that is responsible for withholding such funds; and
+  - **(6)** discuss all instances in which a State or political subdivision has cured a violation as described in section 2(c) of this Act.
 - **(b)** *Duty of States* Each State and local authority that is subject to a private right of action under this Act shall have the duty to report to the Attorney General such information with respect to such State and local authorities as the Attorney General needs to make the report required under subsection (a).
 
 ## § 8. Sense of Congress regarding rural America
@@ -113,3 +114,7 @@ Not later than 180 days after the date of the enactment of this Act, the head of
 ## § 16. Sense of Congress
 
 It is the sense of Congress that any and all precautions shall be taken by the government to avoid the unfair or unreasonable taking of property away from survivors of Hurricane Katrina who own, were bequeathed, or assigned such property, for economic development purposes or for the private use of others.
+
+## § 17. Disproportionate impact on minorities
+
+If the court determines that a violation of this Act has occurred, and that the violation has a disproportionately high impact on the poor or minorities, the Attorney General shall use reasonable efforts to locate and inform former owners and tenants of the violation and any remedies they may have.

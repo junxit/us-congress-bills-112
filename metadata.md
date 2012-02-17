@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1433
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1433
@@ -16,7 +16,7 @@ Private Property Rights Protection Act of 2012
 
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 
-## Cosponsors (17)
+## Cosponsors (28)
 
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
@@ -35,6 +35,17 @@ Private Property Rights Protection Act of 2012
 - Rep. Coble, Howard [R-NC-6] (C000556)
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 - Rep. Long, Billy [R-MO-7] (L000576)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Posey, Bill [R-FL-15] (P000599)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Pence, Mike [R-IN-6] (P000587)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. King, Steve [R-IA-5] (K000362)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
 
 ## Committees (1)
 
@@ -45,3 +56,12 @@ Private Property Rights Protection Act of 2012
 - 2011-04-07 — Introduced in House
 - 2011-04-07 — Introduced in House
 - 2011-04-07 — Referred to the House Committee on the Judiciary.
+- 2011-04-11 — Referred to the Subcommittee on the Constitution.
+- 2011-07-27 — Subcommittee on the Constitution Discharged.
+- 2011-07-28 — Committee Consideration and Mark-up Session Held.
+- 2011-12-01 — Committee Consideration and Mark-up Session Held.
+- 2012-01-24 — Committee Consideration and Mark-up Session Held.
+- 2012-01-24 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 5.
+- 2012-02-17 — Placed on the Union Calendar, Calendar No. 278.
+- 2012-02-17 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-401.
+- 2012-02-17 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-401.
