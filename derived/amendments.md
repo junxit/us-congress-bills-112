@@ -1,7 +1,7 @@
 ---
 measure: H.R. 665
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+19 amendatory instructions. 0 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,22 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Chapter 5 of subtitle I of title 40, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 5 of subtitle I of title 40, United States Code, is amended by adding at the end the following new subchapter: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of chapter 5 of subtitle I of title 40, United States Code, is amended by inserting after the item relating to section 611 the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 524 of title 40, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | The item relating to section 524 in the table of sections at the beginning of chapter 5 of such title is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (A) the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 572(a)(2)(A) of title 40, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(A)” after “(1) In general.—”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “If the official, in consultation with the Administrator, recommends reversion of the property, the Administrator shall take control of such property, and, subject to subparagraph (B), sell it at or ab… | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” after “This Section.—”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The text of section 571 of title 40, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter II of chapter 5 of title 40, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of chapter 5 of title 40, United States Code, is amended by inserting after the item relating to section 529 the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter III of chapter 5 of title 40, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of chapter 5 of title 40, United States Code, is amended by inserting after the item relating to section 559 the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (a), by adding at the end the following new sentence: “Agencies shall not be required to submit information to the Secretary regarding properties located in an area for which the general public is denied access in the inter… | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c)(1)(A), by striking “in the Federal Register” and inserting the following: “on the website of the Department of Housing and Urban Development or the General Services Administration”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (d)(3), by adding at the end the following new sentence: “If no such review of the determination is requested within the 20-day period, such property will not be included in subsequent publications unless the landholding ag… | the bill names no machine-readable US Code section |
