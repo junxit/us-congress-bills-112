@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1433
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1433
@@ -65,3 +65,9 @@ Private Property Rights Protection Act of 2012
 - 2012-02-17 — Placed on the Union Calendar, Calendar No. 278.
 - 2012-02-17 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-401.
 - 2012-02-17 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-401.
+- 2012-02-28 — Considered under suspension of the rules. (consideration: CR H997-1003)
+- 2012-02-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1433.
+- 2012-02-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-02-28 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2012-02-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H997-999)
+- 2012-02-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H997-999)

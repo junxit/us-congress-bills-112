@@ -79,7 +79,7 @@ In this Act the following definitions apply:
   - **(C)** leasing property to a private person or entity that occupies an incidental part of public property or a public facility, such as a retail establishment on the ground floor of a public building;
   - **(D)** acquiring abandoned property;
   - **(E)** clearing defective chains of title;
-  - **(F)** taking private property for use by a public utility; and
+  - **(F)** taking private property for use by a public utility, including a utility providing electric, natural gas, telecommunications, water, and wastewater services, either directly to the public or indirectly through provision of such services at the wholesale level for resale to the public; and
   - **(G)** redeveloping of a brownfield site as defined in the Small Business Liability Relief and Brownfields Revitalization Act (42 U.S.C. 9601(39)).
 - **(2)** *Federal economic development funds* The term Federal economic development funds means any Federal funds distributed to or through States or political subdivisions of States under Federal laws designed to improve or increase the size of the economies of States or political subdivisions of States.
 - **(3)** *State* The term State means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or any other territory or possession of the United States.
