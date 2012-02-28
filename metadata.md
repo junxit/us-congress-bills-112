@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 563
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 563
@@ -16,6 +16,14 @@ Providing for consideration of the bill (H.R. 2117) to prohibit the Department o
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (1)
+
+- 2012-02-28 — [House 112-2-74](votes/house-112-2-0074.md) — On Agreeing to the Resolution — **Passed** (244–171)
+
 ## Actions
 
 - 2012-02-27 — Introduced in House
@@ -23,3 +31,9 @@ Providing for consideration of the bill (H.R. 2117) to prohibit the Department o
 - 2012-02-27 — Placed on the House Calendar, Calendar No. 114.
 - 2012-02-27 — The House Committee on Rules reported an original measure, H. Rept. 112-404, by Ms. Foxx.
 - 2012-02-27 — The House Committee on Rules reported an original measure, H. Rept. 112-404, by Ms. Foxx.
+- 2012-02-28 — Considered as privileged matter. (consideration: CR H976-980)
+- 2012-02-28 — DEBATE - The House proceeded with one hour of debate on H. Res. 563.
+- 2012-02-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-02-28 — On agreeing to the resolution Agreed to by the Yeas and Nays: 244 - 171 (Roll no. 74). (text: CR H976-977)
+- 2012-02-28 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 244 - 171 (Roll no. 74).(text: CR H976-977)
+- 2012-02-28 — The previous question was ordered without objection. (consideration: CR H980)
