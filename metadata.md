@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2117
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2117
@@ -92,6 +92,14 @@ Protecting Academic Freedom in Higher Education Act
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (5)
+
+- 2012-02-28 — [House 112-2-75](votes/house-112-2-0075.md) — On Agreeing to the Amendment — **Failed** (170–247)
+- 2012-02-28 — [House 112-2-76](votes/house-112-2-0076.md) — On Agreeing to the Amendment — **Failed** (160–255)
+- 2012-02-28 — [House 112-2-77](votes/house-112-2-0077.md) — On Agreeing to the Amendment — **Failed** (199–217)
+- 2012-02-28 — [House 112-2-78](votes/house-112-2-0078.md) — On Motion to Recommit with Instructions — **Failed** (176–241)
+- 2012-02-28 — [House 112-2-79](votes/house-112-2-0079.md) — On Passage — **Passed** (303–114)
+
 ## Actions
 
 - 2011-06-03 — Introduced in House
@@ -101,3 +109,65 @@ Protecting Academic Freedom in Higher Education Act
 - 2011-07-22 — Placed on the Union Calendar, Calendar No. 116.
 - 2011-07-22 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 112-177.
 - 2011-07-22 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 112-177.
+- 2012-02-27 — Rules Committee Resolution H. Res. 563 Reported to House. Rule provides for consideration of H.R. 2117 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Education and the Workforce now printed in the bill.
+- 2012-02-28 — Amendment (A001) offered by Mr. Grijalva. (consideration: CR H988-989, H992-993; text: CR H988)
+- 2012-02-28 — Amendment (A002) offered by Ms. Foxx. (consideration: CR H989; text: CR H989)
+- 2012-02-28 — Amendment (A003) offered by Mr. Polis. (consideration: CR H990; text: CR H990)
+- 2012-02-28 — Amendment (A004) offered by Mr. Bishop (NY). (consideration: CR H990-991, H993-994; text: CR H990)
+- 2012-02-28 — Amendment (A005) offered by Mr. Polis. (consideration: CR H991-992, H994-995; text: CR H991)
+- 2012-02-28 — Amendment agreed to Committee of the Whole
+- 2012-02-28 — Amendment failed in Committee of the Whole
+- 2012-02-28 — Amendment failed in Committee of the Whole
+- 2012-02-28 — Amendment failed in Committee of the Whole
+- 2012-02-28 — Amendment failed in Committee of the Whole
+- 2012-02-28 — Committee of the Whole House on the state of the Union rises leaving H.R. 2117 as unfinished business.
+- 2012-02-28 — Considered as unfinished business. (consideration: CR H992-997)
+- 2012-02-28 — Considered under the provisions of rule H. Res. 563. (consideration: CR H980-992)
+- 2012-02-28 — DEBATE - Pursuant to the provisions of H. Res. 563, the Committee of the Whole proceeded with 10 minutes of debate on the Bishop (NY) amendment No. 4.
+- 2012-02-28 — DEBATE - Pursuant to the provisions of H. Res. 563, the Committee of the Whole proceeded with 10 minutes of debate on the Foxx amendment No. 2.
+- 2012-02-28 — DEBATE - Pursuant to the provisions of H. Res. 563, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment No. 1.
+- 2012-02-28 — DEBATE - Pursuant to the provisions of H. Res. 563, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 3.
+- 2012-02-28 — DEBATE - Pursuant to the provisions of H. Res. 563, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 5.
+- 2012-02-28 — DEBATE - The House proceeded with 10 minutes of debate on the Capps motion to recommit. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment which adds a provision entitled "PROTECTING STUDENTS FROM HIGHER LOAN COSTS AND A DEVALUED EDUCATIONAL DEGREE".
+- 2012-02-28 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2117.
+- 2012-02-28 — House amendment agreed to: On agreeing to the Foxx amendment (A002) Agreed to by voice vote.
+- 2012-02-28 — House amendment not agreed to: On agreeing to the Bishop (NY) amendment (A004) Failed by recorded vote: 160 - 255 (Roll no. 76).
+- 2012-02-28 — House amendment not agreed to: On agreeing to the Grijalva amendment (A001) Failed by recorded vote: 170 - 247 (Roll no. 75).
+- 2012-02-28 — House amendment not agreed to: On agreeing to the Polis amendment (A003) Failed by voice vote.
+- 2012-02-28 — House amendment not agreed to: On agreeing to the Polis amendment (A005) Failed by recorded vote: 199 - 217 (Roll no. 77).
+- 2012-02-28 — House amendment offered
+- 2012-02-28 — House amendment offered
+- 2012-02-28 — House amendment offered
+- 2012-02-28 — House amendment offered
+- 2012-02-28 — House amendment offered
+- 2012-02-28 — House amendment offered/reported by: Amendment (A001) offered by Mr. Grijalva.(consideration: CR H988-989, H992-993; text: CR H988)
+- 2012-02-28 — House amendment offered/reported by: Amendment (A002) offered by Ms. Foxx.(consideration: CR H989; text: CR H989)
+- 2012-02-28 — House amendment offered/reported by: Amendment (A003) offered by Mr. Polis.(consideration: CR H990; text: CR H990)
+- 2012-02-28 — House amendment offered/reported by: Amendment (A004) offered by Mr. Bishop (NY).(consideration: CR H990-991, H993-994; text: CR H990)
+- 2012-02-28 — House amendment offered/reported by: Amendment (A005) offered by Mr. Polis.(consideration: CR H991-992, H994-995; text: CR H991)
+- 2012-02-28 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 563 and Rule XVIII.
+- 2012-02-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-02-28 — Mrs. Capps moved to recommit with instructions to Education and the Workforce. (consideration: CR H995-996; text: CR H995)
+- 2012-02-28 — Ms. Foxx moved that the committee rise.
+- 2012-02-28 — On agreeing to the Bishop (NY) amendment (A004) Failed by recorded vote: 160 - 255 (Roll no. 76).
+- 2012-02-28 — On agreeing to the Foxx amendment (A002) Agreed to by voice vote.
+- 2012-02-28 — On agreeing to the Grijalva amendment (A001) Failed by recorded vote: 170 - 247 (Roll no. 75).
+- 2012-02-28 — On agreeing to the Polis amendment (A003) Failed by voice vote.
+- 2012-02-28 — On agreeing to the Polis amendment (A005) Failed by recorded vote: 199 - 217 (Roll no. 77).
+- 2012-02-28 — On motion that the committe rise Agreed to by voice vote.
+- 2012-02-28 — On motion to recommit with instructions Failed by recorded vote: 176 - 241 (Roll no. 78).
+- 2012-02-28 — On passage Passed by recorded vote: 303 - 114 (Roll no. 79).
+- 2012-02-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bishop (NY) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Bishop (NY) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-02-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-02-28 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Foxx demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-02-28 — Passed/agreed to in House: On passage Passed by recorded vote: 303 - 114 (Roll no. 79).
+- 2012-02-28 — Roll call votes on amendments in House
+- 2012-02-28 — Roll call votes on amendments in House
+- 2012-02-28 — Roll call votes on amendments in House
+- 2012-02-28 — Rule H. Res. 563 passed House.
+- 2012-02-28 — Rule provides for consideration of H.R. 2117 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Education and the Workforce now printed in the bill.
+- 2012-02-28 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H988)
+- 2012-02-28 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2012-02-28 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2117.
+- 2012-02-28 — The Speaker designated the Honorable Candice S. Miller to act as Chairwoman of the Committee.
+- 2012-02-28 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
