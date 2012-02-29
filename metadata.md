@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2117
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2117
@@ -88,9 +88,10 @@ Protecting Academic Freedom in Higher Education Act
 - Rep. Brooks, Mo [R-AL-5] (B001274)
 - Rep. Kissell, Larry [D-NC-8] (K000369)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (5)
 
@@ -171,3 +172,4 @@ Protecting Academic Freedom in Higher Education Act
 - 2012-02-28 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2117.
 - 2012-02-28 — The Speaker designated the Honorable Candice S. Miller to act as Chairwoman of the Committee.
 - 2012-02-28 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2012-02-29 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
