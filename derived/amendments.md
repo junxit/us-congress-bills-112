@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3902
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -34,5 +34,5 @@ complete account of the bill's effect, which it is not.
 | — | amend | The first sentence of section 401(b)(3) of the District of Columbia Home Rule Act (sec. 1–204.01(b)(3), D.C. Official Code) is amended to read as follows: “To fill a vacancy in the Office of Chairman, the Board of Elections shall hold a … | the bill names no machine-readable US Code section |
 | — | amend | The first sentence of section 401(d)(1) of such Act (sec. 1–204.01(d)(1), D.C. Official Code) is amended to read as follows: “In the event of a vacancy in the Council of a member elected from a ward, the Board of Elections shall hold a s… | the bill names no machine-readable US Code section |
 | — | replace | The second sentence of section 401(d)(2) of such Act (sec. 1–204.01(d)(2)) is amended by striking “and such special election” and all that follows and inserting the following: “and such special election shall be held on the Tuesday occur… | the bill names no machine-readable US Code section |
-| — | amend | The first sentence of section 421(c)(2) of such Act (sec. 1–204.21(c)(2), D.C. Official Code) is amended to read as follows: “To fill a vacancy in the Office of Mayor, the Board of Elections shall hold a special election in the District … | the bill names no machine-readable US Code section |
+| — | amend | The first sentence of section 421(c)(2) of such Act (sec. 1–204.21.(c)(2), D.C. Official Code) is amended to read as follows: “To fill a vacancy in the Office of Mayor, the Board of Elections shall hold a special election in the District… | the bill names no machine-readable US Code section |
 | — | replace | The first sentence of section 435(b)(1) of such Act (sec. 1–204.35(b)(1), D.C. Official Code) is amended by striking “the Board” and all that follows and inserting the following: “the Board of Elections shall hold a special election in t… | the bill names no machine-readable US Code section |
