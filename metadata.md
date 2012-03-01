@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3902
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3902
@@ -16,9 +16,10 @@ District of Columbia Special Election Reform Act
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -34,3 +35,4 @@ District of Columbia Special Election Reform Act
 - 2012-02-29 — Mr. Issa moved to suspend the rules and pass the bill, as amended.
 - 2012-02-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1085-1086)
 - 2012-02-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1085-1086)
+- 2012-03-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
