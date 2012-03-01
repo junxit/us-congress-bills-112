@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 36
 congress: 112
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 36
@@ -25,3 +25,11 @@ A concurrent resolution to authorize the use of the rotunda and Emancipation Hal
 - 2012-03-01 — Introduced in Senate
 - 2012-03-01 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S1368; text as passed Senate: CR S1368; text of measure as introduced: CR S1209)
 - 2012-03-01 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1368; text as passed Senate: CR S1368; text of measure as introduced: CR S1209)
+- 2012-03-02 — Message on Senate action sent to the House.
+- 2012-03-05 — Considered by unanimous consent. (consideration: CR H1144)
+- 2012-03-05 — Held at the desk.
+- 2012-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-03-05 — Mr. Lungren, Daniel E. asked unanimous consent to take from the Speaker's table and consider.
+- 2012-03-05 — On agreeing to the resolution Agreed to without objection. (text: CR H1144)
+- 2012-03-05 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1144)
+- 2012-03-05 — Received in the House.
