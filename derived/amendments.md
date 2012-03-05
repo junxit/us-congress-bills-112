@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1837
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-144 amendatory instructions. 0 executed, 144 stated and not applied.
+144 amendatory instructions. 1 executed, 143 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 16 U.S.C. § 1531
+
+> by striking “the Settlement” and inserting “enactment of this part”; and
+
+| | |
+|---|---|
+| Removed | `the Settlement` |
+| Inserted | `enactment of this part` |
 
 ## Stated, not applied
 
@@ -32,17 +43,17 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | strike | in subsection (f), by striking the period at the end; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in subsection (l), by striking “and,” | the bill names no machine-readable US Code section |
 | — | replace | in subsection (m), by striking the period and inserting “; and”, and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in the heading, by striking “Limitation on contracting and contract reform” and inserting “Contracts”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking the language of the section and by adding: | the bill names no machine-readable US Code section |
 | — | insert | by inserting before “Except as provided herein” the following: “The Secretary shall take all necessary actions to facilitate and expedite transfers of Central Valley Project water in accordance with this Act or any other provision of Fed… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1)(A), by striking “to combination” and inserting “or combination”; | the bill names no machine-readable US Code section |
 | — | add-at-end | in paragraph (2), by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in the heading, by striking “METERING” and inserting “MEASUREMENT”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after the first sentence the following: “The contracting district or agency, not including contracting districts serving multiple agencies with separate governing boards, shall ensure that all contractor-owned water delivery… | the bill names no machine-readable US Code section |
 | — | strike | By striking subsection (d). | the bill names no machine-readable US Code section |
@@ -61,20 +72,20 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “but not limited to” before “additional obligations”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding after the period the following: “All Central Valley Project water used for the purposes specified in this paragraph shall be credited to the quantity of Central Valley Project yield dedicated and managed under this paragraph by… | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (2)(C) to read: | the bill names no machine-readable US Code section |
-| — | add-at-end | By adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | By adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | By inserting “(1) In General.—” before “There is hereby”. | the bill names no machine-readable US Code section |
 | — | replace | By striking “Not less than 67 percent” and all that follows through “Monies” and inserting “Monies”. | the bill names no machine-readable US Code section |
-| — | add-at-end | By adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | By adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “mitigation and restoration”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “provided for or”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “of fish, wildlife” and all that follows through the period and inserting “of carrying out all activities described in this title.”. | the bill names no machine-readable US Code section |
 | — | insert | Section 3407(d)(2) of the Central Valley Project Improvement Act is amended by inserting “, or after October 1, 2013, $4 per megawatt-hour for Central Valley Project power sold to power contractors (October 2013 price levels)” after “$12… | the bill names no machine-readable US Code section |
 | — | insert | Section 3407(d)(2)(A) of the Central Valley Project Improvement Act is amended by inserting “no later than December 31, 2020,” after “That upon the completion of the fish, wildlife, and habitat mitigation and restoration actions mandated… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3407 of the Central Valley Project Improvement Act (106 Stat. 4714) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 3407 of the Central Valley Project Improvement Act (106 Stat. 4714) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 3408(c) of the Central Valley Project Improvement Act (106 Stat. 4728) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Interior and Insular Affairs and the Committee on Merchant Marine and Fisheries” and inserting “Natural Resources”; | the bill names no machine-readable US Code section |
 | — | insert | in the second sentence, by inserting before the period at the end the following: “, including progress on the plan required by subsection (j)”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: “The filing and adequacy of such report shall be personally certified to the Committees referenced above by the Regional Director of the Mid-Pacific Region of the Bureau of Reclamation.”. | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: “The filing and adequacy of such report shall be personally certified to the Committees referenced above by the Regional Director of the Mid-Pacific Region of the Bureau of Reclamation.”. | the bill names no machine-readable US Code section |
 | — | redesignate | By redesignating paragraphs (1) through (7) as subparagraphs (A) through (G), respectively. | the bill names no machine-readable US Code section |
 | — | replace | By striking “In order to minimize adverse effects, if any, upon” and inserting “(1) In general.—In order to minimize adverse effects upon”. | the bill names no machine-readable US Code section |
 | — | replace | By striking “needs, the Secretary,” and all that follows through “submit to the Congress, a” and inserting “needs, the Secretary, on a priority basis and not later than September 30, 2013, shall submit to Congress a”. | the bill names no machine-readable US Code section |
@@ -83,18 +94,18 @@ complete account of the bill's effect, which it is not.
 | — | strike | In subparagraph (F), by striking “and” at the end. | the bill names no machine-readable US Code section |
 | — | replace | In subparagraph (G), by striking the period and all that follows through the end of the subsection and inserting “; and”. | the bill names no machine-readable US Code section |
 | — | insert | By inserting after subparagraph (G) the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | By adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | By adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “paragraph (h)(2)” and inserting “paragraph (2)”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “paragraph (h)(i)” and inserting “paragraph (1)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 10002 of the San Joaquin River Restoration Settlement Act (Public Law 111–11) is amended by striking “implementation of the Settlement” and inserting “restoration of the San Joaquin River”. | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding paragraph (1), by striking “authorized and directed” and all that follows through “in the Settlement:” and inserting “authorized to carry out the following:”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraphs (1), (2), (4), and (5); | the bill names no machine-readable US Code section |
 | — | replace | by striking “(3)” and inserting “(1)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “paragraph 13 of the Settlement” and inserting “this part”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “the Settlement” and inserting “this part”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “the Settlement” and inserting “this part”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “the Settlement” and inserting “this part”; | the bill names no machine-readable US Code section |
@@ -120,7 +131,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “; and ” and inserting a period; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (C); and | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (3); and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “the Settlement authorized by this part” and inserting “this part”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “(1) In general.—The Secretary” and inserting “The Secretary”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “the Settlement authorized by this part” and inserting “this part”; and | the bill names no machine-readable US Code section |
@@ -136,9 +147,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (3), by striking “the Settlement” and inserting “this part”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, including without limitation to sections 10004(d) and 10004(h)(4) of this part,” after “implementing this part”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “for implementation of the Settlement”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “the Settlement” and inserting “enactment of this part”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting: “and the obligations of the Secretary and all other parties to protect and keep in good condition any fish that may be planted or exist below Friant Dam including any obligations under section 5937 of the California Fish an… | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (1), by striking “, as provided in the Settlement”. | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 1531` | insert | by inserting: “and the obligations of the Secretary and all other parties to protect and keep in good condition any fish that may be planted or exist below Friant Dam including any obligations under section 5937 of the California Fish an… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1531` | strike | in paragraph (1), by striking “, as provided in the Settlement”. | the bill quotes the text struck but describes what replaces it |
 | — | strike | by striking “not a party to the Settlement” after “person or entity”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “or the Settlement” before the period and inserting “unless otherwise provided by this part. Any Central Valley Project long-term water service or repayment contractor within the Friant Division, Hidden unit, or Buchanan Unit… | the bill names no machine-readable US Code section |
 | — | strike | in the header by striking “; settlement fund”; | the bill names no machine-readable US Code section |
