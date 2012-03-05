@@ -1,0 +1,65 @@
+---
+legis-num: H.R. 4133
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4133
+
+> To express the sense of Congress regarding the United States-Israel strategic relationship, to direct the President to submit to Congress reports on United States actions to enhance this relationship and to assist in the defense of Israel, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “United States-Israel Enhanced Security Cooperation Act of 2012”.
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** Since 1948, United States Presidents and both houses of Congress, on a bipartisan basis and supported by the American people, have repeatedly reaffirmed the special bond between the United States and Israel, based on shared values and shared interests.
+- **(2)** The Middle East is undergoing rapid change, bringing with it hope for an expansion of democracy but also great challenges to the national security of the United States and our allies in the region, particularly our most important ally in the region, Israel. The past year has witnessed the fall of some regimes long considered to be pillars of stability in the Middle East and a rise in the influence of radical Islamists throughout the region.
+- **(3)** Iran, which has long sought to foment instability and promote extremism in the Middle East, is now seeking to exploit the dramatic political transition underway in the region to undermine governments traditionally aligned with the United States and support extremist political movements in these countries.
+- **(4)** At the same time, Iran may soon attain a nuclear weapons capability, a development that would fundamentally threaten vital American interests, destabilize the region, encourage regional nuclear proliferation, further empower and embolden Iran, the world’s leading state sponsor of terrorism, and provide it the tools to threaten its neighbors, including Israel.
+- **(5)** Over the past several years, with the assistance of Iran and Syria, Hizballah and Hamas have increased their stockpiles of rockets, with more than 60,000 rockets now ready to be fired at Israel. Iran continues to add to its arsenal of ballistic missiles and cruise missiles, which threaten Iran’s neighbors, Israel, and United States military forces in the region.
+- **(6)** As a result, the strategic environment that has kept Israel secure and safeguarded United States national interests for the past 35 years has eroded.
+
+## § 3. Statement of policy
+
+It is the policy of the United States:
+
+- **(1)** To reaffirm the enduring commitment of the United States to the security of the State of Israel as a Jewish state. As President Obama stated on December 16, 2011, “America’s commitment and my commitment to Israel and Israel’s security is unshakeable.”. And as President Bush stated before the Knesset on the 60th anniversary of the founding of the State of Israel on May 15, 2008, “The alliance between our governments is unbreakable, yet the source of our friendship runs deeper than any treaty.”.
+- **(2)** To provide Israel the military capabilities necessary to deter and defend itself by itself against any threats.
+- **(3)** To veto any one-sided anti-Israel resolutions at the United Nations Security Council.
+- **(4)** To support Israel’s inherent right to self-defense.
+- **(5)** To pursue avenues to expand cooperation with Israel in both defense and across the spectrum of civilian sectors, including high technology, agriculture, medicine, health, pharmaceuticals, and energy.
+- **(6)** To assist Israel with its on-going efforts to forge a peaceful, negotiated settlement of the Israeli-Palestinian conflict that results in two states living side by side in peace and security, and to encourage Israel’s neighbors to recognize Israel’s right to exist as a Jewish state.
+
+## § 4. United States actions to assist in the defense of Israel and protect American interests
+
+- **(a)** *Sense of Congress* It is the sense of Congress that the United States should take the following actions to assist in the defense of Israel:
+  - **(1)** Provide Israel such support as may be necessary to increase development and production of joint missile defense systems, particularly such systems that defend the urgent threat posed to Israel and United States forces in the region.
+  - **(2)** Provide Israel defense articles and defense services through such mechanisms as appropriate, to include air refueling tankers, missile defense capabilities, and specialized munitions.
+  - **(3)** Allocate additional weaponry and munitions for the forward-deployed United States stockpile in Israel.
+  - **(4)** Provide Israel additional surplus defense articles and defense services, as appropriate, in the wake of the withdrawal of United States forces from Iraq.
+  - **(5)** Strengthen efforts to prevent weapons smuggling into Gaza pursuant to the 2005 Agreement on Movement and Access following the Israeli withdrawal from Gaza and to protect against weapons smuggling and terrorist threats from the Sinai Peninsula.
+  - **(6)** Offer the Israeli Air Force additional training and exercise opportunities in the United States to compensate for Israel’s limited air space.
+  - **(7)** Expand Israel’s authority to make purchases under the Foreign Military Financing program on a commercial basis.
+  - **(8)** Seek to enhance the capabilities of the United States and Israel to address emerging common threats, increase security cooperation, and expand joint military exercises.
+  - **(9)** Encourage an expanded role for Israel within the North Atlantic Treaty Organization (NATO), including an enhanced presence at NATO headquarters and exercises.
+  - **(10)** Support extension of the long-standing loan guarantee program for Israel, recognizing Israel’s unbroken record of repaying its loans on time and in full.
+  - **(11)** Expand already-close intelligence cooperation, including satellite intelligence, with Israel.
+- **(b)** *Report on Israel’s qualitative military edge*
+  - **(1)** *Statement of policy* It is the policy of the United States—
+    - **(A)** to help Israel preserve its qualitative military edge amid rapid and uncertain regional political transformation; and
+    - **(B)** to encourage further development of advanced technology programs between the United States and Israel current trends and instability in the region.
+  - **(2)** *Report* Not later than 180 days after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a report on the status of Israel’s qualitative military edge in light of current trends and instability in the region.
+- **(c)** *Reports on other matters* Not later than 180 days after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a report on each of the following:
+  - **(1)** Taking into account Israel’s urgent requirement for F–35 aircraft, actions to improve the process relating to Israel’s purchase of F–35 aircraft to improve cost efficiency and timely delivery.
+  - **(2)** Efforts to expand cooperation between the United States and Israel in homeland security, counter-terrorism, maritime security, energy, cybersecurity, and other appropriate areas.
+  - **(3)** Actions to integrate Israel into the defense of the Eastern Mediterranean.
+- **(d)** *Definitions* In this section:
+  - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
+    - **(A)** the Committee on Appropriations, the Committee on Armed Services, and the Committee on Foreign Affairs of the House of Representatives; and
+    - **(B)** the Committee on Appropriations, the Committee on Armed Services, and the Committee on Foreign Relations of the Senate.
+  - **(2)** *Qualitative military edge* The term qualitative military edge has the meaning given the term in section 36(h)(2) of the Arms Export Control Act (22 U.S.C. 2776(h)(2)).
