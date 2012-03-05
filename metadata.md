@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3413
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3413
@@ -55,3 +55,11 @@ To designate the facility of the United States Postal Service located at 1449 We
 - 2011-11-14 — Introduced in House
 - 2011-11-14 — Introduced in House
 - 2011-11-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-02-07 — Committee Consideration and Mark-up Session Held.
+- 2012-02-07 — Ordered to be Reported by Voice Vote.
+- 2012-03-05 — Considered under suspension of the rules. (consideration: CR H1140-1141)
+- 2012-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3413.
+- 2012-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-03-05 — Mr. Farenthold moved to suspend the rules and pass the bill.
+- 2012-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1140-1141)
+- 2012-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1140-1141)
