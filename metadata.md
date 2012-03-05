@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 386
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 386
@@ -94,3 +94,7 @@ A resolution calling for free and fair elections in Iran, and for other purposes
 - 2012-03-01 — Introduced in Senate
 - 2012-03-01 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1206-1207)
 - 2012-03-01 — Sponsor introductory remarks on measure. (CR S1207)
+- 2012-03-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: CR S1399)
+- 2012-03-05 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: CR S1399)
+- 2012-03-05 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S1399)
+- 2012-03-05 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S1399)
