@@ -1,7 +1,7 @@
 ---
 measure: S. 1886
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1886
@@ -16,7 +16,7 @@ Counterfeit Drug Penalty Enhancement Act of 2011
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
@@ -26,6 +26,8 @@ Counterfeit Drug Penalty Enhancement Act of 2011
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Kyl, Jon [R-AZ] (K000352)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (1)
 
@@ -40,3 +42,11 @@ Counterfeit Drug Penalty Enhancement Act of 2011
 - 2011-12-08 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2011-12-08 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2011-12-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 253.
+- 2012-03-06 — Amendment SA 1808 agreed to in Senate by Unanimous Consent.
+- 2012-03-06 — Amendment SA 1808 proposed by Senator Durbin for Senator Leahy. (consideration: CR S1431; text: CR S1431) In the nature of a substitute.
+- 2012-03-06 — Measure laid before Senate by unanimous consent. (consideration: CR S1431)
+- 2012-03-06 — Passed Senate with an amendment by Voice Vote. (text: CR S1431)
+- 2012-03-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text: CR S1431)
+- 2012-03-06 — Senate amendment agreed to: Amendment SA 1808 agreed to in Senate by Unanimous Consent.
+- 2012-03-06 — Senate amendment proposed (on the floor): Amendment SA 1808 proposed by Senator Durbin for Senator Leahy.(consideration: CR S1431; text: CR S1431)
+- 2012-03-06 — Senate amendment submitted
