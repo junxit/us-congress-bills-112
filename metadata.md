@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4105
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4105
@@ -16,7 +16,7 @@ To apply the countervailing duty provisions of the Tariff Act of 1930 to nonmark
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 
-## Cosponsors (101)
+## Cosponsors (129)
 
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 - Rep. Brady, Kevin [R-TX-8] (B000755)
@@ -119,13 +119,53 @@ To apply the countervailing duty provisions of the Tariff Act of 1930 to nonmark
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Lynch, Stephen F. [D-MA-9] (L000562)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Griffin, Tim [R-AR-2] (G000567)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Hochul, Kathleen C. [D-NY-26] (H001062)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Sewell, Terri A. [D-AL-7] (S001185)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Bonner, Jo [R-AL-1] (B001244)
+- Rep. Nugent, Richard B. [R-FL-5] (N000185)
+- Rep. Meehan, Patrick [R-PA-7] (M001181)
+- Rep. Rohrabacher, Dana [R-CA-46] (R000409)
+- Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
+- Rep. Kinzinger, Adam [R-IL-11] (K000378)
+- Rep. Landry, Jeffrey M. [R-LA-3] (L000574)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. Tierney, John F. [D-MA-6] (T000266)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
+- Rep. Bono Mack, Mary [R-CA-45] (B001228)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
+
+## Recorded votes (1)
+
+- 2012-03-06 — [House 112-2-96](votes/house-112-2-0096.md) — On Motion to Suspend the Rules and Pass — **Passed** (370–39)
 
 ## Actions
 
 - 2012-02-29 — Introduced in House
 - 2012-02-29 — Introduced in House
 - 2012-02-29 — Referred to the House Committee on Ways and Means.
+- 2012-03-06 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-03-06 — Considered as unfinished business. (consideration: CR H1178)
+- 2012-03-06 — Considered under suspension of the rules. (consideration: CR H1166-1173)
+- 2012-03-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4105.
+- 2012-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-03-06 — Mr. Camp moved to suspend the rules and pass the bill.
+- 2012-03-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 370 - 39 (Roll no. 96). (text: CR H1166-1167)
+- 2012-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 370 - 39 (Roll no. 96).(text: CR H1166-1167)
