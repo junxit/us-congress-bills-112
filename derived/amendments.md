@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4105
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `19 U.S.C. § 1671` | add-at-end | Section 701 of the Tariff Act of 1930 (19 U.S.C. 1671) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 1677f-1` | add-at-end | Section 777A of the Tariff Act of 1930 (19 U.S.C. 1677f–1) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 701 of the Tariff Act of 1930 (19 U.S.C. 1671) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 777A of the Tariff Act of 1930 (19 U.S.C. 1677f–1) is amended by adding at the end the following: | the bill names no machine-readable US Code section |

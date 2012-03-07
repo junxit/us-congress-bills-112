@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4105
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4105
@@ -174,3 +174,9 @@ To apply the countervailing duty provisions of the Tariff Act of 1930 to nonmark
 - 2012-03-07 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S1441)
 - 2012-03-07 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S1441)
 - 2012-03-07 — See also S. 2153.
+- 2012-03-08 — Presented to President.
+- 2012-03-08 — Presented to President.
+- 2012-03-13 — Became Public Law No: 112-99.
+- 2012-03-13 — Became Public Law No: 112-99.
+- 2012-03-13 — Signed by President.
+- 2012-03-13 — Signed by President.
