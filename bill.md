@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2842
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act of 2011”.
+This Act may be cited as the “Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act of 2012”.
 
 ## § 2. Authorization
 
