@@ -1,7 +1,7 @@
 ---
 measure: S. 2152
 congress: 112
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 2152
@@ -24,3 +24,6 @@ Syria Democracy Transition Act of 2012
 
 - 2012-03-02 — Introduced in Senate
 - 2012-03-02 — Read twice and referred to the Committee on Finance.
+- 2012-03-07 — Referred to the Committee on Foreign Relations.
+- 2012-03-07 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2012-03-07 — Senate Committee on Finance discharged by Unanimous Consent.
