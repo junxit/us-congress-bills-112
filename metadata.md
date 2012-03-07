@@ -1,7 +1,7 @@
 ---
 measure: S. 1886
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1886
@@ -50,3 +50,6 @@ Counterfeit Drug Penalty Enhancement Act of 2011
 - 2012-03-06 — Senate amendment agreed to: Amendment SA 1808 agreed to in Senate by Unanimous Consent.
 - 2012-03-06 — Senate amendment proposed (on the floor): Amendment SA 1808 proposed by Senator Durbin for Senator Leahy.(consideration: CR S1431; text: CR S1431)
 - 2012-03-06 — Senate amendment submitted
+- 2012-03-07 — Message on Senate action sent to the House.
+- 2012-03-07 — Received in the House.
+- 2012-03-07 — Referred to the House Committee on the Judiciary.

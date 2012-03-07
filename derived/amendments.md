@@ -1,7 +1,7 @@
 ---
 measure: S. 1886
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
