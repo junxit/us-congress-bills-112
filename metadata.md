@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4105
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4105
@@ -169,3 +169,8 @@ To apply the countervailing duty provisions of the Tariff Act of 1930 to nonmark
 - 2012-03-06 — Mr. Camp moved to suspend the rules and pass the bill.
 - 2012-03-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 370 - 39 (Roll no. 96). (text: CR H1166-1167)
 - 2012-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 370 - 39 (Roll no. 96).(text: CR H1166-1167)
+- 2012-03-07 — Message on Senate action sent to the House.
+- 2012-03-07 — Passed pursuant to the order of March 5, 2012.
+- 2012-03-07 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S1441)
+- 2012-03-07 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S1441)
+- 2012-03-07 — See also S. 2153.
