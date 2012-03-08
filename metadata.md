@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2842
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2842
@@ -24,9 +24,10 @@ Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act of
 - Rep. McClintock, Tom [R-CA-4] (M001177)
 - Rep. Costa, Jim [D-CA-20] (C001059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (3)
 
@@ -93,3 +94,4 @@ Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act of
 - 2012-03-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1233)
 - 2012-03-07 — The previous question was ordered pursuant to the rule. (consideration: CR H1232)
 - 2012-03-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2012-03-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
