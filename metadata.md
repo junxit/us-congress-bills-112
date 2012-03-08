@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3606
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3606
@@ -72,9 +72,21 @@ Jumpstart Our Business Startups
 - Rep. Schilling, Robert T. [R-IL-17] (S001182)
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
+
+## Recorded votes (8)
+
+- 2012-03-07 — [House 112-2-103](votes/house-112-2-0103.md) — On Agreeing to the Amendment — **Failed** (164–245)
+- 2012-03-07 — [House 112-2-104](votes/house-112-2-0104.md) — On Agreeing to the Amendment — **Failed** (169–244)
+- 2012-03-07 — [House 112-2-105](votes/house-112-2-0105.md) — On Agreeing to the Amendment — **Failed** (161–259)
+- 2012-03-07 — [House 112-2-106](votes/house-112-2-0106.md) — On Agreeing to the Amendment — **Failed** (185–236)
+- 2012-03-08 — [House 112-2-107](votes/house-112-2-0107.md) — On Agreeing to the Amendment — **Failed** (175–239)
+- 2012-03-08 — [House 112-2-108](votes/house-112-2-0108.md) — On Agreeing to the Amendment — **Failed** (172–236)
+- 2012-03-08 — [House 112-2-109](votes/house-112-2-0109.md) — On Motion to Recommit with Instructions — **Failed** (170–244)
+- 2012-03-08 — [House 112-2-110](votes/house-112-2-0110.md) — On Passage — **Passed** (390–23)
 
 ## Actions
 
@@ -90,3 +102,172 @@ Jumpstart Our Business Startups
 - 2012-03-01 — Placed on the Union Calendar, Calendar No. 281.
 - 2012-03-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 112-406.
 - 2012-03-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 112-406.
+- 2012-03-06 — Committee on Banking, Housing, and Urban Affairs. Hearings held. Hearings printed: S.Hrg. 112-482.
+- 2012-03-06 — Rules Committee Resolution H. Res. 572 Reported to House. Rule provides for consideration of H.R. 3606 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution provides that an amendment in the nature of a substitute consisting of text of Rules Committee Print 112-17 shall be considered as adopted. The resolution waives all points of order against the amendments printed in the report.
+- 2012-03-06 — Supplemental report filed by the Committee on Financial Services, H. Rept. 112-406, Part II.
+- 2012-03-06 — Supplemental report filed by the Committee on Financial Services, H. Rept. 112-406, Part II.
+- 2012-03-07 — Amendment (A001) offered by Mr. Fincher. (consideration: CR H1249; text: CR H1249)
+- 2012-03-07 — Amendment (A002) offered by Mr. McIntyre. (consideration: CR H1249-1250; text: CR H1249)
+- 2012-03-07 — Amendment (A003) offered by Mr. Himes. (consideration: CR H1250-1251, H1261-1262; text: CR H1250)
+- 2012-03-07 — Amendment (A004) offered by Ms. Jackson Lee (TX). (consideration: CR H1251-1252; text: CR H1251)
+- 2012-03-07 — Amendment (A005) offered by Mr. Ellison. (consideration: CR H1252-1255, H1262-1263; text: CR H1252)
+- 2012-03-07 — Amendment (A006) offered by Ms. Waters. (consideration: CR H1255-1257, H1263; text: CR H1256)
+- 2012-03-07 — Amendment (A007) offered by Ms. Jackson Lee (TX). (consideration: CR H1257-1259; text: CR H1257)
+- 2012-03-07 — Amendment (A008) offered by Ms. Jackson Lee (TX). (consideration: CR H1259; text: CR H1259)
+- 2012-03-07 — Amendment (A009) offered by Mr. Connolly (VA). (consideration: CR H1259-1260, H1263-1264; text: CR H1259)
+- 2012-03-07 — Amendment (A010) offered by Mr. McCarthy (CA). (consideration: CR H1260-1261; text: CR H1260)
+- 2012-03-07 — Amendment agreed to Committee of the Whole
+- 2012-03-07 — Amendment agreed to Committee of the Whole
+- 2012-03-07 — Amendment agreed to Committee of the Whole
+- 2012-03-07 — Amendment agreed to Committee of the Whole
+- 2012-03-07 — Amendment failed in Committee of the Whole
+- 2012-03-07 — Amendment failed in Committee of the Whole
+- 2012-03-07 — Amendment failed in Committee of the Whole
+- 2012-03-07 — Amendment failed in Committee of the Whole
+- 2012-03-07 — Amendment failed in Committee of the Whole
+- 2012-03-07 — By unanimous consent, the Jackson Lee (TX) amendment was withdrawn.
+- 2012-03-07 — Committee of the Whole House on the state of the Union rises leaving H.R. 3606 as unfinished business.
+- 2012-03-07 — Committee of the Whole House on the state of the Union rises leaving H.R. 3606 as unfinished business.
+- 2012-03-07 — Considered as unfinished business.
+- 2012-03-07 — Considered under the provisions of rule H. Res. 572. (consideration: CR H1236)
+- 2012-03-07 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly (VA) amendment No. 9.
+- 2012-03-07 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 5.
+- 2012-03-07 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the Fincher amendment No. 1.
+- 2012-03-07 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the Himes amendment No. 3.
+- 2012-03-07 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 4.
+- 2012-03-07 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 7.
+- 2012-03-07 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 8.
+- 2012-03-07 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the McCarthy (CA) amendment No. 10.
+- 2012-03-07 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the McIntyre amendment No. 2.
+- 2012-03-07 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the Waters amendment No. 6.
+- 2012-03-07 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3606.
+- 2012-03-07 — GENERAL DEBATE - The Committee of the Whole resumed general debate on H.R. 3606.
+- 2012-03-07 — House amendment agreed to: On agreeing to the Fincher amendment (A001) Agreed to by voice vote.
+- 2012-03-07 — House amendment agreed to: On agreeing to the Jackson Lee (TX) amendment (A004) Agreed to by voice vote.
+- 2012-03-07 — House amendment agreed to: On agreeing to the McCarthy (CA) amendment (A010) Agreed to by voice vote.
+- 2012-03-07 — House amendment agreed to: On agreeing to the McIntyre amendment (A002) Agreed to by voice vote.
+- 2012-03-07 — House amendment not agreed to: On agreeing to the Connolly (VA) amendment (A009) Failed by recorded vote: 185 - 236 (Roll no. 106).
+- 2012-03-07 — House amendment not agreed to: On agreeing to the Ellison amendment (A005) Failed by recorded vote: 169 - 244 (Roll no. 104).
+- 2012-03-07 — House amendment not agreed to: On agreeing to the Himes amendment (A003) Failed by recorded vote: 164 - 245 (Roll no. 103).
+- 2012-03-07 — House amendment not agreed to: On agreeing to the Jackson Lee (TX) amendment (A007) Failed by voice vote.
+- 2012-03-07 — House amendment not agreed to: On agreeing to the Waters amendment (A006) Failed by recorded vote: 161 - 259 (Roll no. 105).
+- 2012-03-07 — House amendment offered
+- 2012-03-07 — House amendment offered
+- 2012-03-07 — House amendment offered
+- 2012-03-07 — House amendment offered
+- 2012-03-07 — House amendment offered
+- 2012-03-07 — House amendment offered
+- 2012-03-07 — House amendment offered
+- 2012-03-07 — House amendment offered
+- 2012-03-07 — House amendment offered
+- 2012-03-07 — House amendment offered
+- 2012-03-07 — House amendment offered/reported by: Amendment (A001) offered by Mr. Fincher.(consideration: CR H1249; text: CR H1249)
+- 2012-03-07 — House amendment offered/reported by: Amendment (A002) offered by Mr. McIntyre.(consideration: CR H1249-1250; text: CR H1249)
+- 2012-03-07 — House amendment offered/reported by: Amendment (A003) offered by Mr. Himes.(consideration: CR H1250-1251, H1261-1262; text: CR H1250)
+- 2012-03-07 — House amendment offered/reported by: Amendment (A004) offered by Ms. Jackson Lee (TX).(consideration: CR H1251-1252; text: CR H1251)
+- 2012-03-07 — House amendment offered/reported by: Amendment (A005) offered by Mr. Ellison.(consideration: CR H1252-1255, H1262-1263; text: CR H1252)
+- 2012-03-07 — House amendment offered/reported by: Amendment (A006) offered by Ms. Waters.(consideration: CR H1255-1257, H1263; text: CR H1256)
+- 2012-03-07 — House amendment offered/reported by: Amendment (A007) offered by Ms. Jackson Lee (TX).(consideration: CR H1257-1259; text: CR H1257)
+- 2012-03-07 — House amendment offered/reported by: Amendment (A008) offered by Ms. Jackson Lee (TX).(consideration: CR H1259; text: CR H1259)
+- 2012-03-07 — House amendment offered/reported by: Amendment (A009) offered by Mr. Connolly (VA).(consideration: CR H1259-1260, H1263-1264; text: CR H1259)
+- 2012-03-07 — House amendment offered/reported by: Amendment (A010) offered by Mr. McCarthy (CA).(consideration: CR H1260-1261; text: CR H1260)
+- 2012-03-07 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 572 and Rule XVIII.
+- 2012-03-07 — Mr. Hensarling moved that the Committee rise.
+- 2012-03-07 — On agreeing to the Connolly (VA) amendment (A009) Failed by recorded vote: 185 - 236 (Roll no. 106).
+- 2012-03-07 — On agreeing to the Ellison amendment (A005) Failed by recorded vote: 169 - 244 (Roll no. 104).
+- 2012-03-07 — On agreeing to the Fincher amendment (A001) Agreed to by voice vote.
+- 2012-03-07 — On agreeing to the Himes amendment (A003) Failed by recorded vote: 164 - 245 (Roll no. 103).
+- 2012-03-07 — On agreeing to the Jackson Lee (TX) amendment (A004) Agreed to by voice vote.
+- 2012-03-07 — On agreeing to the Jackson Lee (TX) amendment (A007) Failed by voice vote.
+- 2012-03-07 — On agreeing to the McCarthy (CA) amendment (A010) Agreed to by voice vote.
+- 2012-03-07 — On agreeing to the McIntyre amendment (A002) Agreed to by voice vote.
+- 2012-03-07 — On agreeing to the Waters amendment (A006) Failed by recorded vote: 161 - 259 (Roll no. 105).
+- 2012-03-07 — On motion that the Committee rise Agreed to by voice vote.
+- 2012-03-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly (VA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Connolly (VA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-03-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Ellison demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-03-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Himes amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Himes demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-03-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Waters amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mrs. Waters demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-03-07 — RULING OF THE CHAIR - After review, the Chair ruled that the remarks constituted a personality directed towards an indentifiable Member and announced that, without objection, said remarks would be stricken from the record. Subsequently, the Chair announced that the Committee of the Whole would resume its sitting.
+- 2012-03-07 — Roll call votes on amendments in House
+- 2012-03-07 — Roll call votes on amendments in House
+- 2012-03-07 — Roll call votes on amendments in House
+- 2012-03-07 — Roll call votes on amendments in House
+- 2012-03-07 — Rule H. Res. 572 passed House.
+- 2012-03-07 — Rule provides for consideration of H.R. 3606 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution provides that an amendment in the nature of a substitute consisting of text of Rules Committee Print 112-17 shall be considered as adopted. The resolution waives all points of order against the amendments printed in the report.
+- 2012-03-07 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2012-03-07 — The Speaker designated the Honorable Robert J. Dold to act as Chairman of the Committee.
+- 2012-03-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2012-03-07 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have words taken down. Subsequently, the words were reported to the Committee of the Whole and the Chair announced that the Committee would rise.
+- 2012-03-08 — Amendment (A011) offered by Mr. McHenry. (consideration: CR H1277-1278; text: CR H1277)
+- 2012-03-08 — Amendment (A012) offered by Mr. Miller (NC). (consideration: CR H1278-1279; text: CR H1278)
+- 2012-03-08 — Amendment (A013) offered by Mr. Schweikert. (consideration: CR H1279-1280; text: CR H1279)
+- 2012-03-08 — Amendment (A014) offered by Mr. Capuano. (consideration: CR H1280-1281; text: CR H1280)
+- 2012-03-08 — Amendment (A015) offered by Mr. Peters. (consideration: CR H1281-1282, H1285-1286; text: CR H1281)
+- 2012-03-08 — Amendment (A016) offered by Mrs. Capps. (consideration: CR H1282-1284, H1286-1287; text: CR H1282-1283)
+- 2012-03-08 — Amendment (A017) offered by Mr. Loebsack. (consideration: CR H1284-1285; text: CR H1284)
+- 2012-03-08 — Amendment agreed to Committee of the Whole
+- 2012-03-08 — Amendment agreed to Committee of the Whole
+- 2012-03-08 — Amendment agreed to Committee of the Whole
+- 2012-03-08 — Amendment agreed to Committee of the Whole
+- 2012-03-08 — Amendment failed in Committee of the Whole
+- 2012-03-08 — Amendment failed in Committee of the Whole
+- 2012-03-08 — Amendment failed in Committee of the Whole
+- 2012-03-08 — Committee of the Whole House on the state of the Union rises leaving H.R. 3606 as unfinished business.
+- 2012-03-08 — Considered as unfinished business. (consideration: CR H1277-1285)
+- 2012-03-08 — Considered as unfinished business. (consideration: CR H1285-1289)
+- 2012-03-08 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the Capps amendment No. 16.
+- 2012-03-08 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the Capuano amendment No. 14.
+- 2012-03-08 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the Loebsack amendment No. 17.
+- 2012-03-08 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the McHenry amendment No. 11.
+- 2012-03-08 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the Miller (NC) amendment No. 12.
+- 2012-03-08 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the Peters (MI) amendment No. 15.
+- 2012-03-08 — DEBATE - Pursuant to the provisions of H. Res. 572, the Committee of the Whole proceeded with 10 minutes of debate on the Schweikert amendment No. 13.
+- 2012-03-08 — DEBATE - The House proceeded with 10 minutes of debate on the Eshoo motion to recommit with instructions. The instructions contained in the motion seek to require that the bill be reported back to the House with an amendment providing for public disclosures to the Federal Election Commission of any political expenditures or contributions made during a fiscal year.
+- 2012-03-08 — House amendment agreed to: On agreeing to the Loebsack amendment (A017) Agreed to by voice vote.
+- 2012-03-08 — House amendment agreed to: On agreeing to the McHenry amendment (A011) Agreed to by voice vote.
+- 2012-03-08 — House amendment agreed to: On agreeing to the Miller (NC) amendment (A012) Agreed to by voice vote.
+- 2012-03-08 — House amendment agreed to: On agreeing to the Schweikert amendment (A013) Agreed to by voice vote.
+- 2012-03-08 — House amendment not agreed to: On agreeing to the Capps amendment (A016) Failed by recorded vote: 172 - 236 (Roll no. 108).
+- 2012-03-08 — House amendment not agreed to: On agreeing to the Capuano amendment (A014) Failed by voice vote.
+- 2012-03-08 — House amendment not agreed to: On agreeing to the Peters amendment (A015) Failed by recorded vote: 175 - 239 (Roll no. 107).
+- 2012-03-08 — House amendment offered
+- 2012-03-08 — House amendment offered
+- 2012-03-08 — House amendment offered
+- 2012-03-08 — House amendment offered
+- 2012-03-08 — House amendment offered
+- 2012-03-08 — House amendment offered
+- 2012-03-08 — House amendment offered
+- 2012-03-08 — House amendment offered/reported by: Amendment (A011) offered by Mr. McHenry.(consideration: CR H1277-1278; text: CR H1277)
+- 2012-03-08 — House amendment offered/reported by: Amendment (A012) offered by Mr. Miller (NC).(consideration: CR H1278-1279; text: CR H1278)
+- 2012-03-08 — House amendment offered/reported by: Amendment (A013) offered by Mr. Schweikert.(consideration: CR H1279-1280; text: CR H1279)
+- 2012-03-08 — House amendment offered/reported by: Amendment (A014) offered by Mr. Capuano.(consideration: CR H1280-1281; text: CR H1280)
+- 2012-03-08 — House amendment offered/reported by: Amendment (A015) offered by Mr. Peters.(consideration: CR H1281-1282, H1285-1286; text: CR H1281)
+- 2012-03-08 — House amendment offered/reported by: Amendment (A016) offered by Mrs. Capps.(consideration: CR H1282-1284, H1286-1287; text: CR H1282-1283)
+- 2012-03-08 — House amendment offered/reported by: Amendment (A017) offered by Mr. Loebsack.(consideration: CR H1284-1285; text: CR H1284)
+- 2012-03-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-03-08 — Mr. Hensarling moved that the committee rise.
+- 2012-03-08 — Ms. Eshoo moved to recommit with instructions to Financial Services. (consideration: CR H1287-1288; text: CR H1287)
+- 2012-03-08 — On agreeing to the Capps amendment (A016) Failed by recorded vote: 172 - 236 (Roll no. 108).
+- 2012-03-08 — On agreeing to the Capuano amendment (A014) Failed by voice vote.
+- 2012-03-08 — On agreeing to the Loebsack amendment (A017) Agreed to by voice vote.
+- 2012-03-08 — On agreeing to the McHenry amendment (A011) Agreed to by voice vote.
+- 2012-03-08 — On agreeing to the Miller (NC) amendment (A012) Agreed to by voice vote.
+- 2012-03-08 — On agreeing to the Peters amendment (A015) Failed by recorded vote: 175 - 239 (Roll no. 107).
+- 2012-03-08 — On agreeing to the Schweikert amendment (A013) Agreed to by voice vote.
+- 2012-03-08 — On motion that the committee rise Agreed to by voice vote.
+- 2012-03-08 — On motion to recommit with instructions Failed by recorded vote: 170 - 244 (Roll no. 109). (consideration: CR H1288)
+- 2012-03-08 — On passage Passed by recorded vote: 390 - 23 (Roll no. 110).
+- 2012-03-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Capps amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mrs. Capps demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-03-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Peters(MI) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Peters(MI) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-03-08 — Passed/agreed to in House: On passage Passed by recorded vote: 390 - 23 (Roll no. 110).
+- 2012-03-08 — Received in the Senate.
+- 2012-03-08 — Roll call votes on amendments in House
+- 2012-03-08 — Roll call votes on amendments in House
+- 2012-03-08 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 3606.
+- 2012-03-08 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR 3/7/2012 H1245-1249)
+- 2012-03-08 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2012-03-08 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2012-03-08 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3606.
+- 2012-03-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1288)
+- 2012-03-08 — The previous question was ordered pursuant to the rule. (consideration: CR H1287)
+- 2012-03-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
