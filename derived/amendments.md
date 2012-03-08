@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1741
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 428 of the Homeland Security Act (6 U.S.C. 236) is amended by striking subsections (b) and (c) and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 428(i) of the Homeland Security Act (6 U.S.C. 236(i)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 428 of the Homeland Security Act (6 U.S.C. 236) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 428 of the Homeland Security Act of 2002 (6 U.S.C. 236) is amended by striking subsections (b) and (c) and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 428(i) of the Homeland Security Act of 2002 (6 U.S.C. 236(i)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 428 of the Homeland Security Act of 2002 (6 U.S.C. 236) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 221(i) of the Immigration and Nationality Act (8 U.S.C. 1201(i)) is amended by striking the final sentence and inserting the following: “A revocation under this subsection shall take effect immediately and shall automatically can… | the bill names no machine-readable US Code section |
