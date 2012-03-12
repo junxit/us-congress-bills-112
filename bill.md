@@ -1,0 +1,51 @@
+---
+legis-num: S. 2185
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2185
+
+> To authorize the Secretary of Health and Human Services, acting through the Administrator of the Health Resources and Services Administration, to award grants on a competitive basis to public and private entities to provide qualified sexual risk avoidance education to youth and their parents.
+
+## § 1. Short title
+
+This Act may be cited as the “Abstinence Education Reallocation Act of 2012”.
+
+## § 2. Sexual risk avoidance education
+
+- **(a)** *Grants* The Secretary of Health and Human Services, acting through the Administrator of the Health Resources and Services Administration, may award grants on a competitive basis to public and private entities to provide qualified sexual risk avoidance education to youth and their parents.
+- **(b)** *Qualified sexual risk avoidance education* To qualify for funding under subsection (a), sexual risk avoidance education shall meet each of the following criterion:
+  - **(1)** The education shall be age appropriate.
+  - **(2)** The education shall be medically accurate.
+  - **(3)** The education shall be carried out through an evidence-based approach.
+  - **(4)** The education shall have as its sole purpose teaching of the skills and benefits of sexual abstinence as the optimal sexual health behavior for youth.
+  - **(5)** The education shall include, consistent with paragraphs (1) through (4), teaching of each of the following:
+    - **(A)** The holistic health, economic, and societal benefits that can be gained by refraining from nonmarital sexual activity, through teaching practical skills that promote self-regulation, goal setting, and a focus on the future.
+    - **(B)** The clear advantage of reserving human sexual activity for marriage, as a key contributing factor in the prevention of poverty and the preservation of physical and emotional health, based on social science research.
+    - **(C)** The foundational components of a healthy relationship and related research regarding the individual, economic, and societal advantages of bearing children within the context of a committed marital relationship in order to form healthy marriages and safe and stable families.
+    - **(D)** The skills needed to resist the negative influences of the pervasive sex-saturated culture that presents teenage sexual activity as an expected norm, with few risks or negative consequences.
+    - **(E)** The understanding of how drugs, alcohol, and the irresponsible use of social media can negatively influence healthy sexual decisionmaking and can contribute to aggressive sexual behavior.
+    - **(F)** A focused priority on the superior health benefits of sexual abstinence, ensuring that any information provided on contraception does not exaggerate its effectiveness in preventing sexually transmitted diseases and pregnancies.
+- **(c)** *Priority* In awarding grants under subsection (a), the Secretary of Health and Human Services shall give priority to applicants proposing programs to provide qualified sexual risk avoidance education that—
+  - **(1)** will serve youth ages 12 to 19; and
+  - **(2)** will promote protective benefits of parent-child communication regarding healthy sexual decisionmaking.
+- **(d)** *Definitions* In this Act:
+  - **(1)** *Age appropriate* The term age appropriate means appropriate for the general developmental and social maturity of the age group (as opposed to the cognitive ability to understand a topic or the atypical development of a small segment of the targeted population).
+  - **(2)** *Evidence-based approach* The term evidence-based approach means an approach that—
+    - **(A)** has a clear theoretical base that integrates research findings with practical implementation expertise that is relevant to the field;
+    - **(B)** matches the needs and desired outcomes for the intended audience; and
+    - **(C)** if implemented well, will demonstrate improved outcomes for the targeted population.
+  - **(3)** *Medically accurate* The term medically accurate means referenced to peer-reviewed research by medical, educational, scientific, governmental, or public health publications, organizations, or agencies.
+  - **(4)** *Sexual abstinence* The term sexual abstinence means voluntarily refraining from sexual activity.
+  - **(5)** *Sexual activity* The term sexual activity means genital contact or sexual stimulation, including sexual intercourse.
+- **(e)** *Authorization of appropriations*
+  - **(1)** *In general* There are authorized to be appropriated to carry out this Act $110,000,000 for each of fiscal years 2012 through 2016. Amounts authorized to carry out this Act shall be derived exclusively from amounts in the Prevention and Public Health Fund established by section 4002 of the Patient Protection and Affordable Care Act (42 U.S.C. 300u–11).
+  - **(2)** *Federal administrative costs* Of the amounts authorized to be appropriated under paragraph (1) for a fiscal year—
+    - **(A)** not more than $1,000,000 are authorized to be used for Federal administrative costs; and
+    - **(B)** of the amounts used by the Secretary for such costs, not less than 40 percent shall be used for training and technical assistance by qualified experts who—
+      - **(i)** have singular experience in providing programmatic support in abstinence education;
+      - **(ii)** have expertise in theory-based abstinence education curriculum development and implementation;
+      - **(iii)** have experience in developing sexual risk avoidance evaluation instruments; and
+      - **(iv)** can offer technical assistance and training on a wide range of topics relevant to the sexual risk avoidance (or abstinence education) field.
