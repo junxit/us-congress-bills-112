@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3606
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3606
@@ -271,3 +271,5 @@ Jumpstart Our Business Startups
 - 2012-03-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1288)
 - 2012-03-08 — The previous question was ordered pursuant to the rule. (consideration: CR H1287)
 - 2012-03-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2012-03-12 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-03-13 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 334.
