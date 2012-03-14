@@ -1,7 +1,7 @@
 ---
 measure: S. 1813
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1813
@@ -16,15 +16,439 @@ MAP-21
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Cosponsors (3)
+## Cosponsors (399)
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Baucus, Max [D-MT] (B000243)
 - Sen. Vitter, David [R-LA] (V000127)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
 
 ## Committees (1)
 
 - Senate — Environment and Public Works Committee
+
+## Recorded votes (25)
+
+- 2012-02-09 — [Senate 112-2-17](votes/senate-112-2-0017.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (85–11)
+- 2012-02-17 — [Senate 112-2-20](votes/senate-112-2-0020.md) — On the Cloture Motion — **Cloture Motion Rejected** (54–42)
+- 2012-03-01 — [Senate 112-2-24](votes/senate-112-2-0024.md) — On the Motion to Table — **Motion to Table Agreed to** (51–48)
+- 2012-03-06 — [Senate 112-2-25](votes/senate-112-2-0025.md) — On the Cloture Motion — **Cloture Motion Rejected** (52–44)
+- 2012-03-08 — [Senate 112-2-28](votes/senate-112-2-0028.md) — On the Amendment — **Amendment Rejected** (43–55)
+- 2012-03-08 — [Senate 112-2-29](votes/senate-112-2-0029.md) — On the Amendment — **Amendment Agreed to** (82–16)
+- 2012-03-08 — [Senate 112-2-30](votes/senate-112-2-0030.md) — On the Amendment — **Amendment Rejected** (52–46)
+- 2012-03-08 — [Senate 112-2-31](votes/senate-112-2-0031.md) — On the Amendment — **Amendment Rejected** (52–46)
+- 2012-03-08 — [Senate 112-2-32](votes/senate-112-2-0032.md) — On the Amendment — **Amendment Agreed to** (76–22)
+- 2012-03-08 — [Senate 112-2-33](votes/senate-112-2-0033.md) — On the Amendment — **Amendment Rejected** (33–65)
+- 2012-03-08 — [Senate 112-2-34](votes/senate-112-2-0034.md) — On the Amendment — **Amendment Rejected** (56–42)
+- 2012-03-08 — [Senate 112-2-35](votes/senate-112-2-0035.md) — On the Motion — **Motion Agreed to** (66–31)
+- 2012-03-13 — [Senate 112-2-36](votes/senate-112-2-0036.md) — On the Amendment — **Amendment Rejected** (30–67)
+- 2012-03-13 — [Senate 112-2-37](votes/senate-112-2-0037.md) — On the Amendment — **Amendment Agreed to** (50–47)
+- 2012-03-13 — [Senate 112-2-38](votes/senate-112-2-0038.md) — On the Amendment — **Amendment Rejected** (41–57)
+- 2012-03-13 — [Senate 112-2-39](votes/senate-112-2-0039.md) — On the Amendment — **Amendment Rejected** (49–49)
+- 2012-03-13 — [Senate 112-2-40](votes/senate-112-2-0040.md) — On the Amendment — **Amendment Rejected** (26–72)
+- 2012-03-13 — [Senate 112-2-41](votes/senate-112-2-0041.md) — On the Amendment — **Amendment Rejected** (51–47)
+- 2012-03-13 — [Senate 112-2-42](votes/senate-112-2-0042.md) — On the Amendment — **Amendment Rejected** (28–70)
+- 2012-03-13 — [Senate 112-2-43](votes/senate-112-2-0043.md) — On the Amendment — **Amendment Rejected** (30–68)
+- 2012-03-13 — [Senate 112-2-44](votes/senate-112-2-0044.md) — On the Motion — **Motion Rejected** (40–58)
+- 2012-03-13 — [Senate 112-2-45](votes/senate-112-2-0045.md) — On the Amendment — **Amendment Rejected** (12–86)
+- 2012-03-14 — [Senate 112-2-46](votes/senate-112-2-0046.md) — On the Amendment — **Amendment Agreed to** (76–20)
+- 2012-03-14 — [Senate 112-2-47](votes/senate-112-2-0047.md) — On the Motion — **Motion Rejected** (42–54)
+- 2012-03-14 — [Senate 112-2-48](votes/senate-112-2-0048.md) — On Passage of the Bill — **Bill Passed** (74–22)
 
 ## Actions
 
@@ -34,3 +458,575 @@ MAP-21
 - 2012-02-06 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. Without written report.
 - 2012-02-06 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. Without written report.
 - 2012-02-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 311.
+- 2012-02-07 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S382; text: CR S382)
+- 2012-02-07 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S382)
+- 2012-02-09 — Amendment SA 1515 proposed by Senator Reid for Senator Johnson SD. (consideration: CR S484-485) Of a perfecting nature.
+- 2012-02-09 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 85 - 11. Record Vote Number: 17. (consideration: CR S420; text: CR S420)
+- 2012-02-09 — Measure laid before Senate by unanimous consent. (consideration: CR S423-485)
+- 2012-02-09 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent. (consideration: CR S420-421)
+- 2012-02-09 — Motion to proceed to measure considered in Senate. (consideration: CR S400-405, S414-417, S420-421)
+- 2012-02-09 — Senate amendment proposed (on the floor): Amendment SA 1515 proposed by Senator Reid for Senator Johnson SD.(consideration: CR S484-485)
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — Senate amendment submitted
+- 2012-02-09 — The committee reported amendments were agreed to by Unanimous Consent. (text of committee reported amendments: CR S423-484)
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-13 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-14 — Senate amendment submitted
+- 2012-02-15 — Amendment SA 1633 proposed by Senator Reid. (consideration: CR S686) Of a perfecting nature.
+- 2012-02-15 — Amendment SA 1634 proposed by Senator Reid to Amendment SA 1633. (consideration: CR S814) To change the enactment date.
+- 2012-02-15 — Amendment SA 1635 proposed by Senator Reid. (consideration: CR S686; text: CR S686) To change the enactment date.
+- 2012-02-15 — Amendment SA 1636 proposed by Senator Reid to Amendment SA 1635. (consideration: CR S814) Of a perfecting nature.
+- 2012-02-15 — Amendment SA 1637 proposed by Senator Reid to Amendment SA 1636. (consideration: CR S687; text: CR S687) Of a perfecting nature.
+- 2012-02-15 — Cloture motion on amendment SA 1633 presented in Senate. (consideration: CR S686; text: CR S686)
+- 2012-02-15 — Considered by Senate. (consideration: CR S686)
+- 2012-02-15 — Considered by Senate. (consideration: CR S686-687)
+- 2012-02-15 — Motion by Senator Reid to recommit to Senate Committee on Environment and Public Works with instructions to report back forthwith with amendment SA 1635 made in Senate. (consideration: CR S686; text: CR S686)
+- 2012-02-15 — Proposed amendment SA 1515 withdrawn in Senate. (consideration: CR S686)
+- 2012-02-15 — Senate amendment proposed (on the floor): Amendment SA 1633 proposed by Senator Reid.(consideration: CR S686)
+- 2012-02-15 — Senate amendment proposed (on the floor): Amendment SA 1634 proposed by Senator Reid to Amendment SA 1633.(consideration: CR S814)
+- 2012-02-15 — Senate amendment proposed (on the floor): Amendment SA 1635 proposed by Senator Reid.(consideration: CR S686; text: CR S686)
+- 2012-02-15 — Senate amendment proposed (on the floor): Amendment SA 1636 proposed by Senator Reid to Amendment SA 1635.(consideration: CR S814)
+- 2012-02-15 — Senate amendment proposed (on the floor): Amendment SA 1637 proposed by Senator Reid to Amendment SA 1636.(consideration: CR S687; text: CR S687)
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-15 — Senate amendment submitted
+- 2012-02-16 — Considered by Senate. (consideration: CR S814)
+- 2012-02-16 — Considered by Senate. (consideration: CR S814)
+- 2012-02-16 — Considered by Senate. (consideration: CR S814)
+- 2012-02-16 — Considered by Senate. (consideration: CR S814)
+- 2012-02-16 — Considered by Senate. (consideration: CR S814)
+- 2012-02-16 — Considered by Senate. (consideration: CR S814-842)
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-16 — Senate amendment submitted
+- 2012-02-17 — Amendment SA 1730 proposed by Senator Reid. (consideration: CR S892) Of a perfecting nature.
+- 2012-02-17 — Cloture on amendment SA 1633 not invoked in Senate by Yea-Nay Vote. 54 - 42. Record Vote Number: 20. (consideration: CR S686; text: CR S886)
+- 2012-02-17 — Considered by Senate. (consideration: CR S885)
+- 2012-02-17 — Considered by Senate. (consideration: CR S885)
+- 2012-02-17 — Considered by Senate. (consideration: CR S885)
+- 2012-02-17 — Considered by Senate. (consideration: CR S885)
+- 2012-02-17 — Considered by Senate. (consideration: CR S885)
+- 2012-02-17 — Considered by Senate. (consideration: CR S885-886, S892)
+- 2012-02-17 — Motion by Senator Reid to recommit to Senate Committee on Environment and Public Works with instructions to report back forthwith with amendment SA 1635 withdrawn in Senate by Unanimous Consent. (consideration: CR S686)
+- 2012-02-17 — Proposed amendment SA 1633 withdrawn in Senate. (consideration: CR S686)
+- 2012-02-17 — Proposed amendment SA 1635 withdrawn in Senate. (consideration: CR S686)
+- 2012-02-17 — Roll call votes on amendments in Senate: Cloture on amendment SA 1633 not invoked in Senate by Yea-Nay Vote. 54 - 42. Record Vote Number: 20.(consideration: CR S686; text: CR S886)
+- 2012-02-17 — SA 1634 fell when SA 1633 withdrawn. (consideration: CR S686)
+- 2012-02-17 — SA 1636 fell when SA 1635 withdrawn. (consideration: CR S686)
+- 2012-02-17 — SA 1637 fell when SA 1636 fell. (consideration: CR S686)
+- 2012-02-17 — Senate amendment proposed (on the floor): Amendment SA 1730 proposed by Senator Reid.(consideration: CR S892)
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-17 — Senate amendment submitted
+- 2012-02-27 — Senate amendment submitted
+- 2012-02-27 — Senate amendment submitted
+- 2012-02-27 — Senate amendment submitted
+- 2012-02-27 — Senate amendment submitted
+- 2012-02-27 — Senate amendment submitted
+- 2012-02-27 — Senate amendment submitted
+- 2012-02-28 — Amendment SA 1520 proposed by Senator Reid for Senator Blunt to Amendment SA 1730. (consideration: CR S1079-1082, S1082, S1083; text: CR S1079) To amend the Patient Protection and Affordable Care Act to protect rights of conscience with regard to requirements for coverage of specific items and services.
+- 2012-02-28 — Considered by Senate. (consideration: CR S1078)
+- 2012-02-28 — Considered by Senate. (consideration: CR S1078-1085)
+- 2012-02-28 — Senate amendment proposed (on the floor): Amendment SA 1520 proposed by Senator Reid for Senator Blunt to Amendment SA 1730.(consideration: CR S1079-1082, S1082, S1083; text: CR S1079)
+- 2012-02-28 — Senate amendment submitted
+- 2012-02-28 — Senate amendment submitted
+- 2012-02-28 — Senate amendment submitted
+- 2012-02-28 — Senate amendment submitted
+- 2012-02-28 — Senate amendment submitted
+- 2012-02-28 — Senate amendment submitted
+- 2012-02-28 — Senate amendment submitted
+- 2012-02-28 — Senate amendment submitted
+- 2012-02-28 — Senate amendment submitted
+- 2012-02-29 — Considered by Senate. (consideration: CR S1106)
+- 2012-02-29 — Considered by Senate. (consideration: CR S1106, S1112, S1115-1142)
+- 2012-02-29 — Considered by Senate. (consideration: CR S1106-1142)
+- 2012-02-29 — Senate amendment submitted
+- 2012-02-29 — Senate amendment submitted
+- 2012-02-29 — Senate amendment submitted
+- 2012-02-29 — Senate amendment submitted
+- 2012-02-29 — Senate amendment submitted
+- 2012-02-29 — Senate amendment submitted
+- 2012-03-01 — Amendment SA 1761 proposed by Senator Reid. (consideration: CR S1179) Of a perfecting nature.
+- 2012-03-01 — Amendment SA 1762 proposed by Senator Reid to Amendment SA 1761. (consideration: CR S1179; text: CR S1179) To change the enactment date.
+- 2012-03-01 — Amendment SA 1763 proposed by Senator Reid. (consideration: CR S1179; text: CR S1179) To change the enactment date.
+- 2012-03-01 — Amendment SA 1764 proposed by Senator Reid to Amendment SA 1763. (consideration: CR S1179; text: CR S1179) Of a perfecting nature.
+- 2012-03-01 — Amendment SA 1765 proposed by Senator Reid to Amendment SA 1764. (consideration: CR S1179; text: CR S1179) Of a perfecting nature.
+- 2012-03-01 — Considered by Senate. (consideration: CR S1162, S1162-1173)
+- 2012-03-01 — Considered by Senate. (consideration: CR S1162, S1179)
+- 2012-03-01 — Considered by Senate. (consideration: CR S1162-1173, S1179-1189)
+- 2012-03-01 — Motion by Senator Reid to recommit to Senate Committee on Environment and Public Works with instructions to report back forthwith with amendment SA 1763 made in Senate. (consideration: CR S1179; text: CR S1179)
+- 2012-03-01 — Motion to table amendment SA 1520 agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 24.
+- 2012-03-01 — Proposed amendment SA 1730 withdrawn in Senate. (consideration: CR S1179)
+- 2012-03-01 — Roll call votes on amendments in Senate: Motion to table amendment SA 1520 agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 24.
+- 2012-03-01 — Senate amendment proposed (on the floor): Amendment SA 1761 proposed by Senator Reid.(consideration: CR S1179)
+- 2012-03-01 — Senate amendment proposed (on the floor): Amendment SA 1762 proposed by Senator Reid to Amendment SA 1761.(consideration: CR S1179; text: CR S1179)
+- 2012-03-01 — Senate amendment proposed (on the floor): Amendment SA 1763 proposed by Senator Reid.(consideration: CR S1179; text: CR S1179)
+- 2012-03-01 — Senate amendment proposed (on the floor): Amendment SA 1764 proposed by Senator Reid to Amendment SA 1763.(consideration: CR S1179; text: CR S1179)
+- 2012-03-01 — Senate amendment proposed (on the floor): Amendment SA 1765 proposed by Senator Reid to Amendment SA 1764.(consideration: CR S1179; text: CR S1179)
+- 2012-03-01 — Senate amendment submitted
+- 2012-03-01 — Senate amendment submitted
+- 2012-03-01 — Senate amendment submitted
+- 2012-03-01 — Senate amendment submitted
+- 2012-03-01 — Senate amendment submitted
+- 2012-03-01 — Senate amendment submitted
+- 2012-03-01 — Senate amendment submitted
+- 2012-03-01 — Senate amendment submitted
+- 2012-03-01 — Senate amendment submitted
+- 2012-03-01 — Senate amendment submitted
+- 2012-03-01 — Senate amendment submitted
+- 2012-03-01 — Senate amendment submitted
+- 2012-03-01 — Senate amendment submitted
+- 2012-03-01 — Senate amendment submitted
+- 2012-03-02 — Cloture motion on amendment SA 1761 presented in Senate. (consideration: CR S1372; text:  S1372)
+- 2012-03-02 — Cloture motion on the bill presented in Senate. (consideration: CR S1372; text; CR S1372)
+- 2012-03-02 — Considered by Senate. (consideration: CR S1372)
+- 2012-03-02 — Considered by Senate. (consideration: CR S1372)
+- 2012-03-02 — Considered by Senate. (consideration: CR S1372)
+- 2012-03-02 — Considered by Senate. (consideration: CR S1372)
+- 2012-03-02 — Considered by Senate. (consideration: CR S1372)
+- 2012-03-02 — Considered by Senate. (consideration: CR S1372-1373)
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-05 — Senate amendment submitted
+- 2012-03-06 — Cloture motion on the bill withdrawn by unanimous consent in Senate.
+- 2012-03-06 — Cloture on amendment SA 1761 not invoked in Senate by Yea-Nay Vote. 52 - 44. Record Vote Number: 25. (consideration: CR S1410; text: CR S1410)
+- 2012-03-06 — Considered by Senate. (consideration: CR S1407)
+- 2012-03-06 — Considered by Senate. (consideration: CR S1407)
+- 2012-03-06 — Considered by Senate. (consideration: CR S1407)
+- 2012-03-06 — Considered by Senate. (consideration: CR S1407)
+- 2012-03-06 — Considered by Senate. (consideration: CR S1407, S1410)
+- 2012-03-06 — Considered by Senate. (consideration: CR S1407-1410, S1413-1417)
+- 2012-03-06 — Motion by Senator Reid to reconsider the vote by which cloture on amendment SA 1761 was not invoked (Record Vote No. 25) entered in Senate.
+- 2012-03-06 — Roll call votes on amendments in Senate: Cloture on amendment SA 1761 not invoked in Senate by Yea-Nay Vote. 52 - 44. Record Vote Number: 25.(consideration: CR S1410; text: CR S1410)
+- 2012-03-06 — Senate amendment submitted
+- 2012-03-06 — Senate amendment submitted
+- 2012-03-06 — Senate amendment submitted
+- 2012-03-06 — Senate amendment submitted
+- 2012-03-06 — Senate amendment submitted
+- 2012-03-06 — Senate amendment submitted
+- 2012-03-06 — Senate amendment submitted
+- 2012-03-06 — Senate amendment submitted
+- 2012-03-07 — Amendment SA 1761 agreed to in Senate by Unanimous Consent.
+- 2012-03-07 — Considered by Senate. (consideration: CR S1441)
+- 2012-03-07 — Considered by Senate. (consideration: CR S1441)
+- 2012-03-07 — Considered by Senate. (consideration: CR S1441)
+- 2012-03-07 — Considered by Senate. (consideration: CR S1441)
+- 2012-03-07 — Considered by Senate. (consideration: CR S1441, S1455)
+- 2012-03-07 — Considered by Senate. (consideration: CR S1441-1454, S1454-1456)
+- 2012-03-07 — Motion by Senator Reid to recommit to Senate Committee on Environment and Public Works with instructions to report back forthwith with amendment SA 1763 withdrawn in Senate. (consideration: CR S1455)
+- 2012-03-07 — Proposed amendment SA 1762 withdrawn in Senate.
+- 2012-03-07 — Proposed amendment SA 1763 withdrawn in Senate. (consideration: CR S1455)
+- 2012-03-07 — SA 1764 fell when SA 1763 withdrawn.
+- 2012-03-07 — SA 1765 fell when SA 1764 fell.
+- 2012-03-07 — Senate amendment agreed to: Amendment SA 1761 agreed to in Senate by Unanimous Consent.
+- 2012-03-07 — Senate amendment submitted
+- 2012-03-07 — Senate amendment submitted
+- 2012-03-07 — Senate amendment submitted
+- 2012-03-07 — Senate amendment submitted
+- 2012-03-07 — Senate amendment submitted
+- 2012-03-07 — Senate amendment submitted
+- 2012-03-07 — Senate amendment submitted
+- 2012-03-07 — Senate amendment submitted
+- 2012-03-07 — Senate amendment submitted
+- 2012-03-07 — Senate amendment submitted
+- 2012-03-07 — Senate amendment submitted
+- 2012-03-07 — Senate amendment submitted
+- 2012-03-07 — Senate amendment submitted
+- 2012-03-07 — Senate amendment submitted
+- 2012-03-08 — Amendment SA 1517 proposed by Senator Coats. (consideration: CR S1535; text: CR S1535) To modify the apportionment formula to ensure that the percentage of apportioned funds received by a State is the same as the percentage of total gas taxes paid by the State.
+- 2012-03-08 — Amendment SA 1535 proposed by Senator Vitter. (consideration: CR S1505-1507, S1526; text: CR S1505) To provide for an extension of the Draft Proposed Outer Continental Shelf Oil and Gas Leasing Program 2010-2015.
+- 2012-03-08 — Amendment SA 1535 under the order of 3/7/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 28.
+- 2012-03-08 — Amendment SA 1537 proposed by Senator Hoeven. (consideration: CR S1515-1517, S1519-1523, S1530; text: CR S1515) To approve the Keystone XL pipeline project and provide for environmental protection and government oversight.
+- 2012-03-08 — Amendment SA 1537, under the order of 3/7/2012, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 34.
+- 2012-03-08 — Amendment SA 1540 proposed by Senator Blunt. (consideration: CR S1535-1536; text: CR S1535) To modify the section relating to off-system bridges.
+- 2012-03-08 — Amendment SA 1589 proposed by Senator Coats for Senator DeMint. (consideration: CR S1535) To amend the Internal Revenue Code of 1986 to terminate certain energy tax subsidies and lower the corporate income tax rate.
+- 2012-03-08 — Amendment SA 1660 proposed by Senator Collins. (consideration: CR S1508-1511, S1513-1515, S1528) To provide additional time for the Administrator of the Environmental Protection Agency to issue achievable standards for industrial, commercial, and institutional boilers, process heaters, and incinerators.
+- 2012-03-08 — Amendment SA 1660, under the order of 3/7/2012, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 30.
+- 2012-03-08 — Amendment SA 1669 proposed by Senator McCain. (consideration: CR S1533; text as modified: CR S1533) To enhance the natural quiet and safety of airspace of the Grand Canyon National Park and for other purposes.
+- 2012-03-08 — Amendment SA 1736 proposed by Senator Portman. (consideration: CR S1534-1535) To free States to spend gas taxes on their transportation priorities.
+- 2012-03-08 — Amendment SA 1738 proposed by Senator Coburn. (consideration: CR S1511-1513, S1518-1519, S1528-1529; text: CR S1512) To prevent the creation of duplicative and overlapping Federal programs.
+- 2012-03-08 — Amendment SA 1738, under the order of 3/7/2012, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 31.
+- 2012-03-08 — Amendment SA 1742 proposed by Senator Portman. (consideration: CR S1534-1535; text: CR S1534) To allow States to permit nonhighway uses in rest areas along any highway.
+- 2012-03-08 — Amendment SA 1756 proposed by Senator Coats for Senator DeMint. (consideration: CR S1535) To return to the individual States maximum discretionary authority and fiscal responsibility for all elements of the national surface transportation systems that are not within the direct purview of the Federal Government.
+- 2012-03-08 — Amendment SA 1779 proposed by Senator Coats for Senator Alexander. (consideration: CR S1535) To make technical corrections to certain provisions relating to overflights of National Parks.
+- 2012-03-08 — Amendment SA 1785 proposed by Senator Corker. (consideration: CR S1518-1519, S1533-1534; text: CR S1534) To lower the FY13 discretionary budget authority cap as set in the Balanced Budget and Emergency Deficit Control Act of 1985 by $11,000,000,000 in order to offset the general fund transfers to the Highway Trust Fund.
+- 2012-03-08 — Amendment SA 1810 proposed by Senator Corker. (consideration: CR S1533-1534; text: CR S1534) To ensure that the aggregate amount made available for transportation projects for a fiscal year does not exceed the estimated amount available for those projects in the Highway Trust Fund for the fiscal year.
+- 2012-03-08 — Amendment SA 1817 proposed by Senator Wyden. (consideration: CR S1517-1518, S1529-1530; text: CR S1517) To ensure the expeditious processing of Keystone XL permit applications consistent with current law, prohibit the export of crude oil produced in Canada and transported by the Keystone XL pipeline and related facilities unless the prohibition is waived by the President, and require the use of United States iron, steel, and manufactured goods in the construction of the Keystone XL pipeline and related facilities with certain exceptions.
+- 2012-03-08 — Amendment SA 1817, under the order of 3/7/2012, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 33 - 65. Record Vote Number: 33.
+- 2012-03-08 — Amendment SA 1818 agreed to in Senate by Voice Vote.
+- 2012-03-08 — Amendment SA 1818 proposed by Senator Levin. (consideration: CR S1531-1533; text: CR S1531-1532) To authorize special measures against foreign jurisdictions, financial institutions, and others that significantly impede United States tax enforcement.
+- 2012-03-08 — Amendment SA 1822 proposed by Senator Nelson FL. (consideration: CR S1507-1508, S1524-1525, S1529) To provide for the restoration of the natural resources, ecosystems, fisheries, marine and wildlife habitats, beaches, and coastal wetlands of Gulf Coast States and to provide funding for the Land and Water Conservation Fund.
+- 2012-03-08 — Amendment SA 1822, under the order of 3/7/2012, having achieved 60 votes in the affirmative, agreed to in Senate by Yea-Nay Vote. 76 - 22. Record Vote Number: 32.
+- 2012-03-08 — Amendment SA 1825 proposed by Senator Baucus. (consideration: CR S1525-1526, S1527-1528) To reauthorize for 1 year the Secure Rural Schools and Community Self-Determination Act of 2000 and to provide full funding for the Payments in Lieu of Taxes program for 1 year, and for other purposes.
+- 2012-03-08 — Amendment SA 1825 under the order of 3/7/2012, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 82 - 16. Record Vote Number: 29.
+- 2012-03-08 — Amendment SA 1826 proposed by Senator Roberts. (consideration: CR S1523-1524) Of a perfecting nature.
+- 2012-03-08 — Considered by Senate. (consideration: CR S1504-1536)
+- 2012-03-08 — Motion to waive the Budget Act with respect to the measure agreed to in Senate by Yea-Nay Vote. 66 - 31. Record Vote Number: 35.
+- 2012-03-08 — Motion to waive the Budget Act with respect to the measure made in Senate.
+- 2012-03-08 — Point of order against the measure raised in Senate.
+- 2012-03-08 — Roll call votes on amendments in Senate: Amendment SA 1535 under the order of 3/7/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 28.
+- 2012-03-08 — Roll call votes on amendments in Senate: Amendment SA 1537, under the order of 3/7/2012, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 34.
+- 2012-03-08 — Roll call votes on amendments in Senate: Amendment SA 1660, under the order of 3/7/2012, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 30.
+- 2012-03-08 — Roll call votes on amendments in Senate: Amendment SA 1738, under the order of 3/7/2012, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 31.
+- 2012-03-08 — Roll call votes on amendments in Senate: Amendment SA 1817, under the order of 3/7/2012, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 33 - 65. Record Vote Number: 33.
+- 2012-03-08 — Roll call votes on amendments in Senate: Amendment SA 1822, under the order of 3/7/2012, having achieved 60 votes in the affirmative, agreed to in Senate by Yea-Nay Vote. 76 - 22. Record Vote Number: 32.
+- 2012-03-08 — Roll call votes on amendments in Senate: Amendment SA 1825 under the order of 3/7/2012, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 82 - 16. Record Vote Number: 29.
+- 2012-03-08 — Senate amendment agreed to: Amendment SA 1818 agreed to in Senate by Voice Vote.
+- 2012-03-08 — Senate amendment agreed to: Amendment SA 1822, under the order of 3/7/2012, having achieved 60 votes in the affirmative, agreed to in Senate by Yea-Nay Vote. 76 - 22. Record Vote Number: 32.
+- 2012-03-08 — Senate amendment agreed to: Amendment SA 1825 under the order of 3/7/2012, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 82 - 16. Record Vote Number: 29.
+- 2012-03-08 — Senate amendment not agreed to: Amendment SA 1535 under the order of 3/7/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 28.
+- 2012-03-08 — Senate amendment not agreed to: Amendment SA 1537, under the order of 3/7/2012, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 34.
+- 2012-03-08 — Senate amendment not agreed to: Amendment SA 1660, under the order of 3/7/2012, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 30.
+- 2012-03-08 — Senate amendment not agreed to: Amendment SA 1738, under the order of 3/7/2012, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 31.
+- 2012-03-08 — Senate amendment not agreed to: Amendment SA 1817, under the order of 3/7/2012, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 33 - 65. Record Vote Number: 33.
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1517 proposed by Senator Coats.(consideration: CR S1535; text: CR S1535)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1535 proposed by Senator Vitter.(consideration: CR S1505-1507, S1526; text: CR S1505)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1537 proposed by Senator Hoeven.(consideration: CR S1515-1517, S1519-1523, S1530; text: CR S1515)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1540 proposed by Senator Blunt.(consideration: CR S1535-1536; text: CR S1535)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1589 proposed by Senator Coats for Senator DeMint.(consideration: CR S1535)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1660 proposed by Senator Collins.(consideration: CR S1508-1511, S1513-1515, S1528)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1669 proposed by Senator McCain.(consideration: CR S1533; text as modified: CR S1533)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1736 proposed by Senator Portman.(consideration: CR S1534-1535)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1738 proposed by Senator Coburn.(consideration: CR S1511-1513, S1518-1519, S1528-1529; text: CR S1512)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1742 proposed by Senator Portman.(consideration: CR S1534-1535; text: CR S1534)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1756 proposed by Senator Coats for Senator DeMint.(consideration: CR S1535)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1779 proposed by Senator Coats for Senator Alexander.(consideration: CR S1535)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1785 proposed by Senator Corker.(consideration: CR S1518-1519, S1533-1534; text: CR S1534)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1810 proposed by Senator Corker.(consideration: CR S1533-1534; text: CR S1534)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1817 proposed by Senator Wyden.(consideration: CR S1517-1518, S1529-1530; text: CR S1517)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1818 proposed by Senator Levin.(consideration: CR S1531-1533; text: CR S1531-1532)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1822 proposed by Senator Nelson FL.(consideration: CR S1507-1508, S1524-1525, S1529)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1825 proposed by Senator Baucus.(consideration: CR S1525-1526, S1527-1528)
+- 2012-03-08 — Senate amendment proposed (on the floor): Amendment SA 1826 proposed by Senator Roberts.(consideration: CR S1523-1524)
+- 2012-03-08 — Senate amendment submitted
+- 2012-03-08 — Senate amendment submitted
+- 2012-03-08 — Senate amendment submitted
+- 2012-03-08 — Senate amendment submitted
+- 2012-03-08 — Senate amendment submitted
+- 2012-03-08 — Senate amendment submitted
+- 2012-03-13 — Amendment SA 1517 not agreed to in Senate by Yea-Nay Vote. 28 - 70. Record Vote Number: 42.
+- 2012-03-13 — Amendment SA 1540 agreed to in Senate by Voice Vote.
+- 2012-03-13 — Amendment SA 1589, under the order of 3/7/12, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 26 - 72. Record Vote Number: 40.
+- 2012-03-13 — Amendment SA 1617 agreed to in Senate by Voice Vote.
+- 2012-03-13 — Amendment SA 1617 proposed by Senator Klobuchar. (consideration: CR S1603-1604; text: CR S1603) To amend the Motor Carrier Safety Improvement Act of 1999 to provide clarification regarding the applicability of exemptions relating to the transportation of agricultural commodities and farm supplies, and for other purposes.
+- 2012-03-13 — Amendment SA 1736 not agreed to in Senate by Yea-Nay Vote. 30 - 68. Record Vote Number: 43.
+- 2012-03-13 — Amendment SA 1742 not agreed to in Senate by Yea-Nay Vote. 12 - 86. Record Vote Number: 45.
+- 2012-03-13 — Amendment SA 1756 not agreed to in Senate by Yea-Nay Vote. 30 - 67. Record Vote Number: 36.
+- 2012-03-13 — Amendment SA 1759 agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 37.
+- 2012-03-13 — Amendment SA 1759 proposed by Senator Bingaman. (consideration: CR S1593-1594, S1595-1596; text: CR S1593) To remove privatized highways from consideration in apportioning highway funding among States.
+- 2012-03-13 — Amendment SA 1782 proposed by Senator Menendez. (consideration: CR S1600-1601) To amend the Internal Revenue Code of 1986 to modify certain tax credits relating to energy, and for other purposes.
+- 2012-03-13 — Amendment SA 1782, under the order of 3/7/12, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 41.
+- 2012-03-13 — Amendment SA 1785 ruled out of order by the chair.
+- 2012-03-13 — Amendment SA 1812 proposed by Senator Stabenow. (consideration: CR S1597-1599; text: CR S1597-1599) To prevent a tax increase on American businesses and to provide certainty to job creators by extending certain expiring tax credits relating to energy.
+- 2012-03-13 — Amendment SA 1812, under the order of 3/7/12, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 39.
+- 2012-03-13 — Amendment SA 1814 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1602-1603)
+- 2012-03-13 — Amendment SA 1814 proposed by Senator Merkley. (consideration: CR S1602-1603) To provide exemptions from requirements for certain farm vehicles.
+- 2012-03-13 — Amendment SA 1819 agreed to in Senate by Voice Vote.
+- 2012-03-13 — Amendment SA 1819 proposed by Senator Brown OH. (consideration: CR S1601-1602; text: CR S1602) To close a loophole in current law which has allowed public infrastructure projects to be outsourced, to standardize the process by which the Secretary of Transportation responds to requests for waivers to applicable Buy America provisions, and to require the Secretary to report annually to Congress regarding such waivers.
+- 2012-03-13 — Amendment SA 1826, under the order of 3/7/12, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 38.
+- 2012-03-13 — Amendment SA 1830 agreed to in Senate by Unanimous Consent.
+- 2012-03-13 — Amendment SA 1830 proposed by Senator Boxer. (consideration: CR S1606) To improve the bill.
+- 2012-03-13 — Considered by Senate. (consideration: CR S1592-1596, S1596-1606)
+- 2012-03-13 — Considered by Senate. (consideration: CR S1593)
+- 2012-03-13 — Considered by Senate. (consideration: CR S1593)
+- 2012-03-13 — Considered by Senate. (consideration: CR S1593)
+- 2012-03-13 — Considered by Senate. (consideration: CR S1593, S1594-1595)
+- 2012-03-13 — Considered by Senate. (consideration: CR S1593, S1596-1597)
+- 2012-03-13 — Considered by Senate. (consideration: CR S1593, S1599-1600)
+- 2012-03-13 — Considered by Senate. (consideration: CR S1593, S1601)
+- 2012-03-13 — Considered by Senate. (consideration: CR S1593, S1602)
+- 2012-03-13 — Considered by Senate. (consideration: CR S1593, S1604)
+- 2012-03-13 — Considered by Senate. (consideration: CR S1593, S1604-1605; text as modified: CR S1605)
+- 2012-03-13 — Considered by Senate. (consideration: CR S1593, S1605-1606)
+- 2012-03-13 — Motion to waive all applicable budgetary provisions with respect to amendment SA 1785 rejected in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 44.
+- 2012-03-13 — Point of order raised in Senate with respect to amendment SA 1785.
+- 2012-03-13 — Roll call votes on amendments in Senate: Amendment SA 1517 not agreed to in Senate by Yea-Nay Vote. 28 - 70. Record Vote Number: 42.
+- 2012-03-13 — Roll call votes on amendments in Senate: Amendment SA 1589, under the order of 3/7/12, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 26 - 72. Record Vote Number: 40.
+- 2012-03-13 — Roll call votes on amendments in Senate: Amendment SA 1736 not agreed to in Senate by Yea-Nay Vote. 30 - 68. Record Vote Number: 43.
+- 2012-03-13 — Roll call votes on amendments in Senate: Amendment SA 1742 not agreed to in Senate by Yea-Nay Vote. 12 - 86. Record Vote Number: 45.
+- 2012-03-13 — Roll call votes on amendments in Senate: Amendment SA 1756 not agreed to in Senate by Yea-Nay Vote. 30 - 67. Record Vote Number: 36.
+- 2012-03-13 — Roll call votes on amendments in Senate: Amendment SA 1759 agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 37.
+- 2012-03-13 — Roll call votes on amendments in Senate: Amendment SA 1782, under the order of 3/7/12, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 41.
+- 2012-03-13 — Roll call votes on amendments in Senate: Amendment SA 1812, under the order of 3/7/12, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 39.
+- 2012-03-13 — Roll call votes on amendments in Senate: Amendment SA 1826, under the order of 3/7/12, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 38.
+- 2012-03-13 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary provisions with respect to amendment SA 1785 rejected in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 44.
+- 2012-03-13 — Senate amendment agreed to: Amendment SA 1540 agreed to in Senate by Voice Vote.
+- 2012-03-13 — Senate amendment agreed to: Amendment SA 1617 agreed to in Senate by Voice Vote.
+- 2012-03-13 — Senate amendment agreed to: Amendment SA 1759 agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 37.
+- 2012-03-13 — Senate amendment agreed to: Amendment SA 1814 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1602-1603)
+- 2012-03-13 — Senate amendment agreed to: Amendment SA 1819 agreed to in Senate by Voice Vote.
+- 2012-03-13 — Senate amendment agreed to: Amendment SA 1830 agreed to in Senate by Unanimous Consent.
+- 2012-03-13 — Senate amendment not agreed to: Amendment SA 1517 not agreed to in Senate by Yea-Nay Vote. 28 - 70. Record Vote Number: 42.
+- 2012-03-13 — Senate amendment not agreed to: Amendment SA 1589, under the order of 3/7/12, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 26 - 72. Record Vote Number: 40.
+- 2012-03-13 — Senate amendment not agreed to: Amendment SA 1736 not agreed to in Senate by Yea-Nay Vote. 30 - 68. Record Vote Number: 43.
+- 2012-03-13 — Senate amendment not agreed to: Amendment SA 1742 not agreed to in Senate by Yea-Nay Vote. 12 - 86. Record Vote Number: 45.
+- 2012-03-13 — Senate amendment not agreed to: Amendment SA 1756 not agreed to in Senate by Yea-Nay Vote. 30 - 67. Record Vote Number: 36.
+- 2012-03-13 — Senate amendment not agreed to: Amendment SA 1782, under the order of 3/7/12, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 41.
+- 2012-03-13 — Senate amendment not agreed to: Amendment SA 1812, under the order of 3/7/12, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 39.
+- 2012-03-13 — Senate amendment not agreed to: Amendment SA 1826, under the order of 3/7/12, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 38.
+- 2012-03-13 — Senate amendment proposed (on the floor): Amendment SA 1617 proposed by Senator Klobuchar.(consideration: CR S1603-1604; text: CR S1603)
+- 2012-03-13 — Senate amendment proposed (on the floor): Amendment SA 1759 proposed by Senator Bingaman.(consideration: CR S1593-1594, S1595-1596; text: CR S1593)
+- 2012-03-13 — Senate amendment proposed (on the floor): Amendment SA 1782 proposed by Senator Menendez.(consideration: CR S1600-1601)
+- 2012-03-13 — Senate amendment proposed (on the floor): Amendment SA 1812 proposed by Senator Stabenow.(consideration: CR S1597-1599; text: CR S1597-1599)
+- 2012-03-13 — Senate amendment proposed (on the floor): Amendment SA 1814 proposed by Senator Merkley.(consideration: CR S1602-1603)
+- 2012-03-13 — Senate amendment proposed (on the floor): Amendment SA 1819 proposed by Senator Brown OH.(consideration: CR S1601-1602; text: CR S1602)
+- 2012-03-13 — Senate amendment proposed (on the floor): Amendment SA 1830 proposed by Senator Boxer.(consideration: CR S1606)
+- 2012-03-13 — Senate amendment submitted
+- 2012-03-14 — Amendment SA 1556 proposed by Senator Paul to Amendment SA 1761. (consideration: CR S1647, S1650; text: CR S1647) To permit emergency exemptions from compliance with certain laws for highway construction projects.
+- 2012-03-14 — Amendment SA 1556 ruled out of order by the chair.
+- 2012-03-14 — Amendment SA 1779 agreed to in Senate by Voice Vote.
+- 2012-03-14 — Amendment SA 1810 not agreed to in Senate by Voice Vote.
+- 2012-03-14 — Amendment SA 1816 agreed to in Senate by Yea-Nay Vote. 76 - 20. Record Vote Number: 46.
+- 2012-03-14 — Amendment SA 1816 proposed by Senator Boxer to Amendment SA 1761. (consideration: CR S1647-1648, S1649-1650; text: CR S1647) To express the sense of the Senate that Federal agencies should ensure that all applicable environmental reviews, approvals, licensing, and permit requirements under Federal law are completed on an expeditious basis after a disaster or emergency.
+- 2012-03-14 — Considered by Senate. (consideration: CR S1645, S1647-1659)
+- 2012-03-14 — Considered by Senate. (consideration: CR S1645, S1648-1649)
+- 2012-03-14 — Considered by Senate. (consideration: CR S1645, S1649)
+- 2012-03-14 — Considered by Senate. (consideration: CR S1645, S1649)
+- 2012-03-14 — Motion to waive all applicable budgetary discipline with respect to amendment SA 1556 rejected in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 47.
+- 2012-03-14 — Ordered held at desk by unanimous consent. Pursuant to the order of 3/7/2012.
+- 2012-03-14 — Passed Senate with amendments by Yea-Nay Vote. 74 - 22. Record Vote Number: 48.
+- 2012-03-14 — Passed/agreed to in Senate: Passed Senate with amendments by Yea-Nay Vote. 74 - 22. Record Vote Number: 48.
+- 2012-03-14 — Point of order raised in Senate with respect to amendment SA 1556.
+- 2012-03-14 — Proposed amendment SA 1669 as modified withdrawn in Senate. (consideration: CR S1648-1649)
+- 2012-03-14 — Roll call votes on amendments in Senate: Amendment SA 1816 agreed to in Senate by Yea-Nay Vote. 76 - 20. Record Vote Number: 46.
+- 2012-03-14 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 1556 rejected in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 47.
+- 2012-03-14 — Senate amendment agreed to: Amendment SA 1779 agreed to in Senate by Voice Vote.
+- 2012-03-14 — Senate amendment agreed to: Amendment SA 1816 agreed to in Senate by Yea-Nay Vote. 76 - 20. Record Vote Number: 46.
+- 2012-03-14 — Senate amendment not agreed to: Amendment SA 1810 not agreed to in Senate by Voice Vote.
+- 2012-03-14 — Senate amendment proposed (on the floor): Amendment SA 1556 proposed by Senator Paul to Amendment SA 1761.(consideration: CR S1647, S1650; text: CR S1647)
+- 2012-03-14 — Senate amendment proposed (on the floor): Amendment SA 1816 proposed by Senator Boxer to Amendment SA 1761.(consideration: CR S1647-1648, S1649-1650; text: CR S1647)
