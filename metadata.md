@@ -1,7 +1,7 @@
 ---
 measure: H.R. 886
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 886
@@ -16,7 +16,7 @@ United States Marshals Service 225th Anniversary Commemorative Coin Act
 
 - Rep. Womack, Steve [R-AR-3] (W000809)
 
-## Cosponsors (301)
+## Cosponsors (302)
 
 - Rep. Ross, Mike [D-AR-4] (R000573)
 - Rep. Griffin, Tim [R-AR-2] (G000567)
@@ -319,6 +319,7 @@ United States Marshals Service 225th Anniversary Commemorative Coin Act
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
 
 ## Committees (2)
 
@@ -345,3 +346,14 @@ United States Marshals Service 225th Anniversary Commemorative Coin Act
 - 2011-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 412 - 1, 1 Present (Roll no. 934).(text: CR 12/13/2011 H8828-8829)
 - 2011-12-15 — Received in the Senate.
 - 2011-12-17 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2012-03-15 — Amendment SA 1847 agreed to in Senate by Unanimous Consent.
+- 2012-03-15 — Amendment SA 1847 proposed by Senator Reid for Senator Boozman. (consideration: CR S1761; text: CR S1761) To improve the bill.
+- 2012-03-15 — Measure laid before Senate by unanimous consent. (consideration: CR S1760-1761)
+- 2012-03-15 — Message on Senate action sent to the House.
+- 2012-03-15 — Passed Senate with an amendment by Unanimous Consent. (text: CR S1761)
+- 2012-03-15 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S1761)
+- 2012-03-15 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2012-03-15 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2012-03-15 — Senate amendment agreed to: Amendment SA 1847 agreed to in Senate by Unanimous Consent.
+- 2012-03-15 — Senate amendment proposed (on the floor): Amendment SA 1847 proposed by Senator Reid for Senator Boozman.(consideration: CR S1761; text: CR S1761)
+- 2012-03-15 — Senate amendment submitted
