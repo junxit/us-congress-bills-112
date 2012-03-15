@@ -1,7 +1,7 @@
 ---
 measure: H.R. 886
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 886
@@ -326,9 +326,10 @@ United States Marshals Service 225th Anniversary Commemorative Coin Act
 - House — Financial Services Committee
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2011-12-15 — [House 112-1-934](votes/house-112-1-0934.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (412–1)
+- 2012-03-21 — [House 112-2-120](votes/house-112-2-0120.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (409–2)
 
 ## Actions
 
@@ -357,3 +358,15 @@ United States Marshals Service 225th Anniversary Commemorative Coin Act
 - 2012-03-15 — Senate amendment agreed to: Amendment SA 1847 agreed to in Senate by Unanimous Consent.
 - 2012-03-15 — Senate amendment proposed (on the floor): Amendment SA 1847 proposed by Senator Reid for Senator Boozman.(consideration: CR S1761; text: CR S1761)
 - 2012-03-15 — Senate amendment submitted
+- 2012-03-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2012-03-21 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and concur in the Senate amendment to H.R. 886.
+- 2012-03-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-03-21 — Mr. Stivers moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H1442-1443, H1452)
+- 2012-03-21 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 409 - 2, 2 Present (Roll no. 120). (text as House agreed to Senate amendment: CR H1442)
+- 2012-03-21 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 409 - 2, 2 Present (Roll no. 120).(text as House agreed to Senate amendment: CR H1442)
+- 2012-03-23 — Presented to President.
+- 2012-03-23 — Presented to President.
+- 2012-04-02 — Became Public Law No: 112-104.
+- 2012-04-02 — Became Public Law No: 112-104.
+- 2012-04-02 — Signed by President.
+- 2012-04-02 — Signed by President.
