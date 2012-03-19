@@ -1,7 +1,7 @@
 ---
 measure: S. 2076
 congress: 112
-version: Introduced in Senate
+version: Reference Change Senate
 derived: true
 ---
 
