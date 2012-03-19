@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 4209
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4209
+
+> To amend title XXVII of the Public Health Service Act to limit co-payment, coinsurance, or other cost-sharing requirements applicable to prescription drugs in a specialty drug tier to the dollar amount (or its equivalent) of such requirements applicable to prescription drugs in a non-preferred brand drug tier, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Patients’ Access to Treatments Act of 2012”.
+
+## § 2. Co-payment, coinsurance, and other cost-sharing requirements applicable to prescription drugs in a specialty drug tier
+
+- **(a)** *In general* Subpart II of part A of title XXVII of the Public Health Service Act (42 U.S.C. 300gg et seq.) is amended by adding at the end the following:
+  > ## § 2719B. Co-payment, coinsurance, and other cost-sharing requirements applicable to prescription drugs in a specialty drug tier
+  >
+  > - **(a)** *Requirement* A group health plan, or a health insurance issuer offering group or individual health insurance, that provides coverage for prescription drugs and uses a formulary or other tiered cost-sharing structure shall not impose co-payment, coinsurance, or other cost-sharing requirements applicable to prescription drugs in a specialty drug tier that exceed the dollar amount (or its equivalent) of co-payment, coinsurance, or other cost-sharing requirements applicable to prescription drugs in a non-preferred brand drug tier (or prescription drugs in a brand drug tier if there is no non-preferred brand drug tier).
+  > - **(b)** *Special rule* If a formulary used by a group health plan or a health insurance issuer offering group or individual health insurance contains more than one non-preferred brand drug tier, then the requirements of subsection (a) shall be applied with respect to the non-preferred brand drug tier for which beneficiary cost-sharing is lowest.
+  > - **(c)** *Definitions* In this section:
+  >   - **(1)** The term prescription drug means—
+  >     - **(A)** a drug subject to section 503(b)(1) of the Federal Food, Drug, or Cosmetic Act; and
+  >     - **(B)** includes a drug described in subparagraph (A) that is a biological product (as defined in section 351(i) of this Act).
+  >   - **(2)** The term non-preferred brand drug tier means, with respect to a group health plan or health insurance issuer offering group or individual health insurance coverage that uses a formulary or other tiered cost-sharing structure, a category of drugs—
+  >     - **(A)** within a tier in such formulary for which beneficiary cost-sharing is greater than tiers for generic drugs or preferred brand drugs in the plan’s formulary;
+  >     - **(B)** that are prescription drugs; and
+  >     - **(C)** that are not included within a specialty drug tier.
+  >   - **(3)** The term specialty drug tier means, with respect to a group health plan or health insurance issuer offering group or individual health insurance coverage that uses a formulary or other tiered cost-sharing structure, a category of drugs—
+  >     - **(A)** within a tier in such formulary for which beneficiary cost-sharing is greater than tiers for generic drugs, preferred brand drugs, or non-preferred drugs in the plan’s formulary; and
+  >     - **(B)** that are prescription drugs.
+
+- **(b)** *Effective date* Section 2719B of the Public Health Service Act, as added by subsection (a), applies to plan years beginning on or after the date of the enactment of this Act.
