@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3309
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Communications Commission Process Reform Act of 2011”.
+This Act may be cited as the “Federal Communications Commission Process Reform Act of 2012”.
 
 ## § 2. FCC process reform
 
-- **(a)** *In general* Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by adding at the end the following new section:
+- **(a)** *In general* Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by inserting after section 12 the following new section:
   > ## § 13. Transparency and efficiency
   >
   > - **(a)** *Rulemaking requirements*
@@ -46,7 +46,7 @@ This Act may be cited as the “Federal Communications Commission Process Reform
   >       - **(ii)** a finding that existing performance measures will effectively evaluate the program activity as changed.
   >   - **(3)** *Data for performance measures* The Commission shall develop a performance measure or proposed performance measure required by this subsection to rely, where possible, on data already collected by the Commission.
   > - **(b)** *Adequate deliberation by Commissioners* The Commission shall by rule establish procedures for—
-  >   - **(1)** informing all Commissioners of the options available to the Commission for resolving a petition, complaint, application, rulemaking, or other proceeding;
+  >   - **(1)** informing all Commissioners of a reasonable number of options available to the Commission for resolving a petition, complaint, application, rulemaking, or other proceeding;
   >   - **(2)** ensuring that all Commissioners have adequate time, prior to being required to decide a petition, complaint, application, rulemaking, or other proceeding (including at a meeting held pursuant to section 5(d)), to review the proposed Commission decision document, including the specific language of any proposed rule or any proposed amendment of an existing rule; and
   >   - **(3)** publishing the text of agenda items to be voted on at an open meeting in advance of such meeting so that the public has the opportunity to read the text before a vote is taken.
   > - **(c)** *Nonpublic collaborative discussions*
@@ -94,16 +94,37 @@ This Act may be cited as the “Federal Communications Commission Process Reform
   >     - **(A)** the imposed condition is narrowly tailored to remedy a harm that arises as a direct result of the specific transfer or specific transaction that this Act empowers the Commission to review; and
   >     - **(B)** the Commission could impose a similar requirement under the authority of a specific provision of law other than a provision empowering the Commission to review a transfer of lines, a transfer of licenses, or other transaction.
   >   - **(2)** *Exclusions* In reviewing a transfer of lines, a transfer of licenses, or any other transaction under section 214, 309, or 310 or any other provision of this Act, the Commission may not consider a voluntary commitment of a party to such transfer or transaction unless the Commission could adopt that voluntary commitment as a condition under paragraph (1).
-  > - **(k)** *Form of publication*
+  > - **(k)** *Access to certain information on Commission’s website* The Commission shall provide direct access from the homepage of its website to—
+  >   - **(1)** detailed information regarding—
+  >     - **(A)** the budget of the Commission for the current fiscal year;
+  >     - **(B)** the appropriations for the Commission for such fiscal year; and
+  >     - **(C)** the total number of full-time equivalent employees of the Commission; and
+  >   - **(2)** the performance plan most recently made available by the Commission under section 1115(b) of title 31, United States Code.
+  > - **(l)** *Federal Register publication*
+  >   - **(1)** *In general* In the case of any document adopted by the Commission that the Commission is required, under any provision of law, to publish in the Federal Register, the Commission shall, not later than the date described in paragraph (2), complete all Commission actions necessary for such document to be so published.
+  >   - **(2)** *Date described* The date described in this paragraph is the earlier of—
+  >     - **(A)** the day that is 45 days after the date of the release of the document; or
+  >     - **(B)** the day by which such actions must be completed to comply with any deadline under any other provision of law.
+  >   - **(3)** *No effect on deadlines for publication in other form* In the case of a deadline that does not specify that the form of publication is publication in the Federal Register, the Commission may comply with such deadline by publishing the document in another form. Such other form of publication does not relieve the Commission of any Federal Register publication requirement applicable to such document, including the requirement of paragraph (1).
+  > - **(m)** *Consumer complaint database*
+  >   - **(1)** *In general* In evaluating and processing consumer complaints, the Commission shall present information about such complaints in a publicly available, searchable database on its website that—
+  >     - **(A)** facilitates easy use by consumers; and
+  >     - **(B)** to the extent practicable, is sortable and accessible by—
+  >       - **(i)** the date of the filing of the complaint;
+  >       - **(ii)** the topic of the complaint;
+  >       - **(iii)** the party complained of; and
+  >       - **(iv)** other elements that the Commission considers in the public interest.
+  >   - **(2)** *Duplicative complaints* In the case of multiple complaints arising from the same alleged misconduct, the Commission shall be required to include only information concerning one such complaint in the database described in paragraph (1).
+  > - **(n)** *Form of publication*
   >   - **(1)** *In general* In complying with a requirement of this section to publish a document, the Commission shall publish such document on its website, in addition to publishing such document in any other form that the Commission is required to use or is permitted to and chooses to use.
   >   - **(2)** *Exception* The Commission shall by rule establish procedures for redacting documents required to be published by this section so that the published versions of such documents do not contain—
   >     - **(A)** information the publication of which would be detrimental to national security, homeland security, law enforcement, or public safety; or
   >     - **(B)** information that is proprietary or confidential.
-  > - **(l)** *Definitions* In this section:
+  > - **(o)** *Definitions* In this section:
   >   - **(1)** *Amendment* The term amendment includes, when used with respect to an existing rule, the deletion of such rule.
   >   - **(2)** *Bipartisan majority* The term bipartisan majority means, when used with respect to a group of Commissioners, that such group—
   >     - **(A)** is a group of 3 or more Commissioners; and
-  >     - **(B)** includes, for each political party of which any Commissioner is a member, at least 1 Commissioner who is a member of such political party, and, if any Commissioner has no political party affiliation, at least one unaffiliated Commissioner.
+  >     - **(B)** includes, for each political party of which any Commissioner is a member, at least 1 Commissioner who is a member of such political party, and, if any Commissioner has no political party affiliation, at least 1 unaffiliated Commissioner.
   >   - **(3)** *Economically significant impact* The term economically significant impact means an effect on the economy of $100,000,000 or more annually or a material adverse effect on the economy, a sector of the economy, productivity, competition, jobs, the environment, public health or safety, or State, local, or tribal governments or communities.
   >   - **(4)** *Performance measure* The term performance measure means an objective and quantifiable outcome measure or output measure (as such terms are defined in section 1115 of title 31, United States Code).
   >   - **(5)** *Program activity* The term program activity has the meaning given such term in section 1115 of title 31, United States Code, except that such term also includes any annual collection or distribution or related series of collections or distributions by the Commission of an amount that is greater than or equal to $100,000,000.
@@ -112,13 +133,17 @@ This Act may be cited as the “Federal Communications Commission Process Reform
 - **(b)** *Effective date and implementing rules*
   - **(1)** *Effective date*
     - **(A)** *In general* The requirements of section 13 of the Communications Act of 1934, as added by subsection (a), shall apply beginning on the date that is 6 months after the date of the enactment of this Act.
-    - **(B)** *Prior notices of proposed rulemaking* If the Commission identifies under paragraph (2)(B)(ii) of subsection (a) of such section 13 a notice of proposed rulemaking issued prior to the date of the enactment of this Act—
+    - **(B)** *Prior notices of proposed rulemaking* If the Federal Communications Commission identifies under paragraph (2)(B)(ii) of subsection (a) of such section 13 a notice of proposed rulemaking issued prior to the date of the enactment of this Act—
       - **(i)** such notice shall be deemed to have complied with paragraph (1) of such subsection; and
       - **(ii)** if such notice did not contain the specific language of a proposed rule or a proposed amendment of an existing rule, paragraph (2)(A) of such subsection shall be satisfied if the adopted rule or the amendment of an existing rule is a logical outgrowth of such notice.
     - **(C)** *Schedules and reports* Notwithstanding subparagraph (A), subsections (h)(1) and (i) of such section shall apply with respect to 2013 and any year thereafter.
   - **(2)** *Rules* The Federal Communications Commission shall promulgate the rules necessary to carry out such section not later than 1 year after the date of the enactment of this Act.
   - **(3)** *Procedures for adopting rules* Notwithstanding paragraph (1)(A), in promulgating rules to carry out such section, the Federal Communications Commission shall comply with the requirements of subsections (a) and (h)(2) of such section.
 
-## § 3. Effect on other laws
+## § 3. Categorization of TCPA inquiries and complaints in quarterly report
+
+In compiling its quarterly report with respect to informal consumer inquiries and complaints, the Federal Communications Commission may not categorize an inquiry or complaint with respect to section 227 of the Communications Act of 1934 (47 U.S.C. 227) as being a wireline inquiry or complaint or a wireless inquiry or complaint unless the party whose conduct is the subject of the inquiry or complaint is a wireline carrier or a wireless carrier, respectively.
+
+## § 4. Effect on other laws
 
 Nothing in this Act or the amendment made by this Act shall relieve the Federal Communications Commission from any obligations under title 5, United States Code, except where otherwise expressly provided.
