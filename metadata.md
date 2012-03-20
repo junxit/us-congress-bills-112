@@ -1,7 +1,7 @@
 ---
 measure: H.R. 665
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 665
@@ -62,6 +62,10 @@ Excess Federal Building and Property Disposal Act of 2012
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2012-03-20 — [House 112-2-114](votes/house-112-2-0114.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (403–0)
+
 ## Actions
 
 - 2011-02-11 — Introduced in House
@@ -74,3 +78,11 @@ Excess Federal Building and Property Disposal Act of 2012
 - 2012-02-27 — Placed on the Union Calendar, Calendar No. 279.
 - 2012-02-27 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-402.
 - 2012-02-27 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-402.
+- 2012-03-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-03-20 — Considered as unfinished business. (consideration: CR H1410-1411)
+- 2012-03-20 — Considered under suspension of the rules. (consideration: CR H1401-1405)
+- 2012-03-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 665.
+- 2012-03-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-03-20 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
+- 2012-03-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 114). (text: CR H1401-1403)
+- 2012-03-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 114).(text: CR H1401-1403)
