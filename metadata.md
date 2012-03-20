@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3992
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3992
@@ -30,9 +30,10 @@ To allow otherwise eligible Israeli nationals to receive E-2  nonimmigrant visas
 - Rep. Deutch, Theodore E. [D-FL-19] (D000610)
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ To allow otherwise eligible Israeli nationals to receive E-2  nonimmigrant visas
 - 2012-03-19 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
 - 2012-03-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 111). (text: CR H1372)
 - 2012-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 111).(text: CR H1372)
+- 2012-03-20 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
