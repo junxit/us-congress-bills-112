@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3992
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3992
@@ -60,3 +60,14 @@ To allow otherwise eligible Israeli nationals to receive E-2  nonimmigrant visas
 - 2012-03-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 111). (text: CR H1372)
 - 2012-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 111).(text: CR H1372)
 - 2012-03-20 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2012-05-24 — Passed Senate without amendment by Unanimous Consent.
+- 2012-05-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-05-24 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3658)
+- 2012-05-24 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3658)
+- 2012-05-25 — Message on Senate action sent to the House.
+- 2012-05-31 — Presented to President.
+- 2012-05-31 — Presented to President.
+- 2012-06-08 — Became Public Law No: 112-130.
+- 2012-06-08 — Became Public Law No: 112-130.
+- 2012-06-08 — Signed by President.
+- 2012-06-08 — Signed by President.
