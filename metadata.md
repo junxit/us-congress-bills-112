@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4086
 congress: 112
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4086
@@ -22,9 +22,10 @@ Foreign Cultural Exchange Jurisdictional Immunity Clarification Act
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Foreign Cultural Exchange Jurisdictional Immunity Clarification Act
 - 2012-03-19 — Placed on the Union Calendar, Calendar No. 285.
 - 2012-03-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-413.
 - 2012-03-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-413.
+- 2012-03-20 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
