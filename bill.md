@@ -1,0 +1,25 @@
+---
+legis-num: S. 2221
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2221
+
+> To prohibit the Secretary of Labor from finalizing a proposed rule under the Fair Labor Standards Act of 1938 relating to child labor.
+
+## § 1. Short title and Findings
+
+- **(a)** *Short title* This Act may be cited as the “Preserving America’s Family Farms Act”.
+- **(b)** *Findings* Congress finds that—
+  - **(1)** family farms often depend on the contributions of youth for their successful operation;
+  - **(2)** regulations proposed to be adopted by the Department of Labor will adversely impact the longstanding tradition of youth working on farms to gain valuable skills and lessons on hard work, character, and leadership;
+  - **(3)** the proposed regulations would be detrimental to the opportunity for youth to gain experiential learning and hands-on skills for enrollment in vocational agricultural training;
+  - **(4)** the proposed regulations would obstruct the opportunity for youth to find rewarding employment and earn money for a college education or other meaningful purposes;
+  - **(5)** the proposed regulations will limit opportunities to recruit young farmers to agriculture at a time when the average age of farmers continues to rise; and
+  - **(6)** working on a farm has become a way of life for thousands of youth across the rural United States.
+
+## § 2. Rule relating to child labor
+
+The Secretary of Labor shall not finalize or enforce the proposed rule entitled “Child Labor Regulations, Orders and Statements of Interpretation; Child Labor Violations—Civil Money Penalties” (published at 76 Fed. Reg. 54836 (September 2, 2011)).
