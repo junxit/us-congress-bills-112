@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2087
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2087
@@ -20,9 +20,10 @@ To remove restrictions from a parcel of land situated in the Atlantic District, 
 
 - Rep. Harris, Andy [R-MD-1] (H001052)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (3)
 
@@ -77,3 +78,4 @@ To remove restrictions from a parcel of land situated in the Atlantic District, 
 - 2012-03-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1418)
 - 2012-03-20 — The previous question was ordered pursuant to the rule. (consideration: CR H1417)
 - 2012-03-20 — UNFINISHED BUSINESS - The Chair announced that the unfinished question was on the adoption of amendments which had previously been debated and on which further proceedings were postponed.
+- 2012-03-21 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
