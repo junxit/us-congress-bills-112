@@ -1,7 +1,7 @@
 ---
 measure: H.R. 306
 congress: 112
-version: Referred in Senate
+version: Reference Change Senate
 ---
 
 # H.R. 306
@@ -28,10 +28,11 @@ Corolla Wild Horses Protection Act
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 - Rep. Moran, James P. [D-VA-8] (M000933)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - Senate — Energy and Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -53,3 +54,6 @@ Corolla Wild Horses Protection Act
 - 2012-02-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H480)
 - 2012-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H480)
 - 2012-02-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2012-03-21 — Referred to the Committee on Environment and Public Works.
+- 2012-03-21 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2012-03-21 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
