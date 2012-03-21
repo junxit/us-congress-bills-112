@@ -1,7 +1,7 @@
 ---
 measure: H.R. 665
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 665
@@ -58,9 +58,10 @@ Excess Federal Building and Property Disposal Act of 2012
 - Rep. Mulvaney, Mick [R-SC-5] (M001182)
 - Rep. Black, Diane [R-TN-6] (B001273)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -86,3 +87,4 @@ Excess Federal Building and Property Disposal Act of 2012
 - 2012-03-20 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
 - 2012-03-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 114). (text: CR H1401-1403)
 - 2012-03-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 114).(text: CR H1401-1403)
+- 2012-03-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

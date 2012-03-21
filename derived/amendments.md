@@ -1,7 +1,7 @@
 ---
 measure: H.R. 665
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,22 +31,22 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Chapter 5 of subtitle I of title 40, United States Code, is amended by adding at the end the following new subchapter: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections at the beginning of chapter 5 of subtitle I of title 40, United States Code, is amended by inserting after the item relating to section 611 the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 524 of title 40, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | The item relating to section 524 in the table of sections at the beginning of chapter 5 of such title is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (A) the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 572(a)(2)(A) of title 40, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “(A)” after “(1) In general.—”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: “If the official, in consultation with the Administrator, recommends reversion of the property, the Administrator shall take control of such property, and, subject to subparagraph (B), sell it at or ab… | the bill names no machine-readable US Code section |
-| — | insert | by inserting “(1)” after “This Section.—”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The text of section 571 of title 40, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subchapter II of chapter 5 of title 40, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections at the beginning of chapter 5 of title 40, United States Code, is amended by inserting after the item relating to section 529 the following new item: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subchapter III of chapter 5 of title 40, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections at the beginning of chapter 5 of title 40, United States Code, is amended by inserting after the item relating to section 559 the following new item: | the bill names no machine-readable US Code section |
-| — | add-at-end | in subsection (a), by adding at the end the following new sentence: “Agencies shall not be required to submit information to the Secretary regarding properties located in an area for which the general public is denied access in the inter… | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c)(1)(A), by striking “in the Federal Register” and inserting the following: “on the website of the Department of Housing and Urban Development or the General Services Administration”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | in subsection (d)(3), by adding at the end the following new sentence: “If no such review of the determination is requested within the 20-day period, such property will not be included in subsequent publications unless the landholding ag… | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 2687` | add-at-end | Chapter 5 of subtitle I of title 40, United States Code, is amended by adding at the end the following new subchapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 2687` | insert | The table of sections at the beginning of chapter 5 of subtitle I of title 40, United States Code, is amended by inserting after the item relating to section 611 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 524` | amend | Section 524 of title 40, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 524` | amend | The item relating to section 524 in the table of sections at the beginning of chapter 5 of such title is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 572` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 572` | insert | by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 572` | add-at-end | Section 572(a)(2)(A) of title 40, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 550` | insert | by inserting “(A)” after “(1) In general.—”; and | the bill quotes the text inserted but describes where it goes |
+| `40 U.S.C. § 550` | amend | by adding at the end the following: “If the official, in consultation with the Administrator, recommends reversion of the property, the Administrator shall take control of such property, and, subject to subparagraph (B), sell it at or ab… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 553` | insert | by inserting “(1)” after “This Section.—”; and | the bill quotes the text inserted but describes where it goes |
+| `40 U.S.C. § 553` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 571` | amend | The text of section 571 of title 40, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 552` | amend | Subchapter II of chapter 5 of title 40, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 529` | insert | The table of sections at the beginning of chapter 5 of title 40, United States Code, is amended by inserting after the item relating to section 529 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 559` | amend | Subchapter III of chapter 5 of title 40, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 559` | insert | The table of sections at the beginning of chapter 5 of title 40, United States Code, is amended by inserting after the item relating to section 559 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 11411` | add-at-end | in subsection (a), by adding at the end the following new sentence: “Agencies shall not be required to submit information to the Secretary regarding properties located in an area for which the general public is denied access in the inter… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 11411` | replace | in subsection (c)(1)(A), by striking “in the Federal Register” and inserting the following: “on the website of the Department of Housing and Urban Development or the General Services Administration”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 11411` | add-at-end | in subsection (d)(3), by adding at the end the following new sentence: “If no such review of the determination is requested within the 20-day period, such property will not be included in subsequent publications unless the landholding ag… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
