@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 108
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 108
@@ -32,3 +32,11 @@ Permitting the use of the rotunda of the Capitol for a ceremony as part of the c
 - 2012-03-19 — Introduced in House
 - 2012-03-19 — Introduced in House
 - 2012-03-19 — Referred to the House Committee on House Administration.
+- 2012-03-21 — Committee on House Administration discharged.
+- 2012-03-21 — Committee on House Administration discharged.
+- 2012-03-21 — Considered by unanimous consent. (consideration: CR H1442)
+- 2012-03-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-03-21 — Mr. Nugent asked unanimous consent to discharge from committee and consider.
+- 2012-03-21 — On agreeing to the resolution Agreed to without objection. (text: CR H1442)
+- 2012-03-21 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1442)
+- 2012-03-21 — Received in the Senate.
