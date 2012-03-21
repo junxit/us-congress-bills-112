@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 108
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 108
@@ -40,3 +40,6 @@ Permitting the use of the rotunda of the Capitol for a ceremony as part of the c
 - 2012-03-21 — On agreeing to the resolution Agreed to without objection. (text: CR H1442)
 - 2012-03-21 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1442)
 - 2012-03-21 — Received in the Senate.
+- 2012-03-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S2006)
+- 2012-03-22 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2006)
+- 2012-03-27 — Message on Senate action sent to the House.
