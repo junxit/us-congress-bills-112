@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5
@@ -158,6 +158,14 @@ Protecting Access to Healthcare Act
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
 
+## Recorded votes (5)
+
+- 2012-03-22 — [House 112-2-122](votes/house-112-2-0122.md) — On Agreeing to the Amendment — **Agreed to** (234–173)
+- 2012-03-22 — [House 112-2-123](votes/house-112-2-0123.md) — On Agreeing to the Amendment — **Failed** (179–228)
+- 2012-03-22 — [House 112-2-124](votes/house-112-2-0124.md) — On Agreeing to the Amendment — **Agreed to** (251–157)
+- 2012-03-22 — [House 112-2-125](votes/house-112-2-0125.md) — On Motion to Recommit with Instructions — **Failed** (180–229)
+- 2012-03-22 — [House 112-2-126](votes/house-112-2-0126.md) — On Passage — **Passed** (223–181)
+
 ## Actions
 
 - 2011-01-24 — Introduced in House
@@ -177,3 +185,69 @@ Protecting Access to Healthcare Act
 - 2011-05-23 — Placed on the Union Calendar, Calendar No. 47.
 - 2011-05-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-39, Part II.
 - 2011-05-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-39, Part II.
+- 2012-03-16 — Supplemental report filed by the Committee on Judiciary, H. Rept. 112-39, Part III.
+- 2012-03-16 — Supplemental report filed by the Committee on Judiciary, H. Rept. 112-39, Part III.
+- 2012-03-20 — Rules Committee Resolution H. Res. 591 Reported to House. Rule provides for consideration of H.R. 5 with 6 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 112-18 shall be considered as adopted and the bill, as amended, shall be considered as original text for the purpose of amendment. The resolution waives all points of order against provisions in the bill, as amended.
+- 2012-03-21 — Committee of the Whole House on the state of the Union rises leaving H.R. 5 as unfinished business.
+- 2012-03-21 — Considered under the provisions of rule H. Res. 591. (consideration: CR H1453-1490)
+- 2012-03-21 — GENERAL DEBATE - The Committee of the Whole proceeded with six hours of general debate on H.R. 5.
+- 2012-03-21 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 591 and Rule XVIII.
+- 2012-03-21 — Mr. Smith (TX) moved that the Committee rise.
+- 2012-03-21 — On motion to rise Agreed to by voice vote.
+- 2012-03-21 — Rule H. Res. 591 passed House.
+- 2012-03-21 — Rule provides for consideration of H.R. 5 with 6 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 112-18 shall be considered as adopted and the bill, as amended, shall be considered as original text for the purpose of amendment. The resolution waives all points of order against provisions in the bill, as amended.
+- 2012-03-21 — The Speaker designated the Honorable Lynn A. Westmoreland to act as Chairman of the Committee.
+- 2012-03-22 — Amendment (A001) offered by Mr. Woodall. (consideration: CR H1504-1505, H1513-1514; text: CR H1504)
+- 2012-03-22 — Amendment (A002) offered by Ms. Bonamici. (consideration: CR H1505-1507, H1514-1515; text: CR H1505)
+- 2012-03-22 — Amendment (A003) offered by Mr. Dent. (consideration: CR H1507-1509; text: CR H1507-1508)
+- 2012-03-22 — Amendment (A004) offered by Mr. Gosar. (consideration: CR H1509-1511; text: CR H1509)
+- 2012-03-22 — Amendment (A005) offered by Mr. Stearns. (consideration: CR H1511-1513, H1515; text: CR H1511)
+- 2012-03-22 — Amendment agreed to Committee of the Whole
+- 2012-03-22 — Amendment agreed to Committee of the Whole
+- 2012-03-22 — Amendment agreed to Committee of the Whole
+- 2012-03-22 — Amendment agreed to Committee of the Whole
+- 2012-03-22 — Amendment failed in Committee of the Whole
+- 2012-03-22 — Considered as unfinished business. (consideration: CR H1501-1519)
+- 2012-03-22 — DEBATE - Pursuant to the provisions of H. Res. 591, the Committee of the Whole proceeded with 10 minutes of debate on the Bonamici amendment.
+- 2012-03-22 — DEBATE - Pursuant to the provisions of H. Res. 591, the Committee of the Whole proceeded with 10 minutes of debate on the Dent amendment.
+- 2012-03-22 — DEBATE - Pursuant to the provisions of H. Res. 591, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.
+- 2012-03-22 — DEBATE - Pursuant to the provisions of H. Res. 591, the Committee of the Whole proceeded with 10 minutes of debate on the Stearns amendment.
+- 2012-03-22 — DEBATE - Pursuant to the provisions of H. Res. 591, the Committee of the Whole proceeded with 10 minutes of debate on the Woodall amendment.
+- 2012-03-22 — DEBATE - The House proceeded with 10 minutes of debate on the Loebsack motion to recommit with instructions. The instructions contained in the motion seek to require the bill be reported back to the House with an amendment to prohibit ending the Medicare guarantee, turning Medicare into a voucher program, and increasing costs and reducing benefits for seniors and people with disabilities.
+- 2012-03-22 — House amendment agreed to: On agreeing to the Dent amendment (A003) Agreed to by voice vote.
+- 2012-03-22 — House amendment agreed to: On agreeing to the Gosar amendment (A004) Agreed to by voice vote.
+- 2012-03-22 — House amendment agreed to: On agreeing to the Stearns amendment (A005) Agreed to by recorded vote: 251 - 157, 1 Present (Roll no. 124).
+- 2012-03-22 — House amendment agreed to: On agreeing to the Woodall amendment (A001) Agreed to by recorded vote: 234 - 173, 2 Present (Roll no. 122).
+- 2012-03-22 — House amendment not agreed to: On agreeing to the Bonamici amendment (A002) Failed by recorded vote: 179 - 228, 1 Present (Roll no. 123).
+- 2012-03-22 — House amendment offered
+- 2012-03-22 — House amendment offered
+- 2012-03-22 — House amendment offered
+- 2012-03-22 — House amendment offered
+- 2012-03-22 — House amendment offered
+- 2012-03-22 — House amendment offered/reported by: Amendment (A001) offered by Mr. Woodall.(consideration: CR H1504-1505, H1513-1514; text: CR H1504)
+- 2012-03-22 — House amendment offered/reported by: Amendment (A002) offered by Ms. Bonamici.(consideration: CR H1505-1507, H1514-1515; text: CR H1505)
+- 2012-03-22 — House amendment offered/reported by: Amendment (A003) offered by Mr. Dent.(consideration: CR H1507-1509; text: CR H1507-1508)
+- 2012-03-22 — House amendment offered/reported by: Amendment (A004) offered by Mr. Gosar.(consideration: CR H1509-1511; text: CR H1509)
+- 2012-03-22 — House amendment offered/reported by: Amendment (A005) offered by Mr. Stearns.(consideration: CR H1511-1513, H1515; text: CR H1511)
+- 2012-03-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-03-22 — Mr. Loebsack moved to recommit with instructions to Ways and Means and Energy and Commerce. (consideration: CR H1516-1518; text: CR H1516)
+- 2012-03-22 — On agreeing to the Bonamici amendment (A002) Failed by recorded vote: 179 - 228, 1 Present (Roll no. 123).
+- 2012-03-22 — On agreeing to the Dent amendment (A003) Agreed to by voice vote.
+- 2012-03-22 — On agreeing to the Gosar amendment (A004) Agreed to by voice vote.
+- 2012-03-22 — On agreeing to the Stearns amendment (A005) Agreed to by recorded vote: 251 - 157, 1 Present (Roll no. 124).
+- 2012-03-22 — On agreeing to the Woodall amendment (A001) Agreed to by recorded vote: 234 - 173, 2 Present (Roll no. 122).
+- 2012-03-22 — On motion to recommit with instructions Failed by recorded vote: 180 - 229, 2 Present (Roll no. 125). (consideration: CR H1518)
+- 2012-03-22 — On passage Passed by recorded vote: 223 - 181, 4 Present (Roll no. 126).
+- 2012-03-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bonamici amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Bonamici demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-03-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Stearns amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Stearns demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-03-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Woodall amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Conyers demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-03-22 — Passed/agreed to in House: On passage Passed by recorded vote: 223 - 181, 4 Present (Roll no. 126).
+- 2012-03-22 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-03-22 — Roll call votes on amendments in House
+- 2012-03-22 — Roll call votes on amendments in House
+- 2012-03-22 — Roll call votes on amendments in House
+- 2012-03-22 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H1501-1503)
+- 2012-03-22 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2012-03-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5.
+- 2012-03-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1517)
+- 2012-03-22 — The previous question was ordered pursuant to the rule. (consideration: CR H1515)
