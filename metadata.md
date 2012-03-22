@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3834
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3834
@@ -33,3 +33,8 @@ Advancing America's Networking and Information Technology Research and Developme
 - 2012-01-27 — Introduced in House
 - 2012-01-27 — Introduced in House
 - 2012-01-27 — Referred to the House Committee on Science, Space, and Technology.
+- 2012-02-07 — Committee Consideration and Mark-up Session Held.
+- 2012-02-07 — Ordered to be Reported (Amended) by Voice Vote.
+- 2012-03-22 — Placed on the Union Calendar, Calendar No. 289.
+- 2012-03-22 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 112-420.
+- 2012-03-22 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 112-420.

@@ -37,12 +37,14 @@ This Act may be cited as the “Advancing America’s Networking and Information
   >   - **(5)** *Report to Congress* The Director of the National Coordination Office shall transmit the strategic plan required under paragraph (1) to the advisory committee, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives.
 
 - **(c)** *Additional responsibilities of director* Section 101(a)(2) of such Act (15 U.S.C. 5511(a)(2)) is amended—
-  - **(1)** in subparagraph (A) by inserting “education,” after “networking,”;
+  - **(1)** in subparagraph (A) by inserting “education,” before “and other activities”;
   - **(2)** by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (G), respectively; and
   - **(3)** by inserting after subparagraph (D) the following new subparagraph:
     > - **(E)** encourage and monitor the efforts of the agencies participating in the Program to allocate the level of resources and management attention necessary to ensure that the strategic plan under subsection (e) is developed and executed effectively and that the objectives of the Program are met;
 
-- **(d)** *Advisory committee* Section 101(b)(1) of such Act (15 U.S.C. 5511(b)(1)) is amended by inserting after the first sentence the following: “The co-chairs of the advisory committee shall meet the qualifications of committee membership and may be members of the President’s Council of Advisors on Science and Technology.”.
+- **(d)** *Advisory committee* Section 101(b)(1) of such Act (15 U.S.C. 5511(b)(1)) is amended—
+  - **(1)** after the first sentence, by inserting the following: “The co-chairs of the advisory committee shall meet the qualifications of committee membership and may be members of the President’s Council of Advisors on Science and Technology.”; and
+  - **(2)** in subparagraph (D), by striking “high-performance” and inserting “high-end”.
 - **(e)** *Report* Section 101(a)(3) of such Act (15 U.S.C. 5511(a)(3)) is amended—
   - **(1)** in subparagraph (C)—
     - **(A)** by striking “is submitted,” and inserting “is submitted, the levels for the previous fiscal year,”; and
@@ -64,11 +66,12 @@ This Act may be cited as the “Advancing America’s Networking and Information
   - **(2)** by inserting before paragraph (2), as so redesignated, the following new paragraph:
     > - **(1)** “cyber-physical systems” means physical or engineered systems whose networking and information technology functions and physical elements are deeply integrated and are actively connected to the physical world through sensors, actuators, or other means to perform monitoring and control functions;
 
-  - **(3)** in paragraph (4), as so redesignated—
+  - **(3)** in paragraph (3), as so redesignated, by striking “high-performance computing” and inserting “networking and information technology”;
+  - **(4)** in paragraph (4), as so redesignated—
     - **(A)** by striking “high-performance computing” and inserting “networking and information technology”; and
     - **(B)** by striking “supercomputer” and inserting “high-end computing”;
-  - **(4)** in paragraph (6), as so redesignated, by striking “network referred to as” and all that follows through the semicolon and inserting “network, including advanced computer networks of Federal agencies and departments;”; and
-  - **(5)** in paragraph (7), as so redesignated, by striking “National High-Performance Computing Program” and inserting “networking and information technology research and development program”.
+  - **(5)** in paragraph (6), as so redesignated, by striking “network referred to as” and all that follows through the semicolon and inserting “network, including advanced computer networks of Federal agencies and departments;”; and
+  - **(6)** in paragraph (7), as so redesignated, by striking “National High-Performance Computing Program” and inserting “networking and information technology research and development program”.
 
 ## § 3. Large-scale research in areas of national importance
 
@@ -121,9 +124,12 @@ Title I of such Act (15 U.S.C. 5511) is amended further by adding after section 
 
 > ## § 106. Cloud computing services for research
 >
-> - **(a)** *Interagency working group* Not later than 180 days after the date of enactment of the Advancing America’s Networking and Information Technology Research and Development Act of 2012, the Director of the National Coordination Office, working through the National Science and Technology Council, shall convene an interagency working group to—
->   - **(1)** examine issues around funding mechanisms and policies for the use of cloud computing services for federally-funded science and engineering research; and
->   - **(2)** recommend guidelines, as needed, to agencies on providing uniform guidance to organizations and researchers on such funding mechanisms and policies.
+> - **(a)** *Interagency working group* Not later than 180 days after the date of enactment of the Advancing America’s Networking and Information Technology Research and Development Act of 2012, the Director of the National Coordination Office, working through the National Science and Technology Council, shall convene an interagency working group to examine—
+>   - **(1)** the research and development needed—
+>     - **(A)** to enhance the effectiveness and efficiency of cloud computing environments;
+>     - **(B)** to increase the trustworthiness of cloud applications and infrastructure; and
+>     - **(C)** to enhance the foundations of cloud architectures, programming models, and interoperability; and
+>   - **(2)** the potential use of cloud computing for federally-funded science and engineering research, including issues around funding mechanisms and policies for the use of cloud computing services for such research.
 > - **(b)** *Consultation* In carrying out the tasks in paragraphs (1) and (2) of subsection (a), the working group shall consult with academia, industry, Federal laboratories, and other relevant organizations and institutions, as appropriate.
 > - **(c)** *Report* Not later than 1 year after the date of enactment of the Advancing America’s Networking and Information Technology Research and Development Act of 2012, the Director of the National Coordination Office shall transmit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the findings and any recommendations of the working group.
 > - **(d)** *Termination* The interagency working group shall terminate upon transmittal of the report required under subsection (c).
@@ -159,9 +165,11 @@ Section 201(a) of such Act (15 U.S.C. 5521(a)) is amended—
 
 - **(a)** *Section 3* Section 3 of such Act (15 U.S.C. 5502) is amended—
   - **(1)** in the matter preceding paragraph (1), by striking “high-performance computing” and inserting “networking and information technology”;
-  - **(2)** in paragraph (1), in the matter preceding subparagraph (A), by striking “high-performance computing” and inserting “networking and information technology”;
-  - **(3)** in subparagraphs (A) and (F) of paragraph (1), by striking “high-performance computing” each place it appears and inserting “networking and information technology”; and
-  - **(4)** in paragraph (2)—
+  - **(2)** in paragraph (1)—
+    - **(A)** in the matter preceding subparagraph (A), by striking “high-performance computing” and inserting “networking and information technology”;
+    - **(B)** in subparagraphs (A), (F), and (G), by striking “high-performance computing” each place it appears and inserting “networking and information technology”; and
+    - **(C)** in subparagraph (H), by striking “high-performance” and inserting “high-end”; and
+  - **(3)** in paragraph (2)—
     - **(A)** by striking “high-performance computing and” and inserting “networking and information technology and”; and
     - **(B)** by striking “high-performance computing network” and inserting “networking and information technology”.
 - **(b)** *Title I* The heading of title I of such Act (15 U.S.C. 5511) is amended by striking “High-Performance Computing” and inserting “Networking and Information Technology”.
@@ -171,27 +179,39 @@ Section 201(a) of such Act (15 U.S.C. 5521(a)) is amended—
     - **(A)** in the subsection heading, by striking “National High-Performance Computing” and inserting “Networking and Information Technology Research and Development”;
     - **(B)** in paragraph (1) of such subsection—
       - **(i)** in the matter preceding subparagraph (A), by striking “National High-Performance Computing Program” and inserting “networking and information technology research and development program”;
-      - **(ii)** in subparagraph (A), by striking “high-performance computing, including networking” and inserting “networking and information technology”; and
-      - **(iii)** in subparagraphs (B), (C), and (G), by striking “high-performance” each place it appears and inserting “high-end”; and
+      - **(ii)** in subparagraph (A), by striking “high-performance computing, including networking” and inserting “networking and information technology”;
+      - **(iii)** in subparagraphs (B) and (G), by striking “high-performance” each place it appears and inserting “high-end”; and
+      - **(iv)** in subparagraph (C), by striking “high-performance computing and networking” and inserting “high-end computing, distributed, and networking”; and
     - **(C)** in paragraph (2) of such subsection—
       - **(i)** in subparagraphs (A) and (C)—
         - **(I)** by striking “high-performance computing” each place it appears and inserting “networking and information technology”; and
         - **(II)** by striking “development, networking,” each place it appears and inserting “development,”; and
       - **(ii)** in subparagraphs (F) and (G), as redesignated by section 2(c)(1) of this Act, by striking “high-performance” each place it appears and inserting “high-end”;
-  - **(3)** in subsection (b)(1), in the matter preceding subparagraph (A), by striking “high-performance computing” both places it appears and inserting “networking and information technology”; and
+  - **(3)** in subsection (b)—
+    - **(A)** in paragraph (1), in the matter preceding subparagraph (A), by striking “high-performance computing” both places it appears and inserting “networking and information technology”; and
+    - **(B)** in paragraph (2), in the second sentence, by striking “2” and inserting “3”; and
   - **(4)** in subsection (c)(1)(A), by striking “high-performance computing” and inserting “networking and information technology”.
 - **(d)** *Section 201* Section 201(a)(1) of such Act (15 U.S.C. 5521(a)(1)) is amended by striking “high-performance computing” and all that follows through “networking;” and inserting “networking and information research and development;”.
 - **(e)** *Section 202* Section 202(a) of such Act (15 U.S.C. 5522(a)) is amended by striking “high-performance computing” and inserting “networking and information technology”.
-- **(f)** *Section 203* Section 203(a)(1) of such Act (15 U.S.C. 5523(a)(1)) is amended by striking “high-performance computing and networking” and inserting “networking and information technology”.
-- **(g)** *Section 204* Section 204(a)(1) of such Act (15 U.S.C. 5524(a)(1)) is amended—
-  - **(1)** in subparagraph (A), by striking “high-performance computing systems and networks” and inserting “networking and information technology systems and capabilities”; and
-  - **(2)** in subparagraph (C), by striking “high-performance computing” and inserting “networking and information technology”.
+- **(f)** *Section 203* Section 203(a) of such Act (15 U.S.C. 5523(a)(1)) is amended—
+  - **(1)** in paragraph (1), by striking “high-performance computing and networking” and inserting “networking and information technology”; and
+  - **(2)** in paragraph (2)(A), by striking “high-performance” and inserting “high-end”.
+- **(g)** *Section 204* Section 204 of such Act (15 U.S.C. 5524) is amended—
+  - **(1)** in subsection (a)(1)—
+    - **(A)** in subparagraph (A), by striking “high-performance computing systems and networks” and inserting “networking and information technology systems and capabilities”;
+    - **(B)** in subparagraph (B), by striking “interoperability of high-performance computing systems in networks and for common user interfaces to systems” and inserting “interoperability and usability of networking and information technology systems”; and
+    - **(C)** in subparagraph (C), by striking “high-performance computing” and inserting “networking and information technology”; and
+  - **(2)** in subsection (b)—
+    - **(A)** in the heading, by striking “High-Performance Computing and Network” and inserting “Networking and Information Technology”; and
+    - **(B)** by striking “sensitive”.
 - **(h)** *Section 205* Section 205(a) of such Act (15 U.S.C. 5525(a)) is amended by striking “computational” and inserting “networking and information technology”.
 - **(i)** *Section 206* Section 206(a) of such Act (15 U.S.C. 5526(a)) is amended by striking “computational research” and inserting “networking and information technology research”.
-- **(j)** *Section 208* Section 208 of such Act (15 U.S.C. 5528) is amended—
+- **(j)** *Section 207* Section 207(b) of such Act (15 U.S.C. 5527(b)) is amended by striking “high-performance computing” and inserting “networking and information technology”.
+- **(k)** *Section 208* Section 208 of such Act (15 U.S.C. 5528) is amended—
   - **(1)** in the section heading, by striking “High-Performance Computing” and inserting “Networking and Information Technology”; and
   - **(2)** in subsection (a)—
     - **(A)** in paragraph (1), by striking “High-performance computing and associated” and inserting “Networking and information”;
     - **(B)** in paragraph (2), by striking “high-performance computing” and inserting “networking and information technologies”;
-    - **(C)** in paragraph (4), by striking “high-performance computers and associated” and inserting “networking and information”; and
-    - **(D)** in paragraph (5), by striking “high-performance computing and associated” and inserting “networking and information”.
+    - **(C)** in paragraph (3), by striking “high-performance” and inserting “high-end”;
+    - **(D)** in paragraph (4), by striking “high-performance computers and associated” and inserting “networking and information”; and
+    - **(E)** in paragraph (5), by striking “high-performance computing and associated” and inserting “networking and information”.
