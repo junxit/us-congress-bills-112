@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3606
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3606
@@ -144,7 +144,7 @@ Jumpstart Our Business Startups
 - House — Financial Services Committee
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (13)
+## Recorded votes (14)
 
 - 2012-03-07 — [House 112-2-103](votes/house-112-2-0103.md) — On Agreeing to the Amendment — **Failed** (164–245)
 - 2012-03-07 — [House 112-2-104](votes/house-112-2-0104.md) — On Agreeing to the Amendment — **Failed** (169–244)
@@ -159,6 +159,7 @@ Jumpstart Our Business Startups
 - 2012-03-21 — [Senate 112-2-53](votes/senate-112-2-0053.md) — On the Cloture Motion — **Cloture Motion Agreed to** (76–22)
 - 2012-03-22 — [Senate 112-2-54](votes/senate-112-2-0054.md) — On the Amendment — **Amendment Agreed to** (64–35)
 - 2012-03-22 — [Senate 112-2-55](votes/senate-112-2-0055.md) — On Passage of the Bill — **Bill Passed** (73–26)
+- 2012-03-27 — [House 112-2-132](votes/house-112-2-0132.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (380–41)
 
 ## Actions
 
@@ -530,3 +531,16 @@ Jumpstart Our Business Startups
 - 2012-03-22 — Roll call votes on amendments in Senate: Amendment SA 1884 agreed to in Senate by Yea-Nay Vote. 64 - 35. Record Vote Number: 54.
 - 2012-03-22 — Senate amendment agreed to: Amendment SA 1884 agreed to in Senate by Yea-Nay Vote. 64 - 35. Record Vote Number: 54.
 - 2012-03-22 — Senate amendment not agreed to: Amendment SA 1931 not agreed to in Senate by Voice Vote.
+- 2012-03-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2012-03-27 — DEBATE - The House proceeded with forty minutes of debate on the Senate amendment to H.R. 3606.
+- 2012-03-27 — Message on Senate action sent to the House.
+- 2012-03-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-03-27 — Mr. Bachus moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H1586-1593, H1597-1598)
+- 2012-03-27 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 380 - 41 (Roll no. 132). (text as House agreed to Senate amendment: CR H1586-1588)
+- 2012-03-27 — Presented to President.
+- 2012-03-27 — Presented to President.
+- 2012-03-27 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 380 - 41 (Roll no. 132).(text as House agreed to Senate amendment: CR H1586-1588)
+- 2012-04-05 — Became Public Law No: 112-106.
+- 2012-04-05 — Became Public Law No: 112-106.
+- 2012-04-05 — Signed by President.
+- 2012-04-05 — Signed by President.
