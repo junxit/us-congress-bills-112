@@ -2,17 +2,11 @@
 legis-num: H.R. 3606
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 3606
 
-> To increase American job creation and economic growth by improving access to the public capital markets for emerging growth companies.
+That the bill from the House of Representatives (H.R. 3606) entitled “An Act to increase American job creation and economic growth by improving access to the public capital markets for emerging growth companies. ”, do pass with the following
 
-## § 1. Short title
-
-This Act may be cited as the “Jumpstart Our Business Startups Act”.
-
-## § 2. Table of contents
-
-The table of contents of this Act is as follows:
+*Strike title III and insert the following:*

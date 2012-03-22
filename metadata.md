@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3606
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3606
@@ -16,7 +16,7 @@ Jumpstart Our Business Startups
 
 - Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
 
-## Cosponsors (53)
+## Cosponsors (120)
 
 - Rep. Carney, John C., Jr. [D-DE-At Large] (C001083)
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
@@ -71,13 +71,80 @@ Jumpstart Our Business Startups
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 - Rep. Schilling, Robert T. [R-IL-17] (S001182)
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Corker, Bob [R-TN] (C001071)
 
 ## Committees (2)
 
 - House — Financial Services Committee
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (8)
+## Recorded votes (13)
 
 - 2012-03-07 — [House 112-2-103](votes/house-112-2-0103.md) — On Agreeing to the Amendment — **Failed** (164–245)
 - 2012-03-07 — [House 112-2-104](votes/house-112-2-0104.md) — On Agreeing to the Amendment — **Failed** (169–244)
@@ -87,6 +154,11 @@ Jumpstart Our Business Startups
 - 2012-03-08 — [House 112-2-108](votes/house-112-2-0108.md) — On Agreeing to the Amendment — **Failed** (172–236)
 - 2012-03-08 — [House 112-2-109](votes/house-112-2-0109.md) — On Motion to Recommit with Instructions — **Failed** (170–244)
 - 2012-03-08 — [House 112-2-110](votes/house-112-2-0110.md) — On Passage — **Passed** (390–23)
+- 2012-03-20 — [Senate 112-2-51](votes/senate-112-2-0051.md) — On the Cloture Motion — **Cloture Motion Rejected** (54–45)
+- 2012-03-20 — [Senate 112-2-52](votes/senate-112-2-0052.md) — On the Cloture Motion — **Cloture Motion Rejected** (55–44)
+- 2012-03-21 — [Senate 112-2-53](votes/senate-112-2-0053.md) — On the Cloture Motion — **Cloture Motion Agreed to** (76–22)
+- 2012-03-22 — [Senate 112-2-54](votes/senate-112-2-0054.md) — On the Amendment — **Amendment Agreed to** (64–35)
+- 2012-03-22 — [Senate 112-2-55](votes/senate-112-2-0055.md) — On Passage of the Bill — **Bill Passed** (73–26)
 
 ## Actions
 
@@ -273,3 +345,188 @@ Jumpstart Our Business Startups
 - 2012-03-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2012-03-12 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2012-03-13 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 334.
+- 2012-03-14 — Senate amendment submitted
+- 2012-03-15 — Amendment SA 1833 proposed by Senator Reid for Senator Reed. (consideration: CR S1693) In the nature of a substitute.
+- 2012-03-15 — Amendment SA 1834 proposed by Senator Reid to Amendment SA 1833. (consideration: CR S1693; text: CR S1693) To change the enactment date.
+- 2012-03-15 — Amendment SA 1835 proposed by Senator Reid to Amendment SA 1834. (consideration: CR S1693; text: CR S1693) Of a perfecting nature.
+- 2012-03-15 — Amendment SA 1836 proposed by Senator Reid for Senator Cantwell to language proposed to be stricken by amendment no. SA 1833. (consideration: CR S1693-1694; text: CR S1694) To reauthorize the Export-Import Bank of the United States.
+- 2012-03-15 — Amendment SA 1837 proposed by Senator Reid to Amendment SA 1836. (consideration: CR S1694; text: CR S1694) To change the enactment date.
+- 2012-03-15 — Amendment SA 1838 proposed by Senator Reid. (consideration: CR S1694; text: CR S1694) To change the enactment date.
+- 2012-03-15 — Amendment SA 1839 proposed by Senator Reid to Amendment SA 1838 (the instructions of the motion to commit). (consideration: CR S1694; text: CR S1694) Of a perfecting nature.
+- 2012-03-15 — Amendment SA 1840 proposed by Senator Reid to Amendment SA 1839. (consideration: CR S1694; text: CR S1694) Of a perfecting nature.
+- 2012-03-15 — Cloture motion on amendment SA 1833 presented in Senate. (consideration: CR S1693; text: CR S1693)
+- 2012-03-15 — Cloture motion on amendment SA 1836 presented in Senate. (consideration: CR S1694; text: CR S1694)
+- 2012-03-15 — Cloture motion on the bill presented in Senate. (consideration: CR S1694; text: CR S1694)
+- 2012-03-15 — Measure laid before Senate by unanimous consent. (consideration: CR S1693-1696, S1714, S1714-1729)
+- 2012-03-15 — Motion by Senator Reid to commit to Senate Committee on Banking, Housing, and Urban Affairs with instructions that the Committee report back forthwith with amendment SA 1838 made in Senate. (consideration: CR S1694; text: CR S1694)
+- 2012-03-15 — Senate amendment proposed (on the floor): Amendment SA 1833 proposed by Senator Reid for Senator Reed.(consideration: CR S1693)
+- 2012-03-15 — Senate amendment proposed (on the floor): Amendment SA 1834 proposed by Senator Reid to Amendment SA 1833.(consideration: CR S1693; text: CR S1693)
+- 2012-03-15 — Senate amendment proposed (on the floor): Amendment SA 1835 proposed by Senator Reid to Amendment SA 1834.(consideration: CR S1693; text: CR S1693)
+- 2012-03-15 — Senate amendment proposed (on the floor): Amendment SA 1836 proposed by Senator Reid for Senator Cantwell to language proposed to be stricken by amendment no. SA 1833.(consideration: CR S1693-1694; text: CR S1694)
+- 2012-03-15 — Senate amendment proposed (on the floor): Amendment SA 1837 proposed by Senator Reid to Amendment SA 1836.(consideration: CR S1694; text: CR S1694)
+- 2012-03-15 — Senate amendment proposed (on the floor): Amendment SA 1838 proposed by Senator Reid.(consideration: CR S1694; text: CR S1694)
+- 2012-03-15 — Senate amendment proposed (on the floor): Amendment SA 1839 proposed by Senator Reid to Amendment SA 1838 (the instructions of the motion to commit).(consideration: CR S1694; text: CR S1694)
+- 2012-03-15 — Senate amendment proposed (on the floor): Amendment SA 1840 proposed by Senator Reid to Amendment SA 1839.(consideration: CR S1694; text: CR S1694)
+- 2012-03-15 — Senate amendment submitted
+- 2012-03-15 — Senate amendment submitted
+- 2012-03-15 — Senate amendment submitted
+- 2012-03-15 — Senate amendment submitted
+- 2012-03-15 — Senate amendment submitted
+- 2012-03-15 — Senate amendment submitted
+- 2012-03-15 — Senate amendment submitted
+- 2012-03-15 — Senate amendment submitted
+- 2012-03-15 — Senate amendment submitted
+- 2012-03-15 — Senate amendment submitted
+- 2012-03-15 — Senate amendment submitted
+- 2012-03-15 — Senate amendment submitted
+- 2012-03-15 — Senate amendment submitted
+- 2012-03-15 — Senate amendment submitted
+- 2012-03-15 — Senate amendment submitted
+- 2012-03-19 — Considered by Senate. (consideration: CR S1776)
+- 2012-03-19 — Considered by Senate. (consideration: CR S1776)
+- 2012-03-19 — Considered by Senate. (consideration: CR S1776)
+- 2012-03-19 — Considered by Senate. (consideration: CR S1776)
+- 2012-03-19 — Considered by Senate. (consideration: CR S1776)
+- 2012-03-19 — Considered by Senate. (consideration: CR S1776)
+- 2012-03-19 — Considered by Senate. (consideration: CR S1776)
+- 2012-03-19 — Considered by Senate. (consideration: CR S1776)
+- 2012-03-19 — Considered by Senate. (consideration: CR S1776-1784)
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-19 — Senate amendment submitted
+- 2012-03-20 — Cloture on amendment SA 1833 not invoked in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 51. (consideration: CR S1840-1841; text: CR S1840)
+- 2012-03-20 — Cloture on amendment SA 1836 not invoked in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 52. (consideration: CR S1841-1842; text: CR S1841)
+- 2012-03-20 — Considered by Senate. (consideration: CR S1824)
+- 2012-03-20 — Considered by Senate. (consideration: CR S1824)
+- 2012-03-20 — Considered by Senate. (consideration: CR S1824)
+- 2012-03-20 — Considered by Senate. (consideration: CR S1824)
+- 2012-03-20 — Considered by Senate. (consideration: CR S1824)
+- 2012-03-20 — Considered by Senate. (consideration: CR S1824)
+- 2012-03-20 — Considered by Senate. (consideration: CR S1824)
+- 2012-03-20 — Considered by Senate. (consideration: CR S1824)
+- 2012-03-20 — Considered by Senate. (consideration: CR S1824-1831, S1840-1842)
+- 2012-03-20 — Roll call votes on amendments in Senate: Cloture on amendment SA 1833 not invoked in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 51.(consideration: CR S1840-1841; text: CR S1840)
+- 2012-03-20 — Roll call votes on amendments in Senate: Cloture on amendment SA 1836 not invoked in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 52.(consideration: CR S1841-1842; text: CR S1841)
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-20 — Senate amendment submitted
+- 2012-03-21 — Amendment SA 1833 ruled non-germane by the chair.
+- 2012-03-21 — Amendment SA 1836 ruled non-germane by the chair.
+- 2012-03-21 — Amendment SA 1884 proposed by Senator Reid for Senator Merkley. (consideration: CR S1884, S1886-1895) To amend the securities laws to provide for registration exemptions for certain crowdfunded securities, and for other purposes.
+- 2012-03-21 — Amendment SA 1931 proposed by Senator Reid for Senator Reed to Amendment SA 1884. (consideration: CR S1884-1886; text: CR S1884) To improve the bill.
+- 2012-03-21 — Cloture on the bill invoked in Senate by Yea-Nay Vote. 76 - 22. Record Vote Number: 53. (consideration: CR S1884; text: CR S1884)
+- 2012-03-21 — Considered by Senate.
+- 2012-03-21 — Considered by Senate.
+- 2012-03-21 — Considered by Senate. (consideration: CR S1884)
+- 2012-03-21 — Considered by Senate. (consideration: CR S1884)
+- 2012-03-21 — Considered by Senate. (consideration: CR S1884)
+- 2012-03-21 — Considered by Senate. (consideration: CR S1884)
+- 2012-03-21 — Considered by Senate. (consideration: CR S1884)
+- 2012-03-21 — Considered by Senate. (consideration: CR S1884)
+- 2012-03-21 — Considered by Senate. (consideration: CR S1884-1919)
+- 2012-03-21 — Motion by Senator Reid to commit to Senate Committee on Banking, Housing, and Urban Affairs with instructions that the Committee report back forthwith with amendment SA 1838 fell when cloture was invoked on the bill in Senate.
+- 2012-03-21 — Point of order raised in Senate with respect to amendment SA 1833.
+- 2012-03-21 — Point of order raised in Senate with respect to amendment SA 1836.
+- 2012-03-21 — SA 1834 fell when SA 1833 ruled non-germane by the Chair.
+- 2012-03-21 — SA 1835 fell when SA 1834 fell.
+- 2012-03-21 — SA 1837 fell when SA 1836 ruled non-germane by the Chair.
+- 2012-03-21 — SA 1838 fell when cloture invoked on the bill.
+- 2012-03-21 — SA 1839 fell when SA 1838 fell.
+- 2012-03-21 — SA 1840 fell when SA 1839 fell.
+- 2012-03-21 — Senate amendment proposed (on the floor): Amendment SA 1884 proposed by Senator Reid for Senator Merkley.(consideration: CR S1884, S1886-1895)
+- 2012-03-21 — Senate amendment proposed (on the floor): Amendment SA 1931 proposed by Senator Reid for Senator Reed to Amendment SA 1884.(consideration: CR S1884-1886; text: CR S1884)
+- 2012-03-22 — Amendment SA 1884 agreed to in Senate by Yea-Nay Vote. 64 - 35. Record Vote Number: 54.
+- 2012-03-22 — Amendment SA 1931 not agreed to in Senate by Voice Vote.
+- 2012-03-22 — Considered by Senate. (consideration: CR S1963, S1973-1976)
+- 2012-03-22 — Considered by Senate. (consideration: CR S1963, S1976)
+- 2012-03-22 — Considered by Senate. (consideration: CR S1963-1977)
+- 2012-03-22 — Passed Senate with an amendment by Yea-Nay Vote. 73 - 26. Record Vote Number: 55.
+- 2012-03-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 73 - 26. Record Vote Number: 55.
+- 2012-03-22 — Roll call votes on amendments in Senate: Amendment SA 1884 agreed to in Senate by Yea-Nay Vote. 64 - 35. Record Vote Number: 54.
+- 2012-03-22 — Senate amendment agreed to: Amendment SA 1884 agreed to in Senate by Yea-Nay Vote. 64 - 35. Record Vote Number: 54.
+- 2012-03-22 — Senate amendment not agreed to: Amendment SA 1931 not agreed to in Senate by Voice Vote.
