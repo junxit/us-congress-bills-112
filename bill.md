@@ -1,0 +1,65 @@
+---
+legis-num: H.R. 4240
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4240
+
+> To reauthorize the North Korean Human Rights Act of 2004, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Ambassador James R. Lilley and Congressman Stephen J. Solarz North Korea Human Rights Reauthorization Act of 2012”.
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** The North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.) and the North Korean Human Rights Reauthorization Act of 2008 (Public Law 110–346) were the product of broad, bipartisan consensus regarding the promotion of human rights, transparency in the delivery of humanitarian assistance, and the importance of refugee protection.
+- **(2)** In addition to the longstanding commitment of the United States to refugee and human rights advocacy, the United States is home to the largest Korean population outside of northeast Asia, and many in the two-million strong Korean-American community have family ties to North Korea.
+- **(3)** Although the transition to the leadership of Kim Jong-Un after the death of Kim Jong-Il has introduced new uncertainties and possibilities, the fundamental human rights and humanitarian conditions inside North Korea remain deplorable, North Korean refugees remain acutely vulnerable, and the findings in the 2004 Act and 2008 Reauthorization remain substantially accurate today.
+- **(4)** Media and nongovernmental organizations have reported a crackdown on unauthorized border crossing during the North Korean leadership transition, including authorization for on-the-spot execution of attempted defectors, as well as an increase in punishments during the 100-day official mourning period after the death of Kim Jong-Il.
+- **(5)** Notwithstanding high-level advocacy by the United States, the Republic of Korea, and the United Nations High Commissioner for Refugees, China has continued to forcibly repatriate North Koreans, including dozens of presumed refugees who were the subject of international humanitarian appeals during February and March of 2012.
+- **(6)** The United States, which has the largest international refugee resettlement program in the world, has resettled 128 North Koreans since passage of the 2004 Act, including 23 North Koreans in fiscal year 2011.
+- **(7)** In a career of Asia-focused public service that spanned more than half a century, including service as a senior United States diplomat in times and places where there were significant challenges to human rights, Ambassador James R. Lilley also served as a director of the Committee for Human Rights in North Korea until his death in 2009.
+- **(8)** Following his 18 years of service in the House of Representatives, including as Chairman of the Foreign Affairs Subcommittee on East Asian and Pacific Affairs, Stephen J. Solarz committed himself to, in his words, highlighting “the plight of ordinary North Koreans who are denied even the most basic human rights, and the dramatic and heart-rending stories of those who risk their lives in the struggle to escape what is certainly the world’s worst nightmare”, and served as co-chairman of the Committee for Human Rights in North Korea until his death in 2010.
+
+## § 3. Sense of Congress
+
+It is the sense of Congress that—
+
+- **(1)** the United States should continue to seek cooperation from foreign governments to allow the United States to process North Korean refugees overseas for resettlement in the United States, through persistent diplomacy by senior officials of the United States, including United States ambassadors to Asia-Pacific countries, and close cooperation with its ally, the Republic of Korea; and
+- **(2)** because there are genuine refugees among North Koreans fleeing into China who face severe punishments upon their forcible return, the United States should urge the People’s Republic of China to—
+  - **(A)** immediately halt its forcible repatriation of North Koreans;
+  - **(B)** fulfill its obligations pursuant to the 1951 United Nations Convention Relating to the Status of Refugees, the 1967 Protocol Relating to the Status of Refugees, and the 1995 Agreement on the Upgrading of the UNHCR Mission in the People’s Republic of China to UNHCR Branch Office in the People’s Republic of China; and
+  - **(C)** allow the United Nations High Commissioner for Refugees (UNHCR) unimpeded access to North Koreans inside China to determine whether such North Koreans are refugees requiring protection.
+
+## § 4. Support for human rights and democracy programs
+
+Section 102(b)(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7812(b)(1)) is amended by striking “2012” and inserting “2017”.
+
+## § 5. Radio broadcasting to North Korea
+
+Not later than 120 days after the date of the enactment of this Act, the Broadcasting Board of Governors (BBG) shall submit to the appropriate congressional committees, as defined in section 5(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7803(1)), a report that describes the status and content of current United States broadcasting to North Korea and the extent to which the BBG has achieved the goal of 12-hour-per-day broadcasting to North Korea pursuant to section 103 of such Act (22 U.S.C. 7813).
+
+## § 6. Actions to promote freedom of information
+
+Subsections (b)(1) and (c) of section 104 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814) is amended by striking “2012” and inserting “2017” each place it appears.
+
+## § 7. Special envoy on North Korean human rights issues
+
+Section 107(d) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7817(d)) by striking “2012” and inserting “2017”.
+
+## § 8. Report on United States humanitarian assistance
+
+Section 201(a) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7831(a)) is amended, in the matter preceding paragraph (1), by striking “2012” and inserting “2017”.
+
+## § 9. Assistance provided outside of North Korea
+
+Section 203(c)(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7833(c)(1)) is amended by striking “2012” and inserting “2017”.
+
+## § 10. Annual reports
+
+Section 305(a) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7845(a)) is amended, in the matter preceding paragraph (1) by striking “2012” and inserting “2017”.
