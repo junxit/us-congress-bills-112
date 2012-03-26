@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2779
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,9 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 1a(47) of the Commodity Exchange Act (7 U.S.C. 1(a)(47)), as added by section 721(a)(21) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3(a)(68) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(3)(a)(68)), as added by section 761(a)(6) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1a(47) of the Commodity Exchange Act (7 U.S.C. 1(a)(47)), as added by section 721(a)(21) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3(a)(68) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(3)(a)(68)), as added by section 761(a)(6) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1a(47) of the Commodity Exchange Act (7 U.S.C. 1a(47)), as added by section 721(a)(21) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3(a)(68) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(68)), as added by section 761(a)(6) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
