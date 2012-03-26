@@ -11,12 +11,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Business Risk Mitigation and Price Stabilization Act of 2011”.
+This Act may be cited as the “Business Risk Mitigation and Price Stabilization Act of 2012”.
 
 ## § 2. Margin requirements
 
 - **(a)** *Commodity Exchange Act amendment* Section 4s(e) of the Commodity Exchange Act (7 U.S.C. 6s(e)), as added by section 731 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following new paragraph:
-  > - **(4)** *Applicability with respect to counterparties* The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii) shall not apply to a swap in which one of the counterparties to the swap is not a financial entity as described in section 2(h)(7)(C), and such counterparty is eligible for the exception under section 2(h)(7)(A).
+  > - **(4)** *Applicability with respect to counterparties* The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii) shall not apply to a swap in which a counterparty qualifies for an exception under section 2(h)(7)(A) or satisfies the criteria in section 2(h)(7)(D).
 
 - **(b)** *Securities Exchange Act amendment* Section 15F(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–10(e)), as added by section 764(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following new paragraph:
-  > - **(4)** *Applicability with respect to counterparties* The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii) shall not apply to a security-based swap in which one of the counterparties to the security-based swap is not a financial entity as described in section 3C(g)(3), and such counterparty is eligible for the exception under section 3C(g)(1).
+  > - **(4)** *Applicability with respect to counterparties* The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii) shall not apply to a security-based swap in which a counterparty qualifies for an exception under section 3C(g)(1) or satisfies the criteria in section 3C(g)(4).
+
+## § 3. Implementation
+
+The amendments made by this Act to the Commodity Exchange Act shall be implemented—
+
+- **(1)** without regard to—
+  - **(A)** chapter 35 of title 44, United States Code; and
+  - **(B)** the notice and comment provisions of section 553 of title 5, United States Code;
+- **(2)** through the promulgation of an interim final rule, pursuant to which public comment will be sought before a final rule is issued; and
+- **(3)** such that paragraph (1) shall apply solely to changes to rules and regulations, or proposed rules and regulations, that are limited to and directly a consequence of such amendments.

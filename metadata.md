@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2682
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2682
@@ -31,6 +31,10 @@ Business Risk Mitigation and Price Stabilization Act of 2012
 - House — Agriculture Committee
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2012-03-26 — [House 112-2-128](votes/house-112-2-0128.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (370–24)
+
 ## Actions
 
 - 2011-07-28 — Introduced in House
@@ -51,3 +55,11 @@ Business Risk Mitigation and Price Stabilization Act of 2012
 - 2012-02-08 — Placed on the Union Calendar, Calendar No. 267.
 - 2012-02-08 — Reported (Amended) by the Committee on Agriculture. H. Rept. 112-343, Part II.
 - 2012-02-08 — Reported (Amended) by the Committee on Agriculture. H. Rept. 112-343, Part II.
+- 2012-03-26 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-03-26 — Considered as unfinished business. (consideration: CR H1557-1558)
+- 2012-03-26 — Considered under suspension of the rules. (consideration: CR H1551-1553)
+- 2012-03-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2682.
+- 2012-03-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-03-26 — Mr. Garrett moved to suspend the rules and pass the bill, as amended.
+- 2012-03-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 370 - 24 (Roll no. 128). (text: CR H1551)
+- 2012-03-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 370 - 24 (Roll no. 128).(text: CR H1551)
