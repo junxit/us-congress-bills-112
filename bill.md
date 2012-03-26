@@ -1,0 +1,47 @@
+---
+legis-num: H.R. 4258
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4258
+
+> To ensure free, fair, and competitive elections in the Republic of Georgia.
+
+## § 1. Short title
+
+This Act may be cited as the “Republic of Georgia Democracy Act of 2012”.
+
+## § 2. Findings
+
+Congress makes the following findings:
+
+- **(1)** A democratic and stable Republic of Georgia is in the political, security, and economic interests of the United States.
+- **(2)** Georgia plays a key role in the security of the Black Sea and South Caucasus region, which is important for Euro-Atlantic security, transportation, and energy diversification to and from the Caspian Sea.
+- **(3)** Georgia has been a reliable partner and ally in enhancing global peace and stability with its significant contribution to operations in Iraq and Afghanistan.
+- **(4)** The United States–Georgia Charter on Strategic Partnership, signed in January 2009, outlines the importance of the bilateral relationship as well as the intent of both countries to expand democracy and economic programs, enhance defense and security cooperation, further trade and energy cooperation, and build people-to-people cultural exchanges.
+- **(5)** Georgia’s democratic nature is one of its core strengths and the basis for the deep friendship between Georgia and the United States. As such, continued democratic reform, the strength of Georgia’s democratic institutions, and regular free, fair, and competitive elections are key priorities for a strong continuing relationship between the United States and Georgia.
+- **(6)** Democracy in Georgia is facing serious challenges and political freedom and fair competition between political parties is under assault. For example, the government has increased detaining members of the political opposition and civil society nongovernmental organizations (NGOs), limited freedom of the press, undermined the right of workers to organize and bargain collectively, and stopped opposition groups from holding demonstrations—often by violent means.
+- **(7)** According to the Department of State’s 2010 Human Rights Report on Georgia, when President Mikheil Saakashvili was re-elected to the Presidency in 2008, “the OSCE identified significant problems, including widespread allegations of intimidation and pressure, flawed vote-counting and tabulation processes, and shortcomings in the complaints and appeals process. These and other problems continued into the parliamentary elections in May 2008, which international observers concluded were uneven and incomplete in their adherence to international standards.”.
+- **(8)** On February 13, 2012, United Nations Special Rapporteur on the Right to Freedom of Peaceful Assembly and Association Maina Kiai concluded at the end of his visit to Georgia that the previous positive trajectory of the country was being replaced with a “widespread climate of fear, intimidation and arbitrary restrictions of fundamental freedoms.” He identified multiple problems, including with the way in which the government undermined political parties and NGOs, such as prosecuting and detaining political activists with little to no evidence. Furthermore, he noted, “there have been long standing concerns—by regional bodies and the UN—about the inability to distinguish between the ruling party and the state, which is especially relevant in light of the upcoming parliamentary and presidential elections.”.
+- **(9)** Georgia will hold parliamentary elections in October 2012. In the run-up to the election, Georgian President Mikheil Saakashvili and the Georgian Parliament enacted constitutional changes that reduce the power of the president and increase the power of the prime minister.
+- **(10)** Georgian President Mikheil Saakashvili’s presidential term ends in 2013 and it has been reported that he plans to assume the role of Prime Minister if his political party, United National Movement (UNM), wins the majority of the seats in the Parliament, which it currently has.
+- **(11)** Bidzina Ivanishvili, a Georgian businessman who has never served in the Georgian Government, launched a new political party called Georgian Dream, on October 5, 2011, in an effort to unify the Georgian opposition parties and challenge Saakashvili’s increasingly dictatorial control over Georgia’s government.
+- **(12)** In response to the creation of Georgian Dream, Mikheil Saakashvili’s regime stripped Bidzina Ivanishvili of his citizenship despite the fact that Mikheil Saakashvili granted Ivanishvili’s citizenship in the first place, Ivanishvili was born in Georgia, and there is no legal basis for his citizenship to be revoked.
+- **(13)** Since the launch of Georgian Dream, the Saakashvili regime has launched a concerted, aggressive campaign to undermine Georgian Dream’s ability to compete against Saakashvili’s party in the Parliamentary elections. For example, the Georgian Government has fired those employees, especially teachers, who support Ivanishvili or other opposition parties.
+- **(14)** The Georgian Government has increased harassment and detention of the supporters of Ivanishvili, Georgian Dream and other opposition parties, often through violent means, without due process. Hundreds of opposition supporters have been detained in March 2012 as part of a concerted effort to intimidate voters and opposition campaigners.
+- **(15)** On February 27, 2011, Solomon Kimeridze, an Ivanishvili supporter, died under suspicious circumstances while in police custody.
+- **(16)** On May 26, 2011, Georgian security officials killed two protesters while using violent means to break-up a peaceful protest. An investigation into this incident has been requested by United States Ambassador Robert Bass, the United Nations High Commissioner for Human Rights, the European Commission, Human Rights Watch, and Amnesty International.
+- **(17)** On December 28, 2011, the Georgian Parliament passed new election laws that will limit opposition parties’ access to funds. The OSCE and the U.S. State Department criticized this law for both its substance and the abnormal way in which it was enacted by the Saakashvili-controlled parliament. Furthermore, the Chamber of Control, the state audit agency that is controlled by Saakashvili, created a new division specifically focused on investigating Georgian Dream and Bidzina Ivanishvili and blocking Ivanishvili’s financial support for opposition candidates and party building.
+- **(18)** United Nations Special Rapporteur on the Right to Freedom of Peaceful Assembly and Association Maina Kiai concluded that these changes to the election law “appear to affect the rights to association and to peaceful assembly … these amendments, which at times use ambiguous language, are fuelling an overall climate of distrust, and appear to largely violate international human rights law.”.
+- **(19)** The Saakashvili regime has warped the Georgian banking sector, previously a model of post-Soviet success and transparency, in an effort to destroy Bank Cartu, a bank owned by Bidzina Ivanishvili. Based on a law passed at the end of October 2011 after Ivanishvili announced the creation of Georgian Dream, the Georgian Government seized over millions of dollars in bank assets. The American Chamber of Commerce criticized this new law, predicted that it would undermine a model banking system that has been built with the support of the United States Government, IMF, and World Bank. The Georgian Government has only applied this new law, which gives the Government the right to seize loan collateral before the banks that issued the loan, to Bank Cartu and no other banks. As a result, the Saakashvili regime continues to seize Bank Cartu assets in an effort to force the bank out of business and remove a source of Ivanishvili’s financial support.
+- **(20)** United States national security interests are best served by a democratic Georgia no matter what individuals and which parties are in control of the country. An undemocratic Georgia will breed instability in a volatile region and increase the likelihood of violent conflict. As such, it is incumbent on the United States Government to clearly communicate to President Saakashvili that if he continues down his current path and does not allow free, fair, and competitive elections, the special relationship between the United States and Georgia will be at risk and Georgia will face the loss of both United States political support and financial assistance.
+
+## § 3. Limitation on assistance to the Republic of Georgia
+
+- **(a)** *Limitation* No funds available to any United States department or agency for fiscal year 2013 may be used to provide assistance to the Republic of Georgia until the Secretary of State certifies and reports to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate that the parliamentary elections held in October 2012 or such other date if rescheduled were carried out in a free, fair, and competitive manner consistent with international standards.
+- **(b)** *Matters To be included* The report required under subsection (a) shall include information on—
+  - **(1)** the presence and findings of election observers;
+  - **(2)** the ability of opposition parties to campaign effectively; and
+  - **(3)** whether Bidzina Ivanishvili and the Georgian Dream Party participated in the election, and, if not, the reason for their absence.
