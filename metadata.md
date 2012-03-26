@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5
@@ -251,3 +251,4 @@ Protecting Access to Healthcare Act
 - 2012-03-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5.
 - 2012-03-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1517)
 - 2012-03-22 — The previous question was ordered pursuant to the rule. (consideration: CR H1515)
+- 2012-03-26 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 338.
