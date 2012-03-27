@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3298
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Homes for Heroes Act of 2011”.
+This Act may be cited as the “Homes for Heroes Act of 2012”.
 
 ## § 2. Special assistant for Veterans Affairs in the Department of Housing and Urban Development
 
@@ -28,7 +28,7 @@ Section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533
 >     - **(E)** providing information and advice regarding—
 >       - **(i)** sponsoring housing projects for veterans assisted under programs administered by the Department; or
 >       - **(ii)** assisting veterans in obtaining housing or homeless assistance under programs administered by the Department;
->     - **(F)** coordinating with the Secretary of Housing and Urban Development and the Secretary of Veterans Affairs in carrying out section 3 of the Homes for Heroes Act of 2011; and
+>     - **(F)** coordinating with the Secretary of Housing and Urban Development and the Secretary of Veterans Affairs in carrying out section 3 of the Homes for Heroes Act of 2012; and
 >     - **(G)** carrying out such other duties as may be assigned to the Special Assistant by the Secretary or by law.
 
 ## § 3. Annual supplemental report on veterans homelessness
@@ -44,8 +44,8 @@ Section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533
     - **(F)** Any other information that the Secretary of Housing and Urban Development and the Secretary of Veterans Affairs consider relevant in assessing the programs and activities of the Department of Housing and Urban Development relating to veterans.
 - **(b)** *Committees* The Committees of the Congress specified in this subsection are as follows:
   - **(1)** The Committee on Banking, Housing, and Urban Affairs of the Senate.
-  - **(2)** The Committee on Veterans' Affairs of the Senate.
+  - **(2)** The Committee on Veterans’ Affairs of the Senate.
   - **(3)** The Committee on Appropriations of the Senate.
   - **(4)** The Committee on Financial Services of the House of Representatives.
-  - **(5)** The Committee on Veterans' Affairs of the House of Representatives.
+  - **(5)** The Committee on Veterans’ Affairs of the House of Representatives.
   - **(6)** The Committee on Appropriations of the House of Representatives.
