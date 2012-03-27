@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 112
-version: Placed on Calendar Senate
+version: Returned to the House by Unanimous Consent
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 1 executed, 4 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 42 U.S.C. § 233
-
-> in paragraph (4), by striking “An entity” and inserting “Subject to paragraph (6), an entity”; and
-
-| | |
-|---|---|
-| Removed | `An entity` |
-| Inserted | `Subject to paragraph (6), an entity` |
 
 ## Stated, not applied
 
@@ -43,6 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | repeal | Effective as of the enactment of the Patient Protection and Affordable Care Act (Public Law 111–148), sections 3403 and 10320 of such Act (including the amendments made by such sections, but excluding subsection (d) of section 1899A of t… | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 233` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1013` | add-at-end | Section 3 of the Act of March 9, 1945 (15 U.S.C. 1013), commonly known as the McCarran-Ferguson Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in paragraph (4), by striking “An entity” and inserting “Subject to paragraph (6), an entity”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 9832` | amend | Section 3 of the Act of March 9, 1945 (15 U.S.C. 1013), commonly known as the McCarran-Ferguson Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 202` | insert | Title II of the Public Health Service Act (42 U.S.C. 202 et seq.) is amended by inserting after section 224 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
