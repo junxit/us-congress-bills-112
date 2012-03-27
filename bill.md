@@ -120,7 +120,12 @@ This Act may be cited as the “Federal Communications Commission Process Reform
   >   - **(2)** *Exception* The Commission shall by rule establish procedures for redacting documents required to be published by this section so that the published versions of such documents do not contain—
   >     - **(A)** information the publication of which would be detrimental to national security, homeland security, law enforcement, or public safety; or
   >     - **(B)** information that is proprietary or confidential.
-  > - **(o)** *Definitions* In this section:
+  > - **(o)** *Transparency relating to performance in meeting FOIA requirements* The Commission shall take additional steps to inform the public about its performance and efficiency in meeting the disclosure and other requirements of section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act), including by doing the following:
+  >   - **(1)** Publishing on the Commission’s website the Commission’s logs for tracking, responding to, and managing requests submitted under such section, including the Commission’s fee estimates, fee categories, and fee request determinations.
+  >   - **(2)** Releasing to the public all decisions made by the Commission (including decisions made by the Commission’s Bureaus and Offices) granting or denying requests filed under such section, including any such decisions pertaining to the estimate and application of fees assessed under such section.
+  >   - **(3)** Publishing on the Commission’s website electronic copies of documents released under such section.
+  >   - **(4)** Presenting information about the Commission’s handling of requests under such section in the Commission’s annual budget estimates submitted to Congress and the Commission’s annual performance and financial reports. Such information shall include the number of requests under such section the Commission received in the most recent fiscal year, the number of such requests granted and denied, a comparison of the Commission’s processing of such requests over at least the previous 3 fiscal years, and a comparison of the Commission’s results with the most recent average for the United States Government as published on www.foia.gov.
+  > - **(p)** *Definitions* In this section:
   >   - **(1)** *Amendment* The term amendment includes, when used with respect to an existing rule, the deletion of such rule.
   >   - **(2)** *Bipartisan majority* The term bipartisan majority means, when used with respect to a group of Commissioners, that such group—
   >     - **(A)** is a group of 3 or more Commissioners; and
@@ -144,6 +149,14 @@ This Act may be cited as the “Federal Communications Commission Process Reform
 
 In compiling its quarterly report with respect to informal consumer inquiries and complaints, the Federal Communications Commission may not categorize an inquiry or complaint with respect to section 227 of the Communications Act of 1934 (47 U.S.C. 227) as being a wireline inquiry or complaint or a wireless inquiry or complaint unless the party whose conduct is the subject of the inquiry or complaint is a wireline carrier or a wireless carrier, respectively.
 
-## § 4. Effect on other laws
+## § 4. Provision of emergency weather information
+
+Nothing in subsection (a) of section 13 of the Communications Act of 1934, as added by section 2 of this Act, shall be construed to impede the Federal Communications Commission from acting in times of emergency to ensure the availability of efficient and effective communications systems to alert the public to imminent dangerous weather conditions.
+
+## § 5. Communications of first responders
+
+Nothing in subsection (a) of section 13 of the Communications Act of 1934, as added by section 2 of this Act, shall be construed to impede the Federal Communications Commission from acting in times of emergency to ensure the availability of efficient and effective communications systems for State and local first responders.
+
+## § 6. Effect on other laws
 
 Nothing in this Act or the amendment made by this Act shall relieve the Federal Communications Commission from any obligations under title 5, United States Code, except where otherwise expressly provided.
