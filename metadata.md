@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 356
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 356
@@ -16,7 +16,7 @@ A resolution expressing support for the people of Tibet.
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (7)
+## Cosponsors (11)
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Rubio, Marco [R-FL] (R000595)
@@ -25,6 +25,10 @@ A resolution expressing support for the people of Tibet.
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Webb, Jim [D-VA] (W000803)
 - Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Menendez, Robert [D-NJ] (M000639)
 
 ## Committees (1)
 
@@ -35,3 +39,7 @@ A resolution expressing support for the people of Tibet.
 - 2012-01-30 — Introduced in Senate
 - 2012-01-30 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S166-167)
 - 2012-01-30 — Sponsor introductory remarks on measure. (CR S167)
+- 2012-03-27 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2012-03-28 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with an amended preamble. Without written report.
+- 2012-03-28 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with an amended preamble. Without written report.
+- 2012-03-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 347.
