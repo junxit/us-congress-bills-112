@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4014
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 1 executed, 2 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 12 U.S.C. § 1828
-
-> by striking “such agency” each place such term appears and inserting “such Bureau, agency”.
-
-| | |
-|---|---|
-| Removed | `such agency` |
-| Inserted | `such Bureau, agency` |
 
 ## Stated, not applied
 
@@ -42,5 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 1821` | insert | in section 11(t)(2)(A) (12 U.S.C. 1821(t)(2)(A)), by inserting after clause (v) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1828` | insert | by inserting “the Bureau of Consumer Financial Protection,” before “any Federal banking agency” each place such term appears; and | the bill quotes the text inserted but describes where it goes |
+| — | insert | in section 11(t)(2)(A) (12 U.S.C. 1821(t)(2)(A)), by inserting after clause (v) the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “the Bureau of Consumer Financial Protection,” before “any Federal banking agency” each place such term appears; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “such agency” each place such term appears and inserting “such Bureau, agency”. | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4014
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4014
@@ -45,3 +45,12 @@ To amend the Federal Deposit Insurance Act with respect to information provided 
 - 2012-03-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1555)
 - 2012-03-27 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2012-03-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 344.
+- 2012-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7751)
+- 2012-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7751)
+- 2012-12-12 — Message on Senate action sent to the House.
+- 2012-12-13 — Presented to President.
+- 2012-12-13 — Presented to President.
+- 2012-12-20 — Became Public Law No: 112-215.
+- 2012-12-20 — Became Public Law No: 112-215.
+- 2012-12-20 — Signed by President.
+- 2012-12-20 — Signed by President.
