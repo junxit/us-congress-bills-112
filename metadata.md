@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 344
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 344
@@ -16,9 +16,10 @@ A resolution supporting the democratic aspirations of the Nicaraguan people and 
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A resolution supporting the democratic aspirations of the Nicaraguan people and 
 
 - 2011-12-06 — Introduced in Senate
 - 2011-12-06 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S8377-8378)
+- 2012-03-27 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-03-28 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2012-03-28 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2012-03-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 346.
