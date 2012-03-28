@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3298
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3298
@@ -28,9 +28,10 @@ Homes for Heroes Act of 2011
 - Rep. Green, Gene [D-TX-29] (G000410)
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Homes for Heroes Act of 2011
 - 2012-03-27 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-03-27 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 414 - 5 (Roll no. 133). (text: CR 3/26/2012 H1553-1554)
 - 2012-03-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 414 - 5 (Roll no. 133).(text: CR 3/26/2012 H1553-1554)
+- 2012-03-28 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
