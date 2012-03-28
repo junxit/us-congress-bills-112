@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 395
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 395
@@ -16,10 +16,11 @@ A resolution expressing the sense of the Senate in support of the North Atlantic
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ A resolution expressing the sense of the Senate in support of the North Atlantic
 
 - 2012-03-13 — Introduced in Senate
 - 2012-03-13 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1616-1618)
+- 2012-03-27 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2012-03-28 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with an amended preamble. Without written report.
+- 2012-03-28 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with an amended preamble. Without written report.
+- 2012-03-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 349.
