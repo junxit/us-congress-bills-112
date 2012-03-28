@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4014
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4014
@@ -43,3 +43,5 @@ To amend the Federal Deposit Insurance Act with respect to information provided 
 - 2012-03-26 — Mrs. Biggert moved to suspend the rules and pass the bill.
 - 2012-03-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1555)
 - 2012-03-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1555)
+- 2012-03-27 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-03-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 344.
