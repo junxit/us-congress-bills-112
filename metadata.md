@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2682
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2682
@@ -63,3 +63,5 @@ Business Risk Mitigation and Price Stabilization Act of 2012
 - 2012-03-26 — Mr. Garrett moved to suspend the rules and pass the bill, as amended.
 - 2012-03-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 370 - 24 (Roll no. 128). (text: CR H1551)
 - 2012-03-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 370 - 24 (Roll no. 128).(text: CR H1551)
+- 2012-03-27 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-03-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 342.
