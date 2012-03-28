@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3309
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by inserting after section 12 the following new section: | the bill names no machine-readable US Code section |
+| `47 U.S.C. § 151` | insert | Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by inserting after section 12 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

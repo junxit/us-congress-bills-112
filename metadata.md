@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3309
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3309
@@ -28,9 +28,10 @@ Federal Communications Commission Process Reform Act of 2012
 - Rep. Kline, John [R-MN-2] (K000363)
 - Rep. Stearns, Cliff [R-FL-6] (S000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (5)
 
@@ -128,3 +129,4 @@ Federal Communications Commission Process Reform Act of 2012
 - 2012-03-27 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1627)
 - 2012-03-27 — The previous question was ordered pursuant to the rule. (consideration: CR H1626)
 - 2012-03-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2012-03-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
