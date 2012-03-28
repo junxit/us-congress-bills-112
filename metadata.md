@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 397
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 397
@@ -16,12 +16,17 @@ A resolution promoting peace and stability in Sudan, and for other purposes.
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Cosponsors (4)
+## Cosponsors (9)
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Menendez, Robert [D-NJ] (M000639)
 
 ## Committees (1)
 
@@ -31,3 +36,7 @@ A resolution promoting peace and stability in Sudan, and for other purposes.
 
 - 2012-03-15 — Introduced in Senate
 - 2012-03-15 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1740-1741)
+- 2012-03-27 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-03-28 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2012-03-28 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2012-03-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 350.
