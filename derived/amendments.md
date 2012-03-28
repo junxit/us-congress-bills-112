@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2779
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 1a(47) of the Commodity Exchange Act (7 U.S.C. 1a(47)), as added by section 721(a)(21) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3(a)(68) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(68)), as added by section 761(a)(6) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `7 U.S.C. § 1a` | add-at-end | Section 1a(47) of the Commodity Exchange Act (7 U.S.C. 1a(47)), as added by section 721(a)(21) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78c` | add-at-end | Section 3(a)(68) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(68)), as added by section 761(a)(6) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2779
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2779
@@ -63,3 +63,5 @@ To exempt inter-affiliate swaps from certain regulatory requirements put in plac
 - 2012-03-26 — Mr. Garrett moved to suspend the rules and pass the bill, as amended.
 - 2012-03-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 357 - 36 (Roll no. 127). (text: CR H1548-1549)
 - 2012-03-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 357 - 36 (Roll no. 127).(text: CR H1548-1549)
+- 2012-03-27 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-03-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 343.
