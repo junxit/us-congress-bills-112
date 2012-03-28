@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 597
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 597
@@ -20,6 +20,11 @@ Providing for consideration of the concurrent resolution (H. Con. Res. 112) esta
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2012-03-28 — [House 112-2-139](votes/house-112-2-0139.md) — On Ordering the Previous Question — **Passed** (235–183)
+- 2012-03-28 — [House 112-2-140](votes/house-112-2-0140.md) — On Agreeing to the Resolution — **Passed** (241–184)
+
 ## Actions
 
 - 2012-03-27 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the concurrent resolution (H. Con. Res. 112) esta
 - 2012-03-27 — The House Committee on Rules reported an original measure, H. Rept. 112-423, by Mr. Woodall.
 - 2012-03-27 — The House Committee on Rules reported an original measure, H. Rept. 112-423, by Mr. Woodall.
 - 2012-03-27 — The first reading of the concurrent resolution shall be dispensed with. All points of order against consideration of the concurrent resolution are waived. No amendment shall be in order except those printed in the report of the Committee on Rules accompanying this resolution. Each amendment may be offered only in the order printed in the report, may be offered only by a Member designated in the report, shall be considered as read, and shall be debatable for the time specified in the report equally divided and controlled by the proponent and an opponent. All points of order against such amendments are waived except that the adoption of an amendment in the nature of a substitute shall constitute the conclusion of consideration of the concurrent resolution for amendment. It shall be in order at any time on the legislative day of March 29, 2012, for the Speaker to entertain motions that the House suspend the rules, as though under clause 1 of rule XV, relating to a measure extending expiring surface transportation authority.
+- 2012-03-28 — Considered as privileged matter. (consideration: CR H1654-1662, H1663-1664)
+- 2012-03-28 — DEBATE - The House proceeded with one hour of debate on H. Res. 597.
+- 2012-03-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-03-28 — On agreeing to the resolution Agreed to by the Yeas and Nays: 241 - 184 (Roll no. 140). (text: CR H1654)
+- 2012-03-28 — On ordering the previous question Agreed to by the Yeas and Nays: 235 - 183 (Roll no. 139). (consideration: CR H1662)
+- 2012-03-28 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 241 - 184 (Roll no. 140).(text: CR H1654)
