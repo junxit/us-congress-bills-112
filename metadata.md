@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 395
 congress: 112
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 395
@@ -34,3 +34,5 @@ A resolution expressing the sense of the Senate in support of the North Atlantic
 - 2012-03-28 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with an amended preamble. Without written report.
 - 2012-03-28 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with an amended preamble. Without written report.
 - 2012-03-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 349.
+- 2012-03-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote.(consideration: CR S2279-2280; text of measure as reported in Senate: CR S2279; text as passed Senate: CR S2279-2280)
+- 2012-03-29 — Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote. (consideration: CR S2279-2280; text of measure as reported in Senate: CR S2279; text as passed Senate: CR S2279-2280)
