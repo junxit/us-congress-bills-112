@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2297
 congress: 112
-version: Engrossed Amendment Senate
+version: Reported to Senate
 ---
 
 # H.R. 2297
