@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2297
 congress: 112
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2297
@@ -50,3 +50,15 @@ To promote the development of the Southwest waterfront in the District of Columb
 - 2012-03-29 — Senate amendment agreed to: Amendment SA 1998 agreed to in Senate by Unanimous Consent.
 - 2012-03-29 — Senate amendment proposed (on the floor): Amendment SA 1998 proposed by Senator Reid for Senator Lieberman.(consideration: CR S2275; text: CR S2275)
 - 2012-03-29 — Senate amendment submitted
+- 2012-03-30 — Message on Senate action sent to the House.
+- 2012-06-26 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 2297.
+- 2012-06-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-26 — Mr. Farenthold moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H4001-4003)
+- 2012-06-26 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H4001-4002)
+- 2012-06-26 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H4001-4002)
+- 2012-06-29 — Presented to President.
+- 2012-06-29 — Presented to President.
+- 2012-07-09 — Became Public Law No: 112-143.
+- 2012-07-09 — Became Public Law No: 112-143.
+- 2012-07-09 — Signed by President.
+- 2012-07-09 — Signed by President.

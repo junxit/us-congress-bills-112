@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 2297
-congress: 112th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2297
@@ -38,3 +38,8 @@ The Act entitled “An Act Authorizing the Commissioners of the District of Colu
 
 - **(a)** *In general* Except as provided in subsection (b), nothing in this Act or any amendment made by this Act authorizes the removal, destruction, or obstruction of the Maine Lobsterman Memorial which is located near Maine Avenue in the District of Columbia as of the date of enactment of this Act.
 - **(b)** *Movement of memorial* The Maine Lobsterman Memorial referred to in subsection (a) may be moved from its location as of the date of the enactment of this Act to another location on the Southwest waterfront near Maine Avenue in the District of Columbia if at that location there would be a clear, unimpeded pedestrian pathway and line of sight from the Memorial to the water.
+
+## § 4. Project for navigation, Washington Channel, District of Columbia
+
+- **(a)** *In general* The portion of the project for navigation of the Corps of Engineers at Potomac River, Washington Channel, District of Columbia, as authorized by the Act of August 30, 1935 (chapter 831; 49 Stat. 1028), and described in subsection (b), is deauthorized.
+- **(b)** *Description of project* The deauthorized portion of the project for navigation is as follows: Beginning at Washington Harbor Channel Geometry Centerline of the 400-foot-wide main navigational ship channel, Centerline Station No. 103+73.12, coordinates North 441948.20, East 1303969.30, as stated and depicted on the Condition Survey Anacostia, Virginia, Washington and Magazine Bar Shoal Channels, Washington, D.C., Sheet 6 of 6, prepared by the United States Army Corps of Engineers, Baltimore district, July 2007; thence departing the aforementioned centerline traveling the following courses and distances: N. 40 degrees 10 minutes 45 seconds E., 200.00 feet to a point, on the outline of said 400-foot-wide channel thence binding on said outline the following 3 courses and distances: S. 49 degrees 49 minutes 15 seconds E., 1,507.86 feet to a point, thence; S. 29 degrees 44 minutes 42 seconds E., 2,083.17 feet to a point, thence; S. 11 degrees 27 minutes 04 seconds E., 363.00 feet to a point, thence; S. 78 degrees 32 minutes 56 seconds W., 200.00 feet to a point binding on the centerline of the 400-foot-wide main navigational channel at computed Centerline Station No. 65+54.31, coordinates North 438923.9874, East 1306159.9738, thence; continuing with the aforementioned centerline the following courses and distances: N. 11 degrees 27 minutes 04 seconds W., 330.80 feet to a point, Centerline Station No. 68+85.10, thence; N. 29 degrees 44 minutes 42 seconds W., 2,015.56 feet to a point, Centerline Station No. 89+00.67, thence; N. 49 degrees 49 minutes 15 seconds W., 1,472.26 feet to the point of beginning, the area in total containing a computed area of 777,284 square feet or 17.84399 acres of riparian water way.
