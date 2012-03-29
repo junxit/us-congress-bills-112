@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4281
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4281
@@ -57,3 +57,7 @@ Surface Transportation Extension Act of 2012
 - 2012-03-29 — Rule H. Res. 600 passed House.
 - 2012-03-29 — Rule provides for consideration of H.R. 4281 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution waives clause 6(a) of rule XIII requiring a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House.
 - 2012-03-29 — The previous question was ordered pursuant to the rule. (consideration: CR H1761)
+- 2012-03-30 — Became Public Law No: 112-102.
+- 2012-03-30 — Became Public Law No: 112-102.
+- 2012-03-30 — Signed by President.
+- 2012-03-30 — Signed by President.
