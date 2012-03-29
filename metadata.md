@@ -1,7 +1,7 @@
 ---
 measure: S. 2159
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2159
@@ -16,9 +16,14 @@ A bill to extend the authorization of the Drug-Free Communities Support Program 
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (1)
+## Cosponsors (6)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Kohl, Herb [D-WI] (K000305)
 
 ## Committees (1)
 
@@ -29,3 +34,7 @@ A bill to extend the authorization of the Drug-Free Communities Support Program 
 - 2012-03-06 — Introduced in Senate
 - 2012-03-06 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S1424)
 - 2012-03-06 — Sponsor introductory remarks on measure. (CR S1423-1424)
+- 2012-03-29 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-03-29 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2012-03-29 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2012-03-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 351.
