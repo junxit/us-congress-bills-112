@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 391
 congress: 112
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 391
@@ -40,3 +40,5 @@ A resolution condemning violence by the Government of Syria against journalists,
 - 2012-03-28 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with an amended preamble. Without written report.
 - 2012-03-28 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with an amended preamble. Without written report.
 - 2012-03-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 348.
+- 2012-03-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote.(consideration: CR S2278-2279; text of measure as reported in Senate: CR S2278; text as passed Senate: CR S2278-2279)
+- 2012-03-29 — Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote. (consideration: CR S2278-2279; text of measure as reported in Senate: CR S2278; text as passed Senate: CR S2278-2279)

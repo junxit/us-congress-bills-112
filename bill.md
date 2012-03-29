@@ -11,7 +11,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas United Nations Security Council Resolution 1738 (2006) obliges states to ensure the safety of journalists in war zones;
 - Whereas United Nations Security Council Resolution 1738 (2006) stresses the obligations of states under international law to ensure the safety of journalists in war zones;
 - Whereas, since the uprisings in Syria began in January 2011, the Government of Syria has denied entry to foreign journalists and arrested, abducted, beaten, tortured, and killed journalists, photographers, and bloggers to prevent the free flow of accurate information to the outside world;
 - Whereas restrictions imposed by the Government of Syria on media have made it extraordinarily difficult to verify death tolls and the exact nature and course of events within the country;
