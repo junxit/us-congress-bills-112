@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 80
 congress: 112
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 80
@@ -62,3 +62,11 @@ A resolution condemning the Government of Iran for its state-sponsored persecuti
 - 2012-03-28 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2012-03-28 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2012-03-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 345.
+- 2012-03-29 — Amendment SA 1999 agreed to in Senate by Unanimous Consent.
+- 2012-03-29 — Amendment SA 1999 proposed by Senator Reid for Senator Paul. (consideration: CR S2276; text: CR S2276) Of a perfecting nature.
+- 2012-03-29 — Measure laid before Senate by unanimous consent. (consideration: CR S2276)
+- 2012-03-29 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Voice Vote.(text: CR S2276)
+- 2012-03-29 — Resolution agreed to in Senate with an amendment and with a preamble by Voice Vote. (text: CR S2276)
+- 2012-03-29 — Senate amendment agreed to: Amendment SA 1999 agreed to in Senate by Unanimous Consent.
+- 2012-03-29 — Senate amendment proposed (on the floor): Amendment SA 1999 proposed by Senator Reid for Senator Paul.(consideration: CR S2276; text: CR S2276)
+- 2012-03-29 — Senate amendment submitted
