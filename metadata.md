@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1339
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1339
@@ -160,3 +160,14 @@ To designate the City of Salem, Massachusetts, as the Birthplace of the National
 - 2012-03-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 6, 4 Present (Roll no. 141).(text: CR H1652)
 - 2012-03-28 — The title of the measure was amended. Agreed to without objection.
 - 2012-03-29 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
+- 2012-12-21 — Passed Senate without amendment by Unanimous Consent.
+- 2012-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-12-21 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S8377)
+- 2012-12-21 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S8377)
+- 2012-12-27 — Message on Senate action sent to the House.
+- 2012-12-31 — Presented to President.
+- 2012-12-31 — Presented to President.
+- 2013-01-10 — Became Public Law No: 112-241.
+- 2013-01-10 — Became Public Law No: 112-241.
+- 2013-01-10 — Signed by President.
+- 2013-01-10 — Signed by President.
