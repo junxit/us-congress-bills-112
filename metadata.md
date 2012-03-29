@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1339
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1339
@@ -135,9 +135,10 @@ To designate the City of Salem, Massachusetts, as the Birthplace of the National
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 - Rep. Culberson, John Abney [R-TX-7] (C001048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (1)
 
@@ -158,3 +159,4 @@ To designate the City of Salem, Massachusetts, as the Birthplace of the National
 - 2012-03-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 6, 4 Present (Roll no. 141). (text: CR H1652)
 - 2012-03-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 6, 4 Present (Roll no. 141).(text: CR H1652)
 - 2012-03-28 — The title of the measure was amended. Agreed to without objection.
+- 2012-03-29 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
