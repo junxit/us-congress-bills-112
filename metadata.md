@@ -1,0 +1,31 @@
+---
+measure: S. 2251
+congress: 112
+version: Introduced in Senate
+---
+
+# S. 2251
+
+A bill to designate the United States courthouse located at 709 West 9th Street, Juneau, Alaska, as the Robert Boochever United States Courthouse.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Begich, Mark [D-AK] (B001265)
+
+## Cosponsors (1)
+
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+
+## Committees (1)
+
+- Senate — Environment and Public Works Committee
+
+## Actions
+
+- 2012-03-29 — Introduced in Senate
+- 2012-03-29 — Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S2246)
+- 2012-03-29 — Sponsor introductory remarks on measure. (CR S2246)
