@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2297
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2297
@@ -38,3 +38,15 @@ To promote the development of the Southwest waterfront in the District of Columb
 - 2011-12-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8160)
 - 2011-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8160)
 - 2011-12-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2011-12-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2012-03-29 — Amendment SA 1998 agreed to in Senate by Unanimous Consent.
+- 2012-03-29 — Amendment SA 1998 proposed by Senator Reid for Senator Lieberman. (consideration: CR S2275; text: CR S2275) To deauthorize a portion of the project for navigation of the Corps of Engineers at Potomac River, Washington Channel, District of Columbia.
+- 2012-03-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 112-154.
+- 2012-03-29 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 112-154.
+- 2012-03-29 — Measure laid before Senate by unanimous consent. (consideration: CR S2275)
+- 2012-03-29 — Passed Senate with an amendment by Unanimous Consent. (text: CR S2275)
+- 2012-03-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S2275)
+- 2012-03-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 352.
+- 2012-03-29 — Senate amendment agreed to: Amendment SA 1998 agreed to in Senate by Unanimous Consent.
+- 2012-03-29 — Senate amendment proposed (on the floor): Amendment SA 1998 proposed by Senator Reid for Senator Lieberman.(consideration: CR S2275; text: CR S2275)
+- 2012-03-29 — Senate amendment submitted
