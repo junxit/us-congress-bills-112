@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Part VI of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Part VI of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | replace | Section 56(d)(1)(A) of such Code is amended by striking “deduction under section 199” both places it appears and inserting “deductions under sections 199 and 200”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 56(g)(4)(C) of such Code is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | insert | The following provisions of such Code are each amended by inserting “200,” after “199,”. | the bill names no machine-readable US Code section |

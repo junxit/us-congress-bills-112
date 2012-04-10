@@ -45,9 +45,9 @@ This Act may be cited as the “Small Business Tax Cut Act”.
   >       - **(ii)** such term shall not include any amount which is not properly included in a return filed with the Social Security Administration on or before the 60th day after the due date (including extensions) for such return.
   >   - **(4)** *Certain partnership distributions treated as W–2 wages*
   >     - **(A)** *In general* In the case of a qualified small business which is a partnership and elects the application of this paragraph for the taxable year—
-  >       - **(i)** the qualified domestic business taxable income of such partnership for such taxable year (determined after the application of subparagraph (B)) which is allocable under rules similar to the rules of section 199(d)(1)(A)(ii) to each qualified service-providing partner shall be treated for purposes of this section as W–2 wages paid during such taxable year to such partner as an employee, and
+  >       - **(i)** the qualified domestic business taxable income of such partnership for such taxable year (determined after the application of clause (ii)) which is allocable under rules similar to the rules of section 199(d)(1)(A)(ii) to each qualified service-providing partner shall be treated for purposes of this section as W–2 wages paid during such taxable year to such partner as an employee, and
   >       - **(ii)** the domestic business gross receipts of such partnership for such taxable year shall be reduced by the amount so treated.
-  >     - **(B)** *Qualified service-providing partner* For purposes of this paragraph, the term qualified service-providing partner means any partner who is a 10-percent-or-less direct owner and who provides services to the partnership.
+  >     - **(B)** *Qualified service-providing partner* For purposes of this paragraph, the term qualified service-providing partner means, with respect to any qualified domestic business taxable income, any partner who is a 10-percent-or-less direct owner and who materially participates in the trade or business to which such income relates.
   >   - **(5)** *Acquisitions and dispositions* The Secretary shall provide for the application of this subsection in cases where the taxpayer acquires, or disposes of, the major portion of a trade or business or the major portion of a separate unit of a trade or business during the taxable year.
   > - **(c)** *Qualified domestic business income* For purposes of this section—
   >   - **(1)** *In general* The term qualified domestic business income for any taxable year means an amount equal to the excess (if any) of—
@@ -99,7 +99,7 @@ This Act may be cited as the “Small Business Tax Cut Act”.
     - **(C)** Section 137(b)(3)(A).
     - **(D)** Section 219(g)(3)(A)(ii).
     - **(E)** Section 221(b)(2)(C)(i).
-    - **(F)** Section 222 (b)(2)(C)(i).
+    - **(F)** Section 222(b)(2)(C)(i).
     - **(G)** Section 246(b)(1).
     - **(H)** Section 469(i)(3)(F)(iii).
   - **(4)** Section 163(j)(6)(A)(i) of such Code is amended by striking “and” at the end of subclause (III) and by inserting after subclause (IV) the following new subclause:
