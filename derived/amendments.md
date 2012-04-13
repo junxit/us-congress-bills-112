@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4089
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 1374` | amend | Section 104(c)(5)(D) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1374(c)(5)(D)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 104(c)(5)(D) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1374(c)(5)(D)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in clause (v), by striking “, and” and inserting “, or any component of any such article including, without limitation, shot, bullets and other projectiles, propellants, and primers,”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (vi) by striking the period at the end and inserting “, and”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (vi) the following: | the bill names no machine-readable US Code section |
