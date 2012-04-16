@@ -1,7 +1,7 @@
 ---
 measure: S. 684
 congress: 112
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 684
@@ -35,3 +35,11 @@ A bill to provide for the conveyance of certain parcels of land to the town of A
 - 2011-11-03 — Message on Senate action sent to the House.
 - 2011-11-03 — Received in the House.
 - 2011-11-03 — Referred to the House Committee on Natural Resources.
+- 2011-11-04 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2011-12-02 — Subcommittee Hearings Held.
+- 2012-02-29 — Committee Consideration and Mark-up Session Held.
+- 2012-02-29 — Ordered to be Reported by Voice Vote.
+- 2012-02-29 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-04-16 — Placed on the Union Calendar, Calendar No. 301.
+- 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-434.
+- 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-434.
