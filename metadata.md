@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 112
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.Con.Res. 112
@@ -16,9 +16,10 @@ Establishing the budget for the United States Government for fiscal year 2013 an
 
 - Rep. Ryan, Paul [R-WI-1] (R000570)
 
-## Committees (1)
+## Committees (2)
 
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (7)
 
@@ -118,3 +119,7 @@ Establishing the budget for the United States Government for fiscal year 2013 an
 - 2012-03-29 — The House rose from the Committee of the Whole House on the state of the Union to report H. Con. Res. 112.
 - 2012-03-29 — The previous question was ordered pursuant to the rule. (consideration: CR H1794)
 - 2012-03-29 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of the Honda amendment in the nature of a substitute, which had been debated on earlier and on which further proceedings had been postponed.
+- 2012-04-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 354.
+- 2012-04-16 — Received in the Senate and referred to the Committee on the Budget.
+- 2012-04-16 — Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.
+- 2012-04-16 — Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.
