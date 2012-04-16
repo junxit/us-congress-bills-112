@@ -1,7 +1,7 @@
 ---
 measure: S. 292
 congress: 112
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 292
@@ -40,3 +40,11 @@ Salmon Lake Land Selection Resolution Act
 - 2011-10-19 — Message on Senate action sent to the House.
 - 2011-10-21 — Received in the House.
 - 2011-10-21 — Referred to the House Committee on Natural Resources.
+- 2011-10-24 — Referred to the Subcommittee Indian and Alaska Native Affairs.
+- 2012-01-25 — Subcommittee Hearings Held.
+- 2012-02-29 — Committee Consideration and Mark-up Session Held.
+- 2012-02-29 — Ordered to be Reported by Voice Vote.
+- 2012-02-29 — Subcommittee Indian and Alaska Native Affairs Discharged.
+- 2012-04-16 — Placed on the Union Calendar, Calendar No. 295.
+- 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-428.
+- 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-428.
