@@ -1,7 +1,7 @@
 ---
 measure: S. 271
 congress: 112
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 271
@@ -48,3 +48,17 @@ Wallowa Forest Service Compound Conveyance Act
 - 2012-04-16 — Placed on the Union Calendar, Calendar No. 299.
 - 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-432.
 - 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-432.
+- 2012-07-31 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lamborn objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2012-07-31 — Considered under suspension of the rules. (consideration: CR H5438-5439)
+- 2012-07-31 — DEBATE - The House proceeded with forty minutes of debate on S. 271.
+- 2012-07-31 — Mr. Lamborn moved to suspend the rules and pass the bill.
+- 2012-08-01 — Considered as unfinished business. (consideration: CR H5618)
+- 2012-08-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-08-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/31/2012 H5438)
+- 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/31/2012 H5438)
+- 2012-08-03 — Presented to President.
+- 2012-08-03 — Presented to President.
+- 2012-08-10 — Became Public Law No: 112-165.
+- 2012-08-10 — Became Public Law No: 112-165.
+- 2012-08-10 — Signed by President.
+- 2012-08-10 — Signed by President.
