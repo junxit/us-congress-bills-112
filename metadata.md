@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 112
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5
@@ -255,3 +255,4 @@ Protecting Access to Healthcare Act
 - 2012-03-27 — Senate returned papers to House by Unanimous Consent.
 - 2012-03-28 — Message on Senate action sent to the House.
 - 2012-03-29 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-04-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 353.
