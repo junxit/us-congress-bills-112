@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2938
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -33,4 +33,8 @@ Congress finds the following:
 
 ## § 3. Gaming clarification
 
-Section 6(d) of Public Law 99–503 is amended by inserting “except that no class II gaming or class III gaming activities, as defined in section 4 of the Indian Gaming Regulatory Act (25 U.S.C. 2703), may be conducted on such land” after “shall be deemed to be a Federal Indian Reservation for all purposes”.
+Section 6(d) of Public Law 99–503 is amended by inserting “except that no class II or class III gaming activities, as defined in section 4 of the Indian Gaming Regulatory Act (25 U.S.C. 2703), may be conducted on such land if such land is located north of latitude 33 degrees, 4 minutes north” after “shall be deemed to be a Federal Indian Reservation for all purposes”.
+
+## § 4. No effect
+
+The limitation on gaming set forth in the amendment made by section 3 shall have no effect on any interpretation, determination, or decision to be made by any court, administrative agency or department, or other body as to whether any lands located south of latitude 33 degrees, 4 minutes north taken into trust pursuant to this Act qualify as lands taken into trust as part of a settlement of a land claim for purposes of title 25 U.S.C. 2719(b).
