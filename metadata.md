@@ -1,7 +1,7 @@
 ---
 measure: S. 897
 congress: 112
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 897
@@ -43,3 +43,10 @@ A bill to amend the Surface Mining Control and Reclamation Act of 1977 to clarif
 - 2011-11-03 — Message on Senate action sent to the House.
 - 2011-11-03 — Received in the House.
 - 2011-11-03 — Referred to the House Committee on Natural Resources.
+- 2011-11-04 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2012-02-29 — Committee Consideration and Mark-up Session Held.
+- 2012-02-29 — Ordered to be Reported by Voice Vote.
+- 2012-02-29 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2012-04-16 — Placed on the Union Calendar, Calendar No. 296.
+- 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-429.
+- 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-429.
