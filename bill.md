@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2060
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,14 +20,15 @@ Section 3(a)(72) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)(72)) is am
 - **(1)** By striking “15-mile” and inserting “14.75-mile”.
 - **(2)** In subparagraph (B)—
   - **(A)** by striking “8-mile” and all that follows through “Bowman Dam” and inserting “7.75-mile segment from a point one-quarter mile downstream from the toe of Bowman Dam”; and
-  - **(B)** by adding at the end the following: “The developer for any hydropower development, including turbines and appurtenant facilities, at Bowman Dam, in consultation with the Bureau of Land Management, shall analyze any impacts to the Outstandingly Remarkable Values of the Wild and Scenic River that may be caused by such development, including the future need to undertake routine and emergency repairs, and shall propose mitigation for these any impacts as part of any license application submitted to the Federal Energy Regulatory Commission.”.
+  - **(B)** by adding at the end the following: “The developer for any hydropower development, including turbines and appurtenant facilities, at Bowman Dam, in consultation with the Bureau of Land Management, shall analyze any impacts to the Outstandingly Remarkable Values of the Wild and Scenic River that may be caused by such development, including the future need to undertake routine and emergency repairs, and shall propose mitigation for any impacts as part of any license application submitted to the Federal Energy Regulatory Commission.”.
 
 ## § 3. City of Prineville Water Supply
 
 Section 4 of the Act of August 6, 1956 (70 Stat. 1058), (as amended by the Acts of September 14, 1959 (73 Stat. 554), and September 18, 1964 (78 Stat. 954)) is further amended as follows:
 
-- **(1)** By striking “ten cubic feet” both places it appears and inserting “17 cubic feet”.
-- **(2)** By adding at the end the following: “The cost of facilities, and the costs of operating and maintaining the same, as properly allocable to this minimum release shall be nonreturnable and nonreimbursable under Federal reclamation laws. Without further action by the Secretary, seven of the 17 cubic feet per second minimum release shall also serve as mitigation for City of Prineville groundwater pumping, pursuant to and in a manner consistent with Oregon State law. As such, the Secretary is authorized to make applications to the State of Oregon in conjunction with the City to protect these supplies instream. If the State of Oregon does not allow for use of the released water to serve as mitigation, then at the request of the City, the Secretary shall provide the City up to seven cubic feet per second of the minimum release for municipal purposes. The Secretary is authorized to contract exclusively with the City for additional amounts in the future at the request of the City.”.
+- **(1)** By striking “ten cubic feet” the first place it appears and inserting “17 cubic feet”.
+- **(2)** By striking “during those months when there is no other discharge therefrom, but this release may be reduced for brief temporary periods by the Secretary whenever he may find that release of the full ten cubic feet per second is harmful to the primary purpose of the project”.
+- **(3)** By adding at the end the following: “Without further action by the Secretary, and as determined necessary for any given year by the City of Prineville, up to seven of the 17 cubic feet per second minimum release shall also serve as mitigation for City of Prineville groundwater pumping, pursuant to and in a manner consistent with Oregon State law, including any shaping of the release of the up to seven cubic feet per second to coincide with City of Prineville groundwater pumping as may be required by the State of Oregon. As such, the Secretary is authorized to make applications to the State of Oregon in conjunction with the City to protect these supplies instream. The City shall make payment to the Secretary for that portion of the minimum release that actually serves as mitigation pursuant to Oregon State law for the City in any given year, with the payment for any given year equal to the amount of mitigation in acre feet required to offset actual City groundwater pumping for that year in accordance with Reclamation “Water and Related Contract and Repayment Principles and Requirements”, Reclamation Manual Directives and Standards PEC 05–01, dated 09/12/2006, and guided by “Economic and Environmental Principles and Guidelines for Water and Related Land Resources Implementation Studies”, dated March 10, 1983. The Secretary is authorized to contract exclusively with the City for additional amounts in the future at the request of the City.”.
 
 ## § 4. First fill protection
 
@@ -37,7 +38,7 @@ The Act of August 6, 1956 (70 Stat. 1058), as amended by the Acts of September 1
 >
 > Other than the 17 cubic feet per second release provided for in section 4, and subject to compliance with the Army Corps of Engineers’ flood curve requirements, the Secretary shall, on a “first fill” priority basis, store in and release from Prineville Reservoir, whether from carryover, infill, or a combination thereof, the following:
 >
-> - **(1)** 68,273 acre feet of water annually to fulfill all 16 Bureau of Reclamation contracts existing as of January 1, 2011.
+> - **(1)** 68,273 acre feet of water annually to fulfill all 16 Bureau of Reclamation contracts existing as of January 1, 2011, and up to 2,740 acre feet of water annually to supply the McKay Creek lands as provided for in section 5 of this Act.
 > - **(2)** Not more than 10,000 acre feet of water annually, to be made available to the North Unit Irrigation District pursuant to a Temporary Water Service Contract, upon the request of the North Unit Irrigation District, consistent with the same terms and conditions as prior such contracts between the District and the Bureau of Reclamation.
 >
 > ## § 7.
@@ -46,7 +47,7 @@ The Act of August 6, 1956 (70 Stat. 1058), as amended by the Acts of September 1
 >
 > - **(1)** modifies contractual rights that may exist between contractors and the United States under Reclamation contracts;
 > - **(2)** amends or reopens contracts referred to in paragraph (1); or
-> - **(3)** modify any rights, obligations, or requirements that may be provided or governed by Oregon State law.
+> - **(3)** modifies any rights, obligations, or requirements that may be provided or governed by Oregon State law.
 
 ## § 5. Ochoco Irrigation District
 
@@ -56,8 +57,8 @@ The Act of August 6, 1956 (70 Stat. 1058), as amended by the Acts of September 1
   - **(1)** authorize the use of water for instream purposes, including fish or wildlife purposes, in order for the district to engage in, or take advantage of, conserved water projects and temporary instream leasing as authorized by Oregon State law;
   - **(2)** include within the district boundary approximately 2,742 acres in the vicinity of McKay Creek, resulting in a total of approximately 44,937 acres within the district boundary;
   - **(3)** classify as irrigable approximately 685 acres within the approximately 2,742 acres of included lands in the vicinity of McKay Creek, where the approximately 685 acres are authorized to receive irrigation water pursuant to water rights issued by the State of Oregon and have in the past received water pursuant to such State water rights; and
-  - **(4)** provide the district with stored water from Prineville Reservoir for purposes of supplying the approximately 685 acres of lands added within the district boundary under paragraph (2).
+  - **(4)** provide the district with stored water from Prineville Reservoir for purposes of supplying up to the approximately 685 acres of lands added within the district boundary and classified as irrigable under paragraphs (2) and (3), with such stored water to be supplied on an acre-per-acre basis contingent on the transfer of existing appurtenant McKay Creek water rights to instream use and the State’s issuance of water rights for the use of stored water.
 - **(d)** *Limitation* Except as otherwise provided in subsections (a) and (c), nothing in this section shall be construed to—
-  - **(1)** modify contractual rights that may exist between the District and the United States under the District’s Reclamation contracts;
+  - **(1)** modify contractual rights that may exist between the district and the United States under the district’s Reclamation contracts;
   - **(2)** amend or reopen the contracts referred to in paragraph (1); or
-  - **(3)** modify any rights, obligations or relationships that may exist between the District and its landowners as may be provided or governed by Oregon State law.
+  - **(3)** modify any rights, obligations or relationships that may exist between the district and its landowners as may be provided or governed by Oregon State law.
