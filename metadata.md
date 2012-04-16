@@ -1,7 +1,7 @@
 ---
 measure: S. 404
 congress: 112
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 404
@@ -35,3 +35,10 @@ A bill to modify a land grant patent issued by the Secretary of the Interior.
 - 2011-10-19 — Message on Senate action sent to the House.
 - 2011-10-21 — Received in the House.
 - 2011-10-21 — Referred to the House Committee on Natural Resources.
+- 2011-10-24 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2012-02-29 — Committee Consideration and Mark-up Session Held.
+- 2012-02-29 — Ordered to be Reported by Voice Vote.
+- 2012-02-29 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-04-16 — Placed on the Union Calendar, Calendar No. 300.
+- 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-433.
+- 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-433.
