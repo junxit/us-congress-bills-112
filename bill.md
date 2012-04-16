@@ -1,7 +1,7 @@
 ---
 legis-num: S. 271
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -33,4 +33,4 @@ This Act may be cited as the â€œWallowa Forest Service Compound Conveyance Actâ€
   - **(2)** ensure that the Wallowa Forest Service Compound is managed by a nonprofit entity;
   - **(3)** agree to manage the Wallowa Forest Service Compound with due consideration and protection for the historic values of the Wallowa Forest Service Compound; and
   - **(4)** pay the reasonable administrative costs associated with the conveyance.
-- **(e)** *Reversion* In the quitclaim deed to the City, the Secretary shall provide that the Wallowa Forest Service Compound shall revert to the Secretary, at the electionof the Secretary, if any of the conditions under subsection (c) or (d) are violated.
+- **(e)** *Reversion* In the quitclaim deed to the City, the Secretary shall provide that the Wallowa Forest Service Compound shall revert to the Secretary, at the election of the Secretary, if any of the conditions under subsection (c) or (d) are violated.
