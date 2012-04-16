@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2050
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2050
@@ -25,3 +25,11 @@ Idaho Wilderness Water Resources Protection Act
 - 2011-05-26 — Introduced in House
 - 2011-05-26 — Introduced in House
 - 2011-05-26 — Referred to the House Committee on Natural Resources.
+- 2011-06-03 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2011-10-25 — Subcommittee Hearings Held.
+- 2012-02-29 — Committee Consideration and Mark-up Session Held.
+- 2012-02-29 — Ordered to be Reported by Voice Vote.
+- 2012-02-29 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-04-16 — Placed on the Union Calendar, Calendar No. 304.
+- 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-437.
+- 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-437.
