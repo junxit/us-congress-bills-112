@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1038
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1038
@@ -25,3 +25,11 @@ To authorize the conveyance of two small parcels of land within the boundaries o
 - 2011-03-11 — Introduced in House
 - 2011-03-11 — Introduced in House
 - 2011-03-11 — Referred to the House Committee on Natural Resources.
+- 2011-03-14 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2011-12-02 — Subcommittee Hearings Held.
+- 2012-02-29 — Committee Consideration and Mark-up Session Held.
+- 2012-02-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2012-02-29 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-04-16 — Placed on the Union Calendar, Calendar No. 303.
+- 2012-04-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-436.
+- 2012-04-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-436.

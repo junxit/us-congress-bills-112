@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1038
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,7 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(c)** *Consideration*
   - **(1)** *Amount of consideration* As consideration for the conveyance of the two parcels under subsection (a), the person or legal entity that represents (by power of attorney) the majority of landowners with private property adjacent to the parcels shall pay to the Secretary consideration in the amount of $20,000.
   - **(2)** *Deposit* The Secretary shall deposit the consideration received under this subsection in a special account in the fund established under Public Law 90–171 (commonly known as the Sisk Act; 16 U.S.C. 484a).
-  - **(3)** *Use* The deposited funds shall be available to the Secretary, without further appropriation and until expended, for acquisition of land in the State of Arizona for addition to the National Forest System.
+  - **(3)** *Use* The deposited funds shall be available to the Secretary, without further appropriation and until expended, for acquisition of land in the National Forest System.
 - **(d)** *Revocation of orders* Any public orders withdrawing any of the Federal land from appropriation or disposal under the public land laws are revoked to the extent necessary to permit conveyance of the Federal land under subsection (a).
 - **(e)** *Withdrawal of Federal land* Subject to valid existing rights, the Federal land authorized for conveyance under subsection (a) is withdrawn from all forms of entry and appropriation under the public land laws, location, entry, and patent under the mining laws, and operation of the mineral leasing and geothermal leasing laws until the date which the conveyance is completed.
 - **(f)** *Other terms and conditions* The conveyance authorized by subsection (a) shall be subject only to those surveys and clearances as needed to protect the interests of the United States.
