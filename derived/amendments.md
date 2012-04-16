@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3310
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-42 amendatory instructions. 0 executed, 42 stated and not applied.
+41 amendatory instructions. 0 executed, 41 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,18 +31,18 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | repeal | Section 646 of the Communications Satellite Act of 1962 (47 U.S.C. 765e; 114 Stat. 57) is repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Section 4 of Public Law 109–34 (47 U.S.C. 703) is repealed. | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (b); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (c) through (e) as subsections (b) through (d), respectively. | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (g); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (j) as subsection (g). | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (g); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (j) as subsection (g); and | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (k); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (l) through (n) as subsections (k) through (m), respectively. | the bill names no machine-readable US Code section |
 | — | replace | Section 613(a)(3) of the Communications Act of 1934 (47 U.S.C. 533(a)(3)) is amended by striking “623(l)” and inserting “623(k)”. | the bill names no machine-readable US Code section |
 | — | strike | Section 257 of the Communications Act of 1934 (47 U.S.C. 257) is amended by striking subsection (c). | the bill names no machine-readable US Code section |
-| — | replace | in the last sentence, by striking “If the Commission's determination is negative, it” and inserting “If the Commission determines in its report under section 13 of the Communications Act of 1934 that advanced telecommunications capabilit… | the bill names no machine-readable US Code section |
+| — | replace | in the last sentence, by striking “If the Commission's determination is negative, it” and inserting “If the Commission determines in its report under section 14 of the Communications Act of 1934 that advanced telecommunications capabilit… | the bill names no machine-readable US Code section |
 | — | strike | by striking the first and second sentences; | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (c); | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d), by striking “this subsection” and inserting “this section”; and | the bill names no machine-readable US Code section |
@@ -52,8 +52,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subsections (l) through (o) as subsections (k) through (n), respectively. | the bill names no machine-readable US Code section |
 | — | replace | in section 9(i), by striking “In the Commission’s annual report, the Commission shall prepare an analysis of its progress in developing such systems and” and inserting “The Commission”; and | the bill names no machine-readable US Code section |
 | — | strike | in section 309(j)(8)(B), by striking the last sentence. | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “(i) The Commission” and inserting “The Commission”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking clause (ii); and | the bill names no machine-readable US Code section |
+| — | strike | in subsection (b)(2)(B)(ii), by striking “and shall furnish notice of such action” and all that follows through “subject of the waiver”; and | the bill names no machine-readable US Code section |
 | — | strike | in subsection (g), by striking paragraph (2); | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (b); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (c) as subsection (b); | the bill names no machine-readable US Code section |

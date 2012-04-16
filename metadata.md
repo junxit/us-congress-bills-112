@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3310
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3310
@@ -16,9 +16,17 @@ Federal Communications Commission Consolidated Reporting Act of 2012
 
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 
-## Cosponsors (1)
+## Cosponsors (9)
 
 - Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Bass, Charles F. [R-NH-2] (B000220)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Lance, Leonard [R-NJ-7] (L000567)
+- Rep. Kinzinger, Adam [R-IL-11] (K000378)
+- Rep. Stearns, Cliff [R-FL-6] (S000822)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
 
 ## Committees (1)
 
@@ -29,3 +37,12 @@ Federal Communications Commission Consolidated Reporting Act of 2012
 - 2011-11-02 — Introduced in House
 - 2011-11-02 — Introduced in House
 - 2011-11-02 — Referred to the House Committee on Energy and Commerce.
+- 2011-11-04 — Referred to the Subcommittee on Communications and Technology.
+- 2011-11-09 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2011-11-09 — Subcommittee Consideration and Mark-up Session Held.
+- 2012-03-05 — Committee Consideration and Mark-up Session Held.
+- 2012-03-06 — Committee Consideration and Mark-up Session Held.
+- 2012-03-06 — Ordered to be Reported (Amended) by Voice Vote.
+- 2012-04-16 — Placed on the Union Calendar, Calendar No. 310.
+- 2012-04-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-443.
+- 2012-04-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-443.

@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3310
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,15 +11,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Communications Commission Consolidated Reporting Act of 2011”.
+This Act may be cited as the “Federal Communications Commission Consolidated Reporting Act of 2012”.
 
 ## § 2. Communications marketplace report
 
 Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by adding at the end the following:
 
-> ## § 13. Communications marketplace report
+> ## § 14. Communications marketplace report
 >
-> - **(a)** *In general* In the last quarter of every even-numbered year, the Commission shall publish on its Web site and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the state of the communications marketplace.
+> - **(a)** *In general* In the last quarter of every even-numbered year, the Commission shall publish on its website and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the state of the communications marketplace.
 > - **(b)** *Contents* Each report required by subsection (a) shall—
 >   - **(1)** assess the state of competition in the communications marketplace, including competition to deliver voice, video, and data services among providers of telecommunications, providers of commercial mobile service (as defined in section 332), multichannel video programming distributors (as defined in section 602), broadcast stations, providers of satellite communications, Internet service providers, and other providers of communications services;
 >   - **(2)** assess the state of deployment of communications capabilities, including advanced telecommunications capability (as defined in section 706 of the Telecommunications Act of 1996 (47 U.S.C. 1302)), regardless of the technology used for such deployment, including whether advanced telecommunications capability is being deployed to all Americans in a reasonable and timely fashion;
@@ -27,9 +27,10 @@ Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by 
 >   - **(4)** describe the agenda of the Commission for the next 2-year period for addressing the challenges and opportunities in the communications marketplace that were identified through the assessments under paragraphs (1) through (3); and
 >   - **(5)** describe the actions that the Commission has taken in pursuit of the agenda described pursuant to paragraph (4) in the previous report submitted under this section.
 > - **(c)** *Special requirements*
->   - **(1)** *Assessing competition* In assessing the state of competition under subsection (b)(1), the Commission shall consider the effect of intermodal competition, facilities-based competition, and competition from new and emergent communications services, including the provision of content and communications using the Internet.
+>   - **(1)** *Assessing competition* In assessing the state of competition under subsection (b)(1), the Commission shall consider all forms of competition, including the effect of intermodal competition, facilities-based competition, and competition from new and emergent communications services, including the provision of content and communications using the Internet.
 >   - **(2)** *Assessing deployment* In assessing the state of deployment under subsection (b)(2), the Commission shall compile a list of geographical areas that are not served by any provider of advanced telecommunications capability.
 >   - **(3)** *International comparisons and demographic information* The Commission may use readily available data to draw appropriate comparisons between the United States communications marketplace and the international communications marketplace and to correlate its assessments with demographic information.
+>   - **(4)** *Considering small businesses* In assessing the state of competition under subsection (b)(1) and regulatory barriers under subsection (b)(3), the Commission shall consider market entry barriers for entrepreneurs and other small businesses in the communications marketplace in accordance with the national policy under section 257(b).
 
 ## § 3. Consolidation of redundant reports; conforming amendments
 
@@ -39,8 +40,9 @@ Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by 
   - **(1)** by striking subsection (b); and
   - **(2)** by redesignating subsections (c) through (e) as subsections (b) through (d), respectively.
 - **(d)** *Status of Competition in the Market for the Delivery of Video Programming Report* Section 628 of the Communications Act of 1934 (47 U.S.C. 548) is amended—
-  - **(1)** by striking subsection (g); and
-  - **(2)** by redesignating subsection (j) as subsection (g).
+  - **(1)** by striking subsection (g);
+  - **(2)** by redesignating subsection (j) as subsection (g); and
+  - **(3)** by transferring subsection (g) (as redesignated) so that it appears after subsection (f).
 - **(e)** *Report on Cable Industry Prices*
   - **(1)** *In general* Section 623 of the Communications Act of 1934 (47 U.S.C. 543) is amended—
     - **(A)** by striking subsection (k); and
@@ -49,7 +51,7 @@ Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by 
 - **(f)** *Triennial Report Identifying and Eliminating Market Entry Barriers for Entrepreneurs and Other Small Businesses* Section 257 of the Communications Act of 1934 (47 U.S.C. 257) is amended by striking subsection (c).
 - **(g)** *Section 706 Report* Section 706 of the Telecommunications Act of 1996 (47 U.S.C. 1302) is amended—
   - **(1)** in subsection (b)—
-    - **(A)** in the last sentence, by striking “If the Commission's determination is negative, it” and inserting “If the Commission determines in its report under section 13 of the Communications Act of 1934 that advanced telecommunications capability is not being deployed to all Americans in a reasonable and timely fashion, the Commission”; and
+    - **(A)** in the last sentence, by striking “If the Commission's determination is negative, it” and inserting “If the Commission determines in its report under section 14 of the Communications Act of 1934 that advanced telecommunications capability is not being deployed to all Americans in a reasonable and timely fashion, the Commission”; and
     - **(B)** by striking the first and second sentences;
   - **(2)** by striking subsection (c);
   - **(3)** in subsection (d), by striking “this subsection” and inserting “this section”; and
@@ -62,11 +64,9 @@ Title I of the Communications Act of 1934 (47 U.S.C. 151 et seq.) is amended by 
   - **(2)** *Conforming amendments* The Communications Act of 1934 is amended—
     - **(A)** in section 9(i), by striking “In the Commission’s annual report, the Commission shall prepare an analysis of its progress in developing such systems and” and inserting “The Commission”; and
     - **(B)** in section 309(j)(8)(B), by striking the last sentence.
-- **(j)** *Additional outdated reports* The Communications Act of 1934 is amended—
+- **(j)** *Additional outdated reports* The Communications Act of 1934 is further amended—
   - **(1)** in section 4—
-    - **(A)** in subsection (b)(2)(B)—
-      - **(i)** in clause (i), by striking “(i) The Commission” and inserting “The Commission”; and
-      - **(ii)** by striking clause (ii); and
+    - **(A)** in subsection (b)(2)(B)(ii), by striking “and shall furnish notice of such action” and all that follows through “subject of the waiver”; and
     - **(B)** in subsection (g), by striking paragraph (2);
   - **(2)** in section 215—
     - **(A)** by striking subsection (b); and
