@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1545
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -49,7 +49,7 @@ In this Act:
   - **(2)** any cooperative agreements entered into under subsection (b)(1).
 - **(b)** *Authorities of Secretary*
   - **(1)** *Cooperative Agreements* The Secretary may enter into cooperative management agreements with the University and the City, in accordance with section 3(l) of Public Law 91–383 (16 U.S.C. 1a–2(l)).
-  - **(2)** *Acquisition of land* The Secretary may acquire by donation from the City any land or interest in land owned by the City within the proposed boundary of the Monument.
+  - **(2)** *Acquisition of land* The Secretary may acquire by donation only from the City any land or interest in land owned by the City within the proposed boundary of the Monument.
 - **(c)** *General Management plan*
   - **(1)** *In general* Not later than 3 years after the date of enactment of this Act, the Secretary, in consultation with the University and the City, shall complete a general management plan for the Monument.
   - **(2)** *Inclusions* The management plan shall include, at a minimum—
@@ -71,7 +71,8 @@ In this Act:
 - **(g)** *Termination of national park system status*
   - **(1)** *In general* Designation of the Monument as a unit of the National Park System shall terminate if the Secretary determines that Federal funds are required to operate and maintain the Monument.
   - **(2)** *Reversion* If the designation of the Monument as a unit of the National Park System is terminated under paragraph (1), any land acquired by the Secretary from the City under subsection (b)(2) shall revert to the City.
+- **(h)** *Private property protection* No private property may be made part of the Monument without the written consent of the owner of that private property.
 
 ## § 6. No buffer zones
 
-Nothing in this Act, the establishment of national monument, or the management plan shall be construed create buffer zones outside of the national monument.
+Nothing in this Act, the establishment of national monument, or the management plan shall be construed create buffer zones outside of the national monument. That an activity or use can be seen or heard from within the Monument shall not preclude the conduct of that activity or use outside the Monument.
