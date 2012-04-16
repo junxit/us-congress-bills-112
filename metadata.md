@@ -1,7 +1,7 @@
 ---
 measure: H.R. 491
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 491
@@ -25,3 +25,11 @@ To modify the boundaries of Cibola National Forest in the State of New Mexico, t
 - 2011-01-26 — Introduced in House
 - 2011-01-26 — Introduced in House
 - 2011-01-26 — Referred to the House Committee on Natural Resources.
+- 2011-02-04 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2012-02-03 — Subcommittee Hearings Held.
+- 2012-02-29 — Committee Consideration and Mark-up Session Held.
+- 2012-02-29 — Ordered to be Reported by Voice Vote.
+- 2012-02-29 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-04-16 — Placed on the Union Calendar, Calendar No. 302.
+- 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-435.
+- 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-435.
