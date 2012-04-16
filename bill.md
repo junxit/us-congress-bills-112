@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 205
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Helping Expedite and Advance Responsible Tribal Home ownership Act of 2011” or the “HEARTH Act of 2011”.
+This Act may be cited as the “Helping Expedite and Advance Responsible Tribal Home Ownership Act of 2011” or the “HEARTH Act of 2011”.
 
 ## § 2. Approval of, and regulations related to, tribal leases
 
@@ -48,6 +48,8 @@ The first section of the Act titled “An Act to authorize the leasing of restri
   >         - **(II)** a process for ensuring that—
   >           - **(aa)** the public is informed of, and has a reasonable opportunity to comment on, any significant environmental impacts of the proposed action identified by the Indian tribe; and
   >           - **(bb)** the Indian tribe provides responses to relevant and substantive public comments on any such impacts before the Indian tribe approves the lease.
+  >     - **(C)** *Technical assistance* The Secretary may provide technical assistance, upon request of the Indian tribe, for development of a regulatory environmental review process under subparagraph (B)(ii).
+  >     - **(D)** *Indian self-determination act* The technical assistance to be provided by the Secretary pursuant to subparagraph (C) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act (25 U.S.C. 450 et seq).
   >   - **(4)** *Review process*
   >     - **(A)** *In general* Not later than 120 days after the date on which the tribal regulations described in paragraph (1) are submitted to the Secretary, the Secretary shall review and approve or disapprove the regulations.
   >     - **(B)** *Written documentation* If the Secretary disapproves the tribal regulations described in paragraph (1), the Secretary shall include written documentation with the disapproval notification that describes the basis for the disapproval.
@@ -69,3 +71,14 @@ The first section of the Act titled “An Act to authorize the leasing of restri
   >         - **(I)** a hearing that is on the record; and
   >         - **(II)** a reasonable opportunity to cure the alleged violation.
   >   - **(9)** *Savings clause* Nothing in this subsection shall affect subsection (e) or any tribal regulations issued under that subsection.
+
+## § 3. Land Title Reports
+
+- **(a)** *In general* The Bureau of Indian Affairs shall prepare and submit to the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate a report regarding the history and experience of Indian tribes that have chosen to assume responsibility for operating the Indian Land Title and Records Office (referred to in this section as the “LTRO”) functions from the Bureau of Indian Affairs.
+- **(b)** *Consultation* In conducting the review under subsection (a), the Bureau of Indian Affairs shall consult with the Department of Housing and Urban Development Office of Native American Programs and the Indian tribes that are managing LTRO functions (referred to in this section as the “managing Indian tribes”).
+- **(c)** *Contents* The review under subsection (a) shall include an analysis of the following factors:
+  - **(1)** Whether and how tribal management of the LTRO functions has expedited the processing and issuance of Indian land title certifications as compared to the period during which the Bureau of Indian Affairs managed the programs.
+  - **(2)** Whether and how tribal management of the LTRO functions has increased home ownership among the population of the managing Indian tribe.
+  - **(3)** What internal preparations and processes were required of the managing Indian tribes prior to assuming management of the LTRO functions.
+  - **(4)** Whether tribal management of the LTRO functions resulted in a transfer of financial resources and manpower from the Bureau of Indian Affairs to the managing Indian tribes and, if so, what transfers were undertaken.
+  - **(5)** Whether, in appropriate circumstances and with the approval of geographically proximate Indian tribes, the LTRO functions may be performed by a single Indian tribe or a tribal consortium in a cost effective manner.

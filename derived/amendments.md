@@ -1,7 +1,7 @@
 ---
 measure: H.R. 205
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -37,5 +37,5 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “the Navajo Nation”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “with Navajo Nation law” and inserting “with applicable tribal law”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | By adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | By adding at the end the following: | the bill names no machine-readable US Code section |
