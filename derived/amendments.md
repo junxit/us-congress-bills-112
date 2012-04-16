@@ -1,7 +1,7 @@
 ---
 measure: S. 404
 congress: 112
-version: Reported in House
+version: Enrolled Bill
 derived: true
 ---
 
