@@ -1,0 +1,44 @@
+---
+legis-num: H.R. 4362
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4362
+
+> To provide effective criminal prosecutions for certain identity thefts, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stopping Tax Offenders and Prosecuting Identity Theft Act of 2012” or the “STOP Identity Theft Act of 2012”.
+
+## § 2. Use of Department of Justice resources with regard to tax return identity theft
+
+- **(a)** *In general* The Attorney General should make use of all existing resources of the Department of Justice, including any appropriate task forces, to bring more perpetrators of tax return identity theft to justice.
+- **(b)** *Considerations To be taken into account* In carrying out this section, the Attorney General should take into account the following:
+  - **(1)** The need to concentrate efforts in those areas of the country where the crime is most frequently reported.
+  - **(2)** The need to coordinate with State and local authorities for the most efficient use of their laws and resources to prosecute and prevent the crime.
+  - **(3)** The need to protect vulnerable groups, such as veterans, seniors, and minors (especially foster children) from becoming victims or otherwise used in the offense.
+
+## § 3. Victims of identity theft may include organizations
+
+Section 1028(d)(7) of title 18, United States Code, is amended by striking “specific individual” and inserting “specific person”.
+
+## § 4. Tax fraud as a predicate for aggravated identity theft
+
+Section 1028A(c) of title 18, United States Code, is amended—
+
+- **(1)** in paragraph (10), by striking “or”;
+- **(2)** in paragraph (11), by striking the period at the end and inserting “; or”; and
+- **(3)** by adding at the end the following:
+  > - **(12)** section 7206 or 7207 of the Internal Revenue Code of 1986.
+
+## § 5. Reporting requirement
+
+- **(a)** *Generally* Beginning with the first report made more than 9 months after the date of the enactment of this Act under section 1116 of title 31, United States Code, the Attorney General shall include in such report the information described in subsection (b) of this section as to progress in implementing this Act and the amendments made by this Act.
+- **(b)** *Contents* The information referred to in subsection (a) is as follows:
+  - **(1)** Information readily available to the Department of Justice about trends in the incidence of tax return identity theft.
+  - **(2)** The effectiveness of statutory tools, including those provided by this Act, in aiding the Department of Justice in the prosecution of tax return identity theft.
+  - **(3)** Recommendations on additional statutory tools that would aid in removing barriers to effective prosecution of tax return identity theft.
+  - **(4)** The status on implementing the recommendations of the Department’s March 2010 Audit Report 10–21 entitled “The Department of Justice’s Efforts to Combat Identity Theft”.
