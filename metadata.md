@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3001
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3001
@@ -342,3 +342,4 @@ Raoul Wallenberg Centennial Celebration Act
 - 2012-04-16 — Mr. Luetkemeyer moved to suspend the rules and pass the bill.
 - 2012-04-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 0 (Roll no. 152). (text: CR H1814-1815)
 - 2012-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 0 (Roll no. 152).(text: CR H1814-1815)
+- 2012-04-17 — Received in the Senate, read twice.
