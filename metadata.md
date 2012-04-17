@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 37
 congress: 112
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.Con.Res. 37
@@ -34,3 +34,6 @@ A concurrent resolution setting forth the congressional budget for the United St
 
 - 2012-03-29 — Introduced in Senate
 - 2012-03-29 — Referred to the Committee on the Budget. (text of measure as introduced: CR S2259-2264)
+- 2012-04-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 356.
+- 2012-04-17 — Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.
+- 2012-04-17 — Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.
