@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4040
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4040
@@ -360,9 +360,10 @@ To provide for the award of a gold medal on behalf of Congress to Jack Nicklaus 
 - Rep. Flores, Bill [R-TX-17] (F000461)
 - Rep. Granger, Kay [R-TX-12] (G000377)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -382,3 +383,4 @@ To provide for the award of a gold medal on behalf of Congress to Jack Nicklaus 
 - 2012-04-16 — Mr. Luetkemeyer moved to suspend the rules and pass the bill.
 - 2012-04-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 4, 1 Present (Roll no. 153). (text: CR H1820-1821)
 - 2012-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 4, 1 Present (Roll no. 153).(text: CR H1820-1821)
+- 2012-04-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
