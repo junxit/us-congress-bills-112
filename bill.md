@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 4365
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4365
+
+> To amend title 5, United States Code, to make clear that accounts in the Thrift Savings Fund are subject to certain Federal tax levies.
+
+## § 1. Amendments
+
+Section 8437(e)(3) of title 5, United States Code, is amended in the first sentence—
+
+- **(1)** by striking “659)” and inserting “659),”; and
+- **(2)** by striking the period at the end and inserting the following: “, and shall be subject to a Federal tax levy under section 6331 of the Internal Revenue Code of 1986.”.
