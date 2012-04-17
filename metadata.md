@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3001
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3001
@@ -343,3 +343,12 @@ Raoul Wallenberg Centennial Celebration Act
 - 2012-04-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 0 (Roll no. 152). (text: CR H1814-1815)
 - 2012-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 0 (Roll no. 152).(text: CR H1814-1815)
 - 2012-04-17 — Received in the Senate, read twice.
+- 2012-07-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4916)
+- 2012-07-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4916)
+- 2012-07-12 — Message on Senate action sent to the House.
+- 2012-07-19 — Presented to President.
+- 2012-07-19 — Presented to President.
+- 2012-07-26 — Became Public Law No: 112-148.
+- 2012-07-26 — Became Public Law No: 112-148.
+- 2012-07-26 — Signed by President.
+- 2012-07-26 — Signed by President.
