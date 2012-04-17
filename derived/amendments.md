@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3523
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | amend | Title XI of the National Security Act of 1947 (50 U.S.C. 442 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of contents in the first section of such Act is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of contents in the first section of the National Security Act of 1947 is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
