@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1815
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1815
@@ -327,9 +327,10 @@ Lena Horne Recognition Act
 - Rep. Duffy, Sean P. [R-WI-7] (D000614)
 - Rep. Upton, Fred [R-MI-6] (U000031)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -350,3 +351,4 @@ Lena Horne Recognition Act
 - 2012-04-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-04-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 2 (Roll no. 157). (text: CR 4/16/2012 H1818)
 - 2012-04-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 2 (Roll no. 157).(text: CR 4/16/2012 H1818)
+- 2012-04-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
