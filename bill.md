@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2453
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,6 +23,7 @@ The Congress finds as follows:
 - **(4)** In the past 2 decades alone, there have been more than 100 books published and over 250 doctoral dissertations written on Mark Twain’s life and work.
 - **(5)** Even today, Americans seek to know more about the life and work of Mark Twain, as people from around the world and across all 50 States annually flock to National Historic Landmarks like the Mark Twain House & Museum in Hartford, CT, and the Mark Twain Boyhood Home & Museum in Hannibal, MO.
 - **(6)** Mark Twain’s work is remembered today for addressing the complex social issues facing America at the turn of the century, including the legacy of the Civil War, race relations, and the economic inequalities of the “Gilded Age”.
+- **(7)** Today Mark Twain's work lives on through educational institutions throughout the United States, such as the Mark Twain Project at the Bancroft Library of the University of California, Berkeley, California, and the Center for Mark Twain Studies at Elmira College, in Elmira, New York.
 
 ## § 3. Coin specifications
 
@@ -74,8 +75,8 @@ The Congress finds as follows:
   - **(2)** $10 per coin for the $1 coin.
 - **(b)** *Distribution* Subject to section 5134(f)(1) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary as follows:
   - **(1)** One-quarter of the surcharges, to the Mark Twain House & Museum in Hartford, Connecticut, to support the continued restoration of the Mark Twain house and grounds, and ensure continuing growth and innovation in museum programming to research, promote and educate on the legacy of Mark Twain.
-  - **(2)** One-quarter of the surcharges, to the Mark Twain Project at the Bancroft Library of the University of California, Berkeley, California, to support programs to study and promote Mark Twain’s legacy.
-  - **(3)** One-quarter of the surcharges, to the Center for Mark Twain Studies at Elmira College, New York, to support programs to study and promote Mark Twain’s legacy.
+  - **(2)** One-quarter of the surcharges, to the University of California, Berkeley, California, to be used for research and education purposes.
+  - **(3)** One-quarter of the surcharges, to Elmira College, New York, to be used for research and education purposes.
   - **(4)** One-quarter of the surcharges, to the Mark Twain Boyhood Home and Museum in Hannibal, Missouri, to preserve historical sites related to Mark Twain and help support programs to study and promote his legacy.
 - **(c)** *Audits* The Comptroller General of the United States shall have the right to examine such books, records, documents, and other data of each of the organizations referred to in paragraphs (1), (2), (3), and (4) of subsection (b) as may be related to the expenditures of amounts paid under such subsection.
 - **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
