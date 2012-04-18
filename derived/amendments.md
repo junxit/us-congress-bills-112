@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4089
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+4 amendatory instructions. 1 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 15 U.S.C. § 2602
+
+> in clause (v), by striking “, and” and inserting “, or any component of any such article including, without limitation, shot, bullets and other projectiles, propellants, and primers,”;
+
+| | |
+|---|---|
+| Removed | `, and` |
+| Inserted | `, or any component of any such article including, without limitation, shot, bullets and other projectiles, propellants, and primers,` |
 
 ## Stated, not applied
 
@@ -31,7 +42,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 104(c)(5)(D) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1374(c)(5)(D)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in clause (v), by striking “, and” and inserting “, or any component of any such article including, without limitation, shot, bullets and other projectiles, propellants, and primers,”; | the bill names no machine-readable US Code section |
-| — | replace | in clause (vi) by striking the period at the end and inserting “, and”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after clause (vi) the following: | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 1374` | amend | Section 104(c)(5)(D) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1374(c)(5)(D)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 2602` | replace | in clause (vi) by striking the period at the end and inserting “, and”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 4162` | insert | by inserting after clause (vi) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
