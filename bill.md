@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 4384
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4384
+
+> To permit manufacturers of generic drugs to provide additional warnings with respect to such drugs in the same manner that the Food and Drug Administration allows brand names to do so.
+
+## § 1. Short title
+
+This Act may be cited as the “Patient Safety and Drug Labeling Improvement Act”.
+
+## § 2. Permitting labeling changes for generics
+
+Section 505(j) of the Federal Food, Drug, and Cosmetics Act (21 U.S.C. 355(j)) is amended by adding at the end the following:
+
+> - **(11)**
+>   - **(A)** Notwithstanding any other provision of this Act, the holder of an approved application under this subsection may change the labeling of a drug so approved in the same manner authorized by regulation for the holder of an approved new drug application under subsection (b).
+>   - **(B)** In the event of a labeling change made under subparagraph (A), the Secretary may order conforming changes to the labeling of the equivalent listed drug and each drug approved under this subsection that corresponds to such listed drug.
