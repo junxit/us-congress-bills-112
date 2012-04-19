@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 36
 congress: 112
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 36
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 
-## Cosponsors (43)
+## Cosponsors (44)
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
@@ -61,6 +61,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Toomey, Patrick [R-PA] (T000461)
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
 
 ## Committees (1)
 
@@ -71,3 +72,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2012-02-16 — Introduced in Senate
 - 2012-02-16 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
 - 2012-02-16 — Sponsor introductory remarks on measure. (CR S853-856)
+- 2012-04-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 361.
+- 2012-04-19 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 803(c). (consideration: CR S2538; text: CR S2538)
+- 2012-04-19 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 803(c).(consideration: CR S2538; text: CR S2538)
