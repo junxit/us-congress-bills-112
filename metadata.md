@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2453
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2453
@@ -317,9 +317,10 @@ Mark Twain Commemorative Coin Act
 - Rep. Wilson, Frederica S. [D-FL-17] (W000808)
 - Rep. Farr, Sam [D-CA-17] (F000030)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -339,3 +340,4 @@ Mark Twain Commemorative Coin Act
 - 2012-04-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-04-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 4, 2 Present (Roll no. 171). (text: CR 4/17/2012 H1824)
 - 2012-04-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 4, 2 Present (Roll no. 171).(text: CR 4/17/2012 H1824)
+- 2012-04-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
