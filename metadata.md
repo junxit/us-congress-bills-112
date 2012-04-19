@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4348
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4348
@@ -85,3 +85,4 @@ MAP-21
 - 2012-04-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1959-1960; text: CR H1959)
 - 2012-04-18 — The previous question was ordered pursuant to the rule. (consideration: CR H1959)
 - 2012-04-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of the Ribble amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2012-04-19 — Received in the Senate.
