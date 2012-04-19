@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1335
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 1 of the Act titled “An Act to revise the boundary of the Gettysburg National Military Park in the Commonwealth of Pennsylvania, and for other purposes”, approved August 17, 1990 (16 U.S.C. 430g–4), is amended by adding at the en… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 2 of that Act (16 U.S.C. 430g–5) is amended by adding at the end of subsection (a) the following: “The Secretary is also authorized to acquire publicly owned property within the area defined in section 1(d)(1) by purchase, from w… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2 of that Act (16 U.S.C. 430g–5) is amended by adding at the end of subsection (a) the following: “The Secretary is also authorized to acquire publicly or privately owned property within the area defined in section 1(d) by purcha… | the bill names no machine-readable US Code section |
