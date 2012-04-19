@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1021
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1021
@@ -45,3 +45,13 @@ Temporary Bankruptcy Judgeships Extension Act of 2011
 - 2011-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8165)
 - 2011-12-07 — Received in the Senate.
 - 2011-12-08 — Read twice and referred to the Committee on the Judiciary.
+- 2012-04-19 — Amendment SA 2084 agreed to in Senate by Unanimous Consent.
+- 2012-04-19 — Amendment SA 2084 proposed by Senator Reid for Senator Coons. (consideration: CR S2556; text: CR S2556) To address bankruptcy filing fee increases, future reauthorizations, and for other purposes.
+- 2012-04-19 — Measure laid before Senate by unanimous consent. (consideration: CR S2556-2557)
+- 2012-04-19 — Passed Senate with an amendment by Unanimous Consent. (text: CR S2557)
+- 2012-04-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S2557)
+- 2012-04-19 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2012-04-19 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2012-04-19 — Senate amendment agreed to: Amendment SA 2084 agreed to in Senate by Unanimous Consent.
+- 2012-04-19 — Senate amendment proposed (on the floor): Amendment SA 2084 proposed by Senator Reid for Senator Coons.(consideration: CR S2556; text: CR S2556)
+- 2012-04-19 — Senate amendment submitted

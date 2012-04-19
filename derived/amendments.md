@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1021
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -22,13 +22,15 @@ document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
-## Executed
+## Stated, not applied
 
-### 28 U.S.C. § 1930
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
 
-> Section 1930(a)(3) of title 28, United States Code, is amended by striking “$1,000” and inserting “$1,042”.
-
-| | |
-|---|---|
-| Removed | `$1,000` |
-| Inserted | `$1,042` |
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | replace | Section 1930(a)(3) of title 28, United States Code, is amended by striking “$1,000” and inserting “$1,167”. | the bill names no machine-readable US Code section |
+| — | replace | Section 589a(b)(2) of title 28, United States Code, is amended by striking “55” and inserting “48.89”. | the bill names no machine-readable US Code section |
+| — | replace | Section 406(b) of the Judiciary Appropriations Act, 1990 (28 U.S.C. 1931 note) is amended by striking “25” and inserting “33.33”. | the bill names no machine-readable US Code section |
