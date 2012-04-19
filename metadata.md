@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 9
@@ -65,6 +65,12 @@ Small Business Tax Cut Act
 
 - House — Ways and Means Committee
 
+## Recorded votes (3)
+
+- 2012-04-19 — [House 112-2-175](votes/house-112-2-0175.md) — On Agreeing to the Amendment — **Failed** (175–236)
+- 2012-04-19 — [House 112-2-176](votes/house-112-2-0176.md) — On Motion to Recommit with Instructions — **Failed** (179–229)
+- 2012-04-19 — [House 112-2-177](votes/house-112-2-0177.md) — On Passage — **Passed** (235–173)
+
 ## Actions
 
 - 2012-03-21 — Introduced in House
@@ -75,3 +81,24 @@ Small Business Tax Cut Act
 - 2012-04-10 — Placed on the Union Calendar, Calendar No. 292.
 - 2012-04-10 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 112-425.
 - 2012-04-10 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 112-425.
+- 2012-04-17 — Rules Committee Resolution H. Res. 620 Reported to House. Rule provides for consideration of H.R. 9 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. A specified amendment is in order. The resolution waives all points of order against consideration of the bill. The resolution provides that the amendment in the nature of a substitute, now printed in the bill, shall be considered as adopted. The resolutions waives all points of order against provisions of the bill, as amended. The resolution makes in order the amendment in the nature of a substitute, for 20 minutes of debate, which shall not be subject to amendment.
+- 2012-04-19 — Amendment (A002) in the nature of a substitute offered by Mr. Levin. (consideration: CR H2003-2005; text: CR H2003-2004)
+- 2012-04-19 — Amendment failed by House: On agreeing to the Levin amendment (A002) Failed by the Yeas and Nays: 175 - 236 (Roll no. 175).
+- 2012-04-19 — Considered under the provisions of rule H. Res. 620. (consideration: CR H1981-1989, H1990-2010)
+- 2012-04-19 — DEBATE - Pursuant to the provisions of H. Res. 620, as amended, the House proceeded with 25 minutes of debate on the Levin substitute amendment.
+- 2012-04-19 — DEBATE - Pursuant to the provisions of H.Res. 620, as amended, the House proceeded with 70 minutes of debate on H.R. 9.
+- 2012-04-19 — DEBATE - The House proceeded with 10 minutes of debate on the Deutch motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with amendments to prevent the tax deduction from allowing companies to ship jobs overseas. It would also prevent the tax deduction from being used on income from prostitution, pornography, drug trafficking, lobbying, golf courses that discriminate based on sex or race, or by taxpayers who violate Iran sanctions. Further, any Member of Congress taking the deduction would have to disclose the deduction amount and type of business income from which it came.
+- 2012-04-19 — House amendment not agreed to: On agreeing to the Levin amendment (A002) Failed by the Yeas and Nays: 175 - 236 (Roll no. 175).
+- 2012-04-19 — House amendment offered
+- 2012-04-19 — House amendment offered
+- 2012-04-19 — House amendment offered/reported by: Amendment (A002) in the nature of a substitute offered by Mr. Levin.(consideration: CR H2003-2005; text: CR H2003-2004)
+- 2012-04-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-04-19 — Mr. Deutch moved to recommit with instructions to Ways and Means. (consideration: CR H2008-2010; text: CR H2008)
+- 2012-04-19 — On agreeing to the Levin amendment (A002) Failed by the Yeas and Nays: 175 - 236 (Roll no. 175).
+- 2012-04-19 — On motion to recommit with instructions Failed by recorded vote: 179 - 229 (Roll no. 176). (consideration: CR H2009-2010)
+- 2012-04-19 — On passage Passed by the Yeas and Nays: 235 - 173, 1 Present (Roll no. 177). (text: CR H1990-1991)
+- 2012-04-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 235 - 173, 1 Present (Roll no. 177).(text: CR H1990-1991)
+- 2012-04-19 — Roll call votes on amendments in House
+- 2012-04-19 — Rule H. Res. 620 passed House.
+- 2012-04-19 — Rule provides for consideration of H.R. 9 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. A specified amendment is in order. The resolution waives all points of order against consideration of the bill. The resolution provides that the amendment in the nature of a substitute, now printed in the bill, shall be considered as adopted. The resolutions waives all points of order against provisions of the bill, as amended. The resolution makes in order the amendment in the nature of a substitute, for 20 minutes of debate, which shall not be subject to amendment.
+- 2012-04-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2009)
