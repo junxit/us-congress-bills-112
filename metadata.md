@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9
@@ -61,9 +61,10 @@ Small Business Tax Cut Act
 - Rep. Long, Billy [R-MO-7] (L000576)
 - Rep. Olson, Pete [R-TX-22] (O000168)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (3)
 
@@ -102,3 +103,4 @@ Small Business Tax Cut Act
 - 2012-04-19 — Rule H. Res. 620 passed House.
 - 2012-04-19 — Rule provides for consideration of H.R. 9 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. A specified amendment is in order. The resolution waives all points of order against consideration of the bill. The resolution provides that the amendment in the nature of a substitute, now printed in the bill, shall be considered as adopted. The resolutions waives all points of order against provisions of the bill, as amended. The resolution makes in order the amendment in the nature of a substitute, for 20 minutes of debate, which shall not be subject to amendment.
 - 2012-04-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2009)
+- 2012-04-23 — Received in the Senate and Read twice and referred to the Committee on Finance.
