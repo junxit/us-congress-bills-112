@@ -1,7 +1,7 @@
 ---
 legis-num: S. 237
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -46,7 +46,19 @@ Section 711 of title 31, United States Code, is amended by striking paragraph (4
 
 - **(b)** *Technical and conforming amendment* The table of sections for chapter 7 of title 31, United States Code, is amended by inserting after the item relating to section 720 the following:
 
-## § 5. Agency reports
+## § 5. Notice to Congress if agencies do not provide requested information
+
+- **(a)** *Notice to Congress* Subchapter II of chapter 7 of title 31, United States Code, (as amended by section 4 of this Act) is further amended by adding at the end the following:
+  > ## § 722. Notice to Congress if agencies do not provide requested information
+  >
+  > If in the discharge of the official duties of the Comptroller General (including any audit, evaluation, or investigative duties) relating to any request from a committee of Congress or a Member of Congress, the Comptroller General requests information from an agency and the agency does not provide that information within 30 days after the date of receiving the request, the Comptroller General shall submit notice that the agency has not provided the information to the Comptroller General to—
+  >
+  > - **(1)** any committee of Congress that made the related request to the Comptroller General; or
+  > - **(2)** any Member of Congress who made the related request to the Comptroller General.
+
+- **(b)** *Technical and conforming amendment* The table of sections for chapter 7 of title 31, United States Code, is amended by inserting after the item relating to section 721 (as added by section 4 of this Act) the following:
+
+## § 5. 6. Agency reports
 
 Section 720(b) of title 31, United States Code, is amended—
 
