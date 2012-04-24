@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2947
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2947
@@ -33,3 +33,9 @@ To provide for the release of the reversionary interest held by the United State
 - 2012-04-16 — Placed on the Union Calendar, Calendar No. 308.
 - 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-441.
 - 2012-04-16 — Reported by the Committee on Natural Resources. H. Rept. 112-441.
+- 2012-04-24 — Considered under suspension of the rules. (consideration: CR H2048-2049)
+- 2012-04-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2947.
+- 2012-04-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-04-24 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
+- 2012-04-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2048)
+- 2012-04-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2048)
