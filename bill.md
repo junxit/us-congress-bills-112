@@ -15,19 +15,57 @@ This Act may be cited as the “Small Business Credit Availability Act”.
 
 ## § 2. Clarification of swap dealer definition
 
-Section 1a(49)(A) of the Commodity Exchange Act (7 U.S.C. 1a(49)(A)) is amended by striking all that follows clause (iv) and inserting the following flush language:
+Section 1a(49) of the Commodity Exchange Act (7 U.S.C. 1a(49)) is amended by striking all that follows subparagraph (A)(iv) through subparagraph (C) and inserting the following:
 
 > - **(I)** with a customer that is seeking to manage risk in connection with an extension of credit by the institution to, on behalf of, or for the benefit of, the customer; or
 > - **(II)** to offset the risks arising from a swap that meets the requirement of subclause (I).
+> - **(B)** *Inclusion* A person may be designated as a swap dealer for a single type or single class or category of swap or activities and considered not to be a swap dealer for other types, classes, or categories of swaps or activities.
+> - **(C)** *Exceptions*
+>   - **(i)** The term “swap dealer” does not include a person that enters into swaps for such person’s own account, either individually or in a fiduciary capacity, but not as part of regular business activities as described in subparagraph (A).
+>   - **(ii)** In determining whether a person is a “swap dealer” within the meaning of subparagraph (A), the following shall not be considered as part of the determination:
+>     - **(I)** any swap entered into for a person’s own account for the purpose of hedging or mitigating commercial risk; and
+>     - **(II)** any swap entered into for a person’s own account for the purpose of meeting State or local governmental regulatory compliance purposes.
+>   - **(iii)** In determining whether a person is a “swap dealer” within the meaning of subparagraph (A)(iii), any swap which involves a capacity contract, a renewable energy credit, an emissions allowance, or an emissions offset shall not be considered as part of that determination, if—
+>     - **(I)** the contract, credit, allowance, or offset is utilized to meet obligations under State or local law or regulation for that person; and
+>     - **(II)** the swap is entered into for that person’s own account.
 
 ## § 3. Exclusions from financial entity definition
 
 Section 2(h)(7)(C)(ii) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(C)(ii)) is amended to read as follows:
 
-> - **(ii)** *Exclusion* Such definition shall not include an entity that is a small bank, savings association, farm credit system institution, or credit union if—
->   - **(I)** the total assets of the entity are $30,000,000,000 or less; or
->   - **(II)** the aggregate un­col­lat­er­a­lized outward exposure plus aggregate potential outward exposure of the entity with respect to its swaps does not exceed $1,000,000,000.
+> - **(ii)** *Exclusion* Such definition shall not include an entity that is a small bank, savings association, farm credit system institution, non-profit cooperative lender controlled by electric cooperatives, or credit union if the aggregate uncollateralized outward exposure plus aggregate potential outward exposure of the entity with respect to its swaps does not exceed $1,000,000,000.
 
-## § 4. Effective date
+## § 4. Clarification of the exemptions for captive finance companies from the definition of major swap participant and from the swap clearing requirement
+
+- **(a)** *Exclusion from definition of major swap participant* Section 1a(33)(D) of the Commodity Exchange Act (7 U.S.C. 1a(33)(D)) is amended to read as follows:
+  > - **(D)** *Exclusion of certain captive finance entities*
+  >   - **(i)** *In general* The definition under this paragraph shall not include an entity whose primary business is providing financing that facilitates the sale or lease of products by or on behalf of the parent company or another subsidiary of the parent company, and uses derivatives only for the purpose of hedging underlying commercial risks in a consolidated financing and leasing portfolio, at least 90 percent of which, as of the end of its preceding fiscal year, is qualifying financing (including loans, notes, installment sales contracts, receivables, and operating and financing leases).
+  >   - **(ii)** *Definitions* In this subparagraph:
+  >     - **(I)** *Qualifying financing* The term “qualifying financing” means—
+  >       - **(aa)** any financing or lease of, or that includes, a product; or
+  >       - **(bb)** any financing to or for the benefit of an affiliate of the entity, a distribution entity, or any customer or affiliate of a distribution entity,
+  >     - **(II)** *Product* The term “product” means—
+  >       - **(aa)** any good that is manufactured or sold by an affiliate of the entity; and
+  >       - **(bb)** any service that is provided by an affiliate of the entity.
+  >     - **(III)** *Distribution entity* The term “distribution entity” means a person whose primary business is the sale, lease or servicing of a product that is manufactured by the entity or its affiliates.
+  >     - **(IV)** *Affiliate* The term “affiliate” means, with respect to an entity—
+  >       - **(aa)** a person that reports information or prepares financial statements on a consolidated basis with the entity, or for which a parent company reports information or prepares financial statements on a consolidated basis for the person and the entity; or
+  >       - **(bb)** a person of which the entity or the parent of the entity holds 50 percent or more of the equity interests.
+  >     - **(V)** *Person* The term “person” means an individual, partnership, corporation (including a business trust), limited liability company, joint stock company, trust, unincorporated association, joint venture or other entity, or a government or any political subdivision or agency thereof.
+
+- **(b)** *Exclusion from swap clearing requirement* Section 2(h)(7)(C)(iii) of such Act (42 U.S.C. 2(h)(7)(C)(iii)) is amended to read as follows:
+  > - **(iii)** *Exclusion of certain captive finance entities* Such term shall not include an entity excluded from the definition of major swap participant by reason of section 1a(33)(D).
+
+## § 5. Effective date
 
 The amendments made by this Act shall take effect as if they had been included in subtitle A of title VII of the Dodd-Frank Wall Street Reform and Consumer Protection Act.
+
+## § 6. Implementation
+
+The amendments made by this Act to the Commodity Exchange Act shall be implemented—
+
+- **(1)** without regard to—
+  - **(A)** chapter 35 of title 44, United States Code; and
+  - **(B)** the notice and comment provisions of section 553 of title 5, United States Code;
+- **(2)** through the promulgation of an interim final rule, pursuant to which public comment will be sought before a final rule is issued, and
+- **(3)** such that paragraph (1) shall apply solely to changes to rules and regulations, or proposed rules and regulations, that are limited to and directly a consequence of such amendments.
