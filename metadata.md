@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2157
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2157
@@ -16,9 +16,10 @@ To facilitate a land exchange involving certain National Forest System lands in 
 
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ To facilitate a land exchange involving certain National Forest System lands in 
 - 2012-04-24 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2012-04-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 2 (Roll no. 178). (text: CR H2046)
 - 2012-04-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 2 (Roll no. 178).(text: CR H2046)
+- 2012-04-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
