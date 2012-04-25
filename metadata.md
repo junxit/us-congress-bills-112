@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1423
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1423
@@ -48,3 +48,8 @@ To designate the facility of the United States Postal Service located at 115 4th
 - 2011-05-02 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 278). (text: CR H2921)
 - 2011-05-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 0 (Roll no. 278).(text: CR H2921)
 - 2011-05-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2011-07-22 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2012-04-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2012-04-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2012-04-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2012-04-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 372.
