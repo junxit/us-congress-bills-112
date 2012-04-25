@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2244
 congress: 112
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2244
@@ -77,3 +77,12 @@ To designate the facility of the United States Postal Service located at 67 Cast
 - 2012-04-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2012-04-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2012-04-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 375.
+- 2012-04-26 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2885)
+- 2012-04-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2885)
+- 2012-04-27 — Message on Senate action sent to the House.
+- 2012-05-08 — Presented to President.
+- 2012-05-08 — Presented to President.
+- 2012-05-15 — Became Public Law No: 112-111.
+- 2012-05-15 — Became Public Law No: 112-111.
+- 2012-05-15 — Signed by President.
+- 2012-05-15 — Signed by President.
