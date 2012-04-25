@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “21st Century Postal Service Act of 2011.”
+This Act may be cited as the “21st Century Postal Service Act of 2012”.
 
 ## § 2. Table of contents
 

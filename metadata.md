@@ -1,7 +1,7 @@
 ---
 measure: S. 1789
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1789
@@ -16,15 +16,176 @@ version: Reported to Senate
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
-## Cosponsors (3)
+## Cosponsors (146)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Conrad, Kent [D-ND] (C000705)
 
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+
+## Recorded votes (15)
+
+- 2012-03-27 — [Senate 112-2-60](votes/senate-112-2-0060.md) — On the Cloture Motion — **Cloture Motion Rejected** (51–46)
+- 2012-04-17 — [Senate 112-2-66](votes/senate-112-2-0066.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (74–22)
+- 2012-04-24 — [Senate 112-2-69](votes/senate-112-2-0069.md) — On the Motion — **Motion Agreed to** (62–37)
+- 2012-04-24 — [Senate 112-2-71](votes/senate-112-2-0071.md) — On the Amendment — **Amendment Rejected** (33–65)
+- 2012-04-24 — [Senate 112-2-72](votes/senate-112-2-0072.md) — On the Amendment — **Amendment Rejected** (43–56)
+- 2012-04-24 — [Senate 112-2-73](votes/senate-112-2-0073.md) — On the Amendment — **Amendment Rejected** (46–53)
+- 2012-04-24 — [Senate 112-2-74](votes/senate-112-2-0074.md) — On the Amendment — **Amendment Rejected** (29–70)
+- 2012-04-24 — [Senate 112-2-75](votes/senate-112-2-0075.md) — On the Amendment — **Amendment Rejected** (57–42)
+- 2012-04-24 — [Senate 112-2-76](votes/senate-112-2-0076.md) — On the Amendment — **Amendment Rejected** (35–64)
+- 2012-04-25 — [Senate 112-2-77](votes/senate-112-2-0077.md) — On the Amendment — **Amendment Rejected** (43–53)
+- 2012-04-25 — [Senate 112-2-78](votes/senate-112-2-0078.md) — On the Amendment — **Amendment Rejected** (35–64)
+- 2012-04-25 — [Senate 112-2-79](votes/senate-112-2-0079.md) — On the Amendment — **Amendment Rejected** (23–76)
+- 2012-04-25 — [Senate 112-2-80](votes/senate-112-2-0080.md) — On the Amendment — **Amendment Rejected** (44–54)
+- 2012-04-25 — [Senate 112-2-81](votes/senate-112-2-0081.md) — On the Amendment — **Amendment Rejected** (46–53)
+- 2012-04-25 — [Senate 112-2-82](votes/senate-112-2-0082.md) — On Passage of the Bill — **Bill Passed** (62–37)
 
 ## Actions
 
@@ -35,3 +196,281 @@ version: Reported to Senate
 - 2012-01-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
 - 2012-01-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
 - 2012-01-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 296.
+- 2012-01-31 — By Senator Lieberman from Committee on Homeland Security and Governmental Affairs filed written report. Report No. 112-143. Additional views filed.
+- 2012-01-31 — By Senator Lieberman from Committee on Homeland Security and Governmental Affairs filed written report. Report No. 112-143. Additional views filed.
+- 2012-02-02 — Senate amendment submitted
+- 2012-03-22 — Cloture motion on the motion to proceed to the bill presented in Senate. (consideration: CR S1985; text: CR S1985)
+- 2012-03-22 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1985)
+- 2012-03-27 — Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 60. (consideration: CR S2054-2055; text: CR S2054)
+- 2012-03-27 — Motion by Senator Reid to reconsider the vote by which the motion to invoke cloture on the motion to proceed to S. 1789 was not invoked (Roll Call Vote No. 60) entered in Senate. (consideration: CR S2055)
+- 2012-03-27 — Senate amendment submitted
+- 2012-04-16 — Senate amendment submitted
+- 2012-04-17 — Amendment SA 2000 proposed by Senator Reid for Senator Lieberman. (consideration: CR S2369, S2435-2451; text as modified: CR S2435-2451) In the nature of a substitute.
+- 2012-04-17 — Amendment SA 2013 proposed by Senator Reid to Amendment SA 2000. (consideration: CR S2369; text: CR S2369) To change the enactment date.
+- 2012-04-17 — Amendment SA 2014 proposed by Senator Reid to Amendment SA 2013. (consideration: CR S2369; text: CR S2369) Of a perfecting nature.
+- 2012-04-17 — Amendment SA 2015 proposed by Senator Reid to language proposed to be stricken by amendment no. SA 2000. (consideration: CR S2369; text: CR S2369) To change the enactment date.
+- 2012-04-17 — Amendment SA 2016 proposed by Senator Reid to Amendment SA 2015. (consideration: CR S2369; text: CR S2369) Of a perfecting nature.
+- 2012-04-17 — Amendment SA 2017 proposed by Senator Reid. (consideration: CR S2369; text: CR S2369) To change the enactment date.
+- 2012-04-17 — Amendment SA 2018 proposed by Senator Reid to Amendment SA 2017 (the instructions of the motion). (consideration: CR S2369; text: CR S2369) Of a perfecting nature.
+- 2012-04-17 — Amendment SA 2019 proposed by Senator Reid to Amendment SA 2018. (consideration: CR S2369; text: CR S2369) Of a perfecting nature.
+- 2012-04-17 — Cloture motion on amendment SA 2000 presented in Senate. (consideration: CR S2369; text: CR S2369)
+- 2012-04-17 — Cloture motion on the bill presented in Senate. (consideration: CR S2369; text: CR S2369)
+- 2012-04-17 — Measure laid before Senate by motion. (consideration: CR S2357-2370, S2435-2451; text of measure as reported in Senate: CR S2357-2368)
+- 2012-04-17 — Motion by Senator Reid to recommit to Senate Committee on Homeland Security and Governmental Affairs with instructions to report back forthwith with amendment SA 2017 made in Senate. (consideration: CR S2369)
+- 2012-04-17 — Motion by Senator Reid to reconsider the vote by which the motion to invoke cloture on the motion to proceed to S. 1789 was not invoked (Roll Call Vote No. 60) agreed to in Senate by Unanimous Consent. (consideration: CR S2348)
+- 2012-04-17 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent. (consideration: CR S2356)
+- 2012-04-17 — Motion to proceed to consideration of the motion to reconsider the vote by which the motion to invoke cloture on the motion to proceed to S. 1789 was not invoked (Roll Call Vote No. 60) agreed to in Senate by Unanimous Consent. (consideration: CR S2348)
+- 2012-04-17 — Motion to proceed to measure considered in Senate. (consideration: CR S2348-2357)
+- 2012-04-17 — Senate amendment proposed (on the floor): Amendment SA 2000 proposed by Senator Reid for Senator Lieberman.(consideration: CR S2369, S2435-2451; text as modified: CR S2435-2451)
+- 2012-04-17 — Senate amendment proposed (on the floor): Amendment SA 2013 proposed by Senator Reid to Amendment SA 2000.(consideration: CR S2369; text: CR S2369)
+- 2012-04-17 — Senate amendment proposed (on the floor): Amendment SA 2014 proposed by Senator Reid to Amendment SA 2013.(consideration: CR S2369; text: CR S2369)
+- 2012-04-17 — Senate amendment proposed (on the floor): Amendment SA 2015 proposed by Senator Reid to language proposed to be stricken by amendment no. SA 2000.(consideration: CR S2369; text: CR S2369)
+- 2012-04-17 — Senate amendment proposed (on the floor): Amendment SA 2016 proposed by Senator Reid to Amendment SA 2015.(consideration: CR S2369; text: CR S2369)
+- 2012-04-17 — Senate amendment proposed (on the floor): Amendment SA 2017 proposed by Senator Reid.(consideration: CR S2369; text: CR S2369)
+- 2012-04-17 — Senate amendment proposed (on the floor): Amendment SA 2018 proposed by Senator Reid to Amendment SA 2017 (the instructions of the motion).(consideration: CR S2369; text: CR S2369)
+- 2012-04-17 — Senate amendment proposed (on the floor): Amendment SA 2019 proposed by Senator Reid to Amendment SA 2018.(consideration: CR S2369; text: CR S2369)
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — Senate amendment submitted
+- 2012-04-17 — The committee reported substitute was withdrawn by Unanimous Consent. (consideration: CR S2369)
+- 2012-04-17 — Upon reconsideration, cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 74 - 22. Record Vote Number: 66. (consideration: CR S2349; text: CR S2349)
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-18 — Senate amendment submitted
+- 2012-04-19 — Cloture motion on amendment SA 2000 withdrawn by unanimous consent in Senate. (consideration: CR S2538)
+- 2012-04-19 — Cloture motion on the bill withdrawn by unanimous consent in Senate. (consideration: CR S2538)
+- 2012-04-19 — Motion by Senator Reid to recommit to Senate Committee on Homeland Security and Governmental Affairs with instructions to report back forthwith with amendment SA 2017 was withdrawn in Senate by Unanimous Consent. (consideration: CR S2538)
+- 2012-04-19 — Proposed amendment SA 2013 withdrawn in Senate. (consideration: CR S2538)
+- 2012-04-19 — Proposed amendment SA 2015 withdrawn in Senate. (consideration: CR S2538)
+- 2012-04-19 — Proposed amendment SA 2017 withdrawn in Senate. (consideration: CR S2538)
+- 2012-04-19 — SA 2014 fell when SA 2013 withdrawn. (consideration: CR S2538)
+- 2012-04-19 — SA 2016 fell when SA 2015 withdrawn. (consideration: CR S2538)
+- 2012-04-19 — SA 2018 fell when SA 2017 withdrawn. (consideration: CR S2538)
+- 2012-04-19 — SA 2019 fell when SA 2018 fell. (consideration: CR S2538)
+- 2012-04-19 — Senate amendment submitted
+- 2012-04-19 — Senate amendment submitted
+- 2012-04-19 — Senate amendment submitted
+- 2012-04-19 — Senate amendment submitted
+- 2012-04-19 — Senate amendment submitted
+- 2012-04-19 — Senate amendment submitted
+- 2012-04-19 — Senate amendment submitted
+- 2012-04-24 — Amendment SA 2020 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2641)
+- 2012-04-24 — Amendment SA 2020 proposed by Senator Wyden to Amendment SA 2000. (consideration: CR S2641) To require the Postal Service to consider the effect of closing or consolidating a postal facility on the ability of the affected community to vote by mail and to provide for a moratorium on the closing or consolidation of post offices and postal facilities to protect the ability to vote by mail.
+- 2012-04-24 — Amendment SA 2025 proposed by Senator Paul to Amendment SA 2000. (consideration: CR S2650-2651; text: CR S2650) To end the mailbox use monopoly.
+- 2012-04-24 — Amendment SA 2025, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 76.
+- 2012-04-24 — Amendment SA 2031 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2643)
+- 2012-04-24 — Amendment SA 2031 proposed by Senator McCaskill to Amendment SA 2000. (consideration: CR S2643-2644) To prohibit the closing of a rural post office unless certain conditions are met and to establish a moratorium on the closing of rural post offices.
+- 2012-04-24 — Amendment SA 2033 proposed by Senator McCain to Amendment SA 2000. (consideration: CR S2640-2641) To establish the Commission on Postal Reorganization.
+- 2012-04-24 — Amendment SA 2033, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 30 - 69. Record Vote Number: 70.
+- 2012-04-24 — Amendment SA 2034 proposed by Senator Akaka to Amendment SA 2000. (consideration: CR S2646-2647; text as modified: CR S2646-2647) To provide appropriate workers compensation for Federal employees.
+- 2012-04-24 — Amendment SA 2034, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 73.
+- 2012-04-24 — Amendment SA 2043 proposed by Senator Udall NM to Amendment SA 2000. (consideration: CR S2644-2645; text as modified CR S2644) To strike the limitations on changes to mail delivery schedule, with an offset.
+- 2012-04-24 — Amendment SA 2043, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 72.
+- 2012-04-24 — Amendment SA 2047 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2648)
+- 2012-04-24 — Amendment SA 2047 proposed by Senator Bennet to Amendment SA 2000. (consideration: CR S2647-2649) To establish citizen's service protection advocates, to require the Strategic Advisory Commission on Postal Service Solvency and Innovation to study the advisability of the Postal Service entering into inter-agency agreements with respect to post offices, and to require the Postal Service to develop a strategic plan for entering into such inter-agency agreements.
+- 2012-04-24 — Amendment SA 2049 proposed by Senator Akaka to Amendment SA 2000. (consideration: CR S2649-2650; text: CR S2650) To allow supervisory and other managerial organizations to participate in the planning and development of changes in, or termination of, pay policies and schedules and fringe benefit programs.
+- 2012-04-24 — Amendment SA 2049, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 57 - 42. Record Vote Number: 75.
+- 2012-04-24 — Amendment SA 2056 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2637-2638)
+- 2012-04-24 — Amendment SA 2056 proposed by Senator Tester to Amendment SA 2000. (consideration: CR S2637-2659) To modify the process for closing or consolidating post offices and postal facilities.
+- 2012-04-24 — Amendment SA 2058 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2641-2642)
+- 2012-04-24 — Amendment SA 2058 proposed by Senator Coburn to Amendment SA 2000. (consideration: CR S2641-2642) To improve access to postal services in communities potentially affected by a postal closing or consolidation.
+- 2012-04-24 — Amendment SA 2060 agreed to in Senate by Voice Vote.
+- 2012-04-24 — Amendment SA 2060 proposed by Senator Coburn to Amendment SA 2000. (consideration: CR S2639-2640; text: CR S2639-2640) To provide transparency, accountability, and limitations of Government sponsored conferences.
+- 2012-04-24 — Amendment SA 2061 as modified, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 33 - 65. Record Vote Number: 71. (text as modified: CR S2642)
+- 2012-04-24 — Amendment SA 2061 proposed by Senator Coburn to Amendment SA 2000. (consideration: CR S2642-2643) To achieve long-term cost-savings by allowing the Postmaster General to reduce the postal workforce through mandatory retirements for eligible employees.
+- 2012-04-24 — Amendment SA 2080 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2644)
+- 2012-04-24 — Amendment SA 2080 proposed by Senator Snowe to Amendment SA 2000. (consideration: CR S2644) To require the Postal Rate Commission to evaluate area mail processing studies.
+- 2012-04-24 — Amendment SA 2082 as modified agreed to in Senate by Voice Vote. (text: CR S2645)
+- 2012-04-24 — Amendment SA 2082 proposed by Senator Durbin to Amendment SA 2000. (consideration: CR S2645-2646) To prohibit the Postal Service from closing, consolidating, or reducing the workforce of certain postal facilities.
+- 2012-04-24 — Amendment SA 2083 proposed by Senator Corker to Amendment SA 2000. (consideration: CR S2649; text: CR S2649) To improve the bill.
+- 2012-04-24 — Amendment SA 2083, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 29 - 70. Record Vote Number: 74.
+- 2012-04-24 — Considered by Senate. (consideration: CR S2534)
+- 2012-04-24 — Considered by Senate. (consideration: CR S2634-26351)
+- 2012-04-24 — Motion to waive all applicable budgetary discipline with respect to amendment SA 2000 agreed to in Senate by Yea-Nay Vote. 62 - 37. Record Vote Number: 69.
+- 2012-04-24 — Point of order raised in Senate with respect to amendment SA 2000.
+- 2012-04-24 — Roll call votes on amendments in Senate: Amendment SA 2025, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 76.
+- 2012-04-24 — Roll call votes on amendments in Senate: Amendment SA 2034, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 73.
+- 2012-04-24 — Roll call votes on amendments in Senate: Amendment SA 2043, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 72.
+- 2012-04-24 — Roll call votes on amendments in Senate: Amendment SA 2049, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 57 - 42. Record Vote Number: 75.
+- 2012-04-24 — Roll call votes on amendments in Senate: Amendment SA 2061 as modified, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 33 - 65. Record Vote Number: 71.(text as modified: CR S2642)
+- 2012-04-24 — Roll call votes on amendments in Senate: Amendment SA 2083, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 29 - 70. Record Vote Number: 74.
+- 2012-04-24 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 2000 agreed to in Senate by Yea-Nay Vote. 62 - 37. Record Vote Number: 69.
+- 2012-04-24 — Senate amendment agreed to: Amendment SA 2020 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2641)
+- 2012-04-24 — Senate amendment agreed to: Amendment SA 2031 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2643)
+- 2012-04-24 — Senate amendment agreed to: Amendment SA 2047 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2648)
+- 2012-04-24 — Senate amendment agreed to: Amendment SA 2056 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2637-2638)
+- 2012-04-24 — Senate amendment agreed to: Amendment SA 2058 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2641-2642)
+- 2012-04-24 — Senate amendment agreed to: Amendment SA 2060 agreed to in Senate by Voice Vote.
+- 2012-04-24 — Senate amendment agreed to: Amendment SA 2080 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2644)
+- 2012-04-24 — Senate amendment agreed to: Amendment SA 2082 as modified agreed to in Senate by Voice Vote.(text: CR S2645)
+- 2012-04-24 — Senate amendment not agreed to: Amendment SA 2025, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 76.
+- 2012-04-24 — Senate amendment not agreed to: Amendment SA 2033, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 30 - 69. Record Vote Number: 70.
+- 2012-04-24 — Senate amendment not agreed to: Amendment SA 2034, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 73.
+- 2012-04-24 — Senate amendment not agreed to: Amendment SA 2043, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 72.
+- 2012-04-24 — Senate amendment not agreed to: Amendment SA 2049, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 57 - 42. Record Vote Number: 75.
+- 2012-04-24 — Senate amendment not agreed to: Amendment SA 2061 as modified, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 33 - 65. Record Vote Number: 71.(text as modified: CR S2642)
+- 2012-04-24 — Senate amendment not agreed to: Amendment SA 2083, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 29 - 70. Record Vote Number: 74.
+- 2012-04-24 — Senate amendment proposed (on the floor): Amendment SA 2020 proposed by Senator Wyden to Amendment SA 2000.(consideration: CR S2641)
+- 2012-04-24 — Senate amendment proposed (on the floor): Amendment SA 2025 proposed by Senator Paul to Amendment SA 2000.(consideration: CR S2650-2651; text: CR S2650)
+- 2012-04-24 — Senate amendment proposed (on the floor): Amendment SA 2031 proposed by Senator McCaskill to Amendment SA 2000.(consideration: CR S2643-2644)
+- 2012-04-24 — Senate amendment proposed (on the floor): Amendment SA 2033 proposed by Senator McCain to Amendment SA 2000.(consideration: CR S2640-2641)
+- 2012-04-24 — Senate amendment proposed (on the floor): Amendment SA 2034 proposed by Senator Akaka to Amendment SA 2000.(consideration: CR S2646-2647; text as modified: CR S2646-2647)
+- 2012-04-24 — Senate amendment proposed (on the floor): Amendment SA 2043 proposed by Senator Udall NM to Amendment SA 2000.(consideration: CR S2644-2645; text as modified CR S2644)
+- 2012-04-24 — Senate amendment proposed (on the floor): Amendment SA 2047 proposed by Senator Bennet to Amendment SA 2000.(consideration: CR S2647-2649)
+- 2012-04-24 — Senate amendment proposed (on the floor): Amendment SA 2049 proposed by Senator Akaka to Amendment SA 2000.(consideration: CR S2649-2650; text: CR S2650)
+- 2012-04-24 — Senate amendment proposed (on the floor): Amendment SA 2056 proposed by Senator Tester to Amendment SA 2000.(consideration: CR S2637-2659)
+- 2012-04-24 — Senate amendment proposed (on the floor): Amendment SA 2058 proposed by Senator Coburn to Amendment SA 2000.(consideration: CR S2641-2642)
+- 2012-04-24 — Senate amendment proposed (on the floor): Amendment SA 2060 proposed by Senator Coburn to Amendment SA 2000.(consideration: CR S2639-2640; text: CR S2639-2640)
+- 2012-04-24 — Senate amendment proposed (on the floor): Amendment SA 2061 proposed by Senator Coburn to Amendment SA 2000.(consideration: CR S2642-2643)
+- 2012-04-24 — Senate amendment proposed (on the floor): Amendment SA 2080 proposed by Senator Snowe to Amendment SA 2000.(consideration: CR S2644)
+- 2012-04-24 — Senate amendment proposed (on the floor): Amendment SA 2082 proposed by Senator Durbin to Amendment SA 2000.(consideration: CR S2645-2646)
+- 2012-04-24 — Senate amendment proposed (on the floor): Amendment SA 2083 proposed by Senator Corker to Amendment SA 2000.(consideration: CR S2649; text: CR S2649)
+- 2012-04-25 — Amendment SA 2000 as modified agreed to in Senate by Unanimous Consent.
+- 2012-04-25 — Amendment SA 2027 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Amendment SA 2027 proposed by Senator Paul to Amendment SA 2000. (consideration: CR S2685; text: CR S2685) To require the closing of post offices in the Capitol Complex.
+- 2012-04-25 — Amendment SA 2028 proposed by Senator Paul to Amendment SA 2000. (consideration: CR S2685-2687; text: CR S2685-2686) To establish a pilot program to test alternative methods for the delivery of postal services.
+- 2012-04-25 — Amendment SA 2028, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 78.
+- 2012-04-25 — Amendment SA 2029 agreed to in Senate by Voice Vote. (text as modified: CR S2687)
+- 2012-04-25 — Amendment SA 2029 proposed by Senator Paul to Amendment SA 2000. (consideration: CR S2687) To require the Postal Service to take into consideration the impact of regulations when developing a profitability plan.
+- 2012-04-25 — Amendment SA 2030 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Amendment SA 2030 proposed by Senator McCaskill to Amendment SA 2000. (consideration: CR S2690-2691) To improve the workers compensation provisions.
+- 2012-04-25 — Amendment SA 2032 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Amendment SA 2032 proposed by Senator Tester to Amendment SA 2000. (consideration: CR S2693; text: CR S2693) To appropriately limit the pay of Postal Service executives.
+- 2012-04-25 — Amendment SA 2036 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Amendment SA 2036 proposed by Senator Pryor to Amendment SA 2000. (consideration: CR S2691; text: CR S2691) To express the sense of the Senate with respect to the closing and consolidation of postal facilities and post offices.
+- 2012-04-25 — Amendment SA 2039 proposed by Senator Paul to Amendment SA 2000. (consideration: CR S2688; text: CR S2688) To prohibit employees of the United States Postal Service from engaging in collective bargaining.
+- 2012-04-25 — Amendment SA 2039, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 23 - 76. Record Vote Number: 79.
+- 2012-04-25 — Amendment SA 2042 proposed by Senator Casey to Amendment SA 2000. (consideration: CR S2688-2689; text: CR S2688-2689) To maintain current delivery time for market-dominant products.
+- 2012-04-25 — Amendment SA 2042, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 80.
+- 2012-04-25 — Amendment SA 2046 proposed by Senator DeMint to Amendment SA 2000. (consideration: CR S2690; text: CR S2690) To provide protections for postal workers with respect to their right not to subsidize union nonrepresentational activities.
+- 2012-04-25 — Amendment SA 2046, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 81.
+- 2012-04-25 — Amendment SA 2050 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Amendment SA 2050 proposed by Senator Schumer to Amendment SA 2000. (consideration: CR S2692; text: CR S2692) To maintain all current door delivery point services.
+- 2012-04-25 — Amendment SA 2066 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Amendment SA 2066 proposed by Senator Carper to Amendment SA 2000. (consideration: CR S2687-2688; text: CR S2687) To appropriately limit the compensation of executives of the Postal Service.
+- 2012-04-25 — Amendment SA 2071 as modified agreed to in Senate by Voice Vote. (text as modifed: CR S2683)
+- 2012-04-25 — Amendment SA 2071 proposed by Senator Lieberman for Senator Warner to Amendment SA 2000. (consideration: CR S2683, S2692-2693) To require reporting regarding retirement processing and modernization.
+- 2012-04-25 — Amendment SA 2072 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Amendment SA 2072 proposed by Senator Landrieu to Amendment SA 2000. (consideration: CR S2689-2690; text: CR S2689) To determine the impact of certain postal facility closures or consolidations on small business.
+- 2012-04-25 — Amendment SA 2073 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2691)
+- 2012-04-25 — Amendment SA 2073 proposed by Senator Rockefeller to Amendment SA 2000. (consideration: CR S2691) Relative to Medicare educational program for Postal Service employees and retirees.
+- 2012-04-25 — Amendment SA 2074 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2692)
+- 2012-04-25 — Amendment SA 2074 proposed by Senator Rockefeller to Amendment SA 2000. (consideration: CR S2691-2692) To improve the Postal Service Health Benefits Program.
+- 2012-04-25 — Amendment SA 2076 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Amendment SA 2076 proposed by Senator Bingaman to Amendment SA 2000. (consideration: CR S2684-2785; text: CR S2685) To require that State liaisons for States without a district office are located within their respective States.
+- 2012-04-25 — Amendment SA 2079 proposed by Senator Manchin to Amendment SA 2000. (consideration: CR S2683-2684; text: CR S2684) To extend the moratorium on the closing and consolidation of postal facilities or post offices, stations, or branches.
+- 2012-04-25 — Amendment SA 2079, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 53. Record Vote Number: 77.
+- 2012-04-25 — Considered by Senate. (consideration: CR S2683)
+- 2012-04-25 — Considered by Senate. (consideration: CR S2683-2697)
+- 2012-04-25 — Passed Senate with an amendment by Yea-Nay Vote. 62 - 37. Record Vote Number: 82.
+- 2012-04-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 62 - 37. Record Vote Number: 82.
+- 2012-04-25 — Roll call votes on amendments in Senate: Amendment SA 2028, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 78.
+- 2012-04-25 — Roll call votes on amendments in Senate: Amendment SA 2039, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 23 - 76. Record Vote Number: 79.
+- 2012-04-25 — Roll call votes on amendments in Senate: Amendment SA 2042, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 80.
+- 2012-04-25 — Roll call votes on amendments in Senate: Amendment SA 2046, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 81.
+- 2012-04-25 — Roll call votes on amendments in Senate: Amendment SA 2079, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 53. Record Vote Number: 77.
+- 2012-04-25 — Senate amendment agreed to: Amendment SA 2000 as modified agreed to in Senate by Unanimous Consent.
+- 2012-04-25 — Senate amendment agreed to: Amendment SA 2027 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Senate amendment agreed to: Amendment SA 2029 agreed to in Senate by Voice Vote.(text as modified: CR S2687)
+- 2012-04-25 — Senate amendment agreed to: Amendment SA 2030 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Senate amendment agreed to: Amendment SA 2032 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Senate amendment agreed to: Amendment SA 2036 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Senate amendment agreed to: Amendment SA 2050 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Senate amendment agreed to: Amendment SA 2066 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Senate amendment agreed to: Amendment SA 2071 as modified agreed to in Senate by Voice Vote.(text as modifed: CR S2683)
+- 2012-04-25 — Senate amendment agreed to: Amendment SA 2072 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Senate amendment agreed to: Amendment SA 2073 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2691)
+- 2012-04-25 — Senate amendment agreed to: Amendment SA 2074 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2692)
+- 2012-04-25 — Senate amendment agreed to: Amendment SA 2076 agreed to in Senate by Voice Vote.
+- 2012-04-25 — Senate amendment not agreed to: Amendment SA 2028, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 78.
+- 2012-04-25 — Senate amendment not agreed to: Amendment SA 2039, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 23 - 76. Record Vote Number: 79.
+- 2012-04-25 — Senate amendment not agreed to: Amendment SA 2042, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 44 - 54. Record Vote Number: 80.
+- 2012-04-25 — Senate amendment not agreed to: Amendment SA 2046, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 81.
+- 2012-04-25 — Senate amendment not agreed to: Amendment SA 2079, under the order of 4/19/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 53. Record Vote Number: 77.
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2027 proposed by Senator Paul to Amendment SA 2000.(consideration: CR S2685; text: CR S2685)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2028 proposed by Senator Paul to Amendment SA 2000.(consideration: CR S2685-2687; text: CR S2685-2686)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2029 proposed by Senator Paul to Amendment SA 2000.(consideration: CR S2687)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2030 proposed by Senator McCaskill to Amendment SA 2000.(consideration: CR S2690-2691)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2032 proposed by Senator Tester to Amendment SA 2000.(consideration: CR S2693; text: CR S2693)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2036 proposed by Senator Pryor to Amendment SA 2000.(consideration: CR S2691; text: CR S2691)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2039 proposed by Senator Paul to Amendment SA 2000.(consideration: CR S2688; text: CR S2688)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2042 proposed by Senator Casey to Amendment SA 2000.(consideration: CR S2688-2689; text: CR S2688-2689)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2046 proposed by Senator DeMint to Amendment SA 2000.(consideration: CR S2690; text: CR S2690)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2050 proposed by Senator Schumer to Amendment SA 2000.(consideration: CR S2692; text: CR S2692)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2066 proposed by Senator Carper to Amendment SA 2000.(consideration: CR S2687-2688; text: CR S2687)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2071 proposed by Senator Lieberman for Senator Warner to Amendment SA 2000.(consideration: CR S2683, S2692-2693)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2072 proposed by Senator Landrieu to Amendment SA 2000.(consideration: CR S2689-2690; text: CR S2689)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2073 proposed by Senator Rockefeller to Amendment SA 2000.(consideration: CR S2691)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2074 proposed by Senator Rockefeller to Amendment SA 2000.(consideration: CR S2691-2692)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2076 proposed by Senator Bingaman to Amendment SA 2000.(consideration: CR S2684-2785; text: CR S2685)
+- 2012-04-25 — Senate amendment proposed (on the floor): Amendment SA 2079 proposed by Senator Manchin to Amendment SA 2000.(consideration: CR S2683-2684; text: CR S2684)
