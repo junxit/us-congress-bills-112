@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4348
 congress: 112
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4348
@@ -29,11 +29,12 @@ MAP-21
 - House — Ways and Means Committee
 - House — Transportation and Infrastructure Committee
 
-## Recorded votes (3)
+## Recorded votes (4)
 
 - 2012-04-18 — [House 112-2-168](votes/house-112-2-0168.md) — On Agreeing to the Amendment — **Agreed to** (255–165)
 - 2012-04-18 — [House 112-2-169](votes/house-112-2-0169.md) — On Motion to Recommit with Instructions — **Failed** (176–242)
 - 2012-04-18 — [House 112-2-170](votes/house-112-2-0170.md) — On Passage — **Passed** (293–127)
+- 2012-04-25 — [House 112-2-179](votes/house-112-2-0179.md) — On Motion to Instruct Conferees — **Failed** (181–242)
 
 ## Actions
 
@@ -86,3 +87,24 @@ MAP-21
 - 2012-04-18 — The previous question was ordered pursuant to the rule. (consideration: CR H1959)
 - 2012-04-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of the Ribble amendment which had been debated earlier and on which further proceedings had been postponed.
 - 2012-04-19 — Received in the Senate.
+- 2012-04-20 — Referred to the Subcommittee on Energy and Power.
+- 2012-04-24 — Measure laid before Senate by unanimous consent. (consideration: CR S2615)
+- 2012-04-24 — Message on Senate action sent to the House.
+- 2012-04-24 — Passed Senate with an amendment by Unanimous Consent.
+- 2012-04-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2012-04-24 — See also S. 1813.
+- 2012-04-24 — Senate insists on its amendment, asks for a conference, appoints conferees Boxer; Baucus; Rockefeller; Durbin; Johnson SD; Schumer; Nelson FL; Menendez; Inhofe; Vitter; Hatch; Shelby; Hutchison; Hoeven pursuant to the order of 3/7/2012.
+- 2012-04-24 — Senate struck all after the Enacting Clause and substituted the language of S. 1813 amended pursuant to the order of 3/7/2012.
+- 2012-04-25 — DEBATE - The House proceeded with one hour of debate on the Rahall motion to instruct conferees on H.R. 4348. The instructions contained in the motion seek to require the managers on the part of the House at conference on the disagreeing votes of the two Houses on the Senate amendment to the bill H.R. 4348 be instructed to recede from disagreement to the amendment of the Senate.
+- 2012-04-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-04-25 — Mr. Mica asked unanimous consent that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H2099)
+- 2012-04-25 — Mr. Rahall moved that the House instruct conferees. (consideration: CR H2099-2106, H2106-2107, H2108; text: CR H2099)
+- 2012-04-25 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection. (consideration: CR H2099)
+- 2012-04-25 — On motion that the House instruct conferees Failed by the Yeas and Nays: 181 - 242 (Roll no. 179). (consideration: CR H2106)
+- 2012-04-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rahall motion to instruct conferees on H.R. 4348, the Chair put the question on the motion and by voice vote announced that the noes had prevailed. Mr. Rahall demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2012-04-25 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of sec. 142 and titles II and V of the House bill, and secs. 1113, 1201, 1202, subtitles B, C, D, and E of title I of Division C, secs. 32701-32705, 32710, 32713, 40101, and 40301 of the Senate amendment, and modifications committed to conference: Upton, Whitfield, and Waxman.
+- 2012-04-25 — The Speaker appointed conferees - from the Committee on Natural Resources for consideration of secs. 123, 142, 204, and titles III and VI of the House bill, and sec. 1116, subtitles C, F, and G of title I of Division A, sec. 33009, titles VI and VII of Division C, sec. 40101, subtitles A and B of title I of Division F, and sec. 100301 of the Senate amendment, and modifications committed to conference: Hastings (WA), Bishop (UT), and Markey.
+- 2012-04-25 — The Speaker appointed conferees - from the Committee on Science, Space, and Technology for consideration of secs. 121, 123, 136, and 137 of the House bill, and sec. 1534, subtitle F of title I of Division A, secs. 20013, 20014, 20029, 31101, 31103, 31111, 31204, 31504, 32705, 33009, 34008, and Division E of the Senate amendment, and modifications committed to conference: Hall, Cravaack, and Johnson, E. B.
+- 2012-04-25 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of the House bill (except sec. 141) and the Senate amendment (except secs. 1801, 40102, 40201, 40202, 40204, 40205, 40305, 40307, 40309-40312, 100112-100114, and 100116), and modifications committed to conference: Mica, Young (AK), Duncan (TN), Shuster, Capito, Crawford, Herrera Beutler, Bucshon, Hanna, Southerland, Lankford, Ribble, Rahall, DeFazio, Costello, Norton, Nadler, Brown (FL), Cummings, Boswell, and Bishop (NY).
+- 2012-04-25 — The Speaker appointed conferees - from the Committee on Ways and Means for consideration of secs. 141 and 142 of the House bill, and secs. 1801, 40101, 40102, 40201, 40202, 40204, 40205, 40301-40307, 40309-40314, 100112-100114, and 100116 of the Senate amendment, and modifications committed to conference: Camp, Tiberi, and Blumenauer.
+- 2012-04-25 — The previous question was ordered without objection. (consideration: CR H2106)
