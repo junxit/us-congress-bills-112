@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2308
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2308
@@ -16,7 +16,7 @@ SEC Regulatory Accountability Act
 
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
 
-## Cosponsors (15)
+## Cosponsors (19)
 
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 - Rep. Hensarling, Jeb [R-TX-5] (H001036)
@@ -33,6 +33,10 @@ SEC Regulatory Accountability Act
 - Rep. Hurt, Robert [R-VA-5] (H001060)
 - Rep. Canseco, Francisco "Quico" [R-TX-23] (C001082)
 - Rep. Yoder, Kevin [R-KS-3] (Y000063)
+- Rep. Grimm, Michael G. [R-NY-13] (G000569)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
 
 ## Committees (1)
 
@@ -43,3 +47,12 @@ SEC Regulatory Accountability Act
 - 2011-06-23 — Introduced in House
 - 2011-06-23 — Introduced in House
 - 2011-06-23 — Referred to the House Committee on Financial Services.
+- 2011-07-19 — Referred to the Subcommittee on Capital Markets and Government Sponsored Enterprises.
+- 2011-09-15 — Committee Hearings Held.
+- 2011-11-15 — Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 19 - 15 .
+- 2011-11-15 — Subcommittee Consideration and Mark-up Session Held.
+- 2012-02-16 — Committee Consideration and Mark-up Session Held.
+- 2012-02-16 — Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 26.
+- 2012-04-25 — Placed on the Union Calendar, Calendar No. 317.
+- 2012-04-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 112-453.
+- 2012-04-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 112-453.
