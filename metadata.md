@@ -1,7 +1,7 @@
 ---
 measure: H.R. 491
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 491
@@ -16,9 +16,10 @@ To modify the boundaries of Cibola National Forest in the State of New Mexico, t
 
 - Rep. Heinrich, Martin [D-NM-1] (H001046)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To modify the boundaries of Cibola National Forest in the State of New Mexico, t
 - 2012-04-24 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2012-04-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2049)
 - 2012-04-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2049)
+- 2012-04-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
