@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3004
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3004
@@ -94,3 +94,8 @@ To designate the facility of the United States Postal Service located at 260 Cal
 - 2011-11-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 11/14/2011 H7409)
 - 2011-11-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 11/14/2011 H7409)
 - 2011-11-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2011-11-30 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2012-04-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2012-04-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2012-04-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2012-04-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 378.
