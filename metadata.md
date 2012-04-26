@@ -1,7 +1,7 @@
 ---
 measure: S. 2224
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2224
@@ -28,3 +28,7 @@ A bill to require the President to report to Congress on issues related to Syria
 
 - 2012-03-22 — Introduced in Senate
 - 2012-03-22 — Read twice and referred to the Committee on Foreign Relations.
+- 2012-04-26 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2012-04-26 — Committee on Foreign Relations. Reported by Senator Kerry without amendment. Without written report.
+- 2012-04-26 — Committee on Foreign Relations. Reported by Senator Kerry without amendment. Without written report.
+- 2012-04-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 385.
