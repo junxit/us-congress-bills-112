@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4257
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -34,8 +34,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | Chapter 35 of title 44, United States Code, is amended by striking subchapters II and III and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | The table of sections for chapter 35 of title 44, United States Code, is amended by striking the matter relating to subchapters II and III and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 1001(c)(1)(A) of the Homeland Security Act of 2002 (6 U.S.C. 511(c)(1)(A)) is amended by striking “section 3532(3)” and inserting “section 3552(b)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 2222(j)(6) of title 10, United States Code, is amended by striking “section 3542(b)(2))” and inserting “section 3552(b)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 2223(c)(3) of title 10, United States Code, is amended, by striking “section 3542(b)(2))” and inserting “section 3552(b)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2222(j)(5) of title 10, United States Code, is amended by striking “section 3542(b)(2)” and inserting “section 3552(b)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2223(c)(3) of title 10, United States Code, is amended, by striking “section 3542(b)(2)” and inserting “section 3552(b)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 2315 of title 10, United States Code, is amended by striking “section 3542(b)(2)” and inserting “section 3552(b)”. | the bill names no machine-readable US Code section |
 | — | replace | in subsections (a)(2) and (e)(5), by striking “section 3532(b)(2)” and inserting “section 3552(b)”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e)(2), by striking “section 3532(1)” and inserting “section 3552(b)”. | the bill names no machine-readable US Code section |
