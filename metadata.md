@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1016
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1016
@@ -62,3 +62,7 @@ Assessing Progress in Haiti Act
 - 2011-05-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3127)
 - 2011-05-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3127)
 - 2011-05-11 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2012-04-26 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2012-04-26 — Committee on Foreign Relations. Reported by Senator Kerry without amendment. Without written report.
+- 2012-04-26 — Committee on Foreign Relations. Reported by Senator Kerry without amendment. Without written report.
+- 2012-04-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 387.
