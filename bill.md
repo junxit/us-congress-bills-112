@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Violence Against Women Reauthorization Act of 2011”.
+This Act may be cited as the “Violence Against Women Reauthorization Act of 2012”.
 
 ## § 2. Table of contents
 
@@ -22,75 +22,83 @@ The table of contents for this Act is as follows:
 - **(a)** *Definitions* Subsection (a) of section 40002 of the Violence Against Women Act of 1994 (42 U.S.C. 13925(a)) is amended—
   - **(1)** by redesignating—
     - **(A)** paragraph (1) as paragraph (2);
-    - **(B)** paragraph (2) as paragraph (4);
-    - **(C)** paragraphs (3) through (5) as paragraphs (5) through (7), respectively;
-    - **(D)** paragraphs (6) through (9) as paragraphs (10) through (13), respectively;
-    - **(E)** paragraphs (10) through (16) as paragraphs (15) through (21), respectively;
-    - **(F)** paragraph (18) as paragraph (22);
-    - **(G)** paragraphs (19) and (20) as paragraphs (25) and (26), respectively;
-    - **(H)** paragraphs (21) and (22) as paragraphs (28) and (29), respectively;
-    - **(I)** paragraphs (23) through (33) as paragraphs (31) through (41), respectively;
+    - **(B)** paragraph (2) as paragraph (3);
+    - **(C)** paragraphs (3) and (4) as paragraphs (4) and (5), respectively;
+    - **(D)** paragraphs (6) through (9) as paragraphs (8) through (11), respectively;
+    - **(E)** paragraphs (10) through (16) as paragraphs (13) through (19), respectively;
+    - **(F)** paragraph (18) as paragraph (20);
+    - **(G)** paragraphs (19) and (20) as paragraphs (23) and (24), respectively;
+    - **(H)** paragraphs (21) through (23) as paragraphs (26) through (28), respectively;
+    - **(I)** paragraphs (24) through (33) as paragraphs (30) through (39), respectively;
     - **(J)** paragraphs (34) and (35) as paragraphs (43) and (44); and
-    - **(K)** paragraph (37) as paragraph (47);
+    - **(K)** paragraph (37) as paragraph (45);
   - **(2)** by inserting before paragraph (2), as redesignated, the following:
     > - **(1)** *Alaska Native village* The term Alaska Native village has the same meaning given such term in the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
 
-  - **(3)** by inserting after paragraph (2), as redesignated, the following:
-    > - **(2)** *Child* The term child means a person who is under 11 years of age.
-
-  - **(4)** in paragraph (4), as redesignated, by striking “serious harm.” and inserting “serious harm to unemancipated minor.”;
-  - **(5)** in paragraph (5), as redesignated, by striking “The term” through “that—” and inserting “The term community-based organization means a nonprofit, nongovernmental, or tribal organization that serves a specific geographic community that—”;
+  - **(3)** in paragraph (3), as redesignated, by striking “serious harm.” and inserting “serious harm to an unemancipated minor.”;
+  - **(4)** in paragraph (4), as redesignated, by striking “The term” through “that—” and inserting “The term community-based organization means a nonprofit, nongovernmental, or tribal organization that serves a specific geographic community that—”;
+  - **(5)** by striking paragraph (5), as in effect before the amendments made by this subsection;
   - **(6)** by inserting after paragraph (7), as redesignated, the following:
-    > - **(8)** *Culturally specific services* The term culturally specific services means community-based services that offer culturally relevant and linguistically specific services and resources to culturally specific communities.
-    > - **(9)** *Culturally specific* The term culturally specific means primarily directed toward racial and ethnic minority groups (as defined in section 1707(g) of the Public Health Service Act (42 U.S.C. 300–u–6(g)).
+    > - **(6)** *Culturally specific services* The term culturally specific services means community-based services that include culturally relevant and linguistically specific services and resources to culturally specific communities.
+    > - **(7)** *Culturally specific* The term culturally specific means primarily directed toward racial and ethnic minority groups (as defined in section 1707(g) of the Public Health Service Act (42 U.S.C. 300u–6(g)).
 
-  - **(7)** in paragraph (10), as redesignated, by inserting “or intimate partner” after “former spouse” and “as a spouse”;
-  - **(8)** by inserting after paragraph (13), as redesignated, the following:
-    > - **(14)** *Homeless* The term homeless has the meaning provided in 42 U.S.C. 14043e–2(6).
+  - **(7)** in paragraph (8), as redesignated, by inserting “or intimate partner” after “former spouse” and “as a spouse”;
+  - **(8)** by inserting after paragraph (11), as redesignated, the following:
+    > - **(12)** *Homeless* The term homeless has the meaning provided in 42 U.S.C. 14043e–2(6).
 
-  - **(9)** in paragraph (21), as redesignated, by inserting at the end the following:
-  - **(10)** by striking paragraph (17), as in effect before the amendments made by this subsection;
-  - **(11)** by amending paragraph (22), as redesignated, to read as follows:
-    > - **(22)** *Personally identifying information or personal information* The term personally identifying information or personal information means individually identifying information for or about an individual including information likely to disclose the location of a victim of domestic violence, dating violence, sexual assault, or stalking, regardless of whether the information is encoded, encrypted, hashed, or otherwise protected, including—
+  - **(9)** in paragraph (18), as redesignated, by inserting “or Village Public Safety Officers” after “government victim service programs;
+  - **(10)** in paragraph (21), as redesignated, by inserting at the end the following:
+  - **(11)** by striking paragraph (17), as in effect before the amendments made by this subsection;
+  - **(12)** by amending paragraph (20), as redesignated, to read as follows:
+    > - **(20)** *Personally identifying information or personal information* The term personally identifying information or personal information means individually identifying information for or about an individual including information likely to disclose the location of a victim of domestic violence, dating violence, sexual assault, or stalking, regardless of whether the information is encoded, encrypted, hashed, or otherwise protected, including—
     >   - **(A)** a first and last name;
     >   - **(B)** a home or other physical address;
     >   - **(C)** contact information (including a postal, e-mail or Internet protocol address, or telephone or facsimile number);
     >   - **(D)** a social security number, driver license number, passport number, or student identification number; and
     >   - **(E)** any other information, including date of birth, racial or ethnic background, or religious affiliation, that would serve to identify any individual.
 
-  - **(12)** by inserting after paragraph (22), as redesignated, the following:
-    > - **(23)** *Population specific organization* The term population specific organization means a nonprofit, nongovernmental organization that primarily serves members of a specific underserved population and has demonstrated experience and expertise providing targeted services to members of that specific underserved population.
-    > - **(24)** *Population specific services* The term population specific services means victim-centered services that address the safety, health, economic, legal, housing, workplace, immigration, confidentiality, or other needs of victims of domestic violence, dating violence, sexual assault, or stalking, and that are designed primarily for and are targeted to a specific underserved population.
+  - **(13)** by inserting after paragraph (20), as redesignated, the following:
+    > - **(21)** *Population specific organization* The term population specific organization means a nonprofit, nongovernmental organization that primarily serves members of a specific underserved population and has demonstrated experience and expertise providing targeted services to members of that specific underserved population.
+    > - **(22)** *Population specific services* The term population specific services means victim-centered services that address the safety, health, economic, legal, housing, workplace, immigration, confidentiality, or other needs of victims of domestic violence, dating violence, sexual assault, or stalking, and that are designed primarily for and are targeted to a specific underserved population.
 
-  - **(13)** in paragraph (25), as redesignated, by striking “services” and inserting “assistance”;
-  - **(14)** by inserting after paragraph (26), as redesignated, the following:
-    > - **(27)** *Rape crisis center* The term rape crisis center means a nonprofit, nongovernmental, or tribal organization, or governmental entity in a State other than a Territory that provides intervention and related assistance, as specified in 42 U.S.C. 14043g(b)(2)(C), to victims of sexual assault without regard to their age. In the case of a governmental entity, the entity may not be part of the criminal justice system (such as a law enforcement agency) and must be able to offer a comparable level of confidentiality as a nonprofit entity that provides similar victim services.
+  - **(14)** in paragraph (23), as redesignated, by striking “services” and inserting “assistance”;
+  - **(15)** by inserting after paragraph (24), as redesignated, the following:
+    > - **(25)** *Rape crisis center* The term rape crisis center means a nonprofit, nongovernmental, or tribal organization, or governmental entity in a State other than a Territory that provides intervention and related assistance, as specified in 42 U.S.C. 14043g(b)(2)(C), to victims of sexual assault without regard to their age. In the case of a governmental entity, the entity may not be part of the criminal justice system (such as a law enforcement agency) and must be able to offer a comparable level of confidentiality as a nonprofit entity that provides similar victim services.
 
-  - **(15)** in paragraph (28), as redesignated—
+  - **(16)** in paragraph (26), as redesignated—
     - **(A)** in subparagraph (A), by striking “or” after the semicolon;
     - **(B)** in subparagraph (B), by striking the period and inserting “; or”; and
     - **(C)** by inserting at the end the following:
       > - **(C)** any federally recognized Indian tribe.
 
-  - **(16)** in paragraph (29), as redesignated, by striking “150,000” and inserting “250,000”;
-  - **(17)** by inserting after paragraph (29), as redesignated, the following:
-    > - **(30)** *Sex trafficking* The term sex trafficking means any conduct proscribed by 18 U.S.C. 1591, whether or not the conduct occurs in interstate or foreign commerce or within the special maritime and territorial jurisdiction of the United States.
+  - **(17)** in paragraph (27), as redesignated—
+    - **(A)** by striking “52” and inserting “57”; and
+    - **(B)** by striking “150,000” and inserting “250,000”;
+  - **(18)** by striking paragraph (28), as redesignated, and inserting the following:
+    > - **(28)** *Sexual assault* The term sexual assault means any nonconsensual sexual act proscribed by Federal, tribal, or State law, including when the victim lacks capacity to consent.
 
-  - **(18)** by striking paragraph (31), as redesignated, and inserting the following:
-    > - **(31)** *Sexual assault* The term sexual assault means any nonconsensual sexual act proscribed by Federal, tribal, or State law, including when the victim lacks capacity to consent.
+  - **(19)** by inserting after paragraph (28), as redesignated, the following:
+    > - **(29)** *Sex trafficking* The term sex trafficking means any conduct proscribed by 18 U.S.C. 1591, whether or not the conduct occurs in interstate or foreign commerce or within the special maritime and territorial jurisdiction of the United States.
 
-  - **(19)** by amending paragraph (41), as redesignated, to read as follows:
-    > - **(41)** *Underserved populations* The term underserved populations means populations who face barriers in accessing and using victim services, and includes populations underserved because of geographic location, sexual orientation, gender identity, underserved racial and ethnic populations, populations underserved because of special needs (such as language barriers, disabilities, alienage status, or age), and any other population determined to be underserved by the Attorney General or by the Secretary of Health and Human Services, as appropriate.
+  - **(20)** by striking paragraph (35), as redesignated, and inserting the following:
+    > - **(35)** *Tribal coalition* The term tribal coalition means an established nonprofit, nongovernmental Indian organization, Alaska Native organization, or a Native Hawaiian organization that—
+    >   - **(A)** provides education, support, and technical assistance to member Indian service providers in a manner that enables those member providers to establish and maintain culturally appropriate services, including shelter and rape crisis services, designed to assist Indian women and the dependents of those women who are victims of domestic violence, dating violence, sexual assault, and stalking; and
+    >   - **(B)** is comprised of board and general members that are representative of—
+    >     - **(i)** the member service providers described in subparagraph (A); and
+    >     - **(ii)** the tribal communities in which the services are being provided;
 
-  - **(20)** by inserting after paragraph (41), as redesignated, the following:
-    > - **(42)** *Unit of local government* The term unit of local government means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State.
+  - **(21)** by amending paragraph (39), as redesignated, to read as follows:
+    > - **(39)** *Underserved populations* The term underserved populations means populations who face barriers in accessing and using victim services, and includes populations underserved because of geographic location, religion, sexual orientation, gender identity, underserved racial and ethnic populations, populations underserved because of special needs (such as language barriers, disabilities, alienage status, or age), and any other population determined to be underserved by the Attorney General or by the Secretary of Health and Human Services, as appropriate.
 
-  - **(21)** by striking paragraph (36), as in effect before the amendments made by this subsection, and inserting the following:
-    > - **(45)** *Victim services or services* The terms victim services and services mean services provided to victims of domestic violence, dating violence, sexual assault, or stalking, including telephonic or web-based hotlines, legal advocacy, economic advocacy, emergency and transitional shelter, accompaniment and advocacy through medical, civil or criminal justice, immigration, and social support systems, crisis intervention, short-term individual and group support services, information and referrals, culturally specific services, population specific services, and other related supportive services.
-    > - **(46)** *Victim service provider* The term victim service provider means a nonprofit, nongovernmental or tribal organization or rape crisis center, including a State or tribal coalition, that assists domestic violence, dating violence, sexual assault, or stalking victims, including domestic violence shelters, faith-based organizations, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
+  - **(22)** by inserting after paragraph (39), as redesignated, the following:
+    > - **(40)** *Unit of local government* The term unit of local government means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State.
 
-  - **(22)** by striking paragraph (47), as redesignated, and inserting the following:
-    > - **(47)** *Youth* The term youth means a person who is 11 to 24 years old.
+  - **(23)** by striking paragraph (36), as in effect before the amendments made by this subsection, and inserting the following:
+    > - **(41)** *Victim services or services* The terms victim services and services means services provided to victims of domestic violence, dating violence, sexual assault, or stalking, including telephonic or web-based hotlines, legal advocacy, economic advocacy, emergency and transitional shelter, accompaniment and advocacy through medical, civil or criminal justice, immigration, and social support systems, crisis intervention, short-term individual and group support services, information and referrals, culturally specific services, population specific services, and other related supportive services.
+    > - **(42)** *Victim service provider* The term victim service provider means a nonprofit, nongovernmental or tribal organization or rape crisis center, including a State or tribal coalition, that assists or advocates for domestic violence, dating violence, sexual assault, or stalking victims, including domestic violence shelters, faith-based organizations, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
+
+  - **(24)** by striking paragraph (43), as redesignated, and inserting the following:
+    > - **(43)** *Youth* The term youth means a person who is 11 to 24 years old.
 
 - **(b)** *Grants conditions* Subsection (b) of section 40002 of the Violence Against Women Act of 1994 (42 U.S.C. 13925(b)) is amended—
   - **(1)** in paragraph (2)—
@@ -110,23 +118,23 @@ The table of contents for this Act is as follows:
 
     - **(C)** by redesignating subparagraph (E) as subparagraph (F);
     - **(D)** by inserting after subparagraph (D) the following:
-      > - **(E)** *Statutorily mandated reports of abuse or neglect* Nothing in this section prohibits a grantee or subgrantee from reporting suspected abuse or neglect, as those terms are defined by law, where specifically mandated by the State or tribe involved.
+      > - **(E)** *Statutorily mandated reports of abuse or neglect* Nothing in this section prohibits a grantee or subgrantee from reporting suspected abuse or neglect, as those terms are defined and specifically mandated by the State or tribe involved.
 
     - **(E)** by inserting after subparagraph (F), as redesignated, the following:
       > - **(G)** *Confidentiality assessment and assurances* Grantees and subgrantees must document their compliance with the confidentiality and privacy provisions required under this section.
 
   - **(2)** by striking paragraph (3) and inserting the following:
-    > - **(3)** *Approved activities* In carrying out the activities under this title, grantees and subgrantees may collaborate with, or provide information to Federal, State, local, tribal, and territorial public officials and agencies to develop and implement policies and develop and promote State, local, or tribal legislation or model codes designed to reduce or eliminate domestic violence, dating violence, sexual assault, and stalking.
+    > - **(3)** *Approved activities* In carrying out the activities under this title, grantees and subgrantees may collaborate with or provide information to Federal, State, local, tribal, and territorial public officials and agencies to develop and implement policies and develop and promote State, local, or tribal legislation or model codes designed to reduce or eliminate domestic violence, dating violence, sexual assault, and stalking.
 
   - **(3)** in paragraph (7), by inserting at the end the following:
   - **(4)** by inserting after paragraph (11) the following:
     > - **(12)** *Delivery of legal assistance* Any grantee or subgrantee providing legal assistance with funds awarded under this title shall comply with the eligibility requirements in section 1201(d) of the Violence Against Women Act of 2000 (42 U.S.C. 3796gg–6(d)).
     > - **(13)** *Civil Rights*
-    >   - **(A)** *Nondiscrimination* No person in the United States shall on the basis of actual or perceived race, color, religion, national origin, sex, gender identity (as defined in paragraph 249(c)(4) of title 18, United States Code), sexual orientation, or disability be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity funded in whole or in part with funds made available under the Violence Against Women Act of 1994 (title IV of Public Law 103–322; 108 Stat. 1902), the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of Public Law 109–162; 119 Stat. 3080), the Violence Against Women Reauthorization Act of 2011, and any other program or activity funded in whole or in part with funds appropriated for grants, cooperative agreements, and other assistance administered by the Office on Violence Against Women.
-    >   - **(B)** *Exception* If gender segregation or gender-specific programming is necessary to the essential operation of a program, nothing in this paragraph shall prevent any such program or activity from consideration of an individual’s gender. In such circumstances, alternative reasonable accommodations are sufficient to meet the requirements of this paragraph.
-    >   - **(C)** *Discrimination* The provisions of paragraphs (2) through (4) of section 809(c) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3789d(c)) apply to violations of subparagraph (A).
+    >   - **(A)** *Nondiscrimination* No person in the United States shall, on the basis of actual or perceived race, color, religion, national origin, sex, gender identity (as defined in paragraph 249(c)(4) of title 18, United States Code), sexual orientation, or disability, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity funded in whole or in part with funds made available under the Violence Against Women Act of 1994 (title IV of Public Law 103–322; 108 Stat. 1902), the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of Public Law 109–162; 119 Stat. 3080), the Violence Against Women Reauthorization Act of 2011, and any other program or activity funded in whole or in part with funds appropriated for grants, cooperative agreements, and other assistance administered by the Office on Violence Against Women.
+    >   - **(B)** *Exception* If sex segregation or sex-specific programming is necessary to the essential operation of a program, nothing in this paragraph shall prevent any such program or activity from consideration of an individual’s sex. In such circumstances, grantees may meet the requirements of this paragraph by providing comparable services to individuals who cannot be provided with the sex-segregated or sex-specific programming.
+    >   - **(C)** *Discrimination* The authority of the Attorney General and the Office of Justice Programs to enforce this paragraph shall be the same as it is under section 3789d of title 42, United States Code.
     >   - **(D)** *Construction* Nothing contained in this paragraph shall be construed, interpreted, or applied to supplant, displace, preempt, or otherwise diminish the responsibilities and liabilities under other State or Federal civil rights law, whether statutory or common.
-    > - **(14)** *Clarification of victim services and legal assistance* Victim services and legal assistance provided under this title may include services and assistance to victims of domestic violence, dating violence, sexual assault, or stalking who are also victims of severe forms of trafficking in persons as defined by section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102).
+    > - **(14)** *Clarification of victim services and legal assistance* Victim services and legal assistance under this title also include services and assistance to victims of domestic violence, dating violence, sexual assault, or stalking who are also victims of severe forms of trafficking in persons as defined by section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102).
     > - **(15)** *Conferral*
     >   - **(A)** *In general* The Office on Violence Against Women shall establish a biennial conferral process with State and tribal coalitions and technical assistance providers who receive funding through grants administered by the Office on Violence Against Women and authorized by this Act, and other key stakeholders.
     >   - **(B)** *Areas covered* The areas of conferral under this paragraph shall include—
@@ -136,7 +144,7 @@ The table of contents for this Act is as follows:
     >     - **(iv)** emerging trends.
     >   - **(C)** *Initial conferral* The first conferral shall be initiated not later than 6 months after the date of enactment of the Violence Against Women Reauthorization Act of 2011.
     >   - **(D)** *Report* Not later than 90 days after the conclusion of each conferral period, the Office on Violence Against Women shall publish a comprehensive report that—
-    >     - **(i)** summarizes the issues presented during conferral and what, if any, policies it intends to implement to address those issues; and
+    >     - **(i)** summarizes the issues presented during conferral and what, if any, policies it intends to implement to address those issues;
     >     - **(ii)** is made available to the public on the Office on Violence Against Women’s website and submitted to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
     > - **(16)** *Accountability* All grants awarded by the Attorney General under this Act shall be subject to the following accountability provisions:
     >   - **(A)** *Audit requirement*
@@ -154,9 +162,13 @@ The table of contents for this Act is as follows:
     >   - **(C)** *Conference expenditures*
     >     - **(i)** *Limitation* No amounts authorized to be appropriated to the Department of Justice under this Act may be used by the Attorney General, or by any individual or organization awarded discretionary funds through a cooperative agreement under this Act, to host or support any expenditure for conferences that uses more than $20,000 in Department funds, unless the Deputy Attorney General or such Assistant Attorney Generals, Directors, or principal deputies as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
     >     - **(ii)** *Written approval* Written approval under clause (i) shall include a written estimate of all costs associated with the conference, including the cost of all food and beverages, audiovisual equipment, honoraria for speakers, and any entertainment.
-    >     - **(iii)** *Report* The Deputy Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on all approved conference expenditures referenced in paragraph (1).
+    >     - **(iii)** *Report* The Deputy Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on all approved conference expenditures referenced in this paragraph.
     >   - **(D)** *Annual certification* Beginning in the first fiscal year beginning after the date of the enactment of this Act, the Attorney General shall submit, to the Committee on the Judiciary and the Committee on Appropriations of the Senate and the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives, an annual certification that—
     >     - **(i)** all audits issued by the Office of the Inspector General under paragraph (1) have been completed and reviewed by the appropriate Assistant Attorney General or Director;
     >     - **(ii)** all mandatory exclusions required under subparagraph (A)(iii) have been issued;
     >     - **(iii)** all reimbursements required under subparagraph (A)(v) have been made; and
     >     - **(iv)** includes a list of any grant recipients excluded under subparagraph (A) from the previous year.
+
+## § 4. Effective date
+
+Except as otherwise specifically provided in this Act, the provisions of titles I, II, III, IV, VII, and sections 3, 602, 901, and 902 of this Act shall not take effect until the beginning of the fiscal year following the date of enactment of this Act.
