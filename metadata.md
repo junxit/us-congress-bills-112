@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2240
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2240
@@ -33,3 +33,11 @@ Lowell National Historical Park Land Exchange Act of 2012
 - 2012-04-19 — Placed on the Union Calendar, Calendar No. 314.
 - 2012-04-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-450.
 - 2012-04-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-450.
+- 2012-04-24 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Bishop (UT) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2012-04-24 — Considered under suspension of the rules. (consideration: CR H2050)
+- 2012-04-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2240.
+- 2012-04-24 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
+- 2012-04-26 — Considered as unfinished business. (consideration: CR H2156)
+- 2012-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-04-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 4/24/2012 H2050)
+- 2012-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 4/24/2012 H2050)
