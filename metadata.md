@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2146
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2146
@@ -33,9 +33,10 @@ DATA Act
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ DATA Act
 - 2012-04-25 — Mr. Issa moved to suspend the rules and pass the bill, as amended.
 - 2012-04-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2082-2091)
 - 2012-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2082-2091)
+- 2012-04-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
