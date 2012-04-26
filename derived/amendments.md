@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3336
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 1a(49) of the Commodity Exchange Act (7 U.S.C. 1a(49)) is amended by striking all that follows subparagraph (A)(iv) through subparagraph (C) and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 2(h)(7)(C)(ii) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(C)(ii)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 1a(33)(D) of the Commodity Exchange Act (7 U.S.C. 1a(33)(D)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 2(h)(7)(C)(iii) of such Act (42 U.S.C. 2(h)(7)(C)(iii)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| `7 U.S.C. § 1a` | replace | Section 1a(49) of the Commodity Exchange Act (7 U.S.C. 1a(49)) is amended by striking all that follows subparagraph (A)(iv) through subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2` | amend | Section 2(h)(7)(C)(ii) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(C)(ii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1a` | amend | Section 1a(33)(D) of the Commodity Exchange Act (7 U.S.C. 1a(33)(D)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2` | amend | Section 2(h)(7)(C)(iii) of such Act (42 U.S.C. 2(h)(7)(C)(iii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

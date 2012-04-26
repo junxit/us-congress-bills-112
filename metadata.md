@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3336
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3336
@@ -21,9 +21,10 @@ Small Business Credit Availability Act
 - Rep. Holden, Tim [D-PA-17] (H000712)
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Small Business Credit Availability Act
 - 2012-04-25 — Mr. Lucas moved to suspend the rules and pass the bill, as amended.
 - 2012-04-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 312 - 111 (Roll no. 180). (text: CR H2095-2096)
 - 2012-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 312 - 111 (Roll no. 180).(text: CR H2095-2096)
+- 2012-04-26 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
