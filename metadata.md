@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1038
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1038
@@ -16,9 +16,10 @@ To authorize the conveyance of two small parcels of land within the boundaries o
 
 - Rep. Gosar, Paul A. [R-AZ-1] (G000565)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ To authorize the conveyance of two small parcels of land within the boundaries o
 - 2012-04-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-04-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 181). (text: CR 4/24/2012 H2045)
 - 2012-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 181).(text: CR 4/24/2012 H2045)
+- 2012-04-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
