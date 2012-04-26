@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3523
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Title XI of the National Security Act of 1947 (50 U.S.C. 442 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title XI of the National Security Act of 1947 (50 U.S.C. 442 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of contents in the first section of the National Security Act of 1947 is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | repeal | section 1104 of the National Security Act of 1947, as added by section 2(a) of this Act, is repealed; and | the bill names no machine-readable US Code section |
+| — | strike | the table of contents in the first section of the National Security Act of 1947, as amended by section 2(d) of this Act, is amended by striking the item relating to section 1104, as added by such section 2(d). | the bill names no machine-readable US Code section |

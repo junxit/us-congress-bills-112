@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3523
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3523
@@ -135,6 +135,18 @@ Cyber Intelligence Sharing and Protection Act
 
 - House — Intelligence (Permanent Select) Committee
 
+## Recorded votes (9)
+
+- 2012-04-26 — [House 112-2-184](votes/house-112-2-0184.md) — On Agreeing to the Amendment — **Failed** (167–243)
+- 2012-04-26 — [House 112-2-185](votes/house-112-2-0185.md) — On Agreeing to the Amendment — **Agreed to** (412–0)
+- 2012-04-26 — [House 112-2-186](votes/house-112-2-0186.md) — On Agreeing to the Amendment — **Agreed to** (410–3)
+- 2012-04-26 — [House 112-2-187](votes/house-112-2-0187.md) — On Agreeing to the Amendment — **Agreed to** (415–0)
+- 2012-04-26 — [House 112-2-188](votes/house-112-2-0188.md) — On Agreeing to the Amendment — **Agreed to** (416–0)
+- 2012-04-26 — [House 112-2-189](votes/house-112-2-0189.md) — On Agreeing to the Amendment — **Agreed to** (414–1)
+- 2012-04-26 — [House 112-2-190](votes/house-112-2-0190.md) — On Agreeing to the Amendment — **Agreed to** (413–3)
+- 2012-04-26 — [House 112-2-191](votes/house-112-2-0191.md) — On Motion to Recommit with Instructions — **Failed** (183–233)
+- 2012-04-26 — [House 112-2-192](votes/house-112-2-0192.md) — On Passage — **Passed** (248–168)
+
 ## Actions
 
 - 2011-11-30 — Introduced in House
@@ -145,3 +157,138 @@ Cyber Intelligence Sharing and Protection Act
 - 2012-04-17 — Placed on the Union Calendar, Calendar No. 311.
 - 2012-04-17 — Reported (Amended) by the Committee on Intelligence. H. Rept. 112-445.
 - 2012-04-17 — Reported (Amended) by the Committee on Intelligence. H. Rept. 112-445.
+- 2012-04-25 — Rule provides for consideration of H.R. 3523 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. Specified amendments are in order. The rule waives all points of order against consideration of the bill. The rule makes in order as original text for purpose of amendment the amendment in the nature of a substitute consisting of the text of Rules Committee Print 112-20 and provides that it shall be considered as read. The rule waives all points of order against the amendment in the nature of a substitute. The rule makes in order only those amendments printed in the Rules Committee report. The rule further provides that it shall be in order at any time through the legislative day of April 27, 2012, for the Speaker to entertain motions that the House suspend the rules. The rule provides further for a closed rule for consideration of H.R. 4628. The rule provides one hour of general debate and one motion to recommit. Finally, the rule provides that the Committee on Appropriations may, at any time before 6 p.m. on Wednesday, May 2, 2012 recommit. Finally, the rule provides that the Committee on Appropriations may, at any time before 6 p.m. on Wednesday, May 2, 2012 file, privileged reports to accompany measures making appropriations for the fiscal year ending September 30, 2013.
+- 2012-04-26 — Amendment (A001) offered by Mr. Langevin. (consideration: CR H2167-2169, H2179; text: CR H2167)
+- 2012-04-26 — Amendment (A002) offered by Mr. Pompeo. (consideration: CR H2169; text: CR H2169)
+- 2012-04-26 — Amendment (A003) offered by Mr. Rogers (MI). (consideration: CR H2169-2170, H2180; text: CR H2169-2170)
+- 2012-04-26 — Amendment (A004) offered by Mr. Quayle. (consideration: CR H2170-2171, H2180-2181; text: CR H2170)
+- 2012-04-26 — Amendment (A005) offered by Mr. Amash. (consideration: CR H2171-2172, H2181; text: CR H2171)
+- 2012-04-26 — Amendment (A006) offered by Mr. Mulvaney. (consideration: CR H2172-2173, H2181-2182; text: CR H2172)
+- 2012-04-26 — Amendment (A007) offered by Mr. Flake. (consideration: CR H2173; text: CR H2173)
+- 2012-04-26 — Amendment (A008) offered by Mr. Pompeo. (consideration: CR H2173; text: CR H2173)
+- 2012-04-26 — Amendment (A009) offered by Mr. Woodall. (consideration: CR H2173-2174; text: CR H2173)
+- 2012-04-26 — Amendment (A010) offered by Mr. Goodlatte. (consideration: CR H2174-2175, H2182-2183; text: CR H2174)
+- 2012-04-26 — Amendment (A011) offered by Mr. Turner (OH). (consideration: CR H2175-2176; text: CR H2175)
+- 2012-04-26 — Amendment (A012) offered by Mr. Mulvaney. (consideration: CR H2176, H2183; text: CR H2176)
+- 2012-04-26 — Amendment (A013) offered by Ms. Jackson Lee (TX). (consideration: CR H2176-2177; text: CR H2176)
+- 2012-04-26 — Amendment (A014) offered by Ms. Richardson. (consideration: CR H2177-2179; text: CR H2178)
+- 2012-04-26 — Amendment agreed to Committee of the Whole
+- 2012-04-26 — Amendment agreed to Committee of the Whole
+- 2012-04-26 — Amendment agreed to Committee of the Whole
+- 2012-04-26 — Amendment agreed to Committee of the Whole
+- 2012-04-26 — Amendment agreed to Committee of the Whole
+- 2012-04-26 — Amendment agreed to Committee of the Whole
+- 2012-04-26 — Amendment agreed to Committee of the Whole
+- 2012-04-26 — Amendment agreed to Committee of the Whole
+- 2012-04-26 — Amendment agreed to Committee of the Whole
+- 2012-04-26 — Amendment agreed to Committee of the Whole
+- 2012-04-26 — Amendment agreed to Committee of the Whole
+- 2012-04-26 — Amendment failed in Committee of the Whole
+- 2012-04-26 — Amendment failed in Committee of the Whole
+- 2012-04-26 — By unanimous consent, the Jackson Lee (TX) amendment was withdrawn. (consideration: CR H2179)
+- 2012-04-26 — Committee of the Whole House on the state of the Union rises leaving H.R. 3523 as unfinished business.
+- 2012-04-26 — Considered as unfinished business. (consideration: CR H2175-2186)
+- 2012-04-26 — Considered under the provisions of rule H. Res. 631. (consideration: CR H2156-2176)
+- 2012-04-26 — DEBATE - Pursuant to the provisions of H. Res. 631, the Committee of the Whole proceeded with 10 minutes of debate on the Amash amendment No. 7.
+- 2012-04-26 — DEBATE - Pursuant to the provisions of H. Res. 631, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment No. 9.
+- 2012-04-26 — DEBATE - Pursuant to the provisions of H. Res. 631, the Committee of the Whole proceeded with 10 minutes of debate on the Goodlatte amendment No. 13.
+- 2012-04-26 — DEBATE - Pursuant to the provisions of H. Res. 631, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee (TX) amendment No. 5.
+- 2012-04-26 — DEBATE - Pursuant to the provisions of H. Res. 631, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment No. 1.
+- 2012-04-26 — DEBATE - Pursuant to the provisions of H. Res. 631, the Committee of the Whole proceeded with 10 minutes of debate on the Mulvaney amendment No. 15.
+- 2012-04-26 — DEBATE - Pursuant to the provisions of H. Res. 631, the Committee of the Whole proceeded with 10 minutes of debate on the Mulvaney amendment No. 8.
+- 2012-04-26 — DEBATE - Pursuant to the provisions of H. Res. 631, the Committee of the Whole proceeded with 10 minutes of debate on the Pompeo amendment No. 11.
+- 2012-04-26 — DEBATE - Pursuant to the provisions of H. Res. 631, the Committee of the Whole proceeded with 10 minutes of debate on the Pompeo amendment No. 3.
+- 2012-04-26 — DEBATE - Pursuant to the provisions of H. Res. 631, the Committee of the Whole proceeded with 10 minutes of debate on the Quayle amendment No. 6.
+- 2012-04-26 — DEBATE - Pursuant to the provisions of H. Res. 631, the Committee of the Whole proceeded with 10 minutes of debate on the Richardson amendment No. 10.
+- 2012-04-26 — DEBATE - Pursuant to the provisions of H. Res. 631, the Committee of the Whole proceeded with 10 minutes of debate on the Rogers (MI) amendment No. 4.
+- 2012-04-26 — DEBATE - Pursuant to the provisions of H. Res. 631, the Committee of the Whole proceeded with 10 minutes of debate on the Turner (OH) amendment No. 14.
+- 2012-04-26 — DEBATE - Pursuant to the provisions of H. Res. 631, the Committee of the Whole proceeded with 10 minutes of debate on the Woodall amendment No. 12.
+- 2012-04-26 — DEBATE - The House proceeded with 10 minutes of debate on the Perlmutter motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to protect the privacy of Internet passwords by prohibiting employers and the Federal Government from requiring the disclosure of confidential passwords by an employee or job applicant. It would also protect freedom of expression on the Internet by prohibiting the Federal Government from establishing a national firewall similar to the "Great Internet Firewall of China."
+- 2012-04-26 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3523.
+- 2012-04-26 — House amendment agreed to: On agreeing to the Amash amendment (A005) Agreed to by recorded vote: 415 - 0 (Roll no. 187).
+- 2012-04-26 — House amendment agreed to: On agreeing to the Flake amendment (A007) Agreed to by voice vote.
+- 2012-04-26 — House amendment agreed to: On agreeing to the Goodlatte amendment (A010) Agreed to by recorded vote: 414 - 1 (Roll no. 189).
+- 2012-04-26 — House amendment agreed to: On agreeing to the Mulvaney amendment (A006) Agreed to by recorded vote: 416 - 0 (Roll no. 188).
+- 2012-04-26 — House amendment agreed to: On agreeing to the Mulvaney amendment (A012) Agreed to by recorded vote: 413 - 3 (Roll no. 190).
+- 2012-04-26 — House amendment agreed to: On agreeing to the Pompeo amendment (A002) Agreed to by voice vote.
+- 2012-04-26 — House amendment agreed to: On agreeing to the Pompeo amendment (A008) Agreed to by voice vote.
+- 2012-04-26 — House amendment agreed to: On agreeing to the Quayle amendment (A004) Agreed to by recorded vote: 410 - 3 (Roll no. 186).
+- 2012-04-26 — House amendment agreed to: On agreeing to the Rogers (MI) amendment Agreed to by recorded vote: 412 - 0 (Roll no. 185).
+- 2012-04-26 — House amendment agreed to: On agreeing to the Turner (OH) amendment (A011) Agreed to by voice vote.
+- 2012-04-26 — House amendment agreed to: On agreeing to the Woodall amendment (A009) Agreed to by voice vote.
+- 2012-04-26 — House amendment not agreed to: On agreeing to the Langevin amendment Failed by recorded vote: 167 - 243 (Roll no. 184).
+- 2012-04-26 — House amendment not agreed to: On agreeing to the Richardson amendment (A014) Failed by voice vote.(consideration: CR H2177)
+- 2012-04-26 — House amendment offered
+- 2012-04-26 — House amendment offered
+- 2012-04-26 — House amendment offered
+- 2012-04-26 — House amendment offered
+- 2012-04-26 — House amendment offered
+- 2012-04-26 — House amendment offered
+- 2012-04-26 — House amendment offered
+- 2012-04-26 — House amendment offered
+- 2012-04-26 — House amendment offered
+- 2012-04-26 — House amendment offered
+- 2012-04-26 — House amendment offered
+- 2012-04-26 — House amendment offered
+- 2012-04-26 — House amendment offered
+- 2012-04-26 — House amendment offered
+- 2012-04-26 — House amendment offered/reported by: Amendment (A001) offered by Mr. Langevin.(consideration: CR H2167-2169, H2179; text: CR H2167)
+- 2012-04-26 — House amendment offered/reported by: Amendment (A002) offered by Mr. Pompeo.(consideration: CR H2169; text: CR H2169)
+- 2012-04-26 — House amendment offered/reported by: Amendment (A003) offered by Mr. Rogers (MI).(consideration: CR H2169-2170, H2180; text: CR H2169-2170)
+- 2012-04-26 — House amendment offered/reported by: Amendment (A004) offered by Mr. Quayle.(consideration: CR H2170-2171, H2180-2181; text: CR H2170)
+- 2012-04-26 — House amendment offered/reported by: Amendment (A005) offered by Mr. Amash.(consideration: CR H2171-2172, H2181; text: CR H2171)
+- 2012-04-26 — House amendment offered/reported by: Amendment (A006) offered by Mr. Mulvaney.(consideration: CR H2172-2173, H2181-2182; text: CR H2172)
+- 2012-04-26 — House amendment offered/reported by: Amendment (A007) offered by Mr. Flake.(consideration: CR H2173; text: CR H2173)
+- 2012-04-26 — House amendment offered/reported by: Amendment (A008) offered by Mr. Pompeo.(consideration: CR H2173; text: CR H2173)
+- 2012-04-26 — House amendment offered/reported by: Amendment (A009) offered by Mr. Woodall.(consideration: CR H2173-2174; text: CR H2173)
+- 2012-04-26 — House amendment offered/reported by: Amendment (A010) offered by Mr. Goodlatte.(consideration: CR H2174-2175, H2182-2183; text: CR H2174)
+- 2012-04-26 — House amendment offered/reported by: Amendment (A011) offered by Mr. Turner (OH).(consideration: CR H2175-2176; text: CR H2175)
+- 2012-04-26 — House amendment offered/reported by: Amendment (A012) offered by Mr. Mulvaney.(consideration: CR H2176, H2183; text: CR H2176)
+- 2012-04-26 — House amendment offered/reported by: Amendment (A013) offered by Ms. Jackson Lee (TX).(consideration: CR H2176-2177; text: CR H2176)
+- 2012-04-26 — House amendment offered/reported by: Amendment (A014) offered by Ms. Richardson.(consideration: CR H2177-2179; text: CR H2178)
+- 2012-04-26 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 631 and Rule XVIII.
+- 2012-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-04-26 — Mr. Perlmutter moved to recommit with instructions to Intelligence (Permanent). (consideration: CR H2184-2186; text: CR H2184)
+- 2012-04-26 — Mr. Rogers (MI) moved that the committee rise.
+- 2012-04-26 — ORDER OF PROCEDURE - Mr. Rogers of Michigan asked unanimous consent that, during further consideration of H.R. 3523 pursuant to H. Res. 631, amendments numbered 10 and 5 printed in House Report 112-454 may be considered out of sequence. Agreed to without objection.
+- 2012-04-26 — On agreeing to the Amash amendment (A005) Agreed to by recorded vote: 415 - 0 (Roll no. 187).
+- 2012-04-26 — On agreeing to the Flake amendment (A007) Agreed to by voice vote.
+- 2012-04-26 — On agreeing to the Goodlatte amendment (A010) Agreed to by recorded vote: 414 - 1 (Roll no. 189).
+- 2012-04-26 — On agreeing to the Langevin amendment Failed by recorded vote: 167 - 243 (Roll no. 184).
+- 2012-04-26 — On agreeing to the Mulvaney amendment (A006) Agreed to by recorded vote: 416 - 0 (Roll no. 188).
+- 2012-04-26 — On agreeing to the Mulvaney amendment (A012) Agreed to by recorded vote: 413 - 3 (Roll no. 190).
+- 2012-04-26 — On agreeing to the Pompeo amendment (A002) Agreed to by voice vote.
+- 2012-04-26 — On agreeing to the Pompeo amendment (A008) Agreed to by voice vote.
+- 2012-04-26 — On agreeing to the Quayle amendment (A004) Agreed to by recorded vote: 410 - 3 (Roll no. 186).
+- 2012-04-26 — On agreeing to the Richardson amendment (A014) Failed by voice vote. (consideration: CR H2177)
+- 2012-04-26 — On agreeing to the Rogers (MI) amendment Agreed to by recorded vote: 412 - 0 (Roll no. 185).
+- 2012-04-26 — On agreeing to the Turner (OH) amendment (A011) Agreed to by voice vote.
+- 2012-04-26 — On agreeing to the Woodall amendment (A009) Agreed to by voice vote.
+- 2012-04-26 — On motion that the committee rise Agreed to by voice vote.
+- 2012-04-26 — On motion to recommit with instructions Failed by the Yeas and Nays: 183 - 233 (Roll no. 191).
+- 2012-04-26 — On passage Passed by recorded vote: 248 - 168 (Roll no. 192).
+- 2012-04-26 — POSTPONED PROCEEDEINGS - At the conclusion of debate on the Rogers (MI) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Ruppersberger demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-04-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Amash amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Amash demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-04-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Goodlatte amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Rogers (MI) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-04-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Langevin amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Langevin demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-04-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mulvaney amendment No. 15, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Mulvaney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-04-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mulvaney amendment No. 8, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Mulvaney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-04-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Quayle amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Ruppersberger demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-04-26 — Passed/agreed to in House: On passage Passed by recorded vote: 248 - 168 (Roll no. 192).
+- 2012-04-26 — Roll call votes on amendments in House
+- 2012-04-26 — Roll call votes on amendments in House
+- 2012-04-26 — Roll call votes on amendments in House
+- 2012-04-26 — Roll call votes on amendments in House
+- 2012-04-26 — Roll call votes on amendments in House
+- 2012-04-26 — Roll call votes on amendments in House
+- 2012-04-26 — Roll call votes on amendments in House
+- 2012-04-26 — Rule H. Res. 631 passed House.
+- 2012-04-26 — Rule provides for consideration of H.R. 3523 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. Specified amendments are in order. The rule waives all points of order against consideration of the bill. The rule makes in order as original text for purpose of amendment the amendment in the nature of a substitute consisting of the text of Rules Committee Print 112-20 and provides that it shall be considered as read. The rule waives all points of order against the amendment in the nature of a substitute. The rule makes in order only those amendments printed in the Rules Committee report. The rule further provides that it shall be in order at any time through the legislative day of April 27, 2012, for the Speaker to entertain motions that the House suspend the rules. The rule provides further for a closed rule for consideration of H.R. 4628. The rule provides one hour of general debate and one motion to recommit. Finally, the rule provides that the Committee on Appropriations may, at any time before 6 p.m. on Wednesday, May 2, 2012 recommit. Finally, the rule provides that the Committee on Appropriations may, at any time before 6 p.m. on Wednesday, May 2, 2012 file, privileged reports to accompany measures making appropriations for the fiscal year ending September 30, 2013.
+- 2012-04-26 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 3523. (consideration: CR H2186)
+- 2012-04-26 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H2166-2167)
+- 2012-04-26 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2012-04-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3523.
+- 2012-04-26 — The Speaker designated the Honorable Judy Biggert to act as Chairwoman of the Committee.
+- 2012-04-26 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2185)
+- 2012-04-26 — The previous question was ordered pursuant to the rule. (consideration: CR H2183)
+- 2012-04-26 — UNANIMOUS CONSENT - Mr. Mike Rogers (MI) asked unanimous consent that in the engrossment of H.R. 3523, the Clerk be authorized to make the change placed at the desk as follows: Insert "deny access to or" before "degrade" in each place it appears. Agreed to without objection.
