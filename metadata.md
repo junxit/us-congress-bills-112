@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2096
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2096
@@ -30,6 +30,10 @@ Cybersecurity Enhancement Act of 2012
 
 - House — Science, Space, and Technology Committee
 
+## Recorded votes (1)
+
+- 2012-04-27 — [House 112-2-193](votes/house-112-2-0193.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (395–10)
+
 ## Actions
 
 - 2011-06-02 — Introduced in House
@@ -40,3 +44,11 @@ Cybersecurity Enhancement Act of 2012
 - 2011-10-31 — Placed on the Union Calendar, Calendar No. 177.
 - 2011-10-31 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 112-264.
 - 2011-10-31 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 112-264.
+- 2012-04-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-04-27 — Considered as unfinished business. (consideration: CR H2246)
+- 2012-04-27 — Considered under suspension of the rules. (consideration: CR H2215-2222)
+- 2012-04-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2096.
+- 2012-04-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-04-27 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
+- 2012-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 10 (Roll no. 193). (text: CR H2215-2218)
+- 2012-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 10 (Roll no. 193).(text: CR H2215-2218)

@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2096
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,4 +11,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Cybersecurity Enhancement Act of 2011”.
+This Act may be cited as the “Cybersecurity Enhancement Act of 2012”.
