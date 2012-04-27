@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4849
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4849
@@ -31,3 +31,18 @@ Sequoia and King Canyon National Parks Backcountry Access Act
 - 2012-04-26 — Introduced in House
 - 2012-04-26 — Introduced in House
 - 2012-04-26 — Referred to the House Committee on Natural Resources.
+- 2012-04-27 — Amendment (A001) offered by Mr. Hastings (WA). (consideration: CR H2228; text: CR H2228)
+- 2012-04-27 — Amendment agreed to by House: On agreeing to the Hastings (WA) amendment (A001) Agreed to without objection.
+- 2012-04-27 — Committee on Natural Resources discharged.
+- 2012-04-27 — Committee on Natural Resources discharged.
+- 2012-04-27 — Considered by unanimous consent. (consideration: CR H2227-2228; text of measure as introduced: CR H2228)
+- 2012-04-27 — House amendment agreed to: On agreeing to the Hastings (WA) amendment (A001) Agreed to without objection.
+- 2012-04-27 — House amendment offered
+- 2012-04-27 — House amendment offered/reported by: Amendment (A001) offered by Mr. Hastings (WA).(consideration: CR H2228; text: CR H2228)
+- 2012-04-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-04-27 — Mr. Hastings (WA) asked unanimous consent that in the engrossment of H.R. 4849, the Clerk be authorized to make the change placed at the desk as follows: In Section 2(b)(1), strike "C 90-4621" and insert instead "C 09-4621". (consideration: CR H2252)
+- 2012-04-27 — Mr. Hastings (WA) asked unanimous consent to discharge from committee and consider.
+- 2012-04-27 — On agreeing to the Hastings (WA) amendment (A001) Agreed to without objection.
+- 2012-04-27 — On passage Passed without objection.
+- 2012-04-27 — Passed/agreed to in House: On passage Passed without objection.
+- 2012-04-27 — RESERVATION OF OBJECTION - Mr. George Miller (CA) reserved the right to object and was recognized to proceed under his reservation. Subsequently the reservation was withdrawn.
