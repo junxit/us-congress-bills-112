@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4097
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4097
@@ -30,3 +30,11 @@ John F. Kennedy Center Reauthorization Act of 2012
 - 2012-02-28 — Introduced in House
 - 2012-02-28 — Introduced in House
 - 2012-02-28 — Referred to the House Committee on Transportation and Infrastructure.
+- 2012-02-29 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2012-03-01 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2012-03-01 — Subcommittee Consideration and Mark-up Session Held.
+- 2012-03-08 — Committee Consideration and Mark-up Session Held.
+- 2012-03-08 — Ordered to be Reported by Voice Vote.
+- 2012-04-27 — Placed on the Union Calendar, Calendar No. 319.
+- 2012-04-27 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-457.
+- 2012-04-27 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-457.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4097
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 3 of the John F. Kennedy Center Act (20 U.S.C. 76i) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 3 of the John F. Kennedy Center Act (20 U.S.C. 76i) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 13 of the John F. Kennedy Center Act (20 U.S.C. 76r) is amended by striking subsections (a) and (b) and inserting the following: | the bill names no machine-readable US Code section |
