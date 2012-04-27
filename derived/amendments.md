@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3989
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-186 amendatory instructions. 0 executed, 186 stated and not applied.
+189 amendatory instructions. 0 executed, 189 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,7 +35,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | The title heading for title I (20 U.S.C. 6301 et seq.) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 1001 (20 U.S.C. 6301) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 1002 (20 U.S.C. 6302) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | by striking “2 percent” and inserting “10 percent”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2 percent” and inserting “7 percent”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “subpart 2 of part A” and all that follows through “sections 1116 and 1117,” and inserting “chapter B of subpart 1 of part A for each fiscal year to carry out subsection (b),”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b)(1), by striking “for schools identified for school improvement, corrective action, and restructuring, for activities under section 1116(b)” and inserting “to carry out the State’s system of school improvement under sect… | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “and” at the end; | the bill names no machine-readable US Code section |
@@ -47,6 +47,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “such subpart” and inserting “such chapter”; | the bill names no machine-readable US Code section |
 | — | strike | in subsection (f), by striking “and the percentage of students from each school from families with incomes below the poverty line”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (g). | the bill names no machine-readable US Code section |
+| — | insert | The Act (20 U.S.C. 6301 et seq.) is amended by inserting after section 1003 the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 1004 (20 U.S.C. 6304) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | The part heading for part A of title I (20 U.S.C. 6311 et seq.) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The Act is amended by striking the subpart heading for subpart 1 of part A of title I (20 U.S.C. 6311 et seq.) and inserting the following: | the bill names no machine-readable US Code section |
@@ -54,16 +55,17 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 1111 (20 U.S.C. 6311) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 1112 (20 U.S.C. 6312) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “part” each place it appears and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “subpart 2” and inserting “Chapter B”; and | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “subpart 2” and inserting “chapter B”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “school improvement, corrective action, and restructuring under section 1116(b)” and inserting “school improvement under section 1111(b)(3)(B)(iii)”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “in which” through “such families”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A)(i), by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “children with limited English proficiency” and inserting “English learners”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “part” and inserting “subpart”; | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (3)(B), by striking “maintenance of effort,” after “private school children”; and | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (3)(B), by striking “maintenance of effort,” after “private school children,”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (4); and | the bill names no machine-readable US Code section |
-| — | strike | by striking “(including” and all that follows through “1309(2))”;and | the bill names no machine-readable US Code section |
+| — | strike | by striking “(including” and all that follows through “1309(2))”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “content standards and the State student academic achievement standards” and inserting “standards”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (i), by striking “proficient” and all that follows through “section 1111(b)(1)(D)” and inserting “academic standards described in section 1111(b)(1)”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii), in the matter preceding subclause (I), by striking “based on scientifically based research” and inserting “evidence-based”; | the bill names no machine-readable US Code section |
@@ -83,14 +85,14 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “and its school support team or other technical assistance provider under section 1117”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii), by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
 | — | replace | in clause (iv), by striking “section 1111(b)(3)” and inserting “section 1111(b)(2)”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “, after considering the recommendation of the technical assistance providers under section 1117,”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “the No Child Left Behind Act of 2001” and inserting “Student Success Act” ; | the bill names no machine-readable US Code section |
+| — | strike | in subclause (I), by striking “, after considering the recommendation of the technical assistance providers under section 1117,”; and | the bill names no machine-readable US Code section |
+| — | replace | in subclause (II), by striking “the No Child Left Behind Act of 2001” and inserting “Student Success Act” ; | the bill names no machine-readable US Code section |
 | — | strike | by striking “(including administrators of programs described in other parts of this title)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “pupil services” and inserting “specialized instructional support services”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (iii), by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
 | — | strike | in clause (v), by striking “Reading First, Early Reading First, Even Start,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “, such as Even Start” and all that follows through the period at the end. | the bill names no machine-readable US Code section |
+| — | replace | by striking “6,” and all that follows through the period at the end and inserting “6.”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “are ineligible for a schoolwide program under section 1114, or that”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “operate such” and inserting “operate”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “part” and inserting “subpart”; | the bill names no machine-readable US Code section |
@@ -99,7 +101,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “part” each place it appears and inserting “subpart”; | the bill names no machine-readable US Code section |
 | — | strike | in the heading, by striking “, Even Start, or Early Reading First”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “, Even Start, or Early Reading First”; | the bill names no machine-readable US Code section |
-| — | amend | by amending the heading to read as follows: “Subpart 3— Children”; | the bill names no machine-readable US Code section |
+| — | amend | by amending the heading to read as follows: “Subpart 3 children.—”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “part C” and inserting “subpart 3”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “part” and inserting “subpart”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraphs (D) and (E), by striking “part” each place it appears and inserting “subpart”; | the bill names no machine-readable US Code section |
@@ -109,26 +111,26 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “challenging student academic achievement” and inserting “academic”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “part” and inserting “subpart”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “based on scientifically based research” and inserting “evidence-based”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “part” and inserting “subpart”; | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding clause (i), by striking “based on scientifically based research” and inserting “evidence-based”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (iii), by striking “part” and inserting “subpart”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (D), by striking “such as Head Start, Even Start, Early Reading First or State-run preschool programs”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E), by striking “highly qualified” and inserting “effective”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “in accordance with subsection (e)(3) and section 1119,”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “pupil services personnel” and inserting “specialized instructional support personnel”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “pupil services personnel” and inserting “specialized instructional support personnel”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (H), by striking “vocational” and inserting “career”; and | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A), by striking “proficient and advanced levels of achievement” and inserting “academic standards”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “challenging student academic achievement” and inserting “academic”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d), in the matter preceding paragraph (1), by striking “part” each place it appears and inserting “subpart”; and | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding clause (i), by striking “part” and inserting “subpart”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “pupil services” and inserting “specialized instructional support services”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (iii), by striking “pupil services” and inserting “specialized instructional support services”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (3). | the bill names no machine-readable US Code section |
 | — | repeal | The Act is amended by repealing sections 1116 and 1117 (20 U.S.C. 6316; 6317). | the bill names no machine-readable US Code section |
 | — | replace | by striking “part” each place such term appears and inserting “subpart”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A), by striking “, and” and all that follows through “1116”; and | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (D), by striking “, such as” and all that follows through “preschool programs”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “subpart 2 of this part” each place it appears and inserting “chapter B of this subpart”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3)(A), by striking “subpart 2 of this part” each place it appears and inserting “chapter B of this subpart”; | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (c)(4)(B) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d)(1), by striking “student academic achievement” and inserting “academic”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “State’s academic content standards and State student academic achievement standards” and inserting “State’s academic standards”; | the bill names no machine-readable US Code section |
@@ -146,7 +148,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraphs (1) through (3), by striking “such as the Early Reading First program” each place it appears; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (4), by striking “Early Reading First program staff,”; and | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (5), by striking “and entities carrying out Early Reading First programs”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking “appropriated for payments to States for any fiscal year under section 1002(a) and 1125A(f)” and inserting “reserved for this subpart under section 1122(a) and 1125A(f)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “appropriated for payments to States for any fiscal year under section 1002(a) and 1125A(f)” and inserting “reserved for this chapter under section 1122(a)”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “the No Child Left Behind Act of 2001” and inserting “the Student Success Act”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “basis,” and all that follows through the period at the end and inserting “basis.”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C)(ii), by striking “challenging State academic content standards” and inserting “State academic standards”; and | the bill names no machine-readable US Code section |
@@ -181,12 +183,12 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “, including the following” and all that follows and inserting a period; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (I) (as so redesignated), by striking “qualifications” and inserting “effectiveness”; | the bill names no machine-readable US Code section |
 | — | redesignate | in subparagraph (J) (as so redesignated), by striking “, including funds under section 1002,”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (L) (as so redesignated), by striking “section 1111(b)(2)(C)(v)(II)” and inserting “section 1111(b)(2)(B)(xiii)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (L) (as so redesignated), by striking “section 1111(b)(2)(C)(v)(II)” and inserting “section 1111(b)(3)(B)(ii)(II)”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (M) (as so redesignated), by striking “Secretary” and inserting “Director”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “Secretary” and inserting “Director”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “Secretary” and inserting “Director”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5), by striking “Secretary” and inserting “Director”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “No Child Left Behind Act of 2001” each place it appears and inserting “Student Success Act” ; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “No Child Left Behind Act of 2001” each place it appears and inserting “Student Success Act”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Secretary” each place it appears and inserting “Director”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “Secretary” each place it appears and inserting “Director”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “Secretary” and inserting “Director”; and | the bill names no machine-readable US Code section |
@@ -200,20 +202,21 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (d), by striking “Secretary” each place it appears and inserting “Director”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “Secretary” and inserting “Director”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “and for making decisions about the promotion and graduation of students”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “Secretary” and inserting “Director”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “process,” and inserting “process consistent with section 5534,”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Secretary” the first place it appears and inserting “Director”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “process,” and inserting “process consistent with section 1206,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Assistant Secretary of Educational Research and Improvement” and inserting “Director”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “to the State-defined level of proficiency” and inserting “toward meeting the State academic standards”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking “pupil-services” and inserting “specialized instructional support services”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “limited and nonlimited English proficient students” and inserting “English learners”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6), by striking “Secretary” and inserting “Director”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Secretary” and inserting “Director”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “authorized to be appropriated for this part” and inserting “appropriated under section 3(A)(2)”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “authorized to be appropriated for this part” and inserting “appropriated under section 3(a)(2)”. | the bill names no machine-readable US Code section |
 | — | amend | is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Title V (20 U.S.C. 7201 et seq.) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a)(1)(A), by striking “section 9502” and inserting “section 5502”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “section 9501” and inserting “section 5501”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d), by striking “No Child Left Behind Act of 2001” and inserting “Student Success Act”. | the bill names no machine-readable US Code section |
-| — | redesignate | Section 5536 (as so redesignated) is amended by striking subsection (b). | the bill names no machine-readable US Code section |
+| — | replace | by striking “(a) In general.—Nothing” and inserting “Nothing”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (b). | the bill names no machine-readable US Code section |
 | — | repeal | Title IX (20 U.S.C. 7801 et seq.), as amended by section 201(b)(1) of this title, is repealed. | the bill names no machine-readable US Code section |
 | — | strike | Section 602 of the Individuals with Disabilities Education Act (20 U.S.C. 1401) is amended by striking paragraph (10). | the bill names no machine-readable US Code section |

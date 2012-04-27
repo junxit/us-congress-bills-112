@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3989
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3989
@@ -16,7 +16,7 @@ Student Success Act
 
 - Rep. Kline, John [R-MN-2] (K000363)
 
-## Cosponsors (9)
+## Cosponsors (13)
 
 - Rep. Hunter, Duncan D. [R-CA-52] (H001048)
 - Rep. Roe, David P. [R-TN-1] (R000582)
@@ -27,6 +27,10 @@ Student Success Act
 - Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 - Rep. Roby, Martha [R-AL-2] (R000591)
 - Rep. Heck, Joseph J. [R-NV-3] (H001055)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Meehan, Patrick [R-PA-7] (M001181)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
 
 ## Committees (1)
 
@@ -37,3 +41,8 @@ Student Success Act
 - 2012-02-09 — Introduced in House
 - 2012-02-09 — Introduced in House
 - 2012-02-09 — Referred to the House Committee on Education and the Workforce.
+- 2012-02-28 — Committee Consideration and Mark-up Session Held.
+- 2012-02-28 — Ordered to be Reported (Amended).
+- 2012-04-27 — Placed on the Union Calendar, Calendar No. 320.
+- 2012-04-27 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 112-458.
+- 2012-04-27 — Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 112-458.
