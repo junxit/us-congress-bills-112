@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3556
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3556
@@ -16,7 +16,7 @@ To designate the new United States courthouse in Buffalo, New York, as the "Robe
 
 - Rep. Higgins, Brian [D-NY-27] (H001038)
 
-## Cosponsors (28)
+## Cosponsors (29)
 
 - Rep. Hochul, Kathleen C. [D-NY-26] (H001062)
 - Rep. Owens, William L. [D-NY-23] (O000169)
@@ -46,6 +46,7 @@ To designate the new United States courthouse in Buffalo, New York, as the "Robe
 - Rep. Buerkle, Ann Marie [R-NY-25] (B001276)
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 - Rep. Turner, Robert L. [R-NY-9] (T000471)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
 ## Committees (1)
 
@@ -56,3 +57,9 @@ To designate the new United States courthouse in Buffalo, New York, as the "Robe
 - 2011-12-02 — Introduced in House
 - 2011-12-02 — Introduced in House
 - 2011-12-02 — Referred to the House Committee on Transportation and Infrastructure.
+- 2011-12-05 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2012-03-08 — Committee Consideration and Mark-up Session Held.
+- 2012-03-08 — Ordered to be Reported by Voice Vote.
+- 2012-04-27 — Placed on the House Calendar, Calendar No. 128.
+- 2012-04-27 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-456.
+- 2012-04-27 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-456.
