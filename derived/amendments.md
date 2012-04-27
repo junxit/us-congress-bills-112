@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3534
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,4 +34,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “may not require” and inserting “may require”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “or through” and inserting “, but not through”; | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in the table of contents for such chapter, by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in the table of contents for such chapter, by adding at the end the following: | the bill names no machine-readable US Code section |
