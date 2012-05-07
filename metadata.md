@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2096
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2096
@@ -26,9 +26,10 @@ Cybersecurity Enhancement Act of 2012
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Brooks, Mo [R-AL-5] (B001274)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Cybersecurity Enhancement Act of 2012
 - 2012-04-27 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
 - 2012-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 10 (Roll no. 193). (text: CR H2215-2218)
 - 2012-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 10 (Roll no. 193).(text: CR H2215-2218)
+- 2012-05-07 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
