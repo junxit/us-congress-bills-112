@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3523
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3523
@@ -131,9 +131,10 @@ Cyber Intelligence Sharing and Protection Act
 - Rep. Austria, Steve [R-OH-7] (A000365)
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 
-## Committees (1)
+## Committees (2)
 
 - House — Intelligence (Permanent Select) Committee
+- Senate — Intelligence (Select) Committee
 
 ## Recorded votes (9)
 
@@ -292,3 +293,4 @@ Cyber Intelligence Sharing and Protection Act
 - 2012-04-26 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2185)
 - 2012-04-26 — The previous question was ordered pursuant to the rule. (consideration: CR H2183)
 - 2012-04-26 — UNANIMOUS CONSENT - Mr. Mike Rogers (MI) asked unanimous consent that in the engrossment of H.R. 3523, the Clerk be authorized to make the change placed at the desk as follows: Insert "deny access to or" before "degrade" in each place it appears. Agreed to without objection.
+- 2012-05-07 — Received in the Senate and Read twice and referred to the Select Committee on Intelligence.
