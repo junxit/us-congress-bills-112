@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 435
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 435
@@ -28,3 +28,7 @@ A resolution calling for democratic change in Syria, and for other purposes.
 
 - 2012-04-25 — Introduced in Senate
 - 2012-04-25 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2734-2735)
+- 2012-04-26 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-05-07 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2012-05-07 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2012-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 388.
