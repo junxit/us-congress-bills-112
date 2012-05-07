@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 106
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 106
@@ -34,3 +34,10 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2012-02-29 — Introduced in House
 - 2012-02-29 — Introduced in House
 - 2012-02-29 — Referred to the House Committee on Transportation and Infrastructure.
+- 2012-03-01 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2012-05-07 — Considered under suspension of the rules. (consideration: CR H2295-2296)
+- 2012-05-07 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 106.
+- 2012-05-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-07 — Ms. Herrera Beutler moved to suspend the rules and agree to the resolution.
+- 2012-05-07 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2295)
+- 2012-05-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2295)
