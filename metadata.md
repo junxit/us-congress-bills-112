@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4257
 congress: 112
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4257
@@ -21,9 +21,10 @@ Federal Information Security Amendments Act of 2012
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 - Rep. Van Hollen, Chris [D-MD-8] (V000128)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Federal Information Security Amendments Act of 2012
 - 2012-04-26 — Placed on the Union Calendar, Calendar No. 318.
 - 2012-04-26 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-455.
 - 2012-04-26 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-455.
+- 2012-05-07 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

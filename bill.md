@@ -2,7 +2,7 @@
 legis-num: H.R. 4257
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4257
@@ -30,6 +30,10 @@ Chapter 35 of title 44, United States Code, is amended by striking subchapters I
     - **(B)** in subsection (e)(2), by striking “section 3532(1)” and inserting “section 3552(b)”.
   - **(6)** Section 8(d)(1) of the Cyber Security Research and Development Act (15 U.S.C. 7406(d)(1)) is amended by striking “section 3534(b)” and inserting “section 3554(b)”.
 
-## § 4. Effective date
+## § 4. No additional funds authorized
+
+No additional funds are authorized to carry out the requirements of section 3554 of title 44, United States Code, as amended by section 2 of this Act. Such requirements shall be carried out using amounts otherwise authorized or appropriated.
+
+## § 5. Effective date
 
 This Act (including the amendments made by this Act) shall take effect 30 days after the date of the enactment of this Act.
