@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2668
 congress: 112
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2668
@@ -117,3 +117,12 @@ Brian A. Terry Memorial Act
 - 2012-05-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2012-05-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2012-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 390.
+- 2012-05-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2985-2986)
+- 2012-05-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2985-2986)
+- 2012-05-09 — Message on Senate action sent to the House.
+- 2012-05-14 — Presented to President.
+- 2012-05-14 — Presented to President.
+- 2012-05-15 — Became Public Law No: 112-113.
+- 2012-05-15 — Became Public Law No: 112-113.
+- 2012-05-15 — Signed by President.
+- 2012-05-15 — Signed by President.
