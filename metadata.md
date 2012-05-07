@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3834
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3834
@@ -24,9 +24,10 @@ Advancing America's Networking and Information Technology Research and Developme
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Advancing America's Networking and Information Technology Research and Developme
 - 2012-04-27 — Mr. Hall moved to suspend the rules and pass the bill, as amended.
 - 2012-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2223-2225)
 - 2012-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2223-2225)
+- 2012-05-07 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
