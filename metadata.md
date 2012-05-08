@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4097
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4097
@@ -44,3 +44,4 @@ John F. Kennedy Center Reauthorization Act of 2012
 - 2012-05-07 — Mr. Mica moved to suspend the rules and pass the bill.
 - 2012-05-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2296)
 - 2012-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2296)
+- 2012-05-08 — Received in the Senate, read twice.
