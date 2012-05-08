@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 105
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 105
@@ -41,3 +41,4 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an ev
 - 2012-05-07 — Mr. Harper moved to suspend the rules and agree to the resolution.
 - 2012-05-07 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 376 - 0 (Roll no. 196). (text: CR H2292)
 - 2012-05-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 376 - 0 (Roll no. 196).(text: CR H2292)
+- 2012-05-08 — Received in the Senate.
