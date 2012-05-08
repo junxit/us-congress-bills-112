@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 118
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 118
@@ -42,3 +42,4 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2012-05-07 — Mr. Denham moved to suspend the rules and agree to the resolution.
 - 2012-05-07 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 375 - 0 (Roll no. 198). (text: CR H2298)
 - 2012-05-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 375 - 0 (Roll no. 198).(text: CR H2298)
+- 2012-05-08 — Received in the Senate.
