@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 117
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 117
@@ -43,3 +43,6 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers' Memo
 - 2012-05-07 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 377 - 0 (Roll no. 197). (text: CR H2297-2298)
 - 2012-05-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 377 - 0 (Roll no. 197).(text: CR H2297-2298)
 - 2012-05-08 — Received in the Senate.
+- 2012-05-09 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S3049)
+- 2012-05-09 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S3049)
+- 2012-05-10 — Message on Senate action sent to the House.
