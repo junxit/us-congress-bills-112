@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4097
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4097
@@ -45,3 +45,12 @@ John F. Kennedy Center Reauthorization Act of 2012
 - 2012-05-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2296)
 - 2012-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2296)
 - 2012-05-08 — Received in the Senate, read twice.
+- 2012-05-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3534)
+- 2012-05-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3534)
+- 2012-05-24 — Message on Senate action sent to the House.
+- 2012-05-31 — Presented to President.
+- 2012-05-31 — Presented to President.
+- 2012-06-08 — Became Public Law No: 112-131.
+- 2012-06-08 — Became Public Law No: 112-131.
+- 2012-06-08 — Signed by President.
+- 2012-06-08 — Signed by President.
