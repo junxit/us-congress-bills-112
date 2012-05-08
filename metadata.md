@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 117
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 117
@@ -42,3 +42,4 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers' Memo
 - 2012-05-07 — Mr. Denham moved to suspend the rules and agree to the resolution.
 - 2012-05-07 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 377 - 0 (Roll no. 197). (text: CR H2297-2298)
 - 2012-05-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 377 - 0 (Roll no. 197).(text: CR H2297-2298)
+- 2012-05-08 — Received in the Senate.
