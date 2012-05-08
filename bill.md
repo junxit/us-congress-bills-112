@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2764
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “WMD Intelligence and Information Sharing Act of 2011”.
+This Act may be cited as the “WMD Intelligence and Information Sharing Act of 2012”.
 
 ## § 2. Weapons of mass destruction intelligence and information sharing
 
@@ -20,7 +20,7 @@ This Act may be cited as the “WMD Intelligence and Information Sharing Act of 
   >
   > - **(a)** *In general* The Office of Intelligence and Analysis of the Department of Homeland Security shall—
   >   - **(1)** support homeland security-focused intelligence analysis of terrorist actors, their claims, and their plans to conduct attacks involving chemical, biological, radiological, and nuclear materials against the Nation;
-  >   - **(2)** support homeland security-focused intelligence analysis of global infectious disease, public health, food, agricultural, and veterinary issues;
+  >   - **(2)** support homeland security-focused intelligence analysis of global biological threats, including global infectious disease, public health, food, agricultural, and veterinary issues, through activities such as engagement of international partners;
   >   - **(3)** support homeland security-focused risk analysis and risk assessments of the homeland security hazards described in paragraphs (1) and (2) by providing relevant quantitative and nonquantitative threat information;
   >   - **(4)** leverage existing and emerging homeland security intelligence capabilities and structures to enhance prevention, protection, response, and recovery efforts with respect to a chemical, biological, radiological, or nuclear attack;
   >   - **(5)** share information and provide tailored analytical support on these threats to State, local, and tribal authorities as well as other national biosecurity and biodefense stakeholders; and

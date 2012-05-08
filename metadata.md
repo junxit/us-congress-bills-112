@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2764
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2764
@@ -33,3 +33,11 @@ WMD Intelligence and Information Sharing Act of 2012
 - 2011-08-01 — Introduced in House
 - 2011-08-01 — Introduced in House
 - 2011-08-01 — Referred to the House Committee on Homeland Security.
+- 2011-08-03 — Referred to the Subcommittee on Counterterrorism and Intelligence.
+- 2011-11-15 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2011-11-15 — Subcommittee Consideration and Mark-up Session Held.
+- 2012-03-28 — Committee Consideration and Mark-up Session Held.
+- 2012-03-28 — Ordered to be Reported (Amended) by Voice Vote.
+- 2012-05-08 — Placed on the Union Calendar, Calendar No. 326.
+- 2012-05-08 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-466.
+- 2012-05-08 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-466.
