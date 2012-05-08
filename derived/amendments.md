@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2179
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | Section 44945 of title 49, United States Code, is amended by striking “shall be retained by the Transportation Security Administration” and all that follows before the period at the end and inserting “shall be annually transferred, witho… | the bill names no machine-readable US Code section |
 | — | replace | Section 515(b) of the Department of Homeland Security Appropriations Act, 2005 (118 Stat. 1318) is amended by striking “and specifically how the unclaimed money is being used to provide civil aviation security” and inserting “and the amo… | the bill names no machine-readable US Code section |
+| — | amend | Section 44945 of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | The item relating to such section in the table of sections at the beginning of chapter 449 of such title is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | repeal | Section 515(b) of the Department of Homeland Security Appropriations Act, 2005 (118 Stat. 1318; 49 U.S.C. 44945 note) is repealed. | the bill names no machine-readable US Code section |
