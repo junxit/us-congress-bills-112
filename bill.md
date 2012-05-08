@@ -11,4 +11,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Whistleblower Protection Enhancement Act of 20112012”.
+This Act may be cited as the “Whistleblower Protection Enhancement Act of 2012”.

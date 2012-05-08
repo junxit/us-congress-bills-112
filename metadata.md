@@ -1,7 +1,7 @@
 ---
 measure: S. 743
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 743
@@ -47,3 +47,5 @@ Whistleblower Protection Enhancement Act of 2012
 - 2012-04-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 112-155.
 - 2012-04-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 112-155.
 - 2012-04-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 358.
+- 2012-05-08 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S2978-2985; text as passed Senate: CR S2978-2985)
+- 2012-05-08 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S2978-2985; text as passed Senate: CR S2978-2985)
