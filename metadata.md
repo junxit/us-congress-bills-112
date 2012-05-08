@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2240
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2240
@@ -43,3 +43,12 @@ Lowell National Historical Park Land Exchange Act of 2012
 - 2012-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 4/24/2012 H2050)
 - 2012-05-07 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2012-05-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 392.
+- 2012-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/21/2012 S6674)
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/21/2012 S6674)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Presented to President.
+- 2012-09-25 — Presented to President.
+- 2012-10-05 — Became Public Law No: 112-182.
+- 2012-10-05 — Became Public Law No: 112-182.
+- 2012-10-05 — Signed by President.
+- 2012-10-05 — Signed by President.

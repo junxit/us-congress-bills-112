@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2240
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 410cc` | add-at-end | The Act entitled “An act to provide for the establishment of the Lowell National Historical Park in the Commonwealth of Massachusetts, and for other purposes” approved June 5, 1978 (Public Law 95–290; 16 U.S.C. 410cc et seq.), is amended… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | The Act entitled “An act to provide for the establishment of the Lowell National Historical Park in the Commonwealth of Massachusetts, and for other purposes” approved June 5, 1978 (Public Law 95–290; 16 U.S.C. 410cc et seq.), is amended… | the bill names no machine-readable US Code section |
