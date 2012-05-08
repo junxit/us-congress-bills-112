@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2050
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2050
@@ -41,3 +41,5 @@ Idaho Wilderness Water Resources Protection Act
 - 2012-04-26 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-04-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 4/24/2012 H2047)
 - 2012-04-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 4/24/2012 H2047)
+- 2012-05-07 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-05-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 391.
