@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 106
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 106
@@ -42,3 +42,6 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2012-05-07 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2295)
 - 2012-05-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2295)
 - 2012-05-08 — Received in the Senate.
+- 2012-05-09 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S3049)
+- 2012-05-09 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S3049)
+- 2012-05-10 — Message on Senate action sent to the House.
