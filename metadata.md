@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4849
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4849
@@ -46,3 +46,5 @@ Sequoia and King Canyon National Parks Backcountry Access Act
 - 2012-04-27 — On passage Passed without objection.
 - 2012-04-27 — Passed/agreed to in House: On passage Passed without objection.
 - 2012-04-27 — RESERVATION OF OBJECTION - Mr. George Miller (CA) reserved the right to object and was recognized to proceed under his reservation. Subsequently the reservation was withdrawn.
+- 2012-05-07 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-05-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 394.
