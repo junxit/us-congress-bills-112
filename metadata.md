@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4628
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4628
@@ -49,3 +49,5 @@ Interest Rate Reduction Act
 - 2012-04-27 — Rule provides for consideration of H.R. 3523 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. Specified amendments are in order. The rule waives all points of order against consideration of the bill. The rule makes in order as original text for purpose of amendment the amendment in the nature of a substitute consisting of the text of Rules Committee Print 112-20 and provides that it shall be considered as read. The rule waives all points of order against the amendment in the nature of a substitute. The rule makes in order only those amendments printed in the Rules Committee report. The rule further provides that it shall be in order at any time through the legislative day of April 27, 2012, for the Speaker to entertain motions that the House suspend the rules. The rule provides further for a closed rule for consideration of H.R. 4628. The rule provides one hour of general debate and one motion to recommit. Finally, the rule provides that the Committee on Appropriations may, at any time before 6 p.m. on Wednesday, May 2, 2012 recommit. Finally, the rule provides that the Committee on Appropriations may, at any time before 6 p.m. on Wednesday, May 2, 2012 file, privileged reports to accompany measures making appropriations for the fiscal year ending September 30, 2013.
 - 2012-04-27 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2250)
 - 2012-04-27 — The previous question was ordered pursuant to the rule. (consideration: CR H2246)
+- 2012-05-07 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-05-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 393.
