@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 643
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | House Resolution 614 is amended in section 2(a) by inserting “and the allocations of spending authority printed in Tables 11 and 12 of House Report 112-421 shall be considered for all purposes in the House to be the allocations under sec… | the bill names no machine-readable US Code section |
+| — | insert | House Resolution 614 is amended in section 2(a) by inserting “and the allocations of spending authority printed in Tables 11 and 12 of House Report 112–421 shall be considered for all purposes in the House to be the allocations under sec… | the bill names no machine-readable US Code section |

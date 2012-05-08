@@ -2,7 +2,7 @@
 legis-num: H. RES. 643
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 643
@@ -13,7 +13,7 @@ That at any time after the adoption of this resolution the Speaker may, pursuant
 
 ## § 2.
 
-House Resolution 614 is amended in section 2(a) by inserting “and the allocations of spending authority printed in Tables 11 and 12 of House Report 112-421 shall be considered for all purposes in the House to be the allocations under section 302(a) of the Congressional Budget Act of 1974” before the period.
+House Resolution 614 is amended in section 2(a) by inserting “and the allocations of spending authority printed in Tables 11 and 12 of House Report 112–421 shall be considered for all purposes in the House to be the allocations under section 302(a) of the Congressional Budget Act of 1974” before the period.
 
 ## § 3.
 
