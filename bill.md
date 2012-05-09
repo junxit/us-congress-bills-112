@@ -20,9 +20,18 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(D)** A description of the composition and political agenda of each of the known opposition groups inside and outside of Syria, and an assessment of the degree to which such groups represent the views of the people of Syria as a whole.
     - **(E)** A description of the financial resources currently available to opposition groups and known potential sources of continued financing.
     - **(F)** An assessment of the relationship between each of the Syrian opposition groups and the Muslim Brotherhood, al Qaeda, Hezbollah, Hamas, and any other groups that have promoted an agenda that would negatively impact United States national interests.
+    - **(G)** An assessment of whether active support from the United States to opposition forces would have a positive or negative impact on the factors discussed in subparagraphs (A) through (F).
 - **(b)** *Report on weapons stockpiles*
   - **(1)** *In general* Not later than 30 days after the date of the enactment of this Act, the President shall submit to Congress an assessment of the size and security of conventional and non-conventional weapons stockpiles in Syria.
   - **(2)** *Content* The report required under paragraph (1) shall include the following elements:
     - **(A)** A description of who has or may have access to the stockpiles.
     - **(B)** A description of the sources and types of weapons flowing from outside Syria to both government and opposition forces.
-- **(c)** *Form* The reports required by this section may be submitted in a classified form, but shall include an unclassified summary.
+    - **(C)** A detailed plan to prevent the proliferation of conventional, biological, chemical, and other types of weapons in Syria.
+- **(c)** *Report on current activities and future plans To provide assistance to Syria’s political opposition*
+  - **(1)** *In general* Not later than 30 days after the date of the enactment of this Act, the President shall submit to Congress a report on all the support provided to opposition political forces in Syria.
+  - **(2)** *Content* The report required under paragraph (1) shall include the following elements:
+    - **(A)** A full description of the current technical assistance democracy programs conducted by the Department of State and United States Agency for International Development to support the political opposition in Syria.
+    - **(B)** A full summary of the communications equipment that is currently being provided to the political opposition in Syria, including a description of the entities that have received and that will continue to receive such equipment.
+    - **(C)** A description of any additional activities the United States plans to undertake in support of the political opposition in Syria.
+    - **(D)** A description of the funding levels currently dedicated to support the political opposition in Syria.
+- **(d)** *Form* The reports required by this section may be submitted in a classified form, but shall include an unclassified summary.
