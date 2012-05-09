@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2072
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -34,11 +34,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 7 of the Export-Import Bank Act of 1945 (12 U.S.C. 635f) is amended by striking “2011” and inserting “2014”. | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (D), by striking “and”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E), by striking the comma at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2 of the Export-Import Bank Act of 1945 (12 U.S.C. 635) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2 of the Export-Import Bank Act of 1945 (12 U.S.C. 635), as amended by section 7 of this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3(c) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 3(c) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g), as amended by section 6 of this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 2(e)(7) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(e)(7)) is amended by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (G), respectively, and inserting after subparagraph (D) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3 of the Export-Import Bank Act of 1945 (12 U.S.C. 635a) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
