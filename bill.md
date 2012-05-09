@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2072
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,153 +11,238 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Securing American Jobs Through Exports Act of 2011”.
+- **(a)** *Short title* This Act may be cited as the “Export-Import Bank Reauthorization Act of 2012”.
 - **(b)** *Table of contents* The table of contents of this Act is as follows:
 
-## § 2. Findings; statement of purpose
+## § 2. Extension of authority
 
-- **(a)** *Findings* The Congress finds as follows:
-  - **(1)** Export sales by United States companies are critical to national economic growth.
-  - **(2)** Increased demand for United States exports in emerging markets will help small and large companies maintain and create United States jobs.
-  - **(3)** The Export-Import Bank contributes to a stronger national economy by financing the export of United States goods and services in markets where private capital is limited or unavailable.
-  - **(4)** The Export-Import Bank of the United States does not compete with private sector lenders.
-  - **(5)** The Export-Import Bank of the United States helps finance United States exports to 183 countries.
-  - **(6)** A large percentage of global growth will be centered in markets served by the Export-Import Bank of the United States, and the Bank will be critical to helping United States companies compete for these opportunities.
-  - **(7)** Through its support for exports, in fiscal year 2010 the Export-Import Bank of the United States supported 227,000 American jobs at over 3,300 companies.
-  - **(8)** The Export-Import Bank of the United States helps to level the playing field for United States exporters by matching the financing that other governments provide to their exporters.
-  - **(9)** All the leading exporting nations have official export credit agencies that are used actively to support their exporters.
-  - **(10)** Through its insurance, loan, and loan guarantee products, the Export-Import Bank of the United States supports the promotion and maintenance of high levels of employment and real income and increased development of the productive resources of the United States.
-  - **(11)** The Export-Import Bank of the United States requires reasonable assurance of repayment for the transactions it authorizes, and the Bank closely monitors credit and other risks in its portfolio. The Bank prices transactions based on its risk assessment of the buyers.
-  - **(12)** Since 1934, the net loss rate for all long-, medium-, and short-term loans made by the Export-Import Bank of the United States is 1.5 percent.
-  - **(13)** The Export-Import Bank of the United States has been a self-sustaining institution since fiscal year 2008, and surpluses of the Bank are remitted to the United States Treasury. From fiscal years 2008 through 2010, the Bank generated a surplus of $551,000,000.
-  - **(14)** In fiscal year 2010, the Export-Import Bank of the United States provided a record $5,000,000,000 directly supporting United States small business exporters through 3,091 transactions, representing 20 percent of the total value of the Bank’s authorizations and nearly 88 percent of the total number of the Bank’s authorizations.
-- **(b)** *Statement of purpose* The purpose of this Act is to reauthorize the activities and operations of the Export-Import Bank of the United States to ensure that the Bank provides financing, when commercial banks are unable or unwilling to do so, competitive with the financing provided by foreign export credit agencies, in order to enable United States companies to contribute to a stronger national economy by maintaining or increasing the employment of workers in the United States through the export of goods and services.
+Section 7 of the Export-Import Bank Act of 1945 (12 U.S.C. 635f) is amended by striking “2011” and inserting “2014”.
 
-## § 3. Extension of authority
-
-Section 7 of the Export-Import Bank Act of 1945 (12 U.S.C. 635f) is amended by striking “2011” and inserting “2015”.
-
-## § 4. Limitations on outstanding loans, guarantees, and insurance
+## § 3. Limitations on outstanding loans, guarantees, and insurance
 
 Section 6(a)(2) of the Export-Import Bank Act of 1945 (12 U.S.C. 635e(a)(2)) is amended—
 
 - **(1)** in subparagraph (D), by striking “and”;
-- **(2)** in subparagraph (E), by striking the comma at the end and inserting a semicolon; and
+- **(2)** in subparagraph (E), by striking the comma at the end and inserting “; and”; and
 - **(3)** by adding at the end the following:
-  > - **(F)** during fiscal year 2012, $120,000,000,000;
-  > - **(G)** during fiscal year 2013, $140,000,000,000; and
-  > - **(H)** during fiscal year 2014 and each fiscal year thereafter, $160,000,000,000.
+  > - **(F)** during fiscal year 2012 and each succeeding fiscal year, $120,000,000,000, except that—
+  >   - **(i)** the applicable amount for each of fiscal years 2013 and 2014 shall be $130,000,000,000 if—
+  >     - **(I)** the Bank has submitted a report as required by section 4(a) of the Export-Import Bank Reauthorization Act of 2012; and
+  >     - **(II)** the rate calculated under section 8(g)(1) of this Act is less than 2 percent for the quarter ending with the beginning of the fiscal year, or for any quarter in the fiscal year; and
+  >   - **(ii)** notwithstanding clause (i), the applicable amount for fiscal year 2014 shall be $140,000,000,000 if—
+  >     - **(I)** the rate calculated under section 8(g)(1) of this Act is less than 2 percent for the quarter ending with the beginning of the fiscal year, or for any quarter in the fiscal year;
+  >     - **(II)** the Bank has submitted a report as required by subsection (b) of section 5 of the Export-Import Bank Reauthorization Act of 2012, except that the preceding provisions of this subclause shall not apply if the Comptroller General has not submitted the report required by subsection (a) of such section 5 on or before July 1, 2013; and
+  >     - **(III)** the Secretary of the Treasury has submitted the reports required by section 11(b) of the Export-Import Bank Reauthorization Act of 2012.
 
-## § 5. Content guidelines for the provision of bank financing
+## § 4. Export-Import Bank exposure limit business plan
+
+- **(a)** *In general* Not later than September 30, 2012, the Export-Import Bank of the United States shall submit to the Congress and the Comptroller General a written report that contains the following:
+  - **(1)** A business plan that—
+    - **(A)** includes an estimate by the Bank of the appropriate exposure limits of the Bank for 2012, 2013, and 2014;
+    - **(B)** justifies the estimate; and
+    - **(C)** estimates any anticipated growth of the Bank for 2012, 2013, and 2014—
+      - **(i)** by industry sector;
+      - **(ii)** by whether the products involved are short-term loans, medium-term loans, long-term loans, insurance, medium-term guarantees, or long-term guarantees; and
+      - **(iii)** by key market.
+  - **(2)** An analysis of the potential for increased or decreased risk of loss to the Bank as a result of the estimated exposure limit, including an analysis of increased or decreased risks associated with changes in the composition of Bank exposure, by industry sector, by product offered, and by key market.
+  - **(3)** An analysis of the ability of the Bank to meet its small business and sub-Saharan Africa mandates and comply with its carbon policy mandate under the proposed exposure limit, and an analysis of any increased or decreased risk of loss associated with meeting or complying with the mandates under the proposed exposure limit.
+  - **(4)** An analysis of the adequacy of the resources of the Bank to effectively process, approve, and monitor authorizations, including the conducting of required economic impact analysis, under the proposed exposure limit.
+- **(b)** *GAO review of report and business plan* Not later than June 1, 2013, the Comptroller General shall submit to the Congress a written analysis of the report and business plan submitted under subsection (a), which shall include such recommendations with respect to the report and business plan as the Comptroller General deems appropriate.
+
+## § 5. Study by the Comptroller General on the role of the Bank in the world economy and the Bank's risk management
+
+- **(a)** *In general* Within 10 months after the date of the enactment of this Act, the Comptroller General of the United States shall complete and submit to the Export-Import Bank of the United States, the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report which—
+  - **(1)** evaluates—
+    - **(A)** the history of the rate of growth of the Bank, and its causes, with specific consideration given to—
+      - **(i)** the capital market conditions for export financing;
+      - **(ii)** increased competition from foreign export credit agencies;
+      - **(iii)** the rate of growth of the Bank from 2008 to the present;
+    - **(B)** the effectiveness of the Bank’s risk management, including—
+      - **(i)** potential for losses from each of the products offered by the Bank; and
+      - **(ii)** the overall risk of the Bank’s portfolio, taking into account—
+        - **(I)** market risk;
+        - **(II)** credit risk;
+        - **(III)** political risk;
+        - **(IV)** industry-concentration risk;
+        - **(V)** geographic-concentration risk;
+        - **(VI)** obligor-concentration risk; and
+        - **(VII)** foreign-currency risk;
+    - **(C)** the Bank’s use of historical default and recovery rates to calculate future program costs, taking into consideration cost estimates determined under the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) and whether discount rates applied to cost estimates should reflect the risks described in subparagraph (B);
+    - **(D)** the fees charged by the Bank for the products the Bank offers, whether the Bank’s fees properly reflect the risks described in subparagraph (B), and how the fees are affected by United States participation in international agreements; and
+    - **(E)** whether the Bank’s loan loss reserves policy is sufficient to cover the risks described in subparagraph (B); and
+  - **(2)** makes appropriate recommendations with respect to the matters so evaluated.
+- **(b)** *Recommendations and report by the bank* Not later than 120 days after the Bank receives the report, the Bank shall submit to the Congress a report on the implementation of recommendations included in the report so received. If the Bank does not adopt the recommendations, the Bank shall include in its report an explanation of why the Bank has not done so.
+
+## § 6. Monitoring of default rates on Bank financing; reports on default rates; safety and soundness review
+
+Section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g) is amended by adding at the end the following:
+
+> - **(g)** *Monitoring of default rates on Bank financing; reports on default rates; safety and soundness review*
+>   - **(1)** *Monitoring of default rates* Not less frequently than quarterly, the Bank shall calculate the rate at which the entities to which the Bank has provided short-, medium-, or long-term financing are in default on a payment obligation under the financing, by dividing the total amount of the required payments that are overdue by the total amount of the financing involved.
+>   - **(2)** *Additional calculation by type of product, by key market, and by industry sector; report to Congress* In addition, the Bank shall, not less frequently than quarterly—
+>     - **(A)** calculate the rate of default—
+>       - **(i)** with respect to whether the products involved are short-term loans, medium-term loans, long-term loans, insurance, medium-term guarantees, or long-term guarantees;
+>       - **(ii)** with respect to each key market involved; and
+>       - **(iii)** with respect to each industry sector involved; and
+>     - **(B)** submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on each such rate and any information the Bank deems relevant.
+>   - **(3)** *Report on causes of default rate; plan to reduce default rate* Within 45 days after a rate calculated under paragraph (1) equals or exceeds 2 percent, the Bank shall submit to the Congress a written report that explains the circumstances that have caused the default rate to be at least 2 percent, and includes a plan to reduce the default rate to less than 2 percent.
+>   - **(4)** *Plan contents* The plan referred to in paragraph (3) shall—
+>     - **(A)** provide a detailed explanation of the processes and controls by which the Bank monitors and tracks outstanding loans;
+>     - **(B)** detail specific planned actions, including a time frame for completing the actions, to reduce the default rate described in paragraph (1) to less than 2 percent.
+>   - **(5)** *Monthly reports required while default rate is at least 2 percent* For so long as the default rate calculated under paragraph (1) is at least 2 percent, the Bank shall submit monthly reports to the Congress describing the specific actions taken during such period to reduce the default rate.
+>   - **(6)** *Safety and soundness review* If the default rate calculated under paragraph (1) remains above 2 percent for a period of 6 months, the Secretary of the Treasury shall provide for an independent third party to—
+>     - **(A)** conduct a review of the loan programs and funds of the Bank, which shall determine—
+>       - **(i)** the financial safety and soundness of the programs and funds; and
+>       - **(ii)** the extent of loan loss reserves and capital adequacy of the programs and funds; and
+>     - **(B)** submit to the Secretary, within 60 days after the end of the 6-month period, a report that—
+>       - **(i)** describes the methodology and standards used to conduct the review required by subparagraph (A);
+>       - **(ii)** sets forth the results and findings of the review, including the extent of loan loss reserves and capital adequacy of the programs and funds of the Bank; and
+>       - **(iii)** includes recommendations regarding restoring the reserves and capital to maintain the programs and funds in a safe and sound condition.
+
+## § 7. Improvement and clarification of due diligence standards for lender partners
 
 Section 2 of the Export-Import Bank Act of 1945 (12 U.S.C. 635) is amended by adding at the end the following:
 
-> - **(i)** *Content guidelines for the provision of financing*
->   - **(1)** *In general* The Bank shall, after notice and comment and Board approval, establish clear and comprehensive guidelines with respect to the content of the goods and services involved in a transaction for which the Bank will provide financing, which shall be aimed at ensuring that the Bank enables companies with operations in the United States to maintain and create jobs in the United States and contribute to a stronger national economy through the export of their goods and services.
->   - **(2)** *Required considerations* In establishing the guidelines, the Bank shall take into account such considerations as the Bank deems relevant to meet the purposes described in paragraph (1), including the following:
->     - **(A)** The needs of different industry sectors to obtain financing from the Bank for exporting their products or services in order to create and maintain jobs in the United States.
->     - **(B)** The ability of companies with operations in the United States to compete effectively for export opportunities that will create and maintain jobs in the United States, particularly with respect to the Bank’s content requirements and co-financing arrangements.
->     - **(C)** The totality of support, including financing and subsidies, extended by export credit agencies to support the exports of goods and services, as well as key differences in, types of trade-offs among, and national trade promotion strategies of OECD member countries and of non-OECD member countries.
->     - **(D)** Recommendations from the advisory committee established under section 3(d), including any dissenting views.
->     - **(E)** Any findings or recommendations of the Government Accountability Office pertaining to the ability of the Bank to provide financing that is competitive with the financing provided by foreign export credit agencies, to enable companies with operations in the United States to contribute to a stronger United States economy by maintaining or increasing the employment of workers in the United States through the export of goods and services.
->     - **(F)** The effects of the guidelines on the manufacturing workforce and service workforce of the United States.
->     - **(G)** The effect of changes to current Bank content requirements on the incentive for companies to create and maintain operations in the United States in order to increase the employment of workers in the United States.
->   - **(3)** *Separate guidelines*
->     - **(A)** The Bank may establish separate guidelines under this subsection for services and for goods.
->     - **(B)** The Bank may establish separate guidelines under this subsection for small business concerns (as defined in section 3(a) of the Small Business Act).
->     - **(C)** The Bank may continue separate guidelines under this subsection with respect to different terms and products.
->   - **(4)** *Certification that domestic content has not been reduced because of the guidelines* In determining whether to provide financing for a proposed transaction, the exporter shall certify that the domestic content of a good has not been reduced solely as a result of the guidelines.
->   - **(5)** *Procedural provisions* Within 60 days after the date of the enactment of this Act, the Bank shall publish a notice with respect to the issuance or modification of guidelines under this subsection. Within 60 days after the end of the public comment period otherwise required by law with respect to the issuance or modification of the guidelines, the Bank shall submit to the Congress, for its review, the guidelines in proposed final form. At the end of the 60-day period that begins with the date the proposed final guidelines are so submitted, the proposed final guidelines shall be considered a final agency action for all purposes and shall take effect and be implemented immediately.
->   - **(6)** *Term* Every 2 years, the Bank shall review and, as appropriate, modify the guidelines, subject to paragraph (5).
->   - **(7)** *Report to congress* Within 1 year after the implementation of new or modified guidelines under this subsection, the Inspector General of the Bank shall submit to the Congress a report evaluating the guidelines, which shall include—
->     - **(A)** a discussion of the considerations required to be taken into account in establishing the guidelines, a comparison of how the guidelines reflect each consideration, and a description of the extent to which the guidelines enabled companies with operations in the United States who submitted an application for financing from the Bank to maintain and create jobs in the United States and contribute to a stronger national economy through the export of their goods and services;
->     - **(B)** a description of the effect of the guidelines on the number of domestic jobs to be supported, the kinds of domestic jobs to be supported, including their duration and geographic location, and the existence and nature of any transfers of technology or production; and
->     - **(C)** recommendations for how the guidelines could be modified to better facilitate exports of goods and services from the United States in order to maintain and create jobs in the United States and contribute to a stronger national economy.
+> - **(i)** *Due diligence standards for lender partners* The Bank shall set due diligence standards for its lender partners and participants, which should be applied across all programs consistently. To minimize or prevent fraudulent activity, the Bank should require all delegated lenders to implement “Know your customer practices”.
 
-## § 6. Improvement of method for calculating the effects of Bank financing on job creation and maintenance in the United States
+## § 8. Non-subordination requirement
 
-- **(a)** *GAO study* The Comptroller General of the United States shall conduct a study to analyze the methodology used by the Export-Import Bank of the United States (in this section referred to as the “Bank”) to calculate the effects of the provision of financing by the Bank on the creation and maintenance of employment in the United States, determine whether there is a more accurate methodology for calculating the effects, and if so, make recommendations with respect to the use of such a methodology.
-- **(b)** *Report* Within 6 months after the date of the enactment of this Act, the Comptroller General shall submit to the Congress and the Bank the results of the study required by subsection (a).
+Section 2 of the Export-Import Bank Act of 1945 (12 U.S.C. 635), as amended by section 7 of this Act, is amended by adding at the end the following:
+
+> - **(j)** *Non-subordination requirement* In entering into financing contracts, the Bank shall seek a creditor status which is not subordinate to that of all other creditors, in order to reduce the risk to, and enhance recoveries for, the Bank.
+
+## § 9. Notice and comment for Bank transactions exceeding $100,000,000
+
+- **(a)** *In general* Section 3(c) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(c)) is amended by adding at the end the following:
+  > - **(10)** *Notice and comment requirements*
+  >   - **(A)** *In general* Before any meeting of the Board for final consideration of a long-term transaction the value of which exceeds $100,000,000, and concurrent with any statement required to be submitted under section 2(b)(3) with respect to the transaction, the Bank shall provide a notice and comment period.
+  >   - **(B)** *Financial threshold determinations* For purposes of determining whether the value of a proposed transaction exceeds the financial threshold set forth in subparagraph (A), the Bank shall aggregate the dollar amount of the proposed transaction and the dollar amounts of all long-term loans and guarantees, approved by the Bank in the preceding 12-month period, that involved the same foreign entity and substantially the same product to be produced.
+  >   - **(C)** *Specific requirements*
+  >     - **(i)** *In general* The Bank shall—
+  >       - **(I)** publish in the Federal Register a notice of the application proposing the transaction;
+  >       - **(II)** provide a period of not less than 25 days for the submission to the Bank of comments on the application; and
+  >       - **(III)** notify the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives of the application, and seek comments on the application from the Department of Commerce and the Office of Management and Budget.
+  >     - **(ii)** *Content of notice* The notice published under clause (i)(I) with respect to an application for a loan or financial guarantee shall include appropriate information about—
+  >       - **(I)** a brief non-proprietary description of the purposes of the transaction and the anticipated use of any item being exported, including, to the extent the Bank is reasonably aware, whether the item may be used to produce exports or provide services in competition with the exportation of goods or the provision of services by a United States industry;
+  >       - **(II)** the identities of the obligor, principal supplier, and guarantor; and
+  >       - **(III)** a description, such as type or model number, of any item with respect to which Bank financing is being sought, but only to the extent the description does not disclose any information that is confidential or proprietary business information, that would violate the Trade Secrets Act, or that would jeopardize jobs in the United States by supplying information which competitors could use to compete with companies in the United States.
+  >   - **(D)** *Procedure regarding materially changed applications*
+  >     - **(i)** *In general* If a material change is made to an application to which this paragraph applies, after a notice with respect to the application is published under subparagraph (C)(i)(I), the Bank shall publish in the Federal Register a revised notice of the application and provide for an additional comment period as provided in subparagraph (C)(i)(II).
+  >     - **(ii)** *Material change defined* In clause (i), the term material change, with respect to an application for a loan or guarantee, includes an increase of at least 25 percent in the amount of a loan or guarantee requested in the application.
+  >   - **(E)** *Requirement to address views of commenters* Before taking final action on an application to which this paragraph applies, the staff of the Bank shall provide in writing to the Board of Directors the views of any person who submitted comments on the application pursuant to this paragraph.
+  >   - **(F)** *Publication of conclusions* Within 30 days after a final decision of the Board of Directors with respect to an application to which this paragraph applies, the Bank shall provide to a commenter on the application or the decision who makes a request therefor, a non-confidential summary of the facts found and conclusions reached in any detailed analysis or similar study with respect to the loan or guarantee that is the subject of the application, that was submitted to the Board of Directors. Such summary should be sent within 30 days of the receipt of the written request or date of the final decision of the Board of Directors, whichever is later.
+  >   - **(G)** *Rule of interpretation* The obligations imposed by this paragraph shall not be interpreted to create, modify, or preclude any legal right of action.
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect 60 days after the date of the enactment of this Act.
+
+## § 10. Categorization of purpose of loans and long-term guarantees in annual report
+
+Section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g), as amended by section 6 of this Act, is amended by adding at the end the following:
+
+> - **(h)** *Categorization of purpose of loans and long-term guarantees* In the annual report of the Bank under subsection (a), the Bank shall categorize each loan and long-term guarantee made by the Bank in the fiscal year covered by the report, and according to the following purposes:
+>   - **(1)** “To assume commercial or political risk that exporter or private financial institutions are unwilling or unable to undertake”.
+>   - **(2)** “To overcome maturity or other limitations in private sector export financing”.
+>   - **(3)** “To meet competition from a foreign, officially sponsored, export credit competition”.
+>   - **(4)** “Not identified”, and the reason why the purpose is not identified.
+
+## § 11. Negotiations to end export credit financing
+
+- **(a)** *In general* The Secretary of the Treasury (in this section referred to as the “Secretary”) shall initiate and pursue negotiations—
+  - **(1)** with other major exporting countries, including members of the Organisation for Economic Co-operation and Development (OECD) and non-OECD members, to substantially reduce, with the ultimate goal of eliminating, subsidized export financing programs and other forms of export subsidies; and
+  - **(2)** with all countries that finance air carrier aircraft with funds from a state-sponsored entity, to substantially reduce, with the ultimate goal of eliminating, aircraft export credit financing for all aircraft covered by the 2007 Sector Understanding on Export Credits for Civil Aircraft (in this section referred to as the “ASU”), including any modification thereof, and all of the following types of aircraft:
+    - **(A)** Heavy aircraft that are capable of a takeoff weight of 300,000 pounds or more, whether or not operating at such a weight during a particular phase of flight.
+    - **(B)** Large aircraft that are capable of a takeoff weight of more than 41,000 pounds, and have a maximum certificated takeoff weight of not more than 300,000 pounds.
+    - **(C)** Small aircraft that have a maximum certificated takeoff weight of 41,000 pounds or less.
+- **(b)** *Annual reports on progress of negotiations* Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives—
+  - **(1)** a report on the progress of any negotiations described in subsection (a)(1), until the Secretary certifies in writing to the committees that all countries that support subsidized export financing programs have agreed to end the support; and
+  - **(2)** a report on the progress of any negotiations described in subsection (a)(2), including the progress of any negotiations with respect to each classification of aircraft set forth in subsection (a)(2), until the Secretary certifies in writing to the committees that all countries that support subsidized export financing programs have agreed to end the support of aircraft covered by the ASU.
+
+## § 12. Publication of guidelines for economic impact analyses and documentation of such analyses
+
+- **(a)** *Publication of guidelines* Not later than 180 days after the date of the enactment of this Act, the Export-Import Bank of the United States shall develop and make publicly available methodological guidelines to be used by the Bank in conducting economic impact analyses or similar studies under section 2(e) of the Export-Import Bank Act of 1945. In developing the guidelines, the Bank shall take into consideration any relevant guidance from the Office of Management and Budget.
+- **(b)** *Maintenance of documentation* Section 2(e)(7) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(e)(7)) is amended by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (G), respectively, and inserting after subparagraph (D) the following:
+  > - **(E)** *Maintenance of documentation* The Bank shall maintain documentation relating to economic impact analyses and similar studies conducted under this subsection in a manner consistent with the Standards for Internal Control of the Federal Government issued by the Comptroller General of the United States.
+
+## § 13. Report on implementation of recommendations of the Government Accountability Office
+
+Not later than 180 days after the date of the enactment of this Act, the Export-Import Bank of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the implementation or rejection by the Bank of the recommendations contained in the report of the Government Accountability Office entitled “Export-Import Bank: Improvements Needed in Assessment of Economic Impact”, dated September 12, 2007 (GAO–07–1071), that includes—
+
+- **(1)** a detailed description of the progress made in implementing each such recommendation; and
+- **(2)** for any such recommendation that has not yet been implemented, an explanation of the reasons the recommendation has not been implemented.
+
+## § 14. Examination of Bank support for small business
+
+Within 180 days after the date of the enactment of this Act, the Export-Import Bank of the United States shall examine and report to Congress on its current programs, products, and polices with respect to the implementation of its export credit insurance program, delegated lending authority, and direct loans, and any other programs, products, and policies established to support exports from small businesses in the United States, and determine the extent to which those policies adequately meet the needs of the small businesses in obtaining Bank financing to support the maintenance or creation of jobs in the United States through exports, consistent with the requirement that the Bank obtain a reasonable assurance of repayment.
+
+## § 15. Review and report on domestic content policy
+
+- **(a)** *In general* The Export-Import Bank of the United States shall conduct a review of its domestic content policy for medium- and long-term transactions. The review shall examine and evaluate the effectiveness of the Bank’s policy—
+  - **(1)** in maintaining and creating jobs in the United States; and
+  - **(2)** in contributing to a stronger national economy through the export of goods and services.
+- **(b)** *Factors to consider* In conducting the review under subsection (a), the Bank shall consider the following:
+  - **(1)** Whether the domestic content policy accurately captures the costs of United States production of goods and services, including the direct and indirect costs of manufacturing costs, parts, components, materials and supplies, research, planning engineering, design, development, production, return on investment, marketing and other business costs and the effect of such policy on the maintenance and creation of jobs in the United States.
+  - **(2)** The ability of the Bank to provide financing that is competitive with the financing provided by foreign export credit agencies and the impact that such financing has in enabling companies with operations in the United States to contribute to a stronger United States economy by increasing employment through the export of goods and services.
+  - **(3)** The effects of the domestic content policy on the manufacturing and service workforce of the United States.
+  - **(4)** Any recommendations the members of the Bank's Advisory Committee have regarding the Bank's domestic content policy.
+  - **(5)** The effect that changes to the Bank’s domestic content requirements would have in providing companies an incentive to create and maintain operations in the United States and to increase jobs in the United States.
+- **(c)** *Report* Not later than 1 year after the date of the enactment of this Act, the Bank shall submit a report on the results of the review conducted under this section to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives.
+
+## § 16. Improvement of method for calculating the effects of Bank financing on job creation and maintenance in the United States
+
+- **(a)** *GAO study* The Comptroller General of the United States shall conduct a study of the process and methodology used by the Export-Import Bank of the United States (in this section referred to as the “Bank”) to calculate the effects of the provision of financing by the Bank on the creation and maintenance of employment in the United States, determine and assess the basis on which the Bank has so used the methodology, and make any recommendations the Comptroller General deems appropriate.
+- **(b)** *Report* Within 1 year after the date of the enactment of this Act, the Comptroller General shall submit to the Congress and the Bank the results of the study required by subsection (a).
 - **(c)** *Implementation of recommendations* If the report submitted pursuant to subsection (b) includes recommendations, the Bank may establish a more accurate methodology of the kind described in subsection (a) based on the recommendations.
 
-## § 7. Biennial audits of Bank transactions
+## § 17. Periodic audits of Bank transactions
 
-Section 2 of the Export-Import Bank Act of 1945 (12 U.S.C. 635), as amended by section 5 of this Act, is amended by adding at the end the following:
+- **(a)** *In general* Within 2 years after the date of the enactment of this Act, and periodically (but not less frequently than every 4 years) thereafter, the Comptroller General of the United States shall conduct an audit of the loan and guarantee transactions of the Export-Import Bank of the United States to determine the compliance of the Bank with the underwriting guidelines, lending policies, due diligence procedures, and content guidelines of the Bank.
+- **(b)** *Review of fraud controls* The Comptroller General of the United States shall review the adequacy of the design and effectiveness of the controls used by the Export-Import Bank of the United States to prevent, detect, and investigate fraudulent applications for loans and guarantees, including by auditing a sample of Bank transactions, and submit to the Congress a written report which contains such recommendations with respect to the controls as the Comptroller General deems appropriate.
 
-> - **(j)** *Audits of bank transactions* Every 2 years, the Comptroller General of the United States, in consultation with Inspector General of the Bank, shall audit a representative sample of Bank transactions to ensure that Bank underwriting, policies, due diligence, and content guidelines are met by applicants who receive Bank support.
+## § 18. Prohibitions on financing for certain persons involved in sanctionable activities with respect to Iran
 
-## § 8. Use of portion of Bank surplus to update information technology systems
+- **(a)** *Prohibition on financing for persons that engage in certain sanctionable activities*
+  - **(1)** *In general* Beginning on the date that is 180 days after the date of the enactment of this Act, the Board of Directors of the Export-Import Bank of the United States may not approve any transaction that is subject to approval by the Board with respect to the provision by the Bank of any guarantee, insurance, or extension of credit, or the participation by the Bank in any extension of credit, to a person in connection with the exportation of any good or service unless the person makes the certification described in paragraph (2).
+  - **(2)** *Certification described* The certification described in this paragraph is a certification by a person—
+    - **(A)** that neither the person nor any other person owned or controlled by the person—
+      - **(i)** engages in any activity described in section 5(a) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) for which the person may be subject to sanctions under that Act;
+      - **(ii)** exports sensitive technology, as defined in section 106 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8515), to Iran; or
+      - **(iii)** engages in any activity prohibited by part 560 of title 31, Code of Federal Regulations (commonly known as the “Iranian Transactions Regulations”), unless the activity is disclosed to the Office of Foreign Assets Control of the Department of the Treasury when the activity is discovered; or
+    - **(B)** if the person or any other person owned or controlled by the person has engaged in an activity described in subparagraph (A), that—
+      - **(i)** in the case of an activity described in subparagraph (A)(i)—
+        - **(I)** the President has waived the imposition of sanctions with respect to the person that engaged in that activity pursuant to section 4(c), 6(b)(5), or 9(c) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note);
+        - **(II)**
+          - **(aa)** the President has invoked the special rule described in section 4(e)(3) of that Act with respect to the person that engaged in that activity; or
+          - **(bb)**
+            - **(AA)** the person that engaged in that activity determines, based on its best knowledge and belief, that the person meets the criteria described in subparagraph (A) of such section 4(e)(3) and has provided to the President the assurances described in subparagraph (B) of that section; and
+            - **(BB)** the Secretary of State has issued an advisory opinion to that person that the person meets such criteria and has provided to the President those assurances; or
+        - **(III)** the President has determined that the criteria have been met for the exception provided for under section 5(a)(3)(C) of the Iran Sanctions Act of 1996 to apply with respect to the person that engaged in that activity; or
+      - **(ii)** in the case of an activity described in subparagraph (A)(ii), the President has waived, pursuant to section 401(b)(1) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8551(b)(1)), the application of the prohibition under section 106(a) of that Act (22 U.S.C. 8515(a)) with respect to that person.
+- **(b)** *Prohibition on financing* Beginning on the date that is 180 days after the date of the enactment of this Act, the Board of Directors of the Export-Import Bank of the United States may not approve any transaction that is subject to approval by the Board with respect to the provision by the Bank of any guarantee, insurance, or extension of credit, or the participation by the Bank in any extension of credit, in connection with a financing in which a person that is a borrower or controlling sponsor, or a person that is owned or controlled by such borrower or controlling sponsor, is subject to sanctions under section 5(a) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note).
+- **(c)** *Advisory opinions*
+  - **(1)** *Authority* The Secretary of State is authorized to issue advisory opinions described in subsection (a)(2)(B)(i)(II).
+  - **(2)** *Notice to Congress* If the Secretary issues an advisory opinion pursuant to paragraph (1), the Secretary shall notify the appropriate congressional committees of the opinion not later than 30 days after issuing the opinion.
+- **(d)** *Definitions* In this section:
+  - **(1)** *Appropriate congressional committees; person* The terms appropriate congressional committees and person have the meanings given those terms in section 14 of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note).
+  - **(2)** *Controlling sponsor* The term controlling sponsor means a person providing controlling direct private equity investment (excluding investments made through publicly held investment funds, publicly held securities, public offerings, or similar public market vehicles) in connection with a financing.
+
+## § 19. Use of portion of Bank surplus to update information technology systems
 
 Section 3 of the Export-Import Bank Act of 1945 (12 U.S.C. 635a) is amended by adding at the end the following:
 
 > - **(j)** *Authority to use portion of Bank surplus to update information technology systems*
->   - **(1)** *In general* Subject to paragraphs (3) and (4), the Bank may use an amount equal to 1.25 percent of the surplus of the Bank during each fiscal year to—
+>   - **(1)** *In general* Subject to paragraphs (3) and (4), the Bank may use an amount equal to 1.25 percent of the surplus of the Bank during fiscal years 2012, 2013, and 2014 to—
 >     - **(A)** seek to remedy any of the operational weakness and risk management vulnerabilities of the Bank which are the result of the information technology system of the Bank;
 >     - **(B)** remedy data fragmentation, enhance information flow throughout the Bank, and manage data across the Bank; and
 >     - **(C)** enhance the operational capacity and risk management capabilities of the Bank to better enable the Bank to increase exports and grow jobs while protecting the taxpayer.
 >   - **(2)** *Surplus* In paragraph (1), the term surplus means the amount (if any) by which—
 >     - **(A)** the sum of the interest and fees collected by the Bank; exceeds
 >     - **(B)** the sum of—
->       - **(i)** the funds set aside to cover expected losses on transactions financed by the Bank; and
+>       - **(I)** the funds set aside to cover expected losses on transactions financed by the Bank; and
 >       - **(ii)** the costs incurred to cover the administrative expenses of the Bank.
->   - **(3)** *Limitation* The aggregate of the amounts used in accordance with paragraph (1) for all fiscal years shall not exceed $20,000,000.
+>   - **(3)** *Limitation* The aggregate of the amounts used in accordance with paragraph (1) for fiscal years 2012, 2013, and 2014 shall not exceed $20,000,000.
 >   - **(4)** *Subject to appropriations* The authority provided by paragraph (1) may be exercised only to such extent and in such amounts as are provided in advance in appropriations Acts.
 
-## § 9. Monitoring of default rates on Bank financing; reports on default rates
-
-Section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g) is amended by adding at the end the following:
-
-> - **(g)** *Monitoring of default rates on Bank financing; reports on default rates*
->   - **(1)** *Monitoring of default rates* Not less frequently than quarterly, the Bank shall calculate the rate at which the entities to which the Bank has provided short-, medium-, or long-term financing are in default on a payment obligation under the financing, by dividing the total amount of the required payments that are overdue by the total amount of the financing involved.
->   - **(2)** *Reports* Within 45 days after a rate calculated under paragraph (1) equals or exceeds 2 percent, the Bank shall submit to the Congress a written report that explains the circumstances that have caused the default rate to equal or exceed 2 percent, and includes a plan to reduce the default rate to less than 2 percent.
-
-## § 10. Sense of the Congress regarding Bank accountability
-
-It is the sense of the Congress that—
-
-- **(1)** the Board of Directors of the Export-Import Bank of the United States (in this section referred to as the “Bank”) should establish a formal, transparent, and independent accountability mechanism that would review, investigate, and report on allegations by affected parties of failure of the Bank to follow its own policies and procedures, including situations where the Bank is alleged to have failed in its follow-up on the borrower’s obligations in financing agreements with respect to such policies and procedures;
-- **(2)** such an accountability mechanism should be able to provide advice to management on policies, procedures, guidelines, resources, and systems established to ensure adequate review and monitoring of projects;
-- **(3)** in carrying out its mandate, the confidentiality of sensitive business information should be respected, and, in consultation with affected parties, project sponsors, and Bank management, a flexible process should be followed aimed primarily at correcting project failures and achieving better results on the ground; and
-- **(4)** the accountability mechanism should be independent of the line operations of management, and report its findings and recommendations directly to the Board of Directors of the Bank.
-
-## § 11. Sub-saharan africa advisory committee
-
-Section 2(b)(9)(B)(iii) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(9)(B)(iii)) is amended by striking “2011” and inserting “2015”.
-
-## § 12. Extension of authority to provide financing for the export of nonlethal defense articles or services the primary end use of which will be for civilian purposes
-
-Section 1(c) of Public Law 103–428 (12 U.S.C. 635 note; 108 Stat. 4376) is amended by striking “2011” and inserting “2015”.
-
-## § 13. Elimination of obsolete provisions
-
-- **(a)** *Foreign credit insurance association*
-  - **(1)** *In general* Section 2(b)(1) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(1)) is amended by striking subparagraph (F) and redesignating subparagraphs (G) through (L) as subparagraphs (F) through (K), respectively.
-  - **(2)** *Conforming amendments*
-    - **(A)** Section 2(h)(2) of such Act (12 U.S.C. 635(h)(2)) is amended by striking “(J)” and inserting “(I)”.
-    - **(B)** Section 3 of such Act (12 U.S.C. 635a) is amended in each of subsections (f)(1)(A) and (g)(7) by striking “(I)” and inserting “(H)”.
-    - **(C)** Section 8 of such Act (12 U.S.C. 635g) is amended in each of subsections (c) and (f)(8)(A) by striking “(J)” and inserting “(I)”.
-    - **(D)** Section 8A(a)(5) of such Act (12 U.S.C. 635g-1(a)(5)) is amended by striking “2(b)(1)(K)” and inserting “2(b)(1)(J)”.
-- **(b)** *Definition of marxist-leninist country* Section 2(b)(2)(B)(ii) of such Act (12 U.S .C. 635(b)(2)(B)(ii)) is amended by striking subclause (VII) and redesignating subclauses (VIII) and (IX) as subclauses (VII) and (VIII), respectively.
-
-## § 14. Examination of bank support for small business
-
-Within 180 days after the date of the enactment of this Act, the Export-Import Bank of the United States shall examine and report to Congress on its current programs, products, and polices with respect to the implementation of its export credit insurance program, delegated lending authority, and direct loans, and any other programs, products, and policies established to support exports from small businesses in the United States, and determine the extent to which those policies adequately meet the needs of the small businesses in obtaining Bank financing to support the maintenance or creation of jobs in the United States through exports, consistent with the requirement that the Bank obtain a reasonable assurance of repayment.
-
-## § 15. Categorization of purpose of loans and long-term guarantees in annual report
-
-Section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g), as amended by section 9 of this Act, is amended by adding at the end the following:
-
-> - **(h)** *Categorization of purpose of loans and long-Term guarantees* In the annual report of the Bank under subsection (a), the Bank shall categorize each loan and long-term guarantee made by the Bank in the fiscal year covered by the report, and according to the following purposes:
->   - **(1)** “To assume commercial or political risk that exporter or private financial institutions are unwilling or unable to undertake”.
->   - **(2)** “To overcome maturity or other limitations in private sector export financing”.
->   - **(3)** “To meet competition from a foreign, officially sponsored, export credit competition”.
->   - **(4)** “Not identified”, and the reason why the purpose is not identified.
-
-## § 16. Disclosure requirement for board meetings
-
-Section 3(c)(9) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(a)) is amended by adding at the end the following new sentence: “Not later than 25 days before any meeting of the Board for final consideration of a transaction the value of which exceeds $75,000,000, and concurrent with any statement required to be submitted under section 2(b)(3) with respect to the transaction, the Bank shall post a notice on the website of the Bank that includes a description of the item proposed to be financed, the identities of the obligor, principal supplier, and guarantor, and a description of any item with respect to which Bank financing is being sought, in a manner that does not disclose any information that is confidential or proprietary business information, that would violate the Trade Secrets Act, or that would jeopardize jobs in the United States by supplying information which competitors could use to compete with companies in the United States.”.
-
-## § 17. Modifications relating to the advisory committee
+## § 20. Modifications relating to the advisory committee
 
 - **(a)** *Representation of the textile industry* Section 3(d)(1)(B) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(d)(1)(B)) is amended by striking “and State government” inserting “State government, and the textile industry”.
 - **(b)** *Access to bank products by the textile industry*
@@ -166,10 +251,10 @@ Section 3(c)(9) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(a)) is ame
     >   - **(A)** increase Bank support for the exports of textile components or inputs made in the United States; and
     >   - **(B)** support the maintenance, promotion and expansion of jobs in the United States that are critical to the manufacture of textile components and inputs.
 
-  - **(2)** *Annual report to congress on advisory committee determinations* Section 8 of such Act (12 U.S.C. 635g), as amended by the preceding provisions of this Act, is amended by adding at the end the following:
+  - **(2)** *Annual report to congress on advisory committee determinations* Section 8 of such Act (12 U.S.C. 635g), as amended by sections 6 and 10 of this Act, is amended by adding at the end the following:
     > - **(i)** *Access to bank products by the textile industry* The Bank shall include in its annual report to the Congress under subsection (a) of this section a report on the determinations made by the Advisory Committee under section 3(d)(5) in the year covered by the report.
 
-## § 18. Financing for goods manufactured in the United States used in global textile and apparel supply chains
+## § 21. Financing for goods manufactured in the United States used in global textile and apparel supply chains
 
 - **(a)** *Analysis of textile industry use of bank products* The Export-Import Bank of the United States (in this section referred to as the “Bank”) shall conduct a study of the extent to which the products offered by the Bank are available and used by manufacturers in the United States that export goods manufactured in the United States used as components in global textile and apparel supply chains. In conducting the study, the Bank shall examine the following:
   - **(1)** Impediments to use of Bank products by such firms.
@@ -181,17 +266,21 @@ Section 3(c)(9) of the Export-Import Bank Act of 1945 (12 U.S.C. 635a(a)) is ame
     - **(B)** the extent to which the Bank would need additional authority to offer the new products; and
     - **(C)** specific proposals for changes in law that would enable the Bank to provide such financing in compliance with the credit and risk standards of the Bank.
 - **(b)** *Report* Within 180 days after the date of the enactment of this Act, the Bank shall submit to the Congress a report that contains the results of the study required by subsection (a).
-- **(c)** *Annual reports* Section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g), as amended by the preceding provisions of this Act, is amended by adding at the end the following:
+- **(c)** *Annual reports* Section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g), as amended by sections 6, 10, and 20(b)(2) of this Act, is amended by adding at the end the following:
   > - **(j)** *Textile and apparel supply chain financing* The Bank shall include in its annual report to the Congress under subsection (a) of this section a description of the success of the Bank in providing effective and reasonably priced financing to the United States textile and apparel industry for exports of goods manufactured in the United States that are used as components in global textile and apparel supply chains in the year covered by the report, and steps the Bank has taken to increase the use of Bank products by such firms.
 
-## § 19. Prohibition on Bank assistance for project to be participated in by an entity that has recently engaged in certain prohibited activities with respect to Iran
+## § 22. Technical correction
 
-The Export-Import Bank of the United States shall not guarantee, insure, or extend (or participate in an extension of) credit in connection with the export of any good or service for a person, unless the person has certified to the Bank that, since July 1, 2010, neither the person, nor any other person under common ownership or control with the person—
+Section 2(b)(2)(B)(ii) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(2)(B)(ii)) is amended by striking subclauses (I), (IV), and (VII) and by redesignating subclauses (II), (III), (V), (VI), (VIII), and (IX) as subclauses (I) through (VI), respectively.
 
-- **(1)** has engaged in any activity for which sanctions may be imposed under section 5(a) of the Iran Sanctions Act of 1996;
-- **(2)** has provided sensitive technology (as defined in section 106(c) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010) to the government of Iran; or
-- **(3)** if the person is a United States person, has engaged in any activity prohibited by part 560 of title 31, Code of Federal Regulations (also known as the “Iran Transaction Regulations”).
+## § 23. Sub-Saharan Africa Advisory Committee
 
-## § 20. Effective date
+Section 2(b)(9)(B)(iii) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(9)(B)(iii)) is amended by striking “2011” and inserting “2014”.
 
-This Act and the amendments made by this Act shall take effect on October 1, 2011.
+## § 24. Dual use exports
+
+Section 4 of Public Law 109–438 (12 U.S.C. 635 note; 108 Stat. 4376) is amended by striking “2011” and inserting “2014”.
+
+## § 25. Effective date
+
+Except as provided in section 9(b), this Act and the amendments made by this Act shall take effect on the earlier of June 1, 2012, or the date of the enactment of this Act.
