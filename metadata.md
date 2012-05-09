@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4967
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4967
@@ -31,3 +31,10 @@ Temporary Bankruptcy Judgeships Extension Act of 2012
 - 2012-04-27 — Introduced in House
 - 2012-04-27 — Introduced in House
 - 2012-04-27 — Referred to the House Committee on the Judiciary.
+- 2012-05-09 — Committee on Judiciary discharged.
+- 2012-05-09 — Committee on Judiciary discharged.
+- 2012-05-09 — Considered by unanimous consent. (consideration: CR H2492-2493)
+- 2012-05-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-09 — Mr. Coble asked unanimous consent to discharge from committee and consider.
+- 2012-05-09 — On passage Passed without objection. (text: CR H2492-2493)
+- 2012-05-09 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2492-2493)
