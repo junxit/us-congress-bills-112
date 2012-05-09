@@ -28,8 +28,8 @@ Section 256(e)(2)(E) of the Balanced Budget and Emergency Deficit Control Act of
 
 - **(b)** *Discretionary savings* Section 251A(7)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 is amended to read as follows:
   > - **(A)** *Fiscal year 2013*
-  >   - **(i)** *Fiscal year 2013 adjustment* On January 2, 2013, the discretionary category set forth in section 251(c)(2)(A) shall be decreased by $19,104,000,000 in budget authority.
-  >   - **(ii)** *Supplemental sequestration order* On January 15, 2013, OMB shall issue a supplemental sequestration report for fiscal year 2013 and take the form of a final sequestration report as set forth in section 254(f)(2) and using the procedures set forth in section 253(f), to eliminate any discretionary spending breach of the spending limit set forth in section 251(c)(2)(A) as adjusted by clause (i), and the President shall order a sequestration, if any, as required by such report.
+  >   - **(i)** *Fiscal year 2013 adjustment* On January 2, 2013, the discretionary category set forth in section 251(c)(2)(A)251(c)(2) shall be decreased by $19,104,000,000 in budget authority.
+  >   - **(ii)** *Supplemental sequestration order* On January 15, 2013, OMB shall issue a supplemental sequestration report for fiscal year 2013 and take the form of a final sequestration report as set forth in section 254(f)(2) and using the procedures set forth in section 253(f), to eliminate any discretionary spending breach of the spending limit set forth in section 251(c)(2)(A)251(c)(2) as adjusted by clause (i), and the President shall order a sequestration, if any, as required by such report.
 
 ## § 5. Conforming amendments to section 314 of the Congressional Budget and Impoundment Control Act of 1974
 
