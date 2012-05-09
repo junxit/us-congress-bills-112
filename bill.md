@@ -18,7 +18,7 @@ This Act may be cited as the “United States-Israel Enhanced Security Cooperati
 Congress finds the following:
 
 - **(1)** Since 1948, United States Presidents and both houses of Congress, on a bipartisan basis and supported by the American people, have repeatedly reaffirmed the special bond between the United States and Israel, based on shared values and shared interests.
-- **(2)** The Middle East is undergoing rapid change, bringing with it hope for an expansion of democracy but also great challenges to the national security of the United States and our allies in the region, particularly our most important ally in the region, Israel. The past year has witnessed the fall of some regimes long considered to be pillars of stability in the Middle East and a rise in the influence of radical Islamists throughout the region.
+- **(2)** The Middle East is undergoing rapid change, bringing with it hope for an expansion of democracy but also great challenges to the national security of the United States and our allies in the region, particularly our most important ally in the region, Israel. Over the past year, the Middle East has witnessed the fall of some regimes long considered to be stabilizing forces and a rise in the influence of radical Islamists.
 - **(3)** Iran, which has long sought to foment instability and promote extremism in the Middle East, is now seeking to exploit the dramatic political transition underway in the region to undermine governments traditionally aligned with the United States and support extremist political movements in these countries.
 - **(4)** At the same time, Iran may soon attain a nuclear weapons capability, a development that would fundamentally threaten vital American interests, destabilize the region, encourage regional nuclear proliferation, further empower and embolden Iran, the world’s leading state sponsor of terrorism, and provide it the tools to threaten its neighbors, including Israel.
 - **(5)** Over the past several years, with the assistance of Iran and Syria, Hizballah and Hamas have increased their stockpiles of rockets, with more than 60,000 rockets now ready to be fired at Israel. Iran continues to add to its arsenal of ballistic missiles and cruise missiles, which threaten Iran’s neighbors, Israel, and United States military forces in the region.
@@ -37,29 +37,37 @@ It is the policy of the United States:
 
 ## § 4. United States actions to assist in the defense of Israel and protect American interests
 
-- **(a)** *Sense of Congress* It is the sense of Congress that the United States should take the following actions to assist in the defense of Israel:
+- **(a)** *Sense of congress* It is the sense of Congress that the United States should take the following actions to assist in the defense of Israel:
   - **(1)** Provide Israel such support as may be necessary to increase development and production of joint missile defense systems, particularly such systems that defend the urgent threat posed to Israel and United States forces in the region.
-  - **(2)** Provide Israel defense articles and defense services through such mechanisms as appropriate, to include air refueling tankers, missile defense capabilities, and specialized munitions.
-  - **(3)** Allocate additional weaponry and munitions for the forward-deployed United States stockpile in Israel.
-  - **(4)** Provide Israel additional surplus defense articles and defense services, as appropriate, in the wake of the withdrawal of United States forces from Iraq.
-  - **(5)** Strengthen efforts to prevent weapons smuggling into Gaza pursuant to the 2005 Agreement on Movement and Access following the Israeli withdrawal from Gaza and to protect against weapons smuggling and terrorist threats from the Sinai Peninsula.
-  - **(6)** Offer the Israeli Air Force additional training and exercise opportunities in the United States to compensate for Israel’s limited air space.
-  - **(7)** Expand Israel’s authority to make purchases under the Foreign Military Financing program on a commercial basis.
-  - **(8)** Seek to enhance the capabilities of the United States and Israel to address emerging common threats, increase security cooperation, and expand joint military exercises.
-  - **(9)** Encourage an expanded role for Israel within the North Atlantic Treaty Organization (NATO), including an enhanced presence at NATO headquarters and exercises.
-  - **(10)** Support extension of the long-standing loan guarantee program for Israel, recognizing Israel’s unbroken record of repaying its loans on time and in full.
-  - **(11)** Expand already-close intelligence cooperation, including satellite intelligence, with Israel.
-- **(b)** *Report on Israel’s qualitative military edge*
+  - **(2)** Provide Israel assistance specifically for the production and procurement of the Iron Dome defense system for purposes of intercepting short-range missiles, rockets, and projectiles launched against Israel.
+  - **(3)** Provide Israel defense articles and defense services through such mechanisms as appropriate, to include air refueling tankers, missile defense capabilities, and specialized munitions.
+  - **(4)** Allocate additional weaponry and munitions for the forward-deployed United States stockpile in Israel.
+  - **(5)** Provide Israel additional surplus defense articles and defense services, as appropriate, in the wake of the withdrawal of United States forces from Iraq.
+  - **(6)** Strengthen efforts to prevent weapons smuggling into Gaza pursuant to the 2005 Agreement on Movement and Access following the Israeli withdrawal from Gaza and to protect against weapons smuggling and terrorist threats from the Sinai Peninsula.
+  - **(7)** Offer the Israeli Air Force additional training and exercise opportunities in the United States to compensate for Israel’s limited air space.
+  - **(8)** Expand Israel’s authority to make purchases under the Foreign Military Financing program on a commercial basis.
+  - **(9)** Seek to enhance the capabilities of the United States and Israel to address emerging common threats, increase security cooperation, and expand joint military exercises.
+  - **(10)** Encourage an expanded role for Israel within the North Atlantic Treaty Organization (NATO), including an enhanced presence at NATO headquarters and exercises.
+  - **(11)** Support extension of the long-standing loan guarantee program for Israel, recognizing Israel’s unbroken record of repaying its loans on time and in full.
+  - **(12)** Expand already-close intelligence cooperation, including satellite intelligence, with Israel.
+- **(b)** *Report on israel’s qualitative military edge*
   - **(1)** *Statement of policy* It is the policy of the United States—
     - **(A)** to help Israel preserve its qualitative military edge amid rapid and uncertain regional political transformation; and
-    - **(B)** to encourage further development of advanced technology programs between the United States and Israel current trends and instability in the region.
-  - **(2)** *Report* Not later than 180 days after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a report on the status of Israel’s qualitative military edge in light of current trends and instability in the region.
+    - **(B)** to encourage further development of advanced technology programs between the United States and Israel given current trends and instability in the region.
+  - **(2)** *Report* Not later than 180 days after the date of the enactment of this Act, the President shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the status of Israel’s qualitative military edge in light of current trends and instability in the region.
 - **(c)** *Reports on other matters* Not later than 180 days after the date of the enactment of this Act, the President shall submit to the appropriate congressional committees a report on each of the following:
   - **(1)** Taking into account Israel’s urgent requirement for F–35 aircraft, actions to improve the process relating to Israel’s purchase of F–35 aircraft to improve cost efficiency and timely delivery.
   - **(2)** Efforts to expand cooperation between the United States and Israel in homeland security, counter-terrorism, maritime security, energy, cybersecurity, and other appropriate areas.
   - **(3)** Actions to integrate Israel into the defense of the Eastern Mediterranean.
 - **(d)** *Definitions* In this section:
-  - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
+  - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
     - **(A)** the Committee on Appropriations, the Committee on Armed Services, and the Committee on Foreign Affairs of the House of Representatives; and
     - **(B)** the Committee on Appropriations, the Committee on Armed Services, and the Committee on Foreign Relations of the Senate.
-  - **(2)** *Qualitative military edge* The term qualitative military edge has the meaning given the term in section 36(h)(2) of the Arms Export Control Act (22 U.S.C. 2776(h)(2)).
+  - **(2)** *Qualitative military edge* The term “qualitative military edge” has the meaning given the term in section 36(h)(2) of the Arms Export Control Act (22 U.S.C. 2776(h)(2)).
+
+## § 5. Extension of authority to provide loan guarantees to Israel
+
+- **(a)** *In general* Chapter 5 of title I of the Emergency Wartime Supplemental Appropriations Act, 2003 (Public Law 108–11), as amended, is further amended in the item relating to “Loan Guarantees to Israel”—
+  - **(1)** in the matter preceding the first proviso, by striking “September 30, 2011” and inserting “September 30, 2015”; and
+  - **(2)** in the second proviso, by striking “September 30, 2011” and inserting “September 30, 2015”.
+- **(b)** *Effective date* The amendments made by this section take effect on the date of enactment of this Act.
