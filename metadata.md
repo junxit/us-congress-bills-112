@@ -1,7 +1,7 @@
 ---
 measure: S. 743
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 743
@@ -49,3 +49,8 @@ Whistleblower Protection Enhancement Act of 2012
 - 2012-04-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 358.
 - 2012-05-08 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S2978-2985; text as passed Senate: CR S2978-2985)
 - 2012-05-08 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S2978-2985; text as passed Senate: CR S2978-2985)
+- 2012-05-09 — Message on Senate action sent to the House.
+- 2012-05-09 — Received in the House.
+- 2012-05-09 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Intelligence (Permanent Select), and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-05-09 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Intelligence (Permanent Select), and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-05-09 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Intelligence (Permanent Select), and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.

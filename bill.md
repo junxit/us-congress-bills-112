@@ -2,7 +2,7 @@
 legis-num: S. 743
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # S. 743
@@ -11,4 +11,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Whistleblower Protection Enhancement Act of 2012”.
+This Act may be cited as the ““Whistleblower Protection Enhancement Act of 2012””.
