@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5326
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -36,5 +36,5 @@ complete account of the bill's effect, which it is not.
 | — | strike | Section 1105 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18431) is amended by striking “The Administrator may not” and all that follows through “inefficiency.”. | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3) by striking the period at the end inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 501(a)(2)(A) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1996 (Public Law 104–134) is amended by striking “on the basis of the most recent decennial census of popula… | the bill names no machine-readable US Code section |
