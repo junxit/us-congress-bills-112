@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4967
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4967
@@ -38,3 +38,5 @@ Temporary Bankruptcy Judgeships Extension Act of 2012
 - 2012-05-09 — Mr. Coble asked unanimous consent to discharge from committee and consider.
 - 2012-05-09 — On passage Passed without objection. (text: CR H2492-2493)
 - 2012-05-09 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2492-2493)
+- 2012-05-10 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S3102-3103)
+- 2012-05-10 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S3102-3103)
