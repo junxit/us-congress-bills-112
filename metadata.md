@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4133
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4133
@@ -323,9 +323,10 @@ United States-Israel Enhanced Security Cooperation Act of 2012
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -344,3 +345,4 @@ United States-Israel Enhanced Security Cooperation Act of 2012
 - 2012-05-09 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
 - 2012-05-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 2, 9 Present (Roll no. 225). (text: CR H2481-2482)
 - 2012-05-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 2, 9 Present (Roll no. 225).(text: CR H2481-2482)
+- 2012-05-10 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
