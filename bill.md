@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2745
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,4 +18,15 @@ Section 3 of Public Law 99–548 (commonly known as the “Mesquite Lands Act of
   - **(A)** in paragraph (1)(A), by striking “For a period of 12 years after the date of the enactment of this Act,” and inserting “Until November 29, 2020,”;
   - **(B)** in paragraph (3), by striking “Not later than 10 years after the date of the enactment of this subsection,” and inserting “Not later than November 29, 2019,”; and
   - **(C)** in paragraph (5), by striking “the date that is 12 years after the date of the enactment of this subsection,” and inserting “the date specified in paragraph (1)(A),”; and
-- **(3)** in subsection (f)(3), by striking “until the date that is 12 years after the date of the enactment of this subsection,” and inserting “until November 29, 2020,”.
+- **(3)** in subsection (f)—
+  - **(A)** in paragraph (1), by striking “Not later than 1 year after the date of the enactment of this subsection, the” and inserting “The”;
+  - **(B)** in paragraph (2), by inserting after subparagraph (C) the following:
+    > - **(D)** The approximately 218 acres of land depicted as “Hiatus” on the map titled “Mesquite Airport Conveyance” and dated January 13, 2012.
+
+  - **(C)** in paragraph (3), by striking “until the date that is 12 years after the date of the enactment of this subsection,” and inserting “until November 29, 2020,”;
+  - **(D)** by amending paragraph (4) to read as follows:
+    > - **(4)** *Reverter* If the land conveyed pursuant to paragraph (1) is not used by the city as an airport or for another public purpose, it shall revert to the United States, at the option of the Secretary, except that the city shall have an exclusive right to purchase such land.
+
+  - **(E)** by redesignating paragraph (5) as paragraph (7) and by inserting after paragraph (4) the following:
+    > - **(5)** *Right to purchase land* Until November 29, 2020, the City of Mesquite, Nevada, subject to all appropriate environmental reviews, including compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4331 et. seq.) and the Endangered Species Act of 1973 (16 U.S.C. 1531 et. seq.), shall have the exclusive right to purchase the parcels of public land described in paragraph (2) that the Secretary did not convey to the city pursuant to paragraph (1).
+    > - **(6)** *Proceeds of sale* The proceeds of the sale of each parcel under this subsection shall be deposited into the General Treasury.

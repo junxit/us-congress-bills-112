@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2745
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,4 +35,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (1)(A), by striking “For a period of 12 years after the date of the enactment of this Act,” and inserting “Until November 29, 2020,”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “Not later than 10 years after the date of the enactment of this subsection,” and inserting “Not later than November 29, 2019,”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5), by striking “the date that is 12 years after the date of the enactment of this subsection,” and inserting “the date specified in paragraph (1)(A),”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f)(3), by striking “until the date that is 12 years after the date of the enactment of this subsection,” and inserting “until November 29, 2020,”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “Not later than 1 year after the date of the enactment of this subsection, the” and inserting “The”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2), by inserting after subparagraph (C) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “until the date that is 12 years after the date of the enactment of this subsection,” and inserting “until November 29, 2020,”; | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (4) to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (5) as paragraph (7) and by inserting after paragraph (4) the following: | the bill names no machine-readable US Code section |
