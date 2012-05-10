@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4967
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4967
@@ -40,3 +40,10 @@ Temporary Bankruptcy Judgeships Extension Act of 2012
 - 2012-05-09 — Passed/agreed to in House: On passage Passed without objection.(text: CR H2492-2493)
 - 2012-05-10 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S3102-3103)
 - 2012-05-10 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S3102-3103)
+- 2012-05-14 — Message on Senate action sent to the House.
+- 2012-05-18 — Presented to President.
+- 2012-05-18 — Presented to President.
+- 2012-05-25 — Became Public Law No: 112-121.
+- 2012-05-25 — Became Public Law No: 112-121.
+- 2012-05-25 — Signed by President.
+- 2012-05-25 — Signed by President.
