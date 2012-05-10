@@ -13,11 +13,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Black Hills Cemetery Act”.
 
-## § 2. Land conveyances, eight cemeteries located in Black Hills National Forest, South Dakota
+## § 2. Land conveyances, certain cemeteries located in Black Hills National Forest, South Dakota
 
-- **(a)** *Cemetery conveyances required* The Secretary of Agriculture shall convey, without consideration, to the local communities in South Dakota that are currently managing and maintaining eight community cemeteries (as specified in subsection (b)) all right, title, and interest of the United States in and to—
+- **(a)** *Cemetery conveyances required* The Secretary of Agriculture shall convey, without consideration, to the local communities in South Dakota that are currently managing and maintaining certain community cemeteries (as specified in subsection (b)) all right, title, and interest of the United States in and to—
   - **(1)** the parcels of National Forest System land containing such cemeteries; and
-  - **(2)** at least an additional two acres adjoining each cemetery in order to ensure the conveyances include unmarked gravesites and allow for expansion of the cemeteries.
+  - **(2)** up to an additional two acres adjoining each cemetery in order to ensure the conveyances include unmarked gravesites and allow for expansion of the cemeteries.
 - **(b)** *Property and recipients* The properties to be conveyed under subsection (a), and the recipients of each property, are as follows:
   - **(1)** The Silver City Cemetery to the Silver City Volunteer Fire Department.
   - **(2)** The Hayward Cemetery to the Hayward Volunteer Fire Department.
@@ -27,6 +27,8 @@ This Act may be cited as the “Black Hills Cemetery Act”.
   - **(6)** The Nemo Cemetery to the Nemo Cemetery Association.
   - **(7)** The Galena Cemetery to the Galena Historical Society.
   - **(8)** The Rockerville Cemetery to the Rockerville Community Club.
+  - **(9)** The Cold Springs Cemetery (including adjacent school yard and log building) to the Cold Springs Historical Society.
 - **(c)** *Condition of conveyance* Each conveyance under subsection (a) shall be subject to the condition that the recipient accept the conveyed real property in its condition at the time of the conveyance.
-- **(d)** *Description of property* The exact acreage and legal description of each parcel of real property to be conveyed under subsection (a) shall be determined by surveys satisfactory to the Secretary. The cost of the survey for a particular parcel shall be borne by the recipient of such parcel.
-- **(e)** *Additional terms and conditions* The Secretary may require such additional terms and conditions in connection with the conveyances under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
+- **(d)** *Use of land conveyed* The lands conveyed under subsection (a) shall continue to be used in the same manner and for the same purposes as they were immediately prior to their conveyance under this Act.
+- **(e)** *Description of property* The exact acreage and legal description of each parcel of real property to be conveyed under subsection (a) shall be determined by surveys satisfactory to the Secretary. The cost of the survey for a particular parcel shall be borne by the recipient of such parcel.
+- **(f)** *Additional terms and conditions* The Secretary may require such additional terms and conditions in connection with the conveyances under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
