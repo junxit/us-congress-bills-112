@@ -1,0 +1,24 @@
+---
+legis-num: S. RES. 454
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 454
+
+> Commending the Nuclear Regulatory Commission and the Department of Energy hosting the Third International Conference on Nuclear Power Plant Life Management.
+
+## Preamble
+
+- Whereas the Third International Conference on Nuclear Power Plant Life Management has been organized by the International Atomic Energy Agency and will be hosted in the United States for the first time from May 13–17, 2012, in Salt Lake City, Utah;
+- Whereas the Senate recognizes the important contribution of the United States, through the Nuclear Regulatory Commission, Department of Energy, and National Laboratories, to nuclear power plant life management;
+- Whereas conference attendees will discuss ways to safely and cost-effectively renew the operating lifetimes of many of the nuclear power plants in the world, especially the 104 operating commercial nuclear power reactors in the United States; and
+- Whereas the Senate recognizes the continuing importance of the 436 commercial nuclear power reactors that operate in 31 countries and currently provide 14 percent of the electricity in the world: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** commends the Nuclear Regulatory Commission and the Department of Energy for hosting the Third International Conference on Nuclear Power Plant Life Management in the United States;
+- **(2)** applauds the efforts of conference attendees to discuss and explore the increased role of nuclear power plant life management in support of license renewal and the safe, long-term operation of commercial nuclear reactors throughout the world;
+- **(3)** thanks the International Atomic Energy Agency for organizing the Third International Conference on Nuclear Power Plant Life Management in the United States for the first time; and
+- **(4)** encourages Member States of the International Atomic Energy Agency to take advantage of the latest available technology to further develop licensing programs, promote safety, and secure the long-term success of commercial nuclear power generation.
