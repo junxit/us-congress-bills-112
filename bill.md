@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2621
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -28,7 +28,7 @@ In this Act:
   - **(2)** to provide for public interpretation and recreation consistent with the protection of the resources described in paragraph (1).
 - **(b)** *Boundaries*
   - **(1)** *In general* The national monument shall consist of approximately 4,726 acres of land and interests in land, as generally depicted on the map entitled “Boundary Map, Chimney Rock National Monument” and dated January 5, 2010.
-  - **(2)** *Minor adjustments* The Secretary may make minor adjustments to the boundary of the national monument to reflect the inclusion of significant archeological resources discovered after the date of enactment of this Act on adjacent National Forest System land.
+  - **(2)** *Minor adjustments* The Secretary may make minor adjustments to the boundary of the national monument to reflect the inclusion of significant archeological resources discovered after the date of the enactment of this Act on adjacent National Forest System land.
   - **(3)** *Availability of map* The map described in paragraph (1) shall be on file and available for public inspection in the appropriate offices of the Forest Service.
 
 ## § 4. Administration
@@ -51,10 +51,10 @@ In this Act:
   - **(1)** ecosystem restoration in furtherance of section 3(a); or
   - **(2)** the control of fire, insects, or diseases.
 - **(d)** *Motor vehicles and mountain bikes* The use of motor vehicles and mountain bikes in the national monument shall be limited to the roads and trails identified by the Secretary as appropriate for the use of motor vehicles and mountain bikes.
-- **(e)** *Grazing* The Secretary shall permit grazing within the national monument, where established before the date of enactment of this Act—
+- **(e)** *Grazing* The Secretary shall permit grazing within the national monument, where established before the date of the enactment of this Act—
   - **(1)** subject to all applicable laws (including regulations); and
   - **(2)** consistent with the purposes described in section 3(a).
-- **(f)** *Utility right-of-Way upgrades* Nothing in this Act precludes the Secretary from renewing or authorizing the upgrading of a utility right-of-way in existence as of the date of enactment of this Act through the national monument—
+- **(f)** *Utility right-of-Way upgrades* Nothing in this Act precludes the Secretary from renewing or authorizing the upgrading of a utility right-of-way in existence as of the date of the enactment of this Act through the national monument—
   - **(1)** in accordance with—
     - **(A)** the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
     - **(B)** any other applicable law; and
@@ -62,11 +62,12 @@ In this Act:
 - **(g)** *Volunteers* The Secretary shall allow for the continued access and work of volunteers at the national monument.
 - **(h)** *Research* Scientific research, including archeological research, educational, and interpretive uses shall be permitted within the Monument.
 - **(i)** *Other administrative costs* Any signs, fixtures, alterations, or additions needed in connection with the designation or advertisement of the Monument shall be paid for only with non-Federal funds or amounts made available for such purposes in prior Acts of appropriation.
-- **(j)** *Designation of manager* As soon as practicable after the management plan is developed under section 5(a), the Secretary shall designate an employee of the Department of the Interior whose duties shall include acting as the point of contact for the management of the national monument.
+- **(j)** *Designation of manager* As soon as practicable after the management plan is developed under section 5(a), the Secretary shall designate an employee of the Department of Agriculture whose duties shall include acting as the point of contact for the management of the national monument.
+- **(k)** *Other recreational uses* The Secretary shall allow continued use of the national monument for hunting, fishing, and other recreational uses authorized on the date of the enactment of this Act, except that the Secretary may implement temporary emergency closures or restrictions of the smallest practicable area to provide for public safety, resource conservation, or other purposes authorized by law.
 
 ## § 5. Management plan
 
-- **(a)** *In general* Not later than 3 years after the date of enactment of this Act, the Secretary, in consultation with Indian tribes with a cultural or historic tie to Chimney Rock, shall develop a management plan for the national monument.
+- **(a)** *In general* Not later than 3 years after the date of the enactment of this Act, the Secretary, in consultation with Indian tribes with a cultural or historic tie to Chimney Rock, shall develop a management plan for the national monument.
 - **(b)** *Public comment* In developing the management plan, the Secretary shall provide an opportunity for public comment by—
   - **(1)** State and local governments;
   - **(2)** tribal governments; and
@@ -82,11 +83,11 @@ The Secretary may acquire land and any interest in land within or adjacent to th
 
 ## § 7. Withdrawal
 
-- **(a)** *In general* Subject to valid existing rights, all Federal land within the national monument (including any land or interest in land acquired after the date of enactment of this Act) is withdrawn from—
+- **(a)** *In general* Subject to valid existing rights, all Federal land within the national monument (including any land or interest in land acquired after the date of the enactment of this Act) is withdrawn from—
   - **(1)** entry, appropriation, or disposal under the public land laws;
   - **(2)** location, entry, and patent under the mining laws; and
   - **(3)** subject to subsection (b), operation of the mineral leasing, mineral materials, and geothermal leasing laws.
-- **(b)** *Limitation* Notwithstanding subsection (a)(3), the Federal land is not withdrawn for the purposes of issuance of gas pipeline rights-of-way within easements in existence as of the date of enactment of this Act.
+- **(b)** *Limitation* Notwithstanding subsection (a)(3), the Federal land is not withdrawn for the purposes of issuance of gas pipeline rights-of-way within easements in existence as of the date of the enactment of this Act.
 
 ## § 8. Effect
 
