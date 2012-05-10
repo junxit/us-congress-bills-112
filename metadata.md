@@ -1,7 +1,7 @@
 ---
 measure: S. 2224
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2224
@@ -22,9 +22,10 @@ A bill to require the President to report to Congress on issues related to Syria
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Webb, Jim [D-VA] (W000803)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,6 @@ A bill to require the President to report to Congress on issues related to Syria
 - 2012-05-09 — Senate amendment agreed to: Amendment SA 2098 agreed to in Senate by Unanimous Consent.
 - 2012-05-09 — Senate amendment proposed (on the floor): Amendment SA 2098 proposed by Senator Reid for Senator Corker.(consideration: CR S3048-3049; text: CR S3048-3049)
 - 2012-05-09 — Senate amendment submitted
+- 2012-05-10 — Message on Senate action sent to the House.
+- 2012-05-10 — Received in the House.
+- 2012-05-10 — Referred to the House Committee on Foreign Affairs.
