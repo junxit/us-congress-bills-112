@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 365
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,27 +11,28 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Blue Alert Act of 2011”.
+This Act may be cited as the “National Blue Alert Act of 2012”.
 
 ## § 2. Definitions
 
-In this Act—
+In this Act:
 
-- **(1)** the term Coordinator means the Blue Alert Coordinator of the Department of Justice designated under section 4(a);
-- **(2)** the term Blue Alert means information relating to the serious injury or death of a law enforcement officer in the line of duty sent through the network;
-- **(3)** the term Blue Alert plan means the plan of a State, unit of local government, or Federal agency participating in the network for the dissemination of information received as a Blue Alert;
-- **(4)** the term network means the Blue Alert communications network established by the Attorney General under section 3; and
-- **(5)** term State means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+- **(1)** *Coordinator* The term Coordinator means the Blue Alert Coordinator of the Department of Justice designated under section 4(a).
+- **(2)** *Blue alert* The term Blue Alert means information relating to the serious injury or death of a law enforcement officer in the line of duty sent through the network.
+- **(3)** *Blue alert plan* The term Blue Alert plan means the plan of a State, unit of local government, or Federal agency participating in the network for the dissemination of information received as a Blue Alert.
+- **(4)** *Law enforcement officer* The term law enforcement officer shall have the same meaning as in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b(6)).
+- **(5)** *Network* The term network means the Blue Alert communications network established by the Attorney General under section 3.
+- **(6)** *State* The term State means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-## § 3. Blue Alert communications network
+## § 3. Blue alert communications network
 
 The Attorney General shall establish a national Blue Alert communications network within the Department of Justice to issue Blue Alerts through the initiation, facilitation, and promotion of Blue Alert plans, in coordination with States, units of local government, law enforcement agencies, and other appropriate entities.
 
-## § 4. Blue Alert Coordinator; guidelines
+## § 4. Blue alert coordinator; guidelines
 
-- **(a)** *Coordination within Department of Justice* The Attorney General shall assign an officer of the Department of Justice to act as the national coordinator of the Blue Alert communications network.
-- **(b)** *Duties of the Coordinator* The Coordinator shall—
-  - **(1)** encourage States and units of local government to develop additional Blue Alert plans;
+- **(a)** *Coordination within department of justice* The Attorney General shall assign an existing officer of the Department of Justice to act as the national coordinator of the Blue Alert communications network.
+- **(b)** *Duties of the coordinator* The Coordinator shall—
+  - **(1)** provide assistance to States and units of local government that are using Blue Alert plans;
   - **(2)** establish voluntary guidelines for States and units of local government to use in developing Blue Alert plans that will promote compatible and integrated Blue Alert plans throughout the United States, including—
     - **(A)** a list of the resources necessary to establish a Blue Alert plan;
     - **(B)** criteria for evaluating whether a situation warrants issuing a Blue Alert;
@@ -61,12 +62,16 @@ The Attorney General shall establish a national Blue Alert communications networ
   - **(5)** establish an advisory group to assist States, units of local government, law enforcement agencies, and other entities involved in the network with initiating, facilitating, and promoting Blue Alert plans, which shall include—
     - **(A)** to the maximum extent practicable, representation from the various geographic regions of the United States; and
     - **(B)** members who are—
-      - **(i)** representatives of law enforcement organizations, law enforcement agencies, and public safety communications;
-      - **(ii)** broadcasters, first responders, dispatchers, and radio station personnel; and
-      - **(iii)** representatives of any other individuals or organizations that the Coordinator determines are necessary to the success of the network; and
+      - **(i)** representatives of a law enforcement organization representing rank-and-file officers;
+      - **(ii)** representatives of other law enforcement agencies and public safety communications;
+      - **(iii)** broadcasters, first responders, dispatchers, and radio station personnel; and
+      - **(iv)** representatives of any other individuals or organizations that the Coordinator determines are necessary to the success of the network;
   - **(6)** act as the nationwide point of contact for—
     - **(A)** the development of the network; and
-    - **(B)** regional coordination of Blue Alerts through the network.
+    - **(B)** regional coordination of Blue Alerts through the network; and
+  - **(7)** determine—
+    - **(A)** what procedures and practices are in use for notifying law enforcement and the public when a law enforcement officer is killed or seriously injured in the line of duty; and
+    - **(B)** which of the procedures and practices are effective and that do not require the expenditure of additional resources to implement.
 - **(c)** *Limitations*
   - **(1)** *Voluntary participation* The guidelines established under subsection (b)(2), protocols developed under subsection (b)(3), and other programs established under subsection (b), shall not be mandatory.
   - **(2)** *Dissemination of information* The guidelines established under subsection (b)(2) shall, to the maximum extent practicable (as determined by the Coordinator in consultation with law enforcement agencies of States and units of local government), provide that appropriate information relating to a Blue Alert is disseminated to the appropriate officials of law enforcement agencies, public health agencies, and other agencies.
@@ -74,16 +79,20 @@ The Attorney General shall establish a national Blue Alert communications networ
     - **(A)** provide mechanisms that ensure that Blue Alerts comply with all applicable Federal, State, and local privacy laws and regulations; and
     - **(B)** include standards that specifically provide for the protection of the civil liberties, including the privacy, of law enforcement officers who are seriously injured or killed in the line of duty and the families of the officers.
 - **(d)** *Cooperation with other agencies* The Coordinator shall cooperate with the Secretary of Homeland Security, the Secretary of Transportation, the Chairman of the Federal Communications Commission, and appropriate offices of the Department of Justice in carrying out activities under this Act.
-- **(e)** *Reports* Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the Blue Alert plans that are in effect or being developed.
+- **(e)** *Restrictions on coordinator* The Coordinator may not—
+  - **(1)** perform any official travel for the sole purpose of carrying out the duties of the Coordinator;
+  - **(2)** lobby any officer of a State regarding the funding or implementation of a Blue Alert plan; or
+  - **(3)** host a conference focused solely on the Blue Alert program that requires the expenditure of Federal funds.
+- **(f)** *Reports* Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the Blue Alert plans that are in effect or being developed.
 
-## § 5. Grant program for support of Blue Alert plans
+## § 5. Grant program for support of blue alert plans
 
 Section 1701(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd(b)) is amended—
 
 - **(1)** in paragraph (16), by striking “and” at the end;
 - **(2)** by redesignating paragraph (17) as paragraph (18); and
 - **(3)** by inserting after paragraph (16) the following:
-  > - **(17)** to assist a State in the development or enhancement of programs and activities in support of a Blue Alert plan and the network (as those terms are defined in section 2 of the National Blue Alert Act of 2011), including—
+  > - **(17)** to assist a State in the development or enhancement of programs and activities in support of a Blue Alert plan and the network (as those terms are defined in section 2 of the National Blue Alert Act of 2012), including—
   >   - **(A)** developing and implementing education and training programs, and associated materials, relating to Blue Alert plans;
   >   - **(B)** developing and implementing law enforcement programs, and associated equipment, relating to Blue Alert plans; and
   >   - **(C)** developing and implementing new technologies to improve the communication of Blue Alerts; and
