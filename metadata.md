@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5326
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5326
@@ -627,3 +627,4 @@ Commerce, Justice, Science, and Related Agencies Appropriations Act, 2013
 - 2012-05-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5326.
 - 2012-05-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2634)
 - 2012-05-10 — The previous question was ordered pursuant to the rule. (consideration: CR H2557)
+- 2012-05-14 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 397.
