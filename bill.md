@@ -58,7 +58,10 @@ Section 201(a) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7831(a)) 
 
 ## § 9. Assistance provided outside of North Korea
 
-Section 203(c)(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7833(c)(1)) is amended by striking “2012” and inserting “2017”.
+Section 203(c)(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7833(c)(1)) is amended—
+
+- **(1)** by striking “$20,000,000” and inserting “$5,000,000”; and
+- **(2)** by striking “2005 through 2012” and inserting “2013 through 2017”.
 
 ## § 10. Annual reports
 

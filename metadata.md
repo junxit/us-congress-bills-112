@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4240
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4240
@@ -16,7 +16,7 @@ Ambassador James R. Lilley and Congressman Stephen J. Solarz North Korea Human R
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Cosponsors (21)
+## Cosponsors (28)
 
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
@@ -39,6 +39,13 @@ Ambassador James R. Lilley and Congressman Stephen J. Solarz North Korea Human R
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Rivera, David [R-FL-25] (R000590)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
+- Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. Israel, Steve [D-NY-2] (I000057)
 
 ## Committees (1)
 
@@ -49,3 +56,11 @@ Ambassador James R. Lilley and Congressman Stephen J. Solarz North Korea Human R
 - 2012-03-22 — Introduced in House
 - 2012-03-22 — Introduced in House
 - 2012-03-22 — Referred to the House Committee on Foreign Affairs.
+- 2012-03-28 — Committee Consideration and Mark-up Session Held.
+- 2012-03-28 — Ordered to be Reported by Unanimous Consent.
+- 2012-05-15 — Considered under suspension of the rules. (consideration: CR H2685-2687)
+- 2012-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4240.
+- 2012-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-15 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
+- 2012-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2685-2686)
+- 2012-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2685-2686)

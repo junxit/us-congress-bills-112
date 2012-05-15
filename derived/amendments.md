@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4240
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,5 +35,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | Subsections (b)(1) and (c) of section 104 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814) is amended by striking “2012” and inserting “2017” each place it appears. | the bill names no machine-readable US Code section |
 | — | replace | Section 107(d) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7817(d)) by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | replace | Section 201(a) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7831(a)) is amended, in the matter preceding paragraph (1), by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
-| — | replace | Section 203(c)(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7833(c)(1)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “$20,000,000” and inserting “$5,000,000”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2005 through 2012” and inserting “2013 through 2017”. | the bill names no machine-readable US Code section |
 | — | replace | Section 305(a) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7845(a)) is amended, in the matter preceding paragraph (1) by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
