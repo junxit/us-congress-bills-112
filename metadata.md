@@ -1,7 +1,7 @@
 ---
 measure: H.R. 365
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 365
@@ -81,6 +81,10 @@ National Blue Alert Act of 2012
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2012-05-15 — [House 112-2-250](votes/house-112-2-0250.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (394–1)
+
 ## Actions
 
 - 2011-01-20 — Introduced in House
@@ -93,3 +97,11 @@ National Blue Alert Act of 2012
 - 2012-05-11 — Placed on the Union Calendar, Calendar No. 334.
 - 2012-05-11 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-478.
 - 2012-05-11 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-478.
+- 2012-05-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-05-15 — Considered as unfinished business. (consideration: CR H2693-2694)
+- 2012-05-15 — Considered under suspension of the rules. (consideration: CR H2673-2676)
+- 2012-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 365.
+- 2012-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-15 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2012-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 250). (text: CR H2673-2674)
+- 2012-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 250).(text: CR H2673-2674)
