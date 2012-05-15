@@ -7,11 +7,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 205
 
-> To amend the Act titled “An Act to authorize the leasing of restricted Indian lands for public, religious, educational, recreational, residential, business, and other purposes requiring the grant of long-term leases”, approved August 9, 1955, to provide for Indian tribes to enter into certain leases without prior express approval from the Secretary of the Interior.
+> To amend the Act titled “An Act to authorize the leasing of restricted Indian lands for public, religious, educational, recreational, residential, business, and other purposes requiring the grant of long-term leases”, approved August 9, 1955, to provide for Indian tribes to enter into certain leases without prior express approval from the Secretary of the Interior, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Helping Expedite and Advance Responsible Tribal Home Ownership Act of 2011” or the “HEARTH Act of 2011”.
+This Act may be cited as the “Helping Expedite and Advance Responsible Tribal Home Ownership Act of 2012” or the “HEARTH Act of 2012”.
 
 ## § 2. Approval of, and regulations related to, tribal leases
 
@@ -49,7 +49,7 @@ The first section of the Act titled “An Act to authorize the leasing of restri
   >           - **(aa)** the public is informed of, and has a reasonable opportunity to comment on, any significant environmental impacts of the proposed action identified by the Indian tribe; and
   >           - **(bb)** the Indian tribe provides responses to relevant and substantive public comments on any such impacts before the Indian tribe approves the lease.
   >     - **(C)** *Technical assistance* The Secretary may provide technical assistance, upon request of the Indian tribe, for development of a regulatory environmental review process under subparagraph (B)(ii).
-  >     - **(D)** *Indian self-determination act* The technical assistance to be provided by the Secretary pursuant to subparagraph (C) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act (25 U.S.C. 450 et seq).
+  >     - **(D)** *Indian self-determination act* The technical assistance to be provided by the Secretary pursuant to subparagraph (C) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act (25 U.S.C. 450 et seq.).
   >   - **(4)** *Review process*
   >     - **(A)** *In general* Not later than 120 days after the date on which the tribal regulations described in paragraph (1) are submitted to the Secretary, the Secretary shall review and approve or disapprove the regulations.
   >     - **(B)** *Written documentation* If the Secretary disapproves the tribal regulations described in paragraph (1), the Secretary shall include written documentation with the disapproval notification that describes the basis for the disapproval.
