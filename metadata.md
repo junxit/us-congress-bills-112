@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3874
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3874
@@ -20,6 +20,10 @@ Black Hills Cemetery Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2012-05-15 — [House 112-2-251](votes/house-112-2-0251.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (400–1)
+
 ## Actions
 
 - 2012-02-01 — Introduced in House
@@ -33,3 +37,12 @@ Black Hills Cemetery Act
 - 2012-05-10 — Placed on the Union Calendar, Calendar No. 333.
 - 2012-05-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-475.
 - 2012-05-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-475.
+- 2012-05-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-05-15 — Considered as unfinished business. (consideration: CR H2694-2695)
+- 2012-05-15 — Considered under suspension of the rules. (consideration: CR H2681-2682)
+- 2012-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3874.
+- 2012-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-15 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
+- 2012-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 1 (Roll no. 251). (text: CR H2681)
+- 2012-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 1 (Roll no. 251).(text: CR H2681)
+- 2012-05-15 — The title of the measure was amended. Agreed to without objection.

@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3874
 
-> To provide for the conveyance of eight cemeteries that are located on National Forest System land in Black Hills National Forest, South Dakota.
+> To provide for the conveyance of certain cemeteries that are located on National Forest System land in Black Hills National Forest, South Dakota.
 
 ## § 1. Short title
 
