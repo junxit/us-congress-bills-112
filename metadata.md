@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3534
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3534
@@ -39,3 +39,9 @@ Security in Bonding Act of 2012
 - 2012-04-27 — Placed on the Union Calendar, Calendar No. 322.
 - 2012-04-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-460.
 - 2012-04-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-460.
+- 2012-05-15 — Considered under suspension of the rules. (consideration: CR H2676-2678)
+- 2012-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3534.
+- 2012-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-15 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2012-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2676-2677)
+- 2012-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2676-2677)
