@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5652
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5652
@@ -45,3 +45,5 @@ Sequester Replacement Reconciliation Act of 2012
 - 2012-05-10 — Rule provides for consideration of H.R. 5652 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 112-21 shall be considered as adopted. All points of order against provisions in the bill, as amended, are waived.
 - 2012-05-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2632)
 - 2012-05-10 — The previous question was ordered pursuant to the rule. (consideration: CR H2630)
+- 2012-05-14 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-05-15 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 398.
