@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Mobile Workforce State Income Tax Simplification Act of 2011”.
+This Act may be cited as the “Mobile Workforce State Income Tax Simplification Act of 2012”.
 
 ## § 2. Limitations on state withholding and taxation of employee income
 
@@ -19,8 +19,8 @@ This Act may be cited as the “Mobile Workforce State Income Tax Simplification
   - **(1)** the State of the employee’s residence; and
   - **(2)** the State within which the employee is present and performing employment duties for more than 30 days during the calendar year in which the wages or other remuneration is earned.
 - **(b)** *Wages or other remuneration* Wages or other remuneration earned in any calendar year shall not be subject to State income tax withholding and reporting requirements unless the employee is subject to income tax in such State under subsection (a). Income tax withholding and reporting requirements under subsection (a)(2) shall apply to wages or other remuneration earned as of the commencement date of employment duties in the State during the calendar year.
-- **(c)** *Operating rules* For purposes of determining an employer’s State income tax withholding and reporting requirements—
-  - **(1)** an employer may rely on an employee’s determination of the time expected to be spent by such employee in the States in which the employee will perform duties absent—
+- **(c)** *Operating rules* For purposes of determining penalties related to an employer’s State income tax withholding and reporting requirements—
+  - **(1)** an employer may rely on an employee’s annual determination of the time expected to be spent by such employee in the States in which the employee will perform duties absent—
     - **(A)** the employer’s actual knowledge of fraud by the employee in making the determination; or
     - **(B)** collusion between the employer and the employee to evade tax;
   - **(2)** except as provided in paragraph (3), if records are maintained by an employer in the regular course of business that record the location of an employee, such records shall not preclude an employer’s ability to rely on an employee’s determination under paragraph (1); and
@@ -37,8 +37,8 @@ This Act may be cited as the “Mobile Workforce State Income Tax Simplification
   - **(6)** *Employer* The term “employer” has the meaning given such term in section 3401(d) of the Internal Revenue Code of 1986 (26 U.S.C. 3401(d)), unless such term is defined by the State in which the employee’s employment duties are performed, in which case the State’s definition shall prevail.
   - **(7)** *State* The term “State” means any of the several States.
   - **(8)** *Time and attendance system* The term “time and attendance system” means a system in which—
-    - **(A)** the employee is required on a contemporaneous basis to record his work location for every day worked outside of the State in which the employee’s employment duties are primarily preformed; and
-    - **(B)** the employer uses this data to allocate the employee’s wages for income tax purposes among all States in which the employee performs employment duties for such employer.
+    - **(A)** the employee is required on a contemporaneous basis to record his work location for every day worked outside of the State in which the employee’s employment duties are primarily performed; and
+    - **(B)** the system is designed to allow the employer to allocate the employee’s wages for income tax purposes among all States in which the employee performs employment duties for such employer.
   - **(9)** *Wages or other remuneration* The term “wages or other remuneration” may be limited by the State in which the employment duties are performed.
 
 ## § 3. Effective date; applicability

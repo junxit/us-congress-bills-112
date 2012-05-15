@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1864
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1864
@@ -49,3 +49,9 @@ Mobile Workforce State Income Tax Simplification Act of 2012
 - 2012-02-03 — Placed on the Union Calendar, Calendar No. 264.
 - 2012-02-03 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-386.
 - 2012-02-03 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-386.
+- 2012-05-15 — Considered under suspension of the rules. (consideration: CR H2667-2669)
+- 2012-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1864.
+- 2012-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-15 — Mr. Coble moved to suspend the rules and pass the bill, as amended.
+- 2012-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2667-2668)
+- 2012-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2667-2668)
