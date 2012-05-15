@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4970
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4970
@@ -16,7 +16,7 @@ Violence Against Women Reauthorization Act of 2012
 
 - Rep. Adams, Sandy [R-FL-24] (A000366)
 
-## Cosponsors (35)
+## Cosponsors (40)
 
 - Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
@@ -53,6 +53,11 @@ Violence Against Women Reauthorization Act of 2012
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 - Rep. Renacci, James B. [R-OH-16] (R000586)
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Tipton, Scott  R. [R-CO-3] (T000470)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Heck, Joseph J. [R-NV-3] (H001055)
+- Rep. Pence, Mike [R-IN-6] (P000587)
 
 ## Committees (4)
 
@@ -70,3 +75,15 @@ Violence Against Women Reauthorization Act of 2012
 - 2012-04-27 — Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, Education and the Workforce, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-04-27 — Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, Education and the Workforce, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-04-27 — Referred to the Subcommittee on Health.
+- 2012-05-08 — Committee Consideration and Mark-up Session Held.
+- 2012-05-08 — Ordered to be Reported (Amended) by the Yeas and Nays: 17 - 15.
+- 2012-05-15 — Committee on Education and the Workforce discharged.
+- 2012-05-15 — Committee on Education and the Workforce discharged.
+- 2012-05-15 — Committee on Energy and Commerce discharged.
+- 2012-05-15 — Committee on Energy and Commerce discharged.
+- 2012-05-15 — Committee on Financial Services discharged.
+- 2012-05-15 — Committee on Financial Services discharged.
+- 2012-05-15 — Placed on the Union Calendar, Calendar No. 336.
+- 2012-05-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-480, Part I.
+- 2012-05-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-480, Part I.
+- 2012-05-15 — Rules Committee Resolution H. Res. 656 Reported to House. Rule provides for consideration of H.R. 4970 and H.R. 4310. Resolution provides for 1 hour of general debate on H.R. 4970. The amendment in the nature of a substitute recommended by the Committee on the Judiciary, modified by the amendment printed in the report of the Committee on Rules, shall be considered as adopted. Previous question shall be considered as ordered on H.R. 4970, as amended, without intervening motions except one motion to recommit. Resolution provides for 1 hour of general debate on H.R. 4310. No further consideration of H.R. 4310 shall be in order except pursuant to a subsequent order of the House.

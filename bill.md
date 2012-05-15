@@ -30,7 +30,6 @@ The table of contents for this Act is as follows:
     >     - **(ii)** criminal justice investigations, prosecutions and post-trial matters (including sentencing, parole, and probation) that impact the victim's safety and privacy; and
     >   - **(B)** may include services and assistance to victims of domestic violence, dating violence, sexual assault, or stalking who are also victims of severe forms of trafficking in persons as defined by section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102);
 
-    - **(A)** in subparagraph (B), by striking the period after “privacy” and inserting a comma.
   - **(5)** by amending paragraph (18) to read as follows:
     > - **(18)** *Personally identifying information or personal information* The term personally identifying information or personal information means individually identifying information for or about an individual, including information likely to disclose the location of a victim of domestic violence, dating violence, sexual assault, or stalking, regardless of whether the information is encoded, encrypted, hashed, or otherwise protected, including—
     >   - **(A)** a first and last name;
@@ -53,7 +52,7 @@ The table of contents for this Act is as follows:
     > - **(23)** *Sexual assault* The term sexual assault means any nonconsensual sexual act proscribed by Federal, tribal, or State law, including when the victim lacks capacity to consent.
 
   - **(10)** by amending paragraph (33) to read as follows:
-    > - **(33)** *Underserved populations* The term underserved populations means populations who face barriers to accessing and using victim services, and includes populations underserved because of geographic location, underserved racial and ethnic populations, populations underserved because of special needs (such as language barriers, disabilities, alienage status, or age), and any other population determined to be underserved by the Attorney General or the Secretary of Health and Human Services, as appropriate.
+    > - **(33)** *Underserved populations* The term underserved populations means populations who face barriers to accessing and using victim services, and includes populations underserved because of geographic location or religion, underserved racial and ethnic populations, populations underserved because of special needs (such as language barriers, disabilities, alienage status, or age), and any other population determined to be underserved by the Attorney General or the Secretary of Health and Human Services, as appropriate.
 
   - **(11)** by amending paragraph (37) to read as follows:
     > - **(37)** *Youth* The term youth means a person who is 11 to 24 years of age.
@@ -61,7 +60,7 @@ The table of contents for this Act is as follows:
   - **(12)** by adding at the end the following new paragraphs:
     > - **(38)** *Alaska Native village* The term Alaska Native village has the same meaning given such term in the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
     > - **(39)** *Child* The term child means a person who is under 11 years of age.
-    > - **(40)** *Culturally specific* The term culturally specific (except when used as part of the term culturally specific services) means primarily composed of racial and ethnic minority groups (as defined in section 1707(g) of the Public Health Service Act (42 U.S.C. 300u–6(g)).
+    > - **(40)** *Culturally specific* The term culturally specific (except when used as part of the term culturally specific services) means primarily composed of racial and ethnic minority groups (as defined in section 1707(g) of the Public Health Service Act (42 U.S.C. 300u–6(g))).
     > - **(41)** *Culturally specific services* The term culturally specific services means community-based services and resources that are culturally relevant and linguistically specific to culturally specific communities.
     > - **(42)** *Homeless, homeless individual, homeless person* The terms homeless, homeless individual, and homeless person—
     >   - **(A)** mean an individual who lacks a fixed, regular, and adequate nighttime residence; and
@@ -99,7 +98,7 @@ The table of contents for this Act is as follows:
     >   - **(A)** assists domestic violence, dating violence, sexual assault, or stalking victims, including domestic violence shelters, faith-based organizations, and other organizations; and
     >   - **(B)** has a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
 
-  - **(13)** by striking paragraphs (17) and (36), and then reordering the remaining paragraphs of such subsection (including the paragraphs added by paragraph (12) of this subsection) in alphabetical order based on the headings of such paragraphs, and renumbering such paragraphs as so reordered.
+  - **(13)** by striking paragraphs (17), (29), and (36), and then reordering the remaining paragraphs of such subsection (including the paragraphs added by paragraph (12) of this subsection) in alphabetical order based on the headings of such paragraphs, and renumbering such paragraphs as so reordered.
 - **(b)** *Grants conditions* Subsection (b) of section 40002 of the Violence Against Women Act of 1994 (42 U.S.C. 13925(b)) is amended—
   - **(1)** in paragraph (2)—
     - **(A)** in subparagraph (B), by amending clauses (i) and (ii) to read as follows:
@@ -138,7 +137,7 @@ The table of contents for this Act is as follows:
     >   - **(D)** *Rule of construction* Nothing in this paragraph shall be construed, interpreted, or applied to supplant, displace, preempt, or otherwise diminish the responsibilities and liabilities of grantees under other Federal or State civil rights law, whether statutory or common.
 
 - **(c)** *Conforming amendment* Section 41403(6) of the Violence Against Women Act of 1994 (14043e–2(6)) is amended to read as follows:
-  > - **(6)** the terms homeless, homeless individual, and homeless personhave the meanings given such terms in section 40002(a);
+  > - **(6)** the terms homeless, homeless individual, and homeless person have the meanings given such terms in section 40002(a);
 
 ## § 4. Accountability provisions
 
