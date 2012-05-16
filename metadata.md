@@ -1,7 +1,7 @@
 ---
 measure: H.R. 205
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 205
@@ -39,9 +39,10 @@ Helping Expedite and Advance Responsible Tribal Home Ownership Act of 2012
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 - Rep. Baldwin, Tammy [D-WI-2] (B001230)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Recorded votes (1)
 
@@ -69,3 +70,4 @@ Helping Expedite and Advance Responsible Tribal Home Ownership Act of 2012
 - 2012-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 252). (text: CR H2682-2683)
 - 2012-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 252).(text: CR H2682-2683)
 - 2012-05-15 — The title of the measure was amended. Agreed to without objection.
+- 2012-05-16 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
