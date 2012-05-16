@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3534
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3534
@@ -22,9 +22,10 @@ Security in Bonding Act of 2012
 - Rep. Gowdy, Trey [R-SC-4] (G000566)
 - Rep. Polis, Jared [D-CO-2] (P000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Security in Bonding Act of 2012
 - 2012-05-15 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2012-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2676-2677)
 - 2012-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2676-2677)
+- 2012-05-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
