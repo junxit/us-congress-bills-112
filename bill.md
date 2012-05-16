@@ -1,0 +1,39 @@
+---
+legis-num: S. 3193
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3193
+
+> To make technical corrections to the legal description of certain land to be held in trust for the Barona Band of Mission Indians, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Barona Band of Mission Indians Land Transfer Clarification Act of 2012”.
+
+## § 2. Findings; purposes
+
+- **(a)** *Findings* Congress finds that—
+  - **(1)** the legal description of land previously taken into trust by the United States for the benefit of the Barona Band of Mission Indians may be interpreted to refer to private, nontribal land;
+  - **(2)** there is a continued, unresolved disagreement between the Barona Band of Mission Indians and certain off-reservation property owners relating to the causes of diminishing native groundwater;
+  - **(3)** Congress expresses no opinion, nor should an opinion of Congress be inferred, relating to the disagreement described in paragraph (2); and
+  - **(4)** it is the intent of Congress that, if the land described in section 121(b) of the Native American Technical Corrections Act of 2004 (118 Stat. 544) (as amended by section 3) is used to bring water to the Barona Indian Reservation, the effort is authorized only if the effort also addresses water availability for neighboring off-reservation land located along Old Barona Road that is occupied as of the date of enactment of this Act by providing guaranteed access to that water supply at a mutually agreeable site on the southwest boundary of the Barona Indian Reservation.
+- **(b)** *Purposes* The purposes of this Act are—
+  - **(1)** to clarify the legal description of the land placed into trust for the Barona Band of Mission Indians in 2004; and
+  - **(2)** to remove all doubt relating to the specific parcels of land that Congress has placed into trust for the Barona Band of Mission Indians.
+
+## § 3. Land transfer
+
+Section 121 of the Native American Technical Corrections Act of 2004 (Public Law 108–204; 118 Stat. 544) is amended—
+
+- **(1)** by striking subsection (b) and inserting the following:
+  > - **(b)** *Description of land* The land referred to in subsection (a) is land comprising approximately 86.87 acres in San Diego County, California, and described more particularly as follows: T. 14 S., R. 1 E. San Bernardino Meridian; Section 21, SW¼ SW¼, excepting the north 475 ft.; W½ SE¼ SW¼, excepting the north 475 ft.; E½ SE¼ SW¼, excepting the north 350 ft.; Together with that portion W½ SE¼, lying southwesterly of the following line: Beginning at the intersection of the southerly line of said SE¼ Section 21 with the westerly boundary of Rancho Canada De San Vicente Y Mesa Del Padre Barona as shown on United States Government Resurvey approved January 21, 1939; thence northwesterly along said boundary to an intersection with the westerly line of said SE¼; containing 68.75 acres more or less; Section 28, NW¼ NW¼, excepting the east 750 ft.; containing 17.02 acres more or less.
+
+- **(2)** by adding at the end the following:
+  > - **(d)** *Clarifications*
+  >   - **(1)** *Effect on section* The provisions of subsection (c) shall apply to the land described in subsection (b), as in effect on the day after the date of enactment of the Barona Band of Mission Indians Land Transfer Clarification Act of 2012.
+  >   - **(2)** *Effect on private land* The parcel of private, non-Indian land referenced in subsection (a) and described in subsection (b), as in effect on the day before the date of enactment of the Barona Band of Mission Indians Land Transfer Clarification Act of 2012, but excluded from the revised description of the land in subsection (b) was not intended to be—
+  >     - **(A)** held in trust by the United States for the benefit of the Band; or
+  >     - **(B)** considered to be a part of the reservation of the Band.
