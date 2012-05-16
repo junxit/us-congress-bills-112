@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4045
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4045
@@ -82,3 +82,12 @@ To modify the Department of Defense Program Guidance relating to the award of Po
 - 2012-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2695-2696)
 - 2012-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2695-2696)
 - 2012-05-16 — Received in the Senate, read twice.
+- 2012-05-17 — Message on Senate action sent to the House.
+- 2012-05-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3292)
+- 2012-05-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3292)
+- 2012-05-18 — Presented to President.
+- 2012-05-18 — Presented to President.
+- 2012-05-25 — Became Public Law No: 112-120.
+- 2012-05-25 — Became Public Law No: 112-120.
+- 2012-05-25 — Signed by President.
+- 2012-05-25 — Signed by President.
