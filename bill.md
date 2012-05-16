@@ -37,8 +37,7 @@ Section 2516(1)(c) of title 18, United States Code, is amended by inserting “,
 
 ## § 5. Forfeiture
 
-- **(a)** *Criminal forfeiture* Section 982(a)(2)(B) of title 18, United States Code, is amended by inserting “555,” after “545,”.
-- **(b)** *Civil asset forfeiture* Any merchandise introduced into the United States through a tunnel or passage described in section 555(a) of title 18, United States Code, shall be subject to seizure and forfeiture in accordance with section 596(c) of the Tariff Act of 1930 (19 U.S.C. 1595a(c)).
+Section 982(a)(2)(B) of title 18, United States Code, is amended by inserting “555,” after “545,”.
 
 ## § 6. Money laundering designation
 

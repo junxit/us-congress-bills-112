@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4119
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4119
@@ -28,6 +28,10 @@ Border Tunnel Prevention Act of 2012
 - House — Ways and Means Committee
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2012-05-16 — [House 112-2-256](votes/house-112-2-0256.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (416–4)
+
 ## Actions
 
 - 2012-03-01 — Introduced in House
@@ -46,3 +50,11 @@ Border Tunnel Prevention Act of 2012
 - 2012-03-21 — Placed on the Union Calendar, Calendar No. 288.
 - 2012-03-21 — Reported by the Committee on Judiciary. H. Rept. 112-418, Part I.
 - 2012-03-21 — Reported by the Committee on Judiciary. H. Rept. 112-418, Part I.
+- 2012-05-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-05-15 — Considered under suspension of the rules. (consideration: CR H2669-2673)
+- 2012-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4119.
+- 2012-05-15 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2012-05-16 — Considered as unfinished business. (consideration: CR H2744-2745)
+- 2012-05-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 256). (text: CR 5/15/2012 H2669-2670)
+- 2012-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 256).(text: CR 5/15/2012 H2669-2670)
