@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2415
 congress: 112
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2415
@@ -63,3 +63,12 @@ To designate the facility of the United States Postal Service located at 11 Dock
 - 2012-05-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2012-05-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2012-05-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 401.
+- 2012-05-17 — Message on Senate action sent to the House.
+- 2012-05-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3291-3292)
+- 2012-05-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3291-3292)
+- 2012-05-29 — Presented to President.
+- 2012-05-29 — Presented to President.
+- 2012-06-05 — Became Public Law No: 112-124.
+- 2012-06-05 — Became Public Law No: 112-124.
+- 2012-06-05 — Signed by President.
+- 2012-06-05 — Signed by President.
