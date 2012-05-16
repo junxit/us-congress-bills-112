@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2947
 congress: 112
-version: Referred in Senate
+version: Reference Change Senate
 ---
 
 # H.R. 2947
@@ -16,10 +16,11 @@ To provide for the release of the reversionary interest held by the United State
 
 - Rep. Cravaack, Chip [R-MN-8] (C001086)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - Senate — Energy and Natural Resources Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -41,3 +42,6 @@ To provide for the release of the reversionary interest held by the United State
 - 2012-04-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2048)
 - 2012-04-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2048)
 - 2012-04-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2012-05-16 — Referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2012-05-16 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2012-05-16 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
