@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4045
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4045
@@ -81,3 +81,4 @@ To modify the Department of Defense Program Guidance relating to the award of Po
 - 2012-05-15 — Mr. Kline moved to suspend the rules and pass the bill, as amended.
 - 2012-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2695-2696)
 - 2012-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2695-2696)
+- 2012-05-16 — Received in the Senate, read twice.
