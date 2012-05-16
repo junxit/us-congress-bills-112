@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4970
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4970
@@ -66,6 +66,11 @@ Violence Against Women Reauthorization Act of 2012
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
 
+## Recorded votes (2)
+
+- 2012-05-16 — [House 112-2-257](votes/house-112-2-0257.md) — On Motion to Recommit with Instructions — **Failed** (187–236)
+- 2012-05-16 — [House 112-2-258](votes/house-112-2-0258.md) — On Passage — **Passed** (222–205)
+
 ## Actions
 
 - 2012-04-27 — Introduced in House
@@ -87,3 +92,15 @@ Violence Against Women Reauthorization Act of 2012
 - 2012-05-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-480, Part I.
 - 2012-05-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-480, Part I.
 - 2012-05-15 — Rules Committee Resolution H. Res. 656 Reported to House. Rule provides for consideration of H.R. 4970 and H.R. 4310. Resolution provides for 1 hour of general debate on H.R. 4970. The amendment in the nature of a substitute recommended by the Committee on the Judiciary, modified by the amendment printed in the report of the Committee on Rules, shall be considered as adopted. Previous question shall be considered as ordered on H.R. 4970, as amended, without intervening motions except one motion to recommit. Resolution provides for 1 hour of general debate on H.R. 4310. No further consideration of H.R. 4310 shall be in order except pursuant to a subsequent order of the House.
+- 2012-05-16 — Considered under the provisions of rule H. Res. 656. (consideration: CR H2745-2781)
+- 2012-05-16 — DEBATE - The House proceeded with 10 minutes of debate on the Moore motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to ensure that nothing in the underlying bill will eliminate, reduce, or limit any protection currently available that provides confidentiality to victims of domestic violence. This protection includes the prevention of notifying a suspected batterer of a victim's efforts to seek assistance from law enforcement.
+- 2012-05-16 — DEBATE - The House proceeded with one hour of debate on H.R. 4970.
+- 2012-05-16 — House amendment offered
+- 2012-05-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-16 — Ms. Moore moved to recommit with instructions to Judiciary. (consideration: CR H2779; text: CR H2779)
+- 2012-05-16 — On motion to recommit with instructions Failed by the Yeas and Nays: 187 - 236 (Roll no. 257). (consideration: CR H2781)
+- 2012-05-16 — On passage Passed by recorded vote: 222 - 205 (Roll no. 258). (text: CR H2745-2763)
+- 2012-05-16 — Passed/agreed to in House: On passage Passed by recorded vote: 222 - 205 (Roll no. 258).(text: CR H2745-2763)
+- 2012-05-16 — Rule provides for consideration of H.R. 4970 and H.R. 4310. Resolution provides for 1 hour of general debate on H.R. 4970. The amendment in the nature of a substitute recommended by the Committee on the Judiciary, modified by the amendment printed in the report of the Committee on Rules, shall be considered as adopted. Previous question shall be considered as ordered on H.R. 4970, as amended, without intervening motions except one motion to recommit. Resolution provides for 1 hour of general debate on H.R. 4310. No further consideration of H.R. 4310 shall be in order except pursuant to a subsequent order of the House.
+- 2012-05-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2780)
+- 2012-05-16 — The previous question was ordered pursuant to the rule. (consideration: CR H2779)

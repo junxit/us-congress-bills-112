@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4970
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-308 amendatory instructions. 0 executed, 308 stated and not applied.
+306 amendatory instructions. 0 executed, 306 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -59,6 +59,8 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraph (3) as paragraph (4); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2), the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 40002 of the Violence Against Women Act of 1994 (42 U.S.C. 13925) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in the heading, by striking “and grant provisions” and inserting “, grant provisions, and training and resources for VAWA grantees”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | by striking “equipment” and inserting “resources”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “for the protection and safety of victims,” before “and specifically,”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “sexual assault” and all that follows through “dating violence” and inserting “domestic violence, dating violence, sexual assault, and stalking”; | the bill names no machine-readable US Code section |
@@ -86,17 +88,15 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (a), by striking “nonprofit nongovernmental victim services programs” and inserting “victim service providers”; | the bill names no machine-readable US Code section |
 | — | strike | in subsection (b)(6), by striking “(not including populations of Indian tribes)”; | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraph (4); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (3) as paragraph (4); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A), by striking “and not less than 25 percent shall be allocated for prosecutors”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (D) and (E); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (A), the following: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (D), as so redesignated by subclause (II), by striking “culturally specific community-based ” and inserting “population specific”; and | the bill names no machine-readable US Code section |
 | — | redesignate | in subparagraph (E), as so redesignated by subclause (II), by striking “; and” and inserting a period; | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (d) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “domestic violence and sexual assault” and inserting “domestic violence, dating violence, sexual assault, and stalking”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (D), by striking “linguistically and culturally” and inserting “population”; and | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (D), by striking “linguistically and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (f), by striking the period at the end and inserting “, except that, for purposes of this subsection, the costs of the projects for victim services or tribes for which there is an exemption under section 40002(b)(1) of the … | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -122,13 +122,13 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and adjusting the margin accordingly; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2), by inserting “except for a court,” before “demonstrate”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “modification, enforcement, dismissal,” after “registration,” each place it appears; | the bill names no machine-readable US Code section |
-| — | insert | by inserting “dating violence,” after the second occurrence of “domestic violence,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “dating violence,” after “domestic violence,”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | strike | in the matter preceding subparagraph (A), by striking “, not later than 3 years after the date of enactment of this section,”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and adjusting the margin accordingly; | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii), as redesignated by subclause (II) of this clause, by striking “subparagraph (A)” and inserting “clause (i)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting “; and”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (1) through (5), as amended by this subparagraph, as subparagraphs (A) through (E), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1) through (5), as amended by this subparagraph, as subparagraphs (A) through (E), respectively, and adjusting the margin accordingly; | the bill names no machine-readable US Code section |
 | — | strike | by striking the second comma; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “grantees are States” and inserting the following: “grantees are— | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -146,7 +146,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “and grant conditions” after “definitions”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “victim services organizations” and inserting “victim service providers”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “subsection (c) has completed” and all that follows and inserting the following: “this section—” | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “subsection (c) has completed” and all that follows and inserting the following: “this section— | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “stalking organization” and inserting “stalking victim service provider”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “this section” and all that follows through the period at the end and inserting “this section $57,000,000 for each of fiscal years 2013 through 2017.”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | in paragraph (2), by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
@@ -204,7 +204,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “entities carrying out” and all that follows through “stalking victim services programs” and inserting “victim service providers”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, regardless of whether the services provided by such program are provided by the institution or in coordination with community victim service providers” before the period at the end; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “any non-profit” and all that follows through “victim services programs” and inserting “victim service providers”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “any non-profit” and all that follows through the first occurrence of “victim services programs” and inserting “victim service providers”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (D) through (F) as subparagraphs (E) through (G), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (C), the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “2007 through 2011” and inserting “2013 through 2017”; | the bill names no machine-readable US Code section |
@@ -251,7 +251,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 240A(b)(2) of the Immigration and Nationality Act (8 U.S.C. 1229b) is amended by striking subparagraph (D) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A)(iii), by inserting after subclause (II) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subparagraph (A)(iv), by adding at the end the following: “The petition shall be adjudicated according to the procedures that apply to self-petitioners under clause (iii).”; | the bill names no machine-readable US Code section |
-| — | add-at-end | in subparagraph (A)(vii), by adding at the end the following: “The petition shall be adjudicated according to the procedures that apply to self-petitioners under clause (iii).”; | the bill names no machine-readable US Code section |
+| — | add-at-end | in subparagraph (A)(vii), by adding at the end the following continuation text: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (B)(ii), by inserting after subclause (II) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subparagraph (B)(iii), by adding at the end the following: “The petition shall be adjudicated according to the procedures that apply to self-petitioners under clause (ii).”. | the bill names no machine-readable US Code section |
 | — | replace | By striking “The petition” and inserting the following: | the bill names no machine-readable US Code section |
@@ -263,9 +263,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 833 of the International Marriage Broker Regulation Act of 2005 (8 U.S.C. 1375a) is amended in subsection (b)(1)(A), by striking “or” after “orders” and inserting “and”. | the bill names no machine-readable US Code section |
 | — | amend | By amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | In paragraph (2)(B)(ii), by striking “or stalking.” and inserting “stalking, or an attempt to commit any such crime.”. | the bill names no machine-readable US Code section |
-| — | strike | Section 245 of the Immigration and Nationality Act (8 U.S.C. 1255) is amended by striking subsection (m). | the bill names no machine-readable US Code section |
-| — | strike | Section 214(p)(6) of such Act (8 U.S.C. 1184(p)(6)) is amended by striking “Such alien's nonimmigrant status shall be extended beyond the 4-year period authorized under this section if the alien is eligible for relief under section 245(m… | the bill names no machine-readable US Code section |
-| — | replace | Section 204(l)(2)(E) of such Act (8 U.S.C. 1154(l)(2)(E)) is amended by striking “or in U nonimmigrant status as described in section 101(a)(15)(U)(ii);” and inserting a semicolon. | the bill names no machine-readable US Code section |
+| — | replace | Section 245(m) of the Immigration and Nationality Act (8 U.S.C. 1255(m)) is amended by striking “the alien is not described” and inserting “the individual who was convicted of the criminal activity referred to in section 101(a)(15)(U)(i)… | the bill names no machine-readable US Code section |
+| — | strike | Section 214(p)(6) of such Act (8 U.S.C. 1184(p)(6)) is amended by striking “if the alien is eligible for relief under section 245(m) and is unable to obtain such relief because regulations have not been issued to implement such section a… | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (E), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (F) as subparagraph (G); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (E) the following: | the bill names no machine-readable US Code section |
@@ -275,11 +274,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (B), by striking “(1), or” and inserting “(1); or”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking the period at the end and inserting a semicolon and “or”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (C) the following: | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding subparagraph (A), by striking “The Attorney General, in the Attorney General's” and inserting “The Secretary of Homeland Security, in the Secretary's”; and | the bill names no machine-readable US Code section |
-| — | replace | in the first sentence, by striking “Attorney General” and inserting “Secretary of Homeland Security”; | the bill names no machine-readable US Code section |
-| — | replace | in the second sentence, by striking “Attorney General” and inserting “Secretary”; | the bill names no machine-readable US Code section |
-| — | replace | in the third sentence, by striking “Attorney General.” and inserting “Secretary.”; and | the bill names no machine-readable US Code section |
-| — | replace | in the fourth sentence, by striking “Attorney General” and inserting “Secretary”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting “Secretary of Homeland Security or the” before “Attorney General may”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “Secretary’s or the” before “Attorney General’s discretion”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “Secretary of Homeland Security or the” before “Attorney General may”; | the bill names no machine-readable US Code section |
@@ -339,3 +333,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1153(a) of title 18, United States Code, is amended by striking “assault with intent to commit murder, assault with a dangerous weapon, assault resulting in serious bodily injury (as defined in section 1365 of this title)” and in… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), in the undesignated matter following paragraph (2), by striking “any term of years or life” and inserting “not less than 10 years or imprisoned for life”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), in the undesignated matter following paragraph (2), by striking “any term of years or life” and inserting “not less than 5 years or imprisoned for life”. | the bill names no machine-readable US Code section |
+| — | insert | Chapter 110A of title 18, United States Code, is amended by inserting after section 2262 the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 2262(b) of title 18, United States Code, is amended in the matter preceding paragraph (1), by striking “this section” and inserting “this section or a protection order issued under section 2262A”. | the bill names no machine-readable US Code section |
+| — | insert | Section 2266 of title 18, United States Code, is amended by inserting after paragraph (10) the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for chapter 110A of title 18, United States Code, is amended by inserting after the item relating to section 2262 the following: | the bill names no machine-readable US Code section |
