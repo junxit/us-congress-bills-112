@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2621
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2621
@@ -40,3 +40,11 @@ Chimney Rock National Monument Establishment Act
 - 2012-05-10 — Placed on the Union Calendar, Calendar No. 331.
 - 2012-05-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-473.
 - 2012-05-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-473.
+- 2012-05-15 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Heinrich objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2012-05-15 — Considered under suspension of the rules. (consideration: CR H2678-2680)
+- 2012-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2621.
+- 2012-05-15 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
+- 2012-05-16 — Considered as unfinished business. (consideration: CR H2781-2782)
+- 2012-05-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 5/15/2012 H2679)
+- 2012-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 5/15/2012 H2679)
