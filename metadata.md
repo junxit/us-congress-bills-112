@@ -1,7 +1,7 @@
 ---
 measure: H.R. 365
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 365
@@ -105,3 +105,4 @@ National Blue Alert Act of 2012
 - 2012-05-15 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2012-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 250). (text: CR H2673-2674)
 - 2012-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 250).(text: CR H2673-2674)
+- 2012-05-16 — Received in the Senate.
