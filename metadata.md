@@ -1,7 +1,7 @@
 ---
 measure: H.R. 205
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 205
@@ -71,3 +71,14 @@ Helping Expedite and Advance Responsible Tribal Home Ownership Act of 2012
 - 2012-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 252).(text: CR H2682-2683)
 - 2012-05-15 — The title of the measure was amended. Agreed to without objection.
 - 2012-05-16 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2012-07-17 — Message on Senate action sent to the House.
+- 2012-07-17 — Passed Senate without amendment by Unanimous Consent.
+- 2012-07-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-07-17 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S5057)
+- 2012-07-17 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S5057)
+- 2012-07-19 — Presented to President.
+- 2012-07-19 — Presented to President.
+- 2012-07-30 — Became Public Law No: 112-151.
+- 2012-07-30 — Became Public Law No: 112-151.
+- 2012-07-30 — Signed by President.
+- 2012-07-30 — Signed by President.
