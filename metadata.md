@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2947
 congress: 112
-version: Reference Change Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2947
@@ -45,3 +45,14 @@ To provide for the release of the reversionary interest held by the United State
 - 2012-05-16 — Referred to the Committee on Agriculture, Nutrition, and Forestry.
 - 2012-05-16 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
 - 2012-05-16 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2012-05-24 — Passed Senate without amendment by Unanimous Consent.
+- 2012-05-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-05-24 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S3658)
+- 2012-05-24 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S3658)
+- 2012-05-25 — Message on Senate action sent to the House.
+- 2012-05-31 — Presented to President.
+- 2012-05-31 — Presented to President.
+- 2012-06-08 — Became Public Law No: 112-129.
+- 2012-06-08 — Became Public Law No: 112-129.
+- 2012-06-08 — Signed by President.
+- 2012-06-08 — Signed by President.
