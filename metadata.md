@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1864
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1864
@@ -32,9 +32,10 @@ Mobile Workforce State Income Tax Simplification Act of 2012
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Mobile Workforce State Income Tax Simplification Act of 2012
 - 2012-05-15 — Mr. Coble moved to suspend the rules and pass the bill, as amended.
 - 2012-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2667-2668)
 - 2012-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2667-2668)
+- 2012-05-16 — Received in the Senate and Read twice and referred to the Committee on Finance.
