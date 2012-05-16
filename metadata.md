@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4240
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4240
@@ -47,9 +47,10 @@ Ambassador James R. Lilley and Congressman Stephen J. Solarz North Korea Human R
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
 - Rep. Israel, Steve [D-NY-2] (I000057)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Ambassador James R. Lilley and Congressman Stephen J. Solarz North Korea Human R
 - 2012-05-15 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
 - 2012-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2685-2686)
 - 2012-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2685-2686)
+- 2012-05-16 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
