@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2621
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2621
@@ -23,9 +23,10 @@ Chimney Rock National Monument Establishment Act
 - Rep. Lamborn, Doug [R-CO-5] (L000564)
 - Rep. Heinrich, Martin [D-NM-1] (H001046)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Chimney Rock National Monument Establishment Act
 - 2012-05-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 5/15/2012 H2679)
 - 2012-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 5/15/2012 H2679)
+- 2012-05-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
