@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4849
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4849
@@ -58,3 +58,13 @@ Sequoia and King Canyon National Parks Backcountry Access Act
 - 2012-05-17 — Senate amendment agreed to: Amendment SA 2112 agreed to in Senate by Unanimous Consent.
 - 2012-05-17 — Senate amendment proposed (on the floor): Amendment SA 2112 proposed by Senator Reid for Senator Boxer.(consideration: CR S3292; text CR S3292)
 - 2012-05-17 — Senate amendment submitted
+- 2012-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-18 — Mr. Bishop (UT) asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H3147-3148)
+- 2012-05-18 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H3147-3148)
+- 2012-05-18 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H3147-3148)
+- 2012-05-29 — Presented to President.
+- 2012-05-29 — Presented to President.
+- 2012-06-05 — Became Public Law No: 112-128.
+- 2012-06-05 — Became Public Law No: 112-128.
+- 2012-06-05 — Signed by President.
+- 2012-06-05 — Signed by President.
