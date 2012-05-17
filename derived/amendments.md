@@ -1,7 +1,7 @@
 ---
 measure: S. 2554
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,11 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | Section 1001(a)(23) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3793(a)(23)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1001(a)(23) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3793(a)(23)) is amended by striking “part Y,” and all that follows and inserting the following: “part Y— | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2501 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796ll) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (3) as paragraph (4); and | the bill names no machine-readable US Code section |
+| — | amend | Section 521 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3766a) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “; or” and inserting “; and”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (4) as paragraph (5); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
