@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4119
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 555 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 2516(1)(c) of title 18, United States Code, is amended by inserting “, section 555 (relating to construction or use of international border tunnels)” before the semicolon at the end. | the bill names no machine-readable US Code section |
-| — | insert | Section 982(a)(2)(B) of title 18, United States Code, is amended by inserting “555,” after “545,”. | the bill names no machine-readable US Code section |
-| — | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “section 555 (relating to border tunnels),” after “section 554 (relating to smuggling goods from the United States),”. | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 555` | add-at-end | Section 555 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2516` | insert | Section 2516(1)(c) of title 18, United States Code, is amended by inserting “, section 555 (relating to construction or use of international border tunnels)” before the semicolon at the end. | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 982` | insert | Section 982(a)(2)(B) of title 18, United States Code, is amended by inserting “555,” after “545,”. | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 1956` | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “section 555 (relating to border tunnels),” after “section 554 (relating to smuggling goods from the United States),”. | the bill quotes the text inserted but describes where it goes |

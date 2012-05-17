@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4119
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4119
@@ -58,3 +58,6 @@ Border Tunnel Prevention Act of 2012
 - 2012-05-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-05-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 256). (text: CR 5/15/2012 H2669-2670)
 - 2012-05-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 4 (Roll no. 256).(text: CR 5/15/2012 H2669-2670)
+- 2012-05-17 — Message on Senate action sent to the House.
+- 2012-05-17 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S3292)
+- 2012-05-17 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S3292)
