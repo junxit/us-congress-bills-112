@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4119
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4119
@@ -61,3 +61,9 @@ Border Tunnel Prevention Act of 2012
 - 2012-05-17 — Message on Senate action sent to the House.
 - 2012-05-17 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S3292)
 - 2012-05-17 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S3292)
+- 2012-05-29 — Presented to President.
+- 2012-05-29 — Presented to President.
+- 2012-06-05 — Became Public Law No: 112-127.
+- 2012-06-05 — Became Public Law No: 112-127.
+- 2012-06-05 — Signed by President.
+- 2012-06-05 — Signed by President.
