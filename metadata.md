@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4849
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4849
@@ -16,11 +16,12 @@ Sequoia and King Canyon National Parks Backcountry Access Act
 
 - Rep. Nunes, Devin [R-CA-21] (N000181)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. McCarthy, Kevin [R-CA-22] (M001165)
 - Rep. Denham, Jeff [R-CA-19] (D000612)
 - Rep. McClintock, Tom [R-CA-4] (M001177)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
 
 ## Committees (1)
 
@@ -48,3 +49,12 @@ Sequoia and King Canyon National Parks Backcountry Access Act
 - 2012-04-27 — RESERVATION OF OBJECTION - Mr. George Miller (CA) reserved the right to object and was recognized to proceed under his reservation. Subsequently the reservation was withdrawn.
 - 2012-05-07 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2012-05-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 394.
+- 2012-05-17 — Amendment SA 2112 agreed to in Senate by Unanimous Consent.
+- 2012-05-17 — Amendment SA 2112 proposed by Senator Reid for Senator Boxer. (consideration: CR S3292; text CR S3292) In the nature of a substitute.
+- 2012-05-17 — Measure laid before Senate by unanimous consent. (consideration: CR S3292)
+- 2012-05-17 — Message on Senate action sent to the House.
+- 2012-05-17 — Passed Senate with an amendment by Unanimous Consent.
+- 2012-05-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2012-05-17 — Senate amendment agreed to: Amendment SA 2112 agreed to in Senate by Unanimous Consent.
+- 2012-05-17 — Senate amendment proposed (on the floor): Amendment SA 2112 proposed by Senator Reid for Senator Boxer.(consideration: CR S3292; text CR S3292)
+- 2012-05-17 — Senate amendment submitted

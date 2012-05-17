@@ -2,24 +2,23 @@
 legis-num: H.R. 4849
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 4849
 
-> To direct the Secretary of the Interior to issue commercial use authorizations to commercial stock operators for operations in designated wilderness within the Sequoia and Kings Canyon National Parks, and for other purposes.
+That the bill from the House of Representatives (H.R. 4849) entitled “An Act to direct the Secretary of the Interior to issue commercial use authorizations to commercial stock operators for operations in designated wilderness within the Sequoia and Kings Canyon National Parks, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Sequoia and Kings Canyon National Parks Backcountry Access Act”.
+This Act may be cited as the “Sequoia and King Canyon National Parks Backcountry Access Act”.
 
-## § 2. Commercial use authorizations in designated wilderness within the Sequoia and Kings Canyon National Parks
+## § 2. Commercial services authorizations in wilderness within the sequoia and kings canyon national parks
 
-- **(a)** *Issuance of commercial use authorizations* Notwithstanding the decision, for the 2012 and 2013 seasons, the Secretary shall issue packer permits at no more than the levels of commercial services authorized by the Secretary in 2011 until the Secretary—
-  - **(1)** makes an extent necessary determination that addresses the violations of the Wilderness Act found in the decision; and
-  - **(2)** begins to issue packer permits for operations in designated wilderness within the Sequoia and Kings Canyon National Parks in accordance with that extent necessary determination reflected in a Record of Decision for the Wilderness Stewardship Plan.
-- **(b)** *Definitions* For the purposes of this Act, the following definitions apply:
-  - **(1)** *Decision* The term decision means the January 24, 2012, ruling by the United States District Court for the Northern District of California in High Sierra Hikers Association v. United States Department of the Interior, et al., Case No. C 09–4621 RS.
-  - **(2)** *Extent necessary determination* The term extent necessary determination means a determination on the need for commercial services within Sequoia and Kings Canyon National Park wilderness under section 4(d)(5) of the Wilderness Act (16 U.S.C. 1133(d)(5)).
-  - **(3)** *Packer permit* The term packer permit means a commercial use authorization granted to a commercial stock operator.
-  - **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(a)** *Continuation of authority* Until the date on which the Secretary of the Interior (referred to in this Act as the “Secretary”) completes any analysis and determination required under the Wilderness Act (16 U.S.C. 1131 et seq.), the Secretary shall continue to issue authorizations to provide commercial services for commercial stock operations (including commercial use authorizations and concession contracts) within any area designated as wilderness in the Sequoia and Kings Canyon National Parks (referred to in this section as the “Parks)” at use levels determined by the Secretary to be appropriate and subject to any terms and conditions that the Secretary determines to be appropriate.
+- **(b)** *Wilderness Stewardship Plan* Not later than 3 years after the date of enactment of this Act, the Secretary shall complete a wilderness stewardship plan with respect to the Parks.
+- **(c)** *Termination of authority* The authority of the Secretary to issue authorizations under subsection (a) shall terminate on the earlier of—
+  - **(1)** the date on which the Secretary begins to issue authorizations to provide commercial services for commercial stock operations within any areas designated as wilderness in the Parks, as provided in a record of decision issued in accordance with a wilderness stewardship plan completed under subsection (b); or
+  - **(2)** the date that is 4 years after the date of enactment of this Act.
