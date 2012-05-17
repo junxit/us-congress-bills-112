@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5740
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5740
@@ -16,12 +16,28 @@ National Flood Insurance Program Extension Act
 
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 
+## Cosponsors (1)
+
+- Rep. Waters, Maxine [D-CA-35] (W000187)
+
 ## Committees (1)
 
 - House — Financial Services Committee
+
+## Recorded votes (1)
+
+- 2012-05-17 — [House 112-2-262](votes/house-112-2-0262.md) — On Motion to Suspend the Rules and Pass — **Passed** (402–18)
 
 ## Actions
 
 - 2012-05-15 — Introduced in House
 - 2012-05-15 — Introduced in House
 - 2012-05-15 — Referred to the House Committee on Financial Services.
+- 2012-05-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-05-16 — Considered under suspension of the rules. (consideration: CR H2782-2787)
+- 2012-05-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5740.
+- 2012-05-16 — Mrs. Biggert moved to suspend the rules and pass the bill.
+- 2012-05-17 — Considered as unfinished business. (consideration: CR H2846-2847)
+- 2012-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 18 (Roll no. 262). (text: CR 5/16/2012 H2782-2783)
+- 2012-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 18 (Roll no. 262).(text: CR 5/16/2012 H2782-2783)

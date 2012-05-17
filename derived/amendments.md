@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5740
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,14 +35,14 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1309(a) of the National Flood Insurance Act of 1968 (42 U.S.C. 4016(a)) is amended by striking “the earlier of the date of the enactment into law of an Act that specifically amends the date specified in this section or May 31, 20… | the bill names no machine-readable US Code section |
 | — | replace | by striking “lending institutions not to make” and inserting | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), as designated by subparagraph (A) of this paragraph, by striking “less.” and inserting “less; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2), by inserting after “provided in paragraph (1).” the following new sentence: “Each Federal agency lender shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under the precedin… | the bill names no machine-readable US Code section |
 | — | add-at-end | in paragraph (3), in the matter following subparagraph (B), by adding at the end the following new sentence: “The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall accept private flood insurance a… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | in section 1331(a)(2) (42 U.S.C. 4051(a)(2)), by inserting “, including as reinsurance of insurance coverage provided by the flood insurance program” before “, on such terms”; | the bill names no machine-readable US Code section |
 | — | insert | in section 1332(c)(2) (42 U.S.C. 4052(c)(2)), by inserting “or reinsurance” after “flood insurance coverage”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” after “(a)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding paragraph (1), by inserting “, or for purposes of securing reinsurance of insurance coverage provided by the program,” before “of any or all of”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “estimating” and inserting “Estimating”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the semicolon at the end and inserting a period; | the bill names no machine-readable US Code section |
