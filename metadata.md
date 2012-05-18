@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4310
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4310
@@ -23,6 +23,38 @@ National Defense Authorization Act for Fiscal Year 2013
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (29)
+
+- 2012-05-17 — [House 112-2-263](votes/house-112-2-0263.md) — On Agreeing to the Amendment — **Failed** (84–335)
+- 2012-05-17 — [House 112-2-264](votes/house-112-2-0264.md) — On Agreeing to the Amendment — **Failed** (113–303)
+- 2012-05-17 — [House 112-2-265](votes/house-112-2-0265.md) — On Agreeing to the Amendment — **Agreed to** (412–1)
+- 2012-05-17 — [House 112-2-266](votes/house-112-2-0266.md) — On Agreeing to the Amendment — **Agreed to** (249–171)
+- 2012-05-17 — [House 112-2-267](votes/house-112-2-0267.md) — On Agreeing to the Amendment — **Agreed to** (211–209)
+- 2012-05-17 — [House 112-2-268](votes/house-112-2-0268.md) — On Agreeing to the Amendment — **Failed** (112–308)
+- 2012-05-17 — [House 112-2-269](votes/house-112-2-0269.md) — On Agreeing to the Amendment — **Failed** (165–252)
+- 2012-05-18 — [House 112-2-270](votes/house-112-2-0270.md) — On Agreeing to the Amendment — **Failed** (182–238)
+- 2012-05-18 — [House 112-2-271](votes/house-112-2-0271.md) — On Agreeing to the Amendment — **Agreed to** (243–173)
+- 2012-05-18 — [House 112-2-272](votes/house-112-2-0272.md) — On Agreeing to the Amendment — **Failed** (209–211)
+- 2012-05-18 — [House 112-2-273](votes/house-112-2-0273.md) — On Agreeing to the Amendment — **Failed** (192–229)
+- 2012-05-18 — [House 112-2-274](votes/house-112-2-0274.md) — On Agreeing to the Amendment — **Failed** (164–256)
+- 2012-05-18 — [House 112-2-275](votes/house-112-2-0275.md) — On Agreeing to the Amendment — **Failed** (180–241)
+- 2012-05-18 — [House 112-2-276](votes/house-112-2-0276.md) — On Agreeing to the Amendment — **Agreed to** (394–27)
+- 2012-05-18 — [House 112-2-277](votes/house-112-2-0277.md) — On Agreeing to the Amendment — **Failed** (118–303)
+- 2012-05-18 — [House 112-2-278](votes/house-112-2-0278.md) — On Agreeing to the Amendment — **Failed** (160–261)
+- 2012-05-18 — [House 112-2-279](votes/house-112-2-0279.md) — On Agreeing to the Amendment — **Failed** (175–245)
+- 2012-05-18 — [House 112-2-280](votes/house-112-2-0280.md) — On Agreeing to the Amendment — **Agreed to** (241–179)
+- 2012-05-18 — [House 112-2-281](votes/house-112-2-0281.md) — On Agreeing to the Amendment — **Agreed to** (220–201)
+- 2012-05-18 — [House 112-2-282](votes/house-112-2-0282.md) — On Agreeing to the Amendment — **Failed** (170–252)
+- 2012-05-18 — [House 112-2-283](votes/house-112-2-0283.md) — On Agreeing to the Amendment — **Agreed to** (229–193)
+- 2012-05-18 — [House 112-2-284](votes/house-112-2-0284.md) — On Agreeing to the Amendment — **Agreed to** (226–196)
+- 2012-05-18 — [House 112-2-285](votes/house-112-2-0285.md) — On Agreeing to the Amendment — **Failed** (77–344)
+- 2012-05-18 — [House 112-2-286](votes/house-112-2-0286.md) — On Agreeing to the Amendment — **Agreed to** (241–181)
+- 2012-05-18 — [House 112-2-287](votes/house-112-2-0287.md) — On Agreeing to the Amendment — **Failed** (121–300)
+- 2012-05-18 — [House 112-2-288](votes/house-112-2-0288.md) — On Agreeing to the Amendment — **Agreed to** (238–162)
+- 2012-05-18 — [House 112-2-289](votes/house-112-2-0289.md) — On Agreeing to the Amendment — **Agreed to** (379–38)
+- 2012-05-18 — [House 112-2-290](votes/house-112-2-0290.md) — On Motion to Recommit with Instructions — **Failed** (182–236)
+- 2012-05-18 — [House 112-2-291](votes/house-112-2-0291.md) — On Passage — **Passed** (299–120)
 
 ## Actions
 
@@ -52,3 +84,417 @@ National Defense Authorization Act for Fiscal Year 2013
 - 2012-05-11 — Placed on the Union Calendar, Calendar No. 335.
 - 2012-05-11 — Reported (Amended) by the Committee on Armed Services. H. Rept. 112-479.
 - 2012-05-11 — Reported (Amended) by the Committee on Armed Services. H. Rept. 112-479.
+- 2012-05-15 — Rules Committee Resolution H. Res. 656 Reported to House. Rule provides for consideration of H.R. 4970 and H.R. 4310. Resolution provides for 1 hour of general debate on H.R. 4970. The amendment in the nature of a substitute recommended by the Committee on the Judiciary, modified by the amendment printed in the report of the Committee on Rules, shall be considered as adopted. Previous question shall be considered as ordered on H.R. 4970, as amended, without intervening motions except one motion to recommit. Resolution provides for 1 hour of general debate on H.R. 4310. No further consideration of H.R. 4310 shall be in order except pursuant to a subsequent order of the House.
+- 2012-05-15 — Supplemental report filed by the Committee on Armed Services, H. Rept. 112-479, Part II.
+- 2012-05-15 — Supplemental report filed by the Committee on Armed Services, H. Rept. 112-479, Part II.
+- 2012-05-15 — UNANIMOUS CONSENT - Mr. Bartlett asked unanimous consent that the Committee on Armed Services be authorized to file a supplemental report on H.R. 4310.
+- 2012-05-16 — Committee of the Whole House on the state of the Union rises leaving H.R. 4310 as unfinished business.
+- 2012-05-16 — Considered under the provisions of rule H. Res. 656. (consideration: CR H2787-2796)
+- 2012-05-16 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4310.
+- 2012-05-16 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 656 and Rule XVIII.
+- 2012-05-16 — Rule H. Res. 656 passed House.
+- 2012-05-16 — Rule provides for consideration of H.R. 4970 and H.R. 4310. Resolution provides for 1 hour of general debate on H.R. 4970. The amendment in the nature of a substitute recommended by the Committee on the Judiciary, modified by the amendment printed in the report of the Committee on Rules, shall be considered as adopted. Previous question shall be considered as ordered on H.R. 4970, as amended, without intervening motions except one motion to recommit. Resolution provides for 1 hour of general debate on H.R. 4310. No further consideration of H.R. 4310 shall be in order except pursuant to a subsequent order of the House.
+- 2012-05-16 — The Speaker designated the Honorable Dennis Ross to act as Chairman of the Committee.
+- 2012-05-17 — Amendment (A001) offered by Mr. McKeon. (consideration: CR H2997; text: CR H2997)
+- 2012-05-17 — Amendment (A003) offered by Mr. Kucinich. (consideration: CR H3008-3009; text: CR H3008)
+- 2012-05-17 — Amendment (A004) offered by Mr. Rohrabacher. (consideration: CR H3009-3011, H3033-3034; text: CR H3009)
+- 2012-05-17 — Amendment (A005) offered by Ms. Lee (CA). (consideration: CR H3011-3014, H3034-3035; text: CR H3011)
+- 2012-05-17 — Amendment (A006) offered by Mr. Connolly (VA). (consideration: CR H3014-3015, H3035; text: CR H3014-3015)
+- 2012-05-17 — Amendment (A007) offered by Mr. Rooney. (consideration: CR H3015-3017, H3035-3036; text: CR H3016)
+- 2012-05-17 — Amendment (A008) offered by Mr. Bartlett. (consideration: CR H3017-3019, H3036-3037; text: CR H3017)
+- 2012-05-17 — Amendment (A009) offered by Mr. Conyers. (consideration: CR H3019-3021; text: CR H3019)
+- 2012-05-17 — Amendment (A010) offered by Mr. Quigley. (consideration: CR H3021-3022; text: CR H3021)
+- 2012-05-17 — Amendment (A011) offered by Mr. Markey. (consideration: CR H3022-3024, H3037; text: CR H3022-3023)
+- 2012-05-17 — Amendment (A012) offered by Mr. Polis. (consideration: CR H3024-3026, H3037-3038; text: CR H3024)
+- 2012-05-17 — Amendment (A014) offered by Mr. Coffman (CO). (consideration: CR H3049-3051; text: CR H3050)
+- 2012-05-17 — Amendment (A015) offered by Mr. Keating. (consideration: CR H3051-3053; text: CR H3051-3052)
+- 2012-05-17 — Amendment (A016) offered by Mr. Broun (GA). (consideration: CR H3053-3054; text: CR H3053)
+- 2012-05-17 — Amendment (A017) offered by Mr. Carson (IN). (consideration: CR H3054-3056; text: CR H3054)
+- 2012-05-17 — Amendment (A018) offered by Mr. Wittman. (consideration: CR H3056-3057; text: CR H3056)
+- 2012-05-17 — Amendment (A019) offered by Mr. Cummings. (consideration: CR H3057-3059; text: CR H3057-3058)
+- 2012-05-17 — Amendment (A020) offered by Mr. Sablan. (consideration: CR H3059-3061; text: CR H3059)
+- 2012-05-17 — Amendment (A022) offered by Mr. Johnson (GA). (consideration: CR H3067-3068; text: CR H3067)
+- 2012-05-17 — Amendment (A023) offered by Mr. Johnson (GA). (consideration: CR H3068-3070; text: CR H3068-3069)
+- 2012-05-17 — Amendment (A024) offered by Mr. Price (GA). (consideration: CR H3070-3071; text: CR H3070)
+- 2012-05-17 — Amendment (A025) offered by Mr. Rigell. (consideration: CR H3071-3073; text: CR H3071-3072)
+- 2012-05-17 — Amendment (A026) offered by Mr. Gingrey (GA). (consideration: CR H3073-3075; text: CR H3073-3074)
+- 2012-05-17 — Amendment (A027) offered by Ms. Lee (CA). (consideration: CR H3075-3076; text: CR H3075)
+- 2012-05-17 — Amendment (A028) offered by Mr. Gohmert. (consideration: CR H3076-3078; text: CR H3076)
+- 2012-05-17 — Amendment agreed to Committee of the Whole
+- 2012-05-17 — Amendment agreed to Committee of the Whole
+- 2012-05-17 — Amendment agreed to Committee of the Whole
+- 2012-05-17 — Amendment agreed to Committee of the Whole
+- 2012-05-17 — Amendment agreed to Committee of the Whole
+- 2012-05-17 — Amendment agreed to Committee of the Whole
+- 2012-05-17 — Amendment agreed to Committee of the Whole
+- 2012-05-17 — Amendment agreed to Committee of the Whole
+- 2012-05-17 — Amendment agreed to Committee of the Whole
+- 2012-05-17 — Amendment failed in Committee of the Whole
+- 2012-05-17 — Amendment failed in Committee of the Whole
+- 2012-05-17 — Amendment failed in Committee of the Whole
+- 2012-05-17 — Amendment failed in Committee of the Whole
+- 2012-05-17 — Amendment failed in Committee of the Whole
+- 2012-05-17 — Amendment failed in Committee of the Whole
+- 2012-05-17 — Amendment failed in Committee of the Whole
+- 2012-05-17 — Amendments en bloc (A002) offered by Mr. McKeon. (consideration: CR H2998-3008; text en bloc: CR H2998-3004)
+- 2012-05-17 — Amendments en bloc (A013) offered by Mr. McKeon. (consideration: CR H3026-3033; text en bloc: CR H3026-3030)
+- 2012-05-17 — Amendments en bloc (A021) offered by Mr. McKeon. (consideration: CR H3061-3067; text en bloc: CR H3061-3064)
+- 2012-05-17 — Committee of the Whole House on the state of the Union rises leaving H.R. 4310 as unfinished business.
+- 2012-05-17 — Considered as unfinished business. (consideration: CR H2847-3022; text of amendment in the nature of a substitute: CR H2847-2996)
+- 2012-05-17 — Considered as unfinished business. (consideration: CR H3049-3097)
+- 2012-05-17 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Bartlett amendment No. 8.
+- 2012-05-17 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly (VA) amendment No. 6.
+- 2012-05-17 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Conyers amendment No. 9.
+- 2012-05-17 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Gohmert amendment No. 45.
+- 2012-05-17 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Markey amendment No. 11.
+- 2012-05-17 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 12.
+- 2012-05-17 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Quigley amendment No. 10.
+- 2012-05-17 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Rooney amendment No. 7.
+- 2012-05-17 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 20 minutes of debate on the Lee amendment No. 5.
+- 2012-05-17 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon Amendments En Bloc No. 2.
+- 2012-05-17 — DEBATE - Pursuant to the provisions H.Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Kucinich amendment No. 3.
+- 2012-05-17 — DEBATE - Pursuant to the provisions H.Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the McKeon Manager's amendment No. 1.
+- 2012-05-17 — DEBATE - Pursuant to the provisions H.Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Rohrabacher amendment No. 4.
+- 2012-05-17 — DEBATE - Pursuant to the provisions H.Res. 661, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon Amendments En Bloc No. 1.
+- 2012-05-17 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Broun (GA) amendment No. 19.
+- 2012-05-17 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Carson amendment No. 20.
+- 2012-05-17 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Coffman amendment No. 17.
+- 2012-05-17 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Cummings amendment No. 26.
+- 2012-05-17 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Gingrey amendment No. 39.
+- 2012-05-17 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (GA) amendment No. 30.
+- 2012-05-17 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (GA) amendment No. 31.
+- 2012-05-17 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Keating amendment No. 18.
+- 2012-05-17 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Lee (CA) amendment No. 42.
+- 2012-05-17 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Price (GA) amendment No. 32.
+- 2012-05-17 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Rigell amendment No. 38.
+- 2012-05-17 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Sablan amendment No. 29.
+- 2012-05-17 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Wittman amendment No. 24.
+- 2012-05-17 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon Amendments En Bloc #3.
+- 2012-05-17 — House amendment agreed to: On agreeing to the Bartlett amendment (A008) Agreed to by recorded vote: 211 - 209 (Roll no. 267).
+- 2012-05-17 — House amendment agreed to: On agreeing to the Connolly (VA) amendment (A006) Agreed to by recorded vote: 412 - 1 (Roll no. 265).
+- 2012-05-17 — House amendment agreed to: On agreeing to the Gingrey (GA) amendment (A026) Agreed to by voice vote.
+- 2012-05-17 — House amendment agreed to: On agreeing to the McKeon amendment (A001) as modified Agreed to by voice vote.
+- 2012-05-17 — House amendment agreed to: On agreeing to the McKeon amendments (A002) Agreed to by voice vote.
+- 2012-05-17 — House amendment agreed to: On agreeing to the McKeon amendments (A013) Agreed to by voice vote.
+- 2012-05-17 — House amendment agreed to: On agreeing to the McKeon amendments (A021) Agreed to by voice vote.
+- 2012-05-17 — House amendment agreed to: On agreeing to the Rooney amendment (A007) Agreed to by recorded vote: 249 - 171 (Roll no. 266).
+- 2012-05-17 — House amendment agreed to: On agreeing to the Wittman amendment (A018) Agreed to by voice vote.
+- 2012-05-17 — House amendment not agreed to: On agreeing to the Conyers amendment (A009) Failed by voice vote.
+- 2012-05-17 — House amendment not agreed to: On agreeing to the Kucinich amendment (A003) Failed by voice vote.
+- 2012-05-17 — House amendment not agreed to: On agreeing to the Lee (CA) amendment (A005) Failed by recorded vote: 113 - 303 (Roll no. 264).
+- 2012-05-17 — House amendment not agreed to: On agreeing to the Markey amendment (A011) Failed by recorded vote: 112 - 308 (Roll no. 268).
+- 2012-05-17 — House amendment not agreed to: On agreeing to the Polis amendment (A012) Failed by recorded vote: 165 - 252 (Roll no. 269).
+- 2012-05-17 — House amendment not agreed to: On agreeing to the Quigley amendment (A010) Failed by voice vote.
+- 2012-05-17 — House amendment not agreed to: On agreeing to the Rohrabacher amendment (A004) Failed by recorded vote: 84 - 335 (Roll no. 263).
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered
+- 2012-05-17 — House amendment offered/reported by: Amendment (A001) offered by Mr. McKeon.(consideration: CR H2997; text: CR H2997)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A003) offered by Mr. Kucinich.(consideration: CR H3008-3009; text: CR H3008)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A004) offered by Mr. Rohrabacher.(consideration: CR H3009-3011, H3033-3034; text: CR H3009)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A005) offered by Ms. Lee (CA).(consideration: CR H3011-3014, H3034-3035; text: CR H3011)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A006) offered by Mr. Connolly (VA).(consideration: CR H3014-3015, H3035; text: CR H3014-3015)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A007) offered by Mr. Rooney.(consideration: CR H3015-3017, H3035-3036; text: CR H3016)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A008) offered by Mr. Bartlett.(consideration: CR H3017-3019, H3036-3037; text: CR H3017)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A009) offered by Mr. Conyers.(consideration: CR H3019-3021; text: CR H3019)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A010) offered by Mr. Quigley.(consideration: CR H3021-3022; text: CR H3021)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A011) offered by Mr. Markey.(consideration: CR H3022-3024, H3037; text: CR H3022-3023)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A012) offered by Mr. Polis.(consideration: CR H3024-3026, H3037-3038; text: CR H3024)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A014) offered by Mr. Coffman (CO).(consideration: CR H3049-3051; text: CR H3050)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A015) offered by Mr. Keating.(consideration: CR H3051-3053; text: CR H3051-3052)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A016) offered by Mr. Broun (GA).(consideration: CR H3053-3054; text: CR H3053)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A017) offered by Mr. Carson (IN).(consideration: CR H3054-3056; text: CR H3054)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A018) offered by Mr. Wittman.(consideration: CR H3056-3057; text: CR H3056)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A019) offered by Mr. Cummings.(consideration: CR H3057-3059; text: CR H3057-3058)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A020) offered by Mr. Sablan.(consideration: CR H3059-3061; text: CR H3059)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A022) offered by Mr. Johnson (GA).(consideration: CR H3067-3068; text: CR H3067)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A023) offered by Mr. Johnson (GA).(consideration: CR H3068-3070; text: CR H3068-3069)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A024) offered by Mr. Price (GA).(consideration: CR H3070-3071; text: CR H3070)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A025) offered by Mr. Rigell.(consideration: CR H3071-3073; text: CR H3071-3072)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A026) offered by Mr. Gingrey (GA).(consideration: CR H3073-3075; text: CR H3073-3074)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A027) offered by Ms. Lee (CA).(consideration: CR H3075-3076; text: CR H3075)
+- 2012-05-17 — House amendment offered/reported by: Amendment (A028) offered by Mr. Gohmert.(consideration: CR H3076-3078; text: CR H3076)
+- 2012-05-17 — House amendment offered/reported by: Amendments en bloc (A002) offered by Mr. McKeon.(consideration: CR H2998-3008; text en bloc: CR H2998-3004)
+- 2012-05-17 — House amendment offered/reported by: Amendments en bloc (A013) offered by Mr. McKeon.(consideration: CR H3026-3033; text en bloc: CR H3026-3030)
+- 2012-05-17 — House amendment offered/reported by: Amendments en bloc (A021) offered by Mr. McKeon.(consideration: CR H3061-3067; text en bloc: CR H3061-3064)
+- 2012-05-17 — McKeon amendment (A001) modified by unanimous consent. (text as modified: CR H2997)
+- 2012-05-17 — Mr. McKeon moved to rise.
+- 2012-05-17 — On agreeing to the Bartlett amendment (A008) Agreed to by recorded vote: 211 - 209 (Roll no. 267).
+- 2012-05-17 — On agreeing to the Connolly (VA) amendment (A006) Agreed to by recorded vote: 412 - 1 (Roll no. 265).
+- 2012-05-17 — On agreeing to the Conyers amendment (A009) Failed by voice vote.
+- 2012-05-17 — On agreeing to the Gingrey (GA) amendment (A026) Agreed to by voice vote.
+- 2012-05-17 — On agreeing to the Kucinich amendment (A003) Failed by voice vote.
+- 2012-05-17 — On agreeing to the Lee (CA) amendment (A005) Failed by recorded vote: 113 - 303 (Roll no. 264).
+- 2012-05-17 — On agreeing to the Markey amendment (A011) Failed by recorded vote: 112 - 308 (Roll no. 268).
+- 2012-05-17 — On agreeing to the McKeon amendment (A001) as modified Agreed to by voice vote.
+- 2012-05-17 — On agreeing to the McKeon amendments (A002) Agreed to by voice vote.
+- 2012-05-17 — On agreeing to the McKeon amendments (A013) Agreed to by voice vote.
+- 2012-05-17 — On agreeing to the McKeon amendments (A021) Agreed to by voice vote.
+- 2012-05-17 — On agreeing to the Polis amendment (A012) Failed by recorded vote: 165 - 252 (Roll no. 269).
+- 2012-05-17 — On agreeing to the Quigley amendment (A010) Failed by voice vote.
+- 2012-05-17 — On agreeing to the Rohrabacher amendment (A004) Failed by recorded vote: 84 - 335 (Roll no. 263).
+- 2012-05-17 — On agreeing to the Rooney amendment (A007) Agreed to by recorded vote: 249 - 171 (Roll no. 266).
+- 2012-05-17 — On agreeing to the Wittman amendment (A018) Agreed to by voice vote.
+- 2012-05-17 — On motion to rise Agreed to by voice vote.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bartlett amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair post poned further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Broun (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Broun (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Carson amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Carson demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Coffman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Coffman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly (VA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Connolly (VA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cummings amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Cummings demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (GA) amendment No. 30, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (GA) amendment No. 31, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Johnson (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Keating amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Keating demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Markey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Markey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Price (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rigell amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rohrabacher amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Rohrabacher demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rooney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sablan amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Sablan demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-17 — Roll call votes on amendments in House
+- 2012-05-17 — Roll call votes on amendments in House
+- 2012-05-17 — Roll call votes on amendments in House
+- 2012-05-17 — Roll call votes on amendments in House
+- 2012-05-17 — Roll call votes on amendments in House
+- 2012-05-17 — Roll call votes on amendments in House
+- 2012-05-17 — Roll call votes on amendments in House
+- 2012-05-17 — Rule H. Res. 661 passed House.
+- 2012-05-17 — Rules Committee Resolution H. Res. 661 Reported to House. Rule provides for consideration of H.R. 4310. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution provides that no further general debate shall be in order. The resolution makes in order as original text for purpose of amendment an amendment in the nature of a substitute consisting of Rules Committee Print 112-22.
+- 2012-05-17 — The Committee resumed its sitting. (consideration: CR H3022-3038)
+- 2012-05-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2012-05-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2012-05-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which had been debated earlier and on which further proceedings were postponed.
+- 2012-05-18 — Amendment (A029) offered by Mr. Smith (WA). (consideration: CR 5/17/2012 H3078-3081; text: CR 5/17/2012 H3078)
+- 2012-05-18 — Amendment (A030) offered by Mr. Duncan (SC). (consideration: CR 5/17/2012 H3081; text: CR 5/17/2012 H3081)
+- 2012-05-18 — Amendment (A031) offered by Mr. Coffman (CO). (consideration: CR 5/17/2012 H3081-3083; text: CR 5/17/2012 H3082)
+- 2012-05-18 — Amendment (A032) offered by Ms. Lee (CA). (consideration: CR 5/17/2012 H3083-3085; text: CR 5/17/2012 H3083-3084)
+- 2012-05-18 — Amendment (A033) offered by Mr. Lamborn. (consideration: CR 5/17/2012 H3085-3086; text: CR 5/17/2012 H3085-3086)
+- 2012-05-18 — Amendment (A034) offered by Mr. Carnahan. (consideration: CR 5/17/2012 H3086-3092; text: CR 5/17/2012 H3086-3092)
+- 2012-05-18 — Amendment (A035) offered by Mr. Petri. (consideration: CR 5/17/2012 H3092-3093; text: CR 5/17/2012 H3092)
+- 2012-05-18 — Amendment (A036) offered by Mr. Bartlett. (consideration: CR 5/17/2012 H3093-3094; text: CR 5/17/2012 H3093-3094)
+- 2012-05-18 — Amendment (A037) offered by Mr. Franks (AZ). (consideration: CR 5/17/2012 H3094-3095; text: CR 5/17/2012 H3094)
+- 2012-05-18 — Amendment (A038) offered by Mr. Pearce. (consideration: CR 5/17/2012 H3095-3097; text: CR 5/17/2012 H3095)
+- 2012-05-18 — Amendment (A042) offered by Mr. Rehberg. (consideration: CR H3136-3138, H3141-3142; text: CR H3136-3137)
+- 2012-05-18 — Amendment (A043) offered by Mr. Hunter. (consideration: CR H3138-3139; text: CR H3138)
+- 2012-05-18 — Amendment (A044) offered by Mr. Price (GA). (consideration: CR H3139-3140, H3142-3143; text: CR H3139)
+- 2012-05-18 — Amendment (A045) offered by Mr. Flake. (consideration: CR H3140; text: CR H3140)
+- 2012-05-18 — Amendment (A046) offered by Mr. Murphy (PA). (consideration: CR H3140-3141; text: CR H3140-3141)
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment agreed to Committee of the Whole
+- 2012-05-18 — Amendment failed in Committee of the Whole
+- 2012-05-18 — Amendment failed in Committee of the Whole
+- 2012-05-18 — Amendment failed in Committee of the Whole
+- 2012-05-18 — Amendment failed in Committee of the Whole
+- 2012-05-18 — Amendment failed in Committee of the Whole
+- 2012-05-18 — Amendment failed in Committee of the Whole
+- 2012-05-18 — Amendment failed in Committee of the Whole
+- 2012-05-18 — Amendment failed in Committee of the Whole
+- 2012-05-18 — Amendment failed in Committee of the Whole
+- 2012-05-18 — Amendment failed in Committee of the Whole
+- 2012-05-18 — Amendment failed in Committee of the Whole
+- 2012-05-18 — Amendments en bloc (A039) offered by Mr. McKeon. (consideration: CR H3121-3126; text en bloc: CR H3121-3125)
+- 2012-05-18 — Amendments en bloc (A040) offered by Mr. McKeon. (consideration: CR H3126-3130; text en bloc: CR H3126-3129)
+- 2012-05-18 — Amendments en bloc (A041) offered by Mr. McKeon. (consideration: CR H3130-3136; text en bloc: CR H3130-3134)
+- 2012-05-18 — By unanimous consent, the Carnahan amendment was withdrawn. (consideration: CR 5/17/2012 H3092)
+- 2012-05-18 — By unanimous consent, the Murphy (PA) amendment was withdrawn. (consideration: CR H3141)
+- 2012-05-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 4310 as unfinished business.
+- 2012-05-18 — Considered as unfinished business. (consideration: CR H3109-3145)
+- 2012-05-18 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Bartlett amendment No. 53.
+- 2012-05-18 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Carnahan amendment No. 51.
+- 2012-05-18 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Coffman (CO) amendment No. 48.
+- 2012-05-18 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Duncan (SC) amendment No. 47.
+- 2012-05-18 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Franks (AZ) amendment No. 54.
+- 2012-05-18 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment No. 50.
+- 2012-05-18 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Lee (CA) amendment No. 49.
+- 2012-05-18 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment No. 55.
+- 2012-05-18 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Petri amendment No. 52.
+- 2012-05-18 — DEBATE - Pursuant to the provisions H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (WA) amendment No. 46.
+- 2012-05-18 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment N0. 119.
+- 2012-05-18 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Hunter amendment No. 77.
+- 2012-05-18 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (PA) amendment No. 133.
+- 2012-05-18 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Price (GA) amendment No. 111.
+- 2012-05-18 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 10 minutes of debate on the Rehberg amendment No. 59.
+- 2012-05-18 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon Amendments En Bloc #4.
+- 2012-05-18 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon Amendments En Bloc #5.
+- 2012-05-18 — DEBATE - Pursuant to the provisions of H. Res. 661, the Committee of the Whole proceeded with 20 minutes of debate on the McKeon amendments en bloc #6.
+- 2012-05-18 — DEBATE - The House proceeded with 10 minutes of debate on the Garamendi motion to recommit with instructions. The instructions contained in the motion seek to protect American jobs by requiring that naval and U.S. flagged vessels providing service to the Federal Government may not be overhauled, repaired, or maintained in a shipyard outside the U.S. or Guam without a waiver from the Secretary of Defense.
+- 2012-05-18 — House amendment agreed to: On agreeing to the Bartlett amendment (A036) Agreed to by voice vote.
+- 2012-05-18 — House amendment agreed to: On agreeing to the Coffman (CO) amendment (A031) Agreed to by recorded vote: 226 - 196 (Roll no. 284).(consideration: CR H3119)
+- 2012-05-18 — House amendment agreed to: On agreeing to the Cummings amendment (A019) Agreed to by recorded vote: 394 - 27 (Roll no. 276).(consideration: CR H3113-3114)
+- 2012-05-18 — House amendment agreed to: On agreeing to the Duncan (SC) amendment (A030) Agreed to by recorded vote: 229 - 193 (Roll no. 283).(consideration: CR H3118-3119)
+- 2012-05-18 — House amendment agreed to: On agreeing to the Flake amendment (A045) Agreed to by voice vote.
+- 2012-05-18 — House amendment agreed to: On agreeing to the Franks (AZ) amendment (A037) Agreed to by recorded vote: 241 - 181 (Roll no. 286).(consideration: CR H3120-3121)
+- 2012-05-18 — House amendment agreed to: On agreeing to the Gohmert amendment (A028) Agreed to by recorded vote: 243 - 173 (Roll no. 271).(consideration: CR H3110-3111)
+- 2012-05-18 — House amendment agreed to: On agreeing to the Hunter amendment (A043) Agreed to by voice vote.
+- 2012-05-18 — House amendment agreed to: On agreeing to the Lamborn amendment (A033) Agreed to by voice vote.
+- 2012-05-18 — House amendment agreed to: On agreeing to the McKeon amendments (A039) Agreed to by voice vote.
+- 2012-05-18 — House amendment agreed to: On agreeing to the McKeon amendments (A040) Agreed to by voice vote.
+- 2012-05-18 — House amendment agreed to: On agreeing to the McKeon amendments (A041) Agreed to by voice vote.
+- 2012-05-18 — House amendment agreed to: On agreeing to the Petri amendment (A035) Agreed to by voice vote.
+- 2012-05-18 — House amendment agreed to: On agreeing to the Price (GA) amendment (A024) Agreed to by recorded vote: 241 - 179 (Roll no. 280).(consideration: CR H3116-3117)
+- 2012-05-18 — House amendment agreed to: On agreeing to the Price (GA) amendment (A044) Agreed to by recorded vote: 379 - 38 (Roll no. 289).
+- 2012-05-18 — House amendment agreed to: On agreeing to the Rehberg amendment Agreed to by recorded vote: 238 - 162 (Roll no. 288).
+- 2012-05-18 — House amendment agreed to: On agreeing to the Rigell amendment (A025) Agreed to by recorded vote: 220 - 201 (Roll no. 281).(consideration: CR H3117)
+- 2012-05-18 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A016) Failed by recorded vote: 164 - 256 (Roll no. 274).(consideration: CR H3112-3113)
+- 2012-05-18 — House amendment not agreed to: On agreeing to the Carson (IN) amendment (A017) Failed by recorded vote: 180 - 241 (Roll no. 275).(consideration: CR H3113)
+- 2012-05-18 — House amendment not agreed to: On agreeing to the Coffman (CO) amendment (A014) Failed by recorded vote: 209 - 211 (Roll no. 272).(consideration: CR H3111)
+- 2012-05-18 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A022) Failed by recorded vote: 160 - 261 (Roll no. 278).(consideration: CR H3115)
+- 2012-05-18 — House amendment not agreed to: On agreeing to the Johnson (GA) amendment (A023) Failed by recorded vote: 175 - 245 (Roll no. 279).(consideration: CR H3115-3116)
+- 2012-05-18 — House amendment not agreed to: On agreeing to the Keating amendment (A015) Failed by recorded vote: 192 - 229 (Roll no. 273).(consideration: CR H3111-3112)
+- 2012-05-18 — House amendment not agreed to: On agreeing to the Lee (CA) amendment (A027) Failed by recorded vote: 170 - 252 (Roll no. 282).(consideration: CR H3117-3118)
+- 2012-05-18 — House amendment not agreed to: On agreeing to the Lee (CA) amendment (A032) Failed by recorded vote: 77 - 344 (Roll no. 285).(consideration: CR H3119-3120)
+- 2012-05-18 — House amendment not agreed to: On agreeing to the Pearce amendment (A038) Failed by recorded vote: 121 - 300 (Roll no. 287).(consideration: CR H3121)
+- 2012-05-18 — House amendment not agreed to: On agreeing to the Sablan amendment (A020) Failed by recorded vote: 118 - 303 (Roll no. 277).(consideration: CR H3114-3115)
+- 2012-05-18 — House amendment not agreed to: On agreeing to the Smith (WA) amendment (A029) Failed by recorded vote: 182 - 238 (Roll no. 270).(consideration: CR H3109-3110)
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered
+- 2012-05-18 — House amendment offered/reported by: Amendment (A029) offered by Mr. Smith (WA).(consideration: CR 5/17/2012 H3078-3081; text: CR 5/17/2012 H3078)
+- 2012-05-18 — House amendment offered/reported by: Amendment (A030) offered by Mr. Duncan (SC).(consideration: CR 5/17/2012 H3081; text: CR 5/17/2012 H3081)
+- 2012-05-18 — House amendment offered/reported by: Amendment (A031) offered by Mr. Coffman (CO).(consideration: CR 5/17/2012 H3081-3083; text: CR 5/17/2012 H3082)
+- 2012-05-18 — House amendment offered/reported by: Amendment (A032) offered by Ms. Lee (CA).(consideration: CR 5/17/2012 H3083-3085; text: CR 5/17/2012 H3083-3084)
+- 2012-05-18 — House amendment offered/reported by: Amendment (A033) offered by Mr. Lamborn.(consideration: CR 5/17/2012 H3085-3086; text: CR 5/17/2012 H3085-3086)
+- 2012-05-18 — House amendment offered/reported by: Amendment (A034) offered by Mr. Carnahan.(consideration: CR 5/17/2012 H3086-3092; text: CR 5/17/2012 H3086-3092)
+- 2012-05-18 — House amendment offered/reported by: Amendment (A035) offered by Mr. Petri.(consideration: CR 5/17/2012 H3092-3093; text: CR 5/17/2012 H3092)
+- 2012-05-18 — House amendment offered/reported by: Amendment (A036) offered by Mr. Bartlett.(consideration: CR 5/17/2012 H3093-3094; text: CR 5/17/2012 H3093-3094)
+- 2012-05-18 — House amendment offered/reported by: Amendment (A037) offered by Mr. Franks (AZ).(consideration: CR 5/17/2012 H3094-3095; text: CR 5/17/2012 H3094)
+- 2012-05-18 — House amendment offered/reported by: Amendment (A038) offered by Mr. Pearce.(consideration: CR 5/17/2012 H3095-3097; text: CR 5/17/2012 H3095)
+- 2012-05-18 — House amendment offered/reported by: Amendment (A042) offered by Mr. Rehberg.(consideration: CR H3136-3138, H3141-3142; text: CR H3136-3137)
+- 2012-05-18 — House amendment offered/reported by: Amendment (A043) offered by Mr. Hunter.(consideration: CR H3138-3139; text: CR H3138)
+- 2012-05-18 — House amendment offered/reported by: Amendment (A044) offered by Mr. Price (GA).(consideration: CR H3139-3140, H3142-3143; text: CR H3139)
+- 2012-05-18 — House amendment offered/reported by: Amendment (A045) offered by Mr. Flake.(consideration: CR H3140; text: CR H3140)
+- 2012-05-18 — House amendment offered/reported by: Amendment (A046) offered by Mr. Murphy (PA).(consideration: CR H3140-3141; text: CR H3140-3141)
+- 2012-05-18 — House amendment offered/reported by: Amendments en bloc (A039) offered by Mr. McKeon.(consideration: CR H3121-3126; text en bloc: CR H3121-3125)
+- 2012-05-18 — House amendment offered/reported by: Amendments en bloc (A040) offered by Mr. McKeon.(consideration: CR H3126-3130; text en bloc: CR H3126-3129)
+- 2012-05-18 — House amendment offered/reported by: Amendments en bloc (A041) offered by Mr. McKeon.(consideration: CR H3130-3136; text en bloc: CR H3130-3134)
+- 2012-05-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-18 — Mr. Garamendi moved to recommit with instructions to Armed Services. (consideration: CR H3143; text: CR H3143)
+- 2012-05-18 — Mr. McKeon moved to rise.
+- 2012-05-18 — On agreeing to the Bartlett amendment (A036) Agreed to by voice vote.
+- 2012-05-18 — On agreeing to the Broun (GA) amendment (A016) Failed by recorded vote: 164 - 256 (Roll no. 274). (consideration: CR H3112-3113)
+- 2012-05-18 — On agreeing to the Carson (IN) amendment (A017) Failed by recorded vote: 180 - 241 (Roll no. 275). (consideration: CR H3113)
+- 2012-05-18 — On agreeing to the Coffman (CO) amendment (A014) Failed by recorded vote: 209 - 211 (Roll no. 272). (consideration: CR H3111)
+- 2012-05-18 — On agreeing to the Coffman (CO) amendment (A031) Agreed to by recorded vote: 226 - 196 (Roll no. 284). (consideration: CR H3119)
+- 2012-05-18 — On agreeing to the Cummings amendment (A019) Agreed to by recorded vote: 394 - 27 (Roll no. 276). (consideration: CR H3113-3114)
+- 2012-05-18 — On agreeing to the Duncan (SC) amendment (A030) Agreed to by recorded vote: 229 - 193 (Roll no. 283). (consideration: CR H3118-3119)
+- 2012-05-18 — On agreeing to the Flake amendment (A045) Agreed to by voice vote.
+- 2012-05-18 — On agreeing to the Franks (AZ) amendment (A037) Agreed to by recorded vote: 241 - 181 (Roll no. 286). (consideration: CR H3120-3121)
+- 2012-05-18 — On agreeing to the Gohmert amendment (A028) Agreed to by recorded vote: 243 - 173 (Roll no. 271). (consideration: CR H3110-3111)
+- 2012-05-18 — On agreeing to the Hunter amendment (A043) Agreed to by voice vote.
+- 2012-05-18 — On agreeing to the Johnson (GA) amendment (A022) Failed by recorded vote: 160 - 261 (Roll no. 278). (consideration: CR H3115)
+- 2012-05-18 — On agreeing to the Johnson (GA) amendment (A023) Failed by recorded vote: 175 - 245 (Roll no. 279). (consideration: CR H3115-3116)
+- 2012-05-18 — On agreeing to the Keating amendment (A015) Failed by recorded vote: 192 - 229 (Roll no. 273). (consideration: CR H3111-3112)
+- 2012-05-18 — On agreeing to the Lamborn amendment (A033) Agreed to by voice vote.
+- 2012-05-18 — On agreeing to the Lee (CA) amendment (A027) Failed by recorded vote: 170 - 252 (Roll no. 282). (consideration: CR H3117-3118)
+- 2012-05-18 — On agreeing to the Lee (CA) amendment (A032) Failed by recorded vote: 77 - 344 (Roll no. 285). (consideration: CR H3119-3120)
+- 2012-05-18 — On agreeing to the McKeon amendments (A039) Agreed to by voice vote.
+- 2012-05-18 — On agreeing to the McKeon amendments (A040) Agreed to by voice vote.
+- 2012-05-18 — On agreeing to the McKeon amendments (A041) Agreed to by voice vote.
+- 2012-05-18 — On agreeing to the Pearce amendment (A038) Failed by recorded vote: 121 - 300 (Roll no. 287). (consideration: CR H3121)
+- 2012-05-18 — On agreeing to the Petri amendment (A035) Agreed to by voice vote.
+- 2012-05-18 — On agreeing to the Price (GA) amendment (A024) Agreed to by recorded vote: 241 - 179 (Roll no. 280). (consideration: CR H3116-3117)
+- 2012-05-18 — On agreeing to the Price (GA) amendment (A044) Agreed to by recorded vote: 379 - 38 (Roll no. 289).
+- 2012-05-18 — On agreeing to the Rehberg amendment Agreed to by recorded vote: 238 - 162 (Roll no. 288).
+- 2012-05-18 — On agreeing to the Rigell amendment (A025) Agreed to by recorded vote: 220 - 201 (Roll no. 281). (consideration: CR H3117)
+- 2012-05-18 — On agreeing to the Sablan amendment (A020) Failed by recorded vote: 118 - 303 (Roll no. 277). (consideration: CR H3114-3115)
+- 2012-05-18 — On agreeing to the Smith (WA) amendment (A029) Failed by recorded vote: 182 - 238 (Roll no. 270). (consideration: CR H3109-3110)
+- 2012-05-18 — On motion to recommit with instructions Failed by recorded vote: 182 - 236 (Roll no. 290). (consideration: CR H3144)
+- 2012-05-18 — On motion to rise Agreed to by voice vote.
+- 2012-05-18 — On passage Passed by recorded vote: 299 - 120 (Roll no. 291).
+- 2012-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Coffman (CO) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Coffman (CO) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Duncan (SC) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Franks (AZ) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Franks (AZ) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gohmert amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pearce amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Pearce demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Price (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rehberg amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Rehberg demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (WA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Smith (WA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-05-18 — Passed/agreed to in House: On passage Passed by recorded vote: 299 - 120 (Roll no. 291).
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — Roll call votes on amendments in House
+- 2012-05-18 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4310.
+- 2012-05-18 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (consideration: CR H3143)
+- 2012-05-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2012-05-18 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4310.
+- 2012-05-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3144)
+- 2012-05-18 — The previous question was ordered pursuant to the rule. (consideration: CR H3143)
+- 2012-05-18 — The title of the measure was amended. Agreed to without objection.
+- 2012-05-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2012-05-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.

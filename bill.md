@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4310
 
-> To authorize appropriations for fiscal year 2013 for military activities of the Department of Defense, to prescribe military personnel strengths for fiscal year 2013, and for other purposes.
+> To authorize appropriations for fiscal year 2013 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.
 
 ## § 1. Short title
 
