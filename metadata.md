@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5740
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5740
@@ -41,3 +41,4 @@ National Flood Insurance Program Extension Act
 - 2012-05-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-05-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 18 (Roll no. 262). (text: CR 5/16/2012 H2782-2783)
 - 2012-05-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 18 (Roll no. 262).(text: CR 5/16/2012 H2782-2783)
+- 2012-05-21 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 407.
