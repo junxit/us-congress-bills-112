@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4970
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4970
@@ -104,3 +104,4 @@ Violence Against Women Reauthorization Act of 2012
 - 2012-05-16 — Rule provides for consideration of H.R. 4970 and H.R. 4310. Resolution provides for 1 hour of general debate on H.R. 4970. The amendment in the nature of a substitute recommended by the Committee on the Judiciary, modified by the amendment printed in the report of the Committee on Rules, shall be considered as adopted. Previous question shall be considered as ordered on H.R. 4970, as amended, without intervening motions except one motion to recommit. Resolution provides for 1 hour of general debate on H.R. 4310. No further consideration of H.R. 4310 shall be in order except pursuant to a subsequent order of the House.
 - 2012-05-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2780)
 - 2012-05-16 — The previous question was ordered pursuant to the rule. (consideration: CR H2779)
+- 2012-05-21 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 406.
