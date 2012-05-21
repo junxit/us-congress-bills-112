@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1905
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1905
@@ -16,7 +16,7 @@ Iran Threat Reduction and Syria Human Rights Act of 2012
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Cosponsors (364)
+## Cosponsors (366)
 
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
 - Rep. Royce, Edward R. [R-CA-40] (R000487)
@@ -382,14 +382,17 @@ Iran Threat Reduction and Syria Human Rights Act of 2012
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 - Rep. Turner, Michael R. [R-OH-3] (T000463)
 - Rep. Young, Todd [R-IN-9] (Y000064)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
 
-## Committees (5)
+## Committees (6)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
 - House — Oversight and Accountability Committee
 - House — Ways and Means Committee
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -418,3 +421,18 @@ Iran Threat Reduction and Syria Human Rights Act of 2012
 - 2011-12-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 11 (Roll no. 927). (text: CR 12/13/2011 H8834-8846)
 - 2011-12-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 11 (Roll no. 927).(text: CR 12/13/2011 H8834-8846)
 - 2011-12-14 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2012-05-21 — Amendment SA 2123 agreed to in Senate by Unanimous Consent.
+- 2012-05-21 — Amendment SA 2123 proposed by Senator Reid for Senator Johnson SD. (consideration: CR S3317) In the nature of a substitute.
+- 2012-05-21 — Amendment SA 2124 agreed to in Senate by Unanimous Consent.
+- 2012-05-21 — Amendment SA 2124 proposed by Senator Reid for Senator Johnson SD to Amendment SA 2123. (consideration: CR S3317) To improve the bill.
+- 2012-05-21 — Measure laid before Senate by unanimous consent. (consideration: CR S3316-3321)
+- 2012-05-21 — Passed Senate with an amendment by Voice Vote. (text as passed Senate: CR 5/24/2012 S3641-3651)
+- 2012-05-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text as passed Senate: CR 5/24/2012 S3641-3651)
+- 2012-05-21 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2012-05-21 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2012-05-21 — Senate amendment agreed to: Amendment SA 2123 agreed to in Senate by Unanimous Consent.
+- 2012-05-21 — Senate amendment agreed to: Amendment SA 2124 agreed to in Senate by Unanimous Consent.
+- 2012-05-21 — Senate amendment proposed (on the floor): Amendment SA 2123 proposed by Senator Reid for Senator Johnson SD.(consideration: CR S3317)
+- 2012-05-21 — Senate amendment proposed (on the floor): Amendment SA 2124 proposed by Senator Reid for Senator Johnson SD to Amendment SA 2123.(consideration: CR S3317)
+- 2012-05-21 — Senate amendment submitted
+- 2012-05-21 — Senate amendment submitted
