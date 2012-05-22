@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5743
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5743
@@ -25,3 +25,8 @@ Intelligence Authorization Act for Fiscal Year 2013
 - 2012-05-15 — Introduced in House
 - 2012-05-15 — Introduced in House
 - 2012-05-15 — Referred to the House Committee on Intelligence (Permanent Select).
+- 2012-05-17 — Committee Consideration and Mark-up Session Held.
+- 2012-05-17 — Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 0.
+- 2012-05-22 — Placed on the Union Calendar, Calendar No. 343.
+- 2012-05-22 — Reported (Amended) by the Committee on Intelligence. H. Rept. 112-490.
+- 2012-05-22 — Reported (Amended) by the Committee on Intelligence. H. Rept. 112-490.
