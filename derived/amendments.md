@@ -1,7 +1,7 @@
 ---
 measure: S. 2367
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 

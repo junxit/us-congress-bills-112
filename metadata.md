@@ -1,7 +1,7 @@
 ---
 measure: S. 2367
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2367
@@ -16,9 +16,10 @@ version: Introduced in Senate
 
 - Sen. Conrad, Kent [D-ND] (C000705)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Johanns, Mike [R-NE] (J000291)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ version: Introduced in Senate
 - 2012-04-25 — Introduced in Senate
 - 2012-04-25 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
 - 2012-04-25 — Sponsor introductory remarks on measure. (CR S2734)
+- 2012-05-23 — Passed Senate without amendment by Unanimous Consent. (text: CR S3534)
+- 2012-05-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3534)
+- 2012-05-23 — Senate Committee on Banking, Housing, and Urban Affairs discharged Unanimous Consent. (consideration: CR S3534)
+- 2012-05-23 — Senate Committee on Banking, Housing, and Urban Affairs discharged Unanimous Consent.(consideration: CR S3534)
