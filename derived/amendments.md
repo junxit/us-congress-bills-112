@@ -1,7 +1,7 @@
 ---
 measure: S. 2276
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | replace | Section 1442 of title 28, United States Code, is amended by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 1442 of title 28, United States Code, is amended by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
