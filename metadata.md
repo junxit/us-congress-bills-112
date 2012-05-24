@@ -1,7 +1,7 @@
 ---
 measure: S. 739
 congress: 112
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 739
@@ -47,3 +47,17 @@ A bill to authorize the Architect of the Capitol to establish battery recharging
 - 2012-05-24 — Senate amendment agreed to: Amendment SA 2155 agreed to in Senate by Unanimous Consent.
 - 2012-05-24 — Senate amendment proposed (on the floor): Amendment SA 2155 proposed by Senator Reid for Senator Levin.(consideration: CR S3657; text: CR S3657)
 - 2012-05-24 — Senate amendment submitted
+- 2012-05-25 — Message on Senate action sent to the House.
+- 2012-05-29 — Held at the desk.
+- 2012-05-29 — Received in the House.
+- 2012-08-02 — Considered by unanimous consent. (consideration: CR H5649-5650)
+- 2012-08-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-08-02 — Mr. Lungren, Daniel E. asked unanimous consent to take from the Speaker's table and consider.
+- 2012-08-02 — On passage Passed without objection. (text: CR H5649-5650)
+- 2012-08-02 — Passed/agreed to in House: On passage Passed without objection.(text: CR H5649-5650)
+- 2012-08-03 — Presented to President.
+- 2012-08-03 — Presented to President.
+- 2012-08-10 — Became Public Law No: 112-167.
+- 2012-08-10 — Became Public Law No: 112-167.
+- 2012-08-10 — Signed by President.
+- 2012-08-10 — Signed by President.
