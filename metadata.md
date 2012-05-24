@@ -1,7 +1,7 @@
 ---
 measure: S. 2370
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2370
@@ -28,3 +28,7 @@ Small Business Reorganization Efficiency and Clarity Act
 
 - 2012-04-26 — Introduced in Senate
 - 2012-04-26 — Read twice and referred to the Committee on the Judiciary.
+- 2012-05-24 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2012-05-24 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2012-05-24 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2012-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 416.
