@@ -1,7 +1,7 @@
 ---
 measure: S. 3187
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 3187
@@ -16,12 +16,247 @@ Food and Drug Administration Safety and Innovation Act
 
 - Sen. Harkin, Tom [D-IA] (H000206)
 
-## Cosponsors (1)
+## Cosponsors (87)
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+
+## Recorded votes (7)
+
+- 2012-05-24 — [Senate 112-2-105](votes/senate-112-2-0105.md) — On the Amendment — **Amendment Rejected** (28–67)
+- 2012-05-24 — [Senate 112-2-106](votes/senate-112-2-0106.md) — On the Amendment — **Amendment Rejected** (46–50)
+- 2012-05-24 — [Senate 112-2-107](votes/senate-112-2-0107.md) — On the Motion to Table — **Motion to Table Agreed to** (78–15)
+- 2012-05-24 — [Senate 112-2-108](votes/senate-112-2-0108.md) — On the Amendment — **Amendment Rejected** (43–54)
+- 2012-05-24 — [Senate 112-2-109](votes/senate-112-2-0109.md) — On the Amendment — **Amendment Rejected** (9–88)
+- 2012-05-24 — [Senate 112-2-110](votes/senate-112-2-0110.md) — On the Motion to Table — **Motion to Table Agreed to** (77–20)
+- 2012-05-24 — [Senate 112-2-111](votes/senate-112-2-0111.md) — On Passage of the Bill — **Bill Passed** (96–1)
 
 ## Actions
 
 - 2012-05-15 — Introduced in Senate
 - 2012-05-15 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2012-05-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 400.
+- 2012-05-17 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S3252; text: CR S3252)
+- 2012-05-17 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S3243-3248, S3252-3271)
+- 2012-05-17 — Senate amendment submitted
+- 2012-05-17 — Senate amendment submitted
+- 2012-05-17 — Senate amendment submitted
+- 2012-05-17 — Senate amendment submitted
+- 2012-05-17 — Senate amendment submitted
+- 2012-05-21 — Cloture motion on the motion to proceed to the measure withdrawn by unanimous consent in Senate. (consideration: CR S3316)
+- 2012-05-21 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S3295-3307)
+- 2012-05-21 — Senate amendment submitted
+- 2012-05-21 — Senate amendment submitted
+- 2012-05-21 — Senate amendment submitted
+- 2012-05-21 — Senate amendment submitted
+- 2012-05-21 — Senate amendment submitted
+- 2012-05-21 — Senate amendment submitted
+- 2012-05-21 — Senate amendment submitted
+- 2012-05-21 — Senate amendment submitted
+- 2012-05-21 — Senate amendment submitted
+- 2012-05-21 — Senate amendment submitted
+- 2012-05-21 — Senate amendment submitted
+- 2012-05-22 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S3389-3400, S3400-3420)
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-22 — Senate amendment submitted
+- 2012-05-23 — Amendment SA 2108 proposed by Senator Murkowski. (consideration: CR S3495-3497; text: CR S3495) To prohibit approval by the Food and Drug Administration of genetically engineered fish unless the National Oceanic and Atmospheric Administration concurs with such approval.
+- 2012-05-23 — Amendment SA 2109 proposed by Senator Sanders. (consideration: CR S3485-3488; text: CR S3485-3486) To revoke the exclusivity of certain entities that are responsible for violations of the Federal Food, Drug, and Cosmetic Act, the False Claims Act, and other certain laws.
+- 2012-05-23 — Amendment SA 2121 agreed to in Senate by Unanimous Consent.
+- 2012-05-23 — Amendment SA 2121 proposed by Senator Grassley. (consideration: CR S3491-3492, S3507; text: CR S3491) To provide employee protections for the Commissioned Corps of the Public Health Service Act.
+- 2012-05-23 — Amendment SA 2122 agreed to in Senate by Unanimous Consent.
+- 2012-05-23 — Amendment SA 2122 proposed by Senator Harkin. (consideration: CR S3487-3482) In the nature of a substitute.
+- 2012-05-23 — Amendment SA 2125 agreed to in Senate by Unanimous Consent.
+- 2012-05-23 — Amendment SA 2125 proposed by Senator Cardin. (consideration: CR S3497, S3500, S3507; text: CR S3497) To ensure that adequate information is disseminated to health care providers and payors about the potential benefits and risks of medical products on all patient populations, particularly underrepresented subpopulations, including racial subgroups.
+- 2012-05-23 — Amendment SA 2126 agreed to in Senate by Unanimous Consent.
+- 2012-05-23 — Amendment SA 2126 proposed by Senator Harkin for Senator Reed. (consideration: CR S3506-3507; text: CR S3506-3507) To make effective the proposed rule of the Food and Drug Administration relating to sunscreen drug products.
+- 2012-05-23 — Amendment SA 2127 proposed by Senator Durbin. (consideration: CR S3482-3485; text: CR S3482-3483) To require manufacturers of dietary supplements to register dietary supplement products with the Food and Drug Administration.
+- 2012-05-23 — Amendment SA 2129 agreed to in Senate by Unanimous Consent.
+- 2012-05-23 — Amendment SA 2129 proposed by Senator Grassley. (consideration: CR S3490-3491, S3507; text: CR S3490-3491) To provide deadlines for the issuance of certain regulations and to require a GAO report on the implementation of the clinical trial registration and reporting requirements under the Public Health Service Act.
+- 2012-05-23 — Amendment SA 2130 proposed by Senator Burr. (consideration: CR S3492-3495; text: CR S3492) To ensure transparency in Food and Drug Administration user fee agreement negotiations.
+- 2012-05-23 — Amendment SA 2131 proposed by Senator Coburn. (consideration: CR S3488-3489; text: CR S3488-3489) To require an independent assessment of the Food and Drug Administration's review of drug applications.
+- 2012-05-23 — Amendment SA 2132 proposed by Senator Coburn. (consideration: CR S3489-3490; text: CR S3489-3490) To provide that a portion of the performance awards of each employee of the Center for Drug Evaluation and Research, the Center for Devices and Radiological Health, and the Center for Biologics Evaluation and Research be connected to an evaluation of the employee's contribution to goals under the user fee agreements.
+- 2012-05-23 — Amendment SA 2141 agreed to in Senate by Unanimous Consent.
+- 2012-05-23 — Amendment SA 2141 proposed by Senator Cardin. (consideration: CR S3497-3500, S3500-3501, S3507; text: CR S3497) To require the Commissioner of Food and Drugs to report to Congress on issues with respect to small businesses.
+- 2012-05-23 — Amendment SA 2143 proposed by Senator Paul. (consideration: CR S3501-3506; text: CR S3501) To amend the Federal Food, Drug, and Cosmetic Act concerning claims about the effects of foods and dietary supplements on health-related conditions and disease, to prohibit employees of the Food and Drug Administration from carrying firearms and making arrests without warrants, and to adjust the mens rea of certain prohibited acts under the Federal Food, Drug, and Cosmetic Act to knowing and willful.
+- 2012-05-23 — Amendment SA 2151 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S3506)
+- 2012-05-23 — Amendment SA 2151 proposed by Senator Manchin. (consideration: CR S3506-3507) To amend the Controlled Substances Act to make any substance containing hydrocodone as schedule II drug.
+- 2012-05-23 — Measure laid before Senate by motion. (consideration: CR S3479-3509)
+- 2012-05-23 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent. (consideration: CR S3479)
+- 2012-05-23 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S3459-3479)
+- 2012-05-23 — Senate amendment agreed to: Amendment SA 2121 agreed to in Senate by Unanimous Consent.
+- 2012-05-23 — Senate amendment agreed to: Amendment SA 2122 agreed to in Senate by Unanimous Consent.
+- 2012-05-23 — Senate amendment agreed to: Amendment SA 2125 agreed to in Senate by Unanimous Consent.
+- 2012-05-23 — Senate amendment agreed to: Amendment SA 2126 agreed to in Senate by Unanimous Consent.
+- 2012-05-23 — Senate amendment agreed to: Amendment SA 2129 agreed to in Senate by Unanimous Consent.
+- 2012-05-23 — Senate amendment agreed to: Amendment SA 2141 agreed to in Senate by Unanimous Consent.
+- 2012-05-23 — Senate amendment agreed to: Amendment SA 2151 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S3506)
+- 2012-05-23 — Senate amendment proposed (on the floor): Amendment SA 2108 proposed by Senator Murkowski.(consideration: CR S3495-3497; text: CR S3495)
+- 2012-05-23 — Senate amendment proposed (on the floor): Amendment SA 2109 proposed by Senator Sanders.(consideration: CR S3485-3488; text: CR S3485-3486)
+- 2012-05-23 — Senate amendment proposed (on the floor): Amendment SA 2121 proposed by Senator Grassley.(consideration: CR S3491-3492, S3507; text: CR S3491)
+- 2012-05-23 — Senate amendment proposed (on the floor): Amendment SA 2122 proposed by Senator Harkin.(consideration: CR S3487-3482)
+- 2012-05-23 — Senate amendment proposed (on the floor): Amendment SA 2125 proposed by Senator Cardin.(consideration: CR S3497, S3500, S3507; text: CR S3497)
+- 2012-05-23 — Senate amendment proposed (on the floor): Amendment SA 2126 proposed by Senator Harkin for Senator Reed.(consideration: CR S3506-3507; text: CR S3506-3507)
+- 2012-05-23 — Senate amendment proposed (on the floor): Amendment SA 2127 proposed by Senator Durbin.(consideration: CR S3482-3485; text: CR S3482-3483)
+- 2012-05-23 — Senate amendment proposed (on the floor): Amendment SA 2129 proposed by Senator Grassley.(consideration: CR S3490-3491, S3507; text: CR S3490-3491)
+- 2012-05-23 — Senate amendment proposed (on the floor): Amendment SA 2130 proposed by Senator Burr.(consideration: CR S3492-3495; text: CR S3492)
+- 2012-05-23 — Senate amendment proposed (on the floor): Amendment SA 2131 proposed by Senator Coburn.(consideration: CR S3488-3489; text: CR S3488-3489)
+- 2012-05-23 — Senate amendment proposed (on the floor): Amendment SA 2132 proposed by Senator Coburn.(consideration: CR S3489-3490; text: CR S3489-3490)
+- 2012-05-23 — Senate amendment proposed (on the floor): Amendment SA 2141 proposed by Senator Cardin.(consideration: CR S3497-3500, S3500-3501, S3507; text: CR S3497)
+- 2012-05-23 — Senate amendment proposed (on the floor): Amendment SA 2143 proposed by Senator Paul.(consideration: CR S3501-3506; text: CR S3501)
+- 2012-05-23 — Senate amendment proposed (on the floor): Amendment SA 2151 proposed by Senator Manchin.(consideration: CR S3506-3507)
+- 2012-05-23 — Senate amendment submitted
+- 2012-05-23 — Senate amendment submitted
+- 2012-05-23 — Senate amendment submitted
+- 2012-05-24 — Amendment SA 2107 proposed by Senator McCain. (consideration: CR S3536-3540, 23540, S3541-3542, S3543-3545, S3559-3561, S3562; text: CR S3536-3537) To allow the importation by individuals of safe and affordable drugs from Canada.
+- 2012-05-24 — Amendment SA 2107, under the order of 5/23/12, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 54. Record Vote Number: 108.
+- 2012-05-24 — Amendment SA 2108, under the order of 5/23/12, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 50. Record Vote Number: 106.
+- 2012-05-24 — Amendment SA 2109, under the order of 5/23/12, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 9 - 88. Record Vote Number: 109.
+- 2012-05-24 — Amendment SA 2111 proposed by Senator Bingaman. (consideration: CR S3542-3543, S3547-3548, S3553-3554) To provide substantial savings in health care costs to the Federal government and consumers by fostering competition among generic pharmaceutical manufacturers and ensuring that anti-competitive "pay-for-delay" settlements between brand-name and generic pharmaceutical manufacturers do not block generic drugs from entering the market.
+- 2012-05-24 — Amendment SA 2111, under the order of 5/23/12, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 28 - 67. Record Vote Number: 105.
+- 2012-05-24 — Amendment SA 2131 agreed to in Senate by Unanimous Consent.
+- 2012-05-24 — Amendment SA 2142 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S3545-3546)
+- 2012-05-24 — Amendment SA 2142 proposed by Senator Harkin for Senator Leahy. (consideration: CR S3545-3547) To modify and limit certain exemptions to the Freedom of Information Act.
+- 2012-05-24 — Amendment SA 2145 as modified agreed to in Senate by Unanimous Consent.
+- 2012-05-24 — Amendment SA 2145 proposed by Senator Harkin for Senator Portman. (consideration: CR S3555-3557) To facilitate the development of recommendations on interoperability standards to inform and facilitate the exchange of prescription information across State lines.
+- 2012-05-24 — Amendment SA 2146 as modified agreed to in Senate by Voice Vote. (text as modified: CR S3546)
+- 2012-05-24 — Amendment SA 2146 proposed by Senator Harkin for Senator Portman. (consideration: CR S3545-3547, S3548-3550, S3555-3557) To amend the Controlled Substances Act to place synthetic drugs in Schedule I.
+- 2012-05-24 — Considered by Senate. (consideration: CR S3536)
+- 2012-05-24 — Considered by Senate. (consideration: CR S3536)
+- 2012-05-24 — Considered by Senate. (consideration: CR S3536, S3540-3541, S3543, S3562-3563)
+- 2012-05-24 — Considered by Senate. (consideration: CR S3536, S3550-3553, S3563-3564)
+- 2012-05-24 — Considered by Senate. (consideration: CR S3536, S3554-3555)
+- 2012-05-24 — Considered by Senate. (consideration: CR S3536, S3557-3559)
+- 2012-05-24 — Considered by Senate. (consideration: CR S3536, S3561-3562)
+- 2012-05-24 — Considered by Senate. (consideration: CR S3536-3609)
+- 2012-05-24 — Message on Senate action sent to the House.
+- 2012-05-24 — Motion to table amendment SA 2127 agreed to in Senate by Yea-Nay Vote. 77 - 20. Record Vote Number: 110.
+- 2012-05-24 — Motion to table amendment SA 2143 agreed to in Senate by Yea-Nay Vote. 78 - 15. Record Vote Number: 107.
+- 2012-05-24 — Passed Senate with amendments by Yea-Nay Vote. 96 - 1. Record Vote Number: 111. (text: CR S3568-3608)
+- 2012-05-24 — Passed/agreed to in Senate: Passed Senate with amendments by Yea-Nay Vote. 96 - 1. Record Vote Number: 111.(text: CR S3568-3608)
+- 2012-05-24 — Proposed amendment SA 2130 withdrawn in Senate. (consideration: CR S3563)
+- 2012-05-24 — Proposed amendment SA 2132 withdrawn in Senate. (consideration: CR S3547)
+- 2012-05-24 — Roll call votes on amendments in Senate: Amendment SA 2107, under the order of 5/23/12, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 54. Record Vote Number: 108.
+- 2012-05-24 — Roll call votes on amendments in Senate: Amendment SA 2108, under the order of 5/23/12, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 50. Record Vote Number: 106.
+- 2012-05-24 — Roll call votes on amendments in Senate: Amendment SA 2109, under the order of 5/23/12, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 9 - 88. Record Vote Number: 109.
+- 2012-05-24 — Roll call votes on amendments in Senate: Amendment SA 2111, under the order of 5/23/12, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 28 - 67. Record Vote Number: 105.
+- 2012-05-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 2127 agreed to in Senate by Yea-Nay Vote. 77 - 20. Record Vote Number: 110.
+- 2012-05-24 — Roll call votes on amendments in Senate: Motion to table amendment SA 2143 agreed to in Senate by Yea-Nay Vote. 78 - 15. Record Vote Number: 107.
+- 2012-05-24 — Senate amendment agreed to: Amendment SA 2131 agreed to in Senate by Unanimous Consent.
+- 2012-05-24 — Senate amendment agreed to: Amendment SA 2142 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S3545-3546)
+- 2012-05-24 — Senate amendment agreed to: Amendment SA 2145 as modified agreed to in Senate by Unanimous Consent.
+- 2012-05-24 — Senate amendment agreed to: Amendment SA 2146 as modified agreed to in Senate by Voice Vote.(text as modified: CR S3546)
+- 2012-05-24 — Senate amendment not agreed to: Amendment SA 2107, under the order of 5/23/12, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 43 - 54. Record Vote Number: 108.
+- 2012-05-24 — Senate amendment not agreed to: Amendment SA 2108, under the order of 5/23/12, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 46 - 50. Record Vote Number: 106.
+- 2012-05-24 — Senate amendment not agreed to: Amendment SA 2109, under the order of 5/23/12, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 9 - 88. Record Vote Number: 109.
+- 2012-05-24 — Senate amendment not agreed to: Amendment SA 2111, under the order of 5/23/12, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 28 - 67. Record Vote Number: 105.
+- 2012-05-24 — Senate amendment proposed (on the floor): Amendment SA 2107 proposed by Senator McCain.(consideration: CR S3536-3540, 23540, S3541-3542, S3543-3545, S3559-3561, S3562; text: CR S3536-3537)
+- 2012-05-24 — Senate amendment proposed (on the floor): Amendment SA 2111 proposed by Senator Bingaman.(consideration: CR S3542-3543, S3547-3548, S3553-3554)
+- 2012-05-24 — Senate amendment proposed (on the floor): Amendment SA 2142 proposed by Senator Harkin for Senator Leahy.(consideration: CR S3545-3547)
+- 2012-05-24 — Senate amendment proposed (on the floor): Amendment SA 2145 proposed by Senator Harkin for Senator Portman.(consideration: CR S3555-3557)
+- 2012-05-24 — Senate amendment proposed (on the floor): Amendment SA 2146 proposed by Senator Harkin for Senator Portman.(consideration: CR S3545-3547, S3548-3550, S3555-3557)
