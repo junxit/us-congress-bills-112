@@ -1,7 +1,7 @@
 ---
 measure: S. 414
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | in section 116 (22 U.S.C. 2151n), by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | in section 502B (22 U.S.C. 2304), by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | in section 116 (22 U.S.C. 2151n), by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | in section 502B (22 U.S.C. 2304), by adding at the end the following new subsection: | the bill names no machine-readable US Code section |

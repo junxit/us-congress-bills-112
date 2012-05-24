@@ -1,7 +1,7 @@
 ---
 measure: S. 414
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 414
@@ -66,3 +66,5 @@ International Protecting Girls by Preventing Child Marriage Act of 2011
 - 2012-05-23 — Committee on Foreign Relations. Reported by Senator Kerry without amendment. With written report No. 112-170.
 - 2012-05-23 — Committee on Foreign Relations. Reported by Senator Kerry without amendment. With written report No. 112-170.
 - 2012-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 412.
+- 2012-05-24 — Passed Senate without amendment by Voice Vote. (consideration: CR S3655-3657; text as passed Senate: CR S3656-3657)
+- 2012-05-24 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3655-3657; text as passed Senate: CR S3656-3657)
