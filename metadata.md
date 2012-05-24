@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5740
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5740
@@ -51,3 +51,14 @@ National Flood Insurance Program Extension Act
 - 2012-05-24 — Senate amendment agreed to: Amendment SA 2154 agreed to in Senate by Unanimous Consent.
 - 2012-05-24 — Senate amendment proposed (on the floor): Amendment SA 2154 proposed by Senator Reid for Senator Johnson SD.(consideration: CR S3611; text: CR S3611)
 - 2012-05-24 — Senate amendment submitted
+- 2012-05-30 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 5740.
+- 2012-05-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-30 — Mrs. Biggert moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H3250-3252)
+- 2012-05-30 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H3250)
+- 2012-05-30 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H3250)
+- 2012-05-31 — Became Public Law No: 112-123.
+- 2012-05-31 — Became Public Law No: 112-123.
+- 2012-05-31 — Presented to President.
+- 2012-05-31 — Presented to President.
+- 2012-05-31 — Signed by President.
+- 2012-05-31 — Signed by President.

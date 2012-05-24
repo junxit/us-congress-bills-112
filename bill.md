@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 5740
-congress: 112th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5740
 
-That the bill from the House of Representatives (H.R. 5740) entitled “An Act to extend the National Flood Insurance Program, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To extend the National Flood Insurance Program, and for other purposes.
 
 ## § 1. Extension of the national flood insurance program
 
