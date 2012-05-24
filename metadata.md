@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 455
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 455
@@ -16,7 +16,7 @@ A resolution designating June 27, 2012, as "National Post-Traumatic Stress Disor
 
 - Sen. Conrad, Kent [D-ND] (C000705)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
@@ -31,6 +31,7 @@ A resolution designating June 27, 2012, as "National Post-Traumatic Stress Disor
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Kerry, John F. [D-MA] (K000148)
 - Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Franken, Al [D-MN] (F000457)
 
 ## Committees (1)
 
@@ -41,3 +42,7 @@ A resolution designating June 27, 2012, as "National Post-Traumatic Stress Disor
 - 2012-05-10 — Introduced in Senate
 - 2012-05-10 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S3089-3090)
 - 2012-05-10 — Sponsor introductory remarks on measure. (CR S3090)
+- 2012-05-24 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S3658-3659)
+- 2012-05-24 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S3658-3659)
+- 2012-05-24 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3658-3659)
+- 2012-05-24 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3658-3659)

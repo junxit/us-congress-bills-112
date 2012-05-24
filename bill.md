@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. RES. 455
 
-> Designating June 27, 2012, as “National Post-Traumatic Stress Disorder Awareness Day”.
+> Designating June 27, 2012, as National Post-Traumatic Stress Disorder Awareness Day.
 
 ## Preamble
 
@@ -24,6 +24,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That the Senate—
 
-- **(1)** designates June 27, 2012, as “National Post-Traumatic Stress Disorder Awareness Day”;
+- **(1)** designates June 27, 2012, as National Post-Traumatic Stress Disorder Awareness Day;
 - **(2)** supports the efforts of the Secretary of Veterans Affairs and the Secretary of Defense to educate servicemembers, veterans, the families of servicemembers and veterans, and the public about the causes, symptoms, and treatment of post-traumatic stress disorder (referred to in this resolution as “PTSD”); and
 - **(3)** respectfully requests that the Secretary of the Senate transmit a copy of this resolution to the Secretary of Veterans Affairs and the Secretary of Defense.
