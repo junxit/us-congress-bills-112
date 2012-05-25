@@ -1,0 +1,12 @@
+---
+legis-num: H.R. 5857
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5857
+
+> Making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2013, and for other purposes.
+
+That the following sums are appropriated, out of any money in the Treasury not otherwise appropriated, for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2013, and for other purposes, namely:
