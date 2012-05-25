@@ -1,7 +1,7 @@
 ---
 measure: S. 2367
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “and lunatic”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “lunatic,”. | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a), by striking “committee of estates of lunatics,”; and | the bill names no machine-readable US Code section |
-| — | strike | in subsection (b), by striking “committee of estates of lunatics”. | the bill names no machine-readable US Code section |
+| — | strike | in subsection (j), by striking “committee of estates of lunatics”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e), by striking “receiver, and committee of estates of lunatics” and inserting “and receiver”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (f), by striking “receiver, or committee of estates of lunatics” and inserting “or receiver”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e), by striking “receiver, and committee of estates of lunatics” and inserting “and receiver”; and | the bill names no machine-readable US Code section |

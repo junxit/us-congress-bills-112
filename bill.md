@@ -1,8 +1,8 @@
 ---
 legis-num: S. 2367
-congress: 112th CONGRESS
+congress: One Hundred Twelfth Congress of the United States of America
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2367
@@ -21,7 +21,7 @@ This Act may be cited as the “21st Century Language Act of 2012”.
 - **(b)** *Banking law provisions*
   - **(1)** *Trust powers* The first section of the Act entitled “An Act to place authority over the trust powers of national banks in the Comptroller of the Currency”, approved September 28, 1962 (12 U.S.C. 92a), is amended—
     - **(A)** in subsection (a), by striking “committee of estates of lunatics,”; and
-    - **(B)** in subsection (b), by striking “committee of estates of lunatics”.
+    - **(B)** in subsection (j), by striking “committee of estates of lunatics”.
   - **(2)** *Consolidation and mergers of banks* The National Bank Consolidation and Merger Act (12 U.S.C. 215 et seq.) is amended—
     - **(A)** in section 2 (12 U.S.C. 215)—
       - **(i)** in subsection (e), by striking “receiver, and committee of estates of lunatics” and inserting “and receiver”; and
