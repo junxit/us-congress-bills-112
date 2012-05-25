@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5651
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5651
@@ -33,3 +33,7 @@ Food and Drug Administration Reform Act of 2012
 - 2012-05-09 — Introduced in House
 - 2012-05-09 — Introduced in House
 - 2012-05-09 — Referred to the House Committee on Energy and Commerce.
+- 2012-05-11 — Referred to the Subcommittee on Health.
+- 2012-05-25 — Placed on the Union Calendar, Calendar No. 348.
+- 2012-05-25 — Reported by the Committee on Energy and Commerce. H. Rept. 112-495.
+- 2012-05-25 — Reported by the Committee on Energy and Commerce. H. Rept. 112-495.
