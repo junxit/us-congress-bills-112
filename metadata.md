@@ -1,7 +1,7 @@
 ---
 measure: S. 414
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 414
@@ -54,9 +54,10 @@ International Protecting Girls by Preventing Child Marriage Act of 2011
 - Sen. Roberts, Pat [R-KS] (R000307)
 - Sen. Franken, Al [D-MN] (F000457)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -68,3 +69,6 @@ International Protecting Girls by Preventing Child Marriage Act of 2011
 - 2012-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 412.
 - 2012-05-24 — Passed Senate without amendment by Voice Vote. (consideration: CR S3655-3657; text as passed Senate: CR S3656-3657)
 - 2012-05-24 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S3655-3657; text as passed Senate: CR S3656-3657)
+- 2012-05-25 — Message on Senate action sent to the House.
+- 2012-05-29 — Received in the House.
+- 2012-05-29 — Referred to the House Committee on Foreign Affairs.
