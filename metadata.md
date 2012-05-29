@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3541
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3541
@@ -16,7 +16,7 @@ Prenatal Nondiscrimination Act (PRENDA) of 2012
 
 - Rep. Franks, Trent [R-AZ-2] (F000448)
 
-## Cosponsors (54)
+## Cosponsors (98)
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Huelskamp, Tim [R-KS-1] (H001057)
@@ -72,6 +72,50 @@ Prenatal Nondiscrimination Act (PRENDA) of 2012
 - Rep. Miller, Jeff [R-FL-1] (M001144)
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Cravaack, Chip [R-MN-8] (C001086)
+- Rep. Canseco, Francisco "Quico" [R-TX-23] (C001082)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. King, Steve [R-IA-5] (K000362)
+- Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Rep. Herger, Wally [R-CA-2] (H000528)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Duncan, Jeff [R-SC-3] (D000615)
+- Rep. Gowdy, Trey [R-SC-4] (G000566)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Ellmers, Renee L. [R-NC-2] (E000291)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Austria, Steve [R-OH-7] (A000365)
+- Rep. Griffin, Tim [R-AR-2] (G000567)
+- Rep. Flake, Jeff [R-AZ-6] (F000444)
+- Rep. Hunter, Duncan D. [R-CA-52] (H001048)
+- Rep. Landry, Jeffrey M. [R-LA-3] (L000574)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. Pompeo, Mike [R-KS-4] (P000602)
+- Rep. West, Allen B. [R-FL-22] (W000807)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Schweikert, David [R-AZ-5] (S001183)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Benishek, Dan [R-MI-1] (B001271)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Bucshon, Larry [R-IN-8] (B001275)
+- Rep. Gosar, Paul A. [R-AZ-1] (G000565)
 
 ## Committees (1)
 
@@ -82,3 +126,13 @@ Prenatal Nondiscrimination Act (PRENDA) of 2012
 - 2011-12-01 — Introduced in House
 - 2011-12-01 — Introduced in House
 - 2011-12-01 — Referred to the House Committee on the Judiciary.
+- 2011-12-05 — Referred to the Subcommittee on the Constitution.
+- 2011-12-06 — Subcommittee Hearings Held.
+- 2012-02-02 — Subcommittee on the Constitution Discharged.
+- 2012-02-07 — Committee Consideration and Mark-up Session Held.
+- 2012-02-08 — Committee Consideration and Mark-up Session Held.
+- 2012-02-16 — Committee Consideration and Mark-up Session Held.
+- 2012-02-16 — Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 13.
+- 2012-05-29 — Placed on the Union Calendar, Calendar No. 349.
+- 2012-05-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-496.
+- 2012-05-29 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-496.
