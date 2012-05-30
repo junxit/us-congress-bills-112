@@ -1,7 +1,7 @@
 ---
 measure: S. 363
 congress: 112
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 363
@@ -44,3 +44,13 @@ A bill to authorize the Secretary of Commerce to convey property of the National
 - 2011-11-14 — Message on Senate action sent to the House.
 - 2011-11-14 — Received in the House.
 - 2011-11-14 — Referred to the House Committee on Natural Resources.
+- 2011-11-29 — Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.
+- 2011-12-15 — Subcommittee Hearings Held.
+- 2012-01-26 — By Senator Rockefeller from Committee on Commerce, Science, and Transportation filed written report. Report No. 112-133.
+- 2012-01-26 — By Senator Rockefeller from Committee on Commerce, Science, and Transportation filed written report. Report No. 112-133.
+- 2012-04-25 — Committee Consideration and Mark-up Session Held.
+- 2012-04-25 — Ordered to be Reported by Unanimous Consent.
+- 2012-04-25 — Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.
+- 2012-05-30 — Placed on the Union Calendar, Calendar No. 355.
+- 2012-05-30 — Reported by the Committee on Natural Resources. H. Rept. 112-502.
+- 2012-05-30 — Reported by the Committee on Natural Resources. H. Rept. 112-502.
