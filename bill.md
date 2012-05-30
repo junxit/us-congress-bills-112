@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 460
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,7 +19,7 @@ For the purposes of this Act, the term “Diamond Fork System” means the facil
 
 ## § 3. Cost allocations
 
-Notwithstanding any other provision of law, in order to facilitate hydropower development on the Diamond Fork System, the amount of reimbursable costs allocated to project power in Chapter 6 of the Power Appendix in the October 2004 Supplement to the 1988 Bonneville Unit Definite Plan Report, with regard to power development within the Diamond Fork System, shall be considered final costs as well as costs in excess of the total maximum repayment obligation as defined in section 211 of the Central Utah Project Completion Act of 1992 (Public Law 102–575), and shall be subject to the same terms and conditions.
+Notwithstanding any other provision of law, in order to facilitate hydropower development on the Diamond Fork System, the amount of reimbursable costs allocated to project power in Chapter 6 of the Power Appendix in the October 2004 Supplement to the 1988 Bonneville Unit Definite Plan Report, with regard to power development upstream of the Diamond Fork System, shall be considered final costs as well as costs in excess of the total maximum repayment obligation as defined in section 211 of the Central Utah Project Completion Act of 1992 (Public Law 102–575), and shall be subject to the same terms and conditions.
 
 ## § 4. No purchase or market obligation; no costs assigned to power
 
