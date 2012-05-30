@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4201
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4201
@@ -95,6 +95,10 @@ Servicemember Family Protection Act
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2012-05-30 — [House 112-2-295](votes/house-112-2-0295.md) — On Motion to Suspend the Rules and Pass — **Passed** (390–2)
+
 ## Actions
 
 - 2012-03-16 — Introduced in House
@@ -105,3 +109,11 @@ Servicemember Family Protection Act
 - 2012-05-18 — Placed on the Union Calendar, Calendar No. 341.
 - 2012-05-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 112-488.
 - 2012-05-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 112-488.
+- 2012-05-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-05-30 — Considered as unfinished business. (consideration: CR H3248-3249)
+- 2012-05-30 — Considered under suspension of the rules. (consideration: CR H3234-3236)
+- 2012-05-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4201.
+- 2012-05-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-30 — Mr. Stearns moved to suspend the rules and pass the bill.
+- 2012-05-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 2 (Roll no. 295). (text: CR H3234)
+- 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 2 (Roll no. 295).(text: CR H3234)
