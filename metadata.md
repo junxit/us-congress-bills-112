@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3310
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3310
@@ -46,3 +46,9 @@ Federal Communications Commission Consolidated Reporting Act of 2012
 - 2012-04-16 — Placed on the Union Calendar, Calendar No. 310.
 - 2012-04-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-443.
 - 2012-04-16 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-443.
+- 2012-05-30 — Considered under suspension of the rules. (consideration: CR H3230-3234)
+- 2012-05-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3310.
+- 2012-05-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-30 — Mr. Scalise moved to suspend the rules and pass the bill, as amended.
+- 2012-05-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3230-3231)
+- 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3230-3231)
