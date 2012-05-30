@@ -1,7 +1,7 @@
 ---
 measure: S. 363
 congress: 112
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 363
@@ -54,3 +54,17 @@ A bill to authorize the Secretary of Commerce to convey property of the National
 - 2012-05-30 — Placed on the Union Calendar, Calendar No. 355.
 - 2012-05-30 — Reported by the Committee on Natural Resources. H. Rept. 112-502.
 - 2012-05-30 — Reported by the Committee on Natural Resources. H. Rept. 112-502.
+- 2012-06-05 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Hastings (WA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2012-06-05 — Considered under suspension of the rules. (consideration: CR 3440-3441)
+- 2012-06-05 — DEBATE - The House proceeded with forty minutes of debate on S. 363.
+- 2012-06-05 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2012-06-06 — Considered as unfinished business. (consideration: CR H3575)
+- 2012-06-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 6/5/2012 H3440)
+- 2012-06-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 6/5/2012 H3440)
+- 2012-06-07 — Presented to President.
+- 2012-06-07 — Presented to President.
+- 2012-06-15 — Became Public Law No: 112-134.
+- 2012-06-15 — Became Public Law No: 112-134.
+- 2012-06-15 — Signed by President.
+- 2012-06-15 — Signed by President.
