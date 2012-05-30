@@ -1,7 +1,7 @@
 ---
 measure: S. 925
 congress: 112
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 925
@@ -33,3 +33,10 @@ Mt. Andrea Lawrence Designation Act of 2011
 - 2011-10-19 — Message on Senate action sent to the House.
 - 2011-10-21 — Received in the House.
 - 2011-10-21 — Referred to the House Committee on Natural Resources.
+- 2011-10-24 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2012-04-25 — Committee Consideration and Mark-up Session Held.
+- 2012-04-25 — Ordered to be Reported by Unanimous Consent.
+- 2012-04-25 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-05-30 — Placed on the House Calendar, Calendar No. 135.
+- 2012-05-30 — Reported by the Committee on Natural Resources. H. Rept. 112-506.
+- 2012-05-30 — Reported by the Committee on Natural Resources. H. Rept. 112-506.
