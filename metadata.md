@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1237
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1237
@@ -25,3 +25,11 @@ To provide for a land exchange with the Trinity Public Utilities District of Tri
 - 2011-03-29 — Introduced in House
 - 2011-03-29 — Introduced in House
 - 2011-03-29 — Referred to the House Committee on Natural Resources.
+- 2011-03-31 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2011-12-02 — Subcommittee Hearings Held.
+- 2012-04-25 — Committee Consideration and Mark-up Session Held.
+- 2012-04-25 — Ordered to be Reported by Unanimous Consent.
+- 2012-04-25 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-05-30 — Placed on the Union Calendar, Calendar No. 353.
+- 2012-05-30 — Reported by the Committee on Natural Resources. H. Rept. 112-500.
+- 2012-05-30 — Reported by the Committee on Natural Resources. H. Rept. 112-500.
