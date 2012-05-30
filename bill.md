@@ -1,17 +1,17 @@
 ---
 legis-num: H.R. 1272
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 1272
 
-> To provide for the use and distribution of the funds awarded to the Minnesota Chippewa Tribe, et al, by the United States Court of Federal Claims in Docket Numbers 19 and 188, and for other purposes.
+> To provide for the use and distribution of the funds awarded to the Minnesota Chippewa Tribe, et al., by the United States Court of Federal Claims in Docket Numbers 19 and 188, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Minnesota Chippewa Tribe Judgment Fund Distribution Act of 2011”.
+This Act may be cited as the “Minnesota Chippewa Tribe Judgment Fund Distribution Act of 2012”.
 
 ## § 2. Findings
 
@@ -32,7 +32,7 @@ For the purpose of this Act:
 - **(1)** *Available funds* The term available funds means the funds awarded to the Minnesota Chippewa Tribe and interest earned and received on those funds, less the funds used for payments authorized under section 4.
 - **(2)** *Bands* The term Bands means the Bois Forte Band, Fond du Lac Band, Grand Portage Band, Leech Lake Band, Mille Lacs Band, and White Earth Band.
 - **(3)** *Judgment funds* The term judgment funds means the funds awarded on May 26, 1999, to the Minnesota Chippewa Tribe by the Court of Federal Claims in Docket No. 19 and 188.
-- **(4)** *Minnesota chippewa tribe* The term Minnesota Chippewa Tribe means the Minnesota Chippewa Tribe, Minnesota, composed of the Bois Forte Band, Fond du Lac Band, Grand Portage Band, Leech Lake Band, Mille Lacs Band, and White Earth Band. It does not include Red Lake Band of Chippewa Indians, Minnesota.
+- **(4)** *Minnesota Chippewa tribe* The term Minnesota Chippewa Tribe means the Minnesota Chippewa Tribe, Minnesota, composed of the Bois Forte Band, Fond du Lac Band, Grand Portage Band, Leech Lake Band, Mille Lacs Band, and White Earth Band. It does not include Red Lake Band of Chippewa Indians, Minnesota.
 - **(5)** *Secretary* The term Secretary means the Secretary of the Interior.
 
 ## § 4. Loan reimbursements to Minnesota Chippewa Tribe
@@ -46,19 +46,19 @@ For the purpose of this Act:
 
 ## § 5. Division of judgment funds
 
-- **(a)** *Membership rolls* Not later than 90 days after the date of the enactment of this Act, the Minnesota Chippewa Tribe shall submit to the Secretary updated membership rolls for each Band which shall include all enrolled members living on the date of enectment of this Act.
-- **(b)** *Divisions* After all funds have been reimbursed under section 4, and the membership rolls have been updated, the Secretary shall—
+- **(a)** *Membership rolls* Not later than 90 days after the date of the enactment of this Act, the Minnesota Chippewa Tribe shall submit to the Secretary updated membership rolls for each Band, which shall include all enrolled members the date of the enactment of this Act.
+- **(b)** *Divisions* After all funds have been reimbursed under section 4, and the membership rolls have been updated under subsection (a), the Secretary shall—
   - **(1)** set aside for each Band a portion of the available judgment funds equivalent to $300 for each member enrolled within each Band; and
-  - **(2)** after the funds are divided in accordance with paragraph (1), divide 100 percent of the funds remaining into equal shares for each Band.
+  - **(2)** after the funds are set aside in accordance with paragraph (1), divide 100 percent of the remaining funds into equal shares for each Band.
 - **(c)** *Separate accounts* The Secretary shall—
   - **(1)** deposit all funds described in subsection (b)(1) into a “Per Capita” account for each Band; and
   - **(2)** deposit all funds described in subsection (b)(2) into an “Equal Shares” account for each Band.
-- **(d)** *Withdrawl of funds* After the Secretary deposits the available funds into the accounts described in subsection (c), a Band may withdraw all or part of the monies in its account.
+- **(d)** *Withdrawal of funds* After the Secretary deposits the available funds into the accounts described in subsection (c), a Band may withdraw all or part of the monies in its account.
 - **(e)** *Disbursement of per capita payments* All funds described in subsection (b)(1) shall be used by each Band only for the purposes of distributing one $300 payment to each individual member of the Band. Each Band may—
-  - **(1)** distribute an additional $300 to the parents or legal guardians for each dependent Band member instead of distributing $300 payments to the dependent Band members themselves; or
-  - **(2)** deposit into a trust account the $300 payments of each dependent Band member for the benefit of such dependent Band members, such funds to be distributed under the terms of said trust.
+  - **(1)** distribute the $300 payment to the parents or legal guardians on behalf of each dependent Band member instead of distributing such $300 payment to the dependent Band member; or
+  - **(2)** deposit into a trust account the $300 payment to each dependent Band member for the benefit of such dependent Band member, to be distributed under the terms of such trust.
 - **(f)** *Distribution of unclaimed payments* One year after the funds described in subsection (b)(1) are made available to the Bands, all unclaimed payments described in subsection (e) shall be returned to the Secretary, who shall divide these funds into equal shares for each Band, and deposit the divided shares into the accounts described in subsection (c)(2) for the use of each Band.
-- **(g)** *Liability* If a Band exercises the right to withdraw monies from its accounts, the Secretary shall not retain liability for the expenditure or investment of the monies after they are withdrawn.
+- **(g)** *Liability* If a Band exercises the right to withdraw monies from its accounts, the Secretary shall not retain liability for the expenditure or investment of the monies after each withdrawal.
 
 ## § 6. General provisions
 
