@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1299
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,21 +11,32 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Secure Border Act of 2011”.
+This Act may be cited as the “Secure Border Act of 2012”.
 
 ## § 2. Strategy to achieve operational control of the border
 
-- **(a)** *Findings* Congress finds the following:
-  - **(1)** The border shared by the United States and Mexico, and numerous Mexican towns in close proximity to that border, have experienced a dramatic surge in crime and violence to ongoing activity among rival Mexican drug cartels and criminal smuggling organizations that employ predatory tactics to realize their profits.
-  - **(2)** In August 2005, the States of New Mexico and Arizona declared states of emergency in order to provide local law enforcement immediate assistance in addressing criminal activity along the Southwest border.
-  - **(3)** A recent Government Accountability Office report found that only 44 percent of the Southwest border was under operational control, and less than two percent of the Northern border is under operational control.
-  - **(4)** It is the obligation of the Federal Government to adequately secure the borders of the United States and prevent the flow into the United States of undocumented persons, unlawful drugs, and other contraband.
-- **(b)** *Strategy* Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs Committee of the Senate a comprehensive strategy for gaining operational control of the international borders of the United States within five years. The strategy shall include an analysis of the following:
+- **(a)** *Strategy to secure the border between the ports of entry* Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the appropriate congressional committees a comprehensive strategy for gaining, within five years, operational control of the international borders between the ports of entry of the United States. The strategy shall include an analysis of the following:
   - **(1)** Staffing requirements for all border security functions.
   - **(2)** Investment in infrastructure, including pedestrian fencing, vehicle barriers, and roads.
-  - **(3)** The use of unmanned aerial vehicles, camera technology, and sensors.
-  - **(4)** Cooperation agreements with international, State, local, tribal, and other Federal law enforcement agencies that have jurisdiction on the border.
-  - **(5)** Other means designed to detect, respond to, and interdict cross-border unlawful activity and to reduce the level of violence.
+  - **(3)** The use of unmanned aerial vehicles, camera technology, sensors, and other innovative technology as the Secretary may determine.
+  - **(4)** Cooperative agreements with international, State, local, tribal, and other Federal law enforcement agencies that have jurisdiction on the northern border and southern border.
+  - **(5)** Other means designed to detect, respond to, and interdict unlawful cross-border activity and to reduce the level of violence.
   - **(6)** A schedule for implementing security measures, including a prioritization for future investments.
-  - **(7)** Considerations of risks to border communities and law enforcement.
-- **(c)** *Operational control defined* In this Act, the term “operational control” has the meaning given such term in section 2(b) of the Secure Fence Act of 2006 (8 U.S.C. 1701 note; Public Law 109–367).
+  - **(7)** A comprehensive technology plan for major surveillance and detection technology programs, including a justification and rationale for technology choices and deployment locations.
+  - **(8)** The recommendations made in the December 2010 Government Accountability Office report entitled “Enhanced DHS Oversight and Assessment of Interagency Coordination is Needed for the Northern Border”.
+- **(b)** *Securing the border at ports of entry* Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security shall develop metrics to measure the effectiveness of security at ports of entry, which shall consider, at minimum, the following:
+  - **(1)** The number of infractions related to personnel and cargo committed by major violators who are apprehended by U.S. Customs and Border Protection at such ports of entry.
+  - **(2)** The estimated number of such infractions committed by major violators who are not so apprehended.
+  - **(3)** The required number of U.S. Customs and Border Protection Officers, Agricultural Specialists, and Canine Enforcement Officers necessary to achieve operational control at such ports of entry.
+  - **(4)** Infrastructure improvements required to achieve operational control at such ports of entry, including the installation of nonintrusive detection equipment, radiation portal monitors, biometrics, and other sensors and technology that the Secretary determines necessary.
+  - **(5)** The deployment of resources based on the overall commercial and passenger traffic, cargo volume, and threat environment at such ports of entry.
+  - **(6)** The recommendations made in the December 2010 Government Accountability Office report entitled “Enhanced DHS Oversight and Assessment of Interagency Coordination is Needed for the Northern Border”.
+- **(c)** *Evaluation by Department of Energy National Laboratory* The Secretary of Homeland Security shall request the head of an appropriate Department of Energy National Laboratory with prior expertise in border security to evaluate the measurement system required under subsection (b) to ensure its suitability and statistical validity for analyzing progress for the interdiction of illegal crossing and contraband at ports of entry.
+- **(d)** *Consideration of alternative border security standards* If in developing the strategic plan required under subsection (a) the Secretary of Homeland Security makes a determination to measure security between border ports of entry by a standard other than operational control, the Secretary shall request the head of an appropriate Department of Energy National Laboratory with prior expertise in border security to evaluate such alternative standard to ensure the suitability and statistical validity of such standard with respect to measuring the progress for the interdiction of illegal crossings and contraband that pass between such ports of entry.
+- **(e)** *Reports* Not later than 60 days after the date of the enactment of this Act and annually thereafter, the Secretary of Homeland Security shall submit the appropriate congressional committee a report on the following:
+  - **(1)** A resource allocation model for current and future year staffing requirements that includes optimal staffing levels at all land, air, and sea ports of entry and an explanation of U.S. Customs and Border Protection methodology for aligning staffing levels and workload to threats and vulnerabilities across all mission areas.
+  - **(2)** Detailed information on the level of manpower data available at all land, air, and sea ports of entry, including the number of canine and agricultural officers assigned to each such port of entry.
+- **(f)** *Definitions* In this Act:
+  - **(1)** *Appropriate congressional committee* The term “appropriate congressional committee” means the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+  - **(2)** *Major violator* The term “major violator” means a person or entity that is or has engaged in serious criminal activities at any land, air, or sea port of entry, including possession of narcotics, smuggling of prohibited products, human smuggling, weapons possession, use of fraudulent United States documents, and other offenses serious enough to result in arrest.
+  - **(3)** *Operational control* The term “operational control” has the meaning given such term in section 2(b) of the Secure Fence Act of 2006 (8 U.S.C. 1701 note; Public Law 109–367).
