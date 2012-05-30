@@ -1,7 +1,7 @@
 ---
 measure: H.R. 915
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 915
@@ -26,6 +26,10 @@ Jaime Zapata Border Enforcement Security Task Force Act
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2012-05-30 — [House 112-2-296](votes/house-112-2-0296.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (391–2)
+
 ## Actions
 
 - 2011-03-03 — Introduced in House
@@ -39,3 +43,11 @@ Jaime Zapata Border Enforcement Security Task Force Act
 - 2011-11-04 — Placed on the Union Calendar, Calendar No. 179.
 - 2011-11-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-268.
 - 2011-11-04 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-268.
+- 2012-05-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-05-30 — Considered as unfinished business. (consideration: CR H3249-3250)
+- 2012-05-30 — Considered under suspension of the rules. (consideration: CR H3243-3245)
+- 2012-05-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 915.
+- 2012-05-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-30 — Mr. King (NY) moved to suspend the rules and pass the bill, as amended.
+- 2012-05-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 2 (Roll no. 296). (text: CR H3243-3244)
+- 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 2 (Roll no. 296).(text: CR H3243-3244)
