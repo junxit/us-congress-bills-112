@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2764
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2764
@@ -41,3 +41,9 @@ WMD Intelligence and Information Sharing Act of 2012
 - 2012-05-08 — Placed on the Union Calendar, Calendar No. 326.
 - 2012-05-08 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-466.
 - 2012-05-08 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-466.
+- 2012-05-30 — Considered under suspension of the rules. (consideration: CR H3241-3243)
+- 2012-05-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2764.
+- 2012-05-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-30 — Mr. King (NY) moved to suspend the rules and pass the bill, as amended.
+- 2012-05-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3241-3242)
+- 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3241-3242)
