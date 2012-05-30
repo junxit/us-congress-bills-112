@@ -21,7 +21,7 @@ Section 2312 of the Export Enhancement Act of 1988 (relating to the Trade Promot
   - **(A)** in paragraph (5), by striking “and” after the semicolon;
   - **(B)** by redesignating paragraph (6) as paragraph (7); and
   - **(C)** by inserting after paragraph (5) the following:
-    > - **(6)** in making the assessments under paragraph (5), review the proposed annual budget of each agency described in paragraph (5) before the agency submits that budget to the Office of Management and Budget and the President for inclusion in the budget of the United States submitted to Congress under section 1105(a) of title 31, United States Code; and
+    > - **(6)** in making the assessments under paragraph (5), review the proposed annual budget of each agency described in paragraph (5), under procedures established by the Committee for such review, before the agency submits that budget to the Office of Management and Budget and the President for inclusion in the budget of the United States submitted to Congress under section 1105(a) of title 31, United States Code; and
 
 - **(2)** in subsection (c)—
   - **(A)** by redesignating paragraphs (3) through (6) as paragraphs (4) through (7), respectively; and
@@ -36,24 +36,20 @@ Section 2312 of the Export Enhancement Act of 1988 (relating to the Trade Promot
 
 Section 2301(c)(4) of the Export Enhancement Act of 1988 (relating to the United States and Foreign Commercial Service; 15 U.S.C. 4721(c)(4)) is amended—
 
-- **(1)** by redesignating subparagraphs (B) through (F) as subparagraphs (C) through (G), respectively;
+- **(1)** by redesignating subparagraphs (B) through (F) as subparagraphs (C) through (G), respectively; and
 - **(2)** by striking “(4) Foreign offices.—(A) The Secretary may” and inserting the following:
   > - **(4)** *Foreign offices*
   >   - **(A)**
-  >     - **(i)** The Secretary shall conduct a global assessment of overseas markets to determine those with the greatest potential for increasing United States exports, and to redeploy the Commercial Service personnel and other resources on the basis of the global assessment.
+  >     - **(i)** In consultation with the Trade Promotion Coordinating Committee, the Secretary shall conduct a global assessment of overseas markets to determine those with the greatest potential for increasing United States exports, and to deploy the Commercial Service personnel and other resources on the basis of the global assessment.
   >     - **(ii)** The assessment conducted under clause (i) shall take into account recommendations from a representative number of United States exporters, in particular small- and medium-sized businesses, and representatives of United States workers.
-  >     - **(iii)** Not later than 6 months after the date of enactment of the Export Promotion Reform Act, the Secretary shall submit to Congress results of the global assessment conducted under clause (i) and a plan for redeployment of Commercial Service personnel and other resources on the basis of the global assessment.
-  >     - **(iv)** The Secretary shall conduct an assessment and redeployment described in clause (i) not less than once in every 5-year period.
+  >     - **(iii)** Not later than 6 months after the date of enactment of the Export Promotion Reform Act, the Secretary shall submit to Congress results of the global assessment conducted under clause (i) and a plan for deployment of Commercial Service personnel and other resources on the basis of the global assessment.
+  >     - **(iv)** The Secretary shall conduct an assessment and deployment described in clause (i) not less than once in every 5-year period.
   >   - **(B)** The Secretary may
-
-- **(3)** in subparagraph (F), as redesignated, by striking “is authorized, upon the request of the Secretary, to provide” and inserting “shall, upon the request of the Secretary, provide”.
 
 ## § 4. Strengthened U.S. commercial diplomacy in support of U.S. exports
 
-- **(a)** *Development of plan* Section 207(c) of the Foreign Service Act of 1980 (22 U.S.C. 3927(c)) is amended—
-  - **(1)** by inserting before the period at the end the following: “, including through the development of a plan, drafted in consultation with the ambassador to such country, the Director General of the United States and Foreign Commercial Service, and the heads of other Federal departments and agencies with export promotion programs acting through the Trade Promotion Coordinating Committee, for effective diplomacy to remove or reduce obstacles to exports of United States goods and services”; and
-  - **(2)** by adding at the end the following new sentence: “The chief of mission shall, prior to implementation of the plan required under this subsection, submit to the Secretary such plan for review by the Secretary.”.
-- **(b)** *Assessments and promotions* Section 603(a) of the Foreign Service Act of 1980 (22 U.S.C. 4003(a)) is amended, in the second sentence, by inserting before “and (with respect to” the following: “assessments (with respect to members of the Service with responsibilities relating to economic affairs) of the effectiveness of efforts to promote the export of United States goods and services in accordance with a commercial diplomacy plan developed pursuant to section 207(c),”.
+- **(a)** *Development of plan* Section 207(c) of the Foreign Service Act of 1980 (22 U.S.C. 3927(c)) is amended by inserting before the period at the end the following: “, including through the development of a plan, drafted in consultation with the Trade Promotion Coordinating Committee, for effective diplomacy to remove or reduce obstacles to exports of United States goods and services”.
+- **(b)** *Assessments and promotions* Section 603(b) of the Foreign Service Act of 1980 (22 U.S.C. 4003(b)) is amended, in the second sentence, by inserting after “expertise” the following: “and (with respect to members of the Service with responsibilities relating to economic affairs) of the effectiveness of efforts to promote the export of United States goods and services in accordance with a commercial diplomacy plan developed pursuant to section 207(c),”.
 - **(c)** *Inspector General* Section 209(b) of the Foreign Service Act of 1980 (22 U.S.C. 3929(b)) is amended—
   - **(1)** in paragraph (4), by striking “and” at the end;
   - **(2)** by redesignating paragraph (5) as paragraph (6); and

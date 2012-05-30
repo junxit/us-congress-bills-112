@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4041
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 0 executed, 15 stated and not applied.
+13 amendatory instructions. 0 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -36,13 +36,11 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after paragraph (5) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (3) through (6) as paragraphs (4) through (7), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (B) through (F) as subparagraphs (C) through (G), respectively; | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (B) through (F) as subparagraphs (C) through (G), respectively; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “(4) Foreign offices.—(A) The Secretary may” and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (F), as redesignated, by striking “is authorized, upon the request of the Secretary, to provide” and inserting “shall, upon the request of the Secretary, provide”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting before the period at the end the following: “, including through the development of a plan, drafted in consultation with the ambassador to such country, the Director General of the United States and Foreign Commercial Servic… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new sentence: “The chief of mission shall, prior to implementation of the plan required under this subsection, submit to the Secretary such plan for review by the Secretary.”. | the bill names no machine-readable US Code section |
-| — | insert | Section 603(a) of the Foreign Service Act of 1980 (22 U.S.C. 4003(a)) is amended, in the second sentence, by inserting before “and (with respect to” the following: “assessments (with respect to members of the Service with responsibilitie… | the bill names no machine-readable US Code section |
+| — | insert | Section 207(c) of the Foreign Service Act of 1980 (22 U.S.C. 3927(c)) is amended by inserting before the period at the end the following: “, including through the development of a plan, drafted in consultation with the Trade Promotion Co… | the bill names no machine-readable US Code section |
+| — | insert | Section 603(b) of the Foreign Service Act of 1980 (22 U.S.C. 4003(b)) is amended, in the second sentence, by inserting after “expertise” the following: “and (with respect to members of the Service with responsibilities relating to econom… | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (4), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (5) as paragraph (6); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (4) the following new paragraph: | the bill names no machine-readable US Code section |
