@@ -24,7 +24,7 @@ Section 105(a) of title 28, United States Code, is amended—
 
 ## § 3. Realignment within the northern district of Mississippi
 
-Section 104(a) of title 28, United States Code, is amended by striking subsection (a) and inserting the following:
+Section 104 of title 28, United States Code, is amended by striking subsection (a) and inserting the following:
 
 > - **(a)** The northern district comprises three divisions.
 >   - **(1)** The Aberdeen Division comprises the counties of Alcorn, Chickasaw, Choctaw, Clay, Itawamba, Lee, Lowndes, Monroe, Oktibbeha, Prentiss, Tishomingo, Webster, and Winston.
@@ -33,3 +33,7 @@ Section 104(a) of title 28, United States Code, is amended by striking subsectio
 >   -  Court for the Oxford Division shall be held at Oxford.
 >   - **(3)** The Greenville Division comprises the counties of Attala, Bolivar, Carroll, Coahoma, Grenada, Humphreys, Leflore, Montgomery, Sunflower, and Washington.
 >   -  Court for the Greenville Division shall be held at Clarksdale, Cleveland, and Greenville.
+
+## § 4. Effective date
+
+The amendments made by this Act take effect on the 60th day after the date of the enactment of this Act.
