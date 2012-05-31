@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4222
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4222
@@ -16,6 +16,15 @@ Pascua Yaqui Tribe Trust Land Act
 
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
 
+## Cosponsors (6)
+
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Schweikert, David [R-AZ-5] (S001183)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Gosar, Paul A. [R-AZ-1] (G000565)
+- Rep. Pastor, Ed [D-AZ-4] (P000099)
+- Rep. Quayle, Benjamin [R-AZ-3] (Q000024)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +34,11 @@ Pascua Yaqui Tribe Trust Land Act
 - 2012-03-20 — Introduced in House
 - 2012-03-20 — Introduced in House
 - 2012-03-20 — Referred to the House Committee on Natural Resources.
+- 2012-04-02 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2012-04-17 — Subcommittee Hearings Held.
+- 2012-04-25 — Committee Consideration and Mark-up Session Held.
+- 2012-04-25 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2012-04-25 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-05-31 — Placed on the Union Calendar, Calendar No. 358.
+- 2012-05-31 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-510.
+- 2012-05-31 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-510.
