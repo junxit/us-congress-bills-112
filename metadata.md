@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 667
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 667
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 5743) to authorize appropriations 
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2012-05-31 — [House 112-2-297](votes/house-112-2-0297.md) — On Ordering the Previous Question — **Passed** (233–180)
+- 2012-05-31 — [House 112-2-298](votes/house-112-2-0298.md) — On Agreeing to the Resolution — **Passed** (246–166)
+
 ## Actions
 
 - 2012-05-30 — Introduced in House
@@ -27,3 +32,11 @@ Providing for consideration of the bill (H.R. 5743) to authorize appropriations 
 - 2012-05-30 — Resolution provides for consideration of H.R. 5743; H.R. 5854; H.R. 5855; and H.R. 5325.
 - 2012-05-30 — The House Committee on Rules reported an original measure, H. Rept. 112-504, by Mr. Nugent.
 - 2012-05-30 — The House Committee on Rules reported an original measure, H. Rept. 112-504, by Mr. Nugent.
+- 2012-05-31 — Considered as privileged matter. (consideration: CR H3281-3289)
+- 2012-05-31 — DEBATE - The House proceeded with one hour of debate on H. Res. 667.
+- 2012-05-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-05-31 — Mr. Nugent asked unanimous consent that upon adoption of H.Res. 667, amendments numbered 4 and 6 printed in House Report 112-504 be modified to include amendatory instructions. Agreed to without objection.
+- 2012-05-31 — On agreeing to the resolution Agreed to by recorded vote: 246 - 166 (Roll no. 298). (text: CR H3282)
+- 2012-05-31 — On ordering the previous question Agreed to by the Yeas and Nays: 233 - 180 (Roll no. 297). (consideration: CR H3288)
+- 2012-05-31 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 246 - 166 (Roll no. 298).(text: CR H3282)
+- 2012-05-31 — Pursuant to a previous special order, amendments numbered 4 and 6 printed in House Report 112-504 are modified to include amendatory instructions.
