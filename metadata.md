@@ -1,0 +1,69 @@
+---
+measure: H.R. 5872
+congress: 112
+version: Introduced in House
+---
+
+# H.R. 5872
+
+Sequestration Transparency Act of 2012
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+
+## Cosponsors (39)
+
+- Rep. Ryan, Paul [R-WI-1] (R000570)
+- Rep. Chaffetz, Jason [R-UT-3] (C001076)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Young, Todd [R-IN-9] (Y000064)
+- Rep. Cravaack, Chip [R-MN-8] (C001086)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Rigell, E. Scott [R-VA-2] (R000589)
+- Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. Akin, W. Todd [R-MO-2] (A000358)
+- Rep. Quayle, Benjamin [R-AZ-3] (Q000024)
+- Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Walsh, Joe [R-IL-8] (W000811)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Adams, Sandy [R-FL-24] (A000366)
+- Rep. Lankford, James [R-OK-5] (L000575)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. West, Allen B. [R-FL-22] (W000807)
+- Rep. Ross, Dennis A. [R-FL-12] (R000593)
+- Rep. King, Steve [R-IA-5] (K000362)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Turner, Michael R. [R-OH-3] (T000463)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Olson, Pete [R-TX-22] (O000168)
+- Rep. Canseco, Francisco "Quico" [R-TX-23] (C001082)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Brady, Kevin [R-TX-8] (B000755)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Cassidy, Bill [R-LA-6] (C001075)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Griffin, Tim [R-AR-2] (G000567)
+
+## Committees (1)
+
+- House — Budget Committee
+
+## Actions
+
+- 2012-05-31 — Introduced in House
+- 2012-05-31 — Introduced in House
+- 2012-05-31 — Referred to the House Committee on the Budget.
