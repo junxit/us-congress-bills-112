@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4027
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4027
@@ -29,3 +29,13 @@ To clarify authority granted under the Act entitled "An Act to define the exteri
 - 2012-02-14 — Introduced in House
 - 2012-02-14 — Introduced in House
 - 2012-02-14 — Referred to the House Committee on Natural Resources.
+- 2012-02-17 — Referred to the Subcommittee Indian and Alaska Native Affairs.
+- 2012-02-17 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2012-03-20 — Subcommittee Hearings Held.
+- 2012-04-25 — Committee Consideration and Mark-up Session Held.
+- 2012-04-25 — Ordered to be Reported by Unanimous Consent.
+- 2012-04-25 — Subcommittee Indian and Alaska Native Affairs Discharged.
+- 2012-04-25 — Subcommittee on Energy and Mineral Resources Discharged.
+- 2012-05-31 — Placed on the Union Calendar, Calendar No. 357.
+- 2012-05-31 — Reported by the Committee on Natural Resources. H. Rept. 112-509.
+- 2012-05-31 — Reported by the Committee on Natural Resources. H. Rept. 112-509.
