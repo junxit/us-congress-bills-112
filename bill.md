@@ -1,0 +1,35 @@
+---
+legis-num: S. 3257
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3257
+
+> To amend the Internal Revenue Code of 1986 to prohibit the use of public funds for political party conventions, and to provide for the return of previously distributed funds for deficit reduction.
+
+## § 1. Prohibiting use of presidential election campaign funds for party conventions
+
+- **(a)** *In general* Chapter 95 of the Internal Revenue Code of 1986 is amended by striking section 9008.
+- **(b)** *Clerical amendment* The table of sections of chapter 95 of such Code is amended by striking the item relating to section 9008.
+
+## § 2. Conforming amendments
+
+- **(a)** *Availability of payments to candidates* The third sentence of section 9006(c) of the Internal Revenue Code of 1986 is amended by striking “, section 9008(b)(3),”.
+- **(b)** *Reports by Federal election commission* Section 9009(a) of such Code is amended—
+  - **(1)** by adding “and” at the end of paragraph (2);
+  - **(2)** by striking the semicolon at the end of paragraph (3) and inserting a period; and
+  - **(3)** by striking paragraphs (4), (5), and (6).
+- **(c)** *Penalties* Section 9012 of such Code is amended—
+  - **(1)** in subsection (a)(1), by striking the second sentence; and
+  - **(2)** in subsection (c), by striking paragraph (2) and redesignating paragraph (3) as paragraph (2).
+- **(d)** *Availability of payments from presidential primary matching payment account* The second sentence of section 9037(a) of such Code is amended by striking “and for payments under section 9008(b)(3)”.
+
+## § 3. Return of previously submitted money for deficit reduction
+
+Any amount which is returned by the national committee of a major party or a minor party to the general fund of the Treasury from an account established under section 9008 of the Internal Revenue Code of 1986 after the date of the enactment of this Act shall be dedicated to the sole purpose of deficit reduction.
+
+## § 4. Effective date
+
+The amendments made by this Act shall apply with respect to elections occurring after December 31, 2012.
