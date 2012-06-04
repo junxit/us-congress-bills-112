@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1299
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1299
@@ -51,9 +51,10 @@ Secure Border Act of 2012
 - Rep. Hunter, Duncan D. [R-CA-52] (H001048)
 - Rep. Gosar, Paul A. [R-AZ-1] (G000565)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -74,3 +75,4 @@ Secure Border Act of 2012
 - 2012-05-30 — Mr. King (NY) moved to suspend the rules and pass the bill, as amended.
 - 2012-05-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3237)
 - 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3237)
+- 2012-06-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
