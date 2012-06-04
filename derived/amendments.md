@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5512
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `28 U.S.C. § 105` | strike | in paragraph (1), by striking “Iron,” and “Saint Genevieve,”; and | the bill quotes the text struck but describes what replaces it |
-| `28 U.S.C. § 105` | insert | by inserting “Iron,” after “Dunklin,”; and | the bill quotes the text inserted but describes where it goes |
-| `28 U.S.C. § 105` | insert | by inserting “Saint Genevieve,” after “Ripley,”. | the bill quotes the text inserted but describes where it goes |
-| `28 U.S.C. § 104` | replace | Section 104 of title 28, United States Code, is amended by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | in paragraph (1), by striking “Iron,” and “Saint Genevieve,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Iron,” after “Dunklin,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Saint Genevieve,” after “Ripley,”. | the bill names no machine-readable US Code section |
+| — | replace | Section 104 of title 28, United States Code, is amended by striking subsection (a) and inserting the following: | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5512
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5512
@@ -45,3 +45,14 @@ Divisional Realignment Act of 2012
 - 2012-05-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3191)
 - 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3191)
 - 2012-06-04 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2012-09-22 — Passed Senate without amendment by Unanimous Consent.
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-09-22 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR 9/21/2012 S6674)
+- 2012-09-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR 9/21/2012 S6674)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Presented to President.
+- 2012-09-25 — Presented to President.
+- 2012-10-05 — Became Public Law No: 112-188.
+- 2012-10-05 — Became Public Law No: 112-188.
+- 2012-10-05 — Signed by President.
+- 2012-10-05 — Signed by President.
