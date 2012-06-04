@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3310
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3310
@@ -28,9 +28,10 @@ Federal Communications Commission Consolidated Reporting Act of 2012
 - Rep. Kline, John [R-MN-2] (K000363)
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Federal Communications Commission Consolidated Reporting Act of 2012
 - 2012-05-30 — Mr. Scalise moved to suspend the rules and pass the bill, as amended.
 - 2012-05-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3230-3231)
 - 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3230-3231)
+- 2012-06-04 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
