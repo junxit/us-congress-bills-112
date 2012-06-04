@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2764
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2764
@@ -24,9 +24,10 @@ WMD Intelligence and Information Sharing Act of 2012
 - Rep. King, Peter T. [R-NY-3] (K000210)
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ WMD Intelligence and Information Sharing Act of 2012
 - 2012-05-30 — Mr. King (NY) moved to suspend the rules and pass the bill, as amended.
 - 2012-05-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3241-3242)
 - 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3241-3242)
+- 2012-06-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
