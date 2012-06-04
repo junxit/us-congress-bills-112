@@ -1,7 +1,7 @@
 ---
 measure: H.R. 915
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 915
@@ -22,9 +22,10 @@ Jaime Zapata Border Enforcement Security Task Force Act
 - Rep. Farenthold, Blake [R-TX-27] (F000460)
 - Rep. Clarke, Hansen [D-MI-13] (C001085)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Jaime Zapata Border Enforcement Security Task Force Act
 - 2012-05-30 — Mr. King (NY) moved to suspend the rules and pass the bill, as amended.
 - 2012-05-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 2 (Roll no. 296). (text: CR H3243-3244)
 - 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 2 (Roll no. 296).(text: CR H3243-3244)
+- 2012-06-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
