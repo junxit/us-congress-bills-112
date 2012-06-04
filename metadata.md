@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5651
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5651
@@ -49,3 +49,4 @@ Food and Drug Administration Reform Act of 2012
 - 2012-05-30 — Mr. Upton moved to suspend the rules and pass the bill, as amended.
 - 2012-05-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 5 (Roll no. 294). (text: CR H3192-3223)
 - 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 5 (Roll no. 294).(text: CR H3192-3223)
+- 2012-06-04 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 420.
