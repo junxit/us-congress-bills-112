@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3140
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+3 amendatory instructions. 1 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 6 U.S.C. § 124h
+
+> in subsection (l), as so redesignated, by striking “subsection (i)” and inserting “subsection (j)”; and
+
+| | |
+|---|---|
+| Removed | `subsection (i)` |
+| Inserted | `subsection (j)` |
 
 ## Stated, not applied
 
@@ -31,6 +42,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating subsections (f) through (k) as subsections (e) through (l), respectively; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (l), as so redesignated, by striking “subsection (i)” and inserting “subsection (j)”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (e) the following new subsection (f): | the bill names no machine-readable US Code section |
+| `6 U.S.C. § 124h` | redesignate | by redesignating subsections (f) through (k) as subsections (e) through (l), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 124h` | insert | by inserting after subsection (e) the following new subsection (f): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

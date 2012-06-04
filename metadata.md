@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3140
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3140
@@ -20,9 +20,10 @@ Mass Transit Intelligence Prioritization Act
 
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Mass Transit Intelligence Prioritization Act
 - 2012-05-30 — Mr. King (NY) moved to suspend the rules and pass the bill.
 - 2012-05-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3246)
 - 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3246)
+- 2012-06-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
