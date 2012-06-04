@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3670
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3670
@@ -41,10 +41,11 @@ To require the Transportation Security Administration to comply with the Uniform
 - Rep. Carnahan, Russ [D-MO-3] (C001060)
 - Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
 
-## Committees (2)
+## Committees (3)
 
 - House — Veterans' Affairs Committee
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ To require the Transportation Security Administration to comply with the Uniform
 - 2012-05-30 — Mr. King (NY) moved to suspend the rules and pass the bill.
 - 2012-05-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3239)
 - 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3239)
+- 2012-06-04 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
