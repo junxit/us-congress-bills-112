@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4041
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,16 +31,16 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | in paragraph (5), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (6) as paragraph (7); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (5) the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (3) through (6) as paragraphs (4) through (7), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (B) through (F) as subparagraphs (C) through (G), respectively; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “(4) Foreign offices.—(A) The Secretary may” and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 207(c) of the Foreign Service Act of 1980 (22 U.S.C. 3927(c)) is amended by inserting before the period at the end the following: “, including through the development of a plan, drafted in consultation with the Trade Promotion Co… | the bill names no machine-readable US Code section |
-| — | insert | Section 603(b) of the Foreign Service Act of 1980 (22 U.S.C. 4003(b)) is amended, in the second sentence, by inserting after “expertise” the following: “and (with respect to members of the Service with responsibilities relating to econom… | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (4), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (5) as paragraph (6); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (4) the following new paragraph: | the bill names no machine-readable US Code section |
+| `31 U.S.C. § 1105` | strike | in paragraph (5), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `31 U.S.C. § 1105` | redesignate | by redesignating paragraph (6) as paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 1105` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 4727` | redesignate | by redesignating paragraphs (3) through (6) as paragraphs (4) through (7), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 4727` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 632` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 4721` | redesignate | by redesignating subparagraphs (B) through (F) as subparagraphs (C) through (G), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 4721` | replace | by striking “(4) Foreign offices.—(A) The Secretary may” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 3927` | insert | Section 207(c) of the Foreign Service Act of 1980 (22 U.S.C. 3927(c)) is amended by inserting before the period at the end the following: “, including through the development of a plan, drafted in consultation with the Trade Promotion Co… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4003` | insert | Section 603(b) of the Foreign Service Act of 1980 (22 U.S.C. 4003(b)) is amended, in the second sentence, by inserting after “expertise” the following: “and (with respect to members of the Service with responsibilities relating to econom… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 3929` | strike | in paragraph (4), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 3929` | redesignate | by redesignating paragraph (5) as paragraph (6); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 3929` | insert | by inserting after paragraph (4) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

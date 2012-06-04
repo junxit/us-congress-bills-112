@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4041
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4041
@@ -20,9 +20,10 @@ Export Promotion Reform Act
 
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Export Promotion Reform Act
 - 2012-05-30 — Mr. Manzullo moved to suspend the rules and pass the bill, as amended.
 - 2012-05-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3252-3253)
 - 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3252-3253)
+- 2012-06-04 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
