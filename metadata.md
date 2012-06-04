@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5512
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5512
@@ -23,9 +23,10 @@ Divisional Realignment Act of 2012
 - Rep. Nunnelee, Alan [R-MS-1] (N000186)
 - Rep. Carnahan, Russ [D-MO-3] (C001060)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Divisional Realignment Act of 2012
 - 2012-05-30 — Mr. Coble moved to suspend the rules and pass the bill, as amended.
 - 2012-05-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3191)
 - 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3191)
+- 2012-06-04 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
