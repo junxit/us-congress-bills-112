@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3670
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `49 U.S.C. § 44935` | replace | by striking “Notwithstanding” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `49 U.S.C. § 44935` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “Notwithstanding” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3670
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3670
@@ -69,3 +69,14 @@ To require the Transportation Security Administration to comply with the Uniform
 - 2012-05-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3239)
 - 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3239)
 - 2012-06-04 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2012-08-02 — Passed Senate without amendment by Unanimous Consent.
+- 2012-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-08-02 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S6007)
+- 2012-08-02 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S6007)
+- 2012-08-03 — Message on Senate action sent to the House.
+- 2012-08-07 — Presented to President.
+- 2012-08-07 — Presented to President.
+- 2012-08-16 — Became Public Law No: 112-171.
+- 2012-08-16 — Became Public Law No: 112-171.
+- 2012-08-16 — Signed by President.
+- 2012-08-16 — Signed by President.
