@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4201
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4201
@@ -91,9 +91,10 @@ Servicemember Family Protection Act
 - Rep. Garamendi, John [D-CA-10] (G000559)
 - Rep. Black, Diane [R-TN-6] (B001273)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -117,3 +118,4 @@ Servicemember Family Protection Act
 - 2012-05-30 — Mr. Stearns moved to suspend the rules and pass the bill.
 - 2012-05-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 2 (Roll no. 295). (text: CR H3234)
 - 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 2 (Roll no. 295).(text: CR H3234)
+- 2012-06-04 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
