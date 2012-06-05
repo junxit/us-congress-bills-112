@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 128
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 128
@@ -33,3 +33,10 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an ev
 - 2012-05-30 — Introduced in House
 - 2012-05-30 — Introduced in House
 - 2012-05-30 — Referred to the House Committee on House Administration.
+- 2012-06-05 — Committee on House Administration discharged.
+- 2012-06-05 — Committee on House Administration discharged.
+- 2012-06-05 — Considered by unanimous consent. (consideration: CR H3444)
+- 2012-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-05 — Mr. Lungren, Daniel E. asked unanimous consent to discharge from committee and consider.
+- 2012-06-05 — On agreeing to the resolution Agreed to without objection. (text: CR H3444)
+- 2012-06-05 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3444)
