@@ -9,9 +9,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Internal Revenue Code of 1986 to improve health savings accounts, and for other purposes.
 
-## § 1. Table of contents
+## § 1. Short title, etc
 
-The table of contents for this Act is as follows:
+- **(a)** *Short title* This Act may be cited as the “Health Savings Accounts Improvements Act of 2012”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Saver’s credit for contributions to health savings accounts
 
@@ -26,7 +27,7 @@ The table of contents for this Act is as follows:
 
 - **(d)** *Conforming amendments* Section 25B(d)(3) of such Code, as redesignated by subsection (b), is amended—
   - **(1)** by striking the first sentence of subparagraph (A) and inserting the following: “The aggregate qualified retirement savings contributions determined under paragraph (1) and qualified HSA contributions determined under paragraph (2) shall be reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) or paragraph (2) (as the case may be) may be made.”, and
-  - **(2)** by inserting “223(f)(1) or (3),” after “section 72(p)” in subparagraph (C)(i).
+  - **(2)** by inserting “223(f)(1) or (3),” after “section 72(p),” in subparagraph (C)(i).
 - **(e)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2012.
 
 ## § 3. Special rule for certain medical expenses incurred before establishment of account

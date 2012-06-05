@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5858
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | Subsection (d) of section 25B of such Code is amended by redesignating paragraph (2) as paragraph (3) and by inserting after paragraph (1) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (12) of section 6051(a) of such Code is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking the first sentence of subparagraph (A) and inserting the following: “The aggregate qualified retirement savings contributions determined under paragraph (1) and qualified HSA contributions determined under paragraph (2) shall… | the bill names no machine-readable US Code section |
-| — | insert | by inserting “223(f)(1) or (3),” after “section 72(p)” in subparagraph (C)(i). | the bill names no machine-readable US Code section |
+| — | insert | by inserting “223(f)(1) or (3),” after “section 72(p),” in subparagraph (C)(i). | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (2) of section 223(d) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (5) of section 223(b) of the Internal Revenue Code of 1986 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (1) of section 223(c) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
