@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5743
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -33,7 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | by striking “An officer or employee of the United States or member of the Armed Forces” and inserting “(a) Civilian employees.—An officer or employee of the United States”; | the bill names no machine-readable US Code section |
 | — | strike | by striking the second sentence; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | repeal | Section 721 of the Intelligence Authorization Act for Fiscal Year 1997 (50 U.S.C. 2366) is repealed. | the bill names no machine-readable US Code section |
 | — | replace | in the heading, by striking “Additional annual reports from the Director of National Intelligence” and inserting “Annual report on hiring and retention of minority employees”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subsections (a), (c), and (d); | the bill names no machine-readable US Code section |
@@ -59,7 +59,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the item relating to section 114 and inserting the following new item: | the bill names no machine-readable US Code section |
 | — | replace | by striking the items relating to sections 603, 604, 605, and 606 and inserting the following new items: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Subject to applicable law” and inserting “(A) Subject to applicable law”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and annually thereafter,” after “Not later than 180 days after the date of the enactment of this Act,”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “submit to” and inserting “inform”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “a report on the results” and inserting “of the results”; and | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5743
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5743
@@ -16,9 +16,10 @@ Intelligence Authorization Act for Fiscal Year 2013
 
 - Rep. Rogers, Mike J. [R-MI-8] (R000572)
 
-## Committees (1)
+## Committees (2)
 
 - House — Intelligence (Permanent Select) Committee
+- Senate — Intelligence (Select) Committee
 
 ## Recorded votes (2)
 
@@ -114,3 +115,4 @@ Intelligence Authorization Act for Fiscal Year 2013
 - 2012-05-31 — The Speaker designated the Honorable Kevin Yoder to act as Chairman of the Committee.
 - 2012-05-31 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3307)
 - 2012-05-31 — The previous question was ordered pursuant to the rule. (consideration: CR H3306)
+- 2012-06-05 — Received in the Senate and Read twice and referred to the Select Committee on Intelligence.
