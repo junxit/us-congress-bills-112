@@ -51,22 +51,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(A)** by striking “on and after January 1, 1998,”;
     - **(B)** by striking “and as in effect on August 22, 1996,”; and
     - **(C)** by striking “adopted as of such date” and inserting “adopted as of September 30, 2008”.
-  - **(2)** *Conforming amendment to title 28, United States Code* Section 1738B of title 28, United States Code, is amended—
+  - **(2)** *Conforming amendments to title 28, United States Code* Section 1738B of title 28, United States Code, is amended—
     - **(A)** in subsection (d), by striking “individual contestant” and inserting “individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order,”;
     - **(B)** in subsection (e)(2)(A), by striking “individual contestant” and inserting “individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order”; and
     - **(C)** in subsection (b)—
-      - **(i)** by striking ““child” means—” and inserting “(1) The term child means”;
+      - **(i)** by striking ““child” means” and inserting “(1) The term child means”;
       - **(ii)** by striking ““child’s State” means” and inserting “(2) The term child’s State means”;
       - **(iii)** by striking ““child’s home State” means” and inserting “(3) The term child’s home State means”;
       - **(iv)** by striking ““child support” means” and inserting “(4) The term child support means”;
-      - **(v)** by striking ““child support order” means” and inserting “(5) The term child support order means”;
+      - **(v)** by striking ““child support order”” and inserting “(5) The term child support order”;
       - **(vi)** by striking ““contestant” means” and inserting “(6) The term contestant means”;
       - **(vii)** by striking ““court” means” and inserting “(7) The term court means”;
       - **(viii)** by striking ““modification” means” and inserting “(8) The term modification means”; and
       - **(ix)** by striking ““State” means” and inserting “(9) The term State means”.
   - **(3)** *Effective date; grace period for state law changes*
     - **(A)** *Paragraph (1)*
-      - **(i)** The amendments made by paragraph (1) shall take effect with respect to a State on the later of—
+      - **(i)** The amendments made by paragraph (1) shall take effect with respect to a State on the earlier of—
         - **(I)** October 1, 2013; or
         - **(II)** the effective date of laws enacted by the legislature of the State implementing such paragraph, but in no event later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act.
       - **(ii)** For purposes of clause (i), in the case of a State that has a 2-year legislative session, each year of the session shall be deemed to be a separate regular session of the State legislature.
@@ -122,7 +122,7 @@ Section 453 (42 U.S.C. 653) is amended—
   >     - **(ii)** the agreement includes such restrictions or conditions with respect to the use, safeguarding, disclosure, or redisclosure of the data or information (including by contractors or grantees) as the Secretary deems appropriate;
   >     - **(iii)** the data or information is used exclusively for the purposes defined in the agreement; and
   >     - **(iv)** the Secretary determines that the provision of data or information under this paragraph is the minimum amount needed to conduct the research, evaluation, or statistical analysis, as applicable, and will not interfere with the effective operation of the program under this part.
-  >   - **(C)** *Penalties for unauthorized disclosure of data* Any individual who willfully discloses a personal identifier (such as a name or social security number) provided under this paragraph, in any manner to an entity not entitled to receive the data or information, shall be guilty of a class E felony under title 18, United States Code. Any penalty imposed under the preceding sentence shall be in addition to any applicable penalty under subsection (l).
+  >   - **(C)** *Penalties for unauthorized disclosure of data* Any individual who willfully discloses a personal identifier (such as a name or social security number) provided under this paragraph, in any manner to an entity not entitled to receive the data or information, shall be fined under title 18, United States Code, imprisoned not more than 5 years, or both.
 
 ## § 5. Budgetary effects
 
