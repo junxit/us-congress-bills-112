@@ -1,7 +1,7 @@
 ---
 measure: H.R. 436
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | strike | Subsection (a) of section 4221 of such Code is amended by striking the last sentence. | the bill names no machine-readable US Code section |
+| — | strike | Paragraph (2) of section 6416(b) of such Code is amended by striking the last sentence. | the bill names no machine-readable US Code section |
+| — | strike | The table of subchapters for chapter 32 of such Code is amended by striking the item relating to subchapter E. | the bill names no machine-readable US Code section |
+| — | strike | Chapter 32 of the Internal Revenue Code of 1986 is amended by striking subchapter E. | the bill names no machine-readable US Code section |
 | — | strike | Subsection (a) of section 4221 of such Code is amended by striking the last sentence. | the bill names no machine-readable US Code section |
 | — | strike | Paragraph (2) of section 6416(b) of such Code is amended by striking the last sentence. | the bill names no machine-readable US Code section |
 | — | strike | The table of subchapters for chapter 32 of such Code is amended by striking the item relating to subchapter E. | the bill names no machine-readable US Code section |
