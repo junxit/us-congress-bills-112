@@ -1,7 +1,7 @@
 ---
 measure: S. 2061
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2061
@@ -28,3 +28,5 @@ Former Charleston Naval Base Land Exchange Act of 2012
 - 2012-05-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 112-171.
 - 2012-05-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 112-171.
 - 2012-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 414.
+- 2012-06-05 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S3735-3736; text of measure as reported in Senate: CR S3735; text as passed Senate: CR S3735-3736)
+- 2012-06-05 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S3735-3736; text of measure as reported in Senate: CR S3735; text as passed Senate: CR S3735-3736)
