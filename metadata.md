@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5854
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5854
@@ -169,3 +169,4 @@ Military Construction and Veterans Affairs and Related Agencies Appropriations A
 - 2012-05-31 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3359)
 - 2012-05-31 — The previous question was ordered pursuant to the rule. (consideration: CR H3358)
 - 2012-05-31 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2012-06-05 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 421.
