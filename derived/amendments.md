@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1004
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,5 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 105 of the Internal Revenue Code of 1986 (relating to amounts received under accident and health plans) is amended by inserting at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Paragraph (2) of section 125(d) of such Code (relating to deferred compensation under a cafeteria plan) is amended by inserting at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 409A(d)(1) of such Code is amended by striking “and” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “, and”, and by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 125 of the Internal Revenue Code of 1986 is amended by redesignating subsections (k) and (l) as subsections (l) and (m), respectively, and by inserting after subsection (j) the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Paragraph (1) of section 409A(d) of such Code is amended by striking “and” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “, and”, and by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
