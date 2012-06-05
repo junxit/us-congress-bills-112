@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “York River Wild and Scenic River Study Act of 2011”.
+This Act may be cited as the “York River Wild and Scenic River Study Act of 2012”.
 
 ## § 2. Designation for study
 
@@ -33,4 +33,4 @@ Section 5(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(a)) is amended by
 
 Section 5(b) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(b)) is amended by adding at the end the following:
 
-> - **(_)** *York River, Maine* The study of the York River, Maine, named in paragraph (__) of subsection (a) shall be completed by the Secretary of the Interior and the report thereon submitted to Congress not later than 3 years after the date on which funds are made available to carry out this paragraph.
+> - **(_)** *York River, Maine* The study of the York River, Maine, named in paragraph (_) of subsection (a) shall be completed by the Secretary of the Interior and the report thereon submitted to Congress not later than 3 years after the date on which funds are made available to carry out this paragraph.
