@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5842
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | strike | Subparagraph (A) of section 223(d)(2) of the Internal Revenue Code of 1986 is amended by striking the last sentence. | the bill names no machine-readable US Code section |
+| — | strike | Subparagraph (A) of section 220(d)(2) of such Code is amended by striking the last sentence. | the bill names no machine-readable US Code section |
+| — | strike | Section 106 of such Code is amended by striking subsection (f). | the bill names no machine-readable US Code section |
 | — | strike | Subparagraph (A) of section 223(d)(2) of the Internal Revenue Code of 1986 is amended by striking the last sentence. | the bill names no machine-readable US Code section |
 | — | strike | Subparagraph (A) of section 220(d)(2) of such Code is amended by striking the last sentence. | the bill names no machine-readable US Code section |
 | — | strike | Section 106 of such Code is amended by striking subsection (f). | the bill names no machine-readable US Code section |
