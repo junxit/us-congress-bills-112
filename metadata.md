@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2060
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2060
@@ -35,3 +35,9 @@ Central Oregon Jobs and Water Security Act
 - 2012-04-16 — Placed on the Union Calendar, Calendar No. 305.
 - 2012-04-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-438.
 - 2012-04-16 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-438.
+- 2012-06-05 — Considered under suspension of the rules. (consideration: CR H3432-3434)
+- 2012-06-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2060.
+- 2012-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-05 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2012-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3432-3433)
+- 2012-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3432-3433)
