@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2512
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2512
@@ -21,9 +21,10 @@ Three Kids Mine Remediation and Reclamation Act
 - Rep. Berkley, Shelley [D-NV-1] (B001231)
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Three Kids Mine Remediation and Reclamation Act
 - 2012-06-05 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2012-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3434-3435)
 - 2012-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3434-3435)
+- 2012-06-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
