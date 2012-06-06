@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4282
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4282
@@ -38,11 +38,12 @@ International Child Support Recovery Improvement Act of 2012
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (3)
+## Committees (4)
 
 - House — Judiciary Committee
 - House — Ways and Means Committee
 - House — Budget Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ International Child Support Recovery Improvement Act of 2012
 - 2012-06-05 — Mr. Berg moved to suspend the rules and pass the bill, as amended.
 - 2012-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3448-3449)
 - 2012-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3448-3449)
+- 2012-06-06 — Received in the Senate and Read twice and referred to the Committee on Finance.
