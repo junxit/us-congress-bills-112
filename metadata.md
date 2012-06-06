@@ -1,7 +1,7 @@
 ---
 measure: H.R. 241
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 241
@@ -16,9 +16,10 @@ To authorize the conveyance of certain National Forest System lands in the Los P
 
 - Rep. Gallegly, Elton [R-CA-24] (G000021)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To authorize the conveyance of certain National Forest System lands in the Los P
 - 2012-06-05 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2012-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3438)
 - 2012-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3438)
+- 2012-06-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
