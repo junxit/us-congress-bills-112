@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3263
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3263
@@ -44,3 +44,12 @@ Lake Thunderbird Efficient Use Act of 2012
 - 2012-06-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3437)
 - 2012-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3437)
 - 2012-06-06 — Received in the Senate, read twice.
+- 2012-12-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8552, S8552-8556)
+- 2012-12-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8552, S8552-8556)
+- 2012-12-31 — Message on Senate action sent to the House.
+- 2013-01-01 — Presented to President.
+- 2013-01-01 — Presented to President.
+- 2013-01-10 — Became Public Law No: 112-244.
+- 2013-01-10 — Became Public Law No: 112-244.
+- 2013-01-10 — Signed by President.
+- 2013-01-10 — Signed by President.
