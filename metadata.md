@@ -1,7 +1,7 @@
 ---
 measure: S. 2061
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2061
@@ -16,9 +16,10 @@ Former Charleston Naval Base Land Exchange Act of 2012
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -30,3 +31,6 @@ Former Charleston Naval Base Land Exchange Act of 2012
 - 2012-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 414.
 - 2012-06-05 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S3735-3736; text of measure as reported in Senate: CR S3735; text as passed Senate: CR S3735-3736)
 - 2012-06-05 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S3735-3736; text of measure as reported in Senate: CR S3735; text as passed Senate: CR S3735-3736)
+- 2012-06-06 — Message on Senate action sent to the House.
+- 2012-06-06 — Received in the House.
+- 2012-06-06 — Referred to the House Committee on the Judiciary.
