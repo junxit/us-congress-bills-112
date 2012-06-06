@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5890
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
