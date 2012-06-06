@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5883
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5883
@@ -33,3 +33,12 @@ To make a technical correction in Public Law 112-108.
 - 2012-06-05 — On passage Passed without objection. (text: CR H3444)
 - 2012-06-05 — Passed/agreed to in House: On passage Passed without objection.(text: CR H3444)
 - 2012-06-06 — Received in the Senate, read twice.
+- 2012-06-07 — Message on Senate action sent to the House.
+- 2012-06-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3871)
+- 2012-06-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3871)
+- 2012-06-11 — Presented to President.
+- 2012-06-11 — Presented to President.
+- 2012-06-21 — Became Public Law No: 112-135.
+- 2012-06-21 — Became Public Law No: 112-135.
+- 2012-06-21 — Signed by President.
+- 2012-06-21 — Signed by President.
