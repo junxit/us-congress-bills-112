@@ -1,7 +1,7 @@
 ---
 measure: S. 2061
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2061
@@ -34,3 +34,15 @@ Former Charleston Naval Base Land Exchange Act of 2012
 - 2012-06-06 — Message on Senate action sent to the House.
 - 2012-06-06 — Received in the House.
 - 2012-06-06 — Referred to the House Committee on the Judiciary.
+- 2012-07-09 — Considered under suspension of the rules. (consideration: CR H4672-4673)
+- 2012-07-09 — DEBATE - The House proceeded with forty minutes of debate on S. 2061.
+- 2012-07-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-09 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
+- 2012-07-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4672)
+- 2012-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4672)
+- 2012-07-12 — Presented to President.
+- 2012-07-12 — Presented to President.
+- 2012-07-18 — Became Public Law No: 112-146.
+- 2012-07-18 — Became Public Law No: 112-146.
+- 2012-07-18 — Signed by President.
+- 2012-07-18 — Signed by President.
