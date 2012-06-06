@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4222
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4222
@@ -25,9 +25,10 @@ Pascua Yaqui Tribe Trust Land Act
 - Rep. Pastor, Ed [D-AZ-4] (P000099)
 - Rep. Quayle, Benjamin [R-AZ-3] (Q000024)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Pascua Yaqui Tribe Trust Land Act
 - 2012-06-05 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2012-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3443)
 - 2012-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3443)
+- 2012-06-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
