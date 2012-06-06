@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2336
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2336
@@ -21,9 +21,10 @@ York River Wild and Scenic River Study Act of 2012
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ York River Wild and Scenic River Study Act of 2012
 - 2012-06-05 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2012-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3442)
 - 2012-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3442)
+- 2012-06-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
