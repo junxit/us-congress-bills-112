@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1740
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1740
@@ -39,3 +39,4 @@ To amend the Wild and Scenic Rivers Act to designate a segment of Illabot Creek 
 - 2012-06-05 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2012-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3441)
 - 2012-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3441)
+- 2012-06-06 — Received in the Senate.
