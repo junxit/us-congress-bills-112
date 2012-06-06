@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 128
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 128
@@ -41,3 +41,6 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an ev
 - 2012-06-05 — On agreeing to the resolution Agreed to without objection. (text: CR H3444)
 - 2012-06-05 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3444)
 - 2012-06-06 — Received in the Senate.
+- 2012-06-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S4218)
+- 2012-06-14 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S4218)
+- 2012-06-15 — Message on Senate action sent to the House.
