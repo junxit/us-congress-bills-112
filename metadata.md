@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5883
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5883
@@ -32,3 +32,4 @@ To make a technical correction in Public Law 112-108.
 - 2012-06-05 — Mr. Cole asked unanimous consent to discharge from committee and consider.
 - 2012-06-05 — On passage Passed without objection. (text: CR H3444)
 - 2012-06-05 — Passed/agreed to in House: On passage Passed without objection.(text: CR H3444)
+- 2012-06-06 — Received in the Senate, read twice.
