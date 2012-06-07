@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5855
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5855
@@ -20,9 +20,404 @@ Department of Homeland Security Appropriations Act, 2013
 
 - House — Appropriations Committee
 
+## Recorded votes (22)
+
+- 2012-06-06 — [House 112-2-345](votes/house-112-2-0345.md) — On Agreeing to the Amendment — **Failed** (154–260)
+- 2012-06-06 — [House 112-2-346](votes/house-112-2-0346.md) — On Agreeing to the Amendment — **Failed** (140–273)
+- 2012-06-06 — [House 112-2-347](votes/house-112-2-0347.md) — On Agreeing to the Amendment — **Failed** (173–240)
+- 2012-06-06 — [House 112-2-348](votes/house-112-2-0348.md) — On Agreeing to the Amendment — **Agreed to** (211–202)
+- 2012-06-06 — [House 112-2-349](votes/house-112-2-0349.md) — On Agreeing to the Amendment — **Failed** (159–254)
+- 2012-06-06 — [House 112-2-350](votes/house-112-2-0350.md) — On Agreeing to the Amendment — **Failed** (156–261)
+- 2012-06-06 — [House 112-2-351](votes/house-112-2-0351.md) — On Agreeing to the Amendment — **Failed** (144–273)
+- 2012-06-06 — [House 112-2-352](votes/house-112-2-0352.md) — On Agreeing to the Amendment — **Agreed to** (302–113)
+- 2012-06-06 — [House 112-2-353](votes/house-112-2-0353.md) — On Agreeing to the Amendment — **Agreed to** (230–186)
+- 2012-06-06 — [House 112-2-354](votes/house-112-2-0354.md) — On Agreeing to the Amendment — **Failed** (167–249)
+- 2012-06-06 — [House 112-2-355](votes/house-112-2-0355.md) — On Agreeing to the Amendment — **Failed** (60–355)
+- 2012-06-06 — [House 112-2-356](votes/house-112-2-0356.md) — On Agreeing to the Amendment — **Failed** (150–266)
+- 2012-06-06 — [House 112-2-357](votes/house-112-2-0357.md) — On Agreeing to the Amendment — **Failed** (166–245)
+- 2012-06-07 — [House 112-2-362](votes/house-112-2-0362.md) — On Agreeing to the Amendment — **Agreed to** (224–189)
+- 2012-06-07 — [House 112-2-363](votes/house-112-2-0363.md) — On Agreeing to the Amendment — **Agreed to** (238–175)
+- 2012-06-07 — [House 112-2-364](votes/house-112-2-0364.md) — On Agreeing to the Amendment — **Failed** (131–282)
+- 2012-06-07 — [House 112-2-365](votes/house-112-2-0365.md) — On Agreeing to the Amendment — **Failed** (204–210)
+- 2012-06-07 — [House 112-2-366](votes/house-112-2-0366.md) — On Agreeing to the Amendment — **Agreed to** (250–164)
+- 2012-06-07 — [House 112-2-367](votes/house-112-2-0367.md) — On Agreeing to the Amendment — **Failed** (101–314)
+- 2012-06-07 — [House 112-2-368](votes/house-112-2-0368.md) — On Agreeing to the Amendment — **Failed** (99–316)
+- 2012-06-07 — [House 112-2-369](votes/house-112-2-0369.md) — On Motion to Recommit with Instructions — **Failed** (165–251)
+- 2012-06-07 — [House 112-2-370](votes/house-112-2-0370.md) — On Passage — **Passed** (234–182)
+
 ## Actions
 
 - 2012-05-23 — Introduced in House
 - 2012-05-23 — Placed on the Union Calendar, Calendar No. 345.
 - 2012-05-23 — The House Committee on Appropriations reported an original measure, H. Rept. 112-492, by Mr. Aderholt.
 - 2012-05-23 — The House Committee on Appropriations reported an original measure, H. Rept. 112-492, by Mr. Aderholt.
+- 2012-06-06 — Amendment (A001) offered by Mr. Flake. (consideration: CR H3528-3529; text: CR H3528)
+- 2012-06-06 — Amendment (A002) offered by Ms. Moore. (consideration: CR H3529-3530, H3566-3567; text: CR H3529)
+- 2012-06-06 — Amendment (A003) offered by Mr. Broun (GA). (consideration: CR H3530-3531, H3567; text: CR H3530)
+- 2012-06-06 — Amendment (A004) offered by Mr. Holt. (consideration: CR H3531-3532, H3567-3568; text: CR H3531)
+- 2012-06-06 — Amendment (A005) offered by Mr. Grimm. (consideration: CR H3533-3534; text: CR H3533)
+- 2012-06-06 — Amendment (A006) offered by Mr. Clarke (MI). (consideration: CR H3534, H3568-3569; text: CR H3534)
+- 2012-06-06 — Amendment (A007) offered by Mr. Poe (TX). (consideration: CR H3534-3535; text: CR H3534)
+- 2012-06-06 — Amendment (A008) offered by Mr. Runyan. (consideration: CR H3535-3536; text: CR H3535)
+- 2012-06-06 — Amendment (A009) offered by Mr. Grijalva. (consideration: CR H3537; text: CR H3537)
+- 2012-06-06 — Amendment (A010) offered by Ms. Hahn. (consideration: CR H3537-3539, H3569-3570; text: CR H3539)
+- 2012-06-06 — Amendment (A011) offered by Mr. Bishop (UT). (consideration: CR H3539-3540, H3571-3572; text: CR H3539)
+- 2012-06-06 — Amendment (A012) offered by Ms. Sanchez, Loretta. (consideration: CR H3541-3542, H3572-3573; text: CR H3541)
+- 2012-06-06 — Amendment (A013) offered by Ms. Wasserman Schultz. (consideration: CR H3542-3544; text: CR H3543)
+- 2012-06-06 — Amendment (A014) offered by Mr. Clarke (MI). (consideration: CR H3544-3545, H3569; text: CR H3544)
+- 2012-06-06 — Amendment (A015) offered by Mr. Polis. (consideration: CR H3545-3546; text: CR H3545)
+- 2012-06-06 — Amendment (A016) offered by Mr. Broun (GA). (consideration: CR H3546-3547; text: CR H3546)
+- 2012-06-06 — Amendment (A017) offered by Mr. Cravaack. (consideration: CR H3548-3549; text: CR H3548)
+- 2012-06-06 — Amendment (A018) offered by Ms. Jackson Lee (TX). (consideration: CR H3549-3550, H3573; text: CR H3549)
+- 2012-06-06 — Amendment (A019) offered by Mr. Dold. (consideration: CR H3550-3552; text: CR H3550)
+- 2012-06-06 — Amendment (A020) offered by Mr. Gardner. (consideration: CR H3552; text: CR H3552)
+- 2012-06-06 — Amendment (A021) offered by Mr. Flake. (consideration: CR H3554-3556; text: CR H3554)
+- 2012-06-06 — Amendment (A022) offered by Ms. Hahn. (consideration: CR H3556-3557, H3570-3571; text: CR H3556)
+- 2012-06-06 — Amendment (A023) offered by Mr. Higgins. (consideration: CR H3557-3558, H3573-3574; text: CR H3557)
+- 2012-06-06 — Amendment (A024) offered by Mr. Bishop (NY). (consideration: CR H3559-3561, H3574-3575; text: CR H3559)
+- 2012-06-06 — Amendment agreed to Committee of the Whole
+- 2012-06-06 — Amendment agreed to Committee of the Whole
+- 2012-06-06 — Amendment agreed to Committee of the Whole
+- 2012-06-06 — Amendment agreed to Committee of the Whole
+- 2012-06-06 — Amendment agreed to Committee of the Whole
+- 2012-06-06 — Amendment agreed to Committee of the Whole
+- 2012-06-06 — Amendment agreed to Committee of the Whole
+- 2012-06-06 — Amendment agreed to Committee of the Whole
+- 2012-06-06 — Amendment agreed to Committee of the Whole
+- 2012-06-06 — Amendment agreed to Committee of the Whole
+- 2012-06-06 — Amendment failed in Committee of the Whole
+- 2012-06-06 — Amendment failed in Committee of the Whole
+- 2012-06-06 — Amendment failed in Committee of the Whole
+- 2012-06-06 — Amendment failed in Committee of the Whole
+- 2012-06-06 — Amendment failed in Committee of the Whole
+- 2012-06-06 — Amendment failed in Committee of the Whole
+- 2012-06-06 — Amendment failed in Committee of the Whole
+- 2012-06-06 — Amendment failed in Committee of the Whole
+- 2012-06-06 — Amendment failed in Committee of the Whole
+- 2012-06-06 — Amendment failed in Committee of the Whole
+- 2012-06-06 — Amendment failed in Committee of the Whole
+- 2012-06-06 — Amendment failed in Committee of the Whole
+- 2012-06-06 — Amendment failed in Committee of the Whole
+- 2012-06-06 — Committee of the Whole House on the state of the Union rises leaving H.R. 5855 as unfinished business.
+- 2012-06-06 — Committee of the Whole House on the state of the Union rises leaving H.R. 5855 as unfinished business.
+- 2012-06-06 — Considered as unfinished business. (consideration: CR H3528-3575; text of Title I as reported in House: CR H3528; H3532-3533, H3536; text of Title II as reported in House: CR H3536-3537, H3539, H3540-3541, H3546, H3547, H3550, H3552-3553; text of Title III as reported in House: CR H3553-3554, H3558-3559; text of Title IV as reported in House: CR H3559, H3561; text of Title V as reported in House: CR H3561-3566, H3566)
+- 2012-06-06 — Considered under the provisions of rule H. Res. 667. (consideration: CR H3499-3505)
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the Bishop (NY) amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the Bishop (UT) amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the Cravaack amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the Dold amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the Flake amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the Grijalva amendment under the five-minute rule, pending the reservation of a point of order.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the Hahn amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the Hahn amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the Higgins amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the Jackson Lee amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the Loretta Sanchez amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the Moore amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the Polis amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the Runyan amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the Wasserman Schultz amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the second Broun (GA) amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H. Res. 667, the Committee of the Whole proceeded with debate on the second Clarke (MI) amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H.Res. 667, the Committee of the Whole proceeded with debate on the Broun (GA) amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H.Res. 667, the Committee of the Whole proceeded with debate on the Clarke (MI) amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H.Res. 667, the Committee of the Whole proceeded with debate on the Flake amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H.Res. 667, the Committee of the Whole proceeded with debate on the Gardner amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H.Res. 667, the Committee of the Whole proceeded with debate on the Holt amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H.Res. 667, the Committee of the Whole proceeded with debate on the Poe (TX) amendment under the five-minute rule.
+- 2012-06-06 — DEBATE - Pursuant to the provisions of H.Res. 677, the Committee of the Whole proceeded with debate on the Grimm amendment under the five-minute rule.
+- 2012-06-06 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5855.
+- 2012-06-06 — House amendment agreed to: On agreeing to the Bishop (UT) amendment (A011) Agreed to by recorded vote: 230 - 186 (Roll no. 353).(consideration: CR H3571-3572)
+- 2012-06-06 — House amendment agreed to: On agreeing to the Clarke (MI) amendment (A006) Agreed to by recorded vote: 211 - 202 (Roll no. 348).
+- 2012-06-06 — House amendment agreed to: On agreeing to the Cravaack amendment (A017) Agreed to by voice vote.
+- 2012-06-06 — House amendment agreed to: On agreeing to the Dold amendment (A019) Agreed to by voice vote.
+- 2012-06-06 — House amendment agreed to: On agreeing to the Flake amendment (A001) Agreed to by voice vote.
+- 2012-06-06 — House amendment agreed to: On agreeing to the Gardner amendment (A020) Agreed to by voice vote.
+- 2012-06-06 — House amendment agreed to: On agreeing to the Grimm amendment (A005) Agreed to by voice vote.
+- 2012-06-06 — House amendment agreed to: On agreeing to the Poe (TX) amendment (A007) Agreed to by recorded vote: 302 - 113 (Roll no. 352).
+- 2012-06-06 — House amendment agreed to: On agreeing to the Runyan amendment (A008) Agreed to by voice vote.
+- 2012-06-06 — House amendment agreed to: On agreeing to the Wasserman Schultz amendment (A013) Agreed to by voice vote.
+- 2012-06-06 — House amendment not agreed to: On agreeing to the Bishop (NY) amendment (A024) Failed by recorded vote: 166 - 245 (Roll no. 357).(consideration: CR H3574-3575)
+- 2012-06-06 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A003) Failed by recorded vote: 140 - 273 (Roll no. 346).
+- 2012-06-06 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A016) Failed by voice vote.
+- 2012-06-06 — House amendment not agreed to: On agreeing to the Clarke (MI) amendment (A014) Failed by recorded vote: 159 - 254 (Roll no. 349).
+- 2012-06-06 — House amendment not agreed to: On agreeing to the Flake amendment (A021) Failed by voice vote.
+- 2012-06-06 — House amendment not agreed to: On agreeing to the Hahn amendment (A010) Failed by recorded vote: 156 - 261 (Roll no. 350).
+- 2012-06-06 — House amendment not agreed to: On agreeing to the Hahn amendment (A022) Failed by recorded vote: 144 - 273 (Roll no. 351).
+- 2012-06-06 — House amendment not agreed to: On agreeing to the Higgins amendment (A023) Failed by recorded vote: 150 - 266 (Roll no. 356).(consideration: CR H3573-3574)
+- 2012-06-06 — House amendment not agreed to: On agreeing to the Holt amendment (A004) Failed by recorded vote: 173 - 240 (Roll no. 347).
+- 2012-06-06 — House amendment not agreed to: On agreeing to the Jackson Lee (TX) amendment (A018) Failed by recorded vote: 60 - 355 (Roll no. 355).
+- 2012-06-06 — House amendment not agreed to: On agreeing to the Moore amendment (A002) Failed by recorded vote: 154 - 260 (Roll no. 345).
+- 2012-06-06 — House amendment not agreed to: On agreeing to the Polis amendment (A015) Failed by voice vote.
+- 2012-06-06 — House amendment not agreed to: On agreeing to the Sanchez, Loretta amendment (A012) Failed by recorded vote: 167 - 249 (Roll no. 354).
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered
+- 2012-06-06 — House amendment offered/reported by: Amendment (A001) offered by Mr. Flake.(consideration: CR H3528-3529; text: CR H3528)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A002) offered by Ms. Moore.(consideration: CR H3529-3530, H3566-3567; text: CR H3529)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A003) offered by Mr. Broun (GA).(consideration: CR H3530-3531, H3567; text: CR H3530)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A004) offered by Mr. Holt.(consideration: CR H3531-3532, H3567-3568; text: CR H3531)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A005) offered by Mr. Grimm.(consideration: CR H3533-3534; text: CR H3533)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A006) offered by Mr. Clarke (MI).(consideration: CR H3534, H3568-3569; text: CR H3534)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A007) offered by Mr. Poe (TX).(consideration: CR H3534-3535; text: CR H3534)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A008) offered by Mr. Runyan.(consideration: CR H3535-3536; text: CR H3535)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A009) offered by Mr. Grijalva.(consideration: CR H3537; text: CR H3537)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A010) offered by Ms. Hahn.(consideration: CR H3537-3539, H3569-3570; text: CR H3539)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A011) offered by Mr. Bishop (UT).(consideration: CR H3539-3540, H3571-3572; text: CR H3539)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A012) offered by Ms. Sanchez, Loretta.(consideration: CR H3541-3542, H3572-3573; text: CR H3541)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A013) offered by Ms. Wasserman Schultz.(consideration: CR H3542-3544; text: CR H3543)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A014) offered by Mr. Clarke (MI).(consideration: CR H3544-3545, H3569; text: CR H3544)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A015) offered by Mr. Polis.(consideration: CR H3545-3546; text: CR H3545)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A016) offered by Mr. Broun (GA).(consideration: CR H3546-3547; text: CR H3546)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A017) offered by Mr. Cravaack.(consideration: CR H3548-3549; text: CR H3548)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A018) offered by Ms. Jackson Lee (TX).(consideration: CR H3549-3550, H3573; text: CR H3549)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A019) offered by Mr. Dold.(consideration: CR H3550-3552; text: CR H3550)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A020) offered by Mr. Gardner.(consideration: CR H3552; text: CR H3552)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A021) offered by Mr. Flake.(consideration: CR H3554-3556; text: CR H3554)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A022) offered by Ms. Hahn.(consideration: CR H3556-3557, H3570-3571; text: CR H3556)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A023) offered by Mr. Higgins.(consideration: CR H3557-3558, H3573-3574; text: CR H3557)
+- 2012-06-06 — House amendment offered/reported by: Amendment (A024) offered by Mr. Bishop (NY).(consideration: CR H3559-3561, H3574-3575; text: CR H3559)
+- 2012-06-06 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 667 and Rule XVIII.
+- 2012-06-06 — Mr. Aderholt moved that the committee rise.
+- 2012-06-06 — Mr. Aderholt moved that the committee rise.
+- 2012-06-06 — Mr. Aderholt raised a point of order against the Grijalva amendment (A009). Mr. Aderholt stated that the amendment sought to amend portions of the bill not yet read for amendment. The Chair sustained the point of order.
+- 2012-06-06 — On agreeing to the Bishop (NY) amendment (A024) Failed by recorded vote: 166 - 245 (Roll no. 357). (consideration: CR H3574-3575)
+- 2012-06-06 — On agreeing to the Bishop (UT) amendment (A011) Agreed to by recorded vote: 230 - 186 (Roll no. 353). (consideration: CR H3571-3572)
+- 2012-06-06 — On agreeing to the Broun (GA) amendment (A003) Failed by recorded vote: 140 - 273 (Roll no. 346).
+- 2012-06-06 — On agreeing to the Broun (GA) amendment (A016) Failed by voice vote.
+- 2012-06-06 — On agreeing to the Clarke (MI) amendment (A006) Agreed to by recorded vote: 211 - 202 (Roll no. 348).
+- 2012-06-06 — On agreeing to the Clarke (MI) amendment (A014) Failed by recorded vote: 159 - 254 (Roll no. 349).
+- 2012-06-06 — On agreeing to the Cravaack amendment (A017) Agreed to by voice vote.
+- 2012-06-06 — On agreeing to the Dold amendment (A019) Agreed to by voice vote.
+- 2012-06-06 — On agreeing to the Flake amendment (A001) Agreed to by voice vote.
+- 2012-06-06 — On agreeing to the Flake amendment (A021) Failed by voice vote.
+- 2012-06-06 — On agreeing to the Gardner amendment (A020) Agreed to by voice vote.
+- 2012-06-06 — On agreeing to the Grimm amendment (A005) Agreed to by voice vote.
+- 2012-06-06 — On agreeing to the Hahn amendment (A010) Failed by recorded vote: 156 - 261 (Roll no. 350).
+- 2012-06-06 — On agreeing to the Hahn amendment (A022) Failed by recorded vote: 144 - 273 (Roll no. 351).
+- 2012-06-06 — On agreeing to the Higgins amendment (A023) Failed by recorded vote: 150 - 266 (Roll no. 356). (consideration: CR H3573-3574)
+- 2012-06-06 — On agreeing to the Holt amendment (A004) Failed by recorded vote: 173 - 240 (Roll no. 347).
+- 2012-06-06 — On agreeing to the Jackson Lee (TX) amendment (A018) Failed by recorded vote: 60 - 355 (Roll no. 355).
+- 2012-06-06 — On agreeing to the Moore amendment (A002) Failed by recorded vote: 154 - 260 (Roll no. 345).
+- 2012-06-06 — On agreeing to the Poe (TX) amendment (A007) Agreed to by recorded vote: 302 - 113 (Roll no. 352).
+- 2012-06-06 — On agreeing to the Polis amendment (A015) Failed by voice vote.
+- 2012-06-06 — On agreeing to the Runyan amendment (A008) Agreed to by voice vote.
+- 2012-06-06 — On agreeing to the Sanchez, Loretta amendment (A012) Failed by recorded vote: 167 - 249 (Roll no. 354).
+- 2012-06-06 — On agreeing to the Wasserman Schultz amendment (A013) Agreed to by voice vote.
+- 2012-06-06 — On motion that the committee rise Agreed to by voice vote.
+- 2012-06-06 — On motion that the committee rise Agreed to by voice vote.
+- 2012-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bishop (NY) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Bishop (NY) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bishop (UT) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price(NC) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Broun (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Broun (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Clarke (MI) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Clarke (MI) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Clarke (MI) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Clarke (MI) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hahn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Hahn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced
+- 2012-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hahn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Hahn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Higgins amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Higgins demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Holt amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Holt demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Loretta Sanchez amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Loretta Sanchez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moore amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Moore demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Poe (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Poe (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-06 — Resolution provides for consideration of H.R. 5743; H.R. 5854; H.R. 5855; and H.R. 5325.
+- 2012-06-06 — Roll call votes on amendments in House
+- 2012-06-06 — Roll call votes on amendments in House
+- 2012-06-06 — Roll call votes on amendments in House
+- 2012-06-06 — Roll call votes on amendments in House
+- 2012-06-06 — Roll call votes on amendments in House
+- 2012-06-06 — Roll call votes on amendments in House
+- 2012-06-06 — Roll call votes on amendments in House
+- 2012-06-06 — Roll call votes on amendments in House
+- 2012-06-06 — Roll call votes on amendments in House
+- 2012-06-06 — Roll call votes on amendments in House
+- 2012-06-06 — Roll call votes on amendments in House
+- 2012-06-06 — Roll call votes on amendments in House
+- 2012-06-06 — Roll call votes on amendments in House
+- 2012-06-06 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2012-06-06 — The Speaker designated the Honorable Ileana Ros-Lehtinen to act as Chairwoman of the Committee.
+- 2012-06-07 — Amendment (A025) offered by Ms. Brown (FL). (consideration: CR H3619-3620; text: CR H3619)
+- 2012-06-07 — Amendment (A026) offered by Mr. Ellison. (consideration: CR H3620; text: CR H3620)
+- 2012-06-07 — Amendment (A027) offered by Mr. Graves (MO). (consideration: CR H3620-3621; text: CR H3620)
+- 2012-06-07 — Amendment (A028) offered by Mr. Ryan (OH). (consideration: CR H3621-3622; text: CR H3621)
+- 2012-06-07 — Amendment (A029) offered by Mrs. Black. (consideration: CR H3622; text: CR H3622)
+- 2012-06-07 — Amendment (A030) offered by Mr. Crowley. (consideration: CR H3622-3623; text: CR H3622)
+- 2012-06-07 — Amendment (A031) offered by Mr. Flores. (consideration: CR H3623-3624; text: CR H3623)
+- 2012-06-07 — Amendment (A032) offered by Mr. King (IA). (consideration: CR H3624, H3645; text: CR H3624)
+- 2012-06-07 — Amendment (A033) offered by Mr. King (IA). (consideration: CR H3624-3629, H3645-3646; text: CR H3624-3625)
+- 2012-06-07 — Amendment (A034) offered by Mrs. Blackburn. (consideration: CR H3629-3630, H3646-3647; text: CR H3629)
+- 2012-06-07 — Amendment (A035) offered by Mrs. Blackburn. (consideration: CR H3630-3632, H3647; text: CR H3630)
+- 2012-06-07 — Amendment (A036) offered by Mr. Pierluisi. (consideration: CR H3632; text: CR H3632)
+- 2012-06-07 — Amendment (A037) offered by Mr. Sullivan. (consideration: CR H3632-3635, H3647-3648; text: CR H3632-3633)
+- 2012-06-07 — Amendment (A038) offered by Mr. Barletta. (consideration: CR H3635-3637; text: CR H3635)
+- 2012-06-07 — Amendment (A040) offered by Mr. Turner (NY). (consideration: CR H3637-3638, H3648-3649; text: CR H3637)
+- 2012-06-07 — Amendment (A041) offered by Mr. Polis. (consideration: CR H3638-3640, H3649; text: CR H3638)
+- 2012-06-07 — Amendment (A042) offered by Mr. Broun (GA). (consideration: CR H3640; text: CR H3640)
+- 2012-06-07 — Amendment (A043) offered by Mr. Broun (GA). (consideration: CR H3640-3641; text: CR H3640)
+- 2012-06-07 — Amendment (A044) offered by Mr. Cravaack. (consideration: CR H3641-3643; text: CR H3641)
+- 2012-06-07 — Amendment agreed to Committee of the Whole
+- 2012-06-07 — Amendment agreed to Committee of the Whole
+- 2012-06-07 — Amendment agreed to Committee of the Whole
+- 2012-06-07 — Amendment agreed to Committee of the Whole
+- 2012-06-07 — Amendment agreed to Committee of the Whole
+- 2012-06-07 — Amendment agreed to Committee of the Whole
+- 2012-06-07 — Amendment agreed to Committee of the Whole
+- 2012-06-07 — Amendment agreed to Committee of the Whole
+- 2012-06-07 — Amendment agreed to Committee of the Whole
+- 2012-06-07 — Amendment agreed to Committee of the Whole
+- 2012-06-07 — Amendment agreed to Committee of the Whole
+- 2012-06-07 — Amendment failed in Committee of the Whole
+- 2012-06-07 — Amendment failed in Committee of the Whole
+- 2012-06-07 — Amendment failed in Committee of the Whole
+- 2012-06-07 — Amendment failed in Committee of the Whole
+- 2012-06-07 — Amendment failed in Committee of the Whole
+- 2012-06-07 — Amendment failed in Committee of the Whole
+- 2012-06-07 — Amendments en bloc (A039) offered by Mr. Aderholt. (consideration: CR H3637; text: CR H3637)
+- 2012-06-07 — By unanimous consent, the Brown (FL) amendment was withdrawn. (consideration: CR H3619)
+- 2012-06-07 — By unanimous consent, the Crowley amendment was withdrawn. (consideration: CR H3623)
+- 2012-06-07 — Considered as unfinished business. (consideration: CR H3618-3652)
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Aderholt En Bloc amendment.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Barletta amendment.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Black amendment.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Broun (GA) amendment.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Broun (GA) amendment.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Brown(FL) amendment.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Cravaack amendment.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Crowley amendment pending reservation of a point of order.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the First Blackburn amendment, pending reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the First King (IA) amendment.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Flores amendment.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Graves (MO) amendment.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Pierluisi amendment No. 16, pending reservation of a point of order. Subsequently, the point of order was withdrawn.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Polis (CO) amendment.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Ryan (OH) amendment pending reservation of a point of order.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Second Blackburn amendment.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Second King (IA) amendment.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Sullivan amendment.
+- 2012-06-07 — DEBATE - Pursuant to a previous special order of the House, the Committee of the Whole proceeded with 10 minutes of debate on the Turner (NY) amendment.
+- 2012-06-07 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Tierney motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to increase funding for the National Protection and Programs Directorate for infrastructure protection and information security programs and activities by $16,663,000 and decrease the Transportation Security Administration's administrative account by the same amount. The Motion would also increase funding for FEMA Urban Area Security Initiative (UASI) grants by $340,300,000 and decrease general funding for the FEMA State and Local grant program by the same amount.
+- 2012-06-07 — Graves (MO) amendment (A027) modified by unanimous consent. (text as modified: CR H3621)
+- 2012-06-07 — House amendment agreed to: On agreeing to the Aderholt amendments (A039) Agreed to by voice vote.
+- 2012-06-07 — House amendment agreed to: On agreeing to the Barletta amendment (A038) Agreed to by voice vote.
+- 2012-06-07 — House amendment agreed to: On agreeing to the Black amendment (A029) Agreed to by voice vote.
+- 2012-06-07 — House amendment agreed to: On agreeing to the Cravaack amendment (A044) Agreed to by voice vote.
+- 2012-06-07 — House amendment agreed to: On agreeing to the Ellison amendment (A026) Agreed to by voice vote.
+- 2012-06-07 — House amendment agreed to: On agreeing to the Flores amendment (A031) Agreed to by voice vote.
+- 2012-06-07 — House amendment agreed to: On agreeing to the Graves (MO) amendment as modified Agreed to by voice vote.
+- 2012-06-07 — House amendment agreed to: On agreeing to the King (IA) amendment (A032) Agreed to by recorded vote: 224 - 189 (Roll no. 362).
+- 2012-06-07 — House amendment agreed to: On agreeing to the King (IA) amendment (A033) Agreed to by recorded vote: 238 - 175 (Roll no. 363).
+- 2012-06-07 — House amendment agreed to: On agreeing to the Pierluisi amendment (A036) Agreed to by voice vote.
+- 2012-06-07 — House amendment agreed to: On agreeing to the Sullivan amendment (A037) Agreed to by recorded vote: 250 - 164 (Roll no. 366).
+- 2012-06-07 — House amendment not agreed to: On agreeing to the Blackburn amendment (A034) Failed by recorded vote: 131 - 282 (Roll no. 364).
+- 2012-06-07 — House amendment not agreed to: On agreeing to the Blackburn amendment (A035) Failed by recorded vote: 204 - 210 (Roll no. 365).
+- 2012-06-07 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A042) Failed by voice vote.
+- 2012-06-07 — House amendment not agreed to: On agreeing to the Broun (GA) amendment (A043) Failed by voice vote.
+- 2012-06-07 — House amendment not agreed to: On agreeing to the Polis amendment (A041) Failed by recorded vote: 99 - 316 (Roll no. 368).
+- 2012-06-07 — House amendment not agreed to: On agreeing to the Turner (NY) amendment (A040) Failed by recorded vote: 101 - 314 (Roll no. 367).
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered/reported by: Amendment (A025) offered by Ms. Brown (FL).(consideration: CR H3619-3620; text: CR H3619)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A026) offered by Mr. Ellison.(consideration: CR H3620; text: CR H3620)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A027) offered by Mr. Graves (MO).(consideration: CR H3620-3621; text: CR H3620)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A028) offered by Mr. Ryan (OH).(consideration: CR H3621-3622; text: CR H3621)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A029) offered by Mrs. Black.(consideration: CR H3622; text: CR H3622)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A030) offered by Mr. Crowley.(consideration: CR H3622-3623; text: CR H3622)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A031) offered by Mr. Flores.(consideration: CR H3623-3624; text: CR H3623)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A032) offered by Mr. King (IA).(consideration: CR H3624, H3645; text: CR H3624)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A033) offered by Mr. King (IA).(consideration: CR H3624-3629, H3645-3646; text: CR H3624-3625)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A034) offered by Mrs. Blackburn.(consideration: CR H3629-3630, H3646-3647; text: CR H3629)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A035) offered by Mrs. Blackburn.(consideration: CR H3630-3632, H3647; text: CR H3630)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A036) offered by Mr. Pierluisi.(consideration: CR H3632; text: CR H3632)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A037) offered by Mr. Sullivan.(consideration: CR H3632-3635, H3647-3648; text: CR H3632-3633)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A038) offered by Mr. Barletta.(consideration: CR H3635-3637; text: CR H3635)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A040) offered by Mr. Turner (NY).(consideration: CR H3637-3638, H3648-3649; text: CR H3637)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A041) offered by Mr. Polis.(consideration: CR H3638-3640, H3649; text: CR H3638)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A042) offered by Mr. Broun (GA).(consideration: CR H3640; text: CR H3640)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A043) offered by Mr. Broun (GA).(consideration: CR H3640-3641; text: CR H3640)
+- 2012-06-07 — House amendment offered/reported by: Amendment (A044) offered by Mr. Cravaack.(consideration: CR H3641-3643; text: CR H3641)
+- 2012-06-07 — House amendment offered/reported by: Amendments en bloc (A039) offered by Mr. Aderholt.(consideration: CR H3637; text: CR H3637)
+- 2012-06-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-07 — Mr. Aderholt moved for the Committee of the Whole to rise and report.
+- 2012-06-07 — Mr. Aderholt raised a point of order against the Ryan (OH) amendment (A028). Mr. Aderholt stated that the amendment seeks to change existing law and constitutes legislation in an appropriations bill. The Chair sustained the point of order.
+- 2012-06-07 — Mr. Tierney moved to recommit with instructions to Appropriations. (consideration: CR H3650-3651; text: CR H3650)
+- 2012-06-07 — ORDER OF PROCEDURE - Mr. Aderholt asked unanimous consent that, during further consideration of H.R. 5855 in the Committee of the Whole pursuant to House Resolution 667, no further amendment to the bill may be offered except those on a list provided to the desk. Agreed to without objection.
+- 2012-06-07 — On agreeing to the Aderholt amendments (A039) Agreed to by voice vote.
+- 2012-06-07 — On agreeing to the Barletta amendment (A038) Agreed to by voice vote.
+- 2012-06-07 — On agreeing to the Black amendment (A029) Agreed to by voice vote.
+- 2012-06-07 — On agreeing to the Blackburn amendment (A034) Failed by recorded vote: 131 - 282 (Roll no. 364).
+- 2012-06-07 — On agreeing to the Blackburn amendment (A035) Failed by recorded vote: 204 - 210 (Roll no. 365).
+- 2012-06-07 — On agreeing to the Broun (GA) amendment (A042) Failed by voice vote.
+- 2012-06-07 — On agreeing to the Broun (GA) amendment (A043) Failed by voice vote.
+- 2012-06-07 — On agreeing to the Cravaack amendment (A044) Agreed to by voice vote.
+- 2012-06-07 — On agreeing to the Ellison amendment (A026) Agreed to by voice vote.
+- 2012-06-07 — On agreeing to the Flores amendment (A031) Agreed to by voice vote.
+- 2012-06-07 — On agreeing to the Graves (MO) amendment as modified Agreed to by voice vote.
+- 2012-06-07 — On agreeing to the King (IA) amendment (A032) Agreed to by recorded vote: 224 - 189 (Roll no. 362).
+- 2012-06-07 — On agreeing to the King (IA) amendment (A033) Agreed to by recorded vote: 238 - 175 (Roll no. 363).
+- 2012-06-07 — On agreeing to the Pierluisi amendment (A036) Agreed to by voice vote.
+- 2012-06-07 — On agreeing to the Polis amendment (A041) Failed by recorded vote: 99 - 316 (Roll no. 368).
+- 2012-06-07 — On agreeing to the Sullivan amendment (A037) Agreed to by recorded vote: 250 - 164 (Roll no. 366).
+- 2012-06-07 — On agreeing to the Turner (NY) amendment (A040) Failed by recorded vote: 101 - 314 (Roll no. 367).
+- 2012-06-07 — On motion to recommit with instructions Failed by recorded vote: 165 - 251 (Roll no. 369). (consideration: CR H3651)
+- 2012-06-07 — On motion to rise and report Agreed to by voice vote.
+- 2012-06-07 — On passage Passed by the Yeas and Nays: 234 - 182 (Roll no. 370).
+- 2012-06-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the First Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Blackburn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the First King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price (NC) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis (CO) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Polis (CO) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Second Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Blackburn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Second King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price (NC) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sullivan amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Price (NC) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Turner (NY) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Turner (NY) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2012-06-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 234 - 182 (Roll no. 370).
+- 2012-06-07 — Roll call votes on amendments in House
+- 2012-06-07 — Roll call votes on amendments in House
+- 2012-06-07 — Roll call votes on amendments in House
+- 2012-06-07 — Roll call votes on amendments in House
+- 2012-06-07 — Roll call votes on amendments in House
+- 2012-06-07 — Roll call votes on amendments in House
+- 2012-06-07 — Roll call votes on amendments in House
+- 2012-06-07 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2012-06-07 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2012-06-07 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5855.
+- 2012-06-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3650)
+- 2012-06-07 — The previous question was ordered pursuant to the rule. (consideration: CR H3650)
+- 2012-06-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
