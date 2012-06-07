@@ -2,14 +2,14 @@
 legis-num: H. RES. 679
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 679
 
 > Providing for consideration of the bill (H.R. 436) to amend the Internal Revenue Code of 1986 to repeal the excise tax on medical devices, and providing for consideration of the bill (H.R. 5882) making appropriations for the Legislative Branch for the fiscal year ending September 30, 2013, and for other purposes.
 
-That upon the adoption of this resolution it shall be in order to consider in the House the bill (H.R. 436) to amend the Internal Revenue Code of 1986 to repeal the excise tax on medical devices. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 112-23, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) 90 minutes of debate equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means; and (2) one motion to recommit with or without instructions.
+That upon the adoption of this resolution it shall be in order to consider in the House the bill (H.R. 436) to amend the Internal Revenue Code of 1986 to repeal the excise tax on medical devices. All points of order against consideration of the bill are waived. In lieu of the amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 112–23, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) 90 minutes of debate equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means; and (2) one motion to recommit with or without instructions.
 
 ## § 2.
 
