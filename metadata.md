@@ -1,7 +1,7 @@
 ---
 measure: H.R. 436
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 436
@@ -263,6 +263,11 @@ Health Care Cost Reduction Act of 2012
 
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2012-06-07 — [House 112-2-360](votes/house-112-2-0360.md) — On Motion to Recommit with Instructions — **Failed** (179–239)
+- 2012-06-07 — [House 112-2-361](votes/house-112-2-0361.md) — On Passage — **Passed** (270–146)
+
 ## Actions
 
 - 2011-01-25 — Introduced in House
@@ -273,3 +278,18 @@ Health Care Cost Reduction Act of 2012
 - 2012-06-05 — Placed on the Union Calendar, Calendar No. 362.
 - 2012-06-05 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 112-514.
 - 2012-06-05 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 112-514.
+- 2012-06-07 — Considered as unfinished business. (consideration: CR H3615-3618)
+- 2012-06-07 — Considered under the provisions of rule H. Res. 679. (consideration: CR H3601-3615)
+- 2012-06-07 — DEBATE - The House proceeded with 10 minutes of debate on the Bishop(NY) motion to recommit with instructions pending reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the house with an amendment to prohibit manufacturers, producers, and importers of medical devices from benefiting from the underlying bill's repeal of the medical device tax if they outsource American jobs. Subsequently, the reservation was withdrawn.
+- 2012-06-07 — DEBATE - The House proceeded with 90 minutes of debate on H.R. 436.
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — House amendment offered
+- 2012-06-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-07 — Mr. Bishop (NY) moved to recommit with instructions to Ways and Means. (consideration: CR H3615-3617; text: CR H3616)
+- 2012-06-07 — On motion to recommit with instructions Failed by the Yeas and Nays: 179 - 239 (Roll no. 360). (consideration: CR H3617)
+- 2012-06-07 — On passage Passed by the Yeas and Nays: 270 - 146 (Roll no. 361). (text: CR H3601)
+- 2012-06-07 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule 19, further consideration of the bill H.R. 436 is postponed.
+- 2012-06-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 270 - 146 (Roll no. 361).(text: CR H3601)
+- 2012-06-07 — Resolution provides for consideration of H.R. 436 and H.R. 5882. Debate on H.R. 436 will continue for not to exceed 90 minutes, equally divided and controlled. H.R. 436 is closed to amendments. General debate on H.R. 5882 will continue for not to exceed one hour, equally divided and controlled. Specified amendments to H.R. 5882 are in order.
+- 2012-06-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3615-3617)
+- 2012-06-07 — The previous question was ordered pursuant to the rule. (consideration: CR H3615)
