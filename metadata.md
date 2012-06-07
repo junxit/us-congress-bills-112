@@ -1,7 +1,7 @@
 ---
 measure: S. 3261
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3261
@@ -23,9 +23,10 @@ A bill to allow the Chief of the Forest Service to award certain contracts for l
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Agriculture, Nutrition, and Forestry Committee
+- House — Agriculture Committee
 
 ## Actions
 
@@ -38,3 +39,16 @@ A bill to allow the Chief of the Forest Service to award certain contracts for l
 - 2012-06-07 — Referred to the House Committee on Agriculture.
 - 2012-06-07 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S3870-3871)
 - 2012-06-07 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S3870-3871)
+- 2012-06-08 — Committee on Agriculture discharged.
+- 2012-06-08 — Committee on Agriculture discharged.
+- 2012-06-08 — Considered by unanimous consent. (consideration: H3691)
+- 2012-06-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-08 — Mr. Thompson (PA) asked unanimous consent to discharge from committee and consider.
+- 2012-06-08 — On passage Passed without objection. (text: CR H3691)
+- 2012-06-08 — Passed/agreed to in House: On passage Passed without objection.(text: CR H3691)
+- 2012-06-12 — Presented to President.
+- 2012-06-12 — Presented to President.
+- 2012-06-13 — Became Public Law No: 112-132.
+- 2012-06-13 — Became Public Law No: 112-132.
+- 2012-06-13 — Signed by President.
+- 2012-06-13 — Signed by President.
