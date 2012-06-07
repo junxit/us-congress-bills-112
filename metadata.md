@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 476
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 476
@@ -32,3 +32,7 @@ A resolution honoring the contributions of the late Fang Lizhi to the people of 
 
 - 2012-06-04 — Introduced in Senate
 - 2012-06-04 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S3689)
+- 2012-06-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.(text: CR S3871-3872)
+- 2012-06-07 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (text: CR S3871-3872)
+- 2012-06-07 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3871-3872)
+- 2012-06-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3871-3872)
