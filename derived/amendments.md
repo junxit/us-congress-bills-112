@@ -1,7 +1,7 @@
 ---
 measure: H.R. 901
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | The Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by adding at the end the following new title: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of contents in section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by adding at the end the following new items: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by adding at the end the following new items: | the bill names no machine-readable US Code section |
 | — | strike | The Department of Homeland Security Appropriations Act, 2007 (Public Law 109–295) is amended by striking section 550. | the bill names no machine-readable US Code section |
