@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5882
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -36,4 +36,4 @@ complete account of the bill's effect, which it is not.
 | — | strike | Section 1018 of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 1907) is amended by striking subsection (f). | the bill names no machine-readable US Code section |
 | — | amend | The second sentence of section 415(a) of the Congressional Accountability Act of 1995 (2 U.S.C. 1415(a)) is amended to read as follows: “There are appropriated for such account such sums as may be necessary to pay such awards and settlem… | the bill names no machine-readable US Code section |
 | — | replace | by striking “(e)” and inserting “(e)(1)”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5882
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5882
@@ -16,9 +16,10 @@ Legislative Branch Appropriations Act, 2013
 
 - Rep. Crenshaw, Ander [R-FL-4] (C001045)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (7)
 
@@ -114,3 +115,4 @@ Legislative Branch Appropriations Act, 2013
 - 2012-06-08 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3689)
 - 2012-06-08 — The previous question was ordered pursuant to the rule. (consideration: CR H3688)
 - 2012-06-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2012-06-11 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
