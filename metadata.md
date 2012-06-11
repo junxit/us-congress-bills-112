@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5325
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5325
@@ -630,3 +630,4 @@ Energy and Water Development and Related Agencies Appropriations Act, 2013
 - 2012-06-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2012-06-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2012-06-06 — VACATING PROCEEDINGS - Mr. Cantor asked unanimous consent that the proceedings on Roll Call No. 327 be vacated to the end that the request for a recorded vote on the amendment offered by the gentleman from Virginia (Mr. Connolly) remain as unfinished business. Agreed to without objection.
+- 2012-06-11 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 425.
