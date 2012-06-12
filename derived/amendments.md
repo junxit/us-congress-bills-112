@@ -1,7 +1,7 @@
 ---
 measure: H.R. 436
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -35,10 +35,10 @@ complete account of the bill's effect, which it is not.
 | — | strike | Subsection (a) of section 4221 of such Code is amended by striking the last sentence. | the bill names no machine-readable US Code section |
 | — | strike | Paragraph (2) of section 6416(b) of such Code is amended by striking the last sentence. | the bill names no machine-readable US Code section |
 | — | strike | The table of subchapters for chapter 32 of such Code is amended by striking the item relating to subchapter E. | the bill names no machine-readable US Code section |
-| — | strike | Subparagraph (A) of section 223(d)(2) of the Internal Revenue Code of 1986 is amended by striking the last sentence. | the bill names no machine-readable US Code section |
-| — | strike | Subparagraph (A) of section 220(d)(2) of such Code is amended by striking the last sentence. | the bill names no machine-readable US Code section |
-| — | strike | Section 106 of such Code is amended by striking subsection (f). | the bill names no machine-readable US Code section |
-| — | redesignate | Section 125 of the Internal Revenue Code of 1986 is amended by redesignating subsections (k) and (l) as subsections (l) and (m), respectively, and by inserting after subsection (j) the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | Paragraph (1) of section 409A(d) of such Code is amended by striking “and” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “, and”, and by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | strike | Paragraph (2) of section 36B(f) of the Internal Revenue Code of 1986 is amended by striking subparagraph (B). | the bill names no machine-readable US Code section |
-| — | amend | So much of paragraph (2) of section 36B(f) of such Code, as amended by subsection (a), as precedes “advance payments” is amended to read as follows: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 223` | strike | Subparagraph (A) of section 223(d)(2) of the Internal Revenue Code of 1986 is amended by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 223` | strike | Subparagraph (A) of section 220(d)(2) of such Code is amended by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 223` | strike | Section 106 of such Code is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 125` | redesignate | Section 125 of the Internal Revenue Code of 1986 is amended by redesignating subsections (k) and (l) as subsections (l) and (m), respectively, and by inserting after subsection (j) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 125` | add-at-end | Paragraph (1) of section 409A(d) of such Code is amended by striking “and” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “, and”, and by adding at the end the following new subparagraph: | the bill quotes text on both sides, but not as a single substitution this could carry out |
+| `26 U.S.C. § 36B` | strike | Paragraph (2) of section 36B(f) of the Internal Revenue Code of 1986 is amended by striking subparagraph (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 36B` | amend | So much of paragraph (2) of section 36B(f) of such Code, as amended by subsection (a), as precedes “advance payments” is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

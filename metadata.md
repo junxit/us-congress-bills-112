@@ -1,7 +1,7 @@
 ---
 measure: H.R. 436
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 436
@@ -293,3 +293,5 @@ Health Care Cost Reduction Act of 2012
 - 2012-06-07 — Resolution provides for consideration of H.R. 436 and H.R. 5882. Debate on H.R. 436 will continue for not to exceed 90 minutes, equally divided and controlled. H.R. 436 is closed to amendments. General debate on H.R. 5882 will continue for not to exceed one hour, equally divided and controlled. Specified amendments to H.R. 5882 are in order.
 - 2012-06-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3615-3617)
 - 2012-06-07 — The previous question was ordered pursuant to the rule. (consideration: CR H3615)
+- 2012-06-11 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-06-12 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 427.
