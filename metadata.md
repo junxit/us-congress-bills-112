@@ -1,7 +1,7 @@
 ---
 measure: S. 997
 congress: 112
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 997
@@ -35,3 +35,11 @@ East Bench Irrigation District Water Contract Extension Act
 - 2011-11-03 — Message on Senate action sent to the House.
 - 2011-11-03 — Received in the House.
 - 2011-11-03 — Referred to the House Committee on Natural Resources.
+- 2011-11-04 — Referred to the Subcommittee on Water and Power.
+- 2012-06-06 — Subcommittee Hearings Held.
+- 2012-06-07 — Committee Consideration and Mark-up Session Held.
+- 2012-06-07 — Ordered to be Reported.
+- 2012-06-07 — Subcommittee on Water and Power Discharged.
+- 2012-06-15 — Placed on the Union Calendar, Calendar No. 375.
+- 2012-06-15 — Reported by the Committee on Natural Resources. H. Rept. 112-527.
+- 2012-06-15 — Reported by the Committee on Natural Resources. H. Rept. 112-527.
