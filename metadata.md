@@ -1,7 +1,7 @@
 ---
 measure: H.R. 538
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 538
@@ -16,6 +16,12 @@ Government Customer Service Improvement Act
 
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 
+## Cosponsors (3)
+
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
@@ -25,3 +31,8 @@ Government Customer Service Improvement Act
 - 2011-02-08 — Introduced in House
 - 2011-02-08 — Introduced in House
 - 2011-02-08 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-04-18 — Committee Consideration and Mark-up Session Held.
+- 2012-04-18 — Ordered to be Reported (Amended).
+- 2012-06-15 — Placed on the Union Calendar, Calendar No. 382.
+- 2012-06-15 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-534.
+- 2012-06-15 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-534.
