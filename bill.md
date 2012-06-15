@@ -36,16 +36,16 @@ Congress finds that—
 
 ## § 3. Definitions
 
-In this Act:
+In this title:
 
 - **(1)** *City* The term City means the city of Yerington, Nevada.
-- **(2)** *Federal land* The term Federal land means the land located in Lyon County and Mineral County, Nevada, that is identified on the map as “Sustainable Development Conveyance Lands”.
-- **(3)** *Map* The term map means the map entitled “Yerington Land Conveyance and Sustainable Development Lands”, numbered _____, and dated February 16, 2012.
+- **(2)** *Federal land* The term Federal land means the land located in Lyon County and Mineral County, Nevada, that is identified on the map as “City of Yerington Sustainable Development Conveyance Lands”.
+- **(3)** *Map* The term map means the map entitled “Yerington Land Conveyance and Sustainable Development Act” and dated May 31, 2012.
 - **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
 
 ## § 4. Conveyances of land to City of Yerington, Nevada
 
-- **(a)** *In general* Not later than 90 days after the date of enactment of this Act, subject to valid existing rights, and notwithstanding the land use planning requirements of sections 202 and 203 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712, 1713), the Secretary shall convey to the City in exchange for consideration in an amount equal to the fair market value of the Federal land, all right, title, and interest of the United States in and to the Federal land identified on the map.
+- **(a)** *In general* Not later than 90 days after the date of enactment of this title, subject to valid existing rights, and notwithstanding the land use planning requirements of sections 202 and 203 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712, 1713), the Secretary shall convey to the City, subject to the City’s agreement and in exchange for consideration in an amount equal to the fair market value of the Federal land, all right, title, and interest of the United States in and to the Federal land identified on the map.
 - **(b)** *Appraisal To determine of fair market value* The Secretary shall determine the fair market value of the Federal land to be conveyed—
   - **(1)** in accordance with the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.); and
   - **(2)** based on an appraisal that is conducted in accordance with nationally recognized appraisal standards, including—
@@ -53,4 +53,8 @@ In this Act:
     - **(B)** the Uniform Standards of Professional Appraisal Practice.
 - **(c)** *Availability of map* The map shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
 - **(d)** *Applicable law* Beginning on the date on which the Federal land is conveyed to the City, the development of and conduct of activities on the Federal land shall be subject to all applicable Federal laws (including regulations).
-- **(e)** *Administrative costs* The City shall be responsible for all survey, appraisal, and other administrative costs associated with the conveyance of the Federal land to the City under this Act.
+- **(e)** *Administrative costs* The City shall be responsible for all survey, appraisal, and other administrative costs associated with the conveyance of the Federal land to the City under this title.
+
+## § 5. Release of the United States
+
+Upon making the conveyance under section 4, notwithstanding any other provision of law, the United States is released from any and all liabilities or claims of any kind or nature arising from the presence, release, or threat of release of any hazardous substance, pollutant, contaminant, petroleum product (or derivative of a petroleum product of any kind), solid waste, mine materials or mining related features (including tailings, overburden, waste rock, mill remnants, pits, or other hazards resulting from the presence of mining related features) on the Federal Land in existence on or before the date of the conveyance.
