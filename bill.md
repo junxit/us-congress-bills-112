@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3173
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,10 +23,15 @@ Congress finds the following:
 - **(8)** Possession of a TWIC does not allow a TWIC holder to gain unescorted access to secure areas of MTSA-regulated vessels and facilities unless the TWIC holder is authorized to do so under a Coast Guard-approved vessel or facility security plan.
 - **(9)** DHS has the statutory authority and regulatory flexibility to develop an alternative process for TWIC enrollment and issuance that does not require applicants to make multiple trips to a TWIC enrollment center.
 - **(10)** Other secure Government-issued identity documents, including United States passports, can be distributed to applicants by mail.
+- **(11)** Congress mandated the issuance of a final rule setting forth requirements for TWIC biometric readers no later than two years after the TWIC pilot began, which would have been August 2010; such a final rule has to date not been issued.
 
 ## § 2. Sense of Congress
 
-To avoid further imposing unnecessary and costly regulatory burdens on United States workers and businesses, it is the sense of Congress that it is urgent that the TWIC application process be reformed by not later than the end of 2012, when hundreds of thousands of current TWIC holders will begin to face the requirement to renew their TWICs.
+It is the sense of Congress that—
+
+- **(1)** to avoid further imposing unnecessary and costly regulatory burdens on United States workers and businesses, it is urgent that the TWIC application process be reformed by not later than the end of 2012, when hundreds of thousands of current TWIC holders will begin to face the requirement to renew their TWICs;
+- **(2)** the Secretary of Homeland Security should promulgate final regulations that require the deployment of TWIC readers as soon as practicable, in order to ensure the TWIC program realizes its intended security purpose; and
+- **(3)** funds, which have been awarded under the Port Security Grant Program for the purpose of funding TWIC projects, shall not expire before the issuance of the final TWIC reader rule.
 
 ## § 3. TWIC application reform
 
