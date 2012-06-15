@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4383
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Notwithstanding section 17(p)(2) of the Mineral Leasing Act (30 U.S.C. 226(p)(2)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 17(p)(2) of the Mineral Leasing Act (30 U.S.C. 226(p)(2)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 17(p) of the Mineral Leasing Act (30 U.S.C. 226(p)) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
