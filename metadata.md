@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2352
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2352
@@ -25,3 +25,11 @@ To authorize the Secretary of the Interior to adjust the boundary of the Stephen
 - 2011-06-24 — Introduced in House
 - 2011-06-24 — Introduced in House
 - 2011-06-24 — Referred to the House Committee on Natural Resources.
+- 2011-07-05 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2011-09-15 — Subcommittee Hearings Held.
+- 2011-10-05 — Committee Consideration and Mark-up Session Held.
+- 2011-10-05 — Ordered to be Reported by Voice Vote.
+- 2011-10-05 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-06-15 — Placed on the Union Calendar, Calendar No. 380.
+- 2012-06-15 — Reported by the Committee on Natural Resources. H. Rept. 112-532.
+- 2012-06-15 — Reported by the Committee on Natural Resources. H. Rept. 112-532.
