@@ -1,7 +1,7 @@
 ---
 measure: S. 997
 congress: 112
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 997
@@ -43,3 +43,15 @@ East Bench Irrigation District Water Contract Extension Act
 - 2012-06-15 — Placed on the Union Calendar, Calendar No. 375.
 - 2012-06-15 — Reported by the Committee on Natural Resources. H. Rept. 112-527.
 - 2012-06-15 — Reported by the Committee on Natural Resources. H. Rept. 112-527.
+- 2012-06-18 — Considered under suspension of the rules. (consideration: CR H3715)
+- 2012-06-18 — DEBATE - The House proceeded with forty minutes of debate on S. 997.
+- 2012-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-18 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2012-06-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3715)
+- 2012-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3715)
+- 2012-06-20 — Presented to President.
+- 2012-06-20 — Presented to President.
+- 2012-06-27 — Became Public Law No: 112-139.
+- 2012-06-27 — Became Public Law No: 112-139.
+- 2012-06-27 — Signed by President.
+- 2012-06-27 — Signed by President.
