@@ -180,3 +180,18 @@ This Act may be cited as the “Federal Employee Phased Retirement Act”.
 
   - **(2)** in the table of sections by inserting after the item relating to section 8412 the following:
 - **(c)** *Effective date* The amendments made by this section shall take effect on the effective date of the implementing regulations issued by the Director of the Office of Personnel Management.
+
+## § 3. Contributions to Thrift Savings Fund of payments for accrued or accumulated leave
+
+- **(a)** *Civil Service Retirement System* Section 8351(b)(2) of title 5, United States Code, is amended by adding at the end the following:
+  > - **(D)**
+  >   - **(i)** A qualified phased retiree may, in addition to any contributions otherwise allowable, contribute to the Thrift Savings Fund by direct transfer any part of any amount otherwise payable to such retiree for accumulated and current accrued annual or vacation leave under section 5551 or 5552.
+  >   - **(ii)** For purposes of this subparagraph, the term “qualified phased retiree” means a phased retiree (as defined by section 8336a) who has completed at least 1 year of service as such a retiree.
+
+- **(b)** *Federal Employees’ Retirement System* Section 8432(a) of title 5, United States Code, is amended by adding at the end the following:
+  > - **(4)**
+  >   - **(A)** A qualified phased retiree may, in addition to any contributions otherwise allowable, contribute to the Thrift Savings Fund by direct transfer any part of any amount otherwise payable to such retiree for accumulated and current accrued annual or vacation leave under section 5551 or 5552.
+  >   - **(B)** For purposes of this paragraph, the term “qualified phased retiree” means a phased retiree (as defined by section 8412a) who has completed at least 1 year of service as such a retiree.
+
+- **(c)** *Regulations* The Executive Director of the Federal Retirement Thrift Investment Board shall prescribe regulations to carry out the amendments made by this section.
+- **(d)** *Effective date* The amendments made by this section shall take effect 1 year after the date of the enactment of this section, or upon such earlier date as may be established by the Executive Director of the Federal Retirement Thrift Investment Board under the regulations prescribed under subsection (c).

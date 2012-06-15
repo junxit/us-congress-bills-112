@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4363
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4363
@@ -30,3 +30,8 @@ Federal Employee Phased Retirement Act
 - 2012-04-17 — Introduced in House
 - 2012-04-17 — Introduced in House
 - 2012-04-17 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-04-18 — Committee Consideration and Mark-up Session Held.
+- 2012-04-18 — Ordered to be Reported (Amended).
+- 2012-06-15 — Placed on the Union Calendar, Calendar No. 383.
+- 2012-06-15 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-535.
+- 2012-06-15 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-535.

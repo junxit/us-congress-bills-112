@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4363
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,8 +33,10 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | strike | in paragraph (30) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (31) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 8336 the following: | the bill names no machine-readable US Code section |
 | — | insert | in the table of sections by inserting after the item relating to section 8336 the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 8412 the following new section: | the bill names no machine-readable US Code section |
 | — | insert | in the table of sections by inserting after the item relating to section 8412 the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 8351(b)(2) of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 8432(a) of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
