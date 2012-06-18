@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 470
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 470
@@ -41,3 +41,7 @@ A resolution designating July 28, 2012, as "National Day of the American Cowboy"
 - 2012-05-23 — Introduced in Senate
 - 2012-05-23 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S3519)
 - 2012-05-23 — Sponsor introductory remarks on measure. (CR S3519)
+- 2012-06-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S4250)
+- 2012-06-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S4250)
+- 2012-06-18 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4250)
+- 2012-06-18 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4250)
