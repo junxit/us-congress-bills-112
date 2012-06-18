@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1556
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1556
@@ -38,3 +38,9 @@ To amend the Omnibus Indian Advancement Act to allow certain land to be used to 
 - 2011-12-01 — Placed on the Union Calendar, Calendar No. 206.
 - 2011-12-01 — Reported by the Committee on Natural Resources. H. Rept. 112-306.
 - 2011-12-01 — Reported by the Committee on Natural Resources. H. Rept. 112-306.
+- 2012-06-18 — Considered under suspension of the rules. (consideration: CR H3711-3712)
+- 2012-06-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1556.
+- 2012-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-18 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
+- 2012-06-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3711)
+- 2012-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3711)
