@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 488
 congress: 112
-version: Agreed to Senate
+version: Amendment Ordered to be Printed (Senate)
 ---
 
 # S.Res. 488
@@ -31,3 +31,9 @@ A resolution commending the efforts of the firefighters and emergency response p
 - 2012-06-07 — Introduced in Senate
 - 2012-06-07 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S3872-3873; text: CR S3872-3873; text of measure as introduced: CR S3844)
 - 2012-06-07 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3872-3873; text: CR S3872-3873; text of measure as introduced: CR S3844)
+- 2012-06-18 — Amendment SA 2458 agreed to in Senate by Unanimous Consent.
+- 2012-06-18 — Amendment SA 2458 proposed by Senator Stabenow for Senator Snowe. (consideration: CR S4250; text: CR S4250) To amend the preamble.
+- 2012-06-18 — Senate amendment agreed to: Amendment SA 2458 agreed to in Senate by Unanimous Consent.
+- 2012-06-18 — Senate amendment proposed (on the floor): Amendment SA 2458 proposed by Senator Stabenow for Senator Snowe.(consideration: CR S4250; text: CR S4250)
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — The preamble was amended after passage. by Unanimous Consent. (consideration: CR S4249-4250)
