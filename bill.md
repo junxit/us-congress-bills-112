@@ -11,35 +11,24 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Counterfeit Drug Penalty Enhancement Act of 2012”.
+This Act may be cited as the “Counterfeit Drug Penalty Enhancement Act of 2011”.
 
-## § 2. Counterfeit drug penalty enhancement
+## § 2. Counterfeit drug prevention
 
-- **(a)** *Offense* Section 2320(a) of title 18, United States Code, is amended—
-  - **(1)** by striking “or” at the end of paragraph (2);
-  - **(2)** by inserting “or” at the end of paragraph (3);
-  - **(3)** by inserting after paragraph (3) the following:
-    > - **(4)** traffics in a counterfeit drug,
+Section 2320(a) of title 18, United States Code, is amended—
 
-  - **(4)** by striking “through (3)” and inserting “through (4)”.
-- **(b)** *Penalties* Section 2320(b)(3) of title 18, United States Code, is amended—
-  - **(1)** in the heading, by inserting “and counterfeit drugs” after “services”; and
-  - **(2)** by inserting “or counterfeit drug” after “service”.
-- **(c)** *Definition* Section 2320(f) of title 18, United States Code, is amended—
-  - **(1)** by striking “and” at the end of paragraph (4);
-  - **(2)** by striking the period at the end of paragraph (5) and inserting “; and”; and
-  - **(3)** by adding at the end the following:
-    > - **(6)** the term “counterfeit drug” means a drug, as defined by section 201 of the Federal Food, Drug, and Cosmetic Act, that uses a counterfeit mark on or in connection with the drug.
+- **(1)** by redesignating paragraph (2) as paragraph (3);
+- **(2)** by inserting after paragraph (1) the following:
+  > - **(2)** *Counterfeit drugs*
+  >   - **(A)** *In general* Whoever commits an offense in violation of paragraph (1) with respect to a drug (as defined in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321)) shall—
+  >     - **(i)** if an individual, be fined not more than $4,000,000, imprisoned for not more than 20 years, or both; and
+  >     - **(ii)** if a person other than an individual, be fined not more than $10,000,000.
+  >   - **(B)** *Multiple offenses* In the case of an offense by a person under this paragraph that occurs after that person is convicted of another offense under this paragraph, the person convicted—
+  >     - **(i)** if an individual, shall be fined not more than $8,000,000, imprisoned for not more than 20 years, or both; and
+  >     - **(ii)** if other than an individual, shall be fined not more than $20,000,000.
 
-- **(d)** *Priority given to certain investigations and prosecutions* The Attorney General shall give increased priority to efforts to investigate and prosecute offenses under section 2320 of title 18, United States Code, that involve counterfeit drugs.
+- **(3)** in paragraph (3)(B), as redesignated, by striking “paragraph (1)” and inserting “paragraph (1) or (2)”.
 
-## § 3. Sentencing Commission Directive
+## § 3. Rule of construction
 
-- **(a)** *Directive to sentencing commission* Pursuant to its authority under section 994(p) of title 28, United States Code, and in accordance with this section, the United States Sentencing Commission shall review and amend, if appropriate, its guidelines and its policy statements applicable to persons convicted of an offense described in section 2320(a)(4) of title 18, United States Code, as amended by section 2, in order to reflect the intent of Congress that such penalties be increased in comparison to those currently provided by the guidelines and policy statements.
-- **(b)** *Requirements* In carrying out this section, the Commission shall—
-  - **(1)** ensure that the sentencing guidelines and policy statements reflect the intent of Congress that the guidelines and policy statements reflect the serious nature of the offenses described in subsection (a) and the need for an effective deterrent and appropriate punishment to prevent such offenses;
-  - **(2)** consider the extent to which the guidelines may or may not appropriately account for the potential and actual harm to the public resulting from the offense;
-  - **(3)** assure reasonable consistency with other relevant directives and with other sentencing guidelines;
-  - **(4)** account for any additional aggravating or mitigating circumstances that might justify exceptions to the generally applicable sentencing ranges;
-  - **(5)** make any necessary conforming changes to the sentencing guidelines; and
-  - **(6)** assure that the guidelines adequately meet the purposes of sentencing as set forth in section 3553(a)(2) of title 18, United States Code.
+Nothing in this Act, or the amendments made by this Act, shall be construed to apply to a drug (as defined in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321)) solely because the drug is manufactured in or imported from a foreign country.
