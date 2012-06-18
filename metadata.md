@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1272
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1272
@@ -38,3 +38,9 @@ Minnesota Chippewa Tribe Judgment Fund Distribution Act of 2012
 - 2012-05-30 — Placed on the Union Calendar, Calendar No. 354.
 - 2012-05-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-501.
 - 2012-05-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-501.
+- 2012-06-18 — Considered under suspension of the rules. (consideration: CR H3723-3725)
+- 2012-06-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1272.
+- 2012-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-18 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
+- 2012-06-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3723-3724)
+- 2012-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3723-3724)
