@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4027
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4027
@@ -20,9 +20,10 @@ To clarify authority granted under the Act entitled "An Act to define the exteri
 
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To clarify authority granted under the Act entitled "An Act to define the exteri
 - 2012-06-18 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
 - 2012-06-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3712)
 - 2012-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3712)
+- 2012-06-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
