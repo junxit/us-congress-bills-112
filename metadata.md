@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4310
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4310
@@ -20,9 +20,10 @@ National Defense Authorization Act for Fiscal Year 2013
 
 - Rep. Smith, Adam [D-WA-9] (S000510)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (29)
 
@@ -498,3 +499,4 @@ National Defense Authorization Act for Fiscal Year 2013
 - 2012-05-18 — The title of the measure was amended. Agreed to without objection.
 - 2012-05-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2012-05-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2012-06-19 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
