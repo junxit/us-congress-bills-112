@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3668
 congress: 112
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3668
@@ -52,9 +52,10 @@ Counterfeit Drug Penalty Enhancement Act of 2012
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -75,3 +76,4 @@ Counterfeit Drug Penalty Enhancement Act of 2012
 - 2012-06-18 — Placed on the Union Calendar, Calendar No. 385.
 - 2012-06-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-537.
 - 2012-06-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-537.
+- 2012-06-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
