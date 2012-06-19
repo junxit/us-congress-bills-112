@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1556
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1556
@@ -21,9 +21,10 @@ To amend the Omnibus Indian Advancement Act to allow certain land to be used to 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Heinrich, Martin [D-NM-1] (H001046)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To amend the Omnibus Indian Advancement Act to allow certain land to be used to 
 - 2012-06-18 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
 - 2012-06-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3711)
 - 2012-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3711)
+- 2012-06-19 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
