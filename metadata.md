@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1272
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1272
@@ -21,9 +21,10 @@ Minnesota Chippewa Tribe Judgment Fund Distribution Act of 2012
 - Rep. Cravaack, Chip [R-MN-8] (C001086)
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Minnesota Chippewa Tribe Judgment Fund Distribution Act of 2012
 - 2012-06-18 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
 - 2012-06-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3723-3724)
 - 2012-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3723-3724)
+- 2012-06-19 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
