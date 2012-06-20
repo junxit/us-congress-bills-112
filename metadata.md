@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 402
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 402
@@ -16,7 +16,7 @@ Amend the title so as to read: `Condemning Joseph Kony and the Lord's Resistance
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Cosponsors (32)
+## Cosponsors (46)
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
@@ -50,6 +50,20 @@ Amend the title so as to read: `Condemning Joseph Kony and the Lord's Resistance
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
 ## Committees (1)
 
@@ -59,3 +73,9 @@ Amend the title so as to read: `Condemning Joseph Kony and the Lord's Resistance
 
 - 2012-03-21 — Introduced in Senate
 - 2012-03-21 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1941)
+- 2012-04-18 — Committee on Foreign Relations Subcommittee on African Affairs. Hearings held.
+- 2012-04-24 — Committee on Foreign Relations Subcommittee on African Affairs. Hearings held.
+- 2012-06-19 — Committee on Foreign Relations. Ordered to be reported with amendments favorably.
+- 2012-06-20 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2012-06-20 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
+- 2012-06-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 432.
