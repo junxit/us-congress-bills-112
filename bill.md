@@ -1,0 +1,38 @@
+---
+legis-num: S. 3315
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3315
+
+> To repeal or modify certain mandates of the Government Accountability Office.
+
+## § 1. Short title
+
+This Act may be cited as the “GAO Mandates Revision Act of 2012”.
+
+## § 2. Repeals and modifications
+
+- **(a)** *Capitol Preservation Fund financial statements* Section 804 of the Arizona-Idaho Conservation Act of 1988 (2 U.S.C. 2084) is amended by striking “annual audits” and inserting “periodic audits, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Committee on House Administration of the House of Representatives requests that an audit be conducted at an earlier date,”.
+- **(b)** *Judicial Survivors’ Annuities Fund audit by GAO*
+  - **(1)** *In general* Section 376 of title 28, United States Code, is amended—
+    - **(A)** by striking subsection (w); and
+    - **(B)** by redesignating subsections (x) and (y) as subsections (w) and (x), respectively.
+  - **(2)** *Technical and conforming amendment* Section 376(h)(2) of title 28, United States Code, is amended by striking “subsection (x)” and inserting “subsection (w)”.
+- **(c)** *ONDCP annual report requirement* Section 203 of the Office of National Drug Control Policy Reauthorization Act of 2006 (21 U.S.C. 1708a) is amended—
+  - **(1)** by striking “(a) In General.—”; and
+  - **(2)** by striking subsection (b).
+- **(d)** *USERRA GAO report* Section 105(g)(1) of the Veterans’ Benefits Act of 2010 (Public Law 111–275; 38 U.S.C. 4301 note) is amended by striking “, and annually thereafter during the period when the demonstration project is conducted,”.
+- **(e)** *Semipostal program reports by the General Accounting Office* Section 2 of the Semipostal Authorization Act (Public Law 106–253; 114 Stat. 636; 39 U.S.C. 416 note) is amended—
+  - **(1)** by striking subsection (c); and
+  - **(2)** by redesignating subsections (d) and (e) as subsections (c) and (d), respectively.
+- **(f)** *Earned Import Allowance program review by GAO* Section 231A(b)(4) of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2703a(b)(4)) is amended—
+  - **(1)** by striking subparagraph (C); and
+  - **(2)** by redesignating subparagraph (D) as subparagraph (C).
+- **(g)** *American Battle Monuments Commission’s financial statements and audits* Section 2103(h) of title 36, United States Code, is amended—
+  - **(1)** in paragraph (1), by striking “of paragraph (2) of this subsection” and inserting “of section 3515 of title 31”;
+  - **(2)** in paragraph (1), by striking “(1)”; and
+  - **(3)** by striking paragraph (2).
+- **(h)** *Senate Preservation Fund audits* Section 3(c)(6) of the Legislative Branch Appropriations Act, 2004 (2 U.S.C. 2108(c)(6)) is amended by striking “annual audits” and inserting “periodic audits, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate requests that an audit be conducted at an earlier date,”.
