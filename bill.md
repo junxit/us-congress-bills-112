@@ -27,6 +27,22 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas Youcef Nadarkhani continues to refuse to recant his faith;
 - Whereas the Government of Iran continues to indefinitely imprison Youcef Nadarkhani for choosing to practice Christianity; and
 - Whereas the United Nations Special Rapporteur on the situation of human rights in Iran has reported that, at the time of his report, on October 19, 2011, the Government of Iran had secretly executed 146 people during that calendar year, and in 2010, the Government of Iran secretly executed more than 300 people: Now, therefore, be it
+- Whereas the United Nations Universal Declaration of Human Rights, adopted at Paris December 10, 1948, and the International Covenant on Civil and Political Rights, adopted at New York December 16, 1966, recognize that every individual has “the right to freedom of thought, conscience and religion”, which includes the “freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance”;
+- Whereas Iran is a member of the United Nations, supported the Universal Declaration of Human Rights when it was adopted, and ratified the International Covenant on Civil and Political Rights in 1976;
+- Whereas the United Nations Special Rapporteur on the situation of human rights in Iran has reported that religious minorities, including Nematullahi Sufi Muslims, Sunnis, Baha'is, and Christians, face human rights violations in Iran;
+- Whereas, in recent years, there has been a significant increase in the number of incidents of authorities in Iran raiding religious services, detaining worshipers and religious leaders, and harassing and threatening members of religious minorities;
+- Whereas the United Nations Special Rapporteur on the situation of human rights in Iran has reported that intelligence officials in Iran are known to threaten Christian converts with arrest and apostasy charges if they do not return to Islam;
+- Whereas the Department of State's most recent report on International Religious Freedom, released on September 13, 2011, states that Iran's “laws and policies severely restrict freedom of religion,” and notes “government imprisonment, harassment, intimidation, and discrimination based on religious beliefs” including “death sentences for apostasy or evangelism”;
+- Whereas, in October 2009, Youcef Nadarkhani, an Iranian Christian, protested an Iranian law that would impose Islam on his Christian children;
+- Whereas, in September 2010, a local court in Iran accused Youcef Nadarkhani of abandoning the Islamic faith of his ancestors and condemned him to death for apostasy;
+- Whereas the court sentenced Youcef Nadarkhani to death by hanging;
+- Whereas, on December 5, 2010, Youcef Nadarkhani appealed his conviction and sentence to the Supreme Revolutionary Court in Qom, Iran, and the court held that if it could be proven that he was a practicing Muslim in adulthood, his death sentence should be carried out unless he recants his Christian faith and adopts Islam;
+- Whereas, from September 25 to September 28, 2011, a local court in Iran held hearings to determine if Youcef Nadarkhani was a practicing Muslim in adulthood and held that he had abandoned the faith of his ancestors and must be sentenced to death if he does not recant his faith;
+- Whereas, on numerous occasions, the judiciary of Iran offered to commute Youcef Nadarkhani's sentence if he would recant his faith;
+- Whereas numerous Government of Iran officials have attempted to coerce Youcef Nadarkhani to recant his Christian faith and accept Islam in exchange for his freedom;
+- Whereas Youcef Nadarkhani continues to refuse to recant his faith;
+- Whereas the Government of Iran continues to indefinitely imprison Youcef Nadarkhani for choosing to practice Christianity; and
+- Whereas the United Nations Special Rapporteur on the situation of human rights in Iran has reported that, at the time of his report, on March 6, 2012, the Government of Iran had secretly executed 249 people in 2011, and in 2010, the Government of Iran secretly executed more than 300 people: Now, therefore, be it
 
 That the Senate—
 
