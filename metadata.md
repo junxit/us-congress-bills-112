@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2938
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2938
@@ -27,9 +27,10 @@ Gila Bend Indian Reservation Lands Replacement Clarification Act
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ Gila Bend Indian Reservation Lands Replacement Clarification Act
 - 2012-06-19 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-06-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 343 - 78, 2 Present (Roll no. 388). (text: CR 6/19/2012 H3725)
 - 2012-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 343 - 78, 2 Present (Roll no. 388).(text: CR 6/19/2012 H3725)
+- 2012-06-20 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.

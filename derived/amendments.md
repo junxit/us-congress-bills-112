@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2938
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 6(d) of Public Law 99–503 is amended by inserting “except that no class II or class III gaming activities, as defined in section 4 of the Indian Gaming Regulatory Act (25 U.S.C. 2703), may be conducted on such land if such land i… | the bill names no machine-readable US Code section |
+| `25 U.S.C. § 2703` | insert | Section 6(d) of Public Law 99–503 is amended by inserting “except that no class II or class III gaming activities, as defined in section 4 of the Indian Gaming Regulatory Act (25 U.S.C. 2703), may be conducted on such land if such land i… | the bill quotes the text inserted but describes where it goes |
