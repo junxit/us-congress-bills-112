@@ -1,7 +1,7 @@
 ---
 measure: S. 3187
 congress: 112
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-284 amendatory instructions. 0 executed, 284 stated and not applied.
+334 amendatory instructions. 0 executed, 334 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,10 +31,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | Paragraph (7) of section 735 (21 U.S.C. 379g) is amended, in the matter preceding subparagraph (A), by striking “incurred”. | the bill names no machine-readable US Code section |
+| — | replace | Section 735(7) (21 U.S.C. 379g) is amended by striking “expenses incurred in connection with” and inserting “expenses in connection with”. | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding paragraph (1), by striking “fiscal year 2008” and inserting “fiscal year 2013”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), in clauses (i) and (ii) of subparagraph (A), by striking “subsection (c)(5)” each place such term appears and inserting “subsection (c)(4)”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “subsection (c)(5)” and inserting “subsection (c)(4)”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “(c)(5)” and inserting “(c)(4)”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii), by striking “(c)(5)” and inserting “(c)(4)”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “(c)(5)” and inserting “(c)(4)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “payable on or before October 1 of each year” and inserting “due on the later of the first business day on or after October 1 of each fiscal year or the first business day after the enactment of an appropriations Act providin… | the bill names no machine-readable US Code section |
 | — | replace | by striking “subsection (c)(5)” and inserting “subsection (c)(4)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “payable on or before October 1 of each year.” and inserting “due on the later of the first business day on or after October 1 of each fiscal year or the first business day after the enactment of an appropriations Act providi… | the bill names no machine-readable US Code section |
@@ -45,20 +46,23 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking paragraphs (3) and (4) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “Fees authorized” and inserting “Subject to paragraph (2)(C), fees authorized”; | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “shall be retained” and inserting “subject to subparagraph (C), shall be collected and available”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking “shall only be collected and available” and inserting “shall be available”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A)(i), by striking “shall be retained” and inserting “subject to subparagraph (C), shall be collected and available”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A)(ii), by striking “shall only be collected and available” and inserting “shall be available”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “fiscal years 2008 through 2012” and inserting “fiscal years 2013 through 2017”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “fiscal years 2008 through 2010” and inserting “fiscal years 2013 through 2015”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “fiscal year 2011” and inserting “fiscal year 2016”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “fiscal years 2008 though 2011” and inserting “fiscal years 2013 through 2016”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “fiscal years 2008 through 2011” and inserting “fiscal years 2013 through 2016”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “fiscal year 2012” and inserting “fiscal year 2017”. | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “2008” and inserting “2013”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d), by striking “2012” each place it appears and inserting “2017”. | the bill names no machine-readable US Code section |
-| — | repeal | Section 106 of the Prescription Drug User Fee Amendments of 2007 (Title I of Public Law 110–85) is repealed. | the bill names no machine-readable US Code section |
-| — | repeal | Effective September 30, 2007, section 509 of the Prescription Drug User Fee Amendments Act of 2002 (Title V of Public Law 107–188) is repealed. | the bill names no machine-readable US Code section |
-| — | repeal | Effective September 30, 2002, section 107 of the Food and Drug Administration Modernization Act of 1997 (Public Law 105–115) is repealed. | the bill names no machine-readable US Code section |
+| — | repeal | Section 106 of the Food and Drug Administration Amendments Act of 2007 (Public Law 110–85) is repealed. | the bill names no machine-readable US Code section |
+| — | strike | The Food and Drug Administration Amendments Act of 2007 (Public Law 110–85) is amended in the table of contents in section 2, by striking the item relating to section 106. | the bill names no machine-readable US Code section |
+| — | repeal | section 509 of the Prescription Drug User Fee Amendments Act of 2002 (Title V of Public Law 107–188) is repealed; and | the bill names no machine-readable US Code section |
+| — | strike | the Public Health Security and Bioterrorism Preparedness and Response Act of 2002 (Public Law 107–188) is amended in the table of contents in section 1(b), by striking the item relating to section 509. | the bill names no machine-readable US Code section |
+| — | repeal | section 107 of the Food and Drug Administration Modernization Act of 1997 (Public Law 105–115) is repealed; and | the bill names no machine-readable US Code section |
+| — | strike | the table of contents in section 1(c) of such Act is amended by striking the item related to section 107. | the bill names no machine-readable US Code section |
 | — | repeal | Effective September 30, 1997, section 105 of the Prescription Drug User Fee Act of 1992 (Public Law 102–571) is repealed. | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (9), by striking “incurred” after “expenses”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (10), by striking “October 2001” and inserting “October 2011”; and | the bill names no machine-readable US Code section |
@@ -68,11 +72,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “October 1, 2002” and inserting “October 1, 2012”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “subsection (c)(1)” and inserting “subsection (c)”; and | the bill names no machine-readable US Code section |
 | — | replace | in clause (viii), by striking “1.84” and inserting “2”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “and subsection (f)” after “subparagraph (B)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “2008” and inserting “2013”; and | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A), by inserting “and subsection (f)” after “subparagraph (B)”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking “initial registration” and all that follows through “section 510.” and inserting | the bill names no machine-readable US Code section |
 | — | amend | Section 738(b) (21 U.S.C. 379j(b)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | in the subsection heading, by inserting “; adjustments” after “setting”; | the bill names no machine-readable US Code section |
+| — | insert | in the subsection heading, by inserting “; Adjustments” after “Setting”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraphs (1) and (2); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; and | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting before paragraph (4), as so redesignated, the following: | the bill names no machine-readable US Code section |
@@ -93,33 +96,33 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 515(c)(4)(A) (21 U.S.C. 360e(c)(4)(A)) is amended by striking “738(g)” and inserting “738(h)”. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “2012” and inserting “2017”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5), by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “2008 through 2012” each place it appears and inserting “2013 through 2017”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 201(c) of the Food and Drug Administration Amendments Act of 2007” and inserting “section 201(b) of the Medical Device User Fee Amendments of 2012”. | the bill names no machine-readable US Code section |
-| — | repeal | Section 217 of the Medical Device User Fee Amendments of 2007 (Title II of Public Law 110–85) is repealed. | the bill names no machine-readable US Code section |
-| — | repeal | Effective September 30, 2007, section 107 of the Medical Device User Fee and Modernization Act of 2002 (Public Law 107– 250) is repealed. | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “2008 through 2012” and inserting “2013 through 2017”. | the bill names no machine-readable US Code section |
+| — | repeal | Section 217 of the Food and Drug Administration Amendments Act of 2007 (Title II of Public Law 110–85) is repealed. | the bill names no machine-readable US Code section |
+| — | strike | The Food and Drug Administration Amendments Act of 2007 (Public Law 110–85) is amended in the table of contents in section 2, by striking the item relating to section 217. | the bill names no machine-readable US Code section |
+| — | repeal | section 107 of the Medical Device User Fee and Modernization Act of 2002 (Public Law 107–250) is repealed; and | the bill names no machine-readable US Code section |
+| — | strike | the table of contents in section 1(b) of such Act is amended by striking the item related to section 107. | the bill names no machine-readable US Code section |
 | — | insert | Subchapter A of chapter VII (21 U.S.C. 371 et seq.) is amended by inserting after section 713 the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter C of chapter VII (21 U.S.C. 379f et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Part 7 of subchapter C of chapter VII, as added by section 302 of this Act, is amended by inserting after section 744B the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 502 (21 U.S.C. 352) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “are activities” and inserting “are— | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (c) to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter A of chapter VII (21 U.S.C. 371 et seq.), as amended by section 208, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Subchapter C of chapter VII (21 U.S.C. 379f et seq.) is amended by inserting after part 7, as added by title III of this Act, the following: | the bill names no machine-readable US Code section |
 | — | insert | Part 8 of subchapter C of chapter VII, as added by section 402, is further amended by inserting after section 744H the following: | the bill names no machine-readable US Code section |
 | — | strike | Section 735(1)(B) (21 U.S.C. 379g(1)(B)) is amended by striking “or (k)”. | the bill names no machine-readable US Code section |
-| — | replace | in the subsection heading, by striking “Sunset” and inserting “Permanence”; | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (1), by striking “on or before October 1, 2012,”; and | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (2), by striking “on or before October 1, 2012,”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 715, as added by section 308 of this Act, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | Section 505A (21 U.S.C. 355a) is amended by striking subsection (q) (relating to a sunset). | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (m); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (n) as subsection (m). | the bill names no machine-readable US Code section |
 | — | amend | Subsection (h) of section 505A (21 U.S.C. 355a) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 351(m)(1) of the Public Health Service Act (42 U.S.C. 262(m)(1)) is amended by striking “(f), (i), (j), (k), (l), (p), and (q)” and inserting “(f), (h), (i), (j), (k), (l), (n), and (p)”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Subparagraph (A) of section 505A(d)(1) is amended by adding at the end the following: “If a request under this subparagraph does not request studies in neonates, such request shall include a statement describing the rationale for not req… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (B) as subparagraph (C); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (A) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in clause (i), by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, as well as the date of each deferral or deferral extension, as applicable,” after “clause (i)”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “not later than 90 days after submission to the Secretary or with the next routine quarterly update” after “Administration”; and | the bill names no machine-readable US Code section |
+| — | amend | by amending clause (ii) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | in the subsection heading, by inserting “Deferral Extensions,” after “Deferrals,”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “, deferral extension, ” after “deferral”; and | the bill names no machine-readable US Code section |
 | — | insert | in the paragraph heading, by inserting “deferral extensions,” after “deferrals,”; and | the bill names no machine-readable US Code section |
@@ -135,47 +138,68 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (1), by striking “all pediatric plans” and inserting “initial pediatric study plans, agreed initial pediatric study plans,”; and | the bill names no machine-readable US Code section |
 | — | replace | in the paragraph heading, by striking “pediatric plans,” and inserting “pediatric study plans,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “pediatric plans” and inserting “initial pediatric study plans, agreed initial pediatric study plans,”. | the bill names no machine-readable US Code section |
-| — | replace | Section 14(d) of the Best Pharmaceuticals for Children Act (42 U.S.C. 284m note) is amended by striking “Notwithstanding section 14 of the Federal Advisory Committee Act, the advisory committee shall continue to operate during the five-y… | the bill names no machine-readable US Code section |
-| — | replace | Section 15(a)(3) of the Best Pharmaceuticals for Children Act (42 U.S.C. 284m note) is amended by striking “during the five-year period beginning on the date of the enactment of the Best Pharmaceuticals for Children Act of 2007” and inse… | the bill names no machine-readable US Code section |
+| — | replace | Section 14(d) of the Best Pharmaceuticals for Children Act (42 U.S.C. 284m note) is amended by striking “during the five-year period beginning on the date of the enactment of the Best Pharmaceuticals for Children Act of 2007” and inserti… | the bill names no machine-readable US Code section |
+| — | replace | Section 15(a)(3) of the Best Pharmaceuticals for Children Act (Public Law 107–109), as amended by section 502(e) of the Food and Drug Administration Amendments Act of 2007 (Public Law 110–85), is amended by striking “during the five-year… | the bill names no machine-readable US Code section |
 | — | replace | Section 520(m)(6)(A)(iv) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j(m)(6)(A)(iv)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
-| — | replace | Section 305(e) of Pediatric Medical Device Safety and Improvement Act (Public Law 110–85; 42 U.S.C. 282 note)) is amended by striking “$6,000,000 for each of fiscal years 2008 through 2012” and inserting “$4,500,000 for each of fiscal ye… | the bill names no machine-readable US Code section |
-| — | replace | Section 409I(e)(1) of the Public Health Service Act (42 U.S.C. 284m(e)(1)) is amended by striking “to carry out this section” and all that follows through the end of paragraph (1) and inserting “to carry out this section $25,000,000 for … | the bill names no machine-readable US Code section |
+| — | replace | Section 409I(e)(1) of the Public Health Service Act (42 U.S.C. 284m(e)(1)) is amended by striking “to carry out this section” and all that follows through the end of paragraph (1) and inserting “to carry out this section, $25,000,000 for… | the bill names no machine-readable US Code section |
 | — | replace | in subsection (k)(2), by striking “subsection (f)(3)(F)” and inserting “subsection (f)(6)(F)”; | the bill names no machine-readable US Code section |
+| — | replace | in the paragraph heading, by striking “year one” and inserting “first 18-month period”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “one-year” and inserting “18-month”; | the bill names no machine-readable US Code section |
+| — | replace | in the paragraph heading, by striking “years” and inserting “periods”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “one-year period” and inserting “18-month period”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (3) as paragraph (4); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
 | — | replace | in the subsection heading, by striking “completed” and inserting “submitted”; and | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A), by striking “have not been completed” and inserting “have not been submitted by the date specified in the written request issued or if the applicant or holder does not agree to the request”; | the bill names no machine-readable US Code section |
 | — | insert | in the first sentence, by inserting “, or for which a period of exclusivity eligible for extension under subsection (b)(1) or (c)(1) of this section or under subsection (m)(2) or (m)(3) of section 351 of the Public Health Service Act has… | the bill names no machine-readable US Code section |
 | — | strike | by striking “Prior to” and all that follows through the period at the end; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “no listed patents or has 1 or more listed patents that have expired,” and inserting “no unexpired listed patents and for which no unexpired periods of exclusivity eligible for extension under subsection … | the bill names no machine-readable US Code section |
-| — | insert | in the matter preceding subparagraph (A), by inserting “for a drug” after “(or supplement to an application)”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “for a” and inserting “, including, with respect to a drug, an application (or supplement to an application) for a”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “for a” and inserting “, including, with respect to a drug, an application (or supplement to an application) for a”; and | the bill names no machine-readable US Code section |
-| — | insert | in the matter following subparagraph (B), by inserting “(or supplement)” after “application”; and | the bill names no machine-readable US Code section |
+| — | amend | in subsection (o)(2), by amending subparagraph (B) to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1), in the matter before subparagraph (A), by inserting “for a drug” after “(or supplement to an application)”; and | the bill names no machine-readable US Code section |
 | — | insert | in the first sentence, by inserting “partial” before “waiver is granted”; and | the bill names no machine-readable US Code section |
 | — | replace | in the second sentence, by striking “either a full or” and inserting “such a”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b)(1), in the matter preceding subparagraph (A), by striking “After providing notice” and all that follows through “studies), the” and inserting “The”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1)(A), by inserting “that receives a priority review or 330 days after the date of the submission of an application or supplement that receives a standard review” after “after the date of the submission of the application o… | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “the label of such product” and inserting “the labeling of such product”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “the label of such product” and inserting “the labeling of such product”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “an application (or supplement to an application) that contains” after “date of submission of”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, if the application (or supplement) receives a priority review, or not later than 330 days after the date of submission of an application (or supplement to an application) that contains a pediatric assessment under this se… | the bill names no machine-readable US Code section |
-| — | insert | The heading of section 505C (21 U.S.C. 355d) is amended by inserting “and deferral extensions” after “deferrals”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “if the application (or supplement) receives a priority review, or not later than 330 days after the date of submission of an application (or supplement to an application) that contains a pediatric assessment under this sect… | the bill names no machine-readable US Code section |
+| — | replace | in the paragraph heading, by striking “year one” and inserting “first 18-month period”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “one-year” and inserting “18-month”; | the bill names no machine-readable US Code section |
+| — | replace | in the paragraph heading, by striking “years” and inserting “periods”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “one-year period” and inserting “18-month period”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (3) as paragraph (4); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
+| — | insert | in the section heading, by inserting “deferral extensions,” after “deferrals,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “neonatology,” after “pediatric ethics,”. | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding subparagraph (A), by inserting “or section 351(m) of this Act,” after “Cosmetic Act,”; | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A)(i), by inserting “or section 351(k) of this Act” after “Cosmetic Act”; and | the bill names no machine-readable US Code section |
 | — | amend | by amending subparagraph (B) to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | in the paragraph heading, by striking “for drugs lacking exclusivity”; and | the bill names no machine-readable US Code section |
+| — | strike | in the paragraph heading, by striking “for drugs lacking exclusivity”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “under section 505 of the Federal Food, Drug, and Cosmetic Act”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “505A of such Act” and inserting “505A of the Federal Food, Drug, and Cosmetic Act or section 351(m) of this Act”. | the bill names no machine-readable US Code section |
 | — | replace | Section 15(a) of the Best Pharmaceuticals for Children Act (Public Law 107–109), as amended by section 502(e) of the Food and Drug Administration Amendments Act of 2007 (Public Law 110–85), is amended in paragraph (1)(D), by striking ‘‘s… | the bill names no machine-readable US Code section |
 | — | strike | Section 499(c)(1)(C) of the Public Health Service Act (42 U.S.C. 290b(c)(1)(C)) is amended by striking “for which the Secretary issues a certification in the affirmative under section 505A(n)(1)(A) of the Federal Food, Drug, and Cosmetic… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 505 (21 U.S.C. 351) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “(m) Clarification of Interaction of Market Exclusivity Under This Section and Market Exclusivity Awarded to an Applicant for Approval of A Drug Under Section 505(j).—If a” and all that follows through the end of the matter t… | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B) and moving such subparagraphs, as so redesignated, 2 ems to the right; and | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (2) as paragraph (4); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in the heading, by striking “section 505(j)” and inserting “subsections (c) and (j) of section 505”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “under section 505(j)” and inserting “under subsection (b)(2), (c), or (j) of section 505”; | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (2), in the matter preceding subparagraph (A), by inserting “clauses (iii) and (iv) of section 505(c)(3)(E) or” after “Notwithstanding”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (B), by inserting “that differ from adult formulations” before the semicolon at the end; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “under section 505(j)” and inserting “under subsection (c) or (j) of section 505”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “clauses (iii) or (iv) of section 505(c)(3)(E) or” after “exclusivity under”. | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2)(B)(ii), by inserting “safety or effectiveness” before “data obtained”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | in paragraph (4), by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clause (iii) as clause (v); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after clause (ii) the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking ‘‘(D) Whenever’’ and inserting ‘‘(D)(i) Whenever’’; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Chapter V is amended by inserting after section 517 (21 U.S.C. 360g) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Chapter V is amended by inserting after section 518 (21 U.S.C. 360h) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 520(g) (21 U.S.C. 360j(g)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(i)” after “(2)(A)”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A)(i), as so designated by paragraph (1), by striking “under the criteria set forth” and all that follows through the end of subparagraph (A) and inserting a period; | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end of subparagraph (A) the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “Not later than 60 days after the date of the submission of the request under subparagraph (A), the Secretary” and inserting “The Secretary”. | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “, or” at the end and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 513(e)(1) (21 U.S.C. 360c(e)(1)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 513(e)(2) (21 U.S.C. 360c(e)(2)) is amended by striking “regulation promulgated” and inserting “an order issued”. | the bill names no machine-readable US Code section |
 | — | replace | Section 514(a)(1) (21 U.S.C. 360d(a)(1)) is amended by striking “under a regulation under section 513(e) but such regulation” and inserting “under an administrative order under section 513(e) (or a regulation promulgated under such secti… | the bill names no machine-readable US Code section |
@@ -183,7 +207,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (a), by striking “regulation promulgated under subsection (b)” and inserting “an order issued under subsection (b) (or a regulation promulgated under such subsection prior to the date of enactment of the Food and Drug Admin… | the bill names no machine-readable US Code section |
 | — | replace | in the heading, by striking “Regulation” and inserting “Order”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “by regulation, promulgated in accordance with this subsection” and inserting “by administrative order following publication of a proposed order in the Federal Register, a meeting of a device classification panel described in… | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “Authority to issue such administrative order shall not be delegated below the Director of the Center for Devices and Radiological Health, acting in consultation with the Commissioner.”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (B); and | the bill names no machine-readable US Code section |
 | — | replace | by striking “(2)(A) A proceeding for the promulgation of a regulation under paragraph (1) respecting a device shall be initiated by the publication in the Federal Register of a notice of proposed rulemaking. Such notice shall contain—” a… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clauses (i) through (iv) as subparagraphs (A) through (D), respectively; | the bill names no machine-readable US Code section |
@@ -208,35 +232,26 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “a regulation promulgated” and inserting “an order issued”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “promulgation of such regulation” and inserting “issuance of such order”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “(ii)” and inserting “(ii)(I)”; and | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (4) of section 803(c) (21 U.S.C. 383(c)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(3)” and inserting “(3)(A)”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | in subsection (a)(1)(A), in the matter preceding clause (i), by inserting “, at the time of approval or clearance of a device or at any time thereafter,” after “by order”; and | the bill names no machine-readable US Code section |
-| — | insert | in subsection (b)(1), by inserting “The manufacturer shall commence surveillance under this section not later than 15 months after the day on which the Secretary issues an order under this section.” after the second sentence. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 519 (21 U.S.C. 360i) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 520(g) (21 U.S.C. 360j(g)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “The Secretary shall promulgate” and inserting “Not later than December 31, 2012, the Secretary shall issue proposed”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: “The Secretary shall finalize the proposed regulations not later than 6 months after the close of the comment period and shall implement the final regulations with respect to devices that are implantab… | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating clause (iii) as clause (v); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after clause (ii) the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “(D) Whenever” and inserting “(D)(i) Whenever”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 520(b) (21 U.S.C. 360j(b)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | Chapter V (21 U.S.C. 351 et seq.) is amended by inserting after section 517 the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “(C) For guidance documents” and inserting “(C)(i) For guidance documents”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; | the bill names no machine-readable US Code section |
-| — | amend | by amending subparagraph (A) to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (A) the following: | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “Not later than 60 days after the date of the submission of the request under subparagraph (A),” and inserting “Not later than 120 days after the date of the submission of the request under subparagraph (A)(i) … | the bill names no machine-readable US Code section |
-| — | insert | in clause (ii), by inserting “or is classified in” after “remains in”. | the bill names no machine-readable US Code section |
-| — | insert | Section 513(f)(1)(B) (21 U.S.C. 360c(f)(1)(B)) is amended by inserting “a request under paragraph (2) or” after “response to”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 523(b)(2) (21 U.S.C. 360m(b)(2)) is amended by adding at the end of the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 523(c) (21 U.S.C. 360m(c)) is amended by striking “October 1, 2012” and inserting “October 1, 2017”. | the bill names no machine-readable US Code section |
+| — | replace | Section 704(g)(11) (21 U.S.C. 374(g)(11)) is amended by striking “October 1, 2012” and inserting “October 1, 2017”. | the bill names no machine-readable US Code section |
 | — | replace | by striking clause (i) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking clause (ii) and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | by amending subparagraph (C) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (7), by striking “regarding a device” and inserting “regarding a device described in paragraph (6)(A)(i)(I)”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (8), by striking “of all devices described in paragraph (6)” and inserting “of all devices described in paragraph (6)(A)(i)(I)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 523(c) (21 U.S.C. 360m(c)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
-| — | replace | Section 704(g)(11) (21 U.S.C. 374(g)(11)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “The Secretary shall promulgate” and inserting “Not later than December 31, 2012, the Secretary shall issue proposed”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “The Secretary shall finalize the proposed regulations not later than 6 months after the close of the comment period and shall implement the final regulations with respect to devices that are implantab… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 519 (21 U.S.C. 360i) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a)(1)(A), in the matter preceding clause (i), by inserting “, at the time of approval or clearance of a device or at any time thereafter,” after “by order”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b)(1), by inserting “The manufacturer shall commence surveillance under this section not later than 15 months after the day on which the Secretary issues an order under this section.” after the second sentence. | the bill names no machine-readable US Code section |
+| — | amend | Section 520(b) (21 U.S.C. 360j(b)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(C) For guidance documents” and inserting “(C)(i) For guidance documents”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 305(e) of Pediatric Medical Device Safety and Improvement Act (Public Law 110–85; 42 U.S.C. 282 note)) is amended by striking “$6,000,000 for each of fiscal years 2008 through 2012” and inserting “$5,250,000 for each of fiscal ye… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “On or before” and all that follows through the period at the end and inserting the following: “During the period beginning on October 1 and ending on December 31 of each year, every person who owns or opera… | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “with the Secretary his name, place of business, and such establishment” and inserting “with the Secretary— | the bill names no machine-readable US Code section |
@@ -248,70 +263,105 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (C), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(p) Registrations and listings” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 510(h) (21 U.S.C. 360(h)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 704(a) (21 U.S.C. 374(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 801(a) (21 U.S.C. 381(a)) is amended by adding at the end the following: “Notwithstanding any other provision of this subsection, the Secretary of Homeland Security shall, upon request from the Secretary of Health and Human Servi… | the bill names no machine-readable US Code section |
-| — | replace | by striking “Confidential information” and all that follows through “The Secretary” and inserting “Confidential information. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 501 (21 U.S.C. 351) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The sixth sentence of section 801(a) (21 U.S.C. 381(a)) is amended by inserting before the period at the end the following: “, except that the Secretary of Health and Human Services may destroy, without the opportunity for export, any dr… | the bill names no machine-readable US Code section |
+| — | insert | Subsection (a) of section 801 (21 U.S.C. 381), as amended by subsection (a), is further amended by inserting after the sixth sentence the following: “The Secretary of Health and Human Services shall issue regulations providing for notice… | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1), by inserting “, drug,” after “device”, each place it appears; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2)(A), by inserting “, drug,” after “(B), a device”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2)(B), by inserting “or drug” after “device” each place it appears. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 304 (21 U.S.C. 334) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Confidential Information” and all that follows through “The Secretary may provide” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 501 (21 U.S.C. 351) is amended by adding at the end the following flush text: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter VIII (21 U.S.C. 381 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subsection (o), by striking “drug or”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 301 (21 U.S.C. 331) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 801 (21 U.S.C. 381), as amended by section 713 of this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 502(o) (21 U.S.C. 352) is amended by inserting “if it is a drug and was imported or offered for import by a commercial importer of drugs not duly registered under section 801(s),” after “not duly registered under section 510,”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 301 (21 U.S.C. 331), as amended by section 714 of this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter E of chapter V (21 U.S.C. 360bbb et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 303(b) (21 U.S.C. 333(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 303(b) (21 U.S.C. 333(b)), as amended by section 713, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking “or” at the end of paragraph (2); | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or” at the end of paragraph (3); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “through (3)” and inserting “through (4)”. | the bill names no machine-readable US Code section |
+| — | insert | in the heading, by inserting “and counterfeit drugs” after “services”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or counterfeit drug” after “service”. | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of paragraph (4); | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter III (21 U.S.C. 331 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter V (21 U.S.C. 351 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 301 (21 U.S.C. 331), as amended by section 712, is further amended by inserting at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Chapter V (21 U.S.C. 351 et seq.) is amended by inserting after section 505D the following: | the bill names no machine-readable US Code section |
 | — | insert | Chapter V (21 U.S.C. 351 et seq.) is amended by inserting after section 524 the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 506(a)(1) (21 U.S.C. 356(a)(1)), as amended by section 901(b), is amended by inserting “, or if the Secretary designates the drug as a qualified infectious disease product under section 505E(d)” before the period at the end of th… | the bill names no machine-readable US Code section |
+| — | insert | Section 506(a)(1) (21 U.S.C. 356(a)(1)), as amended by section 901(b) of this Act, is amended by inserting “, or if the Secretary designates the drug as a qualified infectious disease product under section 505E(d)” before the period at t… | the bill names no machine-readable US Code section |
 | — | amend | Section 506 (21 U.S.C. 356) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (a) through (c) as subsections (b) through (d), respectively; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (d) as subsection (f); | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting before subsection (b), as so redesignated, the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f)(1), as so redesignated, by striking “applicable to accelerated approval” and inserting “applicable to breakthrough therapies, accelerated approval, and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (f)(1), as so redesignated, by striking “applicable to accelerated approval” and inserting “applicable to breakthrough therapies, accelerated approval, and”. | the bill names no machine-readable US Code section |
 | — | replace | Section 506B(e) (21 U.S.C. 356b) is amended by striking “section 506(b)(2)(A)” each place such term appears and inserting “section 506(c)(2)(A)”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Subchapter E of chapter V (21 U.S.C. 360bbb et seq.), as amended by section 712, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter E of chapter V (21 U.S.C. 360bbb et seq.), as amended by section 715 of this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 505(d) (21 U.S.C. 355(d)) is amended by adding at the end the following: “The Secretary shall implement a structured risk-benefit assessment framework in the new drug approval process to facilitate the balanced consideration of b… | the bill names no machine-readable US Code section |
-| — | replace | Section 5(c) of the Orphan Drug Act (21 U.S.C. 360ee(c)) is amended by striking “2008 through 2012” and inserting “2013 through 2017”. | the bill names no machine-readable US Code section |
-| — | strike | Section 5(b)(1)(A)(ii)) of the Orphan Drug Act (21 U.S.C. 360ee(b)(1)(A)(ii)) is amended by striking “after the date such drug is designated under section 526 of such Act and”. | the bill names no machine-readable US Code section |
+| — | strike | Section 5(b)(1)(A)(ii) of the Orphan Drug Act (21 U.S.C. 360ee(b)(1)(A)(ii)) is amended by striking “after the date such drug is designated under section 526 of such Act and”. | the bill names no machine-readable US Code section |
+| — | amend | Section 5(c) of the Orphan Drug Act (21 U.S.C. 360ee(c)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter B of chapter V (21 U.S.C. 360aa et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 506C (21 U.S.C. 356c) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | Chapter V (21 U.S.C. 351 et seq.) is amended by inserting after section 506C, as amended by section 1001 of this Act, the following: | the bill names no machine-readable US Code section |
+| — | insert | Chapter V (21 U.S.C. 351 et seq.) is amended by inserting after section 506C–1, as added by section 1002 of this Act, the following: | the bill names no machine-readable US Code section |
+| — | insert | Chapter V (21 U.S.C. 351 et seq.) is amended by inserting after section 506D, as added by section 1003 of this Act, the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 306 of the Controlled Substances Act (21 U.S.C. 826) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Chapter V (21 U.S.C. 351 et seq.) is amended by inserting after section 506E, as added by section 1004 of this Act, the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 505(u)(4) (21 U.S.C. 355(u)(4)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | insert | Section 505(u)(1)(A)(ii)(II) (21 U.S.C. 355(u)(1)(A)(ii)(II)) is amended by inserting “clinical” after “any”. | the bill names no machine-readable US Code section |
-| — | replace | Section 566(f) (21 U.S.C. 360bbb–5(f)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
+| — | amend | Subsection (f) of section 566 (21 U.S.C. 360bbb–5) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter V (21 U.S.C. 351 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (B) as paragraph (2) and moving such paragraph, as so redesignated, 2 ems to the left; | the bill names no machine-readable US Code section |
-| — | redesignate | in subparagraph (A), by redesignating clauses (i) through (iii) as subparagraphs (A) through (C), respectively, and moving such subparagraphs, as so redesignated, 2 ems to the left; | the bill names no machine-readable US Code section |
-| — | redesignate | in subparagraph (A), as so redesignated, by inserting “, including strategies to increase the number of special Government employees across medical and scientific specialties in areas where the Secretary would benefit from specific scien… | the bill names no machine-readable US Code section |
-| — | replace | by striking “(1) Recruitment.—” and inserting “(1) Recruitment in general.—The Secretary shall—”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “(A) In general.—The Secretary shall—”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating clauses (i) through (iii) of paragraph (2) (as so redesignated) as subparagraphs (A) through (C), respectively, and moving such subparagraphs, as so redesignated, 2 ems to the left; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2) (as so redesignated), in the matter before subparagraph (A) (as so redesignated), by striking “subparagraph (A)” and inserting “paragraph (1)”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (c)(2)(C) to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | in subsection (e), by inserting “, and shall make publicly available,” after “House of Representatives”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | Subchapter D of chapter VII (21 U.S.C. 379k et seq.) is amended by inserting after section 745 the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subchapter E of chapter V (21 U.S.C. 360bbb et seq.), as amended by section 903, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subchapter A of chapter VII (21 U.S.C. 371 et seq.), as amended by section 208, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 505–1 (21 U.S.C. 355–1) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 505–1(c)(2) (21 U.S.C. 355–1(c)(2)) is amended by striking “(e) and (f)” and inserting “(e), (f), and (k)(3)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 502(y) (21 U.S.C. 352(y)) is amended by striking “”(d), (e), or (f) of section 505–1” and inserting “(d), (e), (f), or (k)(3) of section 505–1”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Subchapter E of chapter V (21 U.S.C. 360bbb et seq.), as amended by section 1126, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter X (21 U.S.C. 391 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter E of chapter V (21 U.S.C. 360bbb et seq.), as amended by section 903 of this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 221(a) of the Public Health Service Act (42 U.S.C. 213a(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 221(b) of the Public Health Service Act (42 U.S.C. 213a(b)) is amended by adding at the end the following: “For purposes of paragraph (18) of subsection (a), the term Inspector General in section 1034 of such title 10 shall mean … | the bill names no machine-readable US Code section |
-| — | add-at-end | in section 401(b)(1) (21 U.S.C. 841(b)(1)), by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “, and propose a modification to,”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “, subject to paragraph (5),”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “, and may propose a modification to,”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking “new safety or effectiveness information indicates that” and all that follows and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking subparagraph (D); | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “for a drug shall include—” and all that follows and inserting the following “for a drug shall include, with respect to each goal included in the strategy, an assessment of the extent to which the approved s… | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (4) to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | in the subsection heading by inserting “and Modifications” after “Review of Assessments”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and proposed modification to” after “under subsection (a) and each assessment of”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, and, if necessary, promptly initiate discussions with the responsible person about such proposed strategy, assessment, or modification” after “subsection (g)”; | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (2); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3) through (9) as paragraphs (2) through (8), respectively; | the bill names no machine-readable US Code section |
+| — | amend | by amending subparagraph (A) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending subparagraph (C) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Not earlier than 15 days, and not later than 35 days, after discussions under paragraph (2) have begun, the” and inserting “The”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, after the sponsor is required to make a submission under subsection (a)(2) or (g),” before “request in writing”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking clauses (i) and (ii); and | the bill names no machine-readable US Code section |
+| — | replace | by striking “if the Secretary—” and inserting “if the Secretary has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under sub… | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “any of subparagraphs (B) through (D)” and inserting “subparagraph (B) or (C)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking “paragraph (4) or (5)” and inserting “paragraph (3) or (4)”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (8), as redesignated by paragraph (4), by striking “paragraphs (7) and (8)” and inserting “paragraphs (6) and (7).”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 505 (21 U.S.C. 355) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “subsection (b)(2) or (j)” and inserting “subsection (b)(2) or (j) of this section or section 351(k) of the Public Health Service Act”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (F), by striking “180 days” and inserting “150 days”; | the bill names no machine-readable US Code section |
+| — | replace | in the subparagraph heading, by striking “180” and inserting “150”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “180-day” and inserting “150-day”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and moving such clauses, as so redesignated, 2 ems to the right; | the bill names no machine-readable US Code section |
+| — | replace | by striking “This subsection does not apply to—” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5), by striking “subsection (b)(2) or (j)” inserting “subsection (b)(2) or (j) of the Act or 351(k) of the Public Health Service Act”. | the bill names no machine-readable US Code section |
+| — | insert | Subchapter D of chapter VII (21 U.S.C. 379k et seq.) is amended by inserting after section 745 the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter E of chapter V (21 U.S.C. 360bbb et seq.), as amended by section 1123 of this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsections (b) and (c) and inserting the following subsections: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d), by striking “subsection (c)(3)” and inserting “subsection (c)”; | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (e) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (f), by striking “shall review guidance” and all that follows through the end of the subsection and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Schedule I, as set forth in section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Schedule I of section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended in subsection (c) by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “one year” and inserting “2 years”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “six months” and inserting “1 year”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 401(b)(1)(C) of the Controlled Substances Act (21 U.S.C. 841(b)(1)(C)) is amended by adding at the end the following: “Any mandatory minimum term of imprisonment required to be imposed under this subparagraph shall not apply with… | the bill names no machine-readable US Code section |

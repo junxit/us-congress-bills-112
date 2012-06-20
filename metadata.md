@@ -1,7 +1,7 @@
 ---
 measure: S. 3187
 congress: 112
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 3187
@@ -260,3 +260,12 @@ Food and Drug Administration Safety and Innovation Act
 - 2012-05-24 — Senate amendment proposed (on the floor): Amendment SA 2142 proposed by Senator Harkin for Senator Leahy.(consideration: CR S3545-3547)
 - 2012-05-24 — Senate amendment proposed (on the floor): Amendment SA 2145 proposed by Senator Harkin for Senator Portman.(consideration: CR S3555-3557)
 - 2012-05-24 — Senate amendment proposed (on the floor): Amendment SA 2146 proposed by Senator Harkin for Senator Portman.(consideration: CR S3545-3547, S3548-3550, S3555-3557)
+- 2012-05-25 — Held at the desk.
+- 2012-05-25 — Received in the House.
+- 2012-06-20 — Considered under suspension of the rules. (consideration: CR H3825-3868)
+- 2012-06-20 — DEBATE - The House proceeded with forty minutes of debate on S. 3187.
+- 2012-06-20 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2012-06-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-20 — Mr. Upton moved to suspend the rules and pass the bill, as amended.
+- 2012-06-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3825-3861)
+- 2012-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3825-3861)
