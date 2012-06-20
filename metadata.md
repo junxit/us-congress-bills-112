@@ -1,7 +1,7 @@
 ---
 measure: S. 3187
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 3187
@@ -106,7 +106,7 @@ Food and Drug Administration Safety and Innovation Act
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Recorded votes (7)
+## Recorded votes (9)
 
 - 2012-05-24 — [Senate 112-2-105](votes/senate-112-2-0105.md) — On the Amendment — **Amendment Rejected** (28–67)
 - 2012-05-24 — [Senate 112-2-106](votes/senate-112-2-0106.md) — On the Amendment — **Amendment Rejected** (46–50)
@@ -115,6 +115,8 @@ Food and Drug Administration Safety and Innovation Act
 - 2012-05-24 — [Senate 112-2-109](votes/senate-112-2-0109.md) — On the Amendment — **Amendment Rejected** (9–88)
 - 2012-05-24 — [Senate 112-2-110](votes/senate-112-2-0110.md) — On the Motion to Table — **Motion to Table Agreed to** (77–20)
 - 2012-05-24 — [Senate 112-2-111](votes/senate-112-2-0111.md) — On Passage of the Bill — **Bill Passed** (96–1)
+- 2012-06-25 — [Senate 112-2-166](votes/senate-112-2-0166.md) — On the Cloture Motion — **Cloture Motion Agreed to** (89–3)
+- 2012-06-26 — [Senate 112-2-168](votes/senate-112-2-0168.md) — On the Motion — **Motion Agreed to** (92–4)
 
 ## Actions
 
@@ -269,3 +271,43 @@ Food and Drug Administration Safety and Innovation Act
 - 2012-06-20 — Mr. Upton moved to suspend the rules and pass the bill, as amended.
 - 2012-06-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3825-3861)
 - 2012-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3825-3861)
+- 2012-06-21 — Amendment SA 2461 proposed by Senator Reid. (consideration: CR S4410; text: CR S4410) To change the enactment date.
+- 2012-06-21 — Amendment SA 2462 proposed by Senator Reid to Amendment SA 2461. (consideration: CR S4410; text: CR S4410) Of a perfecting nature.
+- 2012-06-21 — Amendment SA 2463 (the instructions to the motion) proposed by Senator Reid. (consideration: CR S4410; text: CR S4410) To change the enactment date.
+- 2012-06-21 — Amendment SA 2464 proposed by Senator Reid to Amendment SA 2463. (consideration: CR S4410; text: CR S4410) Of a perfecting nature.
+- 2012-06-21 — Amendment SA 2465 proposed by Senator Reid to Amendment SA 2464. (consideration: CR S4410; text: CR S4410) Of a perfecting nature.
+- 2012-06-21 — Cloture motion on the motion to concur in the House amendment presented in Senate. (consideration: CR S4410; text: CR S4410)
+- 2012-06-21 — Measure laid before Senate by unanimous consent. (consideration: CR S4409-4410)
+- 2012-06-21 — Motion by Senator Reid to refer to Senate Committee on Health, Education, Labor, and Pensions with instructions to report back forthwith with the following amendment (SA 2463) made in Senate. (consideration: CR S4410)
+- 2012-06-21 — Motion to concur in the House amendment made in Senate.
+- 2012-06-21 — Motion to concur in the House amendment with an amendment (SA 2461) made in Senate. (consideration: CR S4410)
+- 2012-06-21 — Senate amendment proposed (on the floor): Amendment SA 2461 proposed by Senator Reid.(consideration: CR S4410; text: CR S4410)
+- 2012-06-21 — Senate amendment proposed (on the floor): Amendment SA 2462 proposed by Senator Reid to Amendment SA 2461.(consideration: CR S4410; text: CR S4410)
+- 2012-06-21 — Senate amendment proposed (on the floor): Amendment SA 2463 (the instructions to the motion) proposed by Senator Reid.(consideration: CR S4410; text: CR S4410)
+- 2012-06-21 — Senate amendment proposed (on the floor): Amendment SA 2464 proposed by Senator Reid to Amendment SA 2463.(consideration: CR S4410; text: CR S4410)
+- 2012-06-21 — Senate amendment proposed (on the floor): Amendment SA 2465 proposed by Senator Reid to Amendment SA 2464.(consideration: CR S4410; text: CR S4410)
+- 2012-06-21 — Senate amendment submitted
+- 2012-06-21 — Senate amendment submitted
+- 2012-06-21 — Senate amendment submitted
+- 2012-06-21 — Senate amendment submitted
+- 2012-06-21 — Senate amendment submitted
+- 2012-06-25 — Cloture on the motion to concur in the House amendment invoked in Senate by Yea-Nay Vote. 89 - 3. Record Vote Number: 166. (consideration: CR S4449; text: CR S4449)
+- 2012-06-25 — Motion by Senator Reid to refer to Senate Committee on Health, Education, Labor, and Pensions with instructions to report back forthwith with the following amendment (SA 2463) fell when cloture on the motion to concur in the House amendment to the bill (S. 3187) was invoked in Senate.
+- 2012-06-25 — SA 2463 (instructions to the motion to refer) fell when cloture invoked on the motion to concur in the House amendment to the bill (S.3187).
+- 2012-06-25 — SA 2464 fell when SA 2463 fell.
+- 2012-06-25 — SA 2465 fell when SA 2464 fell.
+- 2012-06-26 — Considered by Senate. (consideration: CR S4602, S4626)
+- 2012-06-26 — Considered by Senate. (consideration: CR S4602, S4626)
+- 2012-06-26 — Considered by Senate. (consideration: CR S4602-4606, S4610-4627)
+- 2012-06-26 — Motion by Senator Reid to concur in the House amendment to the bill (S. 3187) with an amendment (SA 2461) withdrawn in Senate by Unanimous Consent. (consideration: CR S4602, S4626; text: CR S4602)
+- 2012-06-26 — Proposed amendment SA 2461 withdrawn in Senate. (consideration: CR S4626)
+- 2012-06-26 — Resolving differences -- Senate actions: Senate agreed to House amendment to the bill (S. 3187) by Yea-Nay Vote. 92 - 4. Record Vote Number: 168.(consideration: CR S4626)
+- 2012-06-26 — SA 2462 fell when SA 2461 withdrawn. (consideration: CR S4626)
+- 2012-06-26 — Senate agreed to House amendment to the bill (S. 3187) by Yea-Nay Vote. 92 - 4. Record Vote Number: 168. (consideration: CR S4626)
+- 2012-06-27 — Message on Senate action sent to the House.
+- 2012-06-28 — Presented to President.
+- 2012-06-28 — Presented to President.
+- 2012-07-09 — Became Public Law No: 112-144.
+- 2012-07-09 — Became Public Law No: 112-144.
+- 2012-07-09 — Signed by President.
+- 2012-07-09 — Signed by President.

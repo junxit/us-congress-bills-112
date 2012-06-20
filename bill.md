@@ -1,15 +1,13 @@
 ---
 legis-num: S. 3187
-congress: 112th CONGRESS
+congress: One Hundred Twelfth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 3187
 
-That the bill from the Senate (S. 3187) entitled “An Act to amend the Federal Food, Drug, and Cosmetic Act to revise and extend the user-fee programs for prescription drugs and medical devices, to establish user-fee programs for generic drugs and biosimilars, and for other purposes.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To amend the Federal Food, Drug, and Cosmetic Act to revise and extend the user-fee programs for prescription drugs and medical devices, to establish user-fee programs for generic drugs and biosimilars, and for other purposes.
 
 ## § 1. Short title
 

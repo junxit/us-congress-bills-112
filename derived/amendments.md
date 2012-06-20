@@ -1,7 +1,7 @@
 ---
 measure: S. 3187
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -306,7 +306,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by inserting before subsection (b), as so redesignated, the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (f)(1), as so redesignated, by striking “applicable to accelerated approval” and inserting “applicable to breakthrough therapies, accelerated approval, and”. | the bill names no machine-readable US Code section |
 | — | replace | Section 506B(e) (21 U.S.C. 356b) is amended by striking “section 506(b)(2)(A)” each place such term appears and inserting “section 506(c)(2)(A)”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Subchapter E of chapter V (21 U.S.C. 360bbb et seq.), as amended by section 715 of this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Subchapter E of chapter V (21 U.S.C. 360bbb et seq.), as amended by section 715 of this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 505(d) (21 U.S.C. 355(d)) is amended by adding at the end the following: “The Secretary shall implement a structured risk-benefit assessment framework in the new drug approval process to facilitate the balanced consideration of b… | the bill names no machine-readable US Code section |
 | — | strike | Section 5(b)(1)(A)(ii) of the Orphan Drug Act (21 U.S.C. 360ee(b)(1)(A)(ii)) is amended by striking “after the date such drug is designated under section 526 of such Act and”. | the bill names no machine-readable US Code section |
 | — | amend | Section 5(c) of the Orphan Drug Act (21 U.S.C. 360ee(c)) is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -361,7 +361,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | by amending subsection (e) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (f), by striking “shall review guidance” and all that follows through the end of the subsection and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Schedule I, as set forth in section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Schedule I, as set forth in section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Schedule I of section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended in subsection (c) by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “one year” and inserting “2 years”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “six months” and inserting “1 year”. | the bill names no machine-readable US Code section |
