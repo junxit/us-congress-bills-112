@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4264
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4264
@@ -16,6 +16,19 @@ FHA Emergency Fiscal Solvency Act of 2012
 
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 
+## Cosponsors (10)
+
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Schweikert, David [R-AZ-5] (S001183)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Duffy, Sean P. [R-WI-7] (D000614)
+- Rep. Royce, Edward R. [R-CA-40] (R000487)
+- Rep. Dold, Robert J. [R-IL-10] (D000613)
+- Rep. Manzullo, Donald A. [R-IL-16] (M001138)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -28,3 +41,6 @@ FHA Emergency Fiscal Solvency Act of 2012
 - 2012-03-27 — Introduced in House
 - 2012-03-27 — Ordered to be Reported by Voice Vote.
 - 2012-03-27 — Referred to the House Committee on Financial Services.
+- 2012-06-20 — Placed on the Union Calendar, Calendar No. 390.
+- 2012-06-20 — Reported by the Committee on Financial Services. H. Rept. 112-544.
+- 2012-06-20 — Reported by the Committee on Financial Services. H. Rept. 112-544.

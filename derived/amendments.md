@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4264
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -40,7 +40,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in the first sentence, by inserting “except as provided in subparagraph (B),” after “to be conducted annually,”; | the bill names no machine-readable US Code section |
 | — | insert | in the second sentence, by inserting “, except as provided in subparagraph (B),” after “annually”; | the bill names no machine-readable US Code section |
 | — | replace | by striking the paragraph designation and heading and all that follows through “The Secretary shall provide” and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (c); | the bill names no machine-readable US Code section |
 | — | strike | in subsection (e), by striking “, including” and all that follows through “by the mortgagee”; and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (d) and (e) as subsections (c) and (d), respectively. | the bill names no machine-readable US Code section |
@@ -51,5 +51,5 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 202 of the National Housing Act (12 U.S.C. 1708(e)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Paragraph (2) of section 540(b) of the National Housing Act (12 U.S.C. 1712 U.S.C. 1735f–18(b)(2)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” after “(b)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533) is amended by adding after subsection (g), as added by section 1442 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203; 1… | the bill names no machine-readable US Code section |
