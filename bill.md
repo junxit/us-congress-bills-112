@@ -13,10 +13,9 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - Whereas, during the Second World War, the American Red Cross was charged by the United States Armed Forces with providing recreational services to the soldiers serving in the war;
 - Whereas Harvey Gibson, the Red Cross Commissioner to Great Britain during the war, conceived of the Clubmobiles in 1942 as a means of providing hot coffee, fresh doughnuts, and a vital connection to home to thousands of servicemen at dozens of airfields, bases, and camps throughout Great Britain during the buildup to D-Day;
-- Whereas thousands of young women, from every State in the United States, volunteered to serve in the Clubmobiles, and were chosen after a rigorous interview process in which less than 20 percent of applicants were selected;
-- Whereas, less than 1 month after the invasion of Normandy, France in June 1944, 80 Clubmobiles and 320 American Red Cross volunteers crossed the English Channel and began providing coffee, doughnuts, and a friendly smile to servicemen fighting on the front lines;
+- Whereas thousands of young women, from every State in the United States, volunteered to serve in the Clubmobiles, and were chosen after a rigorous interview process;
+- Whereas, between July and August 1944, less than 1 month after the invasion of Normandy, France, 80 Clubmobiles and 320 American Red Cross volunteers crossed the English Channel and began providing coffee, doughnuts, and a friendly smile to servicemen fighting on the front lines;
 - Whereas the Clubmobile volunteers saw service across Europe in France, Belgium, Italy, Luxembourg, and Germany, and later in the Far East, touching the lives of hundreds of thousands of United States servicemen until victory was achieved;
-- Whereas, during the war, the American Red Cross purchased enough flour to produce more than 1,500,000,000 doughnuts, many served from the windows of a Clubmobile;
 - Whereas a visit from a Clubmobile, which could serve gallons of coffee and hundreds of doughnuts every minute, was often the most significant morale boost available to servicemen at war;
 - Whereas 52 women of the American Red Cross, some of whom served on the Clubmobiles, perished during the war as a result of their service; and
 - Whereas 70 years have passed since the Clubmobiles were founded, and only a few women who served in the Clubmobiles remain to share their stories: Now, therefore, be it
