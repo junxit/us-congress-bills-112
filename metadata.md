@@ -1,7 +1,7 @@
 ---
 measure: S. 3240
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 3240
@@ -16,9 +16,455 @@ Agriculture Reform, Food, and Jobs Act of 2012
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
+## Cosponsors (396)
+
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Coats, Daniel [R-IN] (C000542)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Nelson, Bill [D-FL] (N000032)
+
 ## Committees (1)
 
 - Senate — Agriculture, Nutrition, and Forestry Committee
+
+## Recorded votes (44)
+
+- 2012-06-07 — [Senate 112-2-117](votes/senate-112-2-0117.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (90–8)
+- 2012-06-13 — [Senate 112-2-119](votes/senate-112-2-0119.md) — On the Motion to Table — **Motion to Table Agreed to** (50–46)
+- 2012-06-13 — [Senate 112-2-120](votes/senate-112-2-0120.md) — On the Motion to Table — **Motion to Table Agreed to** (65–33)
+- 2012-06-19 — [Senate 112-2-123](votes/senate-112-2-0123.md) — On the Amendment — **Amendment Rejected** (38–61)
+- 2012-06-19 — [Senate 112-2-124](votes/senate-112-2-0124.md) — On the Amendment — **Amendment Agreed to** (66–33)
+- 2012-06-19 — [Senate 112-2-125](votes/senate-112-2-0125.md) — On the Amendment — **Amendment Agreed to** (75–24)
+- 2012-06-19 — [Senate 112-2-126](votes/senate-112-2-0126.md) — On the Amendment — **Amendment Agreed to** (55–44)
+- 2012-06-19 — [Senate 112-2-127](votes/senate-112-2-0127.md) — On the Amendment — **Amendment Rejected** (43–56)
+- 2012-06-19 — [Senate 112-2-128](votes/senate-112-2-0128.md) — On the Amendment — **Amendment Agreed to** (58–41)
+- 2012-06-19 — [Senate 112-2-129](votes/senate-112-2-0129.md) — On the Amendment — **Amendment Rejected** (41–58)
+- 2012-06-19 — [Senate 112-2-130](votes/senate-112-2-0130.md) — On the Amendment — **Amendment Agreed to** (73–26)
+- 2012-06-19 — [Senate 112-2-131](votes/senate-112-2-0131.md) — On the Amendment — **Amendment Rejected** (15–84)
+- 2012-06-19 — [Senate 112-2-132](votes/senate-112-2-0132.md) — On the Amendment — **Amendment Rejected** (33–66)
+- 2012-06-19 — [Senate 112-2-133](votes/senate-112-2-0133.md) — On the Amendment — **Amendment Agreed to** (76–23)
+- 2012-06-19 — [Senate 112-2-134](votes/senate-112-2-0134.md) — On the Amendment — **Amendment Rejected** (42–57)
+- 2012-06-19 — [Senate 112-2-135](votes/senate-112-2-0135.md) — On the Amendment — **Amendment Rejected** (33–66)
+- 2012-06-19 — [Senate 112-2-136](votes/senate-112-2-0136.md) — On the Amendment — **Amendment Rejected** (45–54)
+- 2012-06-19 — [Senate 112-2-137](votes/senate-112-2-0137.md) — On the Amendment — **Amendment Rejected** (14–84)
+- 2012-06-19 — [Senate 112-2-138](votes/senate-112-2-0138.md) — On the Amendment — **Amendment Rejected** (20–79)
+- 2012-06-20 — [Senate 112-2-140](votes/senate-112-2-0140.md) — On the Amendment — **Amendment Agreed to** (63–36)
+- 2012-06-20 — [Senate 112-2-141](votes/senate-112-2-0141.md) — On the Amendment — **Amendment Rejected** (44–55)
+- 2012-06-20 — [Senate 112-2-142](votes/senate-112-2-0142.md) — On the Amendment — **Amendment Rejected** (30–69)
+- 2012-06-20 — [Senate 112-2-143](votes/senate-112-2-0143.md) — On the Amendment — **Amendment Agreed to** (62–37)
+- 2012-06-20 — [Senate 112-2-144](votes/senate-112-2-0144.md) — On the Amendment — **Amendment Agreed to** (59–40)
+- 2012-06-20 — [Senate 112-2-145](votes/senate-112-2-0145.md) — On the Amendment — **Amendment Rejected** (43–56)
+- 2012-06-20 — [Senate 112-2-146](votes/senate-112-2-0146.md) — On the Amendment — **Amendment Agreed to** (77–22)
+- 2012-06-20 — [Senate 112-2-147](votes/senate-112-2-0147.md) — On the Amendment — **Amendment Rejected** (21–77)
+- 2012-06-20 — [Senate 112-2-148](votes/senate-112-2-0148.md) — On the Amendment — **Amendment Rejected** (15–84)
+- 2012-06-20 — [Senate 112-2-149](votes/senate-112-2-0149.md) — On the Amendment — **Amendment Rejected** (35–63)
+- 2012-06-20 — [Senate 112-2-150](votes/senate-112-2-0150.md) — On the Amendment — **Amendment Rejected** (36–63)
+- 2012-06-20 — [Senate 112-2-151](votes/senate-112-2-0151.md) — On the Amendment — **Amendment Rejected** (46–53)
+- 2012-06-20 — [Senate 112-2-152](votes/senate-112-2-0152.md) — On the Motion to Recommit — **Motion to Recommit Rejected** (29–70)
+- 2012-06-20 — [Senate 112-2-153](votes/senate-112-2-0153.md) — On the Motion — **Motion Rejected** (40–59)
+- 2012-06-20 — [Senate 112-2-154](votes/senate-112-2-0154.md) — On the Amendment — **Amendment Agreed to** (88–11)
+- 2012-06-20 — [Senate 112-2-155](votes/senate-112-2-0155.md) — On the Amendment — **Amendment Agreed to** (52–47)
+- 2012-06-20 — [Senate 112-2-156](votes/senate-112-2-0156.md) — On the Amendment — **Amendment Rejected** (44–55)
+- 2012-06-20 — [Senate 112-2-157](votes/senate-112-2-0157.md) — On the Amendment — **Amendment Agreed to** (66–33)
+- 2012-06-21 — [Senate 112-2-158](votes/senate-112-2-0158.md) — On the Amendment — **Amendment Rejected** (47–48)
+- 2012-06-21 — [Senate 112-2-159](votes/senate-112-2-0159.md) — On the Amendment — **Amendment Rejected** (56–43)
+- 2012-06-21 — [Senate 112-2-160](votes/senate-112-2-0160.md) — On the Amendment — **Amendment Rejected** (58–41)
+- 2012-06-21 — [Senate 112-2-161](votes/senate-112-2-0161.md) — On the Amendment — **Amendment Rejected** (26–73)
+- 2012-06-21 — [Senate 112-2-162](votes/senate-112-2-0162.md) — On the Amendment — **Amendment Agreed to** (95–4)
+- 2012-06-21 — [Senate 112-2-163](votes/senate-112-2-0163.md) — On the Amendment — **Amendment Rejected** (45–54)
+- 2012-06-21 — [Senate 112-2-164](votes/senate-112-2-0164.md) — On Passage of the Bill — **Bill Passed** (64–35)
 
 ## Actions
 
@@ -27,3 +473,676 @@ Agriculture Reform, Food, and Jobs Act of 2012
 - 2012-05-24 — Committee on Agriculture, Nutrition, and Forestry. Original measure reported to Senate by Senator Stabenow. Without written report.
 - 2012-05-24 — Introduced in Senate
 - 2012-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 415.
+- 2012-06-05 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S3714; text: CR S3714)
+- 2012-06-05 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S3714-3723)
+- 2012-06-06 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S3739-3768, S3773-3776)
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-06 — Senate amendment submitted
+- 2012-06-07 — Cloture on the motion to proceed to the bill invoked in Senate by Yea-Nay Vote. 90 - 8. Record Vote Number: 117. (consideration: CR S3807-3808; text: CR S3807-3808)
+- 2012-06-07 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S3803-3835)
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-07 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-11 — Senate amendment submitted
+- 2012-06-12 — Amendment SA 2389 proposed by Senator Reid for Senator Stabenow. (consideration: CR S3962) Of a perfecting nature.
+- 2012-06-12 — Amendment SA 2390 proposed by Senator Reid to Amendment SA 2389. (consideration: CR S3962; text: CR S3962) To change the enactment date.
+- 2012-06-12 — Amendment SA 2391 (the instructions of the motion to recommit) proposed by Senator Reid. (consideration: CR S3962) Of a perfecting nature.
+- 2012-06-12 — Amendment SA 2392 proposed by Senator Reid to Amendment SA 2391 (the instructions of the motion to recommit). (consideration: CR S3962-3963; text: CR S3962-3963) To empower States with programmatic flexibility and predictability to administer a supplemental nutrition assistance block grant program under which, at the request of a State agency, eligible households within the State may receive an adequate, or more nutritious, diet.
+- 2012-06-12 — Amendment SA 2393 proposed by Senator Reid to Amendment SA 2392. (consideration: CR S3963-3964; text: CR S3963-3964) To phase out the Federal sugar program.
+- 2012-06-12 — Measure laid before Senate by motion. (consideration: CR S3949)
+- 2012-06-12 — Motion by Senator Reid to recommit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions to report back forthwith with amendment SA 2391 made in Senate. (consideration: CR S3962; text: CR S3962)
+- 2012-06-12 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent. (consideration: CR S3949)
+- 2012-06-12 — Motion to proceed to measure considered in Senate. (consideration: CR S3949-3964)
+- 2012-06-12 — Senate amendment proposed (on the floor): Amendment SA 2389 proposed by Senator Reid for Senator Stabenow.(consideration: CR S3962)
+- 2012-06-12 — Senate amendment proposed (on the floor): Amendment SA 2390 proposed by Senator Reid to Amendment SA 2389.(consideration: CR S3962; text: CR S3962)
+- 2012-06-12 — Senate amendment proposed (on the floor): Amendment SA 2391 (the instructions of the motion to recommit) proposed by Senator Reid.(consideration: CR S3962)
+- 2012-06-12 — Senate amendment proposed (on the floor): Amendment SA 2392 proposed by Senator Reid to Amendment SA 2391 (the instructions of the motion to recommit).(consideration: CR S3962-3963; text: CR S3962-3963)
+- 2012-06-12 — Senate amendment proposed (on the floor): Amendment SA 2393 proposed by Senator Reid to Amendment SA 2392.(consideration: CR S3963-3964; text: CR S3963-3964)
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-12 — Senate amendment submitted
+- 2012-06-13 — Amendment SA 2406  proposed by Senator Reid to Amendment SA 2391 (the instructions of the motion to recommit). (consideration: CR S4126-4127; text: CR S4126) To eliminate certain working lands conservation programs.
+- 2012-06-13 — Amendment SA 2407 proposed by Senator Reid to Amendment SA 2406. (consideration: CR S4127; text: CR S4127) To convert all mandatory spending to discretionary spending subject to annual appropriations.
+- 2012-06-13 — Considered by Senate. (consideration: CR S4124)
+- 2012-06-13 — Considered by Senate. (consideration: CR S4124)
+- 2012-06-13 — Considered by Senate. (consideration: CR S4124)
+- 2012-06-13 — Considered by Senate. (consideration: CR S4124, S4125)
+- 2012-06-13 — Considered by Senate. (consideration: CR S4124-4125)
+- 2012-06-13 — Considered by Senate. (consideration: CR S4124-4127)
+- 2012-06-13 — Motion to table amendment SA 2392 agreed to in Senate by Yea-Nay Vote. 65 - 33. Record Vote Number: 120. (consideration: CR S4125)
+- 2012-06-13 — Motion to table amendment SA 2393 agreed to in Senate by Yea-Nay Vote. 50 - 46. Record Vote Number: 119. (consideration: CR S4124)
+- 2012-06-13 — Roll call votes on amendments in Senate: Motion to table amendment SA 2392 agreed to in Senate by Yea-Nay Vote. 65 - 33. Record Vote Number: 120.(consideration: CR S4125)
+- 2012-06-13 — Roll call votes on amendments in Senate: Motion to table amendment SA 2393 agreed to in Senate by Yea-Nay Vote. 50 - 46. Record Vote Number: 119.(consideration: CR S4124)
+- 2012-06-13 — Senate amendment proposed (on the floor): Amendment SA 2406  proposed by Senator Reid to Amendment SA 2391 (the instructions of the motion to recommit).(consideration: CR S4126-4127; text: CR S4126)
+- 2012-06-13 — Senate amendment proposed (on the floor): Amendment SA 2407 proposed by Senator Reid to Amendment SA 2406.(consideration: CR S4127; text: CR S4127)
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-13 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-14 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-18 — Senate amendment submitted
+- 2012-06-19 — Amendment SA 2156 not agreed to in Senate by Yea-Nay Vote. 33 - 66. Record Vote Number: 135. (text as modified: CR S4277-4278)
+- 2012-06-19 — Amendment SA 2156 proposed by Senator Gillibrand. (consideration: CR S4277-4278; text: CR S4277) To strike a reduction in the supplemental nutrition assistance program and increase funding for the fresh fruit and vegetable program, with an offset that limits crop insurance reimbursements to providers.
+- 2012-06-19 — Amendment SA 2167 agreed to in Senate by Yea-Nay Vote. 75 - 24. Record Vote Number: 125.
+- 2012-06-19 — Amendment SA 2167 proposed by Senator Grassley. (consideration: CR S4269-4270; text: CR S4269) To provide payment limitations for marketing loan gains and loan deficiency payments.
+- 2012-06-19 — Amendment SA 2172 not agreed to in Senate by Yea-Nay Vote. 41 - 58. Record Vote Number: 129.
+- 2012-06-19 — Amendment SA 2172 proposed by Senator Sessions. (consideration: CR S4272-4273; text: CR S4272) To end the State bonus payments for administering the supplemental nutrition assistance programs.
+- 2012-06-19 — Amendment SA 2174 not agreed to in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 127.
+- 2012-06-19 — Amendment SA 2174 proposed by Senator Sessions. (consideration: CR S4270-4271; text: CR S4270) To limit categorical eligibility for the supplemental nutrition assistance program to those who receive cash assistance.
+- 2012-06-19 — Amendment SA 2181 not agreed to in Senate by Yea-Nay Vote. 15 - 84. Record Vote Number: 131.
+- 2012-06-19 — Amendment SA 2181 proposed by Senator Paul. (consideration: CR S4273-4274; text: CR S4273) To establish an average adjusted gross income limitation of $250,000 for all payments and benefits under the Farm Bill.
+- 2012-06-19 — Amendment SA 2187 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Amendment SA 2187 proposed by Senator Kerry. (consideration: CR S4280; text: CR S4280) To extend eligibility for certain emergency loans to commercial fishermen.
+- 2012-06-19 — Amendment SA 2190 as modified agreed to in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 124. (text as modified: CR S4268)
+- 2012-06-19 — Amendment SA 2190 proposed by Senator Snowe. (consideration: CR S4268) To require Federal milk marketing order reform.
+- 2012-06-19 — Amendment SA 2191 not agreed to in Senate by Yea-Nay Vote. 33 - 66. Record Vote Number: 132.
+- 2012-06-19 — Amendment SA 2191 proposed by Senator Alexander. (consideration: CR S4274-4275; text: CR S4275) To provide that any cooperative organization or other entity that receives a business and industry direct or guaranteed loan for a wind energy project is ineligible for any other Federal benefit, assistance, or incentive for the project.
+- 2012-06-19 — Amendment SA 2192 not agreed to in Senate by Yea-Nay Vote. 38 - 61. Record Vote Number: 123.
+- 2012-06-19 — Amendment SA 2192 proposed by Senator Ayotte. (consideration: CR S4267) To improve the program of value-added agricultural producer grants.
+- 2012-06-19 — Amendment SA 2199 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Amendment SA 2199 proposed by Senator Kerry for Senator McCain. (consideration: CR S4275; text: CR S4275) To repeal a duplicative program relating to inspection and grading of catfish.
+- 2012-06-19 — Amendment SA 2217 not agreed to in Senate by Yea-Nay Vote. 42 - 57. Record Vote Number: 134.
+- 2012-06-19 — Amendment SA 2217 proposed by Senator Toomey. (consideration: CR S4276-4277; text: CR S4276) To eliminate the organic certification cost share assistance program.
+- 2012-06-19 — Amendment SA 2238 agreed to in Senate by Yea-Nay Vote. 73 - 26. Record Vote Number: 130.
+- 2012-06-19 — Amendment SA 2238 proposed by Senator Casey. (consideration: CR S4273; text: CR S4273) To require more frequent dairy reporting.
+- 2012-06-19 — Amendment SA 2243 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Amendment SA 2243 proposed by Senator Nelson NE. (consideration: CR S4272; text: CR S4272) To ensure that performance bonus payments are used by State agencies only to carry out the supplemental nutrition assistance programs.
+- 2012-06-19 — Amendment SA 2262 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Amendment SA 2262 proposed by Senator DeMint. (consideration: CR S4279-4280; text: CR S4280) To express the sense of the Senate that nothing in this Act or an amendment made by this Act should manipulate prices or interfere with the free market.
+- 2012-06-19 — Amendment SA 2263 not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 136.
+- 2012-06-19 — Amendment SA 2263 proposed by Senator DeMint. (consideration: CR S4278-4279; text: CR S4278) To maintain funding at current levels for programs providing access to broadband telecommunications services in rural areas.
+- 2012-06-19 — Amendment SA 2268 not agreed to in Senate by Yea-Nay Vote. 14 - 84. Record Vote Number: 137.
+- 2012-06-19 — Amendment SA 2268 proposed by Senator DeMint. (consideration: CR S4280-4281; text: CR S4280) To prohibit the Secretary from making loan guarantees.
+- 2012-06-19 — Amendment SA 2276 not agreed to in Senate by Yea-Nay Vote. 20 - 79. Record Vote Number: 138.
+- 2012-06-19 — Amendment SA 2276 proposed by Senator DeMint. (consideration: CR S4281-4282; text: CR S4281) To prohibit mandatory or compulsory check off programs.
+- 2012-06-19 — Amendment SA 2309 agreed to in Senate by Yea-Nay Vote. 76 - 23. Record Vote Number: 133.
+- 2012-06-19 — Amendment SA 2309 proposed by Senator Feinstein. (consideration: CR S4276; text: CR S4276) To require a study into the feasibility of an insurance product that covers food safety recalls.
+- 2012-06-19 — Amendment SA 2321 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Amendment SA 2321 proposed by Senator Landrieu. (consideration: CR S4281; text: CR S4281) To move a section from the rural development title to the credit title.
+- 2012-06-19 — Amendment SA 2366 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Amendment SA 2366 proposed by Senator Hagan. (consideration: CR S4279; text: CR S4279) To require the Risk Management Agency and the Federal Crop Insurance Corporation to use plain language and a website to make crop insurance more accessible.
+- 2012-06-19 — Amendment SA 2370 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 128.
+- 2012-06-19 — Amendment SA 2370 proposed by Senator Cantwell. (consideration: CR S4271-4272; text: CR S4271) To encourage the purchase of pulse crop products for school meals programs.
+- 2012-06-19 — Amendment SA 2389 agreed to in Senate by Unanimous Consent.
+- 2012-06-19 — Amendment SA 2396 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Amendment SA 2396 proposed by Senator Akaka. (consideration: CR S4266-4267; text: CR S4266) To establish the Office of Tribal Relations in the Office of the Secretary of Agriculture.
+- 2012-06-19 — Amendment SA 2422 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Amendment SA 2422 proposed by Senator Feinstein. (consideration: CR S4274; text: CR S4274) To modify a provision relating to conservation innovation grants and payments.
+- 2012-06-19 — Amendment SA 2426 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Amendment SA 2426 proposed by Senator Coons. (consideration: CR S4274; text: CR S4274) To provide for studies on the feasibility of establishing a business disruption insurance policy for poultry producers and a catastrophic event insurance policy for poultry producers.
+- 2012-06-19 — Amendment SA 2429 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Amendment SA 2429 proposed by Senator Tester for Senator Baucus. (consideration: CR S4267-4268; text: CR S4267) To improve the livestock forage disaster program.
+- 2012-06-19 — Amendment SA 2440 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Amendment SA 2440 proposed by Senator Akaka. (consideration: CR S4266; text: CR S4266) To improve a provision relating to loans to purchasers of highly fractionated land.
+- 2012-06-19 — Amendment SA 2445 agreed to in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 126.
+- 2012-06-19 — Amendment SA 2445 proposed by Senator Brown OH. (consideration: CR S4270; text: CR S4270) To strengthen rural communities and foster the next generation of farmers and ranchers.
+- 2012-06-19 — Considered by Senate. (consideration: CR S4266)
+- 2012-06-19 — Considered by Senate. (consideration: CR S4266)
+- 2012-06-19 — Considered by Senate. (consideration: CR S4266)
+- 2012-06-19 — Considered by Senate. (consideration: CR S4266)
+- 2012-06-19 — Considered by Senate. (consideration: CR S4266)
+- 2012-06-19 — Considered by Senate. (consideration: CR S4266-4293)
+- 2012-06-19 — Motion by Senator Reid to recommit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions to report back forthwith with amendment SA 2391 withdrawn in Senate by Unanimous Consent. (consideration: CR S4266)
+- 2012-06-19 — Proposed amendment SA 2390 by consent withdrawn in Senate.
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2156 not agreed to in Senate by Yea-Nay Vote. 33 - 66. Record Vote Number: 135.(text as modified: CR S4277-4278)
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2167 agreed to in Senate by Yea-Nay Vote. 75 - 24. Record Vote Number: 125.
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2172 not agreed to in Senate by Yea-Nay Vote. 41 - 58. Record Vote Number: 129.
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2174 not agreed to in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 127.
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2181 not agreed to in Senate by Yea-Nay Vote. 15 - 84. Record Vote Number: 131.
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2190 as modified agreed to in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 124.(text as modified: CR S4268)
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2191 not agreed to in Senate by Yea-Nay Vote. 33 - 66. Record Vote Number: 132.
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2192 not agreed to in Senate by Yea-Nay Vote. 38 - 61. Record Vote Number: 123.
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2217 not agreed to in Senate by Yea-Nay Vote. 42 - 57. Record Vote Number: 134.
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2238 agreed to in Senate by Yea-Nay Vote. 73 - 26. Record Vote Number: 130.
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2263 not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 136.
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2268 not agreed to in Senate by Yea-Nay Vote. 14 - 84. Record Vote Number: 137.
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2276 not agreed to in Senate by Yea-Nay Vote. 20 - 79. Record Vote Number: 138.
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2309 agreed to in Senate by Yea-Nay Vote. 76 - 23. Record Vote Number: 133.
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2370 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 128.
+- 2012-06-19 — Roll call votes on amendments in Senate: Amendment SA 2445 agreed to in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 126.
+- 2012-06-19 — SA 2391 fell when the motion to recommit was withdrawn.
+- 2012-06-19 — SA 2406 fell when SA 2391 withdrawn.
+- 2012-06-19 — SA 2407 fell when SA 2406 fell.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2167 agreed to in Senate by Yea-Nay Vote. 75 - 24. Record Vote Number: 125.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2187 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2190 as modified agreed to in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 124.(text as modified: CR S4268)
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2199 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2238 agreed to in Senate by Yea-Nay Vote. 73 - 26. Record Vote Number: 130.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2243 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2262 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2309 agreed to in Senate by Yea-Nay Vote. 76 - 23. Record Vote Number: 133.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2321 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2366 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2370 agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 128.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2389 agreed to in Senate by Unanimous Consent.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2396 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2422 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2426 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2429 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2440 agreed to in Senate by Voice Vote.
+- 2012-06-19 — Senate amendment agreed to: Amendment SA 2445 agreed to in Senate by Yea-Nay Vote. 55 - 44. Record Vote Number: 126.
+- 2012-06-19 — Senate amendment not agreed to: Amendment SA 2156 not agreed to in Senate by Yea-Nay Vote. 33 - 66. Record Vote Number: 135.(text as modified: CR S4277-4278)
+- 2012-06-19 — Senate amendment not agreed to: Amendment SA 2172 not agreed to in Senate by Yea-Nay Vote. 41 - 58. Record Vote Number: 129.
+- 2012-06-19 — Senate amendment not agreed to: Amendment SA 2174 not agreed to in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 127.
+- 2012-06-19 — Senate amendment not agreed to: Amendment SA 2181 not agreed to in Senate by Yea-Nay Vote. 15 - 84. Record Vote Number: 131.
+- 2012-06-19 — Senate amendment not agreed to: Amendment SA 2191 not agreed to in Senate by Yea-Nay Vote. 33 - 66. Record Vote Number: 132.
+- 2012-06-19 — Senate amendment not agreed to: Amendment SA 2192 not agreed to in Senate by Yea-Nay Vote. 38 - 61. Record Vote Number: 123.
+- 2012-06-19 — Senate amendment not agreed to: Amendment SA 2217 not agreed to in Senate by Yea-Nay Vote. 42 - 57. Record Vote Number: 134.
+- 2012-06-19 — Senate amendment not agreed to: Amendment SA 2263 not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 136.
+- 2012-06-19 — Senate amendment not agreed to: Amendment SA 2268 not agreed to in Senate by Yea-Nay Vote. 14 - 84. Record Vote Number: 137.
+- 2012-06-19 — Senate amendment not agreed to: Amendment SA 2276 not agreed to in Senate by Yea-Nay Vote. 20 - 79. Record Vote Number: 138.
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2156 proposed by Senator Gillibrand.(consideration: CR S4277-4278; text: CR S4277)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2167 proposed by Senator Grassley.(consideration: CR S4269-4270; text: CR S4269)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2172 proposed by Senator Sessions.(consideration: CR S4272-4273; text: CR S4272)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2174 proposed by Senator Sessions.(consideration: CR S4270-4271; text: CR S4270)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2181 proposed by Senator Paul.(consideration: CR S4273-4274; text: CR S4273)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2187 proposed by Senator Kerry.(consideration: CR S4280; text: CR S4280)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2190 proposed by Senator Snowe.(consideration: CR S4268)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2191 proposed by Senator Alexander.(consideration: CR S4274-4275; text: CR S4275)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2192 proposed by Senator Ayotte.(consideration: CR S4267)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2199 proposed by Senator Kerry for Senator McCain.(consideration: CR S4275; text: CR S4275)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2217 proposed by Senator Toomey.(consideration: CR S4276-4277; text: CR S4276)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2238 proposed by Senator Casey.(consideration: CR S4273; text: CR S4273)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2243 proposed by Senator Nelson NE.(consideration: CR S4272; text: CR S4272)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2262 proposed by Senator DeMint.(consideration: CR S4279-4280; text: CR S4280)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2263 proposed by Senator DeMint.(consideration: CR S4278-4279; text: CR S4278)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2268 proposed by Senator DeMint.(consideration: CR S4280-4281; text: CR S4280)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2276 proposed by Senator DeMint.(consideration: CR S4281-4282; text: CR S4281)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2309 proposed by Senator Feinstein.(consideration: CR S4276; text: CR S4276)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2321 proposed by Senator Landrieu.(consideration: CR S4281; text: CR S4281)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2366 proposed by Senator Hagan.(consideration: CR S4279; text: CR S4279)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2370 proposed by Senator Cantwell.(consideration: CR S4271-4272; text: CR S4271)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2396 proposed by Senator Akaka.(consideration: CR S4266-4267; text: CR S4266)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2422 proposed by Senator Feinstein.(consideration: CR S4274; text: CR S4274)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2426 proposed by Senator Coons.(consideration: CR S4274; text: CR S4274)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2429 proposed by Senator Tester for Senator Baucus.(consideration: CR S4267-4268; text: CR S4267)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2440 proposed by Senator Akaka.(consideration: CR S4266; text: CR S4266)
+- 2012-06-19 — Senate amendment proposed (on the floor): Amendment SA 2445 proposed by Senator Brown OH.(consideration: CR S4270; text: CR S4270)
+- 2012-06-19 — Senate amendment submitted
+- 2012-06-19 — Senate amendment submitted
+- 2012-06-20 — Amendment SA 2195 agreed to in Senate by Unanimous Consent.
+- 2012-06-20 — Amendment SA 2195 proposed by Senator Stabenow for Senator Ayotte. (consideration: CR S4351; text: CR S4351) To require a GAO report on crop insurance fraud.
+- 2012-06-20 — Amendment SA 2202 agreed to in Senate by Unanimous Consent.
+- 2012-06-20 — Amendment SA 2202 proposed by Senator Stabenow for Senator Bennet. (consideration: CR S4357-4359; text: CR S4357) To improve agricultural land easements.
+- 2012-06-20 — Amendment SA 2204 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Amendment SA 2204 proposed by Senator Leahy. (consideration: CR S4346-4348; text: CR S4347) To support the State Rural Development Partnership.
+- 2012-06-20 — Amendment SA 2226 not agreed to in Senate by Yea-Nay Vote. 36 - 63. Record Vote Number: 150.
+- 2012-06-20 — Amendment SA 2226 proposed by Senator Toomey. (consideration: CR S4348; text: CR S4348) To eliminate biorefinery, renewable chemical, and biobased product manufacturing assistance.
+- 2012-06-20 — Amendment SA 2242 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Amendment SA 2242 proposed by Senator Nelson NE. (consideration: CR S4348; text: CR S4348) To amend section 520 of the Housing Act of 1949 to revise the census data and population requirements for areas to be considered as rural areas for purposes of such Act.
+- 2012-06-20 — Amendment SA 2246 agreed to in Senate by Unanimous Consent.
+- 2012-06-20 — Amendment SA 2246 proposed by Senator Stabenow for Senator Blunt. (consideration: CR S4351; text: CR S4351) To assist military veterans in agricultural occupations.
+- 2012-06-20 — Amendment SA 2254 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Amendment SA 2254 proposed by Senator Sanders. (consideration: CR S4352-4353; text: CR S4352-4354) To improve the community wood energy programs.
+- 2012-06-20 — Amendment SA 2273 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 141.
+- 2012-06-20 — Amendment SA 2273 proposed by Senator DeMint. (consideration: CR S4335-2336; text: CR S4335) To eliminate the authority of the Secretary to increase the amount of grants provided to eligible entities relating to providing access to broadband telecommunications services in rural areas.
+- 2012-06-20 — Amendment SA 2287 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Amendment SA 2287 proposed by Senator Carper. (consideration: CR S4351-4352; text: CR S4352) To modify a provision relating to a high-priority research and extension initiatives.
+- 2012-06-20 — Amendment SA 2289 not agreed to in Senate by Yea-Nay Vote. 30 - 69. Record Vote Number: 142.
+- 2012-06-20 — Amendment SA 2289 proposed by Senator Coburn. (consideration: CR S4336; text: CR S4336) To reduce funding for the market access program and to prohibit the use of funds for reality television shows, wine tastings, animal spa products, and cat or dog food.
+- 2012-06-20 — Amendment SA 2293 agreed to in Senate by Yea-Nay Vote. 62 - 37. Record Vote Number: 143.
+- 2012-06-20 — Amendment SA 2293 proposed by Senator Coburn. (consideration: CR S4336-4338; text: CR S4337) To limit subsidies for millionaires.
+- 2012-06-20 — Amendment SA 2295 agreed to in Senate by Yea-Nay Vote. 77 - 22. Record Vote Number: 146.
+- 2012-06-20 — Amendment SA 2295 proposed by Senator Udall CO. (consideration: CR S4339-4340; text: CR S4339) To increase the amounts authorized to be appropriated for the designation of treatment areas.
+- 2012-06-20 — Amendment SA 2299 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Amendment SA 2299 proposed by Senator Klobuchar. (consideration: CR S4350; text: CR S4350) To require the Secretary of Agriculture and Secretary of Transportation to conduct a study on rural transportation issues.
+- 2012-06-20 — Amendment SA 2313 not agreed to in Senate by Yea-Nay Vote. 21 - 77. Record Vote Number: 147.
+- 2012-06-20 — Amendment SA 2313 proposed by Senator Lee. (consideration: CR S4340-4341; text: CR S4340) To repeal the forest legacy program.
+- 2012-06-20 — Amendment SA 2314 not agreed to in Senate by Yea-Nay Vote. 15 - 84. Record Vote Number: 148.
+- 2012-06-20 — Amendment SA 2314 proposed by Senator Lee. (consideration: CR S4343-4344; text: CR S4343) To repeal the conservation stewardship program and the conservation reserve program.
+- 2012-06-20 — Amendment SA 2340 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Amendment SA 2340 proposed by Senator Chambliss. (consideration: CR S4356; text: CR S4356) To move the sugar import quota adjustment date forward in the crop year.
+- 2012-06-20 — Amendment SA 2345 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Amendment SA 2345 proposed by Senator Manchin. (consideration: CR S4334; text: CR S4334) To require national dietary guidelines for pregnant women and children from birth until the age of 2.
+- 2012-06-20 — Amendment SA 2354 not agreed to in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 145.
+- 2012-06-20 — Amendment SA 2354 proposed by Senator Kyl. (consideration: CR S4339; text: CR S4339) To prohibit assistance to North Korea under title II of the Food for Peace Act.
+- 2012-06-20 — Amendment SA 2355 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Amendment SA 2355 proposed by Senator Boozman. (consideration: CR S4345; text: CR S4345) To support the dissemination of objective and scholarly agricultural and food law research and information.
+- 2012-06-20 — Amendment SA 2360 not agreed to in Senate by Yea-Nay Vote. 35 - 63. Record Vote Number: 149.
+- 2012-06-20 — Amendment SA 2360 proposed by Senator Boozman. (consideration: CR S4346; text as modified: CR S4346) To provide for emergency food assistance, and for other purposes.
+- 2012-06-20 — Amendment SA 2363 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S4351)
+- 2012-06-20 — Amendment SA 2363 as modified, under the order of 6/20/2012, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 88 - 11. Record Vote Number: 154.
+- 2012-06-20 — Amendment SA 2363 proposed by Senator Stabenow for Senator Vitter. (consideration: CR S4351, S4353) To ensure that extras in film and television who bring personal, common domesticated household pets do not face unnecessary regulations and to prohibit attendance at an animal fighting venture.
+- 2012-06-20 — Amendment SA 2382 agreed to in Senate by Yea-Nay Vote. 63 - 36. Record Vote Number: 140.
+- 2012-06-20 — Amendment SA 2382 proposed by Senator Merkley. (consideration: CR S4334-4335; text: CR S4335) To require the Federal Crop Insurance Corporation to provide crop insurance for organic crops under similar terms and conditions to crop insurance provided for other crops.
+- 2012-06-20 — Amendment SA 2388 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Amendment SA 2388 proposed by Senator Wyden. (consideration: CR S4344-4345; text: CR S4344) To modify a provision relating to purchases of locally produced foods.
+- 2012-06-20 — Amendment SA 2403 agreed to in Senate by Unanimous Consent.
+- 2012-06-20 — Amendment SA 2403 proposed by Senator Stabenow for Senator Moran. (consideration: CR S4351; text: CR S4351) To increase the minimum level of nonemergency food assistance.
+- 2012-06-20 — Amendment SA 2427 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Amendment SA 2427 proposed by Senator Stabenow for Senator Schumer. (consideration: CR S4344; text: CR S4344) To support State and tribal government efforts to promote research and education related to maple syrup production, natural resource sustainability in the maple syrup industry, market promotion of maple products, and greater access to lands containing maple trees for maple-sugaring activities, and for other purposes.
+- 2012-06-20 — Amendment SA 2432 not agreed to in Senate by Voice Vote.
+- 2012-06-20 — Amendment SA 2432 proposed by Senator Chambliss. (consideration: CR S4356-2357) To repeal mandatory funding for the farmers market and local food promotion program.
+- 2012-06-20 — Amendment SA 2433 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 151.
+- 2012-06-20 — Amendment SA 2433 proposed by Senator Toomey. (consideration: CR S4348-4350; text: CR S4349) To reform the sugar program.
+- 2012-06-20 — Amendment SA 2437 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 156.
+- 2012-06-20 — Amendment SA 2437 proposed by Senator Thune. (consideration: CR S4354-4355; text: CR S4354-4355) To limit the amount of premium subsidy provided by the Federal Crop Insurance Corporation on behalf of any person or legal entity with an average adjusted gross income in excess of $750,000, with a delayed application of the limitation until completion of a study on the effects of the limitation.
+- 2012-06-20 — Amendment SA 2438 agreed to in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 155.
+- 2012-06-20 — Amendment SA 2438 proposed by Senator Chambliss. (consideration: CR S4353-4354; text: CR S4353-4354) To establish highly erodible land and wetland conservation compliance requirements for the Federal crop insurance program.
+- 2012-06-20 — Amendment SA 2439 agreed to in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 157.
+- 2012-06-20 — Amendment SA 2439 proposed by Senator Coburn for Senator Durbin. (consideration: CR S4355-4356; text: CR S4355-4356) To limit the amount of premium subsidy provided by the Federal Crop Insurance Corporation on behalf of any person or legal entity with an average adjusted gross income in excess of $750,000 with a delayed application of the limitation until completion of a study on the effects of the limitation.
+- 2012-06-20 — Amendment SA 2442 agreed to in Senate by Division Vote.
+- 2012-06-20 — Amendment SA 2442 proposed by Senator Wyden. (consideration: CR S4345-4346; text: CR S4345) To establish a pilot loan program to support healthy foods for the hungry.
+- 2012-06-20 — Amendment SA 2443 agreed to in Senate by Unanimous Consent.
+- 2012-06-20 — Amendment SA 2443 proposed by Senator Stabenow for Senator Moran. (consideration: CR S4351; text: CR S4351) To improve farm safety at the local level.
+- 2012-06-20 — Amendment SA 2453 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Amendment SA 2453 proposed by Senator Stabenow. (consideration: CR S4338; text: CR S4338) To provide assistance for certain losses.
+- 2012-06-20 — Amendment SA 2454 agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 144.
+- 2012-06-20 — Amendment SA 2454 proposed by Senator Kerry. (consideration: CR S4338-4339; text: CR S4338) To prohibit assistance to North Korea under title II of the Food for Peace Act unless the President issues a national interest waiver.
+- 2012-06-20 — Amendment SA 2457 as modified agreed to in Senate by Voice Vote. (text as modified: CR S4341-4343)
+- 2012-06-20 — Amendment SA 2457 proposed by Senator Warner. (consideration: CR S4341-4343) To improve access to broadband telecommunication services in rural areas.
+- 2012-06-20 — Considered by Senate. (consideration: CR S4334-4359)
+- 2012-06-20 — Motion by Senator Johnson WI to recommit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions rejected in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 153. (consideration: CR S4351)
+- 2012-06-20 — Motion by Senator Lee to recommit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions rejected in Senate by Yea-Nay Vote. 29 - 70. Record Vote Number: 152. (consideration: CR S4350-4351; text: CR S4350)
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2226 not agreed to in Senate by Yea-Nay Vote. 36 - 63. Record Vote Number: 150.
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2273 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 141.
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2289 not agreed to in Senate by Yea-Nay Vote. 30 - 69. Record Vote Number: 142.
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2293 agreed to in Senate by Yea-Nay Vote. 62 - 37. Record Vote Number: 143.
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2295 agreed to in Senate by Yea-Nay Vote. 77 - 22. Record Vote Number: 146.
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2313 not agreed to in Senate by Yea-Nay Vote. 21 - 77. Record Vote Number: 147.
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2314 not agreed to in Senate by Yea-Nay Vote. 15 - 84. Record Vote Number: 148.
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2354 not agreed to in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 145.
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2360 not agreed to in Senate by Yea-Nay Vote. 35 - 63. Record Vote Number: 149.
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2363 as modified, under the order of 6/20/2012, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 88 - 11. Record Vote Number: 154.
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2382 agreed to in Senate by Yea-Nay Vote. 63 - 36. Record Vote Number: 140.
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2433 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 151.
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2437 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 156.
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2438 agreed to in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 155.
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2439 agreed to in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 157.
+- 2012-06-20 — Roll call votes on amendments in Senate: Amendment SA 2454 agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 144.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2195 agreed to in Senate by Unanimous Consent.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2202 agreed to in Senate by Unanimous Consent.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2204 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2242 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2246 agreed to in Senate by Unanimous Consent.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2254 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2287 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2293 agreed to in Senate by Yea-Nay Vote. 62 - 37. Record Vote Number: 143.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2295 agreed to in Senate by Yea-Nay Vote. 77 - 22. Record Vote Number: 146.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2299 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2340 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2345 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2355 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2363 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S4351)
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2363 as modified, under the order of 6/20/2012, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 88 - 11. Record Vote Number: 154.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2382 agreed to in Senate by Yea-Nay Vote. 63 - 36. Record Vote Number: 140.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2388 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2403 agreed to in Senate by Unanimous Consent.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2427 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2438 agreed to in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 155.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2439 agreed to in Senate by Yea-Nay Vote. 66 - 33. Record Vote Number: 157.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2442 agreed to in Senate by Division Vote.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2443 agreed to in Senate by Unanimous Consent.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2453 agreed to in Senate by Voice Vote.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2454 agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 144.
+- 2012-06-20 — Senate amendment agreed to: Amendment SA 2457 as modified agreed to in Senate by Voice Vote.(text as modified: CR S4341-4343)
+- 2012-06-20 — Senate amendment not agreed to: Amendment SA 2226 not agreed to in Senate by Yea-Nay Vote. 36 - 63. Record Vote Number: 150.
+- 2012-06-20 — Senate amendment not agreed to: Amendment SA 2273 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 141.
+- 2012-06-20 — Senate amendment not agreed to: Amendment SA 2289 not agreed to in Senate by Yea-Nay Vote. 30 - 69. Record Vote Number: 142.
+- 2012-06-20 — Senate amendment not agreed to: Amendment SA 2313 not agreed to in Senate by Yea-Nay Vote. 21 - 77. Record Vote Number: 147.
+- 2012-06-20 — Senate amendment not agreed to: Amendment SA 2314 not agreed to in Senate by Yea-Nay Vote. 15 - 84. Record Vote Number: 148.
+- 2012-06-20 — Senate amendment not agreed to: Amendment SA 2354 not agreed to in Senate by Yea-Nay Vote. 43 - 56. Record Vote Number: 145.
+- 2012-06-20 — Senate amendment not agreed to: Amendment SA 2360 not agreed to in Senate by Yea-Nay Vote. 35 - 63. Record Vote Number: 149.
+- 2012-06-20 — Senate amendment not agreed to: Amendment SA 2432 not agreed to in Senate by Voice Vote.
+- 2012-06-20 — Senate amendment not agreed to: Amendment SA 2433 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 151.
+- 2012-06-20 — Senate amendment not agreed to: Amendment SA 2437 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 156.
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2195 proposed by Senator Stabenow for Senator Ayotte.(consideration: CR S4351; text: CR S4351)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2202 proposed by Senator Stabenow for Senator Bennet.(consideration: CR S4357-4359; text: CR S4357)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2204 proposed by Senator Leahy.(consideration: CR S4346-4348; text: CR S4347)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2226 proposed by Senator Toomey.(consideration: CR S4348; text: CR S4348)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2242 proposed by Senator Nelson NE.(consideration: CR S4348; text: CR S4348)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2246 proposed by Senator Stabenow for Senator Blunt.(consideration: CR S4351; text: CR S4351)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2254 proposed by Senator Sanders.(consideration: CR S4352-4353; text: CR S4352-4354)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2273 proposed by Senator DeMint.(consideration: CR S4335-2336; text: CR S4335)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2287 proposed by Senator Carper.(consideration: CR S4351-4352; text: CR S4352)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2289 proposed by Senator Coburn.(consideration: CR S4336; text: CR S4336)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2293 proposed by Senator Coburn.(consideration: CR S4336-4338; text: CR S4337)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2295 proposed by Senator Udall CO.(consideration: CR S4339-4340; text: CR S4339)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2299 proposed by Senator Klobuchar.(consideration: CR S4350; text: CR S4350)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2313 proposed by Senator Lee.(consideration: CR S4340-4341; text: CR S4340)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2314 proposed by Senator Lee.(consideration: CR S4343-4344; text: CR S4343)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2340 proposed by Senator Chambliss.(consideration: CR S4356; text: CR S4356)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2345 proposed by Senator Manchin.(consideration: CR S4334; text: CR S4334)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2354 proposed by Senator Kyl.(consideration: CR S4339; text: CR S4339)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2355 proposed by Senator Boozman.(consideration: CR S4345; text: CR S4345)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2360 proposed by Senator Boozman.(consideration: CR S4346; text as modified: CR S4346)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2363 proposed by Senator Stabenow for Senator Vitter.(consideration: CR S4351, S4353)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2382 proposed by Senator Merkley.(consideration: CR S4334-4335; text: CR S4335)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2388 proposed by Senator Wyden.(consideration: CR S4344-4345; text: CR S4344)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2403 proposed by Senator Stabenow for Senator Moran.(consideration: CR S4351; text: CR S4351)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2427 proposed by Senator Stabenow for Senator Schumer.(consideration: CR S4344; text: CR S4344)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2432 proposed by Senator Chambliss.(consideration: CR S4356-2357)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2433 proposed by Senator Toomey.(consideration: CR S4348-4350; text: CR S4349)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2437 proposed by Senator Thune.(consideration: CR S4354-4355; text: CR S4354-4355)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2438 proposed by Senator Chambliss.(consideration: CR S4353-4354; text: CR S4353-4354)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2439 proposed by Senator Coburn for Senator Durbin.(consideration: CR S4355-4356; text: CR S4355-4356)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2442 proposed by Senator Wyden.(consideration: CR S4345-4346; text: CR S4345)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2443 proposed by Senator Stabenow for Senator Moran.(consideration: CR S4351; text: CR S4351)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2453 proposed by Senator Stabenow.(consideration: CR S4338; text: CR S4338)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2454 proposed by Senator Kerry.(consideration: CR S4338-4339; text: CR S4338)
+- 2012-06-20 — Senate amendment proposed (on the floor): Amendment SA 2457 proposed by Senator Warner.(consideration: CR S4341-4343)
+- 2012-06-20 — Senate vitiated previous adoption of amendment SA 2363. (consideration: CR S4353)
+- 2012-06-21 — Amendment SA 2166 proposed by Senator Rubio. (consideration: CR S4389; text: CR S4389) To amend the National Labor Relations Act to permit employers to pay higher wages to their employees.
+- 2012-06-21 — Amendment SA 2166, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 163.
+- 2012-06-21 — Amendment SA 2214 proposed by Senator Coburn. (consideration: CR S4384-4385; text: CR S4384-4385) To amend the Internal Revenue Code of 1986 to prohibit the use of public funds for political party conventions, and to provide for the return of previously distributed funds for deficit reduction.
+- 2012-06-21 — Amendment SA 2214, under the order of 6/18/2012, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 95 - 4. Record Vote Number: 162.
+- 2012-06-21 — Amendment SA 2247 proposed by Senator Toomey. (consideration: CR S4382-4283; text: CR S4382-4383) To reduce unnecessary paperwork burdens on community water systems.
+- 2012-06-21 — Amendment SA 2247, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 160.
+- 2012-06-21 — Amendment SA 2310 proposed by Senator Sanders. (consideration: CR S4383-4384; text: CR S4383-4384) To permit States to require that any food, beverage, or other edible product offered for sale have a label on indicating that the food, beverage, or other edible product contains a genetically engineered ingredient.
+- 2012-06-21 — Amendment SA 2310, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 26 - 73. Record Vote Number: 161.
+- 2012-06-21 — Amendment SA 2372 proposed by Senator Johanns. (consideration: CR S4382; text: CR S4382) To prohibit the Administrator of the Environmental Protection Agency from conducting aerial surveillance to inspect agricultural operations or to record images of agricultural operations.
+- 2012-06-21 — Amendment SA 2372, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 159.
+- 2012-06-21 — Amendment SA 2455 as modified agreed to in Senate by Voice Vote. (text as modified: CR S4385-4386)
+- 2012-06-21 — Amendment SA 2455 proposed by Senator Murray. (consideration: CR S4385-4386) To require the Office of Management and Budget, the President, and the Department of Defense to submit detailed reports to Congress on effects of defense and nondefesne budget sequestration for fiscal year 2013.
+- 2012-06-21 — Amendment SA 2456 proposed by Senator Boxer. (consideration: CR S4381-4382; text: CR S4381) Of a perfecting nature.
+- 2012-06-21 — Amendment SA 2456, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 48. Record Vote Number: 158.
+- 2012-06-21 — Considered by Senate. (consideration: CR S4381-4400)
+- 2012-06-21 — Passed Senate, under the order of 6/18/2012, having achieved 60 votes in the affirmative, with amendments by Yea-Nay Vote. 64 - 35. Record Vote Number: 164.
+- 2012-06-21 — Passed/agreed to in Senate: Passed Senate, under the order of 6/18/2012, having achieved 60 votes in the affirmative, with amendments by Yea-Nay Vote. 64 - 35. Record Vote Number: 164.
+- 2012-06-21 — Roll call votes on amendments in Senate: Amendment SA 2166, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 163.
+- 2012-06-21 — Roll call votes on amendments in Senate: Amendment SA 2214, under the order of 6/18/2012, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 95 - 4. Record Vote Number: 162.
+- 2012-06-21 — Roll call votes on amendments in Senate: Amendment SA 2247, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 160.
+- 2012-06-21 — Roll call votes on amendments in Senate: Amendment SA 2310, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 26 - 73. Record Vote Number: 161.
+- 2012-06-21 — Roll call votes on amendments in Senate: Amendment SA 2372, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 159.
+- 2012-06-21 — Roll call votes on amendments in Senate: Amendment SA 2456, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 48. Record Vote Number: 158.
+- 2012-06-21 — Senate amendment agreed to: Amendment SA 2214, under the order of 6/18/2012, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 95 - 4. Record Vote Number: 162.
+- 2012-06-21 — Senate amendment agreed to: Amendment SA 2455 as modified agreed to in Senate by Voice Vote.(text as modified: CR S4385-4386)
+- 2012-06-21 — Senate amendment not agreed to: Amendment SA 2166, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 163.
+- 2012-06-21 — Senate amendment not agreed to: Amendment SA 2247, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 58 - 41. Record Vote Number: 160.
+- 2012-06-21 — Senate amendment not agreed to: Amendment SA 2310, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 26 - 73. Record Vote Number: 161.
+- 2012-06-21 — Senate amendment not agreed to: Amendment SA 2372, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 159.
+- 2012-06-21 — Senate amendment not agreed to: Amendment SA 2456, under the order of 6/18/2012, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 47 - 48. Record Vote Number: 158.
+- 2012-06-21 — Senate amendment proposed (on the floor): Amendment SA 2166 proposed by Senator Rubio.(consideration: CR S4389; text: CR S4389)
+- 2012-06-21 — Senate amendment proposed (on the floor): Amendment SA 2214 proposed by Senator Coburn.(consideration: CR S4384-4385; text: CR S4384-4385)
+- 2012-06-21 — Senate amendment proposed (on the floor): Amendment SA 2247 proposed by Senator Toomey.(consideration: CR S4382-4283; text: CR S4382-4383)
+- 2012-06-21 — Senate amendment proposed (on the floor): Amendment SA 2310 proposed by Senator Sanders.(consideration: CR S4383-4384; text: CR S4383-4384)
+- 2012-06-21 — Senate amendment proposed (on the floor): Amendment SA 2372 proposed by Senator Johanns.(consideration: CR S4382; text: CR S4382)
+- 2012-06-21 — Senate amendment proposed (on the floor): Amendment SA 2455 proposed by Senator Murray.(consideration: CR S4385-4386)
+- 2012-06-21 — Senate amendment proposed (on the floor): Amendment SA 2456 proposed by Senator Boxer.(consideration: CR S4381-4382; text: CR S4381)
