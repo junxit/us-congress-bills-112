@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4480
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4480
@@ -47,6 +47,28 @@ Domestic Energy and Jobs Act
 - House — Natural Resources Committee
 - House — Energy and Commerce Committee
 
+## Recorded votes (19)
+
+- 2012-06-21 — [House 112-2-392](votes/house-112-2-0392.md) — On Agreeing to the Amendment — **Agreed to** (253–163)
+- 2012-06-21 — [House 112-2-393](votes/house-112-2-0393.md) — On Agreeing to the Amendment — **Failed** (164–249)
+- 2012-06-21 — [House 112-2-394](votes/house-112-2-0394.md) — On Agreeing to the Amendment — **Failed** (177–242)
+- 2012-06-21 — [House 112-2-395](votes/house-112-2-0395.md) — On Agreeing to the Amendment — **Failed** (174–244)
+- 2012-06-21 — [House 112-2-396](votes/house-112-2-0396.md) — On Agreeing to the Amendment — **Failed** (164–255)
+- 2012-06-21 — [House 112-2-397](votes/house-112-2-0397.md) — On Agreeing to the Amendment — **Failed** (164–256)
+- 2012-06-21 — [House 112-2-398](votes/house-112-2-0398.md) — On Agreeing to the Amendment — **Failed** (190–230)
+- 2012-06-21 — [House 112-2-399](votes/house-112-2-0399.md) — On Agreeing to the Amendment — **Agreed to** (257–162)
+- 2012-06-21 — [House 112-2-400](votes/house-112-2-0400.md) — On Agreeing to the Amendment — **Failed** (161–256)
+- 2012-06-21 — [House 112-2-401](votes/house-112-2-0401.md) — On Agreeing to the Amendment — **Agreed to** (244–173)
+- 2012-06-21 — [House 112-2-402](votes/house-112-2-0402.md) — On Agreeing to the Amendment — **Agreed to** (263–146)
+- 2012-06-21 — [House 112-2-403](votes/house-112-2-0403.md) — On Agreeing to the Amendment — **Failed** (168–250)
+- 2012-06-21 — [House 112-2-404](votes/house-112-2-0404.md) — On Agreeing to the Amendment — **Agreed to** (256–161)
+- 2012-06-21 — [House 112-2-405](votes/house-112-2-0405.md) — On Agreeing to the Amendment — **Failed** (186–233)
+- 2012-06-21 — [House 112-2-406](votes/house-112-2-0406.md) — On Agreeing to the Amendment — **Failed** (162–254)
+- 2012-06-21 — [House 112-2-407](votes/house-112-2-0407.md) — On Agreeing to the Amendment — **Failed** (162–255)
+- 2012-06-21 — [House 112-2-408](votes/house-112-2-0408.md) — On Agreeing to the Amendment — **Failed** (180–235)
+- 2012-06-21 — [House 112-2-409](votes/house-112-2-0409.md) — On Motion to Recommit with Instructions — **Failed** (166–243)
+- 2012-06-21 — [House 112-2-410](votes/house-112-2-0410.md) — On Passage — **Passed** (248–163)
+
 ## Actions
 
 - 2012-04-16 — Committee Consideration and Mark-up Session Held Prior to Introduction.
@@ -71,3 +93,241 @@ Domestic Energy and Jobs Act
 - 2012-06-08 — Placed on the Union Calendar, Calendar No. 367.
 - 2012-06-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-520, Part I.
 - 2012-06-08 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-520, Part I.
+- 2012-06-19 — Rules Committee Resolution H. Res. 691 Reported to House. Rule provides for consideration of H.R. 4480 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution makes in order as original text for purpose of amendment the amendment in the nature of a substitute consisting of the text of Rules Committee Print 112-24.
+- 2012-06-20 — Amendment (A001) offered by Mr. Hastings (WA). (consideration: CR H3895-3896; text: CR H3895)
+- 2012-06-20 — Amendment (A002) offered by Mr. Polis. (consideration: CR H3896-3897; text: CR H3896)
+- 2012-06-20 — Amendment (A003) offered by Mr. Quigley. (consideration: CR H3897-3898; text: CR H3897)
+- 2012-06-20 — Amendment (A004) offered by Mr. McKinley. (consideration: CR H3898; text: CR H3898)
+- 2012-06-20 — Amendment (A005) offered by Mr. McKinley. (consideration: CR H3898-3899; text: CR H3898)
+- 2012-06-20 — Amendment (A006) offered by Mr. Waxman. (consideration: CR H3899-3900; text: CR H3899)
+- 2012-06-20 — Amendment (A007) offered by Mr. Connolly (VA). (consideration: CR H3901; text: CR H3901)
+- 2012-06-20 — Amendment (A008) offered by Mr. Green, Gene. (consideration: CR H3901-3902; text: CR H3901)
+- 2012-06-20 — Amendment (A009) offered by Mr. Terry. (consideration: CR H3902-3904; text: CR H3902-3903)
+- 2012-06-20 — Amendment (A010) offered by Mr. Rush. (consideration: CR H3904-3905; text: CR H3904)
+- 2012-06-20 — Amendment (A011) offered by Mr. Holt. (consideration: CR H3905-3906; text: CR H3905)
+- 2012-06-20 — Amendment (A012) offered by Mr. Connolly (VA). (consideration: CR H3906-3907; text: CR H3906)
+- 2012-06-20 — Amendment (A013) offered by Mr. Amodei. (consideration: CR H3907-3909)
+- 2012-06-20 — Amendment (A014) offered by Mr. Markey. (consideration: CR H3909-3910; text: CR H3909)
+- 2012-06-20 — Amendment (A015) offered by Mr. Landry. (consideration: CR H3910-3911; text: CR H3910)
+- 2012-06-20 — Amendment (A016) offered by Mr. Rigell. (consideration: CR H3911-3912; text: CR H3911)
+- 2012-06-20 — Amendment agreed to Committee of the Whole
+- 2012-06-20 — Amendment agreed to Committee of the Whole
+- 2012-06-20 — Amendment agreed to Committee of the Whole
+- 2012-06-20 — Amendment failed in Committee of the Whole
+- 2012-06-20 — Amendment failed in Committee of the Whole
+- 2012-06-20 — Committee of the Whole House on the state of the Union rises leaving H.R. 4480 as unfinished business.
+- 2012-06-20 — Considered under the provisions of rule H. Res. 691. (consideration: CR H3875-3912; text of amendment in the nature of a substitute: CR H3890-3895)
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Amodei amendment.
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment.
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Connolly amendment.
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Gene Green (TX) amendment.
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (WA) amendment.
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Holt amendment.
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Landry amendment.
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Markey amendment.
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment numbered 5.
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment numbered 6.
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment.
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Quigley amendment.
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Rigell amendment.
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Rush amendment.
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Terry amendment.
+- 2012-06-20 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Waxman amendment.
+- 2012-06-20 — GENERAL DEBATE - The Committee of the Whole proceeded with two hour of general debate on H.R. 4480.
+- 2012-06-20 — House amendment agreed to: On agreeing to the McKinley amendment (A004) Agreed to by voice vote.
+- 2012-06-20 — House amendment agreed to: On agreeing to the McKinley amendment (A005) Agreed to by voice vote.
+- 2012-06-20 — House amendment agreed to: On agreeing to the Terry amendment (A009) Agreed to by voice vote.
+- 2012-06-20 — House amendment not agreed to: On agreeing to the Polis amendment (A002) Failed by voice vote.
+- 2012-06-20 — House amendment not agreed to: On agreeing to the Quigley amendment (A003) Failed by voice vote.
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered
+- 2012-06-20 — House amendment offered/reported by: Amendment (A001) offered by Mr. Hastings (WA).(consideration: CR H3895-3896; text: CR H3895)
+- 2012-06-20 — House amendment offered/reported by: Amendment (A002) offered by Mr. Polis.(consideration: CR H3896-3897; text: CR H3896)
+- 2012-06-20 — House amendment offered/reported by: Amendment (A003) offered by Mr. Quigley.(consideration: CR H3897-3898; text: CR H3897)
+- 2012-06-20 — House amendment offered/reported by: Amendment (A004) offered by Mr. McKinley.(consideration: CR H3898; text: CR H3898)
+- 2012-06-20 — House amendment offered/reported by: Amendment (A005) offered by Mr. McKinley.(consideration: CR H3898-3899; text: CR H3898)
+- 2012-06-20 — House amendment offered/reported by: Amendment (A006) offered by Mr. Waxman.(consideration: CR H3899-3900; text: CR H3899)
+- 2012-06-20 — House amendment offered/reported by: Amendment (A007) offered by Mr. Connolly (VA).(consideration: CR H3901; text: CR H3901)
+- 2012-06-20 — House amendment offered/reported by: Amendment (A008) offered by Mr. Green, Gene.(consideration: CR H3901-3902; text: CR H3901)
+- 2012-06-20 — House amendment offered/reported by: Amendment (A009) offered by Mr. Terry.(consideration: CR H3902-3904; text: CR H3902-3903)
+- 2012-06-20 — House amendment offered/reported by: Amendment (A010) offered by Mr. Rush.(consideration: CR H3904-3905; text: CR H3904)
+- 2012-06-20 — House amendment offered/reported by: Amendment (A011) offered by Mr. Holt.(consideration: CR H3905-3906; text: CR H3905)
+- 2012-06-20 — House amendment offered/reported by: Amendment (A012) offered by Mr. Connolly (VA).(consideration: CR H3906-3907; text: CR H3906)
+- 2012-06-20 — House amendment offered/reported by: Amendment (A013) offered by Mr. Amodei.(consideration: CR H3907-3909)
+- 2012-06-20 — House amendment offered/reported by: Amendment (A014) offered by Mr. Markey.(consideration: CR H3909-3910; text: CR H3909)
+- 2012-06-20 — House amendment offered/reported by: Amendment (A015) offered by Mr. Landry.(consideration: CR H3910-3911; text: CR H3910)
+- 2012-06-20 — House amendment offered/reported by: Amendment (A016) offered by Mr. Rigell.(consideration: CR H3911-3912; text: CR H3911)
+- 2012-06-20 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 691 and Rule XVIII.
+- 2012-06-20 — Mr. Hastings (WA) moved that the committee rise.
+- 2012-06-20 — On agreeing to the McKinley amendment (A004) Agreed to by voice vote.
+- 2012-06-20 — On agreeing to the McKinley amendment (A005) Agreed to by voice vote.
+- 2012-06-20 — On agreeing to the Polis amendment (A002) Failed by voice vote.
+- 2012-06-20 — On agreeing to the Quigley amendment (A003) Failed by voice vote.
+- 2012-06-20 — On agreeing to the Terry amendment (A009) Agreed to by voice vote.
+- 2012-06-20 — On motion that the committee rise Agreed to by voice vote.
+- 2012-06-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Amodei amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Amodei demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Amodei amendment until a time to be announced.
+- 2012-06-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Connolly demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Connolly amendment until a time to be announced.
+- 2012-06-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Connolly amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Connolly demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Connolly amendment until a time to be announced.
+- 2012-06-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gene Green (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Gene Green (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Gene Green (TX) amendment until a time to be announced.
+- 2012-06-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hastings (WA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Markey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Hastings (WA) amendment until a time to be announced.
+- 2012-06-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Holt amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Holt demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Holt amendment until a time to be announced.
+- 2012-06-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Landry amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Markey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Landry amendment until a time to be announced.
+- 2012-06-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Markey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Markey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Markey amendment until a time to be announced.
+- 2012-06-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rigell amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Markey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Rige11 amendment until a time to be announced.
+- 2012-06-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rush amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Rush demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Rush amendment until a time to be announced.
+- 2012-06-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Waxman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Gardner demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Waxman amendment until a time to be announced.
+- 2012-06-20 — Rule H. Res. 691 passed House.
+- 2012-06-20 — Rule provides for consideration of H.R. 4480 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The resolution makes in order as original text for purpose of amendment the amendment in the nature of a substitute consisting of the text of Rules Committee Print 112-24.
+- 2012-06-20 — The Chair announced its understanding the amendment numbered 3 printed in House Report 112-540 would not be offered.
+- 2012-06-20 — The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee.
+- 2012-06-21 — Amendment (A017) offered by Mr. Holt. (consideration: CR H3918-3920, H3938-3939; text: CR H3919)
+- 2012-06-21 — Amendment (A018) offered by Mr. Wittman. (consideration: CR H3920-3921, H3939; text: CR H3920)
+- 2012-06-21 — Amendment (A019) offered by Mr. Westmoreland. (consideration: CR H3921-3922; text: CR H3921)
+- 2012-06-21 — Amendment (A020) offered by Ms. Bass (CA). (consideration: CR H3922-3923, H3939-3940; text: CR H3922)
+- 2012-06-21 — Amendment (A021) offered by Mrs. Capps. (consideration: CR H3923-3925, H3940-3941; text: CR H3923-3924)
+- 2012-06-21 — Amendment (A022) offered by Ms. Hanabusa. (consideration: CR H3925; text: CR H3925)
+- 2012-06-21 — Amendment (A023) offered by Ms. Speier. (consideration: CR H3925-3926, H3941; text: CR H3925)
+- 2012-06-21 — Amendment (A024) offered by Ms. DeLauro. (consideration: CR H3926-3927, H3941-3942; text: CR H3926)
+- 2012-06-21 — Amendment (A025) offered by Ms. Bass (CA). (consideration: CR H3927-3930; text: CR H3927-3928)
+- 2012-06-21 — Amendment agreed to Committee of the Whole
+- 2012-06-21 — Amendment agreed to Committee of the Whole
+- 2012-06-21 — Amendment agreed to Committee of the Whole
+- 2012-06-21 — Amendment agreed to Committee of the Whole
+- 2012-06-21 — Amendment agreed to Committee of the Whole
+- 2012-06-21 — Amendment agreed to Committee of the Whole
+- 2012-06-21 — Amendment agreed to Committee of the Whole
+- 2012-06-21 — Amendment failed in Committee of the Whole
+- 2012-06-21 — Amendment failed in Committee of the Whole
+- 2012-06-21 — Amendment failed in Committee of the Whole
+- 2012-06-21 — Amendment failed in Committee of the Whole
+- 2012-06-21 — Amendment failed in Committee of the Whole
+- 2012-06-21 — Amendment failed in Committee of the Whole
+- 2012-06-21 — Amendment failed in Committee of the Whole
+- 2012-06-21 — Amendment failed in Committee of the Whole
+- 2012-06-21 — Amendment failed in Committee of the Whole
+- 2012-06-21 — Amendment failed in Committee of the Whole
+- 2012-06-21 — Amendment failed in Committee of the Whole
+- 2012-06-21 — Amendment failed in Committee of the Whole
+- 2012-06-21 — Amendment failed in Committee of the Whole
+- 2012-06-21 — Committee of the Whole House on the state of the Union rises leaving H.R. 4480 as unfinished business.
+- 2012-06-21 — Considered as unfinished business. (consideration: CR H3918-3930)
+- 2012-06-21 — Considered as unfinished business. (consideration: CR H3940-3945)
+- 2012-06-21 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Bass (CA) amendment.
+- 2012-06-21 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Bass (CA) amendment.
+- 2012-06-21 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Capps amendment.
+- 2012-06-21 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the DeLauro amendment.
+- 2012-06-21 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Hanabusa amendment.
+- 2012-06-21 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Holt amendment.
+- 2012-06-21 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Speier amendment.
+- 2012-06-21 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Westmoreland amendment.
+- 2012-06-21 — DEBATE - Pursuant to the provisions of H. Res. 691, the Committee of the Whole proceeded with 10 minutes of debate on the Wittman amendment.
+- 2012-06-21 — DEBATE - The House proceeded with 10 minutes of debate on the Slaughter motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prohibit the major integrated oil companies (Big 5) from receiving new drilling leases authorized under this bill unless they agree to not claim certain tax benefits: the percentage depletion allowance and the domestic production activities deduction (Sec. 199). The motion would also require that: all materials used to drill new leases issued under this bill be made in America, and that lease holders make efforts to reduce outsourcing of jobs.
+- 2012-06-21 — House amendment agreed to: On agreeing to the Amodei amendment (A013) Agreed to by recorded vote: 257 - 162 (Roll no. 399).(consideration: CR H3935-3936)
+- 2012-06-21 — House amendment agreed to: On agreeing to the Hanabusa amendment (A022) Agreed to by voice vote.
+- 2012-06-21 — House amendment agreed to: On agreeing to the Hastings (WA) amendment (A001) Agreed to by recorded vote: 253 - 163 (Roll no. 392).(consideration: CR H3930-3931)
+- 2012-06-21 — House amendment agreed to: On agreeing to the Landry amendment (A015) Agreed to by recorded vote: 244 - 173 (Roll no. 401).(consideration: CR H3937)
+- 2012-06-21 — House amendment agreed to: On agreeing to the Rigell amendment (A016) Agreed to by recorded vote: 263 - 146 (Roll no. 402).(consideration: CR H3937-3938)
+- 2012-06-21 — House amendment agreed to: On agreeing to the Westmoreland amendment (A019) Agreed to by voice vote.
+- 2012-06-21 — House amendment agreed to: On agreeing to the Wittman amendment (A018) Agreed to by recorded vote: 256 - 161 (Roll no. 404).(consideration: CR H3939)
+- 2012-06-21 — House amendment not agreed to: On agreeing to the Bass (CA) amendment (A020) Failed by recorded vote: 186 - 233 (Roll no. 405).(consideration: CR H3939-3940)
+- 2012-06-21 — House amendment not agreed to: On agreeing to the Bass (CA) amendment (A025) Failed by voice vote.
+- 2012-06-21 — House amendment not agreed to: On agreeing to the Capps amendment (A021) Failed by recorded vote: 162 - 254 (Roll no. 406).(consideration: CR H3940-3941)
+- 2012-06-21 — House amendment not agreed to: On agreeing to the Connolly (VA) amendment (A007) Failed by recorded vote: 177 - 242 (Roll no. 394).(consideration: CR H3932-3933)
+- 2012-06-21 — House amendment not agreed to: On agreeing to the Connolly (VA) amendment (A012) Failed by recorded vote: 190 - 230 (Roll no. 398).(consideration: CR H3935)
+- 2012-06-21 — House amendment not agreed to: On agreeing to the DeLauro amendment (A024) Failed by recorded vote: 180 - 235 (Roll no. 408).(consideration: CR H3941-3942)
+- 2012-06-21 — House amendment not agreed to: On agreeing to the Green, Gene amendment (A008) Failed by recorded vote: 174 - 244 (Roll no. 395).(consideration: CR H3933)
+- 2012-06-21 — House amendment not agreed to: On agreeing to the Holt amendment (A011) Failed by recorded vote: 164 - 256 (Roll no. 397).(consideration: CR H3934-3935)
+- 2012-06-21 — House amendment not agreed to: On agreeing to the Holt amendment (A017) Failed by recorded vote: 168 - 250 (Roll no. 403).(consideration: CR H3938-3939)
+- 2012-06-21 — House amendment not agreed to: On agreeing to the Markey amendment (A014) Failed by recorded vote: 161 - 256 (Roll no. 400).(consideration: CR H3936-3937)
+- 2012-06-21 — House amendment not agreed to: On agreeing to the Rush amendment (A010) Failed by recorded vote: 164 - 255 (Roll no. 396).(consideration: CR H3933-3934)
+- 2012-06-21 — House amendment not agreed to: On agreeing to the Speier amendment (A023) Failed by recorded vote: 162 - 255 (Roll no. 407).(consideration: CR H3941)
+- 2012-06-21 — House amendment not agreed to: On agreeing to the Waxman amendment (A006) Failed by recorded vote: 164 - 249 (Roll no. 393).(consideration: CR H3931-3932)
+- 2012-06-21 — House amendment offered
+- 2012-06-21 — House amendment offered
+- 2012-06-21 — House amendment offered
+- 2012-06-21 — House amendment offered
+- 2012-06-21 — House amendment offered
+- 2012-06-21 — House amendment offered
+- 2012-06-21 — House amendment offered
+- 2012-06-21 — House amendment offered
+- 2012-06-21 — House amendment offered
+- 2012-06-21 — House amendment offered/reported by: Amendment (A017) offered by Mr. Holt.(consideration: CR H3918-3920, H3938-3939; text: CR H3919)
+- 2012-06-21 — House amendment offered/reported by: Amendment (A018) offered by Mr. Wittman.(consideration: CR H3920-3921, H3939; text: CR H3920)
+- 2012-06-21 — House amendment offered/reported by: Amendment (A019) offered by Mr. Westmoreland.(consideration: CR H3921-3922; text: CR H3921)
+- 2012-06-21 — House amendment offered/reported by: Amendment (A020) offered by Ms. Bass (CA).(consideration: CR H3922-3923, H3939-3940; text: CR H3922)
+- 2012-06-21 — House amendment offered/reported by: Amendment (A021) offered by Mrs. Capps.(consideration: CR H3923-3925, H3940-3941; text: CR H3923-3924)
+- 2012-06-21 — House amendment offered/reported by: Amendment (A022) offered by Ms. Hanabusa.(consideration: CR H3925; text: CR H3925)
+- 2012-06-21 — House amendment offered/reported by: Amendment (A023) offered by Ms. Speier.(consideration: CR H3925-3926, H3941; text: CR H3925)
+- 2012-06-21 — House amendment offered/reported by: Amendment (A024) offered by Ms. DeLauro.(consideration: CR H3926-3927, H3941-3942; text: CR H3926)
+- 2012-06-21 — House amendment offered/reported by: Amendment (A025) offered by Ms. Bass (CA).(consideration: CR H3927-3930; text: CR H3927-3928)
+- 2012-06-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-21 — Mr. Lamborn moved to rise.
+- 2012-06-21 — Ms. Slaughter moved to recommit with instructions to Natural Resources. (consideration: CR H3942-3944; text: CR H3942)
+- 2012-06-21 — On agreeing to the Amodei amendment (A013) Agreed to by recorded vote: 257 - 162 (Roll no. 399). (consideration: CR H3935-3936)
+- 2012-06-21 — On agreeing to the Bass (CA) amendment (A020) Failed by recorded vote: 186 - 233 (Roll no. 405). (consideration: CR H3939-3940)
+- 2012-06-21 — On agreeing to the Bass (CA) amendment (A025) Failed by voice vote.
+- 2012-06-21 — On agreeing to the Capps amendment (A021) Failed by recorded vote: 162 - 254 (Roll no. 406). (consideration: CR H3940-3941)
+- 2012-06-21 — On agreeing to the Connolly (VA) amendment (A007) Failed by recorded vote: 177 - 242 (Roll no. 394). (consideration: CR H3932-3933)
+- 2012-06-21 — On agreeing to the Connolly (VA) amendment (A012) Failed by recorded vote: 190 - 230 (Roll no. 398). (consideration: CR H3935)
+- 2012-06-21 — On agreeing to the DeLauro amendment (A024) Failed by recorded vote: 180 - 235 (Roll no. 408). (consideration: CR H3941-3942)
+- 2012-06-21 — On agreeing to the Green, Gene amendment (A008) Failed by recorded vote: 174 - 244 (Roll no. 395). (consideration: CR H3933)
+- 2012-06-21 — On agreeing to the Hanabusa amendment (A022) Agreed to by voice vote.
+- 2012-06-21 — On agreeing to the Hastings (WA) amendment (A001) Agreed to by recorded vote: 253 - 163 (Roll no. 392). (consideration: CR H3930-3931)
+- 2012-06-21 — On agreeing to the Holt amendment (A011) Failed by recorded vote: 164 - 256 (Roll no. 397). (consideration: CR H3934-3935)
+- 2012-06-21 — On agreeing to the Holt amendment (A017) Failed by recorded vote: 168 - 250 (Roll no. 403). (consideration: CR H3938-3939)
+- 2012-06-21 — On agreeing to the Landry amendment (A015) Agreed to by recorded vote: 244 - 173 (Roll no. 401). (consideration: CR H3937)
+- 2012-06-21 — On agreeing to the Markey amendment (A014) Failed by recorded vote: 161 - 256 (Roll no. 400). (consideration: CR H3936-3937)
+- 2012-06-21 — On agreeing to the Rigell amendment (A016) Agreed to by recorded vote: 263 - 146 (Roll no. 402). (consideration: CR H3937-3938)
+- 2012-06-21 — On agreeing to the Rush amendment (A010) Failed by recorded vote: 164 - 255 (Roll no. 396). (consideration: CR H3933-3934)
+- 2012-06-21 — On agreeing to the Speier amendment (A023) Failed by recorded vote: 162 - 255 (Roll no. 407). (consideration: CR H3941)
+- 2012-06-21 — On agreeing to the Waxman amendment (A006) Failed by recorded vote: 164 - 249 (Roll no. 393). (consideration: CR H3931-3932)
+- 2012-06-21 — On agreeing to the Westmoreland amendment (A019) Agreed to by voice vote.
+- 2012-06-21 — On agreeing to the Wittman amendment (A018) Agreed to by recorded vote: 256 - 161 (Roll no. 404). (consideration: CR H3939)
+- 2012-06-21 — On motion to recommit with instructions Failed by the Yeas and Nays: 166 - 243 (Roll no. 409). (consideration: CR H3943-3944)
+- 2012-06-21 — On motion to rise Agreed to by voice vote.
+- 2012-06-21 — On passage Passed by recorded vote: 248 - 163 (Roll no. 410).
+- 2012-06-21 — POSPTONED PROCEEDINGS - At the conclusion of debate on the Capps amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Capps demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Capps amendment until a time to be announced.
+- 2012-06-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bass (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Bass (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Bass (CA) amendment until a time to be announced.
+- 2012-06-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the DeLauro amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Gardner demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the DeLauro amendment until a time to be announced.
+- 2012-06-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Holt amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Holt demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Holt amendment until a time to be announced.
+- 2012-06-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Speier amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Speier demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Speier amendment until a time to be announced.
+- 2012-06-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Wittman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Markey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Wittman amendment until a time to be announced.
+- 2012-06-21 — Passed/agreed to in House: On passage Passed by recorded vote: 248 - 163 (Roll no. 410).
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — Roll call votes on amendments in House
+- 2012-06-21 — The Chair announced its understanding the amendment numbered 22 printed in House Report 112-540 would not be offered.
+- 2012-06-21 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2012-06-21 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2012-06-21 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2012-06-21 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4480.
+- 2012-06-21 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3943)
+- 2012-06-21 — The previous question was ordered pursuant to the rule. (consideration: CR H3942)
