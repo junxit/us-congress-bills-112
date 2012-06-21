@@ -1,0 +1,24 @@
+---
+legis-num: H. RES. 697
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 697
+
+> Providing for consideration of the bill (H.R. 5973) making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies programs for the fiscal year ending September 30, 2013, and for other purposes; and providing for consideration of the bill (H.R. 5972) making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2013, and for other purposes.
+
+That at any time after the adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for consideration of the bill (H.R. 5973) making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies programs for the fiscal year ending September 30, 2013, and for other purposes. The first reading of the bill shall be dispensed with. All points of order against consideration of the bill are waived. General debate shall be confined to the bill and shall not exceed one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. After general debate the bill shall be considered for amendment under the five-minute rule. Points of order against provisions in the bill for failure to comply with clause 2 of rule XXI are waived. During consideration of the bill for amendment, the chair of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of rule XVIII. Amendments so printed shall be considered as read. When the committee rises and reports the bill back to the House with a recommendation that the bill do pass, the previous question shall be considered as ordered on the bill and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions.
+
+## § 2.
+
+At any time after the adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for consideration of the bill (H.R. 5972) making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2013, and for other purposes. The first reading of the bill shall be dispensed with. All points of order against consideration of the bill are waived. General debate shall be confined to the bill and shall not exceed one hour equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations. After general debate the bill shall be considered for amendment under the five-minute rule. Points of order against provisions in the bill for failure to comply with clause 2 of rule XXI are waived except for section 169C. The amendment specified in section 3 of this resolution shall be considered as adopted in the House and in the Committee of the Whole. During consideration of the bill for further amendment, the chair of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of rule XVIII. Amendments so printed shall be considered as read. When the committee rises and reports the bill, as amended, back to the House with a recommendation that the bill do pass, the previous question shall be considered as ordered on the bill and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions.
+
+## § 3.
+
+The amendment referred to in section 2 of this resolution is as follows: insert before section 418 the caption “Spending Reduction Account”.
+
+## § 4.
+
+It shall be in order without intervention of any point of order to consider concurrent resolutions providing for adjournment during the month of July.
