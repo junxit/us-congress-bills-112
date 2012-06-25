@@ -11,16 +11,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Safe Doses Act”.
+This Act may be cited as the “Strengthening and Focusing Enforcement to Deter Organized Stealing and Enhance Safety Act of 2012” or the “SAFE DOSES Act”.
 
 ## § 2. Theft of medical products
 
 - **(a)** *Prohibited conduct and penalties* Chapter 31 of title 18, United States Code, is amended by adding at the end the following:
   > ## § 670. Theft of medical products
   >
-  > - **(a)** *Prohibited conduct* Whoever, in or affecting interstate or foreign commerce—
-  >   - **(1)** embezzles, steals, or unlawfully takes, carries away, or conceals, or by fraud or deception obtains, a pre-retail medical product;
-  >   - **(2)** falsely makes, alters, forges, or counterfeits the labeling or documentation (including documentation relating to origination or shipping) of a pre-retail medical product;
+  > - **(a)** *Prohibited conduct* Whoever, in, or using any means or facility of, interstate or foreign commerce—
+  >   - **(1)** embezzles, steals, or by fraud or deception obtains, or knowingly and unlawfully takes, carries away, or conceals a pre-retail medical product;
+  >   - **(2)** knowingly and falsely makes, alters, forges, or counterfeits the labeling or documentation (including documentation relating to origination or shipping) of a pre-retail medical product;
   >   - **(3)** knowingly possesses, transports, or traffics in a pre-retail medical product that was involved in a violation of paragraph (1) or (2);
   >   - **(4)** with intent to defraud, buys, or otherwise obtains, a pre-retail medical product that has expired or been stolen;
   >   - **(5)** with intent to defraud, sells, or distributes, a pre-retail medical product that is expired or stolen; or
@@ -35,7 +35,7 @@ This Act may be cited as the “Safe Doses Act”.
   > - **(c)** *Criminal penalties* Whoever violates subsection (a)—
   >   - **(1)** if the offense is an aggravated offense under subsection (b)(2)(C), shall be fined under this title or imprisoned not more than 30 years, or both;
   >   - **(2)** if the value of the medical products involved in the offense is $5,000 or greater, shall be fined under this title, imprisoned for not more than 15 years, or both, but if the offense is an aggravated offense other than one under subsection (b)(2)(C), the maximum term of imprisonment is 20 years; and
-  >   - **(3)** in any other case, shall be fined under this title, imprisoned for not more than 3 years, or both.
+  >   - **(3)** in any other case, shall be fined under this title, imprisoned for not more than 3 years, or both, but if the offense is an aggravated offense other than one under subsection (b)(2)(C), the maximum term of imprisonment is 5 years.
   > - **(d)** *Civil penalties* Whoever violates subsection (a) is subject to a civil penalty in an amount not more than the greater of—
   >   - **(1)** three times the economic loss attributable to the violation; or
   >   - **(2)** $1,000,000.
@@ -55,16 +55,17 @@ Section 981(a)(1)(C) of title 18, United States Code, is amended by inserting �
 
 ## § 4. Penalties for theft-related offenses
 
-- **(a)** *Interstate or foreign shipments by carrier* Section 659 of title 18, United States Code, is amended by adding at the end of the fifth undesignated paragraph the following: “If the offense involves a pre-retail medical product (as defined in section 670), the punishment for the offense is the same as the punishment for an offense under section 670 if the maximum punishment under that section is greater than that provided in this section.”.
+- **(a)** *Interstate or foreign shipments by carrier* Section 659 of title 18, United States Code, is amended by adding at the end of the fifth undesignated paragraph the following: “If the offense involves a pre-retail medical product (as defined in section 670), it shall be punished under section 670 unless the penalties provided for under this section are greater.”.
 - **(b)** *Racketeering*
-  - **(1)** *Travel Act Violations* Section 1952 of title 18, United States Code, is amended by adding that the end the following:
-    > - **(d)** If the offense under this section involves an act described in paragraph (1) or (3) of subsection (a) and also involves a pre-retail medical product (as defined in section 670), the punishment for the offense is the same as the punishment for an offense under section 670 if the maximum punishment under that section is greater than that provided in this section.
+  - **(1)** *Travel Act Violations* Section 1952 of title 18, United States Code, is amended by adding at the end the following:
+    > - **(d)** If the offense under this section involves an act described in paragraph (1) or (3) of subsection (a) and also involves a pre-retail medical product (as defined in section 670), the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under subsection (a) is greater.
 
-  - **(2)** *Money Laundering* Section 1957(b)(1) of title 18, United States Code, is amended by adding at the end the following: “If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense is the same as the punishment for an offense under section 670 if the maximum punishment under that section is greater than that provided in this section.”
-- **(c)** *Breaking or entering carrier facilities* Section 2117 of title 18, United States Code, is amended by adding at the end of the first undesignated paragraph the following: “If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense is the same as the punishment for an offense under section 670 if the maximum punishment under that section is greater than that provided in this section.”.
+  - **(2)** *Money Laundering* Section 1957(b)(1) of title 18, United States Code, is amended by adding at the end the following: “If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this subsection is greater.”
+- **(c)** *Breaking or entering carrier facilities* Section 2117 of title 18, United States Code, is amended by adding at the end of the first undesignated paragraph the following: “If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater.”.
 - **(d)** *Stolen property*
-  - **(1)** *Transportation of stolen goods and related offenses* Section 2314 of title 18, United States Code, is amended by adding at the end of the sixth undesignated paragraph the following: “If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense is the same as the punishment for an offense under section 670 if the maximum punishment under that section is greater than that provided in this section.”.
-  - **(2)** *Sale or receipt of stolen goods and related offenses* Section 2315 of title 18, United States Code, is amended by adding at the end of the fourth undesignated paragraph the following: “If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense is the same as the punishment for an offense under section 670 if the maximum punishment under that section is greater than that provided in this section.”.
+  - **(1)** *Transportation of stolen goods and related offenses* Section 2314 of title 18, United States Code, is amended by adding at the end of the sixth undesignated paragraph the following: “If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater.”.
+  - **(2)** *Sale or receipt of stolen goods and related offenses* Section 2315 of title 18, United States Code, is amended by adding at the end of the fourth undesignated paragraph the following: “If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater.”.
+- **(e)** *Priority given to certain investigations and prosecutions* The Attorney General shall give increased priority to efforts to investigate and prosecute offenses under section 670 of title 18, United States Code, that involve pre-retail medical products.
 
 ## § 5. Amendment to extend wiretapping authority to new offense
 
