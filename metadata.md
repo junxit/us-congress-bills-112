@@ -1,7 +1,7 @@
 ---
 measure: S. 1379
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1379
@@ -24,3 +24,7 @@ D.C. Courts and Public Defender Service Act of 2011
 
 - 2011-07-18 — Introduced in Senate
 - 2011-07-18 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2011-10-19 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2012-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 112-178.
+- 2012-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 112-178.
+- 2012-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 436.
