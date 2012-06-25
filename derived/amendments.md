@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4018
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-47 amendatory instructions. 0 executed, 47 stated and not applied.
+48 amendatory instructions. 0 executed, 48 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,7 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | strike | in paragraph (26), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (27), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “follows:” and all that follows and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “direct result of a catastrophic” and inserting “direct and proximate result of a personal”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “pay,” and all that follows through “the same” and inserting “pay the same”; | the bill names no machine-readable US Code section |
@@ -47,7 +47,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (k) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “death”, each place it appears except the second place it appears, and inserting “fatal”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “or catastrophic injury” the second place it appears and inserting “, disability, or injury”; | the bill names no machine-readable US Code section |
 | — | replace | in the section heading, by striking “who have died in the line of duty” and inserting “who have sustained fatal or catastrophic injury in the line of duty”; and | the bill names no machine-readable US Code section |
@@ -61,7 +61,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (7), by striking “public employee member of a rescue squad or ambulance crew;” and inserting | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “as a chaplain, or as a member of a rescue squad or ambulance crew;” and inserting “or as a chaplain;”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (B)(ii), by striking “or” after the semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (C)(ii), by striking the period and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C)(ii), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | in section 1205 (42 U.S.C. 3796c), by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in each of subsections (a) and (b) of section 1212 (42 U.S.C. 3796d–1), sections 1213 and 1214 (42 U.S.C. 3796d–2 and 3796d–3), and subsections (b) and (c) of section 1216 (42 U.S.C. 3796d–5), by striking “dependent” each place it appear… | the bill names no machine-readable US Code section |
@@ -73,6 +73,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (a), by striking “each dependent” each place it appears and inserting “a spouse or child”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “dependents” each place it appears and inserting “a person”; and | the bill names no machine-readable US Code section |
 | — | replace | in section 1217(3)(A) (42 U.S.C. 3796d–6(3)(A)), by striking “described in” and all that follows and inserting “an institution of higher education, as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002); and”. | the bill names no machine-readable US Code section |
+| — | insert | Section 611(a) of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (42 U.S.C. 3796c–1(a)) is amended by inserting “or an entity described in s… | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 1204(9)(A)” and inserting “section 1204(10)(A)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “42 U.S.C. 3796b(9)(A)” and inserting “42 U.S.C. 3796b(10)(A)”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “decisions” and inserting “determinations”; | the bill names no machine-readable US Code section |

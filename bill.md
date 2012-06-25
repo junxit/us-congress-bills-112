@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This title may be cited as the “Public Safety Officers’ Benefits Improvements Act of 2012”.
 
-## § 2. Benefits for certain nonprofit emergency medical service providers and certain trainees; miscellaneous amendments
+## § 2. Benefits for certain nonprofit emergency medical service providers; miscellaneous amendments
 
 - **(a)** *In general* Title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3711 et seq.) is amended—
   - **(1)** in section 901(a) (42 U.S.C. 3791(a))—
@@ -85,14 +85,14 @@ This title may be cited as the “Public Safety Officers’ Benefits Improvement
       > - **(A)** is a public agency; or
       > - **(B)** is (or is a part of) a nonprofit entity serving the public that—
       >   - **(i)** is officially authorized or licensed to engage in rescue activity or to provide emergency medical services; and
-      >   - **(ii)** is officially designated as a prehospital emergency medical response agency;
+      >   - **(ii)** engages in rescue activities or provides emergency medical services as part of an official emergency response system;
 
     - **(E)** in paragraph (9)—
       - **(i)** in subparagraph (A), by striking “as a chaplain, or as a member of a rescue squad or ambulance crew;” and inserting “or as a chaplain;”;
       - **(ii)** in subparagraph (B)(ii), by striking “or” after the semicolon;
-      - **(iii)** in subparagraph (C)(ii), by striking the period and inserting a semicolon; and
+      - **(iii)** in subparagraph (C)(ii), by striking the period and inserting “; or”; and
       - **(iv)** by adding at the end the following:
-        > - **(D)** a member of a rescue squad or ambulance crew who, as authorized or licensed by law and by the applicable agency or entity (and as designated by such agency or entity), is engaging in rescue activity or in the provision of emergency medical services.
+        > - **(D)** a member of a rescue squad or ambulance crew who, as authorized or licensed by law and by the applicable agency or entity, is engaging in rescue activity or in the provision of emergency medical services.
 
   - **(6)** in section 1205 (42 U.S.C. 3796c), by adding at the end the following:
     > - **(d)** Unless expressly provided otherwise, any reference in this part to any provision of law not in this part shall be understood to constitute a general reference under the doctrine of incorporation by reference, and thus to include any subsequent amendments to the provision.
@@ -110,7 +110,8 @@ This title may be cited as the “Public Safety Officers’ Benefits Improvement
     - **(A)** in subsection (a), by striking “each dependent” each place it appears and inserting “a spouse or child”; and
     - **(B)** by striking “dependents” each place it appears and inserting “a person”; and
   - **(11)** in section 1217(3)(A) (42 U.S.C. 3796d–6(3)(A)), by striking “described in” and all that follows and inserting “an institution of higher education, as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002); and”.
-- **(b)** *Technical and conforming amendment* Section 402(l)(4)(C) of the Internal Revenue Code of 1986 is amended—
+- **(b)** *Amendment related to expedited payment for public safety officers involved in the prevention, investigation, rescue, or recovery efforts related to a terrorist attack* Section 611(a) of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (42 U.S.C. 3796c–1(a)) is amended by inserting “or an entity described in section 1204(7)(B) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b(7)(B))” after “employed by such agency”.
+- **(c)** *Technical and conforming amendment* Section 402(l)(4)(C) of the Internal Revenue Code of 1986 is amended—
   - **(1)** by striking “section 1204(9)(A)” and inserting “section 1204(10)(A)”; and
   - **(2)** by striking “42 U.S.C. 3796b(9)(A)” and inserting “42 U.S.C. 3796b(10)(A)”.
 
@@ -122,15 +123,15 @@ The matter under the heading “public safety officers benefits” under the hea
 - **(2)** by striking “(including those, and any related matters, pending)”; and
 - **(3)** by striking the period at the end and inserting the following: “: Provided further, That, on and after the date of enactment of the Public Safety Officers’ Benefits Improvements Act of 2012, as to each such statute—
   > - **(1)** the provisions of section 1001(a)(4) of such title I (42 U.S.C. 3793(a)(4)) shall apply;
-  > - **(2)** payment shall be made only upon a determination by the Bureau that the facts legally warrant the payment;
+  > - **(2)** payment (other than payment made pursuant to section 611 of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (42 U.S.C. 3796c–1)) shall be made only upon a determination by the Bureau that the facts legally warrant the payment;
   > - **(3)** any reference to section 1202 of such title I shall be deemed to be a reference to paragraphs (2) and (3) of such section 1202; and
-  > - **(4)** a certification submitted under any such statute may be accepted by the Bureau as prima facie evidence of the facts asserted in the certification:
+  > - **(4)** a certification submitted under any such statute (other than a certification submitted pursuant to section 611 of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (42 U.S.C. 3796c–1)) may be accepted by the Bureau as prima facie evidence of the facts asserted in the certification:
 
 ## § 4. Effective date
 
-- **(a)** *In general* Except as provided in subsection (b), the amendments made by this title shall—
+- **(a)** *In general* Except as provided in subsection (b), the amendments made by this Act shall—
   - **(1)** take effect on the date of enactment of this Act; and
   - **(2)** apply to any matter pending, before the Bureau of Justice Assistance or otherwise, on the date of enactment of this Act, or filed or accruing after that date.
 - **(b)** *Exceptions*
-  - **(1)** *Rescue squads and ambulance crews* For a member of a rescue squad or ambulance crew (as defined in section 1204(8) of title I of the Omnibus Crime Control and Safe Streets Act of 1968, as amended by this title), the amendments made by this title shall apply to injuries sustained on or after June 1, 2009.
-  - **(2)** *Heart attacks, strokes, and vascular ruptures* Section 1201(k) of title I of the Omnibus Crime Control and Safe Streets Act of 1968, as amended by this title, shall apply to heart attacks, strokes, and vascular ruptures sustained on or after December 15, 2003.
+  - **(1)** *Rescue squads and ambulance crews* For a member of a rescue squad or ambulance crew (as defined in section 1204(7) of title I of the Omnibus Crime Control and Safe Streets Act of 1968, as amended by this Act), the amendments made by this Act shall apply to injuries sustained on or after June 1, 2009.
+  - **(2)** *Heart attacks, strokes, and vascular ruptures* Section 1201(k) of title I of the Omnibus Crime Control and Safe Streets Act of 1968, as amended by this Act, shall apply to heart attacks, strokes, and vascular ruptures sustained on or after December 15, 2003.
