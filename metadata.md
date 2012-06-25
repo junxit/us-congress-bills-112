@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4480
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4480
@@ -40,12 +40,13 @@ Domestic Energy and Jobs Act
 - Rep. Capito, Shelley Moore [R-WV-2] (C001047)
 - Rep. Jenkins, Lynn [R-KS-2] (J000290)
 
-## Committees (4)
+## Committees (5)
 
 - House — Armed Services Committee
 - House — Agriculture Committee
 - House — Natural Resources Committee
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (19)
 
@@ -331,3 +332,4 @@ Domestic Energy and Jobs Act
 - 2012-06-21 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4480.
 - 2012-06-21 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3943)
 - 2012-06-21 — The previous question was ordered pursuant to the rule. (consideration: CR H3942)
+- 2012-06-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
