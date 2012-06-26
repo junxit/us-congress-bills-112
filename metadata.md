@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4223
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4223
@@ -42,3 +42,9 @@ SAFE DOSES Act
 - 2012-06-25 — Placed on the Union Calendar, Calendar No. 393.
 - 2012-06-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-549.
 - 2012-06-25 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-549.
+- 2012-06-26 — Considered under suspension of the rules. (consideration: CR H3991-3994)
+- 2012-06-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4223.
+- 2012-06-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-26 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2012-06-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3991-3992)
+- 2012-06-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3991-3992)
