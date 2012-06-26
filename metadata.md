@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 473
 congress: 112
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 473
@@ -42,3 +42,5 @@ A resolution commending Rotary International and others for their efforts to pre
 - 2012-06-20 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2012-06-20 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2012-06-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 434.
+- 2012-06-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4641-4642; text as passed Senate: CR S4642)
+- 2012-06-26 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4641-4642; text as passed Senate: CR S4642)
