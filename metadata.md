@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4850
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4850
@@ -16,9 +16,10 @@ Enabling Energy Saving Innovations Act
 
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Enabling Energy Saving Innovations Act
 - 2012-06-26 — Mr. Whitfield moved to suspend the rules and pass the bill.
 - 2012-06-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3984)
 - 2012-06-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3984)
+- 2012-06-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
