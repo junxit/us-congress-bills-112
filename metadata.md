@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5625
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5625
@@ -16,9 +16,10 @@ Collinsville Renewable Energy Promotion Act
 
 - Rep. Murphy, Christopher [D-CT-5] (M001169)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Collinsville Renewable Energy Promotion Act
 - 2012-06-26 — Mr. Whitfield moved to suspend the rules and pass the bill.
 - 2012-06-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3985)
 - 2012-06-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3985)
+- 2012-06-27 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
