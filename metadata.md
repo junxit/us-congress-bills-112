@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4223
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4223
@@ -25,9 +25,10 @@ SAFE DOSES Act
 - Rep. Meehan, Patrick [R-PA-7] (M001181)
 - Rep. Pence, Mike [R-IN-6] (P000587)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ SAFE DOSES Act
 - 2012-06-26 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2012-06-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3991-3992)
 - 2012-06-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3991-3992)
+- 2012-06-27 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
