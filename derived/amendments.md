@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4223
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 

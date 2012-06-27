@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4223
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4223
@@ -50,3 +50,14 @@ SAFE DOSES Act
 - 2012-06-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3991-3992)
 - 2012-06-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3991-3992)
 - 2012-06-27 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2012-09-22 — Passed Senate without amendment by Unanimous Consent.
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-09-22 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR 9/21/2012 S6671)
+- 2012-09-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR 9/21/2012 S6671)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Presented to President.
+- 2012-09-25 — Presented to President.
+- 2012-10-05 — Became Public Law No: 112-186.
+- 2012-10-05 — Became Public Law No: 112-186.
+- 2012-10-05 — Signed by President.
+- 2012-10-05 — Signed by President.
