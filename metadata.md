@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4005
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4005
@@ -29,6 +29,10 @@ GAPS Act
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2012-06-28 — [House 112-2-439](votes/house-112-2-0439.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (411–9)
+
 ## Actions
 
 - 2012-02-09 — Introduced in House
@@ -41,3 +45,11 @@ GAPS Act
 - 2012-05-30 — Placed on the Union Calendar, Calendar No. 352.
 - 2012-05-30 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-499.
 - 2012-05-30 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-499.
+- 2012-06-26 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. King (NY) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2012-06-26 — Considered under suspension of the rules. (consideration: CR H4009-4011)
+- 2012-06-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4005.
+- 2012-06-26 — Mr. King (NY) moved to suspend the rules and pass the bill, as amended.
+- 2012-06-28 — Considered as unfinished business. (consideration: CR H4176-4177)
+- 2012-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 9 (Roll no. 439). (text: CR 6/26/2012 H4009)
+- 2012-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 9 (Roll no. 439).(text: CR 6/26/2012 H4009)
