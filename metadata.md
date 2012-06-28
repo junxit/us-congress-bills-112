@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3412
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3412
@@ -34,3 +34,13 @@ To designate the facility of the United States Postal Service located at 1421 Ve
 - 2011-11-14 — Introduced in House
 - 2011-11-14 — Introduced in House
 - 2011-11-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-02-07 — Committee Consideration and Mark-up Session Held.
+- 2012-02-07 — Ordered to be Reported by Voice Vote.
+- 2012-06-26 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Clay objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2012-06-26 — Considered under suspension of the rules. (consideration: CR H3997-3998)
+- 2012-06-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3412.
+- 2012-06-26 — Mr. Farenthold moved to suspend the rules and pass the bill.
+- 2012-06-28 — Considered as unfinished business. (consideration: CR H4421)
+- 2012-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 6/26/2012 H3997)
+- 2012-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 6/26/2012 H3997)
