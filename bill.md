@@ -2,14 +2,14 @@
 legis-num: H. RES. 708
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 708
 
 > Relating to the consideration of House Report 112-546 and an accompanying resolution, and providing for consideration of the resolution (H. Res. 706) authorizing the Committee on Oversight and Government Reform to initiate or intervene in judicial proceedings to enforce certain subpoenas.
 
-That if House Report 112-546 is called up by direction of the Committee on Oversight and Government Reform:
+That if House Report 112–546 is called up by direction of the Committee on Oversight and Government Reform:
 
 - **(a)** all points of order against the report are waived and the report shall be considered as read; and
 - **(b)**
