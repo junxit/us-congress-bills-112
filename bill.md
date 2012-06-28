@@ -2,14 +2,14 @@
 legis-num: H. RES. 706
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 706
 
 > Authorizing the Committee on Oversight and Government Reform to initiate or intervene in judicial proceedings to enforce certain subpoenas.
 
-That the Chairman of the Committee on Oversight and Government Reform is authorized to initiate or intervene in judicial proceedings in any Federal court of competent jurisdiction, on behalf of the Committee on Oversight and Government Reform, to seek declaratory judgments affirming the duty of Eric H. Holder, Jr., Attorney General, U.S. Department of Justice, to comply with any subpoena that is a subject of the resolution accompanying House Report 112–546 issued to him by the Committee as part of its investigation into the United States Department of Justice operation known as Fast and Furious and related matters, and to seek appropriate ancillary relief, including injunctive relief.
+That the Chairman of the Committee on Oversight and Government Reform is authorized to initiate or intervene in judicial proceedings in any Federal court of competent jurisdiction, on behalf of the Committee on Oversight and Government Reform, to seek declaratory judgments affirming the duty of Eric H. Holder, Jr., Attorney General, U.S. Department of Justice, to comply with any subpoena that is a subject of the resolution accompanying House Report 112–546 issued to him by the Committee as part of its investigation into the United States Department of Justice operation known as “Fast and Furious” and related matters, and to seek appropriate ancillary relief, including injunctive relief.
 
 ## § 2.
 
