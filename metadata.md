@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1447
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1447
@@ -36,3 +36,11 @@ Aviation Security Stakeholder Participation Act of 2012
 - 2011-11-04 — Placed on the Union Calendar, Calendar No. 180.
 - 2011-11-04 — Reported by the Committee on Homeland Security. H. Rept. 112-269.
 - 2011-11-04 — Reported by the Committee on Homeland Security. H. Rept. 112-269.
+- 2012-06-26 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. King (NY) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2012-06-26 — Considered under suspension of the rules. (consideration: CR H4011-4014)
+- 2012-06-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1447.
+- 2012-06-26 — Mr. King (NY) moved to suspend the rules and pass the bill, as amended.
+- 2012-06-28 — Considered as unfinished business. (consideration: CR H4421)
+- 2012-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 6/26/2012 H4011-4012)
+- 2012-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 6/26/2012 H4011-4012)
