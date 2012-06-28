@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5889
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5889
@@ -40,3 +40,7 @@ Nuclear Terrorism Conventions Implementation and Safety of Maritime Navigation A
 - 2012-06-26 — Placed on the Union Calendar, Calendar No. 395.
 - 2012-06-26 — Reported by the Committee on Judiciary. H. Rept. 112-551.
 - 2012-06-26 — Reported by the Committee on Judiciary. H. Rept. 112-551.
+- 2012-06-28 — Considered as unfinished business. (consideration: CR H4421)
+- 2012-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 6/26/2012 H3986-3989)
+- 2012-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 6/26/2012 H3986-3989)

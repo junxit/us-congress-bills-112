@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5889
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-27 amendatory instructions. 0 executed, 27 stated and not applied.
+32 amendatory instructions. 0 executed, 32 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -37,24 +37,29 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (c), by striking “section 2(c)” and inserting “section 13(c)”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (d); | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (e) and inserting after subsection (c): | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (d) (as added by paragraph (4) of this section) the following: | the bill names no machine-readable US Code section |
 | — | amend | Chapter 111 of title 18, United States Code, is amended by adding after section 2280 the following new section: | the bill names no machine-readable US Code section |
+| — | amend | The table of sections at the beginning of chapter 111 of title 18, United States Code, is amended by adding after the item relating to section 2280 the following new item: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “section 2(c)” and inserting “section 13(c)”; | the bill names no machine-readable US Code section |
 | — | strike | in subsection (d), by striking the definitions of “national of the United States,”“territorial sea of the United States,” and “United States”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
 | — | amend | Chapter 111 of title 18, United States Code, is amended by adding after section 2281 the following new section: | the bill names no machine-readable US Code section |
-| — | replace | Section 2332b(g)(5)(B) of title 18, United States Code, is amended by inserting “2280a (relating to maritime safety)” before “2281”, and by striking “2281” and inserting “2281 through 2281a”. | the bill names no machine-readable US Code section |
+| — | amend | The table of sections at the beginning of chapter 111 of title 18, United States Code, is amended by adding after the item relating to section 2281 the following new item: | the bill names no machine-readable US Code section |
+| — | replace | Section 2332b(g)(5)(B) of title 18, United States Code, is amended by inserting “2280a (relating to maritime safety),” before “2281”, and by striking “2281” and inserting “2281 through 2281a”. | the bill names no machine-readable US Code section |
 | — | amend | Chapter 113B of title 18, United States Code, is amended by adding after section 2332h the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of chapter 113B of title 18, United States Code, is amended by inserting after section 2332h the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (3) through (8) as (4) through (9); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
-| — | replace | in redesignated paragraph (8), by striking “an offense under paragraph (1), (2), (3), or (4)” and inserting “any act prohibited under paragraphs (1) through (5)”; and | the bill names no machine-readable US Code section |
-| — | replace | in redesignated paragraph (9), by striking “an offense under paragraph (1), (2), (3), or (4)” and inserting “any act prohibited under paragraphs (1) through (7)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (8), as redesignated, by striking “an offense under paragraph (1), (2), (3), or (4)” and inserting “any act prohibited under paragraphs (1) through (5)”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (9), as redesignated, by striking “an offense under paragraph (1), (2), (3), or (4)” and inserting “any act prohibited under paragraphs (1) through (7)”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “(7)” and inserting “(8)”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “(8)” and inserting “(9)”; | the bill names no machine-readable US Code section |
 | — | amend | in subparagraph (2)(A), by adding after “United States” the following: “or a stateless person whose habitual residence is in the United States”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (5); | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (4), by striking the final “or”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (4): | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (6), by striking the final “and”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (7), by striking the final period and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph 7 the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (4), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (4), the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (d) through (f) as (e) through (g), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (c): | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (6), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (7), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (7), the following: | the bill names no machine-readable US Code section |
