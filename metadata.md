@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4251
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4251
@@ -33,6 +33,10 @@ SMART Port Security Act
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2012-06-28 — [House 112-2-438](votes/house-112-2-0438.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (402–21)
+
 ## Actions
 
 - 2012-03-22 — Introduced in House
@@ -46,3 +50,11 @@ SMART Port Security Act
 - 2012-06-12 — Placed on the Union Calendar, Calendar No. 369.
 - 2012-06-12 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-521.
 - 2012-06-12 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-521.
+- 2012-06-26 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Thompson (MS) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2012-06-26 — Considered under suspension of the rules. (consideration: CR H4003-4009)
+- 2012-06-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4251.
+- 2012-06-26 — Mr. King (NY) moved to suspend the rules and pass the bill, as amended.
+- 2012-06-28 — Considered as unfinished business. (consideration: CR H4175-4176)
+- 2012-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 21 (Roll no. 438). (text: CR 6/26/2012 H4003-4007)
+- 2012-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 21 (Roll no. 438).(text: CR 6/26/2012 H4003-4007)
