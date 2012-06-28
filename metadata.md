@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3173
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3173
@@ -78,3 +78,11 @@ To direct the Secretary of Homeland Security to reform the process for the enrol
 - 2012-06-15 — Placed on the Union Calendar, Calendar No. 371.
 - 2012-06-15 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-523.
 - 2012-06-15 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 112-523.
+- 2012-06-26 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Thompson (MS) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2012-06-26 — Considered under suspension of the rules. (consideration: CR H4015-4017)
+- 2012-06-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3173.
+- 2012-06-26 — Mr. Lungren, Daniel E. moved to suspend the rules and pass the bill, as amended.
+- 2012-06-28 — Considered as unfinished business. (consideration: CR H4422)
+- 2012-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-06-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 6/26/2012 H4015-4016)
+- 2012-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 6/26/2012 H4015-4016)
