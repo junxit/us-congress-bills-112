@@ -1,7 +1,7 @@
 ---
 measure: S. 3238
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3238
@@ -28,3 +28,9 @@ A bill to designate the Department of Veterans Affairs community based outpatien
 
 - 2012-05-24 — Introduced in Senate
 - 2012-05-24 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2012-06-27 — Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 112-668.
+- 2012-06-29 — Message on Senate action sent to the House.
+- 2012-06-29 — Passed Senate without amendment by Unanimous Consent. (text: CR S4780)
+- 2012-06-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4780)
+- 2012-06-29 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S4780)
+- 2012-06-29 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S4780)
