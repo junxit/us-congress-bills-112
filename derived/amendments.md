@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5892
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 

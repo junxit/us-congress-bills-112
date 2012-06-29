@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5892
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5892
@@ -16,7 +16,7 @@ Hydropower Regulatory Efficiency Act of 2012
 
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Cosponsors (7)
+## Cosponsors (11)
 
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
@@ -25,6 +25,10 @@ Hydropower Regulatory Efficiency Act of 2012
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 - Rep. Terry, Lee [R-NE-2] (T000459)
 - Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Gardner, Cory [R-CO-4] (G000562)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 
 ## Committees (1)
 
@@ -35,3 +39,9 @@ Hydropower Regulatory Efficiency Act of 2012
 - 2012-06-05 — Introduced in House
 - 2012-06-05 — Introduced in House
 - 2012-06-05 — Referred to the House Committee on Energy and Commerce.
+- 2012-06-08 — Referred to the Subcommittee on Energy and Power.
+- 2012-06-20 — Committee Consideration and Mark-up Session Held.
+- 2012-06-20 — Ordered to be Reported.
+- 2012-06-29 — Placed on the Union Calendar, Calendar No. 404.
+- 2012-06-29 — Reported by the Committee on Energy and Commerce. H. Rept. 112-563.
+- 2012-06-29 — Reported by the Committee on Energy and Commerce. H. Rept. 112-563.
