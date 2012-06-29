@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 51
 congress: 112
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 51
