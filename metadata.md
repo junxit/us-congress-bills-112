@@ -1,7 +1,7 @@
 ---
 measure: S. 2239
 congress: 112
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S. 2239
