@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 376
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 376
@@ -16,6 +16,11 @@ A resolution commemorating the 225th anniversary of the signing of the Constitut
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
+## Cosponsors (2)
+
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Kerry, John F. [D-MA] (K000148)
+
 ## Committees (1)
 
 - Senate — Judiciary Committee
@@ -24,3 +29,7 @@ A resolution commemorating the 225th anniversary of the signing of the Constitut
 
 - 2012-02-15 — Introduced in Senate
 - 2012-02-15 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S703)
+- 2012-06-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S4780-4781)
+- 2012-06-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S4780-4781)
+- 2012-06-29 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4780-4781)
+- 2012-06-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4780-4781)
