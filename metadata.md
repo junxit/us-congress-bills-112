@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3173
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3173
@@ -61,9 +61,10 @@ To direct the Secretary of Homeland Security to reform the process for the enrol
 - Rep. Rigell, E. Scott [R-VA-2] (R000589)
 - Rep. Palazzo, Steven M. [R-MS-4] (P000601)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -86,3 +87,4 @@ To direct the Secretary of Homeland Security to reform the process for the enrol
 - 2012-06-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-06-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 6/26/2012 H4015-4016)
 - 2012-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 6/26/2012 H4015-4016)
+- 2012-06-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
