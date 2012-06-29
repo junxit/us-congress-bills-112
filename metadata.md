@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3412
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3412
@@ -25,9 +25,10 @@ To designate the facility of the United States Postal Service located at 1421 Ve
 - Rep. Alexander, Rodney [R-LA-5] (A000361)
 - Rep. Cassidy, Bill [R-LA-6] (C001075)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To designate the facility of the United States Postal Service located at 1421 Ve
 - 2012-06-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-06-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 6/26/2012 H3997)
 - 2012-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 6/26/2012 H3997)
+- 2012-06-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
