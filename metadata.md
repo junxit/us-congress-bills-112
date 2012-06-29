@@ -1,7 +1,7 @@
 ---
 measure: S. 2165
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2165
@@ -16,7 +16,7 @@ United States-Israel Enhanced Security Cooperation Act of 2012
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Cosponsors (68)
+## Cosponsors (71)
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Collins, Susan M. [R-ME] (C001035)
@@ -86,6 +86,9 @@ United States-Israel Enhanced Security Cooperation Act of 2012
 - Sen. Franken, Al [D-MN] (F000457)
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
 
 ## Committees (1)
 
@@ -99,3 +102,6 @@ United States-Israel Enhanced Security Cooperation Act of 2012
 - 2012-06-27 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 112-179.
 - 2012-06-27 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 112-179.
 - 2012-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 437.
+- 2012-06-29 — Message on Senate action sent to the House.
+- 2012-06-29 — Passed Senate with an amendment by Voice Vote. (consideration: CR S4779-4780; text as passed in Senate: CR S4779-4780)
+- 2012-06-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S4779-4780; text as passed in Senate: CR S4779-4780)

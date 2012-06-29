@@ -1,7 +1,7 @@
 ---
 measure: S. 2165
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,10 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 12001(d) of the Department of Defense Appropriations Act, 2005 (Public Law 108–287; 118 Stat. 1011) is amended by striking “more than 8 years after” and inserting “more than 10 years after”. | the bill names no machine-readable US Code section |
-| — | replace | Section 514(b)(2)(A) of the Foreign Assistance Act of 1961 (22 U.S.C. 2321h(b)(2)(A)) is amended by striking “fiscal years 2011 and 2012” and inserting “fiscal years 2013 and 2014”. | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding the first proviso, by striking September 30, 2011 and inserting “September 30, 2015”; and | the bill names no machine-readable US Code section |
-| — | replace | in the second proviso, by striking “September 30, 2011” and inserting “September 30, 2015”. | the bill names no machine-readable US Code section |
 | — | replace | Section 12001(d) of the Department of Defense Appropriations Act, 2005 (Public Law 108–287; 118 Stat. 1011) is amended by striking “more than 8 years after” and inserting “more than 10 years after”. | the bill names no machine-readable US Code section |
 | — | replace | Section 514(b)(2)(A) of the Foreign Assistance Act of 1961 (22 U.S.C. 2321h(b)(2)(A)) is amended by striking “fiscal years 2011 and 2012” and inserting “fiscal years 2013 and 2014”. | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding the first proviso, by striking “September 30, 2011” and inserting “September 30, 2015”; and | the bill names no machine-readable US Code section |
