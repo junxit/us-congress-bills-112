@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5843
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5843
@@ -26,9 +26,10 @@ To amend the Homeland Security Act of 2002 to permit use of certain grant funds 
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To amend the Homeland Security Act of 2002 to permit use of certain grant funds 
 - 2012-06-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-06-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 6/26/2012 H4014)
 - 2012-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 6/26/2012 H4014)
+- 2012-06-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

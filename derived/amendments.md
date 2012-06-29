@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5843
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 2008(a)(2) of the Homeland Security Act of 2002 (6 U.S.C. 609(a)(2)) is amended by inserting “training conducted in conjunction with a national laboratory or research facility and” after “including”. | the bill names no machine-readable US Code section |
+| `6 U.S.C. § 609` | insert | Section 2008(a)(2) of the Homeland Security Act of 2002 (6 U.S.C. 609(a)(2)) is amended by inserting “training conducted in conjunction with a national laboratory or research facility and” after “including”. | the bill quotes the text inserted but describes where it goes |
