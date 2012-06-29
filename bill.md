@@ -13,5 +13,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 Section 904(d)(3)(B) of the Consumer Credit Protection Act (15 U.S.C. 1693b(d)(3)(B)) (commonly known as the “Electronic Fund Transfer Act”) is amended—
 
-- **(1)** by striking “requirements.” and all that follows through “The notice required under clauses (i) and (ii)” and inserting “requirement.—“The notice required under clauses (i) and (ii)”” after “Notice”; and
+- **(1)** by striking “requirements.” and all that follows through “The notice required under clauses (i) and (ii)” and inserting “requirement.—The notice required under clauses (i) and (ii)” after “Notice”; and
 - **(2)** by striking “, except that during the period beginning” and all that follows and inserting a period.
