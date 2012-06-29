@@ -1,7 +1,7 @@
 ---
 measure: S. 3276
 congress: 112
-version: Placed on Calendar Senate
+version: Reference Change Senate
 derived: true
 ---
 
