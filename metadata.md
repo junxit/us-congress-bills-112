@@ -1,7 +1,7 @@
 ---
 measure: S. 2165
 congress: 112
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2165
@@ -16,7 +16,7 @@ United States-Israel Enhanced Security Cooperation Act of 2012
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Cosponsors (71)
+## Cosponsors (72)
 
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Collins, Susan M. [R-ME] (C001035)
@@ -89,6 +89,7 @@ United States-Israel Enhanced Security Cooperation Act of 2012
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Levin, Carl [D-MI] (L000261)
 
 ## Committees (1)
 
@@ -105,3 +106,17 @@ United States-Israel Enhanced Security Cooperation Act of 2012
 - 2012-06-29 — Message on Senate action sent to the House.
 - 2012-06-29 — Passed Senate with an amendment by Voice Vote. (consideration: CR S4779-4780; text as passed in Senate: CR S4779-4780)
 - 2012-06-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S4779-4780; text as passed in Senate: CR S4779-4780)
+- 2012-07-09 — Held at the desk.
+- 2012-07-09 — Received in the House.
+- 2012-07-17 — Considered under suspension of the rules. (consideration: CR H4884-4888)
+- 2012-07-17 — DEBATE - The House proceeded with forty minutes of debate on S. 2165.
+- 2012-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-17 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill.
+- 2012-07-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4884-4885)
+- 2012-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4884-4885)
+- 2012-07-19 — Presented to President.
+- 2012-07-19 — Presented to President.
+- 2012-07-27 — Became Public Law No: 112-150.
+- 2012-07-27 — Became Public Law No: 112-150.
+- 2012-07-27 — Signed by President.
+- 2012-07-27 — Signed by President.
