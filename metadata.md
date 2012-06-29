@@ -1,7 +1,7 @@
 ---
 measure: S. 1335
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1335
@@ -16,7 +16,7 @@ Pilot's Bill of Rights
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 
-## Cosponsors (25)
+## Cosponsors (66)
 
 - Sen. Begich, Mark [D-AK] (B001265)
 - Sen. Johanns, Mike [R-NE] (J000291)
@@ -43,13 +43,68 @@ Pilot's Bill of Rights
 - Sen. Coburn, Tom [R-OK] (C000560)
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
 - 2011-07-06 — Introduced in Senate
 - 2011-07-06 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
 - 2011-07-06 — Sponsor introductory remarks on measure. (CR S4400-4401)
+- 2012-06-29 — Amendment SA 2489 agreed to in Senate by Unanimous Consent.
+- 2012-06-29 — Amendment SA 2489 proposed by Senator Reid for Senator Hutchison. (consideration: CR S4733-4735; text: CR S4733-4735) In the nature of a substitute.
+- 2012-06-29 — Measure laid before Senate by unanimous consent. (consideration: CR S4733-4735)
+- 2012-06-29 — Message on Senate action sent to the House.
+- 2012-06-29 — Passed Senate with an amendment by Unanimous Consent.
+- 2012-06-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2012-06-29 — Received in the House.
+- 2012-06-29 — Referred to the House Committee on Transportation and Infrastructure.
+- 2012-06-29 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2012-06-29 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2012-06-29 — Senate amendment agreed to: Amendment SA 2489 agreed to in Senate by Unanimous Consent.
+- 2012-06-29 — Senate amendment proposed (on the floor): Amendment SA 2489 proposed by Senator Reid for Senator Hutchison.(consideration: CR S4733-4735; text: CR S4733-4735)
+- 2012-06-29 — Senate amendment submitted

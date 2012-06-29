@@ -1,7 +1,7 @@
 ---
 measure: S. 1335
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 44703(d)(2) of title 49, United States Code, is amended by striking the second sentence and inserting the following: “The Board is not bound by the findings of fact of the Administrator of the Federal Aviation Administration or t… | the bill names no machine-readable US Code section |
-| — | replace | Section 44709(d)(3) of title 49, United States Code, is amended by striking “is not bound” and all that follows through the end period and inserting the following: “is not bound by the findings of fact of the Administrator or the interpr… | the bill names no machine-readable US Code section |
-| — | replace | The third sentence of section 44710(d)(1) of title 49, United States Code, is amended in the third sentence, by striking “is not bound” and all that follows through the end period, and inserting the following: “is not bound by findings o… | the bill names no machine-readable US Code section |
+| — | strike | Section 44703(d)(2) of title 49, United States Code, is amended by striking “but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out unless the Board finds an interpretation is arbitrary,… | the bill names no machine-readable US Code section |
+| — | strike | Section 44709(d)(3) of such title is amended by striking “but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to … | the bill names no machine-readable US Code section |
+| — | strike | Section 44710(d)(1) of such title is amended by striking “but shall be bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public relat… | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1335
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -13,66 +13,83 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Pilot's Bill of Rights”.
 
-## § 2. FAA enforcement proceedings and elimination of deference
+## § 2. Federal Aviation Administration enforcement proceedings and elimination of deference
 
-- **(a)** *In general* Notwithstanding any other provision of law, any proceeding conducted under subpart C or D and F of part 821 of title 49, Code of Federal Regulations, relating to denial, amendment, modification, suspension, or revocation of an airman certificate, shall be conducted in accordance with the Federal Rules of Civil Procedure and Federal Rules of Evidence, to the extent practicable.
+- **(a)** *In general* Any proceeding conducted under subpart C, D, or F of part 821 of title 49, Code of Federal Regulations, relating to denial, amendment, modification, suspension, or revocation of an airman certificate, shall be conducted, to the extent practicable, in accordance with the Federal Rules of Civil Procedure and the Federal Rules of Evidence.
 - **(b)** *Access to information*
-  - **(1)** *In general* The Administrator of the Federal Aviation Administration shall advise (in a timely manner and in writing) an individual who is the subject of an investigation relating to approval, denial, suspension, modification, or revocation of an airman certificate under chapter 447 of title 49, United States Code, of the following:
-    - **(A)** The nature of the investigation.
-    - **(B)** An oral or written response to a Letter of Investigation from the Administrator is not required.
-    - **(C)** No action or adverse inference can be taken against the individual for declining to respond to a Letter of Investigation from the Administrator.
-    - **(D)** Any response to a Letter of Investigation from the Administrator or to an inquiry made by a representative of the Administrator by the individual may be used as evidence against the individual.
-    - **(E)** The releasable portions of the Administrator’s investigative report will be available to the individual.
-  - **(2)** *Access to air traffic data* The Administrator of the Federal Aviation Administration shall provide (in a timely manner) an individual who is the subject of an investigation relating to approval, denial, suspension, modification, or revocation of an airman certificate under chapter 447 of title 49, United States Code, any air traffic data that would facilitate the individual's ability to productively participate in the investigation, including the following:
-    - **(A)** Relevant air traffic communication tapes.
-    - **(B)** Radar information.
-    - **(C)** Air traffic controller statements.
-    - **(D)** Flight data.
-    - **(E)** Investigative reports.
-    - **(F)** Any other air traffic or flight data that would facilitate the individual's ability to productively participate in the investigation.
-  - **(3)** *Timing* The Administrator shall not proceed against an individual that is the subject of an investigation described in paragraph (1) for at least 30 days after the air traffic data required under paragraph (2) is made available to the individual.
+  - **(1)** *In general* Except as provided under paragraph (3), the Administrator of the Federal Aviation Administration (referred to in this section as the “Administrator”) shall provide timely, written notification to an individual who is the subject of an investigation relating to the approval, denial, suspension, modification, or revocation of an airman certificate under chapter 447 of title 49, United States Code.
+  - **(2)** *Information required* The notification required under paragraph (1) shall inform the individual—
+    - **(A)** of the nature of the investigation;
+    - **(B)** that an oral or written response to a Letter of Investigation from the Administrator is not required;
+    - **(C)** that no action or adverse inference can be taken against the individual for declining to respond to a Letter of Investigation from the Administrator;
+    - **(D)** that any response to a Letter of Investigation from the Administrator or to an inquiry made by a representative of the Administrator by the individual may be used as evidence against the individual;
+    - **(E)** that the releasable portions of the Administrator’s investigative report will be available to the individual; and
+    - **(F)** that the individual is entitled to access or otherwise obtain air traffic data described in paragraph (4).
+  - **(3)** *Exception* The Administrator may delay timely notification under paragraph (1) if the Administrator determines that such notification may threaten the integrity of the investigation.
+  - **(4)** *Access to air traffic data*
+    - **(A)** *FAA air traffic data* The Administrator shall provide an individual described in paragraph (1) with timely access to any air traffic data in the possession of the Federal Aviation Administration that would facilitate the individual’s ability to productively participate in a proceeding relating to an investigation described in such paragraph.
+    - **(B)** *Air traffic data defined* As used in subparagraph (A), the term air traffic data includes—
+      - **(i)** relevant air traffic communication tapes;
+      - **(ii)** radar information;
+      - **(iii)** air traffic controller statements;
+      - **(iv)** flight data;
+      - **(v)** investigative reports; and
+      - **(vi)** any other air traffic or flight data in the Federal Aviation Administration’s possession that would facilitate the individual’s ability to productively participate in the proceeding.
+    - **(C)** *Government contractor air traffic data*
+      - **(i)** *In general* Any individual described in paragraph (1) is entitled to obtain any air traffic data that would facilitate the individual’s ability to productively participate in a proceeding relating to an investigation described in such paragraph from a government contractor that provides operational services to the Federal Aviation Administration, including control towers and flight service stations.
+      - **(ii)** *Required information from individual* The individual may obtain the information described in clause (i) by submitting a request to the Administrator that—
+        - **(I)** describes the facility at which such information is located; and
+        - **(II)** identifies the date on which such information was generated.
+      - **(iii)** *Provision of information to individual* If the Administrator receives a request under this subparagraph, the Administrator shall—
+        - **(I)** request the contractor to provide the requested information; and
+        - **(II)** upon receiving such information, transmitting the information to the requesting individual in a timely manner.
+  - **(5)** *Timing* Except when the Administrator determines that an emergency exists under section 44709(c)(2) or 46105(c), the Administrator may not proceed against an individual that is the subject of an investigation described in paragraph (1) during the 30-day period beginning on the date on which the air traffic data required under paragraph (4) is made available to the individual.
 - **(c)** *Amendments to title 49*
-  - **(1)** *Airman certificates* Section 44703(d)(2) of title 49, United States Code, is amended by striking the second sentence and inserting the following: “The Board is not bound by the findings of fact of the Administrator of the Federal Aviation Administration or the interpretation of laws or regulations the Administrator carries out, but may consider the interpretation and guidance of the Administrator in its review in accordance with the general administrative law principles of deference.”.
-  - **(2)** *Amendments, modifications, suspensions, and revocations of certificates* Section 44709(d)(3) of title 49, United States Code, is amended by striking “is not bound” and all that follows through the end period and inserting the following: “is not bound by the findings of fact of the Administrator or the interpretation of laws or regulations the Administrator carries out, but may consider the interpretation and guidance of the Administrator in its review in accordance with the general administrative law principles of deference.”.
-  - **(3)** *Revocation of airman certificates for controlled substance violations* The third sentence of section 44710(d)(1) of title 49, United States Code, is amended in the third sentence, by striking “is not bound” and all that follows through the end period, and inserting the following: “is not bound by findings of fact of the Administrator or the interpretation of laws or regulations the Administrator carries out, but may consider the interpretation and guidance of the Administrator in its review in accordance with the general administrative law principles of deference.”.
-- **(d)** *Appeal from certificate actions* Upon an order or final decision by the Administrator of the Federal Aviation Administration denying an airman certificate under section 44703(d) of title 49, United States Code, or imposing a punitive civil action or an emergency order of revocation under section 44709 (d) and (e) of title 49, United States Code, the individual adversely affected by the Administrator’s action may, at the individual's election, file an appeal in the United States district court in which the individual resides, in which the action in question occurred, or in the district court for the District of Columbia. If the individual adversely affected by the Administrator’s action elects not to file an appeal in a Federal district court, the individual may file an appeal with the National Transportation Safety Board.
-- **(e)** *Standard of review* In an appeal filed under subsection (d), the district court or the National Transportation Safety Board, as the case may be, shall give full independent review of a denial, suspension, or revocation ordered by the Administrator, including substantive independent and expedited review of any decision by the Administrator to make the order effective immediately.
+  - **(1)** *Airman certificates* Section 44703(d)(2) of title 49, United States Code, is amended by striking “but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law”.
+  - **(2)** *Amendments, modifications, suspensions, and revocations of certificates* Section 44709(d)(3) of such title is amended by striking “but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law”.
+  - **(3)** *Revocation of airman certificates for controlled substance violations* Section 44710(d)(1) of such title is amended by striking “but shall be bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law”.
+- **(d)** *Appeal from certificate actions*
+  - **(1)** *In general* Upon a decision by the National Transportation Safety Board upholding an order or a final decision by the Administrator denying an airman certificate under section 44703(d) of title 49, United States Code, or imposing a punitive civil action or an emergency order of revocation under subsections (d) and (e) of section 44709 of such title, an individual substantially affected by an order of the Board may, at the individual’s election, file an appeal in the United States district court in which the individual resides or in which the action in question occurred, or in the United States District Court for the District of Columbia. If the individual substantially affected by an order of the Board elects not to file an appeal in a United States district court, the individual may file an appeal in an appropriate United States court of appeals.
+  - **(2)** *Emergency order pending judicial review* Subsequent to a decision by the Board to uphold an Administrator’s emergency order under section 44709(e)(2) of title 49, United States Code, and absent a stay of the enforcement of that order by the Board, the emergency order of amendment, modification, suspension, or revocation of a certificate shall remain in effect, pending the exhaustion of an appeal to a Federal district court as provided in this Act.
+- **(e)** *Standard of review*
+  - **(1)** *In general* In an appeal filed under subsection (d) in a United States district court, the district court shall give full independent review of a denial, suspension, or revocation ordered by the Administrator, including substantive independent and expedited review of any decision by the Administrator to make such order effective immediately.
+  - **(2)** *Evidence* A United States district court’s review under paragraph (1) shall include in evidence any record of the proceeding before the Administrator and any record of the proceeding before the National Transportation Safety Board, including hearing testimony, transcripts, exhibits, decisions, and briefs submitted by the parties.
 
-## § 3. NOTAMS Provided to Airmen
+## § 3. Notices to Airmen
 
 - **(a)** *In general*
-  - **(1)** *Definition* In this section, the term NOTAM means notices to airmen.
-  - **(2)** *Improvements* Not later than 180 days after the date of the enactment of this Act, the Administrator of the Federal Aviation Administration shall begin a Notice to Airmen Improvement Program (in this section referred to as the NOTAM Improvement Program) to—
-    - **(A)** improve the system of providing airmen with pertinent and timely information regarding the national airspace system;
-    - **(B)** to archive, in a public central location, all notices to airmen, including the original content and form of the notices, the original date of publication, and any amendments to such notices with the date of each amendment; and
-    - **(C)** apply filters so that pilots can prioritize critical flight safety information from other airspace system information.
-- **(b)** *Goals of program* The goals of the NOTAM Improvement Program are to—
-  - **(1)** decrease the overwhelming volume of NOTAMS an airman receives when retrieving airman information prior to a flight in the national airspace system;
-  - **(2)** make the NOTAMS more specific and relevant to the airman's route and in a format that is more useable to the airman;
-  - **(3)** provide both a full set of NOTAM results in addition to specific information requested by airmen;
-  - **(4)** provide a document that is easily searchable; and
-  - **(5)** provide a filtering mechanism similar to that provided by the Department of Defense Notices to Airmen.
-- **(c)** *Advice from private sector groups* The Administrator shall establish a NOTAM Improvement Panel, consisting of relevant nonprofit and not-for-profit general aviation pilot groups, to advise the Administrator in carrying out the goals of the Program under this section.
-- **(d)** *Phase-In and completion* The improvements required by this section shall be phased in as quickly as practicable and shall be completed not later than the date that is 1 year after the date of the enactment of this Act.
+  - **(1)** *Definition* In this section, the term NOTAM means Notices to Airmen.
+  - **(2)** *Improvements* Not later than 180 days after the date of the enactment of this Act, the Administrator of the Federal Aviation Administration shall begin a Notice to Airmen Improvement Program (in this section referred to as the “NOTAM Improvement Program”)—
+    - **(A)** to improve the system of providing airmen with pertinent and timely information regarding the national airspace system;
+    - **(B)** to archive, in a public central location, all NOTAMs, including the original content and form of the notices, the original date of publication, and any amendments to such notices with the date of each amendment; and
+    - **(C)** to apply filters so that pilots can prioritize critical flight safety information from other airspace system information.
+- **(b)** *Goals of program* The goals of the NOTAM Improvement Program are—
+  - **(1)** to decrease the overwhelming volume of NOTAMs an airman receives when retrieving airman information prior to a flight in the national airspace system;
+  - **(2)** make the NOTAMs more specific and relevant to the airman’s route and in a format that is more useable to the airman;
+  - **(3)** to provide a full set of NOTAM results in addition to specific information requested by airmen;
+  - **(4)** to provide a document that is easily searchable; and
+  - **(5)** to provide a filtering mechanism similar to that provided by the Department of Defense Notices to Airmen.
+- **(c)** *Advice from private sector groups* The Administrator shall establish a NOTAM Improvement Panel, which shall be comprised of representatives of relevant nonprofit and not-for-profit general aviation pilot groups, to advise the Administrator in carrying out the goals of the NOTAM Improvement Program under this section.
+- **(d)** *Phase-in and completion* The improvements required by this section shall be phased in as quickly as practicable and shall be completed not later than the date that is 1 year after the date of the enactment of this Act.
 
-## § 4. Flight Service Station Briefings
+## § 4. Medical certification
 
-The Flight Service Station briefings and other air traffic services performed by Lockheed Martin or any other government contractor shall be available to airmen under the section 522 of title 5, United States Code (commonly known as the “Freedom of Information Act”).
-
-## § 5. Medical certification
-
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Administrator of the Federal Aviation Administration shall begin a review of the Administration's medical certification standards and forms in order to—
-  - **(1)** revise the medical application form to provide greater clarity and guidance to applicants; and
-  - **(2)** align medical qualification policies with present-day qualified medical judgment and practices as they may apply to an individual’s medically relevant circumstances; and
-  - **(3)** publish objective medical standards so that the public is fairly advised of the criteria that determines an airman’s medical certificate eligibility.
-- **(b)** *Goals of program* The goals of the review are to—
-  - **(1)** provide questions in the medical application form that—
+- **(a)** *Assessment*
+  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Comptroller General of the United States shall initiate an assessment of the Federal Aviation Administration’s medical certification process and the associated medical standards and forms.
+  - **(2)** *Report* The Comptroller General shall submit a report to Congress based on the assessment required under paragraph (1) that examines—
+    - **(A)** revisions to the medical application form that would provide greater clarity and guidance to applicants;
+    - **(B)** the alignment of medical qualification policies with present-day qualified medical judgment and practices, as applied to an individual’s medically relevant circumstances; and
+    - **(C)** steps that could be taken to promote the public’s understanding of the medical requirements that determine an airman’s medical certificate eligibility.
+- **(b)** *Goals of the Federal Aviation Administration’s medical certification process* The goals of the Federal Aviation Administration’s medical certification process are—
+  - **(1)** to provide questions in the medical application form that—
     - **(A)** are appropriate without being overly broad;
     - **(B)** are subject to a minimum amount of misinterpretation and mistaken responses;
     - **(C)** allow for consistent treatment and responses during the medical application process; and
     - **(D)** avoid unnecessary allegations that an individual has intentionally falsified answers on the form;
-  - **(2)** provide questions that elicit information that is relevant to making a determination of an individual’s medical qualifications within the standards identified in the Administrator’s regulations;
-  - **(3)** give medical standards greater meaning by ensuring the information requested aligns with present-day medical judgment and practices; and
-  - **(4)** provide that the application of those standards ensures an appropriate and fair evaluation of an individual’s qualifications, and that the individual understands the basis for determining medical qualifications.
-- **(c)** *Advice from private sector groups* The Administrator shall establish a panel, consisting of relevant nonprofit and not-for-profit general aviation pilot groups, aviation medical examiners, and other qualified medical experts, to advise the Administrator in carrying out the goals of the review required by this section.
-- **(d)** *Phase-In and completion* The actions to revise the medical application form, to align the medical qualification policies, and to publish objective medical standards shall be phased in as quickly as practicable and shall be completed not later than the date that is 1 year after the date of the enactment of this Act.
+  - **(2)** to provide questions that elicit information that is relevant to making a determination of an individual’s medical qualifications within the standards identified in the Administrator’s regulations;
+  - **(3)** to give medical standards greater meaning by ensuring the information requested aligns with present-day medical judgment and practices; and
+  - **(4)** to ensure that—
+    - **(A)** the application of such medical standards provides an appropriate and fair evaluation of an individual’s qualifications; and
+    - **(B)** the individual understands the basis for determining medical qualifications.
+- **(c)** *Advice from private sector groups* The Administrator shall establish a panel, which shall be comprised of representatives of relevant nonprofit and not-for-profit general aviation pilot groups, aviation medical examiners, and other qualified medical experts, to advise the Administrator in carrying out the goals of the assessment required under this section.
+- **(d)** *Federal Aviation Administration response* Not later than 1 year after the issuance of the report by the Comptroller General pursuant to subsection (a)(2), the Administrator shall take appropriate actions to respond to such report.
