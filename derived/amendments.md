@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1447
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Subchapter II of chapter 449 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The analysis for such subchapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The analysis for such subchapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |

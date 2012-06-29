@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1447
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1447
@@ -20,9 +20,10 @@ Aviation Security Stakeholder Participation Act of 2012
 
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Aviation Security Stakeholder Participation Act of 2012
 - 2012-06-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-06-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 6/26/2012 H4011-4012)
 - 2012-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 6/26/2012 H4011-4012)
+- 2012-06-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
