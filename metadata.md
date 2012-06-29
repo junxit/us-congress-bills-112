@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4005
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4005
@@ -25,9 +25,10 @@ GAPS Act
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Broun, Paul C. [R-GA-10] (B001262)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ GAPS Act
 - 2012-06-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-06-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 9 (Roll no. 439). (text: CR 6/26/2012 H4009)
 - 2012-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 9 (Roll no. 439).(text: CR 6/26/2012 H4009)
+- 2012-06-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
