@@ -1,7 +1,7 @@
 ---
 measure: S. 1335
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1335
@@ -108,3 +108,15 @@ Pilot's Bill of Rights
 - 2012-06-29 — Senate amendment agreed to: Amendment SA 2489 agreed to in Senate by Unanimous Consent.
 - 2012-06-29 — Senate amendment proposed (on the floor): Amendment SA 2489 proposed by Senator Reid for Senator Hutchison.(consideration: CR S4733-4735; text: CR S4733-4735)
 - 2012-06-29 — Senate amendment submitted
+- 2012-07-23 — Considered under suspension of the rules. (consideration: CR H5100-5102)
+- 2012-07-23 — DEBATE - The House proceeded with forty minutes of debate on S. 1335.
+- 2012-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-23 — Mr. Bucshon moved to suspend the rules and pass the bill.
+- 2012-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5100-5101)
+- 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5100-5101)
+- 2012-07-26 — Presented to President.
+- 2012-07-26 — Presented to President.
+- 2012-08-03 — Became Public Law No: 112-153.
+- 2012-08-03 — Became Public Law No: 112-153.
+- 2012-08-03 — Signed by President.
+- 2012-08-03 — Signed by President.
