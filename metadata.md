@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4251
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4251
@@ -29,9 +29,10 @@ SMART Port Security Act
 - Rep. Hahn, Janice [D-CA-36] (H001063)
 - Rep. Richardson, Laura [D-CA-37] (R000581)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ SMART Port Security Act
 - 2012-06-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-06-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 21 (Roll no. 438). (text: CR 6/26/2012 H4003-4007)
 - 2012-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 21 (Roll no. 438).(text: CR 6/26/2012 H4003-4007)
+- 2012-06-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
