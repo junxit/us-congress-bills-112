@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6064
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6064
