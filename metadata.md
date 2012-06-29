@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3772
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3772
@@ -22,9 +22,10 @@ To designate the facility of the United States Postal Service located at 150 Sou
 - Rep. Harper, Gregg [R-MS-3] (H001045)
 - Rep. Palazzo, Steven M. [R-MS-4] (P000601)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To designate the facility of the United States Postal Service located at 150 Sou
 - 2012-06-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-06-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 6/26/2012 H3999)
 - 2012-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 6/26/2012 H3999)
+- 2012-06-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
