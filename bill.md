@@ -11,4 +11,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. National Infantry Museum and Soldier Center Commemorative Coin surcharges
 
-Section 6(b) of the National Infantry Museum and Soldier Center Commemorative Coin Act (Public Law 110-357, 122 Stat. 3999) is amended by inserting before the period at the end the following: “, and for the retirement of debt associated with building the existing National Infantry Museum and Soldier Center”.
+Section 6(b) of the National Infantry Museum and Soldier Center Commemorative Coin Act (Public Law 110–357, 122 Stat. 3999) is amended by inserting before the period at the end the following: “, and for the retirement of debt associated with building the existing National Infantry Museum and Soldier Center”.

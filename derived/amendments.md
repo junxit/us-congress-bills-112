@@ -1,7 +1,7 @@
 ---
 measure: S. 3363
 congress: 112
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 6(b) of the National Infantry Museum and Soldier Center Commemorative Coin Act (Public Law 110-357, 122 Stat. 3999) is amended by inserting before the period at the end the following: “, and for the retirement of debt associated … | the bill names no machine-readable US Code section |
+| — | insert | Section 6(b) of the National Infantry Museum and Soldier Center Commemorative Coin Act (Public Law 110–357, 122 Stat. 3999) is amended by inserting before the period at the end the following: “, and for the retirement of debt associated … | the bill names no machine-readable US Code section |
