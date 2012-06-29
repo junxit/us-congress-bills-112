@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5972
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5972
