@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5872
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5872
@@ -16,7 +16,7 @@ Sequestration Transparency Act of 2012
 
 - Rep. Hensarling, Jeb [R-TX-5] (H001036)
 
-## Cosponsors (39)
+## Cosponsors (56)
 
 - Rep. Ryan, Paul [R-WI-1] (R000570)
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
@@ -57,6 +57,23 @@ Sequestration Transparency Act of 2012
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Brooks, Mo [R-AL-5] (B001274)
 - Rep. Griffin, Tim [R-AR-2] (G000567)
+- Rep. Schilling, Robert T. [R-IL-17] (S001182)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Woodall, Rob [R-GA-7] (W000810)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Hanna, Richard L. [R-NY-24] (H001051)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
 
 ## Committees (1)
 
@@ -67,3 +84,8 @@ Sequestration Transparency Act of 2012
 - 2012-05-31 — Introduced in House
 - 2012-05-31 — Introduced in House
 - 2012-05-31 — Referred to the House Committee on the Budget.
+- 2012-06-28 — Committee Consideration and Mark-up Session Held.
+- 2012-06-28 — Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 0.
+- 2012-07-02 — Placed on the Union Calendar, Calendar No. 417.
+- 2012-07-02 — Reported (Amended) by the Committee on Budget. H. Rept. 112-577.
+- 2012-07-02 — Reported (Amended) by the Committee on Budget. H. Rept. 112-577.
