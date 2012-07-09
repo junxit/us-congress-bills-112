@@ -1,7 +1,7 @@
 ---
 measure: S. 1379
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 0 executed, 13 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,12 +35,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the first sentence, by striking “active judges” and inserting “active judges and magistrate judges”; | the bill names no machine-readable US Code section |
 | — | replace | in the third sentence, by striking “Every judge” and inserting “Every judge and magistrate judge”; and | the bill names no machine-readable US Code section |
 | — | replace | in the third sentence, by striking “Courts of Appeals” and inserting “Court of Appeals”. | the bill names no machine-readable US Code section |
-| — | amend | Subchapter III of Chapter 9 of title 11, District of Columbia Official Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter III of Chapter 9 of title 11, District of Columbia Official Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of contents of chapter 9 of title 11, District of Columbia Official Code, is amended by adding at the end of the items relating to subchapter III the following: | the bill names no machine-readable US Code section |
-| — | amend | Subchapter III of chapter 7 of title 11, District of Columbia Official Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter III of chapter 7 of title 11, District of Columbia Official Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of contents of chapter 7 of title 11, District of Columbia Official Code, is amended by adding at the end of the items relating to subchapter III the following: | the bill names no machine-readable US Code section |
-| — | insert | Chapter 17 of title 11, District of Columbia Official Code, is amended by inserting after section 11–1726 the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of contents of chapter 17 of title 11, District of Columbia Official Code, is amended by inserting after the item relating to section 11–1726 the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 11–1742, District of Columbia Official Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 307 of the District of Columbia Court Reform and Criminal Procedure Act of 1970 (sec. 2–1607, D.C. Official Code) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | Section 11–908A(c)(1), District of Columbia Official Code, is amended by striking “5 years” and inserting “3 years”. | the bill names no machine-readable US Code section |

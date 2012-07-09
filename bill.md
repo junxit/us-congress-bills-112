@@ -68,14 +68,7 @@ This Act may be cited as the “D.C. Courts and Public Defender Service Act of 2
       > - **(f)** *Exceptions* The notice under subsection (d)(2) and the report under subsection (e) are not required in the case of an order that tolls or extends a time deadline for a period of less than 14 days.
 
     - **(B)** *Clerical amendment* The table of contents of chapter 7 of title 11, District of Columbia Official Code, is amended by adding at the end of the items relating to subchapter III the following:
-- **(c)** *Authorization for Program of Voluntary Separation Incentive Payments*
-  - **(1)** *In general* Chapter 17 of title 11, District of Columbia Official Code, is amended by inserting after section 11–1726 the following new section:
-    > ## § 11–1726A. Voluntary Separation Incentive Payments
-    >
-    > The Joint Committee on Judicial Administration may, by regulation, establish a program substantially similar to the program established under subchapter II of chapter 35 of title 5, United States Code, for nonjudicial employees of the District of Columbia courts.
-
-  - **(2)** *Clerical amendment* The table of contents of chapter 17 of title 11, District of Columbia Official Code, is amended by inserting after the item relating to section 11–1726 the following new item:
-- **(d)(c)** *Permitting Agreements To Provide Services on a Reimbursable Basis to Other District Government Offices*
+- **(c)** *Permitting Agreements To Provide Services on a Reimbursable Basis to Other District Government Offices*
   - **(1)** *In general* Section 11–1742, District of Columbia Official Code, is amended by adding at the end the following new subsection:
     > - **(d)** To prevent duplication and to promote efficiency and economy, the Executive Officer may enter into agreements to provide the Mayor of the District of Columbia with equipment, supplies, and services and credit reimbursements received from the Mayor for such equipment, supplies, and services to the appropriation of the District of Columbia Courts against which they were charged.
 
