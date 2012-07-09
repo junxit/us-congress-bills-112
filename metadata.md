@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4018
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4018
@@ -59,3 +59,6 @@ Public Safety Officers' Benefits Improvements Act of 2012
 - 2012-06-27 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-06-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 6/26/2012 H3994-3995)
 - 2012-06-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 6/26/2012 H3994-3995)
+- 2012-06-28 — Received in the Senate.
+- 2012-06-29 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-07-09 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 441.
