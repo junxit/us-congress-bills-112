@@ -1,0 +1,12 @@
+---
+legis-num: H. RES. 724
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 724
+
+> Providing for consideration of the bill (H.R. 6079) to repeal the Patient Protection and Affordable Care Act and health care-related provisions in the Health Care and Education Reconciliation Act of 2010.
+
+That upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 6079) to repeal the Patient Protection and Affordable Care Act and health care-related provisions in the Health Care and Education Reconciliation Act of 2010. All points of order against consideration of the bill are waived. The bill shall be considered as read. All points of order against provisions in the bill are waived. The previous question shall be considered as ordered on the bill and any amendment thereto to final passage without intervening motion except: (1) five hours of debate, with 30 minutes equally divided and controlled by the Majority Leader and Minority Leader or their respective designees, 60 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Education and the Workforce, 60 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Energy and Commerce, 60 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Ways and Means, 30 minutes equally divided and controlled by the chair and ranking minority member of the Committee on the Budget, 30 minutes equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary, and 30 minutes equally divided and controlled by the chair and ranking minority member of the Committee on Small Business; and (2) one motion to recommit.
