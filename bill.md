@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1192
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Soda Ash Royalty Extension, Job Creation, and Export Enhancement Act of 2011”.
+This Act may be cited as the “Soda Ash Royalty Extension, Job Creation, and Export Enhancement Act of 2012”.
 
 ## § 2. Extension of royalty rate on soda ash
 
