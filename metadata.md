@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4367
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4367
@@ -168,6 +168,10 @@ To amend the Electronic Fund Transfer Act to limit the fee disclosure requiremen
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2012-07-09 — [House 112-2-453](votes/house-112-2-0453.md) — On Motion to Suspend the Rules and Pass — **Passed** (371–0)
+
 ## Actions
 
 - 2012-04-17 — Introduced in House
@@ -179,3 +183,11 @@ To amend the Electronic Fund Transfer Act to limit the fee disclosure requiremen
 - 2012-06-29 — Placed on the Union Calendar, Calendar No. 416.
 - 2012-06-29 — Reported by the Committee on Financial Services. H. Rept. 112-576.
 - 2012-06-29 — Reported by the Committee on Financial Services. H. Rept. 112-576.
+- 2012-07-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-07-09 — Considered as unfinished business. (consideration: CR H4670-4671)
+- 2012-07-09 — Considered under suspension of the rules. (consideration: CR H4664-4666)
+- 2012-07-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4367.
+- 2012-07-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-09 — Mr. Luetkemeyer moved to suspend the rules and pass the bill.
+- 2012-07-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 453). (text: CR H4665)
+- 2012-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 453).(text: CR H4665)
