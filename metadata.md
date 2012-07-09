@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5892
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5892
@@ -34,6 +34,10 @@ Hydropower Regulatory Efficiency Act of 2012
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2012-07-09 — [House 112-2-454](votes/house-112-2-0454.md) — On Motion to Suspend the Rules and Pass — **Passed** (372–0)
+
 ## Actions
 
 - 2012-06-05 — Introduced in House
@@ -45,3 +49,11 @@ Hydropower Regulatory Efficiency Act of 2012
 - 2012-06-29 — Placed on the Union Calendar, Calendar No. 404.
 - 2012-06-29 — Reported by the Committee on Energy and Commerce. H. Rept. 112-563.
 - 2012-06-29 — Reported by the Committee on Energy and Commerce. H. Rept. 112-563.
+- 2012-07-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-07-09 — Considered as unfinished business. (consideration: CR H4671-4672)
+- 2012-07-09 — Considered under suspension of the rules. (consideration: CR H4666-4670)
+- 2012-07-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5892.
+- 2012-07-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-09 — Mrs. McMorris Rodgers moved to suspend the rules and pass the bill.
+- 2012-07-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 372 - 0 (Roll no. 454). (text: CR H4666-4668)
+- 2012-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 372 - 0 (Roll no. 454).(text: CR H4666-4668)
