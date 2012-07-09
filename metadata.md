@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4114
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4114
@@ -49,3 +49,9 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2012
 - 2012-05-18 — Placed on the Union Calendar, Calendar No. 340.
 - 2012-05-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 112-486.
 - 2012-05-18 — Reported by the Committee on Veterans' Affairs. H. Rept. 112-486.
+- 2012-07-09 — Considered under suspension of the rules. (consideration: CR H4663-4664)
+- 2012-07-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4114.
+- 2012-07-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-09 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
+- 2012-07-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4663)
+- 2012-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4663)
