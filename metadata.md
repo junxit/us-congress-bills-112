@@ -1,7 +1,7 @@
 ---
 measure: S. 270
 congress: 112
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 270
@@ -40,3 +40,11 @@ La Pine Land Conveyance Act
 - 2011-10-19 — Message on Senate action sent to the House.
 - 2011-10-21 — Received in the House.
 - 2011-10-21 — Referred to the House Committee on Natural Resources.
+- 2011-10-24 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2012-05-17 — Subcommittee Hearings Held.
+- 2012-06-07 — Committee Consideration and Mark-up Session Held.
+- 2012-06-07 — Ordered to be Reported by Unanimous Consent.
+- 2012-06-07 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-07-09 — Placed on the Union Calendar, Calendar No. 421.
+- 2012-07-09 — Reported by the Committee on Natural Resources. H. Rept. 112-581.
+- 2012-07-09 — Reported by the Committee on Natural Resources. H. Rept. 112-581.
