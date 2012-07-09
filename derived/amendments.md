@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4273
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,4 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | insert | by inserting “(1)” after “(c)”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: “An order issued under this section should require generation, delivery, interchange, or transmission of electric energy only during times necessary to meet the emergency and serve the public interest,… | the bill names no machine-readable US Code section |
+| — | insert | Section 202(d) of the Federal Power Act (16 U.S.C. 824a(d)) is amended by inserting “or municipality” before “engaged in the transmission or sale of electric energy”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” after “(c)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 202(d) of the Federal Power Act (16 U.S.C. 824a(d)) is amended by inserting “or municipality” before “engaged in the transmission or sale of electric energy”. | the bill names no machine-readable US Code section |
