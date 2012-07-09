@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6019
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | amend | Paragraph (13) of section 1801(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796ee(b)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | Section 1810(a) of such Act (42 U.S.C. 3796ee–10(a)) is amended by inserting before the period at the end the following: “and $40,000,000 for each of fiscal years 2013 through 2017”. | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (13) of section 1801(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796ee(b)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | Section 1810(a) of such Act (42 U.S.C. 3796ee–10(a)) is amended by inserting before the period at the end the following: “and $40,000,000 for each of fiscal years 2013 through 2017”. | the bill names no machine-readable US Code section |
