@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4155
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4155
@@ -69,3 +69,12 @@ Veteran Skills to Jobs Act
 - 2012-07-09 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-585.
 - 2012-07-09 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-585.
 - 2012-07-10 — Received in the Senate, read twice.
+- 2012-07-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4916)
+- 2012-07-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4916)
+- 2012-07-12 — Message on Senate action sent to the House.
+- 2012-07-19 — Presented to President.
+- 2012-07-19 — Presented to President.
+- 2012-07-23 — Became Public Law No: 112-147.
+- 2012-07-23 — Became Public Law No: 112-147.
+- 2012-07-23 — Signed by President.
+- 2012-07-23 — Signed by President.
