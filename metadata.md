@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1791
 congress: 112
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1791
@@ -75,3 +75,12 @@ To designate the United States courthouse under construction at 101 South United
 - 2012-07-10 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2012-07-10 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2012-07-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 445.
+- 2012-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/21/2012 S6666)
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/21/2012 S6666)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Presented to President.
+- 2012-09-25 — Presented to President.
+- 2012-10-05 — Became Public Law No: 112-180.
+- 2012-10-05 — Became Public Law No: 112-180.
+- 2012-10-05 — Signed by President.
+- 2012-10-05 — Signed by President.
