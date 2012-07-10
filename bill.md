@@ -33,7 +33,7 @@ That the Senate—
 - **(1)** supports the goals and ideals of World Malaria Day, including the target of ending malaria deaths by 2015;
 - **(2)** recognizes the importance of reducing malaria prevalence and deaths to improve overall child and maternal health, especially in sub-Saharan Africa;
 - **(3)** commends the recent progress made toward reducing global malaria deaths and prevalence, particularly through the efforts of the President’s Malaria Initiative and the Global Fund to Fight AIDS, Tuberculosis, and Malaria;
-- **(4)** strongly supports ongoing public-private partnerships to research and develop more effective and affordable tools for malaria diagnosis, treatment, and vaccination;
+- **(4)** welcomes ongoing public-private partnerships to research and develop more effective and affordable tools for malaria diagnosis, treatment, and vaccination;
 - **(5)** recognizes the goals to combat malaria in the Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008 (Public Law 110–293; 122 Stat. 2918);
 - **(6)** supports continued leadership by the United States in bilateral, multilateral, and private sector efforts to combat malaria as a critical part of the President’s Global Health Initiative; and
 - **(7)** encourages other members of the international community to sustain and scale up their support for and financial contributions to efforts worldwide to combat malaria.

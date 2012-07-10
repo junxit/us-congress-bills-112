@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 429
 congress: 112
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 429
@@ -16,7 +16,7 @@ A resolution supporting the goals and ideals of World Malaria Day.
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Cochran, Thad [R-MS] (C000567)
@@ -29,6 +29,7 @@ A resolution supporting the goals and ideals of World Malaria Day.
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
 
 ## Committees (1)
 
@@ -42,3 +43,11 @@ A resolution supporting the goals and ideals of World Malaria Day.
 - 2012-06-20 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2012-06-20 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2012-06-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 433.
+- 2012-07-10 — Amendment SA 2507 agreed to in Senate by Unanimous Consent.
+- 2012-07-10 — Amendment SA 2507 proposed by Senator Brown OH for Senator Wicker. (consideration: CR S4833; text: CR S4833) Of a perfecting nature.
+- 2012-07-10 — Measure laid before Senate by unanimous consent. (consideration: CR S4832-4833)
+- 2012-07-10 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Voice Vote.(text: CR S4833)
+- 2012-07-10 — Resolution agreed to in Senate with an amendment and with a preamble by Voice Vote. (text: CR S4833)
+- 2012-07-10 — Senate amendment agreed to: Amendment SA 2507 agreed to in Senate by Unanimous Consent.
+- 2012-07-10 — Senate amendment proposed (on the floor): Amendment SA 2507 proposed by Senator Brown OH for Senator Wicker.(consideration: CR S4833; text: CR S4833)
+- 2012-07-10 — Senate amendment submitted
