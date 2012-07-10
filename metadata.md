@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4114
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4114
@@ -32,9 +32,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2012
 - Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
 - Rep. Flores, Bill [R-TX-17] (F000461)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2012
 - 2012-07-09 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
 - 2012-07-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4663)
 - 2012-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4663)
+- 2012-07-10 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
