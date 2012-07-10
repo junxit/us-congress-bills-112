@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5889
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5889
@@ -22,9 +22,10 @@ Nuclear Terrorism Conventions Implementation and Safety of Maritime Navigation A
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -44,3 +45,5 @@ Nuclear Terrorism Conventions Implementation and Safety of Maritime Navigation A
 - 2012-06-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-06-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 6/26/2012 H3986-3989)
 - 2012-06-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 6/26/2012 H3986-3989)
+- 2012-06-29 — Received in the Senate.
+- 2012-07-10 — Read twice and referred to the Committee on the Judiciary.
