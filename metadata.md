@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5892
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5892
@@ -30,9 +30,10 @@ Hydropower Regulatory Efficiency Act of 2012
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 - Rep. Lujan, Ben Ray [D-NM-3] (L000570)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ Hydropower Regulatory Efficiency Act of 2012
 - 2012-07-09 — Mrs. McMorris Rodgers moved to suspend the rules and pass the bill.
 - 2012-07-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 372 - 0 (Roll no. 454). (text: CR H4666-4668)
 - 2012-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 372 - 0 (Roll no. 454).(text: CR H4666-4668)
+- 2012-07-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5892
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,51 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+6 amendatory instructions. 4 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 16 U.S.C. § 2705
+
+> Subsection (d) of section 405 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2705) is amended by striking “5,000” and inserting “10,000”.
+
+| | |
+|---|---|
+| Removed | `5,000` |
+| Inserted | `10,000` |
+
+### 16 U.S.C. § 823a
+
+> in subsection (c), by striking “subsection (a)” and inserting “subsection (b)”; and
+
+| | |
+|---|---|
+| Removed | `subsection (a)` |
+| Inserted | `subsection (b)` |
+
+### 16 U.S.C. § 823a
+
+> in subsection (d), by striking “subsection (a)” and inserting “subsection (b)”.
+
+| | |
+|---|---|
+| Removed | `subsection (a)` |
+| Inserted | `subsection (b)` |
+
+### 16 U.S.C. § 2705
+
+> Subsection (d) of section 405 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2705), as amended, is further amended by striking “subsection (a) of such section 30” and inserting “subsection (b) of such section 30”.
+
+| | |
+|---|---|
+| Removed | `subsection (a) of such section 30` |
+| Inserted | `subsection (b) of such section 30` |
 
 ## Stated, not applied
 
@@ -31,9 +69,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Subsection (d) of section 405 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2705) is amended by striking “5,000” and inserting “10,000”. | the bill names no machine-readable US Code section |
-| — | replace | by striking subsections (a) and (b) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (c), by striking “subsection (a)” and inserting “subsection (b)”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d), by striking “subsection (a)” and inserting “subsection (b)”. | the bill names no machine-readable US Code section |
-| — | replace | Subsection (d) of section 405 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2705), as amended, is further amended by striking “subsection (a) of such section 30” and inserting “subsection (b) of such section 30”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (a) (as so designated) the following: | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 823a` | replace | by striking subsections (a) and (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 798` | insert | by inserting after subsection (a) (as so designated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
