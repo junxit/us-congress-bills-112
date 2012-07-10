@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4114
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4114
@@ -57,3 +57,14 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2012
 - 2012-07-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4663)
 - 2012-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4663)
 - 2012-07-10 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2012-11-13 — Message on Senate action sent to the House.
+- 2012-11-13 — Passed Senate without amendment by Unanimous Consent.
+- 2012-11-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-11-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S6721)
+- 2012-11-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S6721)
+- 2012-11-16 — Presented to President.
+- 2012-11-16 — Presented to President.
+- 2012-11-27 — Became Public Law No: 112-198.
+- 2012-11-27 — Became Public Law No: 112-198.
+- 2012-11-27 — Signed by President.
+- 2012-11-27 — Signed by President.
