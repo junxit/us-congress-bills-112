@@ -1,7 +1,7 @@
 ---
 measure: S. 3240
 congress: 112
-version: Engrossed in Senate
+version: Public Print
 derived: true
 ---
 

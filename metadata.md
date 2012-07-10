@@ -1,7 +1,7 @@
 ---
 measure: S. 3240
 congress: 112
-version: Engrossed in Senate
+version: Public Print
 ---
 
 # S. 3240
@@ -16,7 +16,7 @@ Agriculture Reform, Food, and Jobs Act of 2012
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
-## Cosponsors (396)
+## Cosponsors (397)
 
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
@@ -196,6 +196,7 @@ Agriculture Reform, Food, and Jobs Act of 2012
 - Sen. Kerry, John F. [D-MA] (K000148)
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Begich, Mark [D-AK] (B001265)
 - Sen. Chambliss, Saxby [R-GA] (C000286)
 - Sen. Tester, Jon [D-MT] (T000464)
 - Sen. Kerry, John F. [D-MA] (K000148)
@@ -1146,3 +1147,7 @@ Agriculture Reform, Food, and Jobs Act of 2012
 - 2012-06-21 — Senate amendment proposed (on the floor): Amendment SA 2372 proposed by Senator Johanns.(consideration: CR S4382; text: CR S4382)
 - 2012-06-21 — Senate amendment proposed (on the floor): Amendment SA 2455 proposed by Senator Murray.(consideration: CR S4385-4386)
 - 2012-06-21 — Senate amendment proposed (on the floor): Amendment SA 2456 proposed by Senator Boxer.(consideration: CR S4381-4382; text: CR S4381)
+- 2012-06-25 — Message on Senate action sent to the House.
+- 2012-06-26 — Held at the desk.
+- 2012-06-26 — Received in the House.
+- 2012-07-10 — Senate ordered measure printed as passed.
