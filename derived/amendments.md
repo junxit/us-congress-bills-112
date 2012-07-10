@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4367
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 1 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 15 U.S.C. § 1693b
-
-> by striking “requirements.” and all that follows through “The notice required under clauses (i) and (ii)” and inserting “requirement.—The notice required under clauses (i) and (ii)” after “Notice”; and
-
-| | |
-|---|---|
-| Removed | `requirements.” and all that follows through “The notice required under clauses (i) and (ii)` |
-| Inserted | `requirement.—The notice required under clauses (i) and (ii)` |
 
 ## Stated, not applied
 
@@ -42,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 1693b` | replace | by striking “, except that during the period beginning” and all that follows and inserting a period. | the bill quotes the text struck but describes what replaces it |
+| — | replace | by striking “requirements.” and all that follows through “The notice required under clauses (i) and (ii)” and inserting “requirement.—The notice required under clauses (i) and (ii)” after “Notice”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “, except that during the period beginning” and all that follows and inserting a period. | the bill names no machine-readable US Code section |
