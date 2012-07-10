@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4367
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4367
@@ -191,3 +191,4 @@ To amend the Electronic Fund Transfer Act to limit the fee disclosure requiremen
 - 2012-07-09 — Mr. Luetkemeyer moved to suspend the rules and pass the bill.
 - 2012-07-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 453). (text: CR H4665)
 - 2012-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 453).(text: CR H4665)
+- 2012-07-10 — Received in the Senate, read twice.
