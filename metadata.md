@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4155
 congress: 112
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 4155
@@ -68,3 +68,4 @@ Veteran Skills to Jobs Act
 - 2012-07-09 — Placed on the Union Calendar, Calendar No. 424.
 - 2012-07-09 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-585.
 - 2012-07-09 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-585.
+- 2012-07-10 — Received in the Senate, read twice.
