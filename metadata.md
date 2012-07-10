@@ -1,7 +1,7 @@
 ---
 measure: S. 1379
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1379
@@ -16,9 +16,10 @@ D.C. Courts and Public Defender Service Act of 2011
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -30,3 +31,6 @@ D.C. Courts and Public Defender Service Act of 2011
 - 2012-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 436.
 - 2012-07-09 — Passed Senate with an amendment by Voice Vote. (consideration: CR S4790-4791; text as passed Senate: CR 7/10/2012 S4831-4832)
 - 2012-07-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S4790-4791; text as passed Senate: CR 7/10/2012 S4831-4832)
+- 2012-07-10 — Message on Senate action sent to the House.
+- 2012-07-10 — Received in the House.
+- 2012-07-10 — Referred to the House Committee on Oversight and Government Reform.
