@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1996
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-20 amendatory instructions. 0 executed, 20 stated and not applied.
+15 amendatory instructions. 0 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,23 +31,18 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in subsection (a)(1), by inserting after “prevailing party” the following: “who has a direct and personal monetary interest in the adjudication, including because of personal injury, property damage, or unpaid agency disbursement,”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A)(ii), by striking “$125 per hour” and all that follows through “a higher fee” and inserting “$175 per hour”; and | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (B), by striking “; except that” and all that follows through “section 601”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “may reduce the amount to be awarded, or deny an award,” and inserting “shall reduce the amount to be awarded, or deny an award, commensurate with pro bono hours and related fees and expenses, or”; | the bill names no machine-readable US Code section |
-| — | strike | by striking “unduly and”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “controversy.” and inserting “controversy or acted in an obdurate, dilatory, mendacious, or oppressive manner, or in bad faith.”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 504(a) of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting after the first sentence the following: “Fees and other expenses may be awarded under this subsection only to a prevailing party who has a direct and personal interest in the adversary adjudication because of medical costs, … | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “The agency conducting the adversary adjudication shall make any party against whom the adjudication is brought, at the time the adjudication is commenced, aware of the provisions of this section.”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “may reduce” and inserting “shall reduce”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “unduly and unreasonably” and inserting “unduly or unreasonably”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A)(ii), by striking “$125 per hour” and all that follows through the end and inserting “$200 per hour.);”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B)(ii), by striking “; except that” and all that follows through “section 601;” and inserting | the bill names no machine-readable US Code section |
 | — | strike | in subsection (c)(1), by striking “, United States Code”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking subsection (e) and inserting the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 504 of such title is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “in any civil action” and all that follows through “jurisdiction of that action” and inserting “in the civil action”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “shall award to a prevailing party other than the United States” and inserting the following: “, in any civil action (other than cases sounding in tort), including proceedings for judicial review of agency action, brought by … | the bill names no machine-readable US Code section |
+| — | replace | by striking subsections (e) and (f) and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (1)(A) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “court, in its discretion, may” and inserting “court shall”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “unduly and unreasonably” and inserting “unduly or unreasonably”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A)(ii), by striking “$125” and all that follows through the end and inserting “$200 per hour.);”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B)(ii), by striking “; except that” and all that follows through “section 601 of title 5;” and inserting | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A)(ii), by striking “$125 per hour” and all that follows through “a higher fee” and inserting “$175 per hour”; and | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (B), by striking “; except that” and all that follows through “section 601”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “, in its discretion, may reduce the amount to be awarded pursuant to this subsection, or deny an award,” and inserting “shall reduce the amount to be awarded under this subsection, or deny an award, commensurate with pro bon… | the bill names no machine-readable US Code section |
-| — | strike | by striking “unduly and”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “controversy.” and inserting “controversy or acted in an obdurate, dilatory, mendacious, or oppressive manner, or in bad faith.”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 2412(d) of title 28, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 2412(d) of title 28, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 2412(e) of title 28, United States Code, is amended by striking “of section 2412 of title 28, United States Code,” and inserting “of this section”. | the bill names no machine-readable US Code section |

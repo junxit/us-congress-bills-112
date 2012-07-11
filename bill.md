@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1996
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,89 +13,85 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Government Litigation Savings Act”.
 
-## § 2. Modification of Equal Access to Justice provisions
+## § 2. Modification of equal access to justice provisions
 
-- **(a)** *Agency proceedings*
-  - **(1)** *Eligibility parties; attorney fees* Section 504 of title 5, United States Code, is amended—
-    - **(A)** in subsection (a)(1), by inserting after “prevailing party” the following: “who has a direct and personal monetary interest in the adjudication, including because of personal injury, property damage, or unpaid agency disbursement,”; and
-    - **(B)** in subsection (b)(1)—
-      - **(i)** in subparagraph (A)(ii), by striking “$125 per hour” and all that follows through “a higher fee” and inserting “$175 per hour”; and
-      - **(ii)** in subparagraph (B), by striking “; except that” and all that follows through “section 601”.
-  - **(2)** *Reduction or denial of awards* Section 504(a)(3) of title 5, United States Code, is amended in the first sentence—
-    - **(A)** by striking “may reduce the amount to be awarded, or deny an award,” and inserting “shall reduce the amount to be awarded, or deny an award, commensurate with pro bono hours and related fees and expenses, or”;
-    - **(B)** by striking “unduly and”; and
-    - **(C)** by striking “controversy.” and inserting “controversy or acted in an obdurate, dilatory, mendacious, or oppressive manner, or in bad faith.”.
-  - **(3)** *Limitation on awards* Section 504(a) of title 5, United States Code, is amended by adding at the end the following:
-    > - **(5)** A party may not receive an award of fees and other expenses under this section—
-    >   - **(A)** in excess of $200,000 in any single adversary adjudication, or
-    >   - **(B)** for more than 3 adversary adjudications initiated in the same calendar year,
+- **(a)** *Agency proceedings* Section 504 of title 5, United States Code, is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** in paragraph (1)——
+      - **(i)** by inserting after the first sentence the following: “Fees and other expenses may be awarded under this subsection only to a prevailing party who has a direct and personal interest in the adversary adjudication because of medical costs, property damage, denial of benefits, unpaid disbursement, fees and other expenses incurred in defense of the adjudication, interest in a policy concerning such medical costs, property damage, denial of benefits, unpaid disbursement, or fees and other expenses, or otherwise.”; and
+      - **(ii)** by adding at the end the following: “The agency conducting the adversary adjudication shall make any party against whom the adjudication is brought, at the time the adjudication is commenced, aware of the provisions of this section.”; and
+    - **(B)** in paragraph (3), in the first sentence—
+      - **(i)** by striking “may reduce” and inserting “shall reduce”; and
+      - **(ii)** by striking “unduly and unreasonably” and inserting “unduly or unreasonably”;
+  - **(2)** in subsection (b)(1)—
+    - **(A)** in subparagraph (A)(ii), by striking “$125 per hour” and all that follows through the end and inserting “$200 per hour.);”; and
+    - **(B)** in subparagraph (B)(ii), by striking “; except that” and all that follows through “section 601;” and inserting
+      > except that—
+      > - **(I)** the net worth of a party (other than an individual or a unit of local government) shall include the net worth of any parent entity or subsidiary of that party; and
+      > - **(II)** for purposes of subclause (I)—
+      >   - **(aa)** a parent entity of a party is an entity that owns or controls the equity or other evidences of ownership in that party; and
+      >   - **(bb)** a subsidiary of a party is an entity the equity or other evidences of ownership in which are owned or controlled by that party;
 
-  - **(4)** *Reporting in agency adjudications* Section 504 of such title is amended—
-    - **(A)** in subsection (c)(1), by striking “, United States Code”; and
-    - **(B)** by striking subsection (e) and inserting the following:
-      > - **(e)**
-      >   - **(1)** The Chairman of the Administrative Conference of the United States shall issue an annual, online report to the Congress on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this section. The report shall describe the number, nature, and amount of the awards, the nature of and claims involved in each controversy (including the law under which the controversy arose), and any other relevant information that may aid the Congress in evaluating the scope and impact of such awards. The report shall be made available to the public online, and contain a searchable database of the total awards given, and the total number of applications for the award of fees and other expenses that were filed, defended, and heard, and shall include, with respect to each such application, the following:
-      >     - **(A)** The name of the party seeking the award of fees and other expenses.
-      >     - **(B)** The agency to which the application for the award was made.
-      >     - **(C)** The names of the administrative law judges in the adversary adjudication that is the subject of the application.
-      >     - **(D)** The disposition of the application, including any appeal of action taken on the application.
-      >     - **(E)** The amount of each award.
-      >     - **(F)** The hourly rates of expert witnesses stated in the application that was awarded.
-      >     - **(G)** With respect to each award of fees and other expenses, the basis for the finding that the position of the agency concerned was not substantially justified.
-      >   - **(2)**
-      >     - **(A)** The report under paragraph (1) shall cover payments of fees and other expenses under this section that are made pursuant to a settlement agreement, regardless of whether the settlement agreement is otherwise subject to nondisclosure provisions.
-      >     - **(B)** The disclosure of fees and other expenses required under subparagraph (A) does not affect any other information that is subject to nondisclosure provisions in the settlement agreement.
+  - **(3)** in subsection (c)(1), by striking “, United States Code”; and
+  - **(4)** by striking subsections (e) and (f) and inserting the following:
+    > - **(e)**
+    >   - **(1)** The Chairman of the Administrative Conference of the United States, after consultation with the Chief Counsel for Advocacy of the Small Business Administration, shall report annually to the Congress on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this section. The report shall describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information that may aid the Congress in evaluating the scope and impact of such awards. Each agency shall provide the Chairman in a timely manner all information necessary for the Chairman to comply with the requirements of this subsection. The report shall be made available to the public online.
+    >   - **(2)**
+    >     - **(A)** The report required by paragraph (1) shall account for all payments of fees and other expenses awarded under this section that are made pursuant to a settlement agreement, regardless of whether the settlement agreement is sealed or otherwise subject to nondisclosure provisions, except that any version of the report made available to the public may not reveal any information the disclosure of which is contrary to the national security of the United States.
+    >     - **(B)** The disclosure of fees and other expenses required under subparagraph (A) does not affect any other information that is subject to nondisclosure provisions in the settlement agreement.
+    > - **(f)** The Chairman of the Administrative Conference shall create and maintain online a searchable database containing the following information with respect to each award of fees and other expenses under this section:
+    >   - **(1)** The name of each party to whom the award was made.
+    >   - **(2)** The name of each counsel of record representing each party to whom the award was made.
+    >   - **(3)** The agency to which the application for the award was made.
+    >   - **(4)** The name of each counsel of record representing the agency to which the application for the award was made.
+    >   - **(5)** The name of each administrative law judge, and the name of any other agency employee serving in an adjudicative role, in the adversary adjudication that is the subject of the application for the award.
+    >   - **(6)** The amount of the award.
+    >   - **(7)** The names and hourly rates of each expert witness for whose services the award was made under the application.
+    >   - **(8)** The basis for the finding that the position of the agency concerned was not substantially justified.
+    > - **(g)** The online searchable database described in subsection (f) may not reveal any information the disclosure of which is prohibited by law or court order, or the disclosure of which is contrary to the national security of the United States.
+    > - **(h)** The Director of the Office of Management and Budget shall adjust the maximum hourly fee set forth in subsection (b)(1)(A)(ii) for the fiscal year beginning October 1, 2012, and for each fiscal year thereafter, to reflect changes in the Consumer Price Index, as determined by the Secretary of Labor.
 
-  - **(5)** *Adjustment of attorney fees* Section 504 of such title is amended by adding at the end the following:
-    > - **(g)** The Director of the Office of Management and Budget may adjust the maximum hourly fee set forth in subsection (b)(1)(A)(ii) for the fiscal year beginning October 1, 2012, and for each fiscal year thereafter, to reflect changes in the Consumer Price Index, as determined by the Secretary of Labor.
+- **(b)** *Court cases* Section 2412(d) of title 28, United States Code, is amended—
+  - **(1)** by amending paragraph (1)(A) to read as follows:
+    > - **(A)** Except as otherwise specifically provided by statute, a court, in any civil action (other than cases sounding in tort), including proceedings for judicial review of agency action, brought by or against the United States in any court having jurisdiction of that action, shall award to a prevailing party (other than the United States) fees and other expenses, in addition to any costs awarded pursuant to subsection (a), incurred by that party in the civil action, unless the court finds that the position of the United States was substantially justified or that special circumstances make an award unjust. Fees and other expenses may be awarded under this paragraph only to a prevailing party who has a direct and personal interest in the civil action because of medical costs, property damage, denial of benefits, unpaid disbursement, fees and other expenses incurred in defense of the civil action, interest in a policy concerning such medical costs, property damage, denial of benefits, unpaid disbursement, or fees and other expenses, or otherwise.
 
-- **(b)** *Court cases*
-  - **(1)** *Eligibility parties; attorney fees; limitation on awards* Section 2412(d) of title 28, United States Code, is amended—
-    - **(A)** in paragraph (1)—
-      - **(i)** in subparagraph (A)—
-        - **(I)** by striking “in any civil action” and all that follows through “jurisdiction of that action” and inserting “in the civil action”; and
-        - **(II)** by striking “shall award to a prevailing party other than the United States” and inserting the following: “, in any civil action (other than cases sounding in tort), including proceedings for judicial review of agency action, brought by or against the United States in any court having jurisdiction of that action, shall award to a prevailing party who has a direct and personal monetary interest in the civil action, including because of personal injury, property damage, or unpaid agency disbursement, other than the United States,”; and
-      - **(ii)** by adding at the end the following:
-        > - **(E)** An individual or entity may not receive an award of fees and other expenses under this subsection in excess of—
-        >   - **(i)** $200,000 in any single civil action, or
-        >   - **(ii)** for more than 3 civil actions initiated in the same calendar year,
+  - **(2)** in paragraph (1)(C)—
+    - **(A)** by striking “court, in its discretion, may” and inserting “court shall”; and
+    - **(B)** by striking “unduly and unreasonably” and inserting “unduly or unreasonably”;
+  - **(3)** in paragraph (2)—
+    - **(A)** in subparagraph (A)(ii), by striking “$125” and all that follows through the end and inserting “$200 per hour.);”;
+    - **(B)** in subparagraph (B)(ii), by striking “; except that” and all that follows through “section 601 of title 5;” and inserting
+      > except that—
+      > - **(I)** the net worth of a party (other than an individual or a unit of local government) shall include the net worth of any parent entity or subsidiary of that party; and
+      > - **(II)** for purposes of subclause (I)—
+      >   - **(aa)** a parent entity of a party is an entity that owns or controls the equity or other evidences of ownership in that party; and
+      >   - **(bb)** a subsidiary of a party is an entity the equity or other evidences of ownership in which are owned or controlled by that party;
 
-    - **(B)** in paragraph (2)—
-      - **(i)** in subparagraph (A)(ii), by striking “$125 per hour” and all that follows through “a higher fee” and inserting “$175 per hour”; and
-      - **(ii)** in subparagraph (B), by striking “; except that” and all that follows through “section 601”.
-  - **(2)** *Reduction or denial of awards* Section 2412(d)(1)(C) of title 28, United States Code, is amended—
-    - **(A)** by striking “, in its discretion, may reduce the amount to be awarded pursuant to this subsection, or deny an award,” and inserting “shall reduce the amount to be awarded under this subsection, or deny an award, commensurate with pro bono hours and related fees and expenses, or”;
-    - **(B)** by striking “unduly and”; and
-    - **(C)** by striking “controversy.” and inserting “controversy or acted in an obdurate, dilatory, mendacious, or oppressive manner, or in bad faith.”.
-  - **(3)** *Adjustment of attorney fees* Section 2412(d) of title 28, United States Code, is amended by adding at the end the following:
-    > - **(5)** The Director of the Office of Management and Budget may adjust the maximum hourly fee set forth in paragraph (2)(A)(ii) for the fiscal year beginning October 1, 2012, and for each fiscal year thereafter, to reflect changes in the Consumer Price Index, as determined by the Secretary of Labor.
-
-  - **(4)** *Reporting* Section 2412(d) of title 28, United States Code, is further amended by adding at the end the following:
+  - **(4)** by adding at the end the following:
+    > - **(5)** The Director of the Office of Management and Budget shall adjust the maximum hourly fee set forth in paragraph (2)(A)(ii) for the fiscal year beginning October 1, 2012, and for each fiscal year thereafter, to reflect changes in the Consumer Price Index, as determined by the Secretary of Labor.
     > - **(6)**
-    >   - **(A)** The Chairman of the Administrative Conference of the United States shall issue an annual, online report to the Congress on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this subsection. The report shall describe the number, nature, and amount of the awards, the nature of and claims involved in each controversy (including the law under which the controversy arose), and any other relevant information that may aid the Congress in evaluating the scope and impact of such awards. The report shall be made available to the public online and shall contain a searchable database of total awards given and the total number of cases filed, defended, or heard, and shall include with respect to each such case the following:
-    >     - **(i)** The name of the party seeking the award of fees and other expenses in the case.
-    >     - **(ii)** The district court hearing the case.
-    >     - **(iii)** The names of the presiding judges in the case.
-    >     - **(iv)** The agency involved in the case.
-    >     - **(v)** The disposition of the application for fees and other expenses, including any appeal of action taken on the application.
-    >     - **(vi)** The amount of each award.
-    >     - **(vii)** The hourly rates of expert witnesses stated in the application that was awarded.
-    >     - **(viii)** With respect to each award of fees and other expenses, the basis for the finding that the position of the agency concerned was not substantially justified.
+    >   - **(A)** The Chairman of the Administrative Conference of the United States shall report annually to the Congress on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this subsection. The report shall describe the number, nature, and amount of the awards, the claims involved in each controversy, and any other relevant information which may aid the Congress in evaluating the scope and impact of such awards. Each agency shall provide the Chairman with such information as is necessary for the Chairman to comply with the requirements of this paragraph. The report shall be made available to the public online.
     >   - **(B)**
-    >     - **(i)** The report under subparagraph (A) shall cover payments of fees and other expenses under this subsection that are made pursuant to a settlement agreement, regardless of whether the settlement agreement is otherwise subject to nondisclosure provisions.
+    >     - **(i)** The report required by subparagraph (A) shall account for all payments of fees and other expenses awarded under this subsection that are made pursuant to a settlement agreement, regardless of whether the settlement agreement is sealed or otherwise subject to nondisclosure provisions, except that any version of the report made available to the public may not reveal any information the disclosure of which is contrary to the national security of the United States.
     >     - **(ii)** The disclosure of fees and other expenses required under clause (i) does not affect any other information that is subject to nondisclosure provisions in the settlement agreement.
-    >   - **(C)** The Chairman of the Administrative Conference shall include in the annual report under subparagraph (A), for each case in which an award of fees and other expenses is included in the report—
+    >   - **(C)** The Chairman of the Administrative Conference shall include and clearly identify in the annual report under subparagraph (A), for each case in which an award of fees and other expenses is included in the report—
     >     - **(i)** any amounts paid from section 1304 of title 31 for a judgment in the case;
     >     - **(ii)** the amount of the award of fees and other expenses; and
     >     - **(iii)** the statute under which the plaintiff filed suit.
-    >   - **(D)** The Attorney General of the United States shall provide to the Chairman of the Administrative Conference of the United States such information as the Chairman requests to carry out this paragraph.
+    > - **(7)** The Chairman of the Administrative Conference shall create and maintain online a searchable database containing the following information with respect to each award of fees and other expenses under this subsection:
+    >   - **(A)** The name of each party to whom the award was made.
+    >   - **(B)** The name of each counsel of record representing each party to whom the award was made.
+    >   - **(C)** The agency involved in the case.
+    >   - **(D)** The name of each counsel of record representing the agency involved in the case.
+    >   - **(E)** The name of each judge in the case, and the court in which the case was heard.
+    >   - **(F)** The amount of the award.
+    >   - **(G)** The names and hourly rates of each expert witness for whose services the award was made.
+    >   - **(H)** The basis for the finding that the position of the agency concerned was not substantially justified.
+    > - **(8)** The online searchable database described in paragraph (7) may not reveal any information the disclosure of which is prohibited by law or court order, or the disclosure of which is contrary to the national security of the United States.
+    > - **(9)** The Attorney General of the United States shall provide to the Chairman of the Administrative Conference of the United States in a timely manner all information necessary for the Chairman to carry out the Chairman’s responsibilities under this subsection.
 
-- **(c)** *Effective date*
-  - **(1)** *Modifications to procedures* The amendments made by—
-    - **(A)** paragraphs (1), (2), and (3) of subsection (a) shall apply with respect to adversary adjudications commenced on or after the date of the enactment of this Act; and
-    - **(B)** paragraphs (1) and (2) of subsection (b) shall apply with respect to civil actions commenced on or after such date of enactment.
-  - **(2)** *Reporting* The amendments made by paragraphs (4) and (5) of subsection (a) and by paragraphs (3) and (4) of subsection (b) shall take effect on the date of the enactment of this Act.
+- **(c)** *Clerical amendment* Section 2412(e) of title 28, United States Code, is amended by striking “of section 2412 of title 28, United States Code,” and inserting “of this section”.
 
 ## § 3. GAO study
 
-Not later than 30 days after the date of the enactment of this Act, the Comptroller General shall commence an audit of the implementation of the Equal Access to Justice Act for the years 1995 through the end of the calendar year in which this Act is enacted. The Comptroller General shall, not later than 1 year after the end of the calendar year in which this Act is enacted, complete such audit and submit to the Congress a report on the results of the audit.
+Not later than 30 days after the date of the enactment of this Act, the Comptroller General shall commence an audit of the implementation of the Equal Access to Justice Act for the years 1995 through the end of the calendar year in which this Act is enacted. The Comptroller General shall, to the extent practical, not later than 1 year after the end of the calendar year in which this Act is enacted, complete such audit and submit to the Congress a report on the results of the audit.
