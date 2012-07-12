@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2527
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2527
@@ -356,3 +356,14 @@ National Baseball Hall of Fame Commemorative Coin Act
 - 2012-07-12 — Senate amendment agreed to: Amendment SA 2553 agreed to in Senate by Unanimous Consent.
 - 2012-07-12 — Senate amendment proposed (on the floor): Amendment SA 2553 proposed by Senator Reid for Senator Gillibrand.(consideration: CR S4980-4981; text: CR S4980-4981)
 - 2012-07-12 — Senate amendment submitted
+- 2012-07-16 — Message on Senate action sent to the House.
+- 2012-07-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-19 — Mr. Huizenga (MI) asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H5072-5073)
+- 2012-07-19 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H5072-5073)
+- 2012-07-19 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H5072-5073)
+- 2012-07-25 — Presented to President.
+- 2012-07-25 — Presented to President.
+- 2012-08-03 — Became Public Law No: 112-152.
+- 2012-08-03 — Became Public Law No: 112-152.
+- 2012-08-03 — Signed by President.
+- 2012-08-03 — Signed by President.

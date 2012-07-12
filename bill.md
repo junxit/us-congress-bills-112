@@ -1,19 +1,17 @@
 ---
 legis-num: H.R. 2527
-congress: 112th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2527
 
-That the bill from the House of Representatives (H.R. 2527) entitled “An Act to require the Secretary of the Treasury to mint coins in recognition and celebration of the National Baseball Hall of Fame.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To require the Secretary of the Treasury to mint coins in recognition and celebration of the National Baseball Hall of Fame.
 
 ## § 1. Short title
 
-This Act may be cited as the ‘National Baseball Hall of Fame Commemorative Coin Act’.
+This Act may be cited as the “National Baseball Hall of Fame Commemorative Coin Act”.
 
 ## § 2. Findings
 
