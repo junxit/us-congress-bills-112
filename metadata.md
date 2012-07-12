@@ -1,7 +1,7 @@
 ---
 measure: S. 1744
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1744
@@ -16,9 +16,11 @@ Guardian Accountability and Senior Protection Act
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ Guardian Accountability and Senior Protection Act
 
 - 2011-10-20 — Introduced in Senate
 - 2011-10-20 — Read twice and referred to the Committee on the Judiciary.
+- 2012-07-12 — Committee on the Judiciary. Ordered to be reported with amendments favorably.
+- 2012-07-12 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2012-07-12 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2012-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 450.

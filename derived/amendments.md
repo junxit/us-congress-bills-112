@@ -1,7 +1,7 @@
 ---
 measure: S. 1744
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | insert | in the matter preceding paragraph (1), by inserting “(including the highest court of each State)” after “with States”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (12), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (13) as paragraph (14); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (12) the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding paragraph (1), by inserting “(including the highest court of each State)” after “with States”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (12), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (13) as paragraph (14); and | the bill names no machine-readable US Code section |
