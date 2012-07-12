@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3902
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3902
@@ -36,3 +36,11 @@ District of Columbia Special Election Reform Act
 - 2012-02-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1085-1086)
 - 2012-02-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1085-1086)
 - 2012-03-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2012-03-12 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.
+- 2012-04-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2012-07-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2012-07-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2012-07-12 — Message on Senate action sent to the House.
+- 2012-07-12 — Passed Senate without amendment by Voice Vote. (consideration: CR S4980)
+- 2012-07-12 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4980)
+- 2012-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 448.
