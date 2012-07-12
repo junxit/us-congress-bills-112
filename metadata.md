@@ -1,7 +1,7 @@
 ---
 measure: S. 1409
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1409
@@ -16,11 +16,12 @@ Improper Payments Elimination and Recovery Improvement Act of 2012
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ Improper Payments Elimination and Recovery Improvement Act of 2012
 
 - 2011-07-22 — Introduced in Senate
 - 2011-07-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2011-10-19 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-07-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 112-181.
+- 2012-07-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 112-181.
+- 2012-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 449.
