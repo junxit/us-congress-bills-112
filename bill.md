@@ -1,31 +1,33 @@
 ---
 legis-num: H.R. 2527
 congress: 112th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2527
 
-> To require the Secretary of the Treasury to mint coins in recognition and celebration of the National Baseball Hall of Fame.
+That the bill from the House of Representatives (H.R. 2527) entitled “An Act to require the Secretary of the Treasury to mint coins in recognition and celebration of the National Baseball Hall of Fame.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “National Baseball Hall of Fame Commemorative Coin Act”.
+This Act may be cited as the ‘National Baseball Hall of Fame Commemorative Coin Act’.
 
 ## § 2. Findings
 
 The Congress finds the following:
 
 - **(1)** On June 12, 1939, the National Baseball Hall of Fame and Museum opened in Cooperstown, New York. Ty Cobb, Walter Johnson, Christy Mathewson, Babe Ruth, and Honus Wagner comprised the inaugural class of inductees. This class set the standard for all future inductees. Since 1939, just one percent of all Major League Baseball players have earned induction into the National Baseball Hall of Fame.
-- **(2)** The National Baseball Hall of Fame and Museum is dedicated to preserving history, honoring excellence, and connecting generations through the rich history of our national pastime. Baseball has mirrored our Nation’s history since the Civil War, and is now an integral part of our Nation’s heritage.
-- **(3)** The National Baseball Hall of Fame and Museum chronicles the history of our national pastime and houses the world’s largest collection of baseball artifacts, including more than 38,000 three dimensional artifacts, 3,000,000 documents, 500,000 photographs, and 12,000 hours of recorded media. This collection ensures that baseball history and its unique connection to American history will be preserved and recounted for future generations.
-- **(4)** Since its opening in 1939, more than 14,000,000 baseball fans have visited the National Baseball Hall of Fame and Museum to learn about the history of our national pastime and the game’s connection to the American experience.
-- **(5)** The National Baseball Hall of Fame and Museum is an educational institution, reaching 10,000,000 Americans annually. Utilizing video conference technology, students and teachers participate in interactive lessons led by educators from the National Baseball Hall of Fame Museum. These award-winning educational programs draw upon the wonders of baseball to reach students in classrooms nationwide. Each educational program uses baseball as a lens for teaching young Americans important lessons on an array of topics, including mathematics, geography, civil rights, women’s history, economics, industrial technology, arts, and communication.
+- **(2)** The National Baseball Hall of Fame and Museum is dedicated to preserving history, honoring excellence, and connecting generations through the rich history of our national pastime. Baseball has mirrored our Nation's history since the Civil War, and is now an integral part of our Nation's heritage.
+- **(3)** The National Baseball Hall of Fame and Museum chronicles the history of our national pastime and houses the world's largest collection of baseball artifacts, including more than 38,000 three dimensional artifacts, 3,000,000 documents, 500,000 photographs, and 12,000 hours of recorded media. This collection ensures that baseball history and its unique connection to American history will be preserved and recounted for future generations.
+- **(4)** Since its opening in 1939, more than 14,000,000 baseball fans have visited the National Baseball Hall of Fame and Museum to learn about the history of our national pastime and the game's connection to the American experience.
+- **(5)** The National Baseball Hall of Fame and Museum is an educational institution, reaching 10,000,000 Americans annually. Utilizing video conference technology, students and teachers participate in interactive lessons led by educators from the National Baseball Hall of Fame Museum. These award-winning educational programs draw upon the wonders of baseball to reach students in classrooms nationwide. Each educational program uses baseball as a lens for teaching young Americans important lessons on an array of topics, including mathematics, geography, civil rights, women's history, economics, industrial technology, arts, and communication.
 
 ## § 3. Coin specifications
 
-- **(a)** *Denominations* In recognition and celebration of the National Baseball Hall of Fame, the Secretary of the Treasury (hereafter in this Act referred to as the Secretary) shall mint and issue the following coins:
+- **(a)** *Denominations* In recognition and celebration of the National Baseball Hall of Fame, the Secretary of the Treasury (hereafter in this Act referred to as the “Secretary”) shall mint and issue the following coins:
   - **(1)** *$5 Gold coins* Not more than 50,000 $5 coins, which shall—
     - **(A)** weigh 8.359 grams;
     - **(B)** have diameter of 0.850 inches; and
@@ -38,46 +40,47 @@ The Congress finds the following:
     - **(A)** weigh 11.34 grams;
     - **(B)** have a diameter of 1.205 inches; and
     - **(C)** be minted to the specifications for half-dollar coins contained in section 5112(b) of title 31, United States Code.
-- **(b)** *Legal Tender* The coins minted under this Act shall be legal tender, as provided in section 5103 of title 31, United States Code.
-- **(c)** *Numismatic Items* For purposes of sections 5134 and 5136 of title 31, United States Code, all coins minted under this Act shall be considered to be numismatic items.
+- **(b)** *Legal tender* The coins minted under this Act shall be legal tender, as provided in section 5103 of title 31, United States Code.
+- **(c)** *Numismatic items* For purposes of sections 5134 and 5136 of title 31, United States Code, all coins minted under this Act shall be considered to be numismatic items.
 - **(d)** *Sense of Congress* It is the sense of Congress that, to the extent possible without significantly adding to the purchase price of the coins, the $1 coins and $5 coins minted under this Act should be produced in a fashion similar to the 2009 International Year of Astronomy coins issued by Monnaie de Paris, the French Mint, so that the reverse of the coin is convex to more closely resemble a baseball and the obverse concave, providing a more dramatic display of the obverse design chosen pursuant to section 4(c).
 
 ## § 4. Design of coins
 
-- **(a)** *Design Requirements*
-  - **(1)** *In general* The design of the coins minted under this Act shall be emblematic of the game of baseball.
-  - **(2)** *Designations and inscriptions* On each coin minted under this Act there shall be—
-    - **(A)** a designation of the value of the coin;
-    - **(B)** an inscription of the year “2015”; and
-    - **(C)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
-- **(b)** *Selection* The design for the coins minted under this Act shall be—
-  - **(1)** selected by the Secretary after consultation with the National Baseball Hall of Fame and the Commission of Fine Arts and in accordance with subparagraph (c); and
-  - **(2)** reviewed by the Citizens Coinage Advisory Committee.
-- **(c)** *Obverse Design Competition* The Secretary shall hold a competition and provide compensation for its winner to design the common obverse of the coins minted under this Act, with such design being emblematic of the game of baseball. The competition shall be held in the following manner:
-  - **(1)** The competition shall be judged by an expert jury chaired by the Secretary and consisting of 3 members from the Citizens Coinage Advisory Committee who shall be elected by such Committee and 3 members from the Commission of Fine Arts who shall be elected by such Commission.
-  - **(2)** The Secretary shall determine compensation for the winning design, which shall be not less than $5,000.
-  - **(3)** The Secretary may not accept a design for the competition unless a plaster model accompanies the design.
-- **(d)** *Reverse Design* The design on the common reverse of the coins minted under this Act shall depict a baseball similar to those used by Major League Baseball.
+- **(a)** *In general* The design for the coins minted under this Act shall be—
+  - **(1)** selected by the Secretary after consultation with—
+    - **(A)** the National Baseball Hall of Fame;
+    - **(B)** the Commission of Fine Arts; and
+  - **(2)** reviewed by the Citizens Commemorative Coin Advisory Committee.
+- **(b)** *Designations and inscriptions* On each coin minted under this Act there shall be—
+  - **(1)** a designation of the value of the coin;
+  - **(2)** an inscription of the year “2014”; and
+  - **(3)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
+- **(c)** *Selection and approval process for obverse design*
+  - **(1)** *In general* The Secretary shall hold a competition to determine the design of the common obverse of the coins minted under this Act, with such design being emblematic of the game of baseball.
+  - **(2)** *Selection and approval* Proposals for the design of coins minted under this Act may be submitted in accordance with the design selection and approval process developed by the Secretary in the sole discretion of the Secretary. The Secretary shall encourage 3-dimensional models to be submitted as part of the design proposals.
+  - **(3)** *Proposals* As part of the competition described in this subsection, the Secretary may accept proposals from artists, engravers of the United States Mint, and members of the general public.
+  - **(4)** *Compensation* The Secretary shall determine compensation for the winning design under this subsection, which shall be not less than $5,000. The Secretary shall take into account this compensation amount when determining the sale price described in section 6(a).
+- **(d)** *Reverse design* The design on the common reverse of the coins minted under this Act shall depict a baseball similar to those used by Major League Baseball.
 
 ## § 5. Issuance of coins
 
-- **(a)** *Quality of Coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
-- **(b)** *Period for Issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2015.
+- **(a)** *Quality of coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
+- **(b)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2014.
 
 ## § 6. Sale of coins
 
-- **(a)** *Sale Price* The coins issued under this Act shall be sold by the Secretary at a price equal to the sum of—
+- **(a)** *Sale price* The coins issued under this Act shall be sold by the Secretary at a price equal to the sum of—
   - **(1)** the face value of the coins;
   - **(2)** the surcharge provided in section 7(a) with respect to such coins; and
-  - **(3)** the cost of designing and issuing the coins (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping).
-- **(b)** *Bulk Sales* The Secretary shall make bulk sales of the coins issued under this Act at a reasonable discount.
-- **(c)** *Prepaid Orders*
+  - **(3)** the cost of designing and issuing the coins (including labor, materials, dies, use of machinery, winning design compensation, overhead expenses, marketing, and shipping).
+- **(b)** *Bulk sales* The Secretary shall make bulk sales of the coins issued under this Act at a reasonable discount.
+- **(c)** *Prepaid orders*
   - **(1)** *In general* The Secretary shall accept prepaid orders for the coins minted under this Act before the issuance of such coins.
   - **(2)** *Discount* Sale prices with respect to prepaid orders under paragraph (1) shall be at a reasonable discount.
 
 ## § 7. Surcharges
 
-- **(a)** *In General* All sales of coins minted under this Act shall include a surcharge as follows:
+- **(a)** *In general* All sales of coins minted under this Act shall include a surcharge as follows:
   - **(1)** A surcharge of $35 per coin for the $5 coin.
   - **(2)** A surcharge of $10 per coin for the $1 coin.
   - **(3)** A surcharge of $5 per coin for the half-dollar coin.
@@ -85,6 +88,13 @@ The Congress finds the following:
 - **(c)** *Audits* The National Baseball Hall of Fame shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
 - **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
 
-## § 8. Budget compliance
+## § 8. Financial assurances
 
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled Budgetary Effects of PAYGO Legislation for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
+The Secretary shall take such actions as may be necessary to ensure that—
+
+- **(1)** minting and issuing coins under this Act will not result in any net cost to the United States Government; and
+- **(2)** no funds, including applicable surcharges, are disbursed to any recipient designated in section 7 until the total cost of designing and issuing all of the coins authorized by this Act (including labor, materials, dies, use of machinery, winning design compensation, overhead expenses, marketing, and shipping) is recovered by the United States Treasury, consistent with sections 5112(m) and 5134(f) of title 31, United States Code.
+
+## § 9. Budget compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.

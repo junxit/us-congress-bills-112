@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2527
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2527
@@ -16,7 +16,7 @@ National Baseball Hall of Fame Commemorative Coin Act
 
 - Rep. Hanna, Richard L. [R-NY-24] (H001051)
 
-## Cosponsors (296)
+## Cosponsors (299)
 
 - Rep. Barton, Joe [R-TX-6] (B000213)
 - Rep. Doyle, Michael F. [D-PA-14] (D000482)
@@ -314,6 +314,9 @@ National Baseball Hall of Fame Commemorative Coin Act
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Camp, Dave [R-MI-4] (C000071)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (3)
 
@@ -343,3 +346,13 @@ National Baseball Hall of Fame Commemorative Coin Act
 - 2011-10-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 3 (Roll no. 812). (text: CR 10/25/2011 H7030-7031)
 - 2011-10-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 3 (Roll no. 812).(text: CR 10/25/2011 H7030-7031)
 - 2011-10-31 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2012-07-12 — Amendment SA 2553 agreed to in Senate by Unanimous Consent.
+- 2012-07-12 — Amendment SA 2553 proposed by Senator Reid for Senator Gillibrand. (consideration: CR S4980-4981; text: CR S4980-4981) In the nature of a substitute.
+- 2012-07-12 — Measure laid before Senate by unanimous consent. (consideration: CR S4980-4981)
+- 2012-07-12 — Passed Senate with an amendment by Unanimous Consent.
+- 2012-07-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2012-07-12 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2012-07-12 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2012-07-12 — Senate amendment agreed to: Amendment SA 2553 agreed to in Senate by Unanimous Consent.
+- 2012-07-12 — Senate amendment proposed (on the floor): Amendment SA 2553 proposed by Senator Reid for Senator Gillibrand.(consideration: CR S4980-4981; text: CR S4980-4981)
+- 2012-07-12 — Senate amendment submitted
