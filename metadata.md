@@ -1,7 +1,7 @@
 ---
 measure: S. 2218
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2218
@@ -31,3 +31,7 @@ United States Fire Administration Reauthorization Act of 2012
 
 - 2012-03-21 — Introduced in Senate
 - 2012-03-21 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2012-05-16 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2012-07-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 112-180.
+- 2012-07-12 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 112-180.
+- 2012-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 447.
