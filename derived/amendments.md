@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3902
 congress: 112
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 

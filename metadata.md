@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3902
 congress: 112
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3902
@@ -44,3 +44,11 @@ District of Columbia Special Election Reform Act
 - 2012-07-12 — Passed Senate without amendment by Voice Vote. (consideration: CR S4980)
 - 2012-07-12 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4980)
 - 2012-07-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 448.
+- 2012-07-16 — By Senator Lieberman from Committee on Homeland Security and Governmental Affairs filed written report. Report No. 112-186.
+- 2012-07-16 — By Senator Lieberman from Committee on Homeland Security and Governmental Affairs filed written report. Report No. 112-186.
+- 2012-07-16 — Presented to President.
+- 2012-07-16 — Presented to President.
+- 2012-07-18 — Became Public Law No: 112-145.
+- 2012-07-18 — Became Public Law No: 112-145.
+- 2012-07-18 — Signed by President.
+- 2012-07-18 — Signed by President.
