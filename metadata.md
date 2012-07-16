@@ -1,7 +1,7 @@
 ---
 measure: S. 2018
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2018
@@ -30,3 +30,7 @@ Long Island Sound Restoration and Stewardship Act
 
 - 2011-12-16 — Introduced in Senate
 - 2011-12-16 — Read twice and referred to the Committee on Environment and Public Works.
+- 2012-06-21 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2012-07-16 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-184.
+- 2012-07-16 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-184.
+- 2012-07-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 453.
