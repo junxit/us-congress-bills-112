@@ -1,7 +1,7 @@
 ---
 measure: S. 3264
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3264
@@ -28,3 +28,7 @@ A bill to amend the Federal Water Pollution Control Act to reauthorize the Lake 
 
 - 2012-06-05 — Introduced in Senate
 - 2012-06-05 — Read twice and referred to the Committee on Environment and Public Works.
+- 2012-06-21 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2012-07-16 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-185.
+- 2012-07-16 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-185.
+- 2012-07-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 454.
