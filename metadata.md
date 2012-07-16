@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4402
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4402
@@ -46,10 +46,11 @@ National Strategic and Critical Minerals Production Act of 2012
 - Rep. Stivers, Steve [R-OH-15] (S001187)
 - Rep. McClintock, Tom [R-CA-4] (M001177)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (7)
 
@@ -156,3 +157,4 @@ National Strategic and Critical Minerals Production Act of 2012
 - 2012-07-12 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4853)
 - 2012-07-12 — The previous question was ordered pursuant to the rule. (consideration: CR H4852)
 - 2012-07-12 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2012-07-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
