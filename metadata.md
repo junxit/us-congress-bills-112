@@ -1,7 +1,7 @@
 ---
 measure: S. 1266
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1266
@@ -33,3 +33,8 @@ Delaware River Basin Conservation Act of 2011
 
 - 2011-06-23 — Introduced in Senate
 - 2011-06-23 — Read twice and referred to the Committee on Environment and Public Works.
+- 2011-12-08 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-04-24 — Committee on Environment and Public Works Senate Subcommittee on Water and Wildlife. Hearings held. With printed Hearing: S.Hrg. 112-968.
+- 2012-07-16 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 112-183.
+- 2012-07-16 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. With written report No. 112-183.
+- 2012-07-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 452.
