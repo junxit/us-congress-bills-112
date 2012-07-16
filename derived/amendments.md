@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6079
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 

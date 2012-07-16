@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6079
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6079
@@ -231,3 +231,5 @@ Repeal of Obamacare Act
 - 2012-07-11 — Passed/agreed to in House: On passage Passed by recorded vote: 244 - 185 (Roll no. 460).
 - 2012-07-11 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4807)
 - 2012-07-11 — The previous question was ordered pursuant to the rule. (consideration: CR H4806)
+- 2012-07-12 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-07-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 451.
