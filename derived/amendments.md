@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4377
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | insert | Part I of chapter 5 of title 5, United States Code, is amended by inserting after subchapter II the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of chapters for chapter 5 of title 5, United States Code, is amended by inserting after the item relating to subchapter II the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for chapter 5 of title 5, United States Code, is amended by inserting after the item relating to subchapter II the following: | the bill names no machine-readable US Code section |
