@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4400
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4400
@@ -39,3 +39,11 @@ To designate the Salt Pond Visitor Center at Cape Cod National Seashore as the "
 - 2012-04-19 — Introduced in House
 - 2012-04-19 — Referred to the House Committee on Natural Resources.
 - 2012-04-19 — Sponsor introductory remarks on measure. (CR E586-587)
+- 2012-04-24 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2012-05-17 — Subcommittee Hearings Held.
+- 2012-06-07 — Committee Consideration and Mark-up Session Held.
+- 2012-06-07 — Ordered to be Reported by Unanimous Consent.
+- 2012-06-07 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-07-17 — Placed on the House Calendar, Calendar No. 147.
+- 2012-07-17 — Reported by the Committee on Natural Resources. H. Rept. 112-598.
+- 2012-07-17 — Reported by the Committee on Natural Resources. H. Rept. 112-598.
