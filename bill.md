@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3404
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,10 +15,10 @@ There shall be in the Department of the Interior—
 
 - **(1)** an Under Secretary for Energy, Lands, and Minerals, who shall—
   - **(A)** be appointed by the President, by and with the advise and consent of the Senate;
-  - **(B)** report to the Secretary of the Interior;
+  - **(B)** report to the Secretary of the Interior, or to the Deputy Secretary of the Interior if ordered by the Secretary;
   - **(C)** be paid at the rate payable for level III of the Executive Schedule; and
   - **(D)** be responsible for—
-    - **(i)** the safe and responsible development of our energy and mineral resources on Federal lands in appropriate accordance with United States energy demands; and
+    - **(i)** the safe and responsible development of our energy and mineral resources on Federal lands in appropriate accordance with United States energy demands, including administration of the Office of Surface Mining and the Bureau of Land Management as separate, independent agencies of the Department under the Assistant Secretary of Land and Minerals Management; and
     - **(ii)** ensuring multiple-use missions of the Department of the Interior that promote the safe and sustained development of energy and minerals resources on public lands (as that term is defined in the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.));
 - **(2)** an Assistant Secretary of Ocean Energy and Safety, who shall—
   - **(A)** be appointed by the President, by and with the advise and consent of the Senate;
@@ -44,8 +44,9 @@ There shall be in the Department of the Interior—
   - **(2)** *Specific authorities* The Director shall promulgate and implement regulations—
     - **(A)** for the proper issuance of leases for the exploration, development, and production of nonrenewable and renewable energy and mineral resources on the Outer Continental Shelf;
     - **(B)** relating to resource identification, access, evaluation, and utilization;
-    - **(C)** for development of leasing plans, lease sales, and issuance of leases for such resources; and
-    - **(D)** regarding issuance of environmental impact statements related to leasing and post leasing activities including exploration, development, and production, and the use of third party contracting for necessary environmental analysis for the development of such resources.
+    - **(C)** for development of leasing plans, lease sales, and issuance of leases for such resources;
+    - **(D)** regarding issuance of environmental impact statements related to leasing and post leasing activities including exploration, development, and production, and the use of third party contracting for necessary environmental analysis for the development of such resources; and
+    - **(E)** for the processing of exploration plans and development plans.
   - **(3)** *Limitation* The Secretary shall not carry out through the Bureau any function, power, or duty that is—
     - **(A)** required by section 3 to be carried out through the Ocean Energy Safety Service; or
     - **(B)** required by section 4 to be carried out through the Office of Natural Resources Revenue.
@@ -72,7 +73,7 @@ There shall be in the Department of the Interior—
     - **(H)** summoning witnesses and directing the production of evidence;
     - **(I)** levying fines and penalties and disqualifying operators;
     - **(J)** carrying out any safety, response, and removal preparedness functions; and
-    - **(K)** the processing of permits, exploration plans, development plans.
+    - **(K)** the processing of permits.
 - **(d)** *Employees*
   - **(1)** *In general* The Secretary shall ensure that the inspection force of the Bureau consists of qualified, trained employees who meet qualification requirements and adhere to the highest professional and ethical standards.
   - **(2)** *Qualifications* The qualification requirements referred to in paragraph (1)—
@@ -85,16 +86,15 @@ There shall be in the Department of the Interior—
   - **(5)** *Language requirements* Individuals hired as inspectors must be able to read, speak, and write English well enough to—
     - **(A)** carry out written and oral instructions regarding the proper performance of inspection duties; and
     - **(B)** write inspection reports and statements and log entries in the English language.
-  - **(6)** *Veterans preference* The Director shall provide a preference for the hiring of an individual as a inspection officer if the individual is a member or former member of the armed forces and is entitled, under statute, to retired, retirement, or retainer pay on account of service as a member of the armed forces.
-  - **(7)** *Annual proficiency review*
+  - **(6)** *Annual proficiency review*
     - **(A)** *Annual proficiency review* The Director shall provide that an annual evaluation of each individual assigned inspection duties is conducted and documented.
     - **(B)** *Continuation of employment* An individual employed as an inspector may not continue to be employed in that capacity unless the evaluation demonstrates that the individual—
       - **(i)** continues to meet all qualifications and standards;
       - **(ii)** has a satisfactory record of performance and attention to duty based on the standards and requirements in the inspection program; and
       - **(iii)** demonstrates the current knowledge and skills necessary to courteously, vigilantly, and effectively perform Inspection functions.
-  - **(8)** *Limitation on right to strike* Any individual that conducts permitting or inspections under this section may not participate in a strike, or assert the right to strike.
-  - **(9)** *Personnel authority* Notwithstanding any other provision of law, the Director may employ, appoint, discipline and terminate for cause, and fix the compensation, terms, and conditions of employment of Federal service for individuals as the employees of the Service in order to restore and maintain the trust of the people of the United States in the accountability of the management of our Nation’s energy safety program.
-  - **(10)** *Training Academy*
+  - **(7)** *Limitation on right to strike* Any individual that conducts permitting or inspections under this section may not participate in a strike, or assert the right to strike.
+  - **(8)** *Personnel authority* Notwithstanding any other provision of law, the Director may employ, appoint, discipline and terminate for cause, and fix the compensation, terms, and conditions of employment of Federal service for individuals as the employees of the Service in order to restore and maintain the trust of the people of the United States in the accountability of the management of our Nation’s energy safety program.
+  - **(9)** *Training Academy*
     - **(A)** *In general* The Secretary shall establish and maintain a National Offshore Energy Health and Safety Academy (referred to in this paragraph as the Academy) as an agency of the Ocean Energy Safety Service.
     - **(B)** *Functions of Academy* The Secretary, through the Academy, shall be responsible for—
       - **(i)** the initial and continued training of both newly hired and experienced offshore oil and gas inspectors in all aspects of health, safety, environmental, and operational inspections;
@@ -104,8 +104,8 @@ There shall be in the Department of the Interior—
     - **(C)** *Cooperative agreements*
       - **(i)** *In general* In performing functions under this paragraph, and subject to clause (ii), the Secretary may enter into cooperative educational and training agreements with educational institutions, related Federal academies, other Federal agencies, State governments, safety training firms, and oil and gas operators and related industries.
       - **(ii)** *Training requirement* Such training shall be conducted by the Academy in accordance with curriculum needs and assignment of instructional personnel established by the Secretary.
-  - **(11)** *Use of Department personnel* In performing functions under this subsection, the Secretary shall use, to the extent practicable, the facilities and personnel of the Department of the Interior. The Secretary may appoint or assign to the Academy such officers and employees as the Secretary considers necessary for the performance of the duties and functions of the Academy.
-  - **(12)** *Additional training programs*
+  - **(10)** *Use of Department personnel* In performing functions under this subsection, the Secretary shall use, to the extent practicable, the facilities and personnel of the Department of the Interior. The Secretary may appoint or assign to the Academy such officers and employees as the Secretary considers necessary for the performance of the duties and functions of the Academy.
+  - **(11)** *Additional training programs*
     - **(A)** *In general* The Secretary shall work with appropriate educational institutions, operators, and representatives of oil and gas workers to develop and maintain adequate programs with educational institutions and oil and gas operators that are designed—
       - **(i)** to enable persons to qualify for positions in the administration of this Act; and
       - **(ii)** to provide for the continuing education of inspectors or other appropriate Department of the Interior personnel.
@@ -148,7 +148,7 @@ There shall be in the Department of the Interior—
 ## § 7. Conforming amendments to Executive Schedule pay rates
 
 - **(a)** *Under Secretary for Energy, Lands, and Minerals* Section 5314 of title 5, United States Code, is amended by inserting after the item relating to “Under Secretaries of the Treasury (3)” the following:
-- **(b)** *Assistant Secretaries* Section 5315 of title 5, United States Code, is amended by striking “Assistant Secretaries, Department of the Interior (6)” and inserting the following:
+- **(b)** *Assistant Secretaries* Section 5315 of title 5, United States Code, is amended by striking “Assistant Secretaries of the Interior (6).” and inserting the following:
 - **(c)** *Directors* Section 5316 of title 5, United States Code, is amended by striking “Director, Bureau of Mines, Department of the Interior.” and inserting the following new items:
 
 ## § 8. Outer Continental Shelf Energy Safety Advisory Board
@@ -170,3 +170,7 @@ There shall be in the Department of the Interior—
   - **(2)** as appropriate, recommends modifications to the regulations issued under this Act to ensure adequate protection of safety and the environment, including recommendations on how to reduce regulations and administrative actions that are duplicative or unnecessary.
 - **(f)** *Reports* Reports of the Board shall be submitted by the Board to the Committee on Natural Resources of the House or Representatives and the Committee on Energy and Natural Resources of the Senate and made available to the public in electronically accessible form.
 - **(g)** *Travel expenses* Members of the Board, other than full-time employees of the Federal Government, while attending meeting of the Board or while otherwise serving at the request of the Secretary or the Director while serving away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, United States Code, for individuals in the Government serving without pay.
+
+## § 9. Veterans preference
+
+Consistent with existing law, the Under Secretary for Energy, Lands, and Minerals shall, in administering the programs and authorities referenced under this Act, provide a hiring preference to eligible members listed under section 2108 of title 5, United States Code.

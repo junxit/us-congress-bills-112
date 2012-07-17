@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3404
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | insert | Section 5314 of title 5, United States Code, is amended by inserting after the item relating to “Under Secretaries of the Treasury (3)” the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 5315 of title 5, United States Code, is amended by striking “Assistant Secretaries, Department of the Interior (6)” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 5315 of title 5, United States Code, is amended by striking “Assistant Secretaries of the Interior (6).” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 5316 of title 5, United States Code, is amended by striking “Director, Bureau of Mines, Department of the Interior.” and inserting the following new items: | the bill names no machine-readable US Code section |
