@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2489
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -37,6 +37,6 @@ complete account of the bill's effect, which it is not.
 | — | insert | In paragraph (3), by inserting “an eligible site or” after “acquire”. | the bill names no machine-readable US Code section |
 | — | insert | In paragraph (4), by inserting “an eligible site or” after “acquiring”. | the bill names no machine-readable US Code section |
 | — | replace | In paragraph (5), by striking “An” and inserting “An eligible site or an”. | the bill names no machine-readable US Code section |
-| — | redesignate | By redesignating paragraph (6) as paragraph (8). | the bill names no machine-readable US Code section |
+| — | redesignate | By redesignating paragraph (6) as paragraph (9). | the bill names no machine-readable US Code section |
 | — | insert | By inserting after paragraph (5) the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | redesignate | By striking paragraph (8) (as redesignated by paragraph (6)) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | In paragraph (9) (as redesignated by paragraph (6)), by striking “2013” and inserting “2017”. | the bill names no machine-readable US Code section |
