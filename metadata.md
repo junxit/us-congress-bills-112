@@ -1,7 +1,7 @@
 ---
 measure: S. 1959
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1959
@@ -63,3 +63,13 @@ Haqqani Network Terrorist Designation Act of 2012
 - 2012-07-17 — Mr. Griffin (AR) moved to suspend the rules and pass the bill, as amended.
 - 2012-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4873)
 - 2012-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4873)
+- 2012-07-18 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2012-07-26 — Resolving differences -- Senate actions: Senate agreed to House amendment by Voice Vote.(consideration: CR S5624-5625; text as Senate agreed to House amendment: CR S5624-5625)
+- 2012-07-26 — Senate agreed to House amendment by Voice Vote. (consideration: CR S5624-5625; text as Senate agreed to House amendment: CR S5624-5625)
+- 2012-07-27 — Message on Senate action sent to the House.
+- 2012-08-02 — Presented to President.
+- 2012-08-02 — Presented to President.
+- 2012-08-10 — Became Public Law No: 112-168.
+- 2012-08-10 — Became Public Law No: 112-168.
+- 2012-08-10 — Signed by President.
+- 2012-08-10 — Signed by President.
