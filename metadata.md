@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3397
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3397
@@ -16,9 +16,11 @@ Cabin Fee Act of 2012
 
 - Rep. Hastings, Doc [R-WA-4] (H000329)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Rehberg, Denny [R-MT-At Large] (R000571)
+- Rep. Hunter, Duncan D. [R-CA-52] (H001048)
 
 ## Committees (1)
 
@@ -29,3 +31,8 @@ Cabin Fee Act of 2012
 - 2011-11-10 — Introduced in House
 - 2011-11-10 — Introduced in House
 - 2011-11-10 — Referred to the House Committee on Natural Resources.
+- 2011-11-17 — Committee Consideration and Mark-up Session Held.
+- 2011-11-17 — Ordered to be Reported by Unanimous Consent.
+- 2012-07-17 — Placed on the Union Calendar, Calendar No. 437.
+- 2012-07-17 — Reported by the Committee on Natural Resources. H. Rept. 112-602.
+- 2012-07-17 — Reported by the Committee on Natural Resources. H. Rept. 112-602.
