@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3706
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -16,7 +16,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** *Acting chief financial officer* If a Chief Financial Officer has not been appointed under paragraph (1) within 180 days after the date of the enactment of this Act, the Virgin Islands Chief Financial Officer Search Commission, by majority vote, shall appoint from the names on the list submitted under section 2(d), an Acting Chief Financial Officer to serve in that capacity until a Chief Financial Officer is appointed under the first sentence of paragraph (1). In either case, if the Acting Chief Financial Officer serves in an acting capacity for 180 consecutive days, without further action the Acting Chief Financial Officer shall become the Chief Financial Officer.
 - **(b)** *Duties of chief financial officer* The duties of the Chief Financial Officer shall include the following:
   - **(1)** Develop and report on the financial status of the Government of the Virgin Islands not later than 6 months after appointment and quarterly thereafter. Such reports shall be available to the public.
-  - **(2)** Each year certify spending limits of the annual budget and whether or not the annual budget is balanced.
+  - **(2)** Each year prepare and certify spending limits of the annual budget, including annual estimates of all revenues of the territory without regard to sources, and whether or not the annual budget is balanced.
   - **(3)** Revise and update standards for financial management, including inventory and contracting, for the Government of the Virgin Islands in general and for each agency in conjunction with the agency head.
 - **(c)** *Documents provided* The heads of each department of the Government of the Virgin Islands, in particular the head of the Department of Finance of the Virgin Islands and the head of the Internal Revenue Bureau of the Virgin Islands shall provide all documents and information under the jurisdiction of that head that the Chief Financial Officer considers required to carry out his or her functions to the Chief Financial Officer.
 - **(d)** *Conditions related to chief financial officer*
