@@ -1,7 +1,7 @@
 ---
 measure: S. 1959
 congress: 112
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 1959
@@ -56,3 +56,10 @@ Haqqani Network Terrorist Designation Act of 2012
 - 2011-12-17 — Senate amendment submitted
 - 2011-12-19 — Received in the House.
 - 2011-12-19 — Referred to the House Committee on the Judiciary.
+- 2012-01-06 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2012-07-17 — Considered under suspension of the rules. (consideration: CR H4873-4875)
+- 2012-07-17 — DEBATE - The House proceeded with forty minutes of debate on S. 1959.
+- 2012-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-17 — Mr. Griffin (AR) moved to suspend the rules and pass the bill, as amended.
+- 2012-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4873)
+- 2012-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4873)
