@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4073
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4073
@@ -25,3 +25,11 @@ To authorize the Secretary of Agriculture to accept the quitclaim, disclaimer, a
 - 2012-02-17 — Introduced in House
 - 2012-02-17 — Introduced in House
 - 2012-02-17 — Referred to the House Committee on Natural Resources.
+- 2012-02-28 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2012-04-17 — Subcommittee Hearings Held.
+- 2012-06-07 — Committee Consideration and Mark-up Session Held.
+- 2012-06-07 — Ordered to be Reported (Amended).
+- 2012-06-07 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-07-17 — Placed on the Union Calendar, Calendar No. 434.
+- 2012-07-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-599.
+- 2012-07-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-599.
