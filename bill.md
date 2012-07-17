@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1171
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,82 +11,71 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Marine Debris Act Reauthorization Amendments of 2011”.
+This Act may be cited as the “Marine Debris Act Amendments of 2012”.
 
-## § 2. Purposes
+## § 2. References
 
-Section 2 of the Marine Debris Research, Prevention, and Reduction Act (33 U.S.C. 1951) is amended to read as follows:
+Except as otherwise expressly provided, whenever in this Act an amendment is expressed as an amendment to a section or other provision, the reference shall be considered to be made to a section or other provision of the Marine Debris Research, Prevention, and Reduction Act (33 U.S.C. 1951 et seq.), as in effect immediately before the enactment of this Act.
 
-> ## § 2. Purposes
+## § 3. Short title amendment
+
+Section 1 (33 U.S.C. 1951 note) is amended by striking “Research, Prevention, and Reduction”.
+
+## § 4. Purpose
+
+Section 2 (33 U.S.C. 1951) is amended to read as follows:
+
+> ## § 2. Purpose
 >
-> The purposes of this Act are—
->
-> - **(1)** to address the adverse impacts of marine debris to the marine environment, navigation safety, and the economy through investigation and source identification, assessment, reduction, removal, and prevention;
-> - **(2)** to continue the Interagency Marine Debris Coordinating Committee; and
-> - **(3)** to develop and maintain the Federal marine debris information clearinghouse.
+> The purpose of this Act is to address the adverse impacts of marine debris on the United States economy, the marine environment, and navigation safety through identification, determination of sources, assessment, prevention, reduction, and removal of marine debris.
 
-## § 3. NOAA Marine Debris Program
+## § 5. NOAA Marine Debris Program
 
-Section 3 of the Marine Debris Research, Prevention, and Reduction Act (33 U.S.C. 1952) is amended by striking so much as precedes subsection (c) and inserting the following:
+- **(a)** *Name of program*
+  - **(1)** *In general* Section 3 (33 U.S.C. 1952) is amended—
+    - **(A)** in the section heading by striking “prevention and removal”; and
+    - **(B)** in subsection (a)—
+      - **(i)** by striking “Prevention and Removal Program to reduce and prevent” and inserting “Program to identify, determine sources of, assess, prevent, reduce, and remove”; and
+      - **(ii)** by inserting “the economy of the United States,” after “marine debris on”; and
+      - **(iii)** by inserting a comma after “environment”.
+  - **(2)** *Conforming amendment* Paragraph (7) of section 7 (33 U.S.C. 1956) is amended by striking “Prevention and Removal”.
+- **(b)** *Program components* Section 3(b) (33 U.S.C. 1952(b)) is amended to read as follows:
+  > - **(b)** *Program components* The Administrator, acting through the Program and subject to the availability of appropriations, shall—
+  >   - **(1)** identify, determine sources of, assess, prevent, reduce, and remove marine debris, with a focus on marine debris posing a threat to living marine resources and navigation safety;
+  >   - **(2)** provide national and regional coordination to assist States, Indian tribes, and regional organizations in identification, determination of sources, assessment, prevention, reduction, and removal of marine debris;
+  >   - **(3)** undertake efforts to reduce adverse impacts of lost and discarded fishing gear on living marine resources and navigation safety, including—
+  >     - **(A)** research and development of alternatives to gear posing threats to the marine environment, and methods for marking gear used in specific fisheries to enhance the tracking, recovery, and identification of lost and discarded gear; and
+  >     - **(B)** development of effective nonregulatory measures and incentives to cooperatively reduce the volume of lost and discarded fishing gear and to aid in its recovery; and
+  >   - **(4)** undertake outreach and education of the public and other stakeholders on sources of marine debris, threats associated with marine debris, and approaches to identify, determine sources of, assess, prevent, reduce, and remove marine debris and its adverse impacts on the United States economy, the marine environment, and navigational safety, including outreach and education activities through public-private initiatives.
 
-> ## § 3. NOAA Marine Debris Program
->
-> - **(a)** *Establishment of program* There is established, within the National Oceanic and Atmospheric Administration, a Marine Debris Program to—
->   - **(1)** investigate, identify sources of, assess, reduce, remove, and prevent the occurrence of marine debris; and
->   - **(2)** address, and where practicable prevent, adverse impacts of marine debris on the marine environment, navigation safety, and the economy.
-> - **(b)** *Program components*
->   - **(1)** *Investigations and assessment* The Administrator shall, in consultation with relevant Federal agencies, undertake marine debris investigation and assessment efforts, with a focus on marine debris posing a threat to the marine environment, navigation safety, and the economy, including—
->     - **(A)** investigation, analysis, and assessment of derelict fishing gear;
->     - **(B)** investigation, analysis, and assessment of plastics, as pertains to the health of the marine environment;
->     - **(C)** the establishment of a process for maintaining an inventory of marine debris types and their impacts found in the navigable waters of the United States and the United States exclusive economic zone, including impacts on the marine environment, navigation safety, and the economy; and
->     - **(D)** measures to identify the source, location, and projected movement of marine debris within United States navigable waters, the United States exclusive economic zone, and the high seas, including the use of oceanographic, atmospheric, satellite, and remote sensing data.
->   - **(2)** *Prevent, reduce, and remove occurrence and impacts* The Administrator shall improve efforts to prevent, reduce, and remove marine debris, including activities to address the adverse impacts of derelict fishing gear, including—
->     - **(A)** working with other Federal agencies to address land-based sources of marine debris;
->     - **(B)** developing fishing gear modifications or alternatives to conventional fishing gear posing a threat to the marine environment;
->     - **(C)** developing effective nonregulatory measures and incentives to cooperatively reduce the volume of lost and discarded fishing gear and to aid in its recovery; and
->     - **(D)** developing and implementing strategies, methods, priorities, and a plan for preventing and removing marine debris in or likely to enter United States navigable waters or the United States exclusive economic zone, including development of local or regional protocols for removal of derelict fishing gear and other marine debris.
->   - **(3)** *National and regional coordination* The Administrator shall undertake national and regional coordination to assist States, Indian tribes, and regional organizations to address marine debris issues that are particular to their areas, including—
->     - **(A)** facilitating information exchange within and among States and Indian tribes on issues relating to marine debris investigation and assessment, prevention, reduction, and removal activities; and
->     - **(B)** serving as an expert resource to State, tribal, and local governments, nongovernment organizations, fishing communities, industry, and other entities with an interest in marine debris.
->   - **(4)** *Development of tools and products* The Administrator shall develop tools and products to improve efforts to address marine debris, and make these available to researchers, the marine debris community, and the general public. The tools and products may include—
->     - **(A)** best practices;
->     - **(B)** protocols for monitoring marine debris;
->     - **(C)** technology; and
->     - **(D)** reporting methods.
->   - **(5)** *International cooperation* The Administrator, acting through the Marine Debris Program, may lead the development and implementation of a strategy, in coordination with other relevant programs, that may be pursued by the United States with other nations and in appropriate international and regional forums, to promote international action to reduce the incidence of marine debris, including—
->     - **(A)** the adoption of effective marine debris prevention and removal measures in international and regional agreements, including fisheries agreements and maritime agreements;
->     - **(B)** the development of standardized national reporting and information guidelines that will assist in improving information collection and identification and monitoring of marine debris;
->     - **(C)** consistent with the information clearinghouse established under section 6, the promotion of “best practices to address marine debris”;
->     - **(D)** the establishment of public-private partnerships and funding sources for pilot programs that will assist in implementation of marine debris prevention and removal measures in international agreements and guidelines;
->     - **(E)** when appropriate, provision of assistance to the responsible Federal agency in bilateral and multilateral efforts to effectively address marine debris prevention; and
->     - **(F)** actions to implement the relevant recommendations of the National Research Council report entitled ‘Tackling Marine Debris in the 21st Century’ and dated 2008.
+- **(c)** *Grant criteria and guidelines* Section 3(c) (33 U.S.C. 1952(c)) is amended—
+  - **(1)** in paragraph (1), by striking “section 2(1)” and inserting “section 2”;
+  - **(2)** by repealing paragraph (5); and
+  - **(3)** by redesignating paragraphs (6) and (7) as paragraphs (5) and (6).
 
-## § 4. Global Marine Debris Coordination Conference
+## § 6. Progress reports
 
-The Marine Debris Research, Prevention, and Reduction Act (33 U.S.C. 1951 et seq.) is amended by redesignating sections 7, 8, and 9 in order as sections 8, 9, and 10, and by inserting after section 6 the following new section:
+Section 5(c)(2) (33 U.S.C. 1954(c)(2)) is amended—
 
-> ## § 7. Global Marine Debris Coordination Conference
->
-> The Administrator, in coordination with representatives of the domestic and nondomestic marine debris community, shall host a Global Marine Debris Coordination Conference not less often than every four years, beginning in 2015. The Conference shall be developed with a steering committee composed of domestic and nondomestic marine debris experts, led by the Administrator.
+- **(1)** by striking “Annual progress reports.—” and all that follows through “thereafter” and inserting “Biennial progress reports.—Biennially”; and
+- **(2)** by inserting “Natural” before “Resources”.
 
-## § 5. Definition of marine debris
+## § 7. Confidentiality of submitted information
 
-Section 8 of the Marine Debris Research, Prevention, and Reduction Act, as redesignated by section 4 of this Act, is amended—
+Section 6(2) (33 U.S.C. 1955(2)) is amended by striking “by the fishing industry”.
 
-- **(1)** by moving paragraph (3) (relating to the definition of “United States exclusive economic zone”) to appear as the last paragraph of the section;
-- **(2)** by moving paragraph (6) (relating to the definition of “territorial sea”) to appear immediately before such last paragraph, as so moved;
-- **(3)** by amending the paragraphs after paragraph (2) as paragraphs (4) through (10);
-- **(4)** by redesignating paragraph (2) as paragraph (3);
-- **(5)** by inserting after paragraph (1) the following new paragraph:
-  > - **(2)** *Indian tribe* The term “Indian tribe” has the meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+## § 8. Marine debris definition
 
-- **(6)** by inserting after paragraph (3), as so redesignated, the following new paragraph:
-  > - **(4)** *Marine debris* The term “marine debris” means any man-made object that—
-  >   - **(A)** intentionally or unintentionally, is discarded, disposed of, or abandoned; and
-  >   - **(B)** enters the coastal or marine environment—
-  >     - **(i)** directly from a vessel, a facility, or shore; or
-  >     - **(ii)** indirectly, by being carried via a river, stream, or storm drain or by other means.
+Section 7 (33 U.S.C. 1956) is amended—
 
-## § 6. Authorization of appropriations
+- **(1)** by redesignating paragraph (3) as paragraph (9), and moving such paragraph to appear after paragraph (8); and
+- **(2)** by inserting after paragraph (2) the following:
+  > - **(3)** *Marine debris* The term “marine debris” means any persistent solid material that is manufactured or processed and directly or indirectly, and intentionally or unintentionally, disposed of or abandoned into the marine environment or the Great Lakes.
 
-Section 10 of the Marine Debris Research, Prevention, and Reduction Act, as redesignated by section 4 of this Act, is amended by striking “for each fiscal year 2006 through 2010” and inserting “for each of fiscal years 2012 through 2016”.
+## § 9. Authorization of appropriations
+
+Section 9 (33 U.S.C. 1958) is amended—
+
+- **(1)** by striking “are” and inserting “is”;
+- **(2)** by striking “2006 through 2010” and all that follows through “(1)” and inserting “through fiscal year 2015”; and
+- **(3)** in paragraph (1), by striking “$10,000,000” and inserting “$4,900,000”.
