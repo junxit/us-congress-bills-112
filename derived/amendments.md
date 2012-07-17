@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3210
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 0 executed, 11 stated and not applied.
+15 amendatory instructions. 0 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,11 +34,15 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | The Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.) is amended by redesignating section 9 as section 10, and by inserting after section 8 the following: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “that is entered for consumption (as that term is defined in part 141.0a of title 19, Code of Federal Regulations, as in effect on the date of enactment of the Retailers and Entertainers Lacey Implementatio… | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(A)” before “Paragraphs (1)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 5(d) of such Act (16 U.S.C. 3374(d)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | Section 4 of such Act (16 U.S.C. 3373) is amended by redesignating subsection (e) as subsection (f), and by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (4), by striking “Not later than 2 years after the date of enactment of this subsection,” and inserting “Not later than 180 days after the date of enactment of the Retailers and Entertainers Lacey Implementation and Enforcem… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” before “Civil”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, except as provided in paragraphs (2) and (3) of this subsection” before the period at the end; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2)(B), in clause (ii) and in clause (iii), by striking “foreign law” and inserting “foreign law that is directed at the protection, conservation, and management of plants”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3)(B), in clause (ii) and in clause (iii), by striking “foreign law” and inserting “foreign law that is directed at the protection, conservation, and management of plants”. | the bill names no machine-readable US Code section |
+| — | replace | Section 4(a)(1) of such Act (16 U.S.C. 3373(a)(1)) is amended by striking “foreign law” and inserting “foreign law that is directed at the protection, conservation, and management of plants”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking “Not later than two years after the date of enactment of this subsection,” and inserting “Not later than 180 days after the date of enactment of the Retailers and Entertainers Lacey Implementation and Enforc… | the bill names no machine-readable US Code section |
 | — | replace | by striking “Not later than 180 days after the date on which the Secretary completes the review under paragraph (4), the Secretary” and inserting “Not later than 180 days after the date the Secretary completes the review under paragraph … | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” after the semicolon at the end of subparagraph (B); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of subparagraph (C) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |

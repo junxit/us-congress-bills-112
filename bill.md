@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3210
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -46,47 +46,30 @@ Congress finds the following:
     - **(B)** by adding at the end the following:
       > - **(B)**
       >   - **(i)** In the case of a plant product that is derived from a tree, a declaration under paragraph (1) or (2) is not required to include information referred to in subparagraph (A), (B), or (C) of that paragraph unless the plant product is solid wood.
-      >   - **(ii)** The Administrator of the Animal and Plant Health Inspection Service shall issue regulations that define the term solid wood for purposes of this subparagraph
+      >   - **(ii)** The Administrator of the Animal and Plant Health Inspection Service shall issue regulations that define the term solid wood for purposes of this subparagraph.
 
-- **(c)** *Civil forfeitures* Section 5(d) of such Act (16 U.S.C. 3374(d)) is amended to read as follows:
-  > - **(d)** *Civil forfeitures*
-  >   - **(1)** *In general* Except as provided in subsection (d), civil forfeitures under this section shall be governed by chapter 46 of title 18, United States Code.
-  >   - **(2)** *limitation on innocent owner defense not applicable* The limitation set forth in paragraph (4) of section 983(d) of title 18, United States Code, does not apply with respect to—
-  >     - **(A)** any imported plant acquired by a person who satisfies the requirements for treatment as an innocent owner set forth in paragraph (1) and paragraph (2) or (3), as applicable, of such section; and
-  >     - **(B)** any plant or plant product acquired by a person who satisfies such requirements.
+- **(c)** *Application of civil forfeiture laws* Section 5(d) of such Act (16 U.S.C. 3374(d)) is amended—
+  - **(1)** by inserting “(1)” before “Civil”;
+  - **(2)** by inserting “, except as provided in paragraphs (2) and (3) of this subsection” before the period at the end; and
+  - **(3)** by adding at the end the following:
+    > - **(2)** Subsection (d)(4) of section 983 of such chapter, and the second sentence of subsection (a)(1)(F) of such section, shall not apply to plants or plant products.
+    > - **(3)** This section is the sole authority for civil seizure or forfeiture actions alleging, or predicated upon, a violation of section 3.
 
-## § 4. Reduced penalties for certain first offenses
+## § 4. Limitation on application of foreign laws
 
-Section 4 of such Act (16 U.S.C. 3373) is amended by redesignating subsection (e) as subsection (f), and by inserting after subsection (d) the following:
-
-> - **(e)** *Civil penalty for first offenses involving plant*
->   - **(1)** *In general* Notwithstanding subsections (a) and (d), any person who violates subsection (a), (d), or (f) of section 3 with respect to any plant and who in the exercise of due care should know that the plant was taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty, or regulation may, for the first such violation, be assessed a civil penalty by the Secretary of not more than $250.
->   - **(2)** *Other civil penalty provisions apply* Except as provided in paragraph (3), paragraphs (2), (3), (4), (5), and (6) of subsection (a) shall apply with respect to an offense for which a penalty may be assessed under this subsection.
->   - **(3)** *Treatment as single offense* Notwithstanding the second sentence of subsection (a)(4), all violations by a person for which a penalty may be assessed under this subsection that arise from a single act or omission shall be treated as a single offense.
+- **(a)** *Prohibited acts* Section 3(a) of such Act (16 U.S.C. 3372(a)) is amended—
+  - **(1)** in paragraph (2)(B), in clause (ii) and in clause (iii), by striking “foreign law” and inserting “foreign law that is directed at the protection, conservation, and management of plants”; and
+  - **(2)** in paragraph (3)(B), in clause (ii) and in clause (iii), by striking “foreign law” and inserting “foreign law that is directed at the protection, conservation, and management of plants”.
+- **(b)** *Civil penalties* Section 4(a)(1) of such Act (16 U.S.C. 3373(a)(1)) is amended by striking “foreign law” and inserting “foreign law that is directed at the protection, conservation, and management of plants”.
 
 ## § 5. Review and report
 
 Section 3(f) of such Act (16 U.S.C. 3372(f)) is amended—
 
-- **(1)** in paragraph (4), by striking “Not later than 2 years after the date of enactment of this subsection,” and inserting “Not later than 180 days after the date of enactment of the Retailers and Entertainers Lacey Implementation and Enforcement Fairness Act”; and
+- **(1)** in paragraph (4), by striking “Not later than two years after the date of enactment of this subsection,” and inserting “Not later than 180 days after the date of enactment of the Retailers and Entertainers Lacey Implementation and Enforcement Fairness Act,”; and
 - **(2)** in paragraph (5)—
   - **(A)** by striking “Not later than 180 days after the date on which the Secretary completes the review under paragraph (4), the Secretary” and inserting “Not later than 180 days after the date the Secretary completes the review under paragraph (4), the Director of the United States Fish and Wildlife Service”;
   - **(B)** by striking “and” after the semicolon at the end of subparagraph (B);
   - **(C)** by striking the period at the end of subparagraph (C) and inserting “; and”; and
   - **(D)** by adding at the end the following:
     > - **(D)** an evaluation of the feasibility of creating and maintaining a publicly available database of laws of foreign countries from which plants are exported.
-
-## § 6. Funding for implementation of plant declaration requirement
-
-The head of each Federal agency responsible for implementing the Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.) shall, from amounts otherwise available, allocate sufficient amounts to implement section 3(f) of the Lacey Act Amendments of 1981 (16 U.S.C. 3372(f)), including for processing of all declarations filed under that section.
-
-## § 7. Standard certification process for plants and plant products
-
-The Director of the United States Fish and Wildlife Service, the Administrator of the Animal and Plant Health Inspection Service, and the head of each other Federal agency responsible for implementing the Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.) shall issue regulations to establish a standard certification process under that Act for plant and plant products (as those terms are used in that Act) legally harvested, imported, or manufactured after May 22, 2008, that considers individual item certification and individual manufacturer, importer, and retailer certification for purposes of sale and resale.
-
-## § 8. Federal Trade Commission review
-
-Not later than 180 days after the date of the enactment of this Act, the Federal Trade Commission shall—
-
-- **(1)** conduct a review of competitiveness in the domestic market for raw materials for the manufacture of musical instruments and the impact of the amendments made by this Act to the Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.) on such competitiveness; and
-- **(2)** submit to Congress a report containing the results of the review.
