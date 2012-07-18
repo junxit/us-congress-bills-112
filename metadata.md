@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6018
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6018
@@ -16,9 +16,10 @@ Foreign Relations Authorization Act, Fiscal Year 2013
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -39,3 +40,4 @@ Foreign Relations Authorization Act, Fiscal Year 2013
 - 2012-07-17 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
 - 2012-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 61 (Roll no. 469). (text: CR H4875-4883)
 - 2012-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 61 (Roll no. 469).(text: CR H4875-4883)
+- 2012-07-18 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
