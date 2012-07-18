@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1627
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1627
@@ -59,3 +59,18 @@ Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012
 - 2011-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 330). (text: CR H3310-3311)
 - 2011-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 330).(text: CR H3310-3311)
 - 2011-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2012-07-18 — Amendment SA 2559 agreed to in Senate by Unanimous Consent.
+- 2012-07-18 — Amendment SA 2559 proposed by Senator Reid for Senator Murray. (consideration: CR S5166) In the nature of a substitute.
+- 2012-07-18 — Amendment SA 2560 agreed to in Senate by Unanimous Consent.
+- 2012-07-18 — Amendment SA 2560 proposed by Senator Reid for Senator Murray. (consideration: CR S5167; text: CR S5167) To amend the title.
+- 2012-07-18 — Measure laid before Senate by unanimous consent. (consideration: CR S5154-5167)
+- 2012-07-18 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2012-07-18 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2012-07-18 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2012-07-18 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2012-07-18 — Senate amendment agreed to: Amendment SA 2559 agreed to in Senate by Unanimous Consent.
+- 2012-07-18 — Senate amendment agreed to: Amendment SA 2560 agreed to in Senate by Unanimous Consent.
+- 2012-07-18 — Senate amendment proposed (on the floor): Amendment SA 2559 proposed by Senator Reid for Senator Murray.(consideration: CR S5166)
+- 2012-07-18 — Senate amendment proposed (on the floor): Amendment SA 2560 proposed by Senator Reid for Senator Murray.(consideration: CR S5167; text: CR S5167)
+- 2012-07-18 — Senate amendment submitted
+- 2012-07-18 — Senate amendment submitted
