@@ -1,7 +1,7 @@
 ---
 measure: S. 3326
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
