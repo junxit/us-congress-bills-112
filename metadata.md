@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5872
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5872
@@ -79,6 +79,10 @@ Sequestration Transparency Act of 2012
 
 - House — Budget Committee
 
+## Recorded votes (1)
+
+- 2012-07-18 — [House 112-2-471](votes/house-112-2-0471.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (414–2)
+
 ## Actions
 
 - 2012-05-31 — Introduced in House
@@ -89,3 +93,9 @@ Sequestration Transparency Act of 2012
 - 2012-07-02 — Placed on the Union Calendar, Calendar No. 417.
 - 2012-07-02 — Reported (Amended) by the Committee on Budget. H. Rept. 112-577.
 - 2012-07-02 — Reported (Amended) by the Committee on Budget. H. Rept. 112-577.
+- 2012-07-18 — Considered under suspension of the rules. (consideration: CR H4920-4926)
+- 2012-07-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5872.
+- 2012-07-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-18 — Mr. Ryan (WI) moved to suspend the rules and pass the bill, as amended.
+- 2012-07-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 471). (text: CR H4920)
+- 2012-07-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 471).(text: CR H4920)
