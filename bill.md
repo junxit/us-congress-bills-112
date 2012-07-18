@@ -1,19 +1,17 @@
 ---
 legis-num: H.R. 1627
-congress: 112th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1627
 
-That the bill from the House of Representatives (H.R. 1627) entitled “An Act to amend title 38, United States Code, to provide for certain requirements for the placement of monuments in Arlington National Cemetery, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title 38, United States Code, to furnish hospital care and medical services to veterans who were stationed at Camp Lejeune, North Carolina, while the water was contaminated at Camp Lejeune, to improve the provision of housing assistance to veterans and their families, and for other purposes.
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012”.
+- **(a)** *Short title* This Act may be cited as the “Honoring America’s Veterans and Caring for Camp Lejeune Families Act of 2012”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. References to title 38, United States Code
@@ -22,4 +20,4 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
 
 ## § 3. Scoring of budgetary effects
 
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.

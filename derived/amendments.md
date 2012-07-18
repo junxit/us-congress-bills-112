@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1627
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -63,7 +63,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1729(a)(2)(E) is amended by striking “October 1, 2012” and inserting “October 1, 2013”. | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (2) of section 2101(a) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “to paragraph (3)” and inserting “to paragraphs (3) and (4)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (2) of section 2101(b) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (d) of section 2102 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “$14,000” and inserting “$28,000”; and | the bill names no machine-readable US Code section |
@@ -82,7 +82,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (1), by striking “(A) If the Secretary” and all that follows through “under subparagraph (A).” and inserting the following: “If the Secretary has determined that a property should be leased to another party through an enhanc… | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “Secretary to” and all that follows through “use minor” and inserting “Secretary to use minor”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “(1) Subject to paragraph (2), the” and inserting “The”. | the bill names no machine-readable US Code section |
 | — | amend | Subsection (b) of section 8164 is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -102,20 +102,20 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (1), by striking “, including women who have care of minor dependents”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (3), by striking “or”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (c) as subsection (d); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (b) the following new subsection (c): | the bill names no machine-readable US Code section |
 | — | replace | Section 2013 is amended by striking paragraph (5) and inserting the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | replace | Section 2021(e)(1)(F) is amended by striking “2012” and inserting “2013”. | the bill names no machine-readable US Code section |
-| — | amend | Section 2044(e)(1) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2044(e)(1) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 2061(c)(1) is amended by striking “through 2012” and inserting “through 2013”. | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a)(4), by striking “35,”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | amend | Subchapter III of chapter 33 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter III of chapter 33 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 3324 the following new item: | the bill names no machine-readable US Code section |
 | — | strike | Chapter 30 is amended by striking section 3036. | the bill names no machine-readable US Code section |
 | — | strike | The table of sections at the beginning of such chapter is amended by striking the item relating to section 3036. | the bill names no machine-readable US Code section |
-| — | amend | Section 7105 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 7105 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | by striking “A specific” and inserting “(1) A specific”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, signs a form on behalf of an individual to apply for,” after “who applies for”; | the bill names no machine-readable US Code section |
@@ -175,10 +175,10 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter I of chapter 5 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | amend | The table of sections at the beginning of such chapter is amended by adding after the item relating to section 516 the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 4212(d) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 4212(d) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Secretary may” and inserting | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | amend | The heading of such section is amended by adding at the end the following: “; VetStar Award Program”. | the bill names no machine-readable US Code section |
+| — | add-at-end | The heading of such section is amended by adding at the end the following: “; VetStar Award Program”. | the bill names no machine-readable US Code section |
 | — | replace | The table of sections at the beginning of chapter 5 is amended by striking the item relating to section 532 and inserting the following new item: | the bill names no machine-readable US Code section |
 | — | replace | Section 303(b) of the Servicemembers Civil Relief Act (50 U.S.C. App. 533(b)) is amended by striking “within 9 months” and inserting “within one year”. | the bill names no machine-readable US Code section |
 | — | replace | Section 303(c) of such Act (50 U.S.C. App. 533(c)) is amended by striking “within 9 months” and inserting “within one year”. | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1627
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1627
@@ -74,3 +74,15 @@ Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012
 - 2012-07-18 — Senate amendment proposed (on the floor): Amendment SA 2560 proposed by Senator Reid for Senator Murray.(consideration: CR S5167; text: CR S5167)
 - 2012-07-18 — Senate amendment submitted
 - 2012-07-18 — Senate amendment submitted
+- 2012-07-19 — Message on Senate action sent to the House.
+- 2012-07-31 — DEBATE - The House proceeded with forty minutes of debate on concurring in the Senate amendments to H.R. 1627.
+- 2012-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-31 — Mr. Miller (FL) moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H5416-5432)
+- 2012-07-31 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendments: CR H5416-5428)
+- 2012-07-31 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendments: CR H5416-5428)
+- 2012-08-03 — Presented to President.
+- 2012-08-03 — Presented to President.
+- 2012-08-06 — Became Public Law No: 112-154.
+- 2012-08-06 — Became Public Law No: 112-154.
+- 2012-08-06 — Signed by President.
+- 2012-08-06 — Signed by President.
