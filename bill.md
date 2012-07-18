@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 4240
-congress: 112th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4240
@@ -50,7 +50,7 @@ Subsections (b)(1) and (c) of section 104 of the North Korean Human Rights Act o
 
 ## § 7. Special envoy on North Korean human rights issues
 
-Section 107(d) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7817(d)) by striking “2012” and inserting “2017”.
+Section 107(d) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7817(d)) is amended by striking “2012” and inserting “2017”.
 
 ## § 8. Report on United States humanitarian assistance
 

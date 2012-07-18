@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4240
 congress: 112
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4240
@@ -70,3 +70,12 @@ Ambassador James R. Lilley and Congressman Stephen J. Solarz North Korea Human R
 - 2012-07-18 — Committee on Foreign Relations. Reported by Senator Kerry without amendment. Without written report.
 - 2012-07-18 — Committee on Foreign Relations. Reported by Senator Kerry without amendment. Without written report.
 - 2012-07-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 458.
+- 2012-08-02 — Passed Senate without amendment by Voice Vote. (consideration: CR S6006)
+- 2012-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S6006)
+- 2012-08-03 — Message on Senate action sent to the House.
+- 2012-08-07 — Presented to President.
+- 2012-08-07 — Presented to President.
+- 2012-08-16 — Became Public Law No: 112-172.
+- 2012-08-16 — Became Public Law No: 112-172.
+- 2012-08-16 — Signed by President.
+- 2012-08-16 — Signed by President.
