@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1160
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1160
@@ -60,3 +60,7 @@ McKinney Lake National Fish Hatchery Conveyance Act
 - 2011-10-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 802). (text: CR H6992-6993)
 - 2011-10-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 0 (Roll no. 802).(text: CR H6992-6993)
 - 2011-10-31 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2012-06-21 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2012-07-19 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-190.
+- 2012-07-19 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-190.
+- 2012-07-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 466.
