@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5958
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5958
@@ -16,10 +16,11 @@ To name the Jamaica Bay Wildlife Refuge Visitor Contact Station of the Jamaica B
 
 - Rep. Turner, Robert L. [R-NY-9] (T000471)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. King, Peter T. [R-NY-3] (K000210)
 - Rep. Grimm, Michael G. [R-NY-13] (G000569)
+- Rep. Reed, Tom [R-NY-29] (R000585)
 
 ## Committees (1)
 
@@ -30,3 +31,10 @@ To name the Jamaica Bay Wildlife Refuge Visitor Contact Station of the Jamaica B
 - 2012-06-18 — Introduced in House
 - 2012-06-18 — Introduced in House
 - 2012-06-18 — Referred to the House Committee on Natural Resources.
+- 2012-06-26 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2012-06-28 — Subcommittee Hearings Held.
+- 2012-07-11 — Ordered to be Reported by Unanimous Consent.
+- 2012-07-11 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-07-19 — Placed on the House Calendar, Calendar No. 148.
+- 2012-07-19 — Reported by the Committee on Natural Resources. H. Rept. 112-608.
+- 2012-07-19 — Reported by the Committee on Natural Resources. H. Rept. 112-608.
