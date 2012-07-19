@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3742
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3742
@@ -16,6 +16,13 @@ To designate the United States courthouse located at 100 North Church Street in 
 
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 
+## Cosponsors (4)
+
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+
 ## Committees (1)
 
 - House — Transportation and Infrastructure Committee
@@ -25,3 +32,9 @@ To designate the United States courthouse located at 100 North Church Street in 
 - 2011-12-20 — Introduced in House
 - 2011-12-20 — Introduced in House
 - 2011-12-20 — Referred to the House Committee on Transportation and Infrastructure.
+- 2011-12-21 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2012-06-07 — Committee Consideration and Mark-up Session Held.
+- 2012-06-07 — Ordered to be Reported by Voice Vote.
+- 2012-07-19 — Placed on the House Calendar, Calendar No. 149.
+- 2012-07-19 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-613.
+- 2012-07-19 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-613.

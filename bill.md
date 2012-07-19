@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3742
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,7 +22,7 @@ Congress finds the following:
 - **(7)** He was the first New Mexico governor born in New Mexico after statehood.
 - **(8)** He served four terms as Governor of New Mexico between 1951 and 1962.
 - **(9)** He served as a United States Senator from New Mexico from 1962–1964.
-- **(10)** He was confirmed by the United States Senate as an United States District Judge for the District of New Mexico on October 8, 1970, and served in that position until his death in 2002.
+- **(10)** He was confirmed by the United States Senate as a United States District Judge for the District of New Mexico on October 8, 1970, and served in that position until his death in 2002.
 - **(11)** He led a rich and accomplished life dedicated to public service which warrants recognition.
 
 ## § 2. Designation
@@ -31,4 +31,4 @@ The United States courthouse located at 100 North Church Street in Las Cruces, N
 
 ## § 3. References
 
-Any reference in a law, map, regulation, document, paper, or other record of the United States to the United States courthouse referred to in section 1 shall be deemed to be a reference to the “Edwin L. Mechem United States Courthouse”.
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the United States courthouse referred to in section 2 shall be deemed to be a reference to the “Edwin L. Mechem United States Courthouse”.
