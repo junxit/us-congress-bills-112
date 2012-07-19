@@ -1,7 +1,7 @@
 ---
 measure: S. 3276
 congress: 112
-version: Reference Change Senate
+version: Reported to Senate
 ---
 
 # S. 3276
@@ -28,3 +28,7 @@ FAA Sunsets Extension Act of 2012
 - 2012-06-07 — Select Committee on Intelligence. Original measure reported to Senate by Senator Feinstein. With written report No. 112-174. Additional and Minority views filed.
 - 2012-06-07 — Select Committee on Intelligence. Original measure reported to Senate by Senator Feinstein. With written report No. 112-174. Additional and Minority views filed.
 - 2012-06-29 — Referred to the Committee on the Judiciary pursuant to section 3(b) of S.Res. 400 of the 94th Congress, as amended by S.Res. 445 of the 108th Congress, for a period not to exceed 10 session days.
+- 2012-07-19 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-07-19 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2012-07-19 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2012-07-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 463.
