@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6029
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6029
@@ -39,3 +39,8 @@ Foreign and Economic Espionage Penalty Enhancement Act of 2012
 - 2012-06-27 — Introduced in House
 - 2012-06-27 — Introduced in House
 - 2012-06-27 — Referred to the House Committee on the Judiciary.
+- 2012-07-10 — Committee Consideration and Mark-up Session Held.
+- 2012-07-10 — Ordered to be Reported by Voice Vote.
+- 2012-07-19 — Placed on the Union Calendar, Calendar No. 443.
+- 2012-07-19 — Reported by the Committee on Judiciary. H. Rept. 112-610.
+- 2012-07-19 — Reported by the Committee on Judiciary. H. Rept. 112-610.
