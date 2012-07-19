@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5856
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5856
@@ -20,9 +20,520 @@ Department of Defense Appropriations Act, 2013
 
 - House — Appropriations Committee
 
+## Recorded votes (27)
+
+- 2012-07-18 — [House 112-2-472](votes/house-112-2-0472.md) — On Agreeing to the Amendment — **Failed** (166–250)
+- 2012-07-18 — [House 112-2-473](votes/house-112-2-0473.md) — On Agreeing to the Amendment — **Failed** (202–216)
+- 2012-07-18 — [House 112-2-474](votes/house-112-2-0474.md) — On Agreeing to the Amendment — **Failed** (60–359)
+- 2012-07-18 — [House 112-2-475](votes/house-112-2-0475.md) — On Agreeing to the Amendment — **Failed** (145–273)
+- 2012-07-18 — [House 112-2-476](votes/house-112-2-0476.md) — On Agreeing to the Amendment — **Failed** (137–282)
+- 2012-07-18 — [House 112-2-477](votes/house-112-2-0477.md) — On Agreeing to the Amendment — **Failed** (150–268)
+- 2012-07-18 — [House 112-2-478](votes/house-112-2-0478.md) — On Agreeing to the Amendment — **Failed** (186–233)
+- 2012-07-18 — [House 112-2-479](votes/house-112-2-0479.md) — On Agreeing to the Amendment — **Agreed to** (228–191)
+- 2012-07-18 — [House 112-2-480](votes/house-112-2-0480.md) — On Agreeing to the Amendment — **Failed** (149–270)
+- 2012-07-18 — [House 112-2-481](votes/house-112-2-0481.md) — On Agreeing to the Amendment — **Failed** (114–302)
+- 2012-07-18 — [House 112-2-482](votes/house-112-2-0482.md) — On Agreeing to the Amendment — **Failed** (136–283)
+- 2012-07-18 — [House 112-2-483](votes/house-112-2-0483.md) — On Agreeing to the Amendment — **Failed** (106–311)
+- 2012-07-18 — [House 112-2-484](votes/house-112-2-0484.md) — On Agreeing to the Amendment — **Failed** (91–328)
+- 2012-07-18 — [House 112-2-485](votes/house-112-2-0485.md) — On Agreeing to the Amendment — **Failed** (107–312)
+- 2012-07-18 — [House 112-2-486](votes/house-112-2-0486.md) — On Agreeing to the Amendment — **Failed** (182–235)
+- 2012-07-19 — [House 112-2-487](votes/house-112-2-0487.md) — On Agreeing to the Amendment — **Agreed to** (247–166)
+- 2012-07-19 — [House 112-2-488](votes/house-112-2-0488.md) — On Agreeing to the Amendment — **Failed** (87–326)
+- 2012-07-19 — [House 112-2-489](votes/house-112-2-0489.md) — On Agreeing to the Amendment — **Failed** (171–243)
+- 2012-07-19 — [House 112-2-490](votes/house-112-2-0490.md) — On Agreeing to the Amendment — **Agreed to** (407–5)
+- 2012-07-19 — [House 112-2-491](votes/house-112-2-0491.md) — On Agreeing to the Amendment — **Agreed to** (235–178)
+- 2012-07-19 — [House 112-2-492](votes/house-112-2-0492.md) — On Agreeing to the Amendment — **Failed** (123–292)
+- 2012-07-19 — [House 112-2-493](votes/house-112-2-0493.md) — On Agreeing to the Amendment — **Agreed to** (232–183)
+- 2012-07-19 — [House 112-2-494](votes/house-112-2-0494.md) — On Agreeing to the Amendment — **Failed** (137–278)
+- 2012-07-19 — [House 112-2-495](votes/house-112-2-0495.md) — On Agreeing to the Amendment — **Agreed to** (247–167)
+- 2012-07-19 — [House 112-2-496](votes/house-112-2-0496.md) — On Agreeing to the Amendment — **Agreed to** (238–178)
+- 2012-07-19 — [House 112-2-497](votes/house-112-2-0497.md) — On Agreeing to the Amendment — **Agreed to** (399–17)
+- 2012-07-19 — [House 112-2-498](votes/house-112-2-0498.md) — On Passage — **Passed** (326–90)
+
 ## Actions
 
 - 2012-05-25 — Introduced in House
 - 2012-05-25 — Placed on the Union Calendar, Calendar No. 346.
 - 2012-05-25 — The House Committee on Appropriations reported an original measure, H. Rept. 112-493, by Mr. Young (FL).
 - 2012-05-25 — The House Committee on Appropriations reported an original measure, H. Rept. 112-493, by Mr. Young (FL).
+- 2012-07-18 — Amendment (A001) offered by Ms. McCollum. (consideration: CR H4939-4942, H4996-4997; text: CR H4939)
+- 2012-07-18 — Amendment (A002) offered by Mr. Mulvaney. (consideration: CR H4942-4946; text: CR H4942)
+- 2012-07-18 — Amendment (A003) offered by Mr. Kingston. (consideration: CR H4947-4952, H4997-4998; text: CR H4947)
+- 2012-07-18 — Amendment (A004) offered by Mr. Gallegly. (consideration: CR H4953; text: CR H4953)
+- 2012-07-18 — Amendment (A005) offered by Mr. Blumenauer. (consideration: CR H4953-4954; text: CR H4953)
+- 2012-07-18 — Amendment (A006) offered by Mr. Kucinich. (consideration: CR H4954-4955; text: CR H4954)
+- 2012-07-18 — Amendment (A007) offered by Mr. Kucinich. (consideration: CR H4955-4956: text: CR H4955)
+- 2012-07-18 — Amendment (A008) offered by Mr. Hanna. (consideration: CR H4956, H4956: text: CR H4956)
+- 2012-07-18 — Amendment (A009) offered by Mr. Langevin. (consideration: CR H4956-4957; text: CR H4957)
+- 2012-07-18 — Amendment (A010) offered by Mr. Sessions. (consideration: CR H4957-4958; text: CR H4957)
+- 2012-07-18 — Amendment (A011) offered by Mr. Walz (MN). (consideration: CR H4958-4959; text: CR H4958)
+- 2012-07-18 — Amendment (A012) offered by Mr. Higgins. (consideration: CR H4959; text: CR H4959)
+- 2012-07-18 — Amendment (A013) offered by Ms. Bonamici. (consideration: CR H4960-4961; text: CR H4960)
+- 2012-07-18 — Amendment (A014) offered by Mr. Quigley. (consideration: CR H4961-4962, H4998; text: CR H4961)
+- 2012-07-18 — Amendment (A015) offered by Mr. Cohen. (consideration: CR H4962-4963, H4998-4999; text: CR H4962)
+- 2012-07-18 — Amendment (A016) offered by Mr. Pompeo. (consideration: CR H4964-4965, H4999-5000; text: CR H4964)
+- 2012-07-18 — Amendment (A017) offered by Mr. Markey. (consideration: CR H4965-4966, H5000; text: CR H4965)
+- 2012-07-18 — Amendment (A018) offered by Mr. Amash. (consideration: CR H4970-4971, H5000-5001; text: CR H4970)
+- 2012-07-18 — Amendment (A019) offered by Mr. Baca. (consideration: CR H4971; text: CR H4971)
+- 2012-07-18 — Amendment (A020) offered by Mr. Jones. (consideration: CR H4978; text: CR H4978)
+- 2012-07-18 — Amendment (A021) offered by Mr. Poe (TX). (consideration: CR H4979-4980; text: CR H4979)
+- 2012-07-18 — Amendment (A022) offered by Mr. Altmire. (consideration: CR H4980-4981; text: CR H4980)
+- 2012-07-18 — Amendment (A023) offered by Mr. Cicilline. (consideration: CR H4981-4982, H5002; text: CR H1981)
+- 2012-07-18 — Amendment (A024) offered by Mr. Cohen. (consideration: CR H4982-4983, H5001-5002; text: CR H4982)
+- 2012-07-18 — Amendment (A025) offered by Mr. Boswell. (consideration: CR H4983-4984; text: CR H4983)
+- 2012-07-18 — Amendment (A026) offered by Ms. Speier. (consideration: CR H4985-4986; text: CR H4985)
+- 2012-07-18 — Amendment (A027) offered by Ms. Woolsey. (consideration: CR H4988-4989, H5002-5003; text: CR H4988)
+- 2012-07-18 — Amendment (A028) offered by Mr. Markey. (consideration: CR H4989-4990, H5003-5004; text: CR H4989)
+- 2012-07-18 — Amendment (A029) offered by Ms. Woolsey. (consideration: CR H4990, H5004; text: CR H4990)
+- 2012-07-18 — Amendment (A030) offered by Mr. LoBiondo. (consideration: CR H4990-4991; text: CR H4990)
+- 2012-07-18 — Amendment (A031) offered by Mr. Flake. (consideration: CR H4991; text: CR H4991)
+- 2012-07-18 — Amendment (A033) offered by Mr. Wittman. (consideration: CR H4992; text: CR H4992)
+- 2012-07-18 — Amendment (A034) offered by Ms. Woolsey. (consideration: CR H4992-4993, H5004-5005; text: CR H4992)
+- 2012-07-18 — Amendment (A035) offered by Mr. Poe (TX). (consideration: CR H4993; text: CR H4993)
+- 2012-07-18 — Amendment (A036) offered by Mr. Bilbray. (consideration: CR H4993-4994; text: CR H4993)
+- 2012-07-18 — Amendment (A037) offered by Ms. Lee (CA). (consideration: CR H4994-4995, H5005-5006; text: CR H4994)
+- 2012-07-18 — Amendment (A038) offered by Mr. King (IA). (consideration: CR H4995, H5006; text: CR H4995)
+- 2012-07-18 — Amendment agreed to Committee of the Whole
+- 2012-07-18 — Amendment agreed to Committee of the Whole
+- 2012-07-18 — Amendment agreed to Committee of the Whole
+- 2012-07-18 — Amendment agreed to Committee of the Whole
+- 2012-07-18 — Amendment agreed to Committee of the Whole
+- 2012-07-18 — Amendment agreed to Committee of the Whole
+- 2012-07-18 — Amendment agreed to Committee of the Whole
+- 2012-07-18 — Amendment agreed to Committee of the Whole
+- 2012-07-18 — Amendment agreed to Committee of the Whole
+- 2012-07-18 — Amendment agreed to Committee of the Whole
+- 2012-07-18 — Amendment agreed to Committee of the Whole
+- 2012-07-18 — Amendment agreed to Committee of the Whole
+- 2012-07-18 — Amendment agreed to Committee of the Whole
+- 2012-07-18 — Amendment agreed to Committee of the Whole
+- 2012-07-18 — Amendment agreed to Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — Amendment failed in Committee of the Whole
+- 2012-07-18 — By unanimous consent, the Kucinich amendment was withdrawn. (consideration: CR H4956)
+- 2012-07-18 — By unanimous consent, the Poe (TX) amendment was withdrawn. (consideration: CR H4980)
+- 2012-07-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 5856 as unfinished business.
+- 2012-07-18 — Considered under the provisions of rule H. Res. 717. (consideration: CR H4926-5006; text as reported in House of Title I: CR H4938-4947; Title II: CR H4947-4960; Title III: CR H4960-4964; TITLE IV: CR H4964-4966; Title V: CR H4966; Title VI: CR H4966-4967; Title VII: CR H4967; Title VIII: CR H4967-4977; Title IX: CR H4978-4987; Title X: CR H4987)
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Bilbray amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Blumenauer amendment No. 8 under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Bonamici amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the First Kucinich amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Gallegly amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Hanna amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Higgins amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the King (IA) amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Kingston amendment No. 2 under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Langevin amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Lee (CA) amendment under the five-minute rule, pending reservation of a point of order.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Lee (CA) amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Markey amendment under the five-minute rule, pending reservation of a point of order. Subsequently, the reservation was withdrawn.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Poe (TX) amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Quigley amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Second Kucinich amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Second Woolsey amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Sessions amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Third Woolsey amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Walz amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Wittman amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the first Cohen amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H.Res. 717, the Committee of the Whole proceeded with debate on the McCollum amendment No. 4 under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant the the provisions of H.Res. 717, the Committee of the Whole proceeded with debate on the Mulvaney amendment under the five-minute rule pending reservation of a point of order.
+- 2012-07-18 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Altmire amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Amash amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Baca amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Boswell amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Cicilline amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the First Woolsey amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Flake amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Jones (NC) amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Lobiondo amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Markey amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Poe (TX) amendment.
+- 2012-07-18 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Pompeo amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Speier amendment under the five-minute rule.
+- 2012-07-18 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the second Cohen amendment under the five-minute rule.
+- 2012-07-18 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 5856.
+- 2012-07-18 — House amendment agreed to: On agreeing to the Altmire amendment (A022) Agreed to by voice vote.
+- 2012-07-18 — House amendment agreed to: On agreeing to the Bilbray amendment (A036) Agreed to by voice vote.
+- 2012-07-18 — House amendment agreed to: On agreeing to the Bonamici amendment (A013) Agreed to by voice vote.
+- 2012-07-18 — House amendment agreed to: On agreeing to the Boswell amendment (A025) Agreed to by voice vote.
+- 2012-07-18 — House amendment agreed to: On agreeing to the Cohen amendment (A024) Agreed to by recorded vote: 228 - 191 (Roll no. 479).
+- 2012-07-18 — House amendment agreed to: On agreeing to the Flake amendment (A031) Agreed to by voice vote.
+- 2012-07-18 — House amendment agreed to: On agreeing to the Gallegly amendment (A004) Agreed to by voice vote.
+- 2012-07-18 — House amendment agreed to: On agreeing to the Jones amendment (A020) Agreed to by voice vote.
+- 2012-07-18 — House amendment agreed to: On agreeing to the Kucinich amendment (A006) Agreed to by voice vote.
+- 2012-07-18 — House amendment agreed to: On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2012-07-18 — House amendment agreed to: On agreeing to the LoBiondo amendment (A030) Agreed to by voice vote.
+- 2012-07-18 — House amendment agreed to: On agreeing to the Poe (TX) amendment (A035) Agreed to by voice vote.
+- 2012-07-18 — House amendment agreed to: On agreeing to the Sessions amendment (A010) Agreed to by voice vote.
+- 2012-07-18 — House amendment agreed to: On agreeing to the Walz (MN) amendment (A011) Agreed to by voice vote.
+- 2012-07-18 — House amendment agreed to: On agreeing to the Wittman amendment (A033) Agreed to by voice vote.
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Amash amendment (A018) Failed by recorded vote: 186 - 233 (Roll no. 478).
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Baca amendment (A019) Failed by voice vote.
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Blumenauer amendment (A005) Failed by voice vote.
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Cicilline amendment (A023) Failed by recorded vote: 149 - 270 (Roll no. 480).
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Cohen amendment (A015) Failed by recorded vote: 145 - 273 (Roll no. 475).
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Hanna amendment (A008) Failed by voice vote.
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Higgins amendment (A012) Failed by voice vote.
+- 2012-07-18 — House amendment not agreed to: On agreeing to the King (IA) amendment (A038) Failed by recorded vote: 182 - 235 (Roll no. 486).
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Kingston amendment (A003) Failed by recorded vote: 202 - 216 (Roll no. 473).
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Lee (CA) amendment (A037) Failed by recorded vote: 107 - 312 (Roll no. 485).
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Markey amendment (A017) Failed by recorded vote: 150 - 268 (Roll no. 477).
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Markey amendment (A028) Failed by recorded vote: 136 - 283 (Roll no. 482).
+- 2012-07-18 — House amendment not agreed to: On agreeing to the McCollum amendment (A001) Failed by recorded vote: 166 - 250 (Roll no. 472).
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Pompeo amendment (A016) Failed by recorded vote: 137 - 282 (Roll no. 476).
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Quigley amendment (A014) Failed by recorded vote: 60 - 359 (Roll no. 474).
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Speier amendment (A026) Failed by voice vote.
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Woolsey amendment (A027) Failed by recorded vote: 114 - 302 (Roll no. 481).
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Woolsey amendment (A029) Failed by recorded vote: 106 - 311 (Roll no. 483).
+- 2012-07-18 — House amendment not agreed to: On agreeing to the Woolsey amendment (A034) Failed by recorded vote: 91 - 328 (Roll no. 484).
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered
+- 2012-07-18 — House amendment offered/reported by: Amendment (A001) offered by Ms. McCollum.(consideration: CR H4939-4942, H4996-4997; text: CR H4939)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A002) offered by Mr. Mulvaney.(consideration: CR H4942-4946; text: CR H4942)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A003) offered by Mr. Kingston.(consideration: CR H4947-4952, H4997-4998; text: CR H4947)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A004) offered by Mr. Gallegly.(consideration: CR H4953; text: CR H4953)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A005) offered by Mr. Blumenauer.(consideration: CR H4953-4954; text: CR H4953)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A006) offered by Mr. Kucinich.(consideration: CR H4954-4955; text: CR H4954)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A007) offered by Mr. Kucinich.(consideration: CR H4955-4956: text: CR H4955)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A008) offered by Mr. Hanna.(consideration: CR H4956, H4956: text: CR H4956)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A009) offered by Mr. Langevin.(consideration: CR H4956-4957; text: CR H4957)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A010) offered by Mr. Sessions.(consideration: CR H4957-4958; text: CR H4957)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A011) offered by Mr. Walz (MN).(consideration: CR H4958-4959; text: CR H4958)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A012) offered by Mr. Higgins.(consideration: CR H4959; text: CR H4959)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A013) offered by Ms. Bonamici.(consideration: CR H4960-4961; text: CR H4960)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A014) offered by Mr. Quigley.(consideration: CR H4961-4962, H4998; text: CR H4961)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A015) offered by Mr. Cohen.(consideration: CR H4962-4963, H4998-4999; text: CR H4962)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A016) offered by Mr. Pompeo.(consideration: CR H4964-4965, H4999-5000; text: CR H4964)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A017) offered by Mr. Markey.(consideration: CR H4965-4966, H5000; text: CR H4965)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A018) offered by Mr. Amash.(consideration: CR H4970-4971, H5000-5001; text: CR H4970)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A019) offered by Mr. Baca.(consideration: CR H4971; text: CR H4971)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A020) offered by Mr. Jones.(consideration: CR H4978; text: CR H4978)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A021) offered by Mr. Poe (TX).(consideration: CR H4979-4980; text: CR H4979)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A022) offered by Mr. Altmire.(consideration: CR H4980-4981; text: CR H4980)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A023) offered by Mr. Cicilline.(consideration: CR H4981-4982, H5002; text: CR H1981)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A024) offered by Mr. Cohen.(consideration: CR H4982-4983, H5001-5002; text: CR H4982)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A025) offered by Mr. Boswell.(consideration: CR H4983-4984; text: CR H4983)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A026) offered by Ms. Speier.(consideration: CR H4985-4986; text: CR H4985)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A027) offered by Ms. Woolsey.(consideration: CR H4988-4989, H5002-5003; text: CR H4988)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A028) offered by Mr. Markey.(consideration: CR H4989-4990, H5003-5004; text: CR H4989)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A029) offered by Ms. Woolsey.(consideration: CR H4990, H5004; text: CR H4990)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A030) offered by Mr. LoBiondo.(consideration: CR H4990-4991; text: CR H4990)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A031) offered by Mr. Flake.(consideration: CR H4991; text: CR H4991)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A033) offered by Mr. Wittman.(consideration: CR H4992; text: CR H4992)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A034) offered by Ms. Woolsey.(consideration: CR H4992-4993, H5004-5005; text: CR H4992)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A035) offered by Mr. Poe (TX).(consideration: CR H4993; text: CR H4993)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A036) offered by Mr. Bilbray.(consideration: CR H4993-4994; text: CR H4993)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A037) offered by Ms. Lee (CA).(consideration: CR H4994-4995, H5005-5006; text: CR H4994)
+- 2012-07-18 — House amendment offered/reported by: Amendment (A038) offered by Mr. King (IA).(consideration: CR H4995, H5006; text: CR H4995)
+- 2012-07-18 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 717 and Rule XVIII.
+- 2012-07-18 — Mr. Palazzo raised a point of order against the content of the measure. Mr. Palazzo stated that section 8121 sought to impose limitations not required by law. The Chair sustained the point of order.
+- 2012-07-18 — Mr. Young (FL) moved to rise.
+- 2012-07-18 — Mr. Young (FL) raised a point of order against the Lee (CA) amendment (A032). Mr. Young (FL) stated that the amendment seeks to change existing law and constitutes legislation. The Chair sustained the point of order. (consideration: CR H4991-4992; text: CR H4991)
+- 2012-07-18 — Mr. Young (FL) raised a point of order against the Mulvaney amendment (A002). Mr. Young (FL) stated that the amendment violated the Budget Act. The Chair sustained the point of order.
+- 2012-07-18 — ORDERING A RECORDED VOTE - Mr. Dicks asked unanimous consent that he be allowed to request a recorded vote on the Amash amendment which had been disposed of earlier by a voice vote. Agreed to without objection.
+- 2012-07-18 — On agreeing to the Altmire amendment (A022) Agreed to by voice vote.
+- 2012-07-18 — On agreeing to the Amash amendment (A018) Failed by recorded vote: 186 - 233 (Roll no. 478).
+- 2012-07-18 — On agreeing to the Amash amendment. (A018) Agreed to by voice vote. Pursuant to a subsequent unanimous consent request by Mr. Dicks, the voice vote on adoption of the Amash amendment was vacated and Mr. Dicks was permitted to request a recorded vote. The Chair then postponed further proceedings on the Amash amendment until later in the legislative day.
+- 2012-07-18 — On agreeing to the Baca amendment (A019) Failed by voice vote.
+- 2012-07-18 — On agreeing to the Bilbray amendment (A036) Agreed to by voice vote.
+- 2012-07-18 — On agreeing to the Blumenauer amendment (A005) Failed by voice vote.
+- 2012-07-18 — On agreeing to the Bonamici amendment (A013) Agreed to by voice vote.
+- 2012-07-18 — On agreeing to the Boswell amendment (A025) Agreed to by voice vote.
+- 2012-07-18 — On agreeing to the Cicilline amendment (A023) Failed by recorded vote: 149 - 270 (Roll no. 480).
+- 2012-07-18 — On agreeing to the Cohen amendment (A015) Failed by recorded vote: 145 - 273 (Roll no. 475).
+- 2012-07-18 — On agreeing to the Cohen amendment (A024) Agreed to by recorded vote: 228 - 191 (Roll no. 479).
+- 2012-07-18 — On agreeing to the Flake amendment (A031) Agreed to by voice vote.
+- 2012-07-18 — On agreeing to the Gallegly amendment (A004) Agreed to by voice vote.
+- 2012-07-18 — On agreeing to the Hanna amendment (A008) Failed by voice vote.
+- 2012-07-18 — On agreeing to the Higgins amendment (A012) Failed by voice vote.
+- 2012-07-18 — On agreeing to the Jones amendment (A020) Agreed to by voice vote.
+- 2012-07-18 — On agreeing to the King (IA) amendment (A038) Failed by recorded vote: 182 - 235 (Roll no. 486).
+- 2012-07-18 — On agreeing to the Kingston amendment (A003) Failed by recorded vote: 202 - 216 (Roll no. 473).
+- 2012-07-18 — On agreeing to the Kucinich amendment (A006) Agreed to by voice vote.
+- 2012-07-18 — On agreeing to the Langevin amendment Agreed to by voice vote.
+- 2012-07-18 — On agreeing to the Lee (CA) amendment (A037) Failed by recorded vote: 107 - 312 (Roll no. 485).
+- 2012-07-18 — On agreeing to the LoBiondo amendment (A030) Agreed to by voice vote.
+- 2012-07-18 — On agreeing to the Markey amendment (A017) Failed by recorded vote: 150 - 268 (Roll no. 477).
+- 2012-07-18 — On agreeing to the Markey amendment (A028) Failed by recorded vote: 136 - 283 (Roll no. 482).
+- 2012-07-18 — On agreeing to the McCollum amendment (A001) Failed by recorded vote: 166 - 250 (Roll no. 472).
+- 2012-07-18 — On agreeing to the Poe (TX) amendment (A035) Agreed to by voice vote.
+- 2012-07-18 — On agreeing to the Pompeo amendment (A016) Failed by recorded vote: 137 - 282 (Roll no. 476).
+- 2012-07-18 — On agreeing to the Quigley amendment (A014) Failed by recorded vote: 60 - 359 (Roll no. 474).
+- 2012-07-18 — On agreeing to the Sessions amendment (A010) Agreed to by voice vote.
+- 2012-07-18 — On agreeing to the Speier amendment (A026) Failed by voice vote.
+- 2012-07-18 — On agreeing to the Walz (MN) amendment (A011) Agreed to by voice vote.
+- 2012-07-18 — On agreeing to the Wittman amendment (A033) Agreed to by voice vote.
+- 2012-07-18 — On agreeing to the Woolsey amendment (A027) Failed by recorded vote: 114 - 302 (Roll no. 481).
+- 2012-07-18 — On agreeing to the Woolsey amendment (A029) Failed by recorded vote: 106 - 311 (Roll no. 483).
+- 2012-07-18 — On agreeing to the Woolsey amendment (A034) Failed by recorded vote: 91 - 328 (Roll no. 484).
+- 2012-07-18 — On motion to rise Agreed to by voice vote.
+- 2012-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cicilline amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Cicilline demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cohen amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Cohen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cohen amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Cohen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the First Woolsey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. Woolsey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. King (IA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kingston amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Markey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Markey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Markey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Markey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McCollum amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. McCollum demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pompeo amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Pompeo demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Quigley amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Mr. Quigley demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Second Woolsey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. Woolsey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Third Woolsey amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. Woolsey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-18 — Roll call votes on amendments in House
+- 2012-07-18 — Roll call votes on amendments in House
+- 2012-07-18 — Roll call votes on amendments in House
+- 2012-07-18 — Roll call votes on amendments in House
+- 2012-07-18 — Roll call votes on amendments in House
+- 2012-07-18 — Roll call votes on amendments in House
+- 2012-07-18 — Roll call votes on amendments in House
+- 2012-07-18 — Roll call votes on amendments in House
+- 2012-07-18 — Roll call votes on amendments in House
+- 2012-07-18 — Roll call votes on amendments in House
+- 2012-07-18 — Roll call votes on amendments in House
+- 2012-07-18 — Roll call votes on amendments in House
+- 2012-07-18 — Roll call votes on amendments in House
+- 2012-07-18 — Roll call votes on amendments in House
+- 2012-07-18 — Roll call votes on amendments in House
+- 2012-07-18 — The Speaker designated the Honorable Kenny Marchant to act as Chairman of the Committee.
+- 2012-07-18 — The resolution provides for consideration of both H.R. 5856 and H.R. 6020, under an open rule. The resolution provides 1 hour of general debate equally divided and controlled for both bills. The resolution provides that the bills shall be considered for amendment under the five-minute rule, with one motion to recommit with or without instructions. Additionally, the resolution provides for consideration of the conference report to accompany H.R. 4348, with 1 hour of debate and one motion to recommit, if applicable.
+- 2012-07-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2012-07-19 — Amendment (A039) offered by Mr. King (IA). (consideration: CR H5027-5028, H5063-5064; text: CR H5027)
+- 2012-07-19 — Amendment (A040) offered by Ms. Lee (CA). (consideration: CR H5028-5029; text: CR H5028)
+- 2012-07-19 — Amendment (A041) offered by Mr. Gosar. (cosideration: CR H5029; text: CR H5029)
+- 2012-07-19 — Amendment (A042) offered by Ms. Lee (CA). (consideration: CR H5030-5031, H5064-5065; text: CR H5030)
+- 2012-07-19 — Amendment (A043) offered by Mr. Brooks. (consideration: CR H5031-5034; text: CR H5031)
+- 2012-07-19 — Amendment (A044) offered by Ms. Lee (CA). (consideration: CR H5034-5036, H5065; text: CR H5034)
+- 2012-07-19 — Amendment (A045) offered by Mr. Kucinich. (consideration: CR H5036-5038, H5065-5066; text: CR H5036)
+- 2012-07-19 — Amendment (A046) offered by Mr. Moran. (consideration: CR H5038-5040, H5065-5066; text: CR H5038)
+- 2012-07-19 — Amendment (A047) offered by Mr. Turner (OH). (consideration: CR H5040-5042, H5066-5067; text: CR H5040)
+- 2012-07-19 — Amendment (A048) offered by Mr. Tonko. (consideration: CR H5042-5043; text: CR H5042)
+- 2012-07-19 — Amendment (A049) offered by Mr. Coffman (CO). (consideration: CR H5043-5047, H5067; text: CR H5043-5044)
+- 2012-07-19 — Amendment (A050) offered by Mr. Berg. (consideration: CR H5047-5050, H5067-5068; text: CR H5047)
+- 2012-07-19 — Amendment (A051) offered by Mr. Flores. (consideration: CR H5050-5051, H5052; text: CR H5050)
+- 2012-07-19 — Amendment (A052) offered by Mr. Runyan. (consideration: CR H5052; text: CR H5052)
+- 2012-07-19 — Amendment (A053) offered by Mr. Garamendi. (consideration: CR H5052-5054, H5068-5069; text: CR H5052)
+- 2012-07-19 — Amendment (A054) offered by Mr. Mulvaney. (consideration: CR H5054, H5057, H5069; text: CR H5054)
+- 2012-07-19 — Amendment (A055) offered by Mr. Engel. (consideration: CR H5057; text: CR H5057)
+- 2012-07-19 — Amendment (A056) offered by Mr. Mulvaney. (consideration: CR H5057-5058, H5069-5070; text: CR H5057)
+- 2012-07-19 — Amendment (A057) offered by Mr. Ellison. (consideration: CR H5058-5059; text: CR H5058)
+- 2012-07-19 — Amendment (A058) offered by Mr. Stearns. (consideration: CR H5059-5060, H5070-5071; text: CR H5059)
+- 2012-07-19 — Amendment (A059) offered by Mr. Fitzpatrick. (consideration: CR H5060; text: CR H5060)
+- 2012-07-19 — Amendment (A060) offered by Mr. Kucinich. (consideration: CR H5060-5061; text: CR H5060)
+- 2012-07-19 — Amendment (A061) offered by Mr. Jones. (consideration: CR H5061-5063; text: CR H5061)
+- 2012-07-19 — Amendment agreed to Committee of the Whole
+- 2012-07-19 — Amendment agreed to Committee of the Whole
+- 2012-07-19 — Amendment agreed to Committee of the Whole
+- 2012-07-19 — Amendment agreed to Committee of the Whole
+- 2012-07-19 — Amendment agreed to Committee of the Whole
+- 2012-07-19 — Amendment agreed to Committee of the Whole
+- 2012-07-19 — Amendment agreed to Committee of the Whole
+- 2012-07-19 — Amendment agreed to Committee of the Whole
+- 2012-07-19 — Amendment agreed to Committee of the Whole
+- 2012-07-19 — Amendment agreed to Committee of the Whole
+- 2012-07-19 — Amendment agreed to Committee of the Whole
+- 2012-07-19 — Amendment agreed to Committee of the Whole
+- 2012-07-19 — Amendment agreed to Committee of the Whole
+- 2012-07-19 — Amendment failed in Committee of the Whole
+- 2012-07-19 — Amendment failed in Committee of the Whole
+- 2012-07-19 — Amendment failed in Committee of the Whole
+- 2012-07-19 — Amendment failed in Committee of the Whole
+- 2012-07-19 — Amendment failed in Committee of the Whole
+- 2012-07-19 — By unanimous consent, the Fitzpatrick amendment was withdrawn. (consideration: CR H5060)
+- 2012-07-19 — Considered as unfinished business. (consideration: CR H5027-5072)
+- 2012-07-19 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Brooks amendment under the five-minute rule.
+- 2012-07-19 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Fifth Lee (CA) amendment under the five-minute rule.
+- 2012-07-19 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Fourth Lee (CA) amendment under the five-minute rule.
+- 2012-07-19 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Third Kucinich amendment under the five-minute rule.
+- 2012-07-19 — DEBATE - Pursuant the the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Third Lee (CA) amendment under the five-minute rule.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Coffman (CO) amendment No. 18.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Ellison amendment, pending reservation of a point of order.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Engel amendment.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Fitzpatrick amendment, pending reservation of a point of order.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Flores amendment.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Fourth Kucinich amendment.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Garamendi amendment.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Jones amendment No. 17, pending reservation of a point of order.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Moran amendment under the five-minute rule.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Mulvaney amendment No. 1.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Mulvaney amendment No. 9.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Runyan amendment.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Second King (IA) amendment under the five-minute rule.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Stearns amendment.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Tonko amendment under the five-minute rule, pending reservation of a point of order.
+- 2012-07-19 — DEBATE - Pursuant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Turner (OH) amendment under the five-minute rule.
+- 2012-07-19 — DEBATE - Puruant to the provisions of H. Res. 717, the Committee of the Whole proceeded with debate on the Berg amendment under the five-minute rule.
+- 2012-07-19 — House amendment agreed to: On agreeing to the Berg amendment (A050) Agreed to by recorded vote: 232 - 183 (Roll no. 493).
+- 2012-07-19 — House amendment agreed to: On agreeing to the Brooks amendment (A043) Agreed to by voice vote.
+- 2012-07-19 — House amendment agreed to: On agreeing to the Engel amendment (A055) Agreed to by voice vote.
+- 2012-07-19 — House amendment agreed to: On agreeing to the Flores amendment (A051) Agreed to by voice vote.
+- 2012-07-19 — House amendment agreed to: On agreeing to the Gosar amendment (A041) Agreed to by voice vote.
+- 2012-07-19 — House amendment agreed to: On agreeing to the King (IA) amendment (A039) Agreed to by recorded vote: 247 - 166 (Roll no. 487).
+- 2012-07-19 — House amendment agreed to: On agreeing to the Kucinich amendment (A060) Agreed to by voice vote.
+- 2012-07-19 — House amendment agreed to: On agreeing to the Moran amendment (A046) Agreed to by recorded vote: 407 - 5 (Roll no. 490).
+- 2012-07-19 — House amendment agreed to: On agreeing to the Mulvaney amendment (A054) Agreed to by recorded vote: 247 - 167 (Roll no. 495).
+- 2012-07-19 — House amendment agreed to: On agreeing to the Mulvaney amendment (A056) Agreed to by recorded vote: 238 - 178 (Roll no. 496).
+- 2012-07-19 — House amendment agreed to: On agreeing to the Runyan amendment (A052) Agreed to by voice vote.
+- 2012-07-19 — House amendment agreed to: On agreeing to the Stearns amendment (A058) Agreed to by recorded vote: 399 - 17 (Roll no. 497).
+- 2012-07-19 — House amendment agreed to: On agreeing to the Turner (OH) amendment (A047) Agreed to by recorded vote: 235 - 178 (Roll no. 491).
+- 2012-07-19 — House amendment not agreed to: On agreeing to the Coffman (CO) amendment (A049) Failed by recorded vote: 123 - 292 (Roll no. 492).
+- 2012-07-19 — House amendment not agreed to: On agreeing to the Garamendi amendment (A053) Failed by recorded vote: 137 - 278 (Roll no. 494).
+- 2012-07-19 — House amendment not agreed to: On agreeing to the Kucinich amendment (A045) Failed by voice vote.
+- 2012-07-19 — House amendment not agreed to: On agreeing to the Lee (CA) amendment (A042) Failed by recorded vote: 87 - 326 (Roll no. 488).
+- 2012-07-19 — House amendment not agreed to: On agreeing to the Lee (CA) amendment (A044) Failed by recorded vote: 171 - 243 (Roll no. 489).
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered
+- 2012-07-19 — House amendment offered/reported by: Amendment (A039) offered by Mr. King (IA).(consideration: CR H5027-5028, H5063-5064; text: CR H5027)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A040) offered by Ms. Lee (CA).(consideration: CR H5028-5029; text: CR H5028)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A041) offered by Mr. Gosar.(cosideration: CR H5029; text: CR H5029)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A042) offered by Ms. Lee (CA).(consideration: CR H5030-5031, H5064-5065; text: CR H5030)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A043) offered by Mr. Brooks.(consideration: CR H5031-5034; text: CR H5031)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A044) offered by Ms. Lee (CA).(consideration: CR H5034-5036, H5065; text: CR H5034)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A045) offered by Mr. Kucinich.(consideration: CR H5036-5038, H5065-5066; text: CR H5036)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A046) offered by Mr. Moran.(consideration: CR H5038-5040, H5065-5066; text: CR H5038)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A047) offered by Mr. Turner (OH).(consideration: CR H5040-5042, H5066-5067; text: CR H5040)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A048) offered by Mr. Tonko.(consideration: CR H5042-5043; text: CR H5042)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A049) offered by Mr. Coffman (CO).(consideration: CR H5043-5047, H5067; text: CR H5043-5044)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A050) offered by Mr. Berg.(consideration: CR H5047-5050, H5067-5068; text: CR H5047)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A051) offered by Mr. Flores.(consideration: CR H5050-5051, H5052; text: CR H5050)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A052) offered by Mr. Runyan.(consideration: CR H5052; text: CR H5052)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A053) offered by Mr. Garamendi.(consideration: CR H5052-5054, H5068-5069; text: CR H5052)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A054) offered by Mr. Mulvaney.(consideration: CR H5054, H5057, H5069; text: CR H5054)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A055) offered by Mr. Engel.(consideration: CR H5057; text: CR H5057)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A056) offered by Mr. Mulvaney.(consideration: CR H5057-5058, H5069-5070; text: CR H5057)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A057) offered by Mr. Ellison.(consideration: CR H5058-5059; text: CR H5058)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A058) offered by Mr. Stearns.(consideration: CR H5059-5060, H5070-5071; text: CR H5059)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A059) offered by Mr. Fitzpatrick.(consideration: CR H5060; text: CR H5060)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A060) offered by Mr. Kucinich.(consideration: CR H5060-5061; text: CR H5060)
+- 2012-07-19 — House amendment offered/reported by: Amendment (A061) offered by Mr. Jones.(consideration: CR H5061-5063; text: CR H5061)
+- 2012-07-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-19 — Mr. Frelinghuysen raised a point of order against the Ellison amendment (A057). Mr. Frelinghuysen stated that the amendment proposed to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.
+- 2012-07-19 — Mr. Young (FL) moved for the Committee of the Whole to rise and report.
+- 2012-07-19 — Mr. Young (FL) raised a point of order against the Jones amendment (A061). Mr. Young of Florida stated that the amendment proposed to change existing law and therefore constituted legislation in an appropriations bill. The Chair sustained the point of order.
+- 2012-07-19 — Mr. Young (FL) raised a point of order against the Lee (CA) amendment (A040). Mr. Young (FL) stated that the amendment seeks to change existing law and constitutes legislation in an appropriations bill. The Chair sustained the point of order.
+- 2012-07-19 — Mr. Young (FL) raised a point of order against the Tonko amendment (A048). Mr. Young (FL) stated that the amendment imposed new duties and constituted legislation in an appropriations bill. The Chair sustained the point of order.
+- 2012-07-19 — On agreeing to the Berg amendment (A050) Agreed to by recorded vote: 232 - 183 (Roll no. 493).
+- 2012-07-19 — On agreeing to the Brooks amendment (A043) Agreed to by voice vote.
+- 2012-07-19 — On agreeing to the Coffman (CO) amendment (A049) Failed by recorded vote: 123 - 292 (Roll no. 492).
+- 2012-07-19 — On agreeing to the Engel amendment (A055) Agreed to by voice vote.
+- 2012-07-19 — On agreeing to the Flores amendment (A051) Agreed to by voice vote.
+- 2012-07-19 — On agreeing to the Garamendi amendment (A053) Failed by recorded vote: 137 - 278 (Roll no. 494).
+- 2012-07-19 — On agreeing to the Gosar amendment (A041) Agreed to by voice vote.
+- 2012-07-19 — On agreeing to the King (IA) amendment (A039) Agreed to by recorded vote: 247 - 166 (Roll no. 487).
+- 2012-07-19 — On agreeing to the Kucinich amendment (A045) Failed by voice vote.
+- 2012-07-19 — On agreeing to the Kucinich amendment (A060) Agreed to by voice vote.
+- 2012-07-19 — On agreeing to the Lee (CA) amendment (A042) Failed by recorded vote: 87 - 326 (Roll no. 488).
+- 2012-07-19 — On agreeing to the Lee (CA) amendment (A044) Failed by recorded vote: 171 - 243 (Roll no. 489).
+- 2012-07-19 — On agreeing to the Moran amendment (A046) Agreed to by recorded vote: 407 - 5 (Roll no. 490).
+- 2012-07-19 — On agreeing to the Mulvaney amendment (A054) Agreed to by recorded vote: 247 - 167 (Roll no. 495).
+- 2012-07-19 — On agreeing to the Mulvaney amendment (A056) Agreed to by recorded vote: 238 - 178 (Roll no. 496).
+- 2012-07-19 — On agreeing to the Runyan amendment (A052) Agreed to by voice vote.
+- 2012-07-19 — On agreeing to the Stearns amendment (A058) Agreed to by recorded vote: 399 - 17 (Roll no. 497).
+- 2012-07-19 — On agreeing to the Turner (OH) amendment (A047) Agreed to by recorded vote: 235 - 178 (Roll no. 491).
+- 2012-07-19 — On motion to rise and report Agreed to by voice vote.
+- 2012-07-19 — On passage Passed by the Yeas and Nays: 326 - 90 (Roll no. 498).
+- 2012-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Berg amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Berg demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Coffman (CO) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Blumenauer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Fifth Lee (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Fourth Lee (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the noes had prevailed. Ms. Lee (CA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Frelinghuysen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moran amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Moran demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mulvaney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Mulvaney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mulvaney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Mulvaney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Second King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Dicks demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Stearns amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Stearns demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Turner (OH) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Dicks demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2012-07-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 326 - 90 (Roll no. 498).
+- 2012-07-19 — Roll call votes on amendments in House
+- 2012-07-19 — Roll call votes on amendments in House
+- 2012-07-19 — Roll call votes on amendments in House
+- 2012-07-19 — Roll call votes on amendments in House
+- 2012-07-19 — Roll call votes on amendments in House
+- 2012-07-19 — Roll call votes on amendments in House
+- 2012-07-19 — Roll call votes on amendments in House
+- 2012-07-19 — Roll call votes on amendments in House
+- 2012-07-19 — Roll call votes on amendments in House
+- 2012-07-19 — Roll call votes on amendments in House
+- 2012-07-19 — Roll call votes on amendments in House
+- 2012-07-19 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 5856.
+- 2012-07-19 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2012-07-19 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2012-07-19 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5856.
+- 2012-07-19 — The previous question was ordered pursuant to the rule. (consideration: CR H5071)
+- 2012-07-19 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
