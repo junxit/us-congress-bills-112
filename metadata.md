@@ -1,7 +1,7 @@
 ---
 measure: S. 285
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 285
@@ -24,3 +24,7 @@ A bill for the relief of Sopuruchi Chukwueke.
 
 - 2011-02-03 — Introduced in Senate
 - 2011-02-03 — Read twice and referred to the Committee on the Judiciary.
+- 2012-07-19 — Committee on the Judiciary. Ordered to be reported with an amendment favorably.
+- 2012-07-19 — Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.
+- 2012-07-19 — Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.
+- 2012-07-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 464.
