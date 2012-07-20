@@ -28,7 +28,7 @@ In this Act:
   - **(1)** lease sale numbers 229, 227, 233, 244, 225, 231, 238, 235, 242, 246, 226, 241, 237, 248, and 247 are such sales proposed in, and shall be conducted in accordance with, the Proposed Final Outer Continental Shelf Oil & Gas Leasing Program (2012–2017), except each such lease sale shall be conducted in the year specified for such sale in the table in subsection (b);
   - **(2)** lease sale numbers 220, 212, 228, 230, 221, 245, 232, 234, 239, 217, and 243 are such sales proposed in, and shall be conducted in accordance with, the Draft Proposed Outer Continental Shelf (OCS) Oil and Gas Leasing Program for 2010–2015 as published in Federal Register on January 21, 2009 (74 Fed. Reg. 12), except each such lease sale shall be conducted in the year specified for such sale in the table in subsection (b); and
   - **(3)** lease sale numbers 249 and 250 shall be conducted—
-    - **(A)** for lease tracts in the Southern California OCS Planning Area and Mid-Atlantic OCS Planning Area, respectively, determined by and at the discretion of the Secretary, subject to subparagraph (C);
+    - **(A)** for lease tracts in the Southern California OCS Planning Area and Mid-Atlantic OCS Planning Area, respectively, as determined by and at the discretion of the Secretary, subject to subparagraph (C);
     - **(B)** in the year specified for each such lease sale in the table in subsection (b); and
     - **(C)** in accordance with the other provisions of this Act.
 
@@ -54,3 +54,10 @@ In this Act:
 ## § 7. Eastern Gulf of Mexico not included
 
 Nothing in this Act affects restrictions on oil and gas leasing under the Gulf of Mexico Energy Security Act of 2006 (title I of division C of Public Law 109–432; 43 U.S.C. 1331 note).
+
+## § 8. Lease sale off the coast of South Carolina
+
+In determining the areas off the coast of South Carolina to be made available for leasing under this Act, the Secretary of the Interior shall—
+
+- **(1)** consult with the Governor and legislature of the State of South Carolina; and
+- **(2)** focus on areas considered to have the most geologically promising energy resources.
