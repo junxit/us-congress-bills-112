@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3870
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3870
@@ -31,3 +31,11 @@ To designate the facility of the United States Postal Service located at 6083 Hi
 - 2012-02-01 — Introduced in House
 - 2012-02-01 — Introduced in House
 - 2012-02-01 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-02-07 — Committee Consideration and Mark-up Session Held.
+- 2012-02-07 — Ordered to be Reported by Voice Vote.
+- 2012-07-23 — Considered under suspension of the rules. (consideration: CR H5110-5111)
+- 2012-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3870.
+- 2012-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-23 — Ms. Buerkle moved to suspend the rules and pass the bill.
+- 2012-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5110)
+- 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5110)
