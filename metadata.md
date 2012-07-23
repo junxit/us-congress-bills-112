@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5856
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5856
@@ -16,9 +16,10 @@ Department of Defense Appropriations Act, 2013
 
 - Rep. Young, C. W. Bill [R-FL-10] (Y000031)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (27)
 
@@ -537,3 +538,4 @@ Department of Defense Appropriations Act, 2013
 - 2012-07-19 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5856.
 - 2012-07-19 — The previous question was ordered pursuant to the rule. (consideration: CR H5071)
 - 2012-07-19 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2012-07-23 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
