@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3388
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3388
@@ -38,3 +38,9 @@ Wood-Pawcatuck Watershed Protection Act
 - 2012-07-17 — Placed on the Union Calendar, Calendar No. 438.
 - 2012-07-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-603.
 - 2012-07-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-603.
+- 2012-07-23 — Considered under suspension of the rules. (consideration: CR H5087-5088)
+- 2012-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3388.
+- 2012-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-23 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2012-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5087)
+- 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5087)
