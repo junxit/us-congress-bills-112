@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5859
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5859
@@ -39,3 +39,9 @@ To repeal an obsolete provision in title 49, United States Code, requiring motor
 - 2012-07-10 — Placed on the Union Calendar, Calendar No. 427.
 - 2012-07-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-591.
 - 2012-07-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-591.
+- 2012-07-23 — Considered under suspension of the rules. (consideration: CR H5098-5100)
+- 2012-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5859.
+- 2012-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-23 — Mrs. Bono Mack moved to suspend the rules and pass the bill, as amended.
+- 2012-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5098)
+- 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5098)

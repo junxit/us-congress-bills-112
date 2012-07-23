@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5859
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | repeal | Subsection (c) of section 32302 of title 49, United States Code, is repealed, and any regulations promulgated under such subsection shall have no force or effect. | the bill names no machine-readable US Code section |
 | — | repeal | Subsection (c) of section 32302 of title 49, United States Code, is repealed, and any regulations promulgated under such subsection shall have no force or effect. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 32302(b) of title 49, United States Code, is amended by adding at the end the following: “The Secretary, after providing an opportunity for public comment, shall study and report to Congress the most useful data, format, and meth… | the bill names no machine-readable US Code section |
