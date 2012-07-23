@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5837
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5837
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 26 East
 
 - Rep. Buerkle, Ann Marie [R-NY-25] (B001276)
 
-## Cosponsors (25)
+## Cosponsors (28)
 
 - Rep. Bishop, Timothy H. [D-NY-1] (B001242)
 - Rep. Israel, Steve [D-NY-2] (I000057)
@@ -43,6 +43,9 @@ To designate the facility of the United States Postal Service located at 26 East
 - Rep. Higgins, Brian [D-NY-27] (H001038)
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 - Rep. Reed, Tom [R-NY-29] (R000585)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
 
 ## Committees (1)
 
@@ -53,3 +56,11 @@ To designate the facility of the United States Postal Service located at 26 East
 - 2012-05-18 — Introduced in House
 - 2012-05-18 — Introduced in House
 - 2012-05-18 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-06-27 — Committee Consideration and Mark-up Session Held.
+- 2012-06-27 — Ordered to be Reported by Unanimous Consent.
+- 2012-07-23 — Considered under suspension of the rules. (consideration: CR H5111-5112)
+- 2012-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5837.
+- 2012-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-23 — Ms. Buerkle moved to suspend the rules and pass the bill.
+- 2012-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5111)
+- 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5111)
