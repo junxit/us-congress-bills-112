@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 133
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 133
@@ -32,3 +32,4 @@ Authorizing the use of the rotunda of the United States Capitol for an event to 
 - 2012-07-19 — Mr. Lungren, Daniel E. asked unanimous consent to discharge from committee and consider.
 - 2012-07-19 — On agreeing to the resolution Agreed to without objection. (text: CR H5072)
 - 2012-07-19 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H5072)
+- 2012-07-23 — Received in the Senate.
