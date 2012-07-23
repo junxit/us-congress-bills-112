@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3477
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3477
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 133 Har
 
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Cosponsors (36)
+## Cosponsors (37)
 
 - Rep. Paul, Ron [R-TX-14] (P000583)
 - Rep. Carter, John R. [R-TX-31] (C001051)
@@ -54,13 +54,28 @@ To designate the facility of the United States Postal Service located at 133 Har
 - Rep. Hayworth, Nan A. S. [R-NY-19] (H001054)
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Pence, Mike [R-IN-6] (P000587)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2012-07-23 — [House 112-2-501](votes/house-112-2-0501.md) — On Motion to Suspend the Rules and Pass — **Passed** (379–0)
 
 ## Actions
 
 - 2011-11-18 — Introduced in House
 - 2011-11-18 — Introduced in House
 - 2011-11-18 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-02-07 — Committee Consideration and Mark-up Session Held.
+- 2012-02-07 — Ordered to be Reported by Voice Vote.
+- 2012-07-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-07-23 — Considered as unfinished business. (consideration: CR H5116-5117)
+- 2012-07-23 — Considered under suspension of the rules. (consideration: CR H5112-5113)
+- 2012-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3477.
+- 2012-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-23 — Ms. Buerkle moved to suspend the rules and pass the bill.
+- 2012-07-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 379 - 0 (Roll no. 501). (text: CR H5112)
+- 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 379 - 0 (Roll no. 501).(text: CR H5112)
