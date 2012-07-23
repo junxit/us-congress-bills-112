@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5872
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5872
@@ -101,3 +101,12 @@ Sequestration Transparency Act of 2012
 - 2012-07-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 471).(text: CR H4920)
 - 2012-07-19 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2012-07-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 471.
+- 2012-07-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5413)
+- 2012-07-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5413)
+- 2012-07-26 — Message on Senate action sent to the House.
+- 2012-07-27 — Presented to President.
+- 2012-07-27 — Presented to President.
+- 2012-08-07 — Became Public Law No: 112-155.
+- 2012-08-07 — Became Public Law No: 112-155.
+- 2012-08-07 — Signed by President.
+- 2012-08-07 — Signed by President.
