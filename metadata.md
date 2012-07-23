@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4484
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4484
@@ -39,3 +39,9 @@ Y Mountain Access Enhancement Act
 - 2012-07-19 — Placed on the Union Calendar, Calendar No. 445.
 - 2012-07-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-612.
 - 2012-07-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-612.
+- 2012-07-23 — Considered under suspension of the rules. (consideration: CR H5085-5086)
+- 2012-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4484.
+- 2012-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-23 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2012-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5085)
+- 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5085)
