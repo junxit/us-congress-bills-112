@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4484
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4484
@@ -23,9 +23,10 @@ Y Mountain Access Enhancement Act
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 - Rep. Labrador, Raul R. [R-ID-1] (L000573)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Y Mountain Access Enhancement Act
 - 2012-07-23 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2012-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5085)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5085)
+- 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
