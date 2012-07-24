@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5859
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5859
@@ -47,3 +47,14 @@ To repeal an obsolete provision in title 49, United States Code, requiring motor
 - 2012-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5098)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5098)
 - 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2012-12-21 — Passed Senate without amendment by Unanimous Consent.
+- 2012-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-12-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S8378)
+- 2012-12-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S8378)
+- 2012-12-27 — Message on Senate action sent to the House.
+- 2012-12-31 — Presented to President.
+- 2012-12-31 — Presented to President.
+- 2013-01-10 — Became Public Law No: 112-252.
+- 2013-01-10 — Became Public Law No: 112-252.
+- 2013-01-10 — Signed by President.
+- 2013-01-10 — Signed by President.
