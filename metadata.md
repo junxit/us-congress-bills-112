@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5958
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5958
@@ -22,9 +22,10 @@ To name the Jamaica Bay Wildlife Refuge Visitor Contact Station of the Jamaica B
 - Rep. Grimm, Michael G. [R-NY-13] (G000569)
 - Rep. Reed, Tom [R-NY-29] (R000585)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To name the Jamaica Bay Wildlife Refuge Visitor Contact Station of the Jamaica B
 - 2012-07-23 — Mr. Hastings (WA) moved to suspend the rules and pass the bill.
 - 2012-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5086)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5086)
+- 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
