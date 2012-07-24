@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4347
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4347
@@ -38,3 +38,4 @@ To designate the United States courthouse located at 709 West 9th Street in June
 - 2012-07-23 — Mr. Young (AK) moved to suspend the rules and pass the bill.
 - 2012-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5104)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5104)
+- 2012-07-24 — Received in the Senate, read twice.
