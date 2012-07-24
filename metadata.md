@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3556
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3556
@@ -69,3 +69,4 @@ To designate the new United States courthouse in Buffalo, New York, as the "Robe
 - 2012-07-23 — Mr. Bucshon moved to suspend the rules and pass the bill.
 - 2012-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5103)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5103)
+- 2012-07-24 — Received in the Senate, read twice.
