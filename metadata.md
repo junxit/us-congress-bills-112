@@ -1,7 +1,7 @@
 ---
 measure: H.R. 823
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 823
@@ -25,3 +25,10 @@ For the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.
 - 2011-02-18 — Introduced in House
 - 2011-02-18 — Introduced in House
 - 2011-02-18 — Referred to the House Committee on the Judiciary.
+- 2011-02-28 — Referred to the Subcommittee on Immigration Policy and Enforcement.
+- 2012-06-26 — Subcommittee on Immigration Policy and Enforcement Discharged.
+- 2012-06-28 — Committee Consideration and Mark-up Session Held.
+- 2012-06-28 — Ordered to be Reported by Voice Vote.
+- 2012-07-24 — Placed on the Private Calendar, Calendar No. 3.
+- 2012-07-24 — Reported by the Committee on Judiciary. H. Rept. 112-619.
+- 2012-07-24 — Reported by the Committee on Judiciary. H. Rept. 112-619.
