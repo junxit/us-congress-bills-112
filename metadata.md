@@ -1,7 +1,7 @@
 ---
 measure: S. 710
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 710
@@ -24,9 +24,10 @@ Hazardous Waste Electronic Manifest Establishment Act
 - Sen. Lautenberg, Frank R. [D-NJ] (L000123)
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -38,3 +39,7 @@ Hazardous Waste Electronic Manifest Establishment Act
 - 2011-06-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 72.
 - 2011-08-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5281-5283; text as passed Senate: CR S5281-5283)
 - 2011-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5281-5283; text as passed Senate: CR S5281-5283)
+- 2011-08-03 — Message on Senate action sent to the House.
+- 2011-08-05 — Held at the desk.
+- 2011-08-05 — Received in the House.
+- 2012-07-24 — Referred to the House Committee on Energy and Commerce.
