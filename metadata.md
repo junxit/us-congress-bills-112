@@ -1,7 +1,7 @@
 ---
 measure: H.R. 316
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 316
@@ -25,3 +25,10 @@ For the relief of Esther Karinge.
 - 2011-01-18 — Introduced in House
 - 2011-01-18 — Introduced in House
 - 2011-01-18 — Referred to the House Committee on the Judiciary.
+- 2011-02-11 — Referred to the Subcommittee on Immigration Policy and Enforcement.
+- 2012-06-26 — Subcommittee on Immigration Policy and Enforcement Discharged.
+- 2012-06-28 — Committee Consideration and Mark-up Session Held.
+- 2012-06-28 — Ordered to be Reported by Voice Vote.
+- 2012-07-24 — Placed on the Private Calendar, Calendar No. 6.
+- 2012-07-24 — Reported by the Committee on Judiciary. H. Rept. 112-622.
+- 2012-07-24 — Reported by the Committee on Judiciary. H. Rept. 112-622.
