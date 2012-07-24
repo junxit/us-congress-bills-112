@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2467
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2467
@@ -16,9 +16,10 @@ Bridgeport Indian Colony Land Trust, Health, and Economic Development Act of 201
 
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Bridgeport Indian Colony Land Trust, Health, and Economic Development Act of 201
 - 2012-07-23 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2012-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5096)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5096)
+- 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
