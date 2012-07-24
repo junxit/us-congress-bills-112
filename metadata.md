@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3593
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3593
@@ -47,9 +47,10 @@ To designate the facility of the United States Postal Service located at 787 Sta
 - Rep. Higgins, Brian [D-NY-27] (H001038)
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ To designate the facility of the United States Postal Service located at 787 Sta
 - 2012-07-23 — Ms. Buerkle moved to suspend the rules and pass the bill.
 - 2012-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5112)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5112)
+- 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
