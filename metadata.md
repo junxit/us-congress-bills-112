@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1369
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1369
@@ -43,3 +43,14 @@ To designate the facility of the United States Postal Service located at 1021 Pe
 - 2012-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5114)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5114)
 - 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2012-08-01 — Passed Senate without amendment by Unanimous Consent.
+- 2012-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-08-01 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S5894)
+- 2012-08-01 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S5894)
+- 2012-08-02 — Message on Senate action sent to the House.
+- 2012-08-03 — Presented to President.
+- 2012-08-03 — Presented to President.
+- 2012-08-10 — Became Public Law No: 112-156.
+- 2012-08-10 — Became Public Law No: 112-156.
+- 2012-08-10 — Signed by President.
+- 2012-08-10 — Signed by President.
