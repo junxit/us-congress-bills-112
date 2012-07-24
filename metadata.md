@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5837
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5837
@@ -47,9 +47,10 @@ To designate the facility of the United States Postal Service located at 26 East
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
 - Rep. Lowey, Nita M. [D-NY-18] (L000480)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ To designate the facility of the United States Postal Service located at 26 East
 - 2012-07-23 — Ms. Buerkle moved to suspend the rules and pass the bill.
 - 2012-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5111)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5111)
+- 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
