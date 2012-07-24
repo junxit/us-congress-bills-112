@@ -1,0 +1,37 @@
+---
+legis-num: S. RES. 525
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 525
+
+> Honoring the life and legacy of Oswaldo Payá Sardiñas.
+
+## Preamble
+
+- Whereas, on Sunday, July 22, 2012, 60-year-old Cuban dissident and activist Oswaldo Payá Sardiñas died in a car crash in Bayamo, Cuba;
+- Whereas, at a young age, Oswaldo Payá Sardiñas criticized the communist government in Cuba, which led to his imprisonment at a work camp on Cuba’s Isle of Youth in 1969;
+- Whereas, in 1988, Oswaldo Payá Sardiñas founded the Christian Liberation Movement as a nondenominational political organization to further civil and human rights in Cuba;
+- Whereas, in 1992, Oswaldo Payá Sardiñas announced his intention to run as a candidate to be a representative on the National Assembly of Popular Power of Cuba and, 2 days before the election, was detained by police at his home and determined by Communist Party officials to be ineligible to run for office because he was not a member of the Communist Party;
+- Whereas, in 1997, Oswaldo Payá Sardiñas collected hundreds of signatures to support his candidacy to the National Assembly of Popular Power, which was rejected by the electoral commission of Cuba;
+- Whereas the Constitution of Cuba supposedly guarantees the right to a national referendum on any proposal that achieves 10,000 or more signatures from citizens of Cuba who are eligible to vote;
+- Whereas, in 1998, Oswaldo Payá Sardiñas and other leaders of the Christian Liberation Movement created the Varela Project, a signature drive to secure a national referendum on “convert[ing] into law, the right of freedom of speech, the freedom of press and freedom of enterprise”;
+- Whereas, in May 2002, the Varela Project delivered 11,020 signatures from eligible citizens of Cuba to the National Assembly of Popular Power, calling for an end to 4 decades of one-party rule, to which the Government of Cuba responded by beginning its own referendum that made Cuba’s socialist system irrevocable, even after an additional 14,000 signatures were added to the Varela Project petition;
+- Whereas the Varela Project is the largest civil society-led petition in the history of Cuba;
+- Whereas Oswaldo Payá Sardiñas bravely led the Varela Project at great risk to himself, his loved ones, and his associates;
+- Whereas, in March 2003, the Government of Cuba arrested 75 human rights activists, including 25 members of the Varela Project, in the crackdown known as Cuba’s Black Spring;
+- Whereas Oswaldo Payá Sardiñas’s dedication to freedom and faith earned him the Sakarov Prize for Freedom of Thought from the European Parliament in 2002;
+- Whereas Oswaldo Payá Sardiñas received the W. Averell Harriman Democracy Award from the United States National Democratic Institute for International Affairs in 2003;
+- Whereas Oswaldo Payá Sardiñas was nominated for the Nobel Peace Prize by Václav Havel, the former president of the Czech Republic, in 2005; and
+- Whereas President Barack Obama stated, “We continue to be inspired by Payá's vision and dedication to a better future for Cuba, and believe that his example and moral leadership will endure.”: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** recognizes and honors the life and exemplary leadership of Oswaldo Payá Sardiñas;
+- **(2)** offers heartfelt condolences to the family, friends, and loved ones of Oswaldo Payá Sardiñas;
+- **(3)** praises the bravery of Oswaldo Payá Sardiñas and his colleagues for collecting more than 11,000 verified signatures in support of the Varela Project;
+- **(4)** in memory of Oswaldo Payá Sardiñas, calls on the United States to continue policies that promote respect for the fundamental principles of religious freedom, democracy, and human rights in Cuba, in a manner consistent with the aspirations of the people of Cuba;
+- **(5)** in memory of Oswaldo Payá Sardiñas, calls on the Government of Cuba to provide its citizens with internationally accepted standards for civil and human rights and the opportunity to vote in free and fair elections; and
+- **(6)** calls on the Government of Cuba to allow an impartial, third-party investigation into the circumstances surrounding the death of Oswaldo Payá Sardiñas.
