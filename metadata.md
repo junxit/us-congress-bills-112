@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1237
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1237
@@ -16,9 +16,10 @@ To provide for a land exchange with the Trinity Public Utilities District of Tri
 
 - Rep. Herger, Wally [R-CA-2] (H000528)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To provide for a land exchange with the Trinity Public Utilities District of Tri
 - 2012-07-23 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2012-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5083-5084)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5083-5084)
+- 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
