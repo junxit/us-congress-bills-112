@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3477
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3477
@@ -56,9 +56,10 @@ To designate the facility of the United States Postal Service located at 133 Har
 - Rep. Pence, Mike [R-IN-6] (P000587)
 - Rep. Doggett, Lloyd [D-TX-25] (D000399)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -79,3 +80,4 @@ To designate the facility of the United States Postal Service located at 133 Har
 - 2012-07-23 — Ms. Buerkle moved to suspend the rules and pass the bill.
 - 2012-07-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 379 - 0 (Roll no. 501). (text: CR H5112)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 379 - 0 (Roll no. 501).(text: CR H5112)
+- 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
