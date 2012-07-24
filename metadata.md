@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3388
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3388
@@ -21,9 +21,10 @@ Wood-Pawcatuck Watershed Protection Act
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Wood-Pawcatuck Watershed Protection Act
 - 2012-07-23 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2012-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5087)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5087)
+- 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
