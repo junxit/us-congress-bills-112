@@ -1,7 +1,7 @@
 ---
 measure: S. 2090
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2090
@@ -16,7 +16,7 @@ A bill to amend the Indian Law Enforcement Reform Act to extend the period of ti
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Cosponsors (10)
+## Cosponsors (13)
 
 - Sen. Barrasso, John [R-WY] (B001261)
 - Sen. Johnson, Tim [D-SD] (J000177)
@@ -28,6 +28,9 @@ A bill to amend the Indian Law Enforcement Reform Act to extend the period of ti
 - Sen. Hoeven, John [R-ND] (H001061)
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Begich, Mark [D-AK] (B001265)
 
 ## Committees (1)
 
@@ -37,3 +40,7 @@ A bill to amend the Indian Law Enforcement Reform Act to extend the period of ti
 
 - 2012-02-09 — Introduced in Senate
 - 2012-02-09 — Read twice and referred to the Committee on Indian Affairs.
+- 2012-07-24 — Passed Senate without amendment by Unanimous Consent. (text: CR S5318)
+- 2012-07-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5318)
+- 2012-07-24 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S5317-5318)
+- 2012-07-24 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S5317-5318)
