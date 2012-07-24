@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5837
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5837
@@ -66,3 +66,15 @@ To designate the facility of the United States Postal Service located at 26 East
 - 2012-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5111)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5111)
 - 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2012-08-29 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2012-12-19 — Passed Senate without amendment by Unanimous Consent.
+- 2012-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S8230)
+- 2012-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S8230)
+- 2012-12-20 — Message on Senate action sent to the House.
+- 2012-12-21 — Presented to President.
+- 2012-12-21 — Presented to President.
+- 2012-12-28 — Became Public Law No: 112-224.
+- 2012-12-28 — Became Public Law No: 112-224.
+- 2012-12-28 — Signed by President.
+- 2012-12-28 — Signed by President.
