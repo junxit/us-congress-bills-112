@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1857
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1857
@@ -25,3 +25,10 @@ For the relief of Bartosz Kumor.
 - 2011-05-11 — Introduced in House
 - 2011-05-11 — Introduced in House
 - 2011-05-11 — Referred to the House Committee on the Judiciary.
+- 2011-06-20 — Referred to the Subcommittee on Immigration Policy and Enforcement.
+- 2012-06-26 — Subcommittee on Immigration Policy and Enforcement Discharged.
+- 2012-06-28 — Committee Consideration and Mark-up Session Held.
+- 2012-06-28 — Ordered to be Reported by Voice Vote.
+- 2012-07-24 — Placed on the Private Calendar, Calendar No. 1.
+- 2012-07-24 — Reported by the Committee on Judiciary. H. Rept. 112-617.
+- 2012-07-24 — Reported by the Committee on Judiciary. H. Rept. 112-617.
