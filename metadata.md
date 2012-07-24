@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2896
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2896
@@ -31,9 +31,10 @@ To designate the facility of the United States Postal Service located at 369 Mar
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ To designate the facility of the United States Postal Service located at 369 Mar
 - 2012-07-23 — Ms. Buerkle moved to suspend the rules and pass the bill.
 - 2012-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5113)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5113)
+- 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
