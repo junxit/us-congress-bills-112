@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3742
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3742
@@ -23,9 +23,10 @@ To designate the United States courthouse located at 100 North Church Street in 
 - Rep. Carter, John R. [R-TX-31] (C001051)
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To designate the United States courthouse located at 100 North Church Street in 
 - 2012-07-23 — Mr. Bucshon moved to suspend the rules and pass the bill.
 - 2012-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5102)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5102)
+- 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
