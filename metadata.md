@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1369
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1369
@@ -23,9 +23,10 @@ To designate the facility of the United States Postal Service located at 1021 Pe
 - Rep. Lankford, James [R-OK-5] (L000575)
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To designate the facility of the United States Postal Service located at 1021 Pe
 - 2012-07-23 — Ms. Buerkle moved to suspend the rules and pass the bill.
 - 2012-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5114)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5114)
+- 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
