@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5859
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5859
@@ -24,9 +24,10 @@ To repeal an obsolete provision in title 49, United States Code, requiring motor
 - Rep. Schrader, Kurt [D-OR-5] (S001180)
 - Rep. Kinzinger, Adam [R-IL-11] (K000378)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To repeal an obsolete provision in title 49, United States Code, requiring motor
 - 2012-07-23 — Mrs. Bono Mack moved to suspend the rules and pass the bill, as amended.
 - 2012-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5098)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5098)
+- 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.

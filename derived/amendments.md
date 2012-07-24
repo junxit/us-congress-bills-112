@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5859
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | repeal | Subsection (c) of section 32302 of title 49, United States Code, is repealed, and any regulations promulgated under such subsection shall have no force or effect. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 32302(b) of title 49, United States Code, is amended by adding at the end the following: “The Secretary, after providing an opportunity for public comment, shall study and report to Congress the most useful data, format, and meth… | the bill names no machine-readable US Code section |
+| `49 U.S.C. § 32302` | repeal | Subsection (c) of section 32302 of title 49, United States Code, is repealed, and any regulations promulgated under such subsection shall have no force or effect. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 32302` | add-at-end | Section 32302(b) of title 49, United States Code, is amended by adding at the end the following: “The Secretary, after providing an opportunity for public comment, shall study and report to Congress the most useful data, format, and meth… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
