@@ -1,7 +1,7 @@
 ---
 measure: H.R. 357
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 357
@@ -25,3 +25,10 @@ For the relief of Corina de Chalup Turcinovic.
 - 2011-01-19 — Introduced in House
 - 2011-01-19 — Introduced in House
 - 2011-01-19 — Referred to the House Committee on the Judiciary.
+- 2011-02-11 — Referred to the Subcommittee on Immigration Policy and Enforcement.
+- 2012-06-26 — Subcommittee on Immigration Policy and Enforcement Discharged.
+- 2012-06-28 — Committee Consideration and Mark-up Session Held.
+- 2012-06-28 — Ordered to be Reported by Voice Vote.
+- 2012-07-24 — Placed on the Private Calendar, Calendar No. 5.
+- 2012-07-24 — Reported by the Committee on Judiciary. H. Rept. 112-621.
+- 2012-07-24 — Reported by the Committee on Judiciary. H. Rept. 112-621.
