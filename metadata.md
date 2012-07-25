@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4157
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4157
@@ -114,9 +114,10 @@ Preserving America's Family Farms Act
 - Rep. Ross, Dennis A. [R-FL-12] (R000593)
 - Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -131,3 +132,4 @@ Preserving America's Family Farms Act
 - 2012-07-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5162)
 - 2012-07-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5162)
 - 2012-07-24 — The title of the measure was amended. Agreed to without objection.
+- 2012-07-25 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
