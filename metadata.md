@@ -1,7 +1,7 @@
 ---
 measure: H.R. 459
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 459
@@ -298,6 +298,10 @@ Federal Reserve Transparency Act of 2012
 - House — Oversight and Accountability Committee
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2012-07-25 — [House 112-2-513](votes/house-112-2-0513.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (327–98)
+
 ## Actions
 
 - 2011-01-26 — Introduced in House
@@ -313,3 +317,13 @@ Federal Reserve Transparency Act of 2012
 - 2012-07-18 — Committee on Financial Services discharged.
 - 2012-07-18 — Committee on Financial Services discharged.
 - 2012-07-18 — Placed on the Union Calendar, Calendar No. 441.
+- 2012-07-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-07-24 — Considered under suspension of the rules. (consideration: CR H5150-5162; text of measure as reported in House: CR H5150)
+- 2012-07-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 459.
+- 2012-07-24 — DEBATE - The House resumed debate on H.R. 459, as amended.
+- 2012-07-24 — Mr. Issa moved to suspend the rules and pass the bill, as amended.
+- 2012-07-25 — Considered as unfinished business. (consideration: CR H5224-5225)
+- 2012-07-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 327 - 98 (Roll no. 513).
+- 2012-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 327 - 98 (Roll no. 513).
+- 2012-07-25 — The title of the measure was amended. Agreed to without objection.
