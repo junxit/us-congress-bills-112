@@ -18,7 +18,7 @@ This Act may be cited as the “Congressional Replacement of President Obama’s
 In this Act:
 
 - **(1)** *OCS Planning Area* Any reference to an OCS Planning Area means such Outer Continental Shelf Planning Area as specified by the Department of the Interior as of January 1, 2012.
-- **(2)** *Proposed Oil and Gas Leasing Program (2012–2017)* The term Proposed Final Outer Continental Shelf Oil & Gas Leasing Program (2012–2017) means such plan as transmitted to the Speaker of the House and President of the Senate on June 28, 2012.
+- **(2)** *Proposed Final Outer Continental Shelf Oil & Gas Leasing Program (2012-2017)* The term Proposed Final Outer Continental Shelf Oil & Gas Leasing Program (2012–2017) means such program as transmitted to the Speaker of the House and President of the Senate on June 28, 2012.
 
 ## § 3. Requirement to implement Proposed Oil and Gas Leasing Program (2012–2017)
 
@@ -55,9 +55,9 @@ In this Act:
 
 Nothing in this Act affects restrictions on oil and gas leasing under the Gulf of Mexico Energy Security Act of 2006 (title I of division C of Public Law 109–432; 43 U.S.C. 1331 note).
 
-## § 8. Lease sale off the coast of South Carolina
+## § 8. Lease sales off the coasts of South Carolina and California
 
-In determining the areas off the coast of South Carolina to be made available for leasing under this Act, the Secretary of the Interior shall—
+In determining the areas off the coast of South Carolina and the coast of California to be made available for leasing under this Act, the Secretary of the Interior shall—
 
-- **(1)** consult with the Governor and legislature of the State of South Carolina; and
+- **(1)** consult with the Governor and legislature of each such State; and
 - **(2)** focus on areas considered to have the most geologically promising energy resources.
