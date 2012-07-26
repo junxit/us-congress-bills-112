@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3641
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -29,18 +29,12 @@ The Congress makes the following findings:
 - **(a)** *Establishment and purpose* There is hereby established Pinnacles National Park in the State of California for the purposes of—
   - **(1)** preserving and interpreting for the benefit of future generations the chaparral, grasslands, blue oak woodlands, and majestic valley oak savanna ecosystems of the area, the area’s geomorphology, riparian watersheds, unique flora and fauna, and the ancestral and cultural history of native Americans, settlers and explorers; and
   - **(2)** interpreting the recovery program for the California Condor and the international significance of the program.
-- **(b)** *Boundaries* The boundaries of Pinnacles National Park are as generally depicted on the map entitled “Pinnacles National Park Proposed Designation Change”, numbered 114/111,724, and dated December 2011. The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+- **(b)** *Boundaries* The boundaries of Pinnacles National Park are as generally depicted on the map entitled “Proposed: Pinnacles National Park Designation Change”, numbered 114/111,724, and dated December 2011. The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 - **(c)** *Abolishment of current Pinnacles National Monument*
   - **(1)** *In general* In light of the establishment of Pinnacles National Park, Pinnacles National Monument is hereby abolished and the lands and interests therein are incorporated within and made part of Pinnacles National Park. Any funds available for purposes of the monument shall be available for purposes of the park.
   - **(2)** *References* Any references in law (other than in this Act), regulation, document, record, map or other paper of the United States to Pinnacles National Monument shall be considered a reference to Pinnacles National Park.
 - **(d)** *Administration* The Secretary of the Interior shall administer Pinnacles National Park in accordance with this Act and laws generally applicable to units of the National Park System, including the National Park Service Organic Act (16 U.S.C. 1, 2–4).
-- **(e)** *Land acquisition* The Secretary of the Interior may acquire land or interests in land within the boundaries of Pinnacles National Park by donation, transfer, purchase with donated or appropriated funds, or exchange.
 
-## § 4. Redesignation of Pinnacles Wilderness as Hain Wilderness and expansion of wilderness
+## § 4. Redesignation of Pinnacles Wilderness as Hain Wilderness
 
-- **(a)** *Redesignation* Subsection (i) of the first section of Public Law 94–567 (90 Stat. 2693; 16 U.S.C. 1132 note) is amended by striking “Pinnacles Wilderness” and inserting “Hain Wilderness”. Any reference in a law, map, regulation, document, paper, or other record of the United States to the Pinnacles Wilderness shall be deemed to be a reference to the Hain Wilderness.
-- **(b)** *Expansion* Certain lands comprising approximately 2,905 acres, as generally depicted on a map entitled “Proposed Wilderness Additions to the Proposed Pinnacles National Park”, numbered 114/106, 106, and dated November 2010, are hereby designated as wilderness and, therefore, as a component of the National Wilderness Preservation System and are hereby incorporated in and shall be deemed to be a part of the Hain Wilderness, as redesignated by subsection (a).
-
-## § 5. Authorization of appropriations
-
-There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act.
+Subsection (i) of the first section of Public Law 94–567 (90 Stat. 2693; 16 U.S.C. 1132 note) is amended by striking “Pinnacles Wilderness” and inserting “Hain Wilderness”. Any reference in a law, map, regulation, document, paper, or other record of the United States to the Pinnacles Wilderness shall be deemed to be a reference to the Hain Wilderness.

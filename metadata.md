@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3641
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3641
@@ -29,3 +29,11 @@ Pinnacles National Park Act
 - 2011-12-13 — Introduced in House
 - 2011-12-13 — Introduced in House
 - 2011-12-13 — Referred to the House Committee on Natural Resources.
+- 2011-12-20 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2012-06-08 — Subcommittee Hearings Held.
+- 2012-07-11 — Committee Consideration and Mark-up Session Held.
+- 2012-07-11 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2012-07-11 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-07-26 — Placed on the Union Calendar, Calendar No. 450.
+- 2012-07-26 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-626.
+- 2012-07-26 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-626.
