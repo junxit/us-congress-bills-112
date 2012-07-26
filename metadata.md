@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6122
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6122
@@ -25,3 +25,8 @@ To revise the authority of the Librarian of Congress to accept gifts and bequest
 - 2012-07-12 — Introduced in House
 - 2012-07-12 — Introduced in House
 - 2012-07-12 — Referred to the House Committee on House Administration.
+- 2012-07-19 — Committee Consideration and Mark-up Session Held.
+- 2012-07-19 — Ordered to be Reported by Voice Vote.
+- 2012-07-26 — Placed on the Union Calendar, Calendar No. 448.
+- 2012-07-26 — Reported by the Committee on House Administration. H. Rept. 112-624.
+- 2012-07-26 — Reported by the Committee on House Administration. H. Rept. 112-624.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6122
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -36,4 +36,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the third sentence, by striking “enter them” and inserting “enter the gift, bequest, or proceeds”. | the bill names no machine-readable US Code section |
 | — | insert | The first undesignated paragraph of section 4 of such Act (2 U.S.C. 160) is amended by inserting after the first sentence the following new sentence: “In the case of a gift of securities, the Librarian shall sell the gift and provide the… | the bill names no machine-readable US Code section |
 | — | replace | in the first sentence of the first undesignated paragraph, by striking “Nothing” and inserting “(a) Acceptance and Disbursement of Gifts.—Nothing”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
