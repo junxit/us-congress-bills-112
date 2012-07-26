@@ -1,0 +1,57 @@
+---
+legis-num: H.R. 6206
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6206
+
+> To amend the Internal Revenue Code of 1986 to permanently extend the tax treatment for certain build America bonds, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Build America Bonds Act of 2012”.
+
+## § 2. Build America Bonds made permanent
+
+- **(a)** *In general* Subparagraph (B) of section 54AA(d)(1) of the Internal Revenue Code of 1986 is amended by inserting “or during a period beginning on or after the date of the enactment of the Build America Bonds Act of 2012,” after “January 1, 2011,”.
+- **(b)** *Reduction in credit percentage to bondholders* Subsection (b) of section 54AA of such Code is amended to read as follows:
+  > - **(b)** *Amount of credit*
+  >   - **(1)** *In general* The amount of the credit determined under this subsection with respect to any interest payment date for a build America bond is the applicable percentage of the amount of interest payable by the issuer with respect to such date.
+  >   - **(2)** *Applicable percentage* For purposes of paragraph (1), the applicable percentage shall be determined under the following table:
+
+- **(c)** *Extension of payments to issuers*
+  - **(1)** *In general* Section 6431 of such Code is amended—
+    - **(A)** by inserting “or during a period beginning on or after the date of the enactment of the Build America Bonds Act of 2012,” after “January 1, 2011,” in subsection (a), and
+    - **(B)** by striking “before January 1, 2011” in subsection (f)(1)(B) and inserting “during a particular period”.
+  - **(2)** *Conforming amendments* Subsection (g) of section 54AA of such Code is amended—
+    - **(A)** by inserting “or during a period beginning on or after the date of the enactment of the Build America Bonds Act of 2012,” after “January 1, 2011,”, and
+    - **(B)** by striking “qualified bonds issued before 2011” in the heading and inserting “certain qualified bonds”.
+- **(d)** *Reduction in percentage of payments to issuers* Subsection (b) of section 6431 of such Code is amended—
+  - **(1)** by striking “The Secretary” and inserting the following:
+    > - **(1)** *In general* The Secretary
+
+  - **(2)** by striking “35 percent” and inserting “the applicable percentage”, and
+  - **(3)** by adding at the end the following new paragraph:
+    > - **(2)** *Applicable percentage* For purposes of this subsection, the term applicable percentage means the percentage determined in accordance with the following table:
+
+- **(e)** *Current refundings permitted* Subsection (g) of section 54AA of such Code is amended by adding at the end the following new paragraph:
+  > - **(3)** *Treatment of current refunding bonds*
+  >   - **(A)** *In general* For purposes of this subsection, the term qualified bond includes any bond (or series of bonds) issued to refund a qualified bond if—
+  >     - **(i)** the average maturity date of the issue of which the refunding bond is a part is not later than the average maturity date of the bonds to be refunded by such issue,
+  >     - **(ii)** the amount of the refunding bond does not exceed the outstanding amount of the refunded bond, and
+  >     - **(iii)** the refunded bond is redeemed not later than 90 days after the date of the issuance of the refunding bond.
+  >   - **(B)** *Applicable percentage* In the case of a refunding bond referred to in subparagraph (A), the applicable percentage with respect to such bond under section 6431(b) shall be the lowest percentage specified in paragraph (2) of such section.
+  >   - **(C)** *Determination of average maturity* For purposes of subparagraph (A)(i), average maturity shall be determined in accordance with section 147(b)(2)(A).
+  >   - **(D)** *Issuance restriction not applicable* Subsection (d)(1)(B) shall not apply to a refunding bond referred to in subparagraph (A).
+
+- **(f)** *Clarification related to levees and flood control projects* Subparagraph (A) of section 54AA(g)(2) of such Code is amended by inserting “(including capital expenditures for levees and other flood control projects)” after “capital expenditures”.
+- **(g)** *Effective date* The amendments made by this section shall apply to obligations issued on or after the date of the enactment of this Act.
+
+## § 3. Limitation on section 199 deduction attributable to oil, natural gas, or primary products thereof
+
+- **(a)** *Denial of deduction* Paragraph (4) of section 199(c) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
+  > - **(E)** *Special rule for certain oil and gas income* In the case of any taxpayer who is a major integrated oil company (as defined in section 167(h)(5)(B)) for the taxable year, the term domestic production gross receipts shall not include gross receipts from the production, refining, processing, transportation, or distribution of oil, gas, or any primary product (within the meaning of subsection (d)(9)) thereof.
+
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years ending after the date of the enactment of this Act.
