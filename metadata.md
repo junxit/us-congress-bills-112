@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 134
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 134
