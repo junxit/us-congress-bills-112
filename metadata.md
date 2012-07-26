@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 134
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 134
@@ -42,3 +42,4 @@ Condemning, in the strongest possible terms, the heinous atrocities that occurre
 - 2012-07-26 — Pursuant to the order of the House of July 25, 2012, the House proceeded with consideration of H. Con. Res. 134. (consideration: CR H5297-5302)
 - 2012-07-26 — Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5628)
 - 2012-07-26 — The previous question was ordered pursuant to a previous  order of the House. (consideration: CR H5302)
+- 2012-07-27 — Message on Senate action sent to the House.
