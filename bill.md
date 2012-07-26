@@ -13,6 +13,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *In general* The Secretary of the Interior may issue right-of-way permits for each natural gas pipeline (including all appurtenances used in the operation of the natural gas pipeline) that, as of March 1, 2012, is located within the boundary of Glacier National Park.
 - **(b)** *Terms and conditions* A permit issued under subsection (a) shall be—
-  - **(1)** issued as a right-of-way renewal, consistent with laws (including regulations) generally applicable to utility rights-of-way within units of the National Park System, including the Act of March 4, 1911 (16 U.S.C. 5);
-  - **(2)** for a width of not more than 50 feet on either side of the centerline of the natural gas pipeline; and
+  - **(1)** issued as a right-of-way renewal, consistent with laws (including regulations) generally applicable to utility rights-of-way within units of the National Park System;
+  - **(2)** for a width of not more than 25 feet on either side of the centerline of the natural gas pipeline; and
   - **(3)** subject to any terms and conditions that the Secretary of the Interior determines to be necessary.
