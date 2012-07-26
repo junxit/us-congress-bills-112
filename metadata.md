@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 134
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 134
@@ -34,3 +34,11 @@ Condemning, in the strongest possible terms, the heinous atrocities that occurre
 - 2012-07-24 — Introduced in House
 - 2012-07-24 — Introduced in House
 - 2012-07-24 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-07-26 — DEBATE - The House proceeded with 30 minutes of debate on H. Con. Res. 134.
+- 2012-07-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-07-26 — On agreeing to the resolution Agreed to by voice vote. (text: CR H5297)
+- 2012-07-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H5297)
+- 2012-07-26 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S5628)
+- 2012-07-26 — Pursuant to the order of the House of July 25, 2012, the House proceeded with consideration of H. Con. Res. 134. (consideration: CR H5297-5302)
+- 2012-07-26 — Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5628)
+- 2012-07-26 — The previous question was ordered pursuant to a previous  order of the House. (consideration: CR H5302)
