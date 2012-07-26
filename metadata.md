@@ -1,7 +1,7 @@
 ---
 measure: S. 285
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 285
@@ -16,9 +16,10 @@ A bill for the relief of Sopuruchi Chukwueke.
 
 - Sen. Levin, Carl [D-MI] (L000261)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -30,3 +31,6 @@ A bill for the relief of Sopuruchi Chukwueke.
 - 2012-07-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 464.
 - 2012-07-25 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5412-5413; text of measure as reported in Senate: CR S5412; text as passed Senate: CR 7/25/2012 S5623)
 - 2012-07-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5412-5413; text of measure as reported in Senate: CR S5412; text as passed Senate: CR 7/25/2012 S5623)
+- 2012-07-26 — Message on Senate action sent to the House.
+- 2012-07-26 — Received in the House.
+- 2012-07-26 — Referred to the House Committee on the Judiciary.
