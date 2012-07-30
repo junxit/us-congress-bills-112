@@ -15,3 +15,10 @@ Section 8437(e)(3) of title 5, United States Code, is amended in the first sente
 
 - **(1)** by striking “659)” and inserting “659),”; and
 - **(2)** by striking the period at the end and inserting the following: “, and shall be subject to a Federal tax levy under section 6331 of the Internal Revenue Code of 1986.”.
+
+## § 2. Disposition of amounts
+
+Any potential revenue gain attributable to the enactment of this Act, as determined by the Director of the Congressional Budget Office—
+
+- **(1)** shall be deposited in the general fund of the Treasury of the United States; and
+- **(2)** shall be used solely for purposes of deficit reduction.
