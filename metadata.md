@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6169
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6169
@@ -16,7 +16,7 @@ Pathway to Job Creation through a Simpler, Fairer Tax Code Act of 2012
 
 - Rep. Dreier, David [R-CA-26] (D000492)
 
-## Cosponsors (22)
+## Cosponsors (23)
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
@@ -40,6 +40,7 @@ Pathway to Job Creation through a Simpler, Fairer Tax Code Act of 2012
 - Rep. Boustany, Charles W., Jr. [R-LA-7] (B001255)
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 - Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Graves, Sam [R-MO-6] (G000546)
 
 ## Committees (1)
 
@@ -50,3 +51,6 @@ Pathway to Job Creation through a Simpler, Fairer Tax Code Act of 2012
 - 2012-07-24 — Introduced in House
 - 2012-07-24 — Introduced in House
 - 2012-07-24 — Referred to the House Committee on Rules.
+- 2012-07-30 — Placed on the House Calendar, Calendar No. 153.
+- 2012-07-30 — Reported by the Committee on Rules. H. Rept. 112-629.
+- 2012-07-30 — Reported by the Committee on Rules. H. Rept. 112-629.
