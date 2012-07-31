@@ -75,7 +75,7 @@ This Act may be cited as the “Child Protection Act of 2012”.
     - **(A)** in paragraph (6)(A), by striking “United State” and inserting “United States”;
     - **(B)** in paragraph (9), by striking “(1)(A)(ii)” and inserting “(1)(A)(iii)”; and
     - **(C)** in paragraph (10), by striking “paragraph (1)(A)(ii)” and inserting “paragraph (1)(A)(iii)”.
-- **(b)** *Judicial subpoenas* Section 566(e)(1) of title 28, United States Code, is amended—
+- **(b)** *Subpoena Authority for the United States Marshals Service* Section 566(e)(1) of title 28, United States Code, is amended—
   - **(1)** in subparagraph (A), by striking “and” at the end;
   - **(2)** in subparagraph (B), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
@@ -97,7 +97,7 @@ Section 101(d)(1) of the PROTECT Our Children Act of 2008 (42 U.S.C. 17611(d)(1)
 Section 107(a) of the PROTECT Our Children Act of 2008 (42 U.S.C. 17617(a)) is amended—
 
 - **(1)** in paragraph (4), by striking “and”;
-- **(2)** in paragraph (5), by striking the period at the end; and
+- **(2)** in paragraph (5), by striking the period at the end and inserting a semicolon; and
 - **(3)** by inserting after paragraph (5) the following:
   > - **(6)** $60,000,000 for fiscal year 2014;
   > - **(7)** $60,000,000 for fiscal year 2015;

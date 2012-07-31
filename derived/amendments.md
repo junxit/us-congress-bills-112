@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6063
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -51,11 +51,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (10), by striking “paragraph (1)(A)(ii)” and inserting “paragraph (1)(A)(iii)”. | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 102(b)(4)(B) of the PROTECT Our Children Act of 2008 (42 U.S.C. 17612(b)(4)(B)) is amended by striking “$2,000,000” and inserting “$4,000,000”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “to be responsible” and inserting the following: “with experience in investigating or prosecuting child exploitation cases as the National Coordinator for Child Exploitation Prevention and Interdiction who shall be responsibl… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: “The National Coordinator for Child Exploitation Prevention and Interdiction shall be a position in the Senior Executive Service. ” | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “The National Coordinator for Child Exploitation Prevention and Interdiction shall be a position in the Senior Executive Service. ” | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (4), by striking “and”; | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (5), by striking the period at the end; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (5) the following: | the bill names no machine-readable US Code section |
 | — | strike | Section 105(e)(1)(B)(i) of the PROTECT Our Children Act of 2008 (42 U.S.C. 17615(e)(1)(B)(i)) is amended by striking “the volume” and all that follows through “or other”. | the bill names no machine-readable US Code section |
