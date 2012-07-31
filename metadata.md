@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6156
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6156
@@ -16,7 +16,7 @@ Russia and Moldova Jackson-Vanik Repeal and Sergei Magnitsky Rule of Law Account
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 
-## Cosponsors (9)
+## Cosponsors (14)
 
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 - Rep. Brady, Kevin [R-TX-8] (B000755)
@@ -27,6 +27,11 @@ Russia and Moldova Jackson-Vanik Repeal and Sergei Magnitsky Rule of Law Account
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Grimm, Michael G. [R-NY-13] (G000569)
+- Rep. Mulvaney, Mick [R-SC-5] (M001182)
+- Rep. Boustany, Charles W., Jr. [R-LA-7] (B001255)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 
 ## Committees (1)
 
@@ -37,3 +42,8 @@ Russia and Moldova Jackson-Vanik Repeal and Sergei Magnitsky Rule of Law Account
 - 2012-07-19 — Introduced in House
 - 2012-07-19 — Introduced in House
 - 2012-07-19 — Referred to the House Committee on Ways and Means.
+- 2012-07-26 — Committee Consideration and Mark-up Session Held.
+- 2012-07-26 — Ordered to be Reported by Voice Vote.
+- 2012-07-31 — Placed on the Union Calendar, Calendar No. 454.
+- 2012-07-31 — Reported by the Committee on Ways and Means. H. Rept. 112-632.
+- 2012-07-31 — Reported by the Committee on Ways and Means. H. Rept. 112-632.
