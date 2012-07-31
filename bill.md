@@ -12,7 +12,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 ## Preamble
 
 - Whereas, on Sunday, July 22, 2012, 60-year-old Cuban dissident and activist Oswaldo Payá Sardiñas died in a car crash in Bayamo, Cuba;
-- Whereas, at a young age, Oswaldo Payá Sardiñas criticized the communist government in Cuba, which led to his imprisonment at a work camp on Cuba’s Isle of Youth in 1969;
+- Whereas at a young age, Oswaldo Payá Sardiñas criticized the communist government in Cuba, which led to his imprisonment at a work camp on Cuba’s Isle of Youth in 1969;
 - Whereas, in 1988, Oswaldo Payá Sardiñas founded the Christian Liberation Movement as a nondenominational political organization to further civil and human rights in Cuba;
 - Whereas, in 1992, Oswaldo Payá Sardiñas announced his intention to run as a candidate to be a representative on the National Assembly of Popular Power of Cuba and, 2 days before the election, was detained by police at his home and determined by Communist Party officials to be ineligible to run for office because he was not a member of the Communist Party;
 - Whereas, in 1997, Oswaldo Payá Sardiñas collected hundreds of signatures to support his candidacy to the National Assembly of Popular Power, which was rejected by the electoral commission of Cuba;
@@ -33,5 +33,6 @@ That the Senate—
 - **(2)** offers heartfelt condolences to the family, friends, and loved ones of Oswaldo Payá Sardiñas;
 - **(3)** praises the bravery of Oswaldo Payá Sardiñas and his colleagues for collecting more than 11,000 verified signatures in support of the Varela Project;
 - **(4)** in memory of Oswaldo Payá Sardiñas, calls on the United States to continue policies that promote respect for the fundamental principles of religious freedom, democracy, and human rights in Cuba, in a manner consistent with the aspirations of the people of Cuba;
-- **(5)** in memory of Oswaldo Payá Sardiñas, calls on the Government of Cuba to provide its citizens with internationally accepted standards for civil and human rights and the opportunity to vote in free and fair elections; and
-- **(6)** calls on the Government of Cuba to allow an impartial, third-party investigation into the circumstances surrounding the death of Oswaldo Payá Sardiñas.
+- **(5)** in memory of Oswaldo Payá Sardiñas, calls on the Government of Cuba to provide its citizens with internationally accepted standards for civil and human rights and the opportunity to vote in free and fair elections;
+- **(6)** calls on the Government of Cuba to allow an impartial, third-party investigation into the circumstances surrounding the death of Oswaldo Payá Sardiñas; and
+- **(7)** condemns the Government of Cuba for the detention of nearly 50 pro-democracy activists following the memorial service for Oswaldo Payá Sardiñas.
