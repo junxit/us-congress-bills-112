@@ -1,7 +1,7 @@
 ---
 measure: S. 3410
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3410
@@ -28,3 +28,7 @@ A bill to extend the Undertaking Spam, Spyware, And Fraud Enforcement With Enfor
 
 - 2012-07-19 — Introduced in Senate
 - 2012-07-19 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2012-07-31 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2012-07-31 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. Without written report.
+- 2012-07-31 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. Without written report.
+- 2012-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 479.
