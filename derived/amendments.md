@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1560
 congress: 112
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
