@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4078
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4078
@@ -318,3 +318,5 @@ Red Tape Reduction and Small Business Job Creation Act
 - 2012-07-26 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5319)
 - 2012-07-26 — The previous question was ordered without objection. (consideration: CR H5318)
 - 2012-07-26 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2012-07-30 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-07-31 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 477.
