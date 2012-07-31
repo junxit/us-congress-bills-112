@@ -30,7 +30,7 @@ Congress finds and declares the following:
 - **(11)** Consequently, there is substantial medical evidence that an unborn child is capable of experiencing pain at least by 20 weeks after fertilization, if not earlier.
 - **(12)** It is the purpose of the Congress to assert a compelling governmental interest in protecting the lives of unborn children from the stage at which substantial medical evidence indicates that they are capable of feeling pain.
 - **(13)** The compelling governmental interest in protecting the lives of unborn children from the stage at which substantial medical evidence indicates that they are capable of feeling pain is intended to be separate from and independent of the compelling governmental interest in protecting the lives of unborn children from the stage of viability, and neither governmental interest is intended to replace the other.
-- **(14)** The District Council of the District of Columbia, operating under authority delegated by Congress, repealed all limitations on abortion at any stage of pregnancy, effective April 29, 2004.
+- **(14)** The District Council of the District of Columbia, operating under authority delegated by Congress, repealed the entire District law limiting abortions, effective April 29, 2004, so that in the District of Columbia, abortion is now legal, for any reason, until the moment of birth.
 - **(15)** Article I, section 8 of the Constitution of the United States of America provides that the Congress shall “exercise exclusive Legislation in all Cases whatsoever” over the District established as the seat of government of the United States, now known as the District of Columbia. The constitutional responsibility for the protection of pain-capable unborn children within the Federal District resides with the Congress.
 
 ## § 3. District of Columbia pain-capable unborn child protection
@@ -43,8 +43,8 @@ Congress finds and declares the following:
   >   - **(1)** The physician performing or attempting the abortion shall first make a determination of the probable post-fertilization age of the unborn child or reasonably rely upon such a determination made by another physician. In making such a determination, the physician shall make such inquiries of the pregnant woman and perform or cause to be performed such medical examinations and tests as a reasonably prudent physician, knowledgeable about the case and the medical conditions involved, would consider necessary to make an accurate determination of post-fertilization age.
   >   - **(2)**
   >     - **(A)** Except as provided in subparagraph (B), the abortion shall not be performed or attempted, if the probable post-fertilization age, as determined under paragraph (1), of the unborn child is 20 weeks or greater.
-  >     - **(B)** Subject to subparagraph (C), subparagraph (A) does not apply if, in reasonable medical judgment, the abortion is necessary to save the life of a pregnant woman whose life is endangered by a physical disorder, physical illness, or physical injury, including a life-endangering physical condition caused by or arising from the pregnancy itself, but not including psychological or emotional conditions or any claim or diagnosis that the woman will engage in conduct which she intends to result in her death.
-  >     - **(C)** A physician terminating or attempting to terminate a pregnancy under the exception provided by subparagraph (B) may do so only in the manner which, in reasonable medical judgment, provides the best opportunity for the unborn child to survive, unless, in reasonable medical judgment, termination of the pregnancy in that manner would pose a greater risk of—
+  >     - **(B)** Subject to subparagraph (C), subparagraph (A) does not apply if, in reasonable medical judgment, the abortion is necessary to save the life of a pregnant woman whose life is endangered by a physical disorder, physical illness, or physical injury, including a life-endangering physical condition caused by or arising from the pregnancy itself, but not including psychological or emotional conditions.
+  >     - **(C)** Notwithstanding the definitions of “abortion” and “attempt an abortion” in this section, a physician terminating or attempting to terminate a pregnancy under the exception provided by subparagraph (B) may do so only in the manner which, in reasonable medical judgment, provides the best opportunity for the unborn child to survive, unless, in reasonable medical judgment, termination of the pregnancy in that manner would pose a greater risk of—
   >       - **(i)** the death of the pregnant woman; or
   >       - **(ii)** the substantial and irreversible physical impairment of a major bodily function, not including psychological or emotional conditions, of the pregnant woman;
   > - **(c)** *Criminal penalty* Whoever violates subsection (a) shall be fined under this title or imprisoned for not more than 2 years, or both.
@@ -81,8 +81,8 @@ Congress finds and declares the following:
   >       - **(iv)** Partial-birth abortion, as defined in section 1531.
   >       - **(v)** Manual vacuum aspiration without other methods.
   >       - **(vi)** Electrical vacuum aspiration without other methods.
-  >       - **(vii)** Abortion induced by use of mifepristone in combination with misoprostol; or
-  >       - **(viii)** if none of the methods described in the other clauses of this subparagraph was employed, whatever method was employed.
+  >       - **(vii)** Abortion induced by use of mifepristone in combination with misoprostol.
+  >       - **(viii)** If none of the methods described in the other clauses of this subparagraph was employed, whatever method was employed.
   >     - **(C)** *Age of woman* The age or approximate age of the pregnant woman.
   >     - **(D)** *Compliance with requirements for exception* The facts relied upon and the basis for any determinations required to establish compliance with the requirements for the exception provided by subsection (b)(2).
   >   - **(3)** *Exclusions from reports*
@@ -116,5 +116,5 @@ Congress finds and declares the following:
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 74 of title 18, United States Code, is amended by adding at the end the following new item:
 - **(c)** *Chapter heading amendments*
-  - **(1)** *Chapter heading in chapter* The chapter heading for chapter 74 of title 18, United States Code, is amended by striking “Partial Birth Abortions” and inserting “Abortions”.
-  - **(2)** *Table of chapters for part I* The item relating to chapter 74 in the table of chapters at the beginning of part I of title 18, United States Code, is amended by striking “Partial Birth Abortions” and inserting “Abortions”.
+  - **(1)** *Chapter heading in chapter* The chapter heading for chapter 74 of title 18, United States Code, is amended by striking “Partial-Birth Abortions” and inserting “Abortions”.
+  - **(2)** *Table of chapters for part I* The item relating to chapter 74 in the table of chapters at the beginning of part I of title 18, United States Code, is amended by striking “Partial-Birth Abortions” and inserting “Abortions”.

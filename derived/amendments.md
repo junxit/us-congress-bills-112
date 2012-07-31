@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3803
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,5 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | insert | Chapter 74 of title 18, United States Code, is amended by inserting after section 1531 the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of chapter 74 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | replace | The chapter heading for chapter 74 of title 18, United States Code, is amended by striking “Partial Birth Abortions” and inserting “Abortions”. | the bill names no machine-readable US Code section |
-| — | replace | The item relating to chapter 74 in the table of chapters at the beginning of part I of title 18, United States Code, is amended by striking “Partial Birth Abortions” and inserting “Abortions”. | the bill names no machine-readable US Code section |
+| — | replace | The chapter heading for chapter 74 of title 18, United States Code, is amended by striking “Partial-Birth Abortions” and inserting “Abortions”. | the bill names no machine-readable US Code section |
+| — | replace | The item relating to chapter 74 in the table of chapters at the beginning of part I of title 18, United States Code, is amended by striking “Partial-Birth Abortions” and inserting “Abortions”. | the bill names no machine-readable US Code section |
