@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3796
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+12 amendatory instructions. 0 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,12 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 126(d) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16926(d)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 142(b) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16941(b)) is amended by striking “such sums as may be necessary for fiscal years 2007 through 2009” and inserting “$46,200,000 for each of the fiscal yea… | the bill names no machine-readable US Code section |
 | — | replace | Subparagraph (B) of section 115(b)(2) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16915(b)(2)) is amended by striking “25 years” and inserting “15 years”. | the bill names no machine-readable US Code section |
+| — | amend | Section 126(d) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16926(d)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 142(b) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16941(b)) is amended by striking “such sums as may be necessary for fiscal years 2007 through 2009” and inserting “$46,200,000 for each of the fiscal yea… | the bill names no machine-readable US Code section |
+| — | replace | Subparagraph (B) of section 115(b)(2) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16915(b)(2)) is amended by striking “25 years” and inserting “15 years”. | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” after the semicolon in paragraph (3); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (4) as paragraph (5); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 125(a) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16925(a)) is amended by striking “shall not receive” and all that follows and inserting “shall return to the Attorney General (for reallocation in accord… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 634(c) of the Adam Walsh Child Protection and Safety Act of 2006 is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | Section 3012(c) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797ee-1(c)) is amended by striking “$10,000,000 for each of fiscal years 2007 through 2009 to carry out this part” and inserting “$2,979,000… | the bill names no machine-readable US Code section |
