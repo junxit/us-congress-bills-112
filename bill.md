@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 6235
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6235
+
+> To delay further action on the proposed rule regarding well stimulation on Federal and Indian lands until such date the Secretary of the Interior submits a report examining certain effects of such rule.
+
+## § 1. Short title
+
+This Act may be cited as the “Federal Lands Energy Regulatory Certainty Act of 2012”.
+
+## § 2. Delay of further action on proposed rule regarding well stimulation on Federal and Indian lands until report submitted
+
+- **(a)** *In general* Notwithstanding any other provision of law, the Secretary of the Interior may not, before the date of the submission of the report under subsection (b)(2)(C), take any action to finalize or otherwise implement provisions contained in the proposed rule entitled “Oil and Gas; Well Stimulation, Including Hydraulic Fracturing, on Federal and Indian Lands” (77 Fed. Reg. 27691 (May 11, 2012)).
+- **(b)** *Study and report*
+  - **(1)** *Study* The Secretary of the Interior may conduct a study, with respect to each year of the 10-year period immediately following the date of the enactment of this Act, on each of the following:
+    - **(A)** The anticipated expenditure of resources by the Bureau of Land Management for such year if the rule described in subsection (a) is applied, as compared to the anticipated expenditure of such resources for such year if such rule is not applied.
+    - **(B)** The anticipated rates of development and production of oil and natural gas resources in the United States for such year if the rule described in subsection (a) is applied, as compared to such anticipated rates for such year if such rule is not applied.
+    - **(C)** The anticipated revenue to the Treasury resulting from the development and production of oil and natural gas resources for such year if the rule described in subsection (a) is applied, as compared to such anticipated revenue for such year if such rule is not applied.
+    - **(D)** Any potential conflicts that may exist between the rule described in subsection (a) and State and Federal regulations that are in existence as of the date of enactment of this Act.
+  - **(2)** *Report* If the Secretary of the Interior completes the study described in paragraph (1), the Secretary shall—
+    - **(A)** not later than October 31, 2012, submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate (and make publicly available) a preliminary report containing the results of the study conducted under paragraph (1);
+    - **(B)** solicit public comments regarding the preliminary report submitted under subparagraph (A) for a period of 120 days after the submission of such preliminary report to both such Committees; and
+    - **(C)** not later than May 1, 2013, submit to Congress a final report containing the results of the study conducted under paragraph (1), including any revisions to the preliminary report made as a result of public comments submitted pursuant to subparagraph (B), and a response to such comments.
