@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1560
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1560
@@ -43,3 +43,8 @@ To amend the Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Te
 - 2011-12-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 12/05/2011 H8132)
 - 2011-12-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 12/05/2011 H8132)
 - 2011-12-08 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2012-03-22 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 112-635.
+- 2012-06-28 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2012-07-31 — Committee on Indian Affairs. Reported by Senator Akaka without amendment. Without written report.
+- 2012-07-31 — Committee on Indian Affairs. Reported by Senator Akaka without amendment. Without written report.
+- 2012-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 480.
