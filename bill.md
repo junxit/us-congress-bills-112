@@ -35,7 +35,7 @@ Section 2 (33 U.S.C. 1951) is amended to read as follows:
   - **(1)** *In general* Section 3 (33 U.S.C. 1952) is amended—
     - **(A)** in the section heading by striking “prevention and removal”; and
     - **(B)** in subsection (a)—
-      - **(i)** by striking “Prevention and Removal Program to reduce and prevent” and inserting “Program to identify, determine sources of, assess, prevent, reduce, and remove”; and
+      - **(i)** by striking “Prevention and Removal Program to reduce and prevent” and inserting “Program to identify, determine sources of, assess, prevent, reduce, and remove”;
       - **(ii)** by inserting “the economy of the United States,” after “marine debris on”; and
       - **(iii)** by inserting a comma after “environment”.
   - **(2)** *Conforming amendment* Paragraph (7) of section 7 (33 U.S.C. 1956) is amended by striking “Prevention and Removal”.
@@ -48,23 +48,37 @@ Section 2 (33 U.S.C. 1951) is amended to read as follows:
   >     - **(B)** development of effective nonregulatory measures and incentives to cooperatively reduce the volume of lost and discarded fishing gear and to aid in its recovery; and
   >   - **(4)** undertake outreach and education of the public and other stakeholders on sources of marine debris, threats associated with marine debris, and approaches to identify, determine sources of, assess, prevent, reduce, and remove marine debris and its adverse impacts on the United States economy, the marine environment, and navigational safety, including outreach and education activities through public-private initiatives.
 
-- **(c)** *Grant criteria and guidelines* Section 3(c) (33 U.S.C. 1952(c)) is amended—
+- **(c)** *Repeal* Section 2204 of the Marine Plastic Pollution Research and Control Act of 1987 and the item relating to that section in the table of contents contained in section 2 of the United States-Japan Fishery Agreement Approval Act of 1987 (33 U.S.C. 1915) are repealed.
+- **(d)** *Grant criteria and guidelines* Section 3(c) (33 U.S.C. 1952(c)) is amended—
   - **(1)** in paragraph (1), by striking “section 2(1)” and inserting “section 2”;
   - **(2)** by repealing paragraph (5); and
   - **(3)** by redesignating paragraphs (6) and (7) as paragraphs (5) and (6).
 
-## § 6. Progress reports
+## § 6. Repeal of obsolete provisions
 
-Section 5(c)(2) (33 U.S.C. 1954(c)(2)) is amended—
+Section 4 (33 U.S.C. 1953) is amended—
 
-- **(1)** by striking “Annual progress reports.—” and all that follows through “thereafter” and inserting “Biennial progress reports.—Biennially”; and
-- **(2)** by inserting “Natural” before “Resources”.
+- **(1)** by striking “(a) Strategy.—”; and
+- **(2)** by repealing subsections (b) and (c).
 
-## § 7. Confidentiality of submitted information
+## § 7. Amendments to definitions
+
+- **(a)** *Interagency Marine Debris Coordinating Committee*
+  - **(1)** *In general* Except as provided in subsection (b), section 2203 of the Marine Plastic Pollution Research and Control Act of 1987 (33 U.S.C. 1914) is redesignated and moved to replace and appear as section 5 of the Marine Debris Research, Prevention, and Reduction Act (33 U.S.C. 1954).
+  - **(2)** *Clerical amendment* The item relating to section 2203 in the table of contents contained in section 2 of the United States-Japan Fishery Agreement Approval Act of 1987 is repealed.
+- **(b)** *Biennial progress reports* Section 5(c)(2) (33 U.S.C. 1954(c)(2)), as in effect immediately before the enactment of this Act—
+  - **(1)** is redesignated as subsection (e) of section 5, as redesignated and moved by the amendment made by subsection (a) of this section; and
+  - **(2)** is amended—
+    - **(A)** by striking “Annual progress reports.—” and all that follows through “thereafter” and inserting “Biennial progress reports.—Bienially”;
+    - **(B)** by inserting “Natural” before “Resources”;
+    - **(C)** by redesignating subparagraphs (A) through (E) as paragraphs (1) through (5) of such subsection; and
+    - **(D)** by moving such subsection 2 ems to the left.
+
+## § 8. Confidentiality of submitted information
 
 Section 6(2) (33 U.S.C. 1955(2)) is amended by striking “by the fishing industry”.
 
-## § 8. Marine debris definition
+## § 9. Marine debris definition
 
 Section 7 (33 U.S.C. 1956) is amended—
 
@@ -72,10 +86,11 @@ Section 7 (33 U.S.C. 1956) is amended—
 - **(2)** by inserting after paragraph (2) the following:
   > - **(3)** *Marine debris* The term “marine debris” means any persistent solid material that is manufactured or processed and directly or indirectly, and intentionally or unintentionally, disposed of or abandoned into the marine environment or the Great Lakes.
 
-## § 9. Authorization of appropriations
+## § 10. Authorization of appropriations
 
 Section 9 (33 U.S.C. 1958) is amended—
 
 - **(1)** by striking “are” and inserting “is”;
-- **(2)** by striking “2006 through 2010” and all that follows through “(1)” and inserting “through fiscal year 2015”; and
-- **(3)** in paragraph (1), by striking “$10,000,000” and inserting “$4,900,000”.
+- **(2)** by striking “2006 through 2010” and all that follows through “(1)” and inserting “through fiscal year 2015”;
+- **(3)** in paragraph (1), by striking “$10,000,000” and inserting “$4,900,000”; and
+- **(4)** by striking “; and” and all that follows through the end of paragraph (2) and inserting a period.
