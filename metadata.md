@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1272
 congress: 112
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1272
@@ -50,3 +50,12 @@ Minnesota Chippewa Tribe Judgment Fund Distribution Act of 2012
 - 2012-08-01 — Committee on Indian Affairs. Reported by Senator Akaka without amendment. Without written report.
 - 2012-08-01 — Committee on Indian Affairs. Reported by Senator Akaka without amendment. Without written report.
 - 2012-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 482.
+- 2012-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/21/2012 S6674)
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/21/2012 S6674)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Presented to President.
+- 2012-09-25 — Presented to President.
+- 2012-10-05 — Became Public Law No: 112-179.
+- 2012-10-05 — Became Public Law No: 112-179.
+- 2012-10-05 — Signed by President.
+- 2012-10-05 — Signed by President.
