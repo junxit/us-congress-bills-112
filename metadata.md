@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1905
 congress: 112
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 1905
@@ -436,3 +436,10 @@ Iran Threat Reduction and Syria Human Rights Act of 2012
 - 2012-05-21 — Senate amendment proposed (on the floor): Amendment SA 2124 proposed by Senator Reid for Senator Johnson SD to Amendment SA 2123.(consideration: CR S3317)
 - 2012-05-21 — Senate amendment submitted
 - 2012-05-21 — Senate amendment submitted
+- 2012-05-24 — Message on Senate action sent to the House.
+- 2012-08-01 — House agreed to Senate amendment with amendment pursuant to H.Res. 750. (consideration: CR H5552-5578, H5597-5598)
+- 2012-08-01 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2012-08-01 — Passed/agreed to in House: House agreed to Senate amendment with amendment pursuant to H.Res. 750.(consideration: CR H5552-5578, H5597-5598)
+- 2012-08-01 — Resolving differences -- House actions: House agreed to Senate amendment with amendment pursuant to H.Res. 750.(consideration: CR H5552-5578, H5597-5598)
+- 2012-08-01 — Resolving differences -- Senate actions: Senate agreed to House amendment to Senate amendment by Voice Vote.(consideration: CR S5858-5863)
+- 2012-08-01 — Senate agreed to House amendment to Senate amendment by Voice Vote. (consideration: CR S5858-5863)
