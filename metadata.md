@@ -1,7 +1,7 @@
 ---
 measure: H.R. 828
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 828
@@ -16,9 +16,10 @@ Federal Employee Tax Accountability Act of 2012
 
 - Rep. Chaffetz, Jason [R-UT-3] (C001076)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Federal Employee Tax Accountability Act of 2012
 - 2012-07-31 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
 - 2012-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 263 - 114 (Roll no. 538). (text: CR H5414)
 - 2012-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 263 - 114 (Roll no. 538).(text: CR H5414)
+- 2012-08-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
