@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2446
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2446
@@ -77,3 +77,9 @@ RESPA Home Warranty Clarification Act of 2012
 - 2012-07-31 — Placed on the Union Calendar, Calendar No. 455.
 - 2012-07-31 — Reported (Amended) by the Committee on Financial Services. H. Rept. 112-633.
 - 2012-07-31 — Reported (Amended) by the Committee on Financial Services. H. Rept. 112-633.
+- 2012-08-01 — Considered under suspension of the rules. (consideration: CR H5612-5613)
+- 2012-08-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2446.
+- 2012-08-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-08-01 — Mrs. Biggert moved to suspend the rules and pass the bill, as amended.
+- 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5612)
+- 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5612)

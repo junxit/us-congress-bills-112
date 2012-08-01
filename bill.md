@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “RESPA Home Warranty Clarification Act of 2011”.
+This Act may be cited as the “RESPA Home Warranty Clarification Act of 2012”.
 
 ## § 2. Treatment of homeowner warranties
 
@@ -19,5 +19,7 @@ Section 8 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2607) 
 
 > - **(e)** *Homeowner warranties*
 >   - **(1)** *In general* Nothing in this section, section 2, or section 3 shall be deemed to include, or be deemed to have included, homeowner warranties or similar residential service contracts for the repair or replacement of home system components or home appliances.
->   - **(2)** *Notice* Any person that pays another person not employed by the person for selling, advertising, marketing, or processing, or performing an inspection in connection with, a homeowner warranty or similar residential service contract for the repair or replacement of home system components or home appliances shall include the following statement, in boldface type that is 10-point or larger, in any such warranty or contract offered or sold as an incident to or as part of any transaction involving the origination of a federally related mortgage loan:
->     -  NOTICE: THIS COMPANY MAY PAY PERSONS NOT EMPLOYED BY THE COMPANY FOR SELLING, ADVERTISING, MARKETING, OR PROCESSING, OR PERFORMING AN INSPECTION IN CONNECTION WITH, A HOMEOWNER WARRANTY OR SIMILAR RESIDENTIAL SERVICE CONTRACT FOR REPAIRING OR REPLACING HOME SYSTEM COMPONENTS OR HOME APPLIANCES.
+>   - **(2)** *Notice by home warranty company* Any person that pays another person not employed by the person for selling, advertising, marketing, or processing, or performing an inspection in connection with, a homeowner warranty or similar residential service contract for the repair or replacement of home system components or home appliances shall include the following statement, in boldface type that is 10-point or larger, in any such warranty or contract offered or sold as an incident to or as part of any transaction involving the origination of a federally related mortgage loan:
+>     -  “NOTICE: THIS COMPANY MAY PAY PERSONS NOT EMPLOYED BY THE COMPANY FOR SELLING, ADVERTISING, MARKETING, OR PROCESSING, OR PERFORMING AN INSPECTION IN CONNECTION WITH, A HOMEOWNER WARRANTY OR SIMILAR RESIDENTIAL SERVICE CONTRACT FOR REPAIRING OR REPLACING HOME SYSTEM COMPONENTS OR HOME APPLIANCES.”
+>   - **(3)** *Notice by real estate agent or broker* Any person who has contracted to receive payment from a provider of the services described in paragraph (1) for recommending the purchase of a home warranty or similar residential service contract, and is not an employee of such provider, shall provide the potential purchaser, upon first recommending the purchase of a homeowner warranty or similar residential service contract, a written notice containing the following language in boldface type that is 10-point or larger (with the bracketed matter being replaced with the information described by such bracketed matter):
+>     -  “NOTICE: THIS IS TO GIVE YOU NOTICE THAT [the provider of the notice] HAS RECEIVED OR WILL RECEIVE COMPENSATION FROM [the home warranty company] FOR [the residential service for which the notice provider is being compensated]. YOU ARE NOT REQUIRED TO PURCHASE A HOME WARRANTY OR A SIMILAR RESIDENTIAL SERVICE CONTRACT AND IF YOU CHOOSE TO PURCHASE SUCH COVERAGE YOU ARE FREE TO PURCHASE IT FROM ANOTHER PROVIDER”.
