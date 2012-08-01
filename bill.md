@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3187
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “March of Dimes Commemorative Coin Act of 2011”.
+This Act may be cited as the “March of Dimes Commemorative Coin Act of 2012”.
 
 ## § 2. Findings
 
@@ -44,7 +44,7 @@ The Congress finds the following:
   - **(1)** *In general* The design of the coins minted under this Act shall be emblematic of the mission and programs of the March of Dimes, and its distinguished record of generating Americans’ support to protect our children’s health.
   - **(2)** *Designation and inscriptions* On each coin minted under this Act, there shall be—
     - **(A)** a designation of the value of the coin;
-    - **(B)** an inscription of the year “2014”; and
+    - **(B)** an inscription of the year “2015”; and
     - **(C)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
 - **(b)** *Selection* The design for the coins minted under this Act shall—
   - **(1)** contain motifs that represent the past, present, and future of the March of Dimes and its role as champion for all babies, such designs to be consistent with the traditions and heritage of the March of Dimes;
@@ -55,7 +55,7 @@ The Congress finds the following:
 
 - **(a)** *Quality of coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
 - **(b)** *Mint facility* For the coins minted under this Act, at least 1 facility of the United States Mint shall be used to strike proof quality coins, while at least 1 other such facility shall be used to strike the uncirculated quality coins.
-- **(c)** *Period for issuance* The Secretary of the Treasury may issue coins minted under this Act only during the 1-year period beginning on January 1, 2014.
+- **(c)** *Period for issuance* The Secretary of the Treasury may issue coins minted under this Act only during the 1-year period beginning on January 1, 2015.
 
 ## § 6. Sale of coins
 
@@ -75,6 +75,13 @@ The Congress finds the following:
 - **(c)** *Audits* The March of Dimes shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
 - **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code. The Secretary may issue guidance to carry out this subsection.
 
-## § 8. Budget compliance
+## § 8. Financial assurances
+
+The Secretary shall take such actions as may be necessary to ensure that—
+
+- **(1)** minting and issuing coins under this Act will not result in any net cost to the United States Government; and
+- **(2)** no funds, including applicable surcharges, shall be disbursed to any recipient designated in section 7 until the total cost of designing and issuing all of the coins authorized by this Act (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping) is recovered by the United States Treasury, consistent with sections 5112(m) and 5134(f) of title 31, United States Code.
+
+## § 9. Budget compliance
 
 The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
