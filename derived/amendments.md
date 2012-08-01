@@ -1,7 +1,7 @@
 ---
 measure: S. 300
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

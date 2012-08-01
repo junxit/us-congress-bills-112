@@ -1,7 +1,7 @@
 ---
 measure: S. 300
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 300
@@ -59,3 +59,13 @@ Government Charge Card Abuse Prevention Act of 2012
 - 2012-08-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/31/2012 H5411-5412)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/31/2012 H5411-5412)
+- 2012-08-02 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2012-09-22 — Resolving differences -- Senate actions: Senate agreed to the House amendment by Unanimous Consent.(consideration: CR 9/21/2012 S6672)
+- 2012-09-22 — Senate agreed to the House amendment by Unanimous Consent. (consideration: CR 9/21/2012 S6672)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Presented to President.
+- 2012-09-25 — Presented to President.
+- 2012-10-05 — Became Public Law No: 112-194.
+- 2012-10-05 — Became Public Law No: 112-194.
+- 2012-10-05 — Signed by President.
+- 2012-10-05 — Signed by President.

@@ -1,15 +1,13 @@
 ---
 legis-num: S. 300
-congress: 112th CONGRESS
+congress: One Hundred Twelfth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 300
 
-That the bill from the Senate (S. 300) entitled “An Act to prevent abuse of Government charge cards.”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To prevent abuse of Government charge cards.
 
 ## § 1. Short title
 
