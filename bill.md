@@ -31,15 +31,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *Establishment* There is established a commission to be known as the “Virgin Islands Chief Financial Officer Search Commission”.
 - **(b)** *Duty of commission* The Commission shall recommend to the Governor not less than 3 candidates for nomination as Chief Financial Officer of the Virgin Islands. Each candidate must have demonstrated ability in general management of, knowledge of, and extensive practical experience at the highest levels of financial management in governmental or business entities and must have experience in the development, implementation, and operation of financial management systems.
 - **(c)** *Membership*
-  - **(1)** *Number and appointment* The Commission shall be composed of 8 members appointed not later than 30 days after the date of the enactment of this Act. Persons appointed as members must have recognized business, government, or financial expertise and experience and shall be appointed as follows:
-    - **(A)** 1 individual appointed by the Governor of the Virgin Islands.
-    - **(B)** 1 individual appointed by the President of the Legislature of the Virgin Islands.
-    - **(C)** 1 individual, who is an employee of the Government of the Virgin Islands, appointed by the Central Labor Council of the Virgin Islands.
-    - **(D)** 1 individual appointed by the Chamber of Commerce of St. Thomas-St. John.
-    - **(E)** 1 individual appointed by the Chamber of Commerce of St. Croix.
-    - **(F)** 1 individual appointed by the President of the University of the Virgin Islands.
-    - **(G)** 1 individual, who is a resident of St. John, appointed by the At-Large Member of the Legislature of the Virgin Islands.
-    - **(H)** 1 individual appointed by the President of AARP Virgin islands.
+  - **(1)** *Number and appointment* The Commission shall be composed of eight members appointed not later than 30 days after the date of the enactment of this Act. Persons appointed as members must have recognized business, government, or financial expertise and experience and shall be appointed as follows:
+    - **(A)** One individual appointed by the Governor of the Virgin Islands.
+    - **(B)** One individual appointed by the President of the Legislature of the Virgin Islands.
+    - **(C)** One individual, who is an employee of the Government of the Virgin Islands, appointed by the Central Labor Council of the Virgin Islands.
+    - **(D)** One individual appointed by the Chamber of Commerce of St. Thomas-St. John.
+    - **(E)** One individual appointed by the Chamber of Commerce of St. Croix.
+    - **(F)** One individual appointed by the President of the University of the Virgin Islands.
+    - **(G)** One individual, who is a resident of St. John, appointed by the At-Large Member of the Legislature of the Virgin Islands.
+    - **(H)** One individual appointed by the President of AARP Virgin islands.
   - **(2)** *Terms*
     - **(A)** *In general* Each member shall be appointed for the life of the Commission.
     - **(B)** *Vacancies* A vacancy in the Commission shall be filled in the manner in which the original appointment was made. Any member appointed to fill a vacancy shall be appointed for the remainder of that term.
