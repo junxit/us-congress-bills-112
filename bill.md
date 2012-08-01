@@ -75,7 +75,7 @@ This Act may be cited as the “Child Protection Act of 2012”.
     - **(A)** in paragraph (6)(A), by striking “United State” and inserting “United States”;
     - **(B)** in paragraph (9), by striking “(1)(A)(ii)” and inserting “(1)(A)(iii)”; and
     - **(C)** in paragraph (10), by striking “paragraph (1)(A)(ii)” and inserting “paragraph (1)(A)(iii)”.
-- **(b)** *Subpoena Authority for the United States Marshals Service* Section 566(e)(1) of title 28, United States Code, is amended—
+- **(b)** *Judicial subpoenas* Section 566(e)(1) of title 28, United States Code, is amended—
   - **(1)** in subparagraph (A), by striking “and” at the end;
   - **(2)** in subparagraph (B), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
@@ -90,14 +90,14 @@ Section 102(b)(4)(B) of the PROTECT Our Children Act of 2008 (42 U.S.C. 17612(b)
 Section 101(d)(1) of the PROTECT Our Children Act of 2008 (42 U.S.C. 17611(d)(1)) is amended—
 
 - **(1)** by striking “to be responsible” and inserting the following: “with experience in investigating or prosecuting child exploitation cases as the National Coordinator for Child Exploitation Prevention and Interdiction who shall be responsible”; and
-- **(2)** by adding at the end the following: “The National Coordinator for Child Exploitation Prevention and Interdiction shall be a position in the Senior Executive Service. ”
+- **(2)** by adding at the end the following: “The National Coordinator for Child Exploitation Prevention and Interdiction shall be a position in the Senior Executive Service. ”.
 
 ## § 7. Reauthorization of ICAC task forces
 
 Section 107(a) of the PROTECT Our Children Act of 2008 (42 U.S.C. 17617(a)) is amended—
 
 - **(1)** in paragraph (4), by striking “and”;
-- **(2)** in paragraph (5), by striking the period at the end and inserting a semicolon; and
+- **(2)** in paragraph (5), by striking the period at the end; and
 - **(3)** by inserting after paragraph (5) the following:
   > - **(6)** $60,000,000 for fiscal year 2014;
   > - **(7)** $60,000,000 for fiscal year 2015;
