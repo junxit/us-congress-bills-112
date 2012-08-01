@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3641
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3641
@@ -44,3 +44,12 @@ Pinnacles National Park Act
 - 2012-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5433)
 - 2012-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5433)
 - 2012-08-01 — Received in the Senate, read twice.
+- 2012-12-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8552, S8552-8556)
+- 2012-12-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8552, S8552-8556)
+- 2012-12-31 — Message on Senate action sent to the House.
+- 2013-01-01 — Presented to President.
+- 2013-01-01 — Presented to President.
+- 2013-01-10 — Became Public Law No: 112-245.
+- 2013-01-10 — Became Public Law No: 112-245.
+- 2013-01-10 — Signed by President.
+- 2013-01-10 — Signed by President.
