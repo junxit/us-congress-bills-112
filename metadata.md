@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 519
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 519
@@ -38,3 +38,7 @@ A resolution designating October 30, 2012, as a national day of remembrance for 
 
 - 2012-07-16 — Introduced in Senate
 - 2012-07-16 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5048-5049)
+- 2012-08-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S5898)
+- 2012-08-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S5898)
+- 2012-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5898)
+- 2012-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5898)
