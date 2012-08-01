@@ -1,34 +1,41 @@
 ---
 legis-num: H.R. 1550
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 1550
 
-> To establish programs in the Department of Justice and in the Department of Homeland Security to help States that have high rates of homicide and other violent crime, and for other purposes.
+> To direct the Attorney General to give priority in the allocation of Federal law enforcement personnel and resources to States and local jurisdictions that have a high incidence of homicide or other violent crime.
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Law Enforcement Recruitment and Retention Act of 2011”.
+This Act may be cited as the “Federal Law Enforcement Personnel and Resources Allocation Improvement Act of 2012”.
 
-## § 2. Department of Justice Program
+## § 2. Priority for allocation of Federal law enforcement personnel and resources
 
-- **(a)** *Creation of program* The Attorney General shall establish a program within the Department of Justice to recruit and assign individuals for authorized Federal law enforcement and security positions, and retain individuals in those positions, in States that have experienced a high rate of homicides and other violent crimes.
-- **(b)** *Federal coordinator* The Attorney General shall designate an official within the Department of Justice to be the Federal coordinator of the program established under this section.
-- **(c)** *Duties of coordinator* The Federal coordinator appointed under this section shall—
-  - **(1)** consult with the chief executive of, and with law enforcement agencies in, States that have experienced a high rate of homicides and other violent crimes to determine how additional Federal personnel can help address the State’s needs in this area; and
-  - **(2)** coordinate the implementation of the program established under this section.
+- **(a)** *Requirement* In the allocation of Federal law enforcement personnel and resources, the Attorney General shall give priority to placing and retaining those personnel and resources in States and local jurisdictions that have a high incidence of homicide or other violent crime, based on records of crime acquired under section 534 of title 28, United States Code, including reports of crime under the system known as the National Uniform Crime Reports, or on the best and most current information otherwise available to the Attorney General.
+- **(b)** *Designation of existing Federal official* Not later than 30 days after the date of enactment of this Act, the Attorney General shall designate an existing official within the Department of Justice—
+  - **(1)** to develop practices and procedures to carry out the requirement established in subsection (a); and
+  - **(2)** to monitor compliance with those practices and procedures by the bureaus, agencies, and other subdivisions of the Department.
 
-## § 3. Department of Homeland Security Program
+## § 3. Annual report
 
-- **(a)** *Creation of program* The Secretary of the Department of Homeland Security shall establish a program within the Department of Homeland Security to recruit and assign individuals for authorized Federal law enforcement and security positions, and retain individuals in those positions, in States that have experienced a high rate of homicides and other violent crimes.
-- **(b)** *Federal coordinator* The Secretary of the Department of Homeland Security shall designate an official within the Department of Homeland Security to be the Federal coordinator of the program established under this section.
-- **(c)** *Duties of coordinator* The Federal coordinator appointed under this section shall—
-  - **(1)** consult with the chief executive of, and with law enforcement agencies in, States that have experienced a high rate of homicides and other violent crimes to determine how additional Federal personnel can help address the State’s needs in this area; and
-  - **(2)** coordinate the implementation of the program established under this section.
+Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Attorney General shall submit to the Committees on Appropriations and the Committees on the Judiciary of the Senate and the House of Representatives a report on the implementation of the requirement established in section 2. The report shall, for the year it covers—
 
-## § 4. Definition of “State”
+- **(1)** specify which States and local jurisdictions have a high incidence of homicide or other violent crime;
+- **(2)** identify the specific steps taken by the Attorney General to implement the requirement with respect to each of those States and local jurisdictions; and
+- **(3)** provide a description of the methodology (including any changes made in that methodology) that the Attorney General has used to determine the total number of authorized Federal law enforcement positions, to allocate those authorized positions among States and local jurisdictions, and to assign personnel to fill those authorized positions.
 
-In this Act, the term “State” means any State of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, American Samoa, Guam, or the Northern Mariana Islands.
+## § 4. Definitions
+
+In this Act, the following definitions apply:
+
+- **(1)** *Federal Law Enforcement Personnel* The term “Federal law enforcement personnel” means law enforcement personnel employed by the Department of Justice, including law enforcement personnel in any of the following agencies of the Department:
+  - **(A)** The Drug Enforcement Administration.
+  - **(B)** The Federal Bureau of Investigation.
+  - **(C)** The Bureau of Alcohol, Tobacco, Firearms and Explosives.
+  - **(D)** The United States Marshals Service.
+- **(2)** *Local jurisdiction* The term “local jurisdiction” has the meaning given the term “unit of local government” in section 901(3) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3791(3)).
+- **(3)** *State* The term “State” means any State of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, American Samoa, Guam, or the Northern Mariana Islands.
