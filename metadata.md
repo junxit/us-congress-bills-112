@@ -1,7 +1,7 @@
 ---
 measure: S. 300
 congress: 112
-version: Reported in House
+version: Engrossed Amendment House
 ---
 
 # S. 300
@@ -51,3 +51,11 @@ Government Charge Card Abuse Prevention Act of 2012
 - 2012-01-27 — Placed on the Union Calendar, Calendar No. 257.
 - 2012-01-27 — Reported by the Committee on Oversight and Government Reform. H. Rept. 112-376, Part I.
 - 2012-01-27 — Reported by the Committee on Oversight and Government Reform. H. Rept. 112-376, Part I.
+- 2012-07-31 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mrs. Maloney objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2012-07-31 — Considered under suspension of the rules. (consideration: CR H5411-5414)
+- 2012-07-31 — DEBATE - The House proceeded with forty minutes of debate on S. 300.
+- 2012-07-31 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
+- 2012-08-01 — Considered as unfinished business. (consideration: CR H5599)
+- 2012-08-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/31/2012 H5411-5412)
+- 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/31/2012 H5411-5412)

@@ -1,7 +1,7 @@
 ---
 measure: S. 300
 congress: 112
-version: Reported in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | in subsection (b), by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 19 of title 41, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of chapter 19 of title 41, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (2), (3), (4), (5), (6), and (7) as paragraphs (3), (4), (5), (6), (7), and (8), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following new paragraph (2): | the bill names no machine-readable US Code section |
+| — | amend | by adding after paragraph (10) the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2 of the Travel and Transportation Reform Act of 1998 (Public Law 105–264; 5 U.S.C. 5701 note) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
