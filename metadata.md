@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3120
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3120
@@ -32,3 +32,11 @@ Student Visa Reform Act
 - 2012-07-12 — Placed on the Union Calendar, Calendar No. 430.
 - 2012-07-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-595.
 - 2012-07-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-595.
+- 2012-07-31 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Smith (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2012-07-31 — Considered under suspension of the rules. (consideration: CR H5504-5506)
+- 2012-07-31 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3120.
+- 2012-07-31 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2012-08-01 — Considered as unfinished business. (consideration: CR H5619)
+- 2012-08-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/31/2012 H5504-5505)
+- 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/31/2012 H5504-5505)
