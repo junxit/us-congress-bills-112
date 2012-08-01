@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3641
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3641
@@ -43,3 +43,4 @@ Pinnacles National Park Act
 - 2012-07-31 — Mr. Lamborn moved to suspend the rules and pass the bill, as amended.
 - 2012-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5433)
 - 2012-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5433)
+- 2012-08-01 — Received in the Senate, read twice.
