@@ -17,9 +17,9 @@ This Act may be cited as the “Albuquerque, New Mexico, Federal Land Conveyance
 
 In this Act:
 
-- **(1)** *Administrator* The term “Administrator” means the Administrator of General Services.
-- **(2)** *Federal land* The term “Federal land” means the real property located in Albuquerque, New Mexico, that, as determined by the Administrator, subject to survey, generally consists of lots 12 through 19, and for the westerly boundary, the portion of either lot 19 or 20 which is the outside west wall of the basement level of the Old Post Office building, and which has a municipal address of 123 Fourth Street, SW, in Block 18, New Mexico Town Company’s Original Townsite, Albuquerque, New Mexico.
-- **(3)** *Foundation* The term “Foundation” means the Amy Biehl High School Foundation.
+- **(1)** *Administrator* The term Administrator means the Administrator of General Services.
+- **(2)** *Federal land* The term Federal land means the real property located in Albuquerque, New Mexico, that, as determined by the Administrator, subject to survey, generally consists of lots 12 through 19, and for the westerly boundary, the portion of either lot 19 or 20 which is the outside west wall of the basement level of the Old Post Office building, and which has a municipal address of 123 Fourth Street, SW, in Block 18, New Mexico Town Company’s Original Townsite, Albuquerque, New Mexico.
+- **(3)** *Foundation* The term Foundation means the Amy Biehl High School Foundation.
 
 ## § 3. Conveyance of real property in Albuquerque, New Mexico, to the Amy Biehl High School Foundation
 

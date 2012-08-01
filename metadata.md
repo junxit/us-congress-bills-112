@@ -1,7 +1,7 @@
 ---
 measure: S. 3370
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3370
@@ -24,3 +24,7 @@ Albuquerque, New Mexico, Federal Land Conveyance Act of 2012
 
 - 2012-07-11 — Introduced in Senate
 - 2012-07-11 — Read twice and referred to the Committee on Environment and Public Works.
+- 2012-07-25 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2012-08-01 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2012-08-01 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2012-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 483.
