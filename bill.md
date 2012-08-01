@@ -25,7 +25,7 @@ The Congress finds the following:
 - **(2)** The Pro Football Hall of Fame opened its doors on September 7, 1963. On that day a charter class of 17 players, coaches, and contributors were enshrined. Among the group were such legends as Sammy Baugh, Red Grange, George Halas, Don Hutson, Bronko Nagurski, and Jim Thorpe. Through 2012, there are 273 members who have been elected to the Pro Football Hall of Fame. Three distinct iconic symbols represent an individual's membership in the Hall of Fame: a bronze bust, a Hall of Fame gold jacket, and a Hall of Fame ring.
 - **(3)** The Pro Football Hall of Fame has welcomed nearly 9 million visitors from around the world since opening in 1963. The museum has grown from its original 19,000-square-foot building to an 118,000-square-foot, state-of-the-art facility as result of expansions in 1971, 1978, 1995, and most recently in 2011–2013. In addition, major exhibit renovations have been completed in 2003, 2008, and 2009.
 - **(4)** The Pro Football Hall of Fame houses the world's largest collection on professional football. Included in the museum's vast collection are more than 20,000 three-dimensional artifacts and more than 20 million pages of documents including nearly 3,000,000 photographic images.
-- **(5)** The Pro Football Hall of Fame reaches a world-wide audience of nearly 15,000,000 people annually through visitors to the museum, participants in the annual Pro Football Hall of Fame En­shrine­ment Festival, three nationally televised events, the Hall of Fame's Web site, social media outlets, special events across the country, and through the museum's Educational Outreach vid­eo­con­fer­enc­ing programs.
+- **(5)** The Pro Football Hall of Fame reaches a world-wide audience of nearly 15,000,000 people annually through visitors to the museum, participants in the annual Pro Football Hall of Fame Enshrinement Festival, three nationally televised events, the Hall of Fame's Web site, social media outlets, special events across the country, and through the museum's Educational Outreach videoconferencing programs.
 
 ## § 3. Coin specifications
 
@@ -83,3 +83,14 @@ The Congress finds the following:
 - **(b)** *Distribution* Subject to section 5134(f)(1) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the Pro Football Hall of Fame, to help finance the construction of a new building and renovation of existing Pro Football Hall of Fame facilities.
 - **(c)** *Audits* The Pro Football Hall of Fame shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
 - **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
+
+## § 8. Financial assurances
+
+The Secretary shall take such actions as may be necessary to ensure that—
+
+- **(1)** minting and issuing coins under this Act will not result in any net cost to the United States Government; and
+- **(2)** no funds, including applicable surcharges, shall be disbursed to any recipient designated in section 7 until the total cost of designing and issuing all of the coins authorized by this Act (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping) is recovered by the United States Treasury, consistent with sections 5112(m) and 5134(f) of title 31, United States Code.
+
+## § 9. Budget compliance
+
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
