@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6062
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6062
@@ -48,3 +48,7 @@ Edward Byrne Memorial Justice Assistance Grant Program Reauthorization Act of 20
 - 2012-07-31 — Placed on the Union Calendar, Calendar No. 457.
 - 2012-07-31 — Reported by the Committee on Judiciary. H. Rept. 112-636.
 - 2012-07-31 — Reported by the Committee on Judiciary. H. Rept. 112-636.
+- 2012-08-01 — Considered as unfinished business. (consideration: CR H5619)
+- 2012-08-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-08-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/31/2012 H5514)
+- 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/31/2012 H5514)
