@@ -2,7 +2,7 @@
 legis-num: H. RES. 747
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 747
@@ -17,7 +17,7 @@ Upon adoption of this resolution it shall be in order to consider in the House t
 
 ## § 3.
 
-On any legislative day during the period from August 3, 2012, through September 7, 2012, —
+On any legislative day during the period from August 3, 2012, through September 7, 2012—
 
 - **(a)** the Journal of the proceedings of the previous day shall be considered as approved;
 - **(b)** the Chair may at any time declare the House adjourned to meet at a date and time, within the limits of clause 4, section 5, article I of the Constitution, to be announced by the Chair in declaring the adjournment; and
@@ -46,3 +46,12 @@ It shall be in order at any time on the legislative day of August 2, 2012, for t
 ## § 9.
 
 The requirement of clause 6(a) of rule XIII for a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House is waived with respect to any resolution reported through the legislative day of August 2, 2012.
+
+## § 10.
+
+- **(a)** In the engrossment of H.R. 8 the Clerk shall—
+  - **(1)** add the text of H.R. 6169, as passed by the House, as new matter at the end of H.R. 8;
+  - **(2)** conform the title of H.R. 8 to reflect the addition of H.R. 6169, as passed by the House, to the engrossment;
+  - **(3)** assign appropriate designations to provisions within the engrossment; and
+  - **(4)** conform provisions for short titles within the engrossment.
+- **(b)** Upon the addition of the text of H.R. 6169, as passed by the House, to the engrossment of H.R. 8, H.R. 6169 shall be laid on the table.
