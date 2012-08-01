@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4362
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -34,4 +34,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1028(d)(7) of title 18, United States Code, is amended by striking “specific individual” and inserting “specific person”. | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (10), by striking “or”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (11), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
