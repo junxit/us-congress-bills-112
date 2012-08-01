@@ -7,12 +7,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5797
 
-> To amend title 46, United States Code, with respect to Mille Lacs Lake, Minnesota, and for other purposes.
+> To exempt the owners and operators of vessels operating on Mille Lacs Lake, Minnesota, from certain Federal requirements.
 
 ## § 1. Short title
 
 This Act may be cited as the “Mille Lacs Lake Freedom To Fish Act of 2012”.
 
-## § 2. Mille Lacs Lake
+## § 2. Mille Lacs Lake, Minnesota
 
-Section 4101(1) of title 46, United States Code, is amended by inserting before the semicolon the following: “(except that, for purposes of this section, the navigable waters of the United States shall be treated as not including Mille Lacs Lake, Minnesota)”.
+Notwithstanding any other provision of law, the owner or operator of a vessel operating on Mille Lacs Lake, Minnesota, shall not, with respect to such vessel, be subject to any Federal requirement under subtitle II of title 46, United States Code, relating to licensing or vessel inspection.
