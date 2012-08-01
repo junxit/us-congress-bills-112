@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1905
-congress: 112th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1905
 
-That the House agree to the amendment of the Senate to the bill (H.R. 1905) entitled “An Act to strengthen Iran sanctions laws for the purpose of compelling Iran to abandon its pursuit of nuclear weapons and other threatening activities, and for other purposes.”, with the following
-
-*In lieu of the matter proposed to be inserted by the amendment of the Senate, insert the following:*
+> To strengthen Iran sanctions laws for the purpose of compelling Iran to abandon its pursuit of nuclear weapons and other threatening activities, and for other purposes.
 
 ## § 1. Short title; table of contents
 

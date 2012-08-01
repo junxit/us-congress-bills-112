@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1905
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
