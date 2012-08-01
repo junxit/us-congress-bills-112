@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3158
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3158
@@ -16,7 +16,7 @@ Farmers Undertake Environmental Land Stewardship Act
 
 - Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
 
-## Cosponsors (20)
+## Cosponsors (41)
 
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Ribble, Reid J. [R-WI-8] (R000587)
@@ -38,6 +38,27 @@ Farmers Undertake Environmental Land Stewardship Act
 - Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
 - Rep. Carter, John R. [R-TX-31] (C001051)
 - Rep. Emerson, Jo Ann [R-MO-8] (E000172)
+- Rep. Long, Billy [R-MO-7] (L000576)
+- Rep. Lankford, James [R-OK-5] (L000575)
+- Rep. Canseco, Francisco "Quico" [R-TX-23] (C001082)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Johnson, Bill [R-OH-6] (J000292)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Boren, Dan [D-OK-2] (B001254)
+- Rep. Latham, Tom [R-IA-4] (L000111)
+- Rep. Rehberg, Denny [R-MT-At Large] (R000571)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. Kissell, Larry [D-NC-8] (K000369)
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Cravaack, Chip [R-MN-8] (C001086)
+- Rep. Barletta, Lou [R-PA-11] (B001269)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
 
 ## Committees (1)
 
@@ -48,3 +69,16 @@ Farmers Undertake Environmental Land Stewardship Act
 - 2011-10-12 — Introduced in House
 - 2011-10-12 — Introduced in House
 - 2011-10-12 — Referred to the House Committee on Transportation and Infrastructure.
+- 2011-10-14 — Referred to the Subcommittee on Water Resources and Environment.
+- 2012-07-26 — Committee Consideration and Mark-up Session Held.
+- 2012-07-26 — Ordered to be Reported by Voice Vote.
+- 2012-07-26 — Subcommittee on Water Resources and Environment Discharged.
+- 2012-08-01 — Considered under suspension of the rules. (consideration: CR H5608-5609)
+- 2012-08-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3158.
+- 2012-08-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-08-01 — Mr. Crawford moved to suspend the rules and pass the bill, as amended.
+- 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5608)
+- 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5608)
+- 2012-08-01 — Placed on the Union Calendar, Calendar No. 462.
+- 2012-08-01 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-643.
+- 2012-08-01 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-643.
