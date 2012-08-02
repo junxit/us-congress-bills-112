@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4362
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+4 amendatory instructions. 1 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 18 U.S.C. § 1028
+
+> Section 1028(d)(7) of title 18, United States Code, is amended by striking “specific individual” and inserting “specific person”.
+
+| | |
+|---|---|
+| Removed | `specific individual` |
+| Inserted | `specific person` |
 
 ## Stated, not applied
 
@@ -31,7 +42,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 1028(d)(7) of title 18, United States Code, is amended by striking “specific individual” and inserting “specific person”. | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (10), by striking “or”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (11), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 1028A` | strike | in paragraph (10), by striking “or”; | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 1028A` | replace | in paragraph (11), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 1028A` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

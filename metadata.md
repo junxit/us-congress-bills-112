@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4362
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4362
@@ -32,9 +32,10 @@ STOP Identity Theft Act of 2012
 - Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ STOP Identity Theft Act of 2012
 - 2012-08-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-08-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/31/2012 H5510-5511)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/31/2012 H5510-5511)
+- 2012-08-02 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
