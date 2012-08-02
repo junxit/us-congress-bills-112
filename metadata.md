@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1550
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1550
@@ -36,10 +36,11 @@ Federal Law Enforcement Personnel and Resources Allocation Improvement Act of 20
 - Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Homeland Security Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Federal Law Enforcement Personnel and Resources Allocation Improvement Act of 20
 - 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/31/2012 H5515-5516)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/31/2012 H5515-5516)
 - 2012-08-01 — The title of the measure was amended. Agreed to without objection.
+- 2012-08-02 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
