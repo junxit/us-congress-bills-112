@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4073
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4073
@@ -42,3 +42,12 @@ To authorize the Secretary of Agriculture to accept the quitclaim, disclaimer, a
 - 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/31/2012 H5432)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/31/2012 H5432)
 - 2012-08-02 — Received in the Senate, read twice.
+- 2012-12-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8552-8556)
+- 2012-12-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8552-8556)
+- 2012-12-31 — Message on Senate action sent to the House.
+- 2013-01-01 — Presented to President.
+- 2013-01-01 — Presented to President.
+- 2013-01-10 — Became Public Law No: 112-250.
+- 2013-01-10 — Became Public Law No: 112-250.
+- 2013-01-10 — Signed by President.
+- 2013-01-10 — Signed by President.
