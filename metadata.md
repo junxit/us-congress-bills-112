@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3706
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3706
@@ -16,9 +16,10 @@ To create the Office of Chief Financial Officer of the Government of the Virgin 
 
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To create the Office of Chief Financial Officer of the Government of the Virgin 
 - 2012-08-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/31/2012 H5435)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/31/2012 H5435)
+- 2012-08-02 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
