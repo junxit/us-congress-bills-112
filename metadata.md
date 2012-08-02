@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 127
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 127
@@ -86,6 +86,10 @@ Expressing the sense of Congress regarding actions to preserve and advance the m
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2012-08-02 — [House 112-2-555](votes/house-112-2-0555.md) — On Motion to Suspend the Rules and Agree — **Passed** (414–0)
+
 ## Actions
 
 - 2012-05-30 — Introduced in House
@@ -97,3 +101,11 @@ Expressing the sense of Congress regarding actions to preserve and advance the m
 - 2012-06-29 — Placed on the House Calendar, Calendar No. 143.
 - 2012-06-29 — Reported by the Committee on Energy and Commerce. H. Rept. 112-564.
 - 2012-06-29 — Reported by the Committee on Energy and Commerce. H. Rept. 112-564.
+- 2012-08-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-08-01 — Considered under suspension of the rules. (consideration: CR H5599-5602)
+- 2012-08-01 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 127.
+- 2012-08-01 — Mr. Walden moved to suspend the rules and agree to the resolution.
+- 2012-08-02 — Considered as unfinished business. (consideration: CR H5684-5685)
+- 2012-08-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-08-02 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 555). (text: CR 8/2/2012 H5599)
+- 2012-08-02 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 555).(text: CR 8/2/2012 H5599)
