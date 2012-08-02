@@ -1,7 +1,7 @@
 ---
 measure: S. 3510
 congress: 112
-version: Engrossed in Senate
+version: Introduced in Senate
 ---
 
 # S. 3510
