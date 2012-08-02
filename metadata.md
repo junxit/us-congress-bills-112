@@ -1,7 +1,7 @@
 ---
 measure: S. 1218
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1218
@@ -28,3 +28,7 @@ Lumbee Recognition Act
 
 - 2011-06-16 — Introduced in Senate
 - 2011-06-16 — Read twice and referred to the Committee on Indian Affairs.
+- 2011-07-28 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2012-08-02 — Committee on Indian Affairs. Reported by Senator Akaka without amendment. With written report No. 112-200. Additional views filed.
+- 2012-08-02 — Committee on Indian Affairs. Reported by Senator Akaka without amendment. With written report No. 112-200. Additional views filed.
+- 2012-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 490.

@@ -1,13 +1,20 @@
 ---
 legis-num: S. 1218
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1218
 
 > To provide for the recognition of the Lumbee Tribe of North Carolina, and for other purposes.
+
+## Preamble
+
+- Whereas the Lumbee Indians of Robeson and adjoining counties in North Carolina are descendants of coastal North Carolina Indian tribes, principally Cheraw, and have remained a distinct Indian community since the time of contact with white settlers;
+- Whereas since 1885 the State of North Carolina has recognized the Lumbee Indians as an Indian tribe;
+- Whereas in 1956 the Congress of the United States acknowledged the Lumbee Indians as an Indian tribe, but withheld from the Lumbee Tribe the benefits, privileges and immunities to which the Tribe and its members otherwise would have been entitled by virtue of the Tribe’s status as a federally recognized tribe; and
+- Whereas the Congress finds that the Lumbee Indians should now be entitled to full Federal recognition of their status as an Indian tribe and that the benefits, privileges and immunities that accompany such status should be accorded to the Lumbee Tribe: Now, therefore,
 
 ## § 1. Short title
 
