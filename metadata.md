@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1402
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1402
@@ -46,3 +46,16 @@ To authorize the Architect of the Capitol to establish battery recharging statio
 - 2012-07-26 — Placed on the Union Calendar, Calendar No. 449.
 - 2012-07-26 — Reported (Amended) by the Committee on House Administration. H. Rept. 112-625.
 - 2012-07-26 — Reported (Amended) by the Committee on House Administration. H. Rept. 112-625.
+- 2012-08-02 — Amendment (A001) offered by Mr. Lungren, Daniel E.. (consideration: CR H5650; text: CR H5650)
+- 2012-08-02 — Amendment agreed to by House: On agreeing to the Lungren, Daniel E. amendment (A001) Agreed to without objection.
+- 2012-08-02 — Considered by unanimous consent. (consideration: CR H5650; text of measure as reported in House: CR H5650)
+- 2012-08-02 — House amendment agreed to: On agreeing to the Lungren, Daniel E. amendment (A001) Agreed to without objection.
+- 2012-08-02 — House amendment offered
+- 2012-08-02 — House amendment offered/reported by: Amendment (A001) offered by Mr. Lungren, Daniel E..(consideration: CR H5650; text: CR H5650)
+- 2012-08-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-08-02 — Mr. Lungren, Daniel E. asked unanimous consent to take from the Speaker's table and consider.
+- 2012-08-02 — On agreeing to the Lungren, Daniel E. amendment (A001) Agreed to without objection.
+- 2012-08-02 — On passage Passed without objection.
+- 2012-08-02 — Passed/agreed to in House: On passage Passed without objection.
+- 2012-08-02 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6007)
+- 2012-08-02 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6007)

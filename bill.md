@@ -30,7 +30,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** available for obligation without further appropriation during—
     - **(A)** the fiscal year collected; and
     - **(B)** the fiscal year following the fiscal year collected.
-- **(e)** *Annual reports* Not later than 30 days after the end of each fiscal year, the Architect of the Capitol shall submit a report on the financial administration and cost recovery of activities under this section with respect to that fiscal year to the Committee on House Administration of the House of Representatives.
 - **(e)** *Reports*
   - **(1)** *In general* Not later than 30 days after the end of each fiscal year, the Architect of the Capitol shall submit a report on the financial administration and cost recovery of activities under this section with respect to that fiscal year to the Committee on House Administration of the House of Representatives.
   - **(2)** *Avoiding subsidy*
