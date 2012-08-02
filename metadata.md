@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4273
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4273
@@ -37,9 +37,10 @@ Resolving Environmental and Grid Reliability Conflicts Act of 2012
 - Rep. Gingrey, Phil [R-GA-11] (G000550)
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ Resolving Environmental and Grid Reliability Conflicts Act of 2012
 - 2012-08-01 — Mr. Olson moved to suspend the rules and pass the bill, as amended.
 - 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5602-5603)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5602-5603)
+- 2012-08-02 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
