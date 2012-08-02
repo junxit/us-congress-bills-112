@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4073
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4073
@@ -41,3 +41,4 @@ To authorize the Secretary of Agriculture to accept the quitclaim, disclaimer, a
 - 2012-08-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/31/2012 H5432)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/31/2012 H5432)
+- 2012-08-02 — Received in the Senate, read twice.
