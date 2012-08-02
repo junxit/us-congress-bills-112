@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3187
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3187
@@ -343,3 +343,12 @@ March of Dimes Commemorative Coin Act of 2012
 - 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5613-5614)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5613-5614)
 - 2012-08-02 — Received in the Senate, read twice.
+- 2012-12-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7706)
+- 2012-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7706)
+- 2012-12-11 — Message on Senate action sent to the House.
+- 2012-12-12 — Presented to President.
+- 2012-12-12 — Presented to President.
+- 2012-12-18 — Became Public Law No: 112-209.
+- 2012-12-18 — Became Public Law No: 112-209.
+- 2012-12-18 — Signed by President.
+- 2012-12-18 — Signed by President.

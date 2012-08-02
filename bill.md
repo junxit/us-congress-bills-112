@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 3187
-congress: 112th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3187
@@ -19,7 +19,7 @@ The Congress finds the following:
 
 - **(1)** President Franklin Roosevelt’s personal struggle with polio led him to create the National Foundation for Infantile Paralysis (now known as the March of Dimes) on January 3, 1938, at a time when polio was on the rise.
 - **(2)** The Foundation established patient aid programs and funded research for polio vaccines developed by Jonas Salk, MD, and Albert Sabin, MD.
-- **(3)** Tested in a massive field trial in 1954 that involved 1.8 million schoolchildren known as polio pioneers, the Salk vaccine was licensed for use on April 12, 1955 as safe, effective, and potent. The Salk and Sabin polio vaccines funded by the March of Dimes ended the polio epidemic in the United States.
+- **(3)** Tested in a massive field trial in 1954 that involved 1.8 million schoolchildren known as “polio pioneers”, the Salk vaccine was licensed for use on April 12, 1955 as “safe, effective, and potent”. The Salk and Sabin polio vaccines funded by the March of Dimes ended the polio epidemic in the United States.
 - **(4)** With its original mission accomplished, the Foundation turned its focus to preventing birth defects, prematurity, and infant mortality in 1958. The Foundation began to fund research into the genetic, prenatal, and environmental causes of over 3,000 birth defects.
 - **(5)** The Foundation’s investment in research has led to 13 scientists winning the Nobel Prize since 1954, including Dr. James Watson’s discovery of the double helix.
 - **(6)** Virginia Apgar, MD, creator of the Apgar Score, helped develop the Foundation’s mission for birth defects prevention; joining the Foundation as the head of its new birth defects division in 1959.
@@ -31,7 +31,7 @@ The Congress finds the following:
 
 ## § 3. Coin specifications
 
-- **(a)** *$1 silver coins* In recognition and celebration of the founding and proud service of the March of Dimes, the Secretary of the Treasury (hereafter in this Act referred to as the Secretary) shall mint and issue not more than 500,000 $1 coins, which shall—
+- **(a)** *$1 silver coins* In recognition and celebration of the founding and proud service of the March of Dimes, the Secretary of the Treasury (hereafter in this Act referred to as the “Secretary”) shall mint and issue not more than 500,000 $1 coins, which shall—
   - **(1)** weigh 26.73 grams;
   - **(2)** have a diameter of 1.500 inches; and
   - **(3)** contain 90 percent silver and 10 percent copper.
@@ -44,8 +44,8 @@ The Congress finds the following:
   - **(1)** *In general* The design of the coins minted under this Act shall be emblematic of the mission and programs of the March of Dimes, and its distinguished record of generating Americans’ support to protect our children’s health.
   - **(2)** *Designation and inscriptions* On each coin minted under this Act, there shall be—
     - **(A)** a designation of the value of the coin;
-    - **(B)** an inscription of the year 2015; and
-    - **(C)** inscriptions of the words Liberty, In God We Trust, United States of America, and E Pluribus Unum.
+    - **(B)** an inscription of the year “2015”; and
+    - **(C)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”.
 - **(b)** *Selection* The design for the coins minted under this Act shall—
   - **(1)** contain motifs that represent the past, present, and future of the March of Dimes and its role as champion for all babies, such designs to be consistent with the traditions and heritage of the March of Dimes;
   - **(2)** be selected by the Secretary, after consultation with the March of Dimes and the Commission of Fine Arts; and
@@ -84,4 +84,4 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 ## § 9. Budget compliance
 
-The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled Budgetary Effects of PAYGO Legislation for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled “Budgetary Effects of PAYGO Legislation” for this Act, submitted for printing in the Congressional Record by the Chairman of the Committee on the Budget of the House of Representatives, provided that such statement has been submitted prior to the vote on passage.
