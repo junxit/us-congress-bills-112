@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 58
 congress: 112
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
