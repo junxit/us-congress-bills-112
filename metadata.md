@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5856
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5856
@@ -539,3 +539,6 @@ Department of Defense Appropriations Act, 2013
 - 2012-07-19 — The previous question was ordered pursuant to the rule. (consideration: CR H5071)
 - 2012-07-19 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2012-07-23 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2012-08-02 — Committee on Appropriations. Reported by Senator Inouye with an amendment in the nature of a substitute. With written report No. 112-196.
+- 2012-08-02 — Committee on Appropriations. Reported by Senator Inouye with an amendment in the nature of a substitute. With written report No. 112-196.
+- 2012-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 485.
