@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3158
 congress: 112
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3158
@@ -60,9 +60,10 @@ Farmers Undertake Environmental Land Stewardship Act
 - Rep. Barletta, Lou [R-PA-11] (B001269)
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -82,3 +83,4 @@ Farmers Undertake Environmental Land Stewardship Act
 - 2012-08-01 — Placed on the Union Calendar, Calendar No. 462.
 - 2012-08-01 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-643.
 - 2012-08-01 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 112-643.
+- 2012-08-02 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.

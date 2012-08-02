@@ -2,7 +2,7 @@
 legis-num: H.R. 3158
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3158
@@ -18,16 +18,16 @@ This Act may be cited as the “Farmers Undertake Environmental Land Stewardship
 - **(a)** *In general* The Administrator, in implementing the Spill Prevention, Control, and Countermeasure rule with respect to any farm, shall—
   - **(1)** require certification of compliance with such rule by—
     - **(A)** a professional engineer for a farm with—
-      - **(i)** an individual tank with a storage capacity greater than 10,000 gallons;
-      - **(ii)** an aggregate storage capacity greater than or equal to 42,000 gallons; or
-      - **(iii)** a history that includes a spill; or
+      - **(i)** an individual tank with an aboveground storage capacity greater than 10,000 gallons;
+      - **(ii)** an aggregate aboveground storage capacity greater than or equal to 42,000 gallons; or
+      - **(iii)** a history that includes a spill, as determined by the Administrator; or
     - **(B)** the owner or operator of the farm (via self-certification) for a farm with—
-      - **(i)** an aggregate storage capacity greater than 10,000 gallons but less than 42,000 gallons; and
-      - **(ii)** no history of spills; and
+      - **(i)** an aggregate aboveground storage capacity greater than 10,000 gallons but less than 42,000 gallons; and
+      - **(ii)** no history of spills, as determined by the Administrator; and
   - **(2)** exempt from all requirements of such rule any farm—
-    - **(A)** with an aggregate storage capacity of less than or equal to 10,000 gallons; and
-    - **(B)** no history of spills.
-- **(b)** *Calculation of aggregate storage capacity* For the purposes of subsection (a), the aggregate storage capacity of a farm excludes all containers on separate parcels that have a capacity that is less than 1,320 gallons.
+    - **(A)** with an aggregate aboveground storage capacity of less than or equal to 10,000 gallons; and
+    - **(B)** no history of spills, as determined by the Administrator.
+- **(b)** *Calculation of aggregate aboveground storage capacity* For the purposes of subsection (a), the aggregate aboveground storage capacity of a farm excludes all containers on separate parcels that have a capacity that is less than 1,320 gallons.
 
 ## § 3. Definitions
 
