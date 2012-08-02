@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1171
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1171
@@ -59,10 +59,11 @@ Marine Debris Act Amendments of 2012
 - Rep. McNerney, Jerry [D-CA-11] (M001166)
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ Marine Debris Act Amendments of 2012
 - 2012-08-01 — Mr. Young (AK) moved to suspend the rules and pass the bill, as amended.
 - 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5609-5610)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5609-5610)
+- 2012-08-02 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
