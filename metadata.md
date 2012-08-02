@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 135
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 135
@@ -34,3 +34,4 @@ Authorizing the use of the rotunda of the Capitol for the presentation of the Co
 - 2012-08-01 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H5552)
 - 2012-08-02 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6013)
 - 2012-08-02 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6013)
+- 2012-08-03 — Message on Senate action sent to the House.
