@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6062
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6062
@@ -29,9 +29,10 @@ Edward Byrne Memorial Justice Assistance Grant Program Reauthorization Act of 20
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ Edward Byrne Memorial Justice Assistance Grant Program Reauthorization Act of 20
 - 2012-08-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-08-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/31/2012 H5514)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/31/2012 H5514)
+- 2012-08-02 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
