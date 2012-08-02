@@ -1,7 +1,7 @@
 ---
 measure: S. 1409
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1409
@@ -26,9 +26,10 @@ Improper Payments Elimination and Recovery Improvement Act of 2012
 - Sen. Brown, Scott P. [R-MA] (B001268)
 - Sen. Coburn, Tom [R-OK] (C000560)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -46,3 +47,6 @@ Improper Payments Elimination and Recovery Improvement Act of 2012
 - 2012-08-01 — Senate amendment agreed to: Amendment SA 2770 agreed to in Senate by Unanimous Consent.
 - 2012-08-01 — Senate amendment proposed (on the floor): Amendment SA 2770 proposed by Senator Reid for Senator Carper.(consideration: CR S5896-5898; text: CR S5896-5898)
 - 2012-08-01 — Senate amendment submitted
+- 2012-08-02 — Message on Senate action sent to the House.
+- 2012-08-02 — Received in the House.
+- 2012-08-02 — Referred to the House Committee on Oversight and Government Reform.
