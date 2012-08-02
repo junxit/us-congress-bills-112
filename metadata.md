@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4104
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4104
@@ -329,3 +329,4 @@ Pro Football Hall of Fame Commemorative Coin Act
 - 2012-08-01 — Mr. Renacci moved to suspend the rules and pass the bill, as amended.
 - 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5616-5617)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5616-5617)
+- 2012-08-02 — Received in the Senate.
