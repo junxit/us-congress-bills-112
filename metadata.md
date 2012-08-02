@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5882
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5882
@@ -116,3 +116,6 @@ Legislative Branch Appropriations Act, 2013
 - 2012-06-08 — The previous question was ordered pursuant to the rule. (consideration: CR H3688)
 - 2012-06-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2012-06-11 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2012-08-02 — Committee on Appropriations. Reported by Senator Nelson NE, with an amendment in the nature of a substitute. With written report No. 112-197.
+- 2012-08-02 — Committee on Appropriations. Reported by Senator Nelson NE, with an amendment in the nature of a substitute. With written report No. 112-197.
+- 2012-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 466.
