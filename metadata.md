@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 402
 congress: 112
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 402
@@ -79,3 +79,12 @@ Amend the title so as to read: `Condemning Joseph Kony and the Lord's Resistance
 - 2012-06-20 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2012-06-20 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2012-06-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 432.
+- 2012-08-02 — Amendment SA 2775 agreed to in Senate by Unanimous Consent.
+- 2012-08-02 — Amendment SA 2775 proposed by Senator Reid for Senator Coons. (consideration: CR S6008-6009; text: CR S6008-6009) In the nature of a substitute.
+- 2012-08-02 — Measure laid before Senate by unanimous consent. (consideration: CR S6007-6010)
+- 2012-08-02 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent.(text: CR S6009-6010)
+- 2012-08-02 — Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent. (text: CR S6009-6010)
+- 2012-08-02 — Senate amendment agreed to: Amendment SA 2775 agreed to in Senate by Unanimous Consent.
+- 2012-08-02 — Senate amendment proposed (on the floor): Amendment SA 2775 proposed by Senator Reid for Senator Coons.(consideration: CR S6008-6009; text: CR S6008-6009)
+- 2012-08-02 — Senate amendment submitted
+- 2012-08-02 — The committee reported substitute was withdrawn by Unanimous Consent. (text of measure as reported: CR S6007-6008)
