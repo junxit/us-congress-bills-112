@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4365
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4365
@@ -21,9 +21,10 @@ To amend title 5, United States Code, to make clear that accounts in the Thrift 
 - Rep. Ross, Dennis A. [R-FL-12] (R000593)
 - Rep. Scott, Austin [R-GA-8] (S001189)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ To amend title 5, United States Code, to make clear that accounts in the Thrift 
 - 2012-08-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 6, 1 Present (Roll no. 547). (text: CR 7/31/2012 H5410)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 6, 1 Present (Roll no. 547).(text: CR 7/31/2012 H5410)
+- 2012-08-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
