@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5797
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5797
@@ -16,9 +16,10 @@ Mille Lacs Lake Freedom To Fish Act of 2012
 
 - Rep. Cravaack, Chip [R-MN-8] (C001086)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Mille Lacs Lake Freedom To Fish Act of 2012
 - 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5606)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5606)
 - 2012-08-01 — The title of the measure was amended. Agreed to without objection.
+- 2012-08-02 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
