@@ -1,7 +1,7 @@
 ---
 legis-num: S. 772
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Supporting Employee Competency and Updating Readiness Enhancements for Facilities Act of 2011” or the “SECURE Facilities Act of 2011”.
+This Act may be cited as the “Supporting Employee Competency and Updating Readiness Enhancements for Facilities Act of 2012” or the “SECURE Facilities Act of 2012”.
 
 ## § 2. Definitions
 
@@ -75,10 +75,10 @@ In this Act:
 - **(a)** *Civil service retirement system*
   - **(1)** *Definition* Section 8331 of title 5, United States Code is amended—
     - **(A)** in paragraph (30), by striking “and” at the end;
-    - **(B)** in paragraph (31), by striking the period and inserting “and”; and
+    - **(B)** in paragraph (31), by striking the period and inserting “; and”; and
     - **(C)** by adding at the end the following:
       > - **(32)** Federal protective service officer means an employee in the Federal Protective Service of the Department of Homeland Security—
-      >   - **(A)** who holds a position within the GS–0083, GS–0080, GS–1801, or GS–1811 job series (determined applying the criteria in effect as of September 1, 2007 or any successor position; and
+      >   - **(A)** who holds a position within the GS–0083, GS–0080, GS–1801, or GS–1811 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position; and
       >   - **(B)** who are authorized to carry firearms and empowered to make arrests in the performance of duties related to the protection of buildings, grounds and property that are owned, occupied, or secured by the Federal Government (including any agency, instrumentality or wholly owned or mixed-ownership corporation thereof) and the persons on the property, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties in 1 or more positions (as described under subparagraph (A)) for at least 3 years.
 
   - **(2)** *Deductions, contributions, and deposits* Section 8334 of title 5, United States Code, is amended—
@@ -90,31 +90,33 @@ In this Act:
     - **(B)** in subsections (m) and (n), by inserting “as a Federal protective service officer,” before “or as a customs and border protection officer,”.
 - **(b)** *Federal employees retirement system*
   - **(1)** *Definition* Section 8401 of title 5, United States Code, is amended—
-    - **(A)** in paragraph (35), by striking “and” at the end;
-    - **(B)** in paragraph (36), by striking the period and inserting “and”; and
+    - **(A)** in paragraph (36), by striking “and” at the end;
+    - **(B)** in paragraph (37), by striking the period and inserting “; and”; and
     - **(C)** by adding at the end the following:
-      > - **(37)** Federal protective service officer means an employee in the Federal Protective Service of the Department of Homeland Security—
+      > - **(38)** Federal protective service officer means an employee in the Federal Protective Service of the Department of Homeland Security—
       >   - **(A)** who holds a position within the GS–0083, GS–0080, GS–1801, or GS–1811 job series (determined applying the criteria in effect as of September 1, 2007) or any successor position; and
       >   - **(B)** who are authorized to carry firearms and empowered to make arrests in the performance of duties related to the protection of buildings, grounds and property that are owned, occupied, or secured by the Federal Government (including any agency, instrumentality or wholly owned or mixed-ownership corporation thereof) and the persons on the property, including any such employee who is transferred directly to a supervisory or administrative position in the Department of Homeland Security after performing such duties in 1 or more positions (as described under subparagraph (A)) for at least 3 years.
 
   - **(2)** *Immediate retirement* Paragraphs (1) and (2) of section 8412(d) of title 5, United States Code, are amended by inserting “Federal protective service officer,” before “or customs and border protection officer,”.
-  - **(3)** *Computation of basic annuity* Section 8415(h)(2) of title 5, United States Code, is amended by inserting “Federal protective service officer,” before “or customs and border protection officer,”.
-  - **(4)** *Deductions from pay* The table contained in section 8422(a)(3) of title 5, United States Code, is amended by adding at the end the following:
-  - **(5)** *Government contributions* Paragraphs (1)(B)(i) and (3) of section 8423(a) of title 5, United States Code, are amended by inserting “Federal protective service officer,” before “customs and border protection officer,” each place that term appears.
+  - **(3)** *Computation of basic annuity* Section 8415(i)(2) of title 5, United States Code, is amended by inserting “Federal protective service officer,” before “or customs and border protection officer,”.
+  - **(4)** *Deductions from pay* Section 8422(a)(3) of title 5, United States Code, is amended—
+    - **(A)** in the table contained in subparagraph (A), by adding at the end the following:
+    - **(B)** in the table contained in subparagraph (B), by adding at the end the following:
+  - **(5)** *Government contributions* Paragraphs (1)(B)(i) and (3) of section 8423(a) of title 5, United States Code, are amended by inserting “Federal protective service officers,” before “customs and border protection officers,” each place that term appears.
   - **(6)** *Mandatory separation* Section 8425(b)(1) of title 5, United States Code, is amended—
     - **(A)** by inserting “Federal protective service officer,” before “or customs and border protection officer,” the first place that term appears; and
     - **(B)** inserting “Federal protective service officer,” before “or customs and border protection officer,” the second place that term appears.
 - **(c)** *Maximum age for original appointment* Section 3307 of title 5, United States Code, is amended by adding at the end the following:
-  > - **(h)** The Secretary of Homeland Security may determine and fix the maximum age limit for an original appointment to a position as a Federal protective service officer, as defined by section 8401(37).
+  > - **(h)** The Secretary of Homeland Security may determine and fix the maximum age limit for an original appointment to a position as a Federal protective service officer, as defined by section 8401(38).
 
 - **(d)** *Regulations* Any regulations necessary to carry out the amendments made by this section shall be prescribed by the Director of the Office of Personnel Management in consultation with the Secretary.
 - **(e)** *Effective date; transition rules; funding*
-  - **(1)** *Effective date* The amendments made by this section shall become effective on the later of June 30, 2011 or the first day of the first pay period beginning at least 6 months after the date of enactment of this Act.
+  - **(1)** *Effective date* The amendments made by this section shall become effective on the later of December 31, 2012 or the first day of the first pay period beginning at least 6 months after the date of enactment of this Act.
   - **(2)** *Transition rules*
     - **(A)** *Nonapplicability of mandatory separation provisions to certain individuals* The amendments made by subsections (a)(3) and (b)(6), respectively, shall not apply to an individual first appointed as a Federal protective service officer before the effective date under paragraph (1).
     - **(B)** *Treatment of prior Federal protective service officer service*
       - **(i)** *General rule* Except as provided in clause (ii), nothing in this section shall be considered to apply with respect to any service performed as a Federal protective service officer before the effective date under paragraph (1).
-      - **(ii)** *Exception* Service described in section 8331(32) and 8401(37) of title 5, United States Code (as amended by this section) rendered before the effective date under paragraph (1) may be taken into account to determine if an individual who is serving on or after such effective date then qualifies as a Federal protective service officer by virtue of holding a supervisory or administrative position in the Department of Homeland Security.
+      - **(ii)** *Exception* Service described in section 8331(32) and 8401(38) of title 5, United States Code (as amended by this section) rendered before the effective date under paragraph (1) may be taken into account to determine if an individual who is serving on or after such effective date then qualifies as a Federal protective service officer by virtue of holding a supervisory or administrative position in the Department of Homeland Security.
     - **(C)** *Minimum annuity amount* The annuity of an individual serving as a Federal protective service officer on the effective date under paragraph (1) pursuant to an appointment made before that date shall, to the extent that its computation is based on service rendered as a Federal protective service officer on or after that date, be at least equal to the amount that would be payable to the extent that such service is subject to the Civil Service Retirement System or Federal Employees Retirement System, as appropriate, by applying section 8339(d) of title 5, United States Code, with respect to such service.
     - **(D)** *Rule of construction* Nothing in the amendment made by subsection (c) shall be considered to apply with respect to any appointment made before the effective date under paragraph (1).
   - **(3)** *Fees and authorizations of appropriations*
@@ -129,7 +131,7 @@ In this Act:
         - **(II)** to be treated as if subsections (a) and (b) had never been enacted.
       - **(ii)** *Failure to make a timely election* Failure to make a timely election under clause (i) shall be treated in the same way as an election made under clause (i)(I) on the last day allowable under clause (iii).
       - **(iii)** *Deadline* An election under this subparagraph shall not be effective unless it is made at least 14 days before the effective date under paragraph (1).
-  - **(5)** *Definition* For the purposes of this subsection, the term Federal protective service officer has the meaning given such term by section 8331(32) or 8401(37) of title 5, United States Code (as amended by this section).
+  - **(5)** *Definition* For the purposes of this subsection, the term Federal protective service officer has the meaning given such term by section 8331(32) or 8401(38) of title 5, United States Code (as amended by this section).
   - **(6)** *Exclusion* Nothing in this section or any amendment made by this section shall be considered to afford any election or to otherwise apply with respect to any individual who, as of the day before the date of the enactment of this Act—
     - **(A)** holds a position within the Federal Protective Service; and
     - **(B)** is considered a law enforcement officer for purposes of subchapter III of chapter 83 or chapter 84 of title 5, United States Code, by virtue of such position.

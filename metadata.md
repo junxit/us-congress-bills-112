@@ -1,7 +1,7 @@
 ---
 measure: S. 772
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 772
@@ -30,3 +30,7 @@ SECURE Facilities Act of 2012
 - 2011-04-08 — Introduced in Senate
 - 2011-04-08 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S2353-2358)
 - 2011-04-08 — Sponsor introductory remarks on measure. (CR S2351-2353)
+- 2011-05-18 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2012-08-02 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 112-202.
+- 2012-08-02 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 112-202.
+- 2012-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 492.
