@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5986
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5986
@@ -16,7 +16,7 @@ To amend the African Growth and Opportunity Act to extend the third-country fabr
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 
-## Cosponsors (21)
+## Cosponsors (22)
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 - Rep. Brady, Kevin [R-TX-8] (B000755)
@@ -39,6 +39,7 @@ To amend the African Growth and Opportunity Act to extend the third-country fabr
 - Rep. Boustany, Charles W., Jr. [R-LA-7] (B001255)
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 - Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Coble, Howard [R-NC-6] (C000556)
 
 ## Committees (1)
 
@@ -49,3 +50,12 @@ To amend the African Growth and Opportunity Act to extend the third-country fabr
 - 2012-06-21 — Introduced in House
 - 2012-06-21 — Introduced in House
 - 2012-06-21 — Referred to the House Committee on Ways and Means.
+- 2012-08-02 — Considered under suspension of the rules. (consideration: CR H5640-5644)
+- 2012-08-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5986.
+- 2012-08-02 — Message on Senate action sent to the House.
+- 2012-08-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-08-02 — Mr. Camp moved to suspend the rules and pass the bill.
+- 2012-08-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5640-5641)
+- 2012-08-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5640-5641)
+- 2012-08-02 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S5934; text as passed Senate: CR S5934)
+- 2012-08-02 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S5934; text as passed Senate: CR S5934)
