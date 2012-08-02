@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6063
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6063
@@ -83,3 +83,14 @@ Child Protection Act of 2012
 - 2012-08-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/31/2012 H5507-5508)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/31/2012 H5507-5508)
 - 2012-08-02 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2012-11-26 — Passed Senate without amendment by Unanimous Consent.
+- 2012-11-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-11-26 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6908)
+- 2012-11-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6908)
+- 2012-11-27 — Message on Senate action sent to the House.
+- 2012-11-28 — Presented to President.
+- 2012-11-28 — Presented to President.
+- 2012-12-07 — Became Public Law No: 112-206.
+- 2012-12-07 — Became Public Law No: 112-206.
+- 2012-12-07 — Signed by President.
+- 2012-12-07 — Signed by President.
