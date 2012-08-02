@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1402
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1402
