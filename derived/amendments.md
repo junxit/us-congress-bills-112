@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4365
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 1 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 5 U.S.C. § 8437
-
-> by striking “659)” and inserting “659),”; and
-
-| | |
-|---|---|
-| Removed | `659)` |
-| Inserted | `659),` |
 
 ## Stated, not applied
 
@@ -42,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 6331` | replace | by striking the period at the end and inserting the following: “, and shall be subject to a Federal tax levy under section 6331 of the Internal Revenue Code of 1986.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “659)” and inserting “659),”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting the following: “, and shall be subject to a Federal tax levy under section 6331 of the Internal Revenue Code of 1986.”. | the bill names no machine-readable US Code section |

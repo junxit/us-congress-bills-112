@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4365
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4365
@@ -49,3 +49,14 @@ To amend title 5, United States Code, to make clear that accounts in the Thrift 
 - 2012-08-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 6, 1 Present (Roll no. 547). (text: CR 7/31/2012 H5410)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 6, 1 Present (Roll no. 547).(text: CR 7/31/2012 H5410)
 - 2012-08-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2013-01-01 — Message on Senate action sent to the House.
+- 2013-01-01 — Passed Senate without amendment by Unanimous Consent.
+- 2013-01-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2013-01-01 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S8633)
+- 2013-01-01 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S8633)
+- 2013-01-02 — Presented to President.
+- 2013-01-02 — Presented to President.
+- 2013-01-14 — Became Public Law No: 112-267.
+- 2013-01-14 — Became Public Law No: 112-267.
+- 2013-01-14 — Signed by President.
+- 2013-01-14 — Signed by President.
