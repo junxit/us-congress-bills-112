@@ -1,7 +1,7 @@
 ---
 measure: S. 3326
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3326
@@ -16,7 +16,7 @@ A bill to amend the African Growth and Opportunity Act to extend the third-count
 
 - Sen. Baucus, Max [D-MT] (B000243)
 
-## Cosponsors (12)
+## Cosponsors (14)
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
@@ -30,10 +30,17 @@ A bill to amend the African Growth and Opportunity Act to extend the third-count
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Portman, Rob [R-OH] (P000449)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Finance Committee
+- Senate — Foreign Relations Committee
+
+## Recorded votes (1)
+
+- 2012-08-02 — [Senate 112-2-188](votes/senate-112-2-0188.md) — On the Amendment — **Amendment Rejected** (40–58)
 
 ## Actions
 
@@ -42,3 +49,14 @@ A bill to amend the African Growth and Opportunity Act to extend the third-count
 - 2012-07-18 — Committee on Finance. Reported by Senator Baucus without amendment. Without written report.
 - 2012-07-18 — Committee on Finance. Reported by Senator Baucus without amendment. Without written report.
 - 2012-07-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 459.
+- 2012-07-25 — Committee on Foreign Relations. Hearings held. Hearings printed: S.Hrg. 112-653.
+- 2012-08-02 — Amendment SA 2771 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 188.
+- 2012-08-02 — Amendment SA 2771 proposed by Senator Coburn. (consideration: CR S5905-5907, S5919-5920; text: CR S5905) In the nature of a substitute.
+- 2012-08-02 — Measure laid before Senate by unanimous consent. (consideration: CR S5904-5907, S5920-5921, S5934)
+- 2012-08-02 — Passed Senate without amendment by Unanimous Consent. (text: CR S5920-5921)
+- 2012-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S5920-5921)
+- 2012-08-02 — Roll call votes on amendments in Senate: Amendment SA 2771 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 188.
+- 2012-08-02 — Senate amendment not agreed to: Amendment SA 2771 not agreed to in Senate by Yea-Nay Vote. 40 - 58. Record Vote Number: 188.
+- 2012-08-02 — Senate amendment proposed (on the floor): Amendment SA 2771 proposed by Senator Coburn.(consideration: CR S5905-5907, S5919-5920; text: CR S5905)
+- 2012-08-02 — Senate amendment submitted
+- 2012-08-02 — Senate amendment submitted
