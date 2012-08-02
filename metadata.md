@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1402
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1402
@@ -59,3 +59,10 @@ To authorize the Architect of the Capitol to establish battery recharging statio
 - 2012-08-02 — Passed/agreed to in House: On passage Passed without objection.
 - 2012-08-02 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6007)
 - 2012-08-02 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6007)
+- 2012-08-03 — Message on Senate action sent to the House.
+- 2012-08-07 — Presented to President.
+- 2012-08-07 — Presented to President.
+- 2012-08-16 — Became Public Law No: 112-170.
+- 2012-08-16 — Became Public Law No: 112-170.
+- 2012-08-16 — Signed by President.
+- 2012-08-16 — Signed by President.
