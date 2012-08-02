@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5986
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -14,13 +14,114 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-28 amendatory instructions. 0 executed, 28 stated and not applied.
+28 amendatory instructions. 11 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 19 U.S.C. § 3721
+
+> in the paragraph heading, by striking “2012” and inserting “2015”;
+
+| | |
+|---|---|
+| Removed | `2012` |
+| Inserted | `2015` |
+
+### 19 U.S.C. § 3721
+
+> in subparagraph (A), by striking “2012” and inserting “2015”; and
+
+| | |
+|---|---|
+| Removed | `2012` |
+| Inserted | `2015` |
+
+### 19 U.S.C. § 3721
+
+> in subparagraph (B)(ii), by striking “2012” and inserting “2015”.
+
+| | |
+|---|---|
+| Removed | `2012` |
+| Inserted | `2015` |
+
+### 19 U.S.C. § 4002
+
+> in the matter preceding subdivision (B)(1), by striking “exclusive of collars and cuffs where applicable,” and inserting “exclusive of collars, cuffs and ribbed waistbands (only if the ribbed waistband is present in combination with cuffs and identical in fabric construction to the cuffs) where applicable,”;
+
+| | |
+|---|---|
+| Removed | `exclusive of collars and cuffs where applicable,` |
+| Inserted | `exclusive of collars, cuffs and ribbed waistbands (only if the ribbed waistband is present in combination with cuffs and identical in fabric construction to the cuffs) where applicable,` |
+
+### 19 U.S.C. § 4002
+
+> by striking “5401 or 5508” and inserting “5401, or 5508 or yarn of heading 5402 used as sewing thread,”; and
+
+| | |
+|---|---|
+| Removed | `5401 or 5508` |
+| Inserted | `5401, or 5508 or yarn of heading 5402 used as sewing thread,` |
+
+### 19 U.S.C. § 4002
+
+> Chapter rules 3, 4, and 5 to chapter 62 are each amended by striking “nightwear” each place it appears and inserting “sleepwear”.
+
+| | |
+|---|---|
+| Removed | `nightwear` |
+| Inserted | `sleepwear` |
+
+### 19 U.S.C. § 4002
+
+> by striking “5401 or 5508” and inserting “5401, or 5508 or yarn of heading 5402 used as sewing thread,”; and
+
+| | |
+|---|---|
+| Removed | `5401 or 5508` |
+| Inserted | `5401, or 5508 or yarn of heading 5402 used as sewing thread,` |
+
+### 19 U.S.C. § 4002
+
+> by striking “5401 or 5508” and inserting “5401, or 5508 or yarn of heading 5402 used as sewing thread,”; and
+
+| | |
+|---|---|
+| Removed | `5401 or 5508` |
+| Inserted | `5401, or 5508 or yarn of heading 5402 used as sewing thread,` |
+
+### 50 U.S.C. § 1701
+
+> Section 9(b)(3) of the Burmese Freedom and Democracy Act of 2003 (Public Law 108–61; 50 U.S.C. 1701 note) is amended by striking “nine years” and inserting “twelve years”.
+
+| | |
+|---|---|
+| Removed | `nine years` |
+| Inserted | `twelve years` |
+
+### 19 U.S.C. § 58c
+
+> in subparagraph (A), by striking “August 2, 2021” and inserting “October 22, 2021”;
+
+| | |
+|---|---|
+| Removed | `August 2, 2021` |
+| Inserted | `October 22, 2021` |
+
+### 19 U.S.C. § 58c
+
+> in subparagraph (B)(i), by striking “December 8, 2020” and inserting “October 29, 2021”; and
+
+| | |
+|---|---|
+| Removed | `December 8, 2020` |
+| Inserted | `October 29, 2021` |
 
 ## Stated, not applied
 
@@ -31,31 +132,20 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in the paragraph heading, by striking “2012” and inserting “2015”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “2012” and inserting “2015”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B)(ii), by striking “2012” and inserting “2015”. | the bill names no machine-readable US Code section |
-| — | insert | Section 107 of that Act (19 U.S.C. 3706) is amended by inserting after “Republic of South Africa (South Africa).” the following: | the bill names no machine-readable US Code section |
-| — | strike | Section 102(2) of that Act (19 U.S.C. 3701(2)) is amended by striking “48”. | the bill names no machine-readable US Code section |
-| — | replace | The matter following subdivision (A)(2) is amended by striking the second sentence and inserting the following: “Any elastomeric yarn (except latex) contained in the originating yarns referred to in subdivision (A)(2) must be formed in t… | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding subdivision (B)(1), by striking “exclusive of collars and cuffs where applicable,” and inserting “exclusive of collars, cuffs and ribbed waistbands (only if the ribbed waistband is present in combination with cuff… | the bill names no machine-readable US Code section |
-| — | insert | in subdivision (B)(2), by inserting “or knit to shape components” after “one or more fabrics”; | the bill names no machine-readable US Code section |
-| — | amend | by amending subdivision (B)(3) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in the matter following subdivision (B)(3), by striking the last sentence and inserting the following: “Any elastomeric yarn (except latex) contained in an originating fabric or knit to shape component referred to in subdivision (B)(3) m… | the bill names no machine-readable US Code section |
-| — | insert | in subdivision (C)(2), by inserting “or knit to shape components” after “one or more fabrics”; | the bill names no machine-readable US Code section |
-| — | amend | by amending subdivision (C)(3) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in the matter following subdivision (C)(3), by striking the second sentence and inserting the following: “Any elastomeric yarn (except latex) contained in an originating fabric or knit to shape component referred to in subdivision (C)(3)… | the bill names no machine-readable US Code section |
-| — | replace | by striking “5401 or 5508” and inserting “5401, or 5508 or yarn of heading 5402 used as sewing thread,”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or yarn” after “only if such sewing thread”. | the bill names no machine-readable US Code section |
-| — | insert | The chapter rules to chapter 61 are amended by inserting after chapter rule 5 the following: | the bill names no machine-readable US Code section |
-| — | replace | Chapter rules 3, 4, and 5 to chapter 62 are each amended by striking “nightwear” each place it appears and inserting “sleepwear”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “5401 or 5508” and inserting “5401, or 5508 or yarn of heading 5402 used as sewing thread,”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or yarn” after “only if such sewing thread”. | the bill names no machine-readable US Code section |
-| — | insert | The chapter rules to chapter 62 are amended by inserting after chapter rule 5 the following: | the bill names no machine-readable US Code section |
-| — | amend | Tariff classification rule 33 to chapter 62 is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | by striking “5401 or 5508” and inserting “5401, or 5508 or yarn of heading 5402 used as sewing thread,”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or yarn” after “only if such sewing thread”. | the bill names no machine-readable US Code section |
-| — | insert | The chapter rules to chapter 63 are amended by inserting after chapter rule 2 the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 9(b)(3) of the Burmese Freedom and Democracy Act of 2003 (Public Law 108–61; 50 U.S.C. 1701 note) is amended by striking “nine years” and inserting “twelve years”. | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “August 2, 2021” and inserting “October 22, 2021”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B)(i), by striking “December 8, 2020” and inserting “October 29, 2021”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking subparagraphs (C) and (D). | the bill names no machine-readable US Code section |
+| `19 U.S.C. § 3706` | insert | Section 107 of that Act (19 U.S.C. 3706) is amended by inserting after “Republic of South Africa (South Africa).” the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 3701` | strike | Section 102(2) of that Act (19 U.S.C. 3701(2)) is amended by striking “48”. | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 4002` | replace | The matter following subdivision (A)(2) is amended by striking the second sentence and inserting the following: “Any elastomeric yarn (except latex) contained in the originating yarns referred to in subdivision (A)(2) must be formed in t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4002` | insert | in subdivision (B)(2), by inserting “or knit to shape components” after “one or more fabrics”; | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 4002` | amend | by amending subdivision (B)(3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4002` | replace | in the matter following subdivision (B)(3), by striking the last sentence and inserting the following: “Any elastomeric yarn (except latex) contained in an originating fabric or knit to shape component referred to in subdivision (B)(3) m… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4002` | insert | in subdivision (C)(2), by inserting “or knit to shape components” after “one or more fabrics”; | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 4002` | amend | by amending subdivision (C)(3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4002` | replace | in the matter following subdivision (C)(3), by striking the second sentence and inserting the following: “Any elastomeric yarn (except latex) contained in an originating fabric or knit to shape component referred to in subdivision (C)(3)… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4002` | insert | by inserting “or yarn” after “only if such sewing thread”. | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 4002` | insert | The chapter rules to chapter 61 are amended by inserting after chapter rule 5 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4002` | insert | by inserting “or yarn” after “only if such sewing thread”. | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 4002` | insert | The chapter rules to chapter 62 are amended by inserting after chapter rule 5 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4002` | amend | Tariff classification rule 33 to chapter 62 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 4002` | insert | by inserting “or yarn” after “only if such sewing thread”. | the bill quotes the text inserted but describes where it goes |
+| `19 U.S.C. § 4002` | insert | The chapter rules to chapter 63 are amended by inserting after chapter rule 2 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 58c` | strike | by striking subparagraphs (C) and (D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
