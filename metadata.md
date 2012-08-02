@@ -1,7 +1,7 @@
 ---
 measure: S. 3510
 congress: 112
-version: Introduced in Senate
+version: Enrolled Bill
 ---
 
 # S. 3510
@@ -32,3 +32,9 @@ A bill to prevent harm to the national security or endangering the military offi
 - 2012-08-02 — Passed/agreed to in House: On passage Passed without objection.(text: CR H5686)
 - 2012-08-02 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S5940-5941; text as passed Senate: CR S5940; text of measure as introduced: CR S5986)
 - 2012-08-02 — Received in the House.
+- 2012-08-07 — Presented to President.
+- 2012-08-07 — Presented to President.
+- 2012-08-16 — Became Public Law No: 112-173.
+- 2012-08-16 — Became Public Law No: 112-173.
+- 2012-08-16 — Signed by President.
+- 2012-08-16 — Signed by President.

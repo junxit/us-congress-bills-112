@@ -1,7 +1,7 @@
 ---
 measure: S. 3510
 congress: 112
-version: Introduced in Senate
+version: Enrolled Bill
 derived: true
 ---
 
