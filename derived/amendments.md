@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 58
 congress: 112
-version: Agreed to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
