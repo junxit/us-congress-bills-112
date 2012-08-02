@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5986
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5986
@@ -59,3 +59,9 @@ To amend the African Growth and Opportunity Act to extend the third-country fabr
 - 2012-08-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5640-5641)
 - 2012-08-02 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S5934; text as passed Senate: CR S5934)
 - 2012-08-02 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S5934; text as passed Senate: CR S5934)
+- 2012-08-03 — Presented to President.
+- 2012-08-03 — Presented to President.
+- 2012-08-10 — Became Public Law No: 112-163.
+- 2012-08-10 — Became Public Law No: 112-163.
+- 2012-08-10 — Signed by President.
+- 2012-08-10 — Signed by President.
