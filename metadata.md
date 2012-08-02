@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6063
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6063
@@ -59,9 +59,10 @@ Child Protection Act of 2012
 - Rep. Thompson, Glenn [R-PA-5] (T000467)
 - Rep. Israel, Steve [D-NY-2] (I000057)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -81,3 +82,4 @@ Child Protection Act of 2012
 - 2012-08-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-08-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/31/2012 H5507-5508)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/31/2012 H5507-5508)
+- 2012-08-02 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
