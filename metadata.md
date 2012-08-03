@@ -1,7 +1,7 @@
 ---
 measure: S. 3245
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3245
@@ -31,9 +31,11 @@ A bill to extend by 3 years the authorization of the EB-5 Regional Center Progra
 - Sen. Paul, Rand [R-KY] (P000603)
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -55,3 +57,7 @@ A bill to extend by 3 years the authorization of the EB-5 Regional Center Progra
 - 2012-08-02 — Senate amendment proposed (on the floor): Amendment SA 2774 proposed by Senator Reid for Senator Leahy.
 - 2012-08-02 — Senate amendment submitted
 - 2012-08-02 — Senate amendment submitted
+- 2012-08-03 — Message on Senate action sent to the House.
+- 2012-08-03 — Received in the House.
+- 2012-08-03 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-08-03 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
