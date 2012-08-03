@@ -1,7 +1,7 @@
 ---
 measure: S. 3245
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3245
@@ -37,6 +37,10 @@ A bill to extend by 3 years the authorization of the EB-5 Regional Center Progra
 - House — Judiciary Committee
 - House — Education and the Workforce Committee
 
+## Recorded votes (1)
+
+- 2012-09-13 — [House 112-2-580](votes/house-112-2-0580.md) — On Motion to Suspend the Rules and Pass — **Passed** (412–3)
+
 ## Actions
 
 - 2012-05-24 — Introduced in Senate
@@ -61,3 +65,18 @@ A bill to extend by 3 years the authorization of the EB-5 Regional Center Progra
 - 2012-08-03 — Received in the House.
 - 2012-08-03 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-08-03 — Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-08-14 — Referred to the Subcommittee on Immigration Policy and Enforcement.
+- 2012-09-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-09-11 — Considered under suspension of the rules. (consideration: CR H5814-5817)
+- 2012-09-11 — DEBATE - The House proceeded with forty minutes of debate on S. 3245.
+- 2012-09-11 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
+- 2012-09-13 — Considered as unfinished business. (consideration: CR H5972)
+- 2012-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 580). (text: CR 9/11/2012 H5814-5815)
+- 2012-09-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 3 (Roll no. 580).(text: CR 9/11/2012 H5814-5815)
+- 2012-09-20 — Presented to President.
+- 2012-09-20 — Presented to President.
+- 2012-09-28 — Became Public Law No: 112-176.
+- 2012-09-28 — Became Public Law No: 112-176.
+- 2012-09-28 — Signed by President.
+- 2012-09-28 — Signed by President.
