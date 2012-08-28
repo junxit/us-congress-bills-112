@@ -1,7 +1,7 @@
 ---
 measure: S. 1515
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1515
@@ -24,3 +24,7 @@ United States Secret Service Retirement Act of 2012
 
 - 2011-09-06 — Introduced in Senate
 - 2011-09-06 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2012-05-16 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-08-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman under authority of the order of the Senate of 08/02/2012 with an amendment in the nature of a substitute. With written report No. 112-205.
+- 2012-08-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman under authority of the order of the Senate of 08/02/2012 with an amendment in the nature of a substitute. With written report No. 112-205.
+- 2012-08-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 496.
