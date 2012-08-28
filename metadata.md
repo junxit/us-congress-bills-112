@@ -1,7 +1,7 @@
 ---
 measure: H.R. 915
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 915
@@ -53,3 +53,7 @@ Jaime Zapata Border Enforcement Security Task Force Act
 - 2012-05-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 2 (Roll no. 296). (text: CR H3243-3244)
 - 2012-05-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 2 (Roll no. 296).(text: CR H3243-3244)
 - 2012-06-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2012-06-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-08-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman under authority of the order of the Senate of 08/02/2012 with an amendment in the nature of a substitute. With written report No. 112-206.
+- 2012-08-28 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman under authority of the order of the Senate of 08/02/2012 with an amendment in the nature of a substitute. With written report No. 112-206.
+- 2012-08-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 497.
