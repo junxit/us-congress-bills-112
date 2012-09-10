@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3397
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3397
@@ -36,3 +36,9 @@ Cabin Fee Act of 2012
 - 2012-07-17 — Placed on the Union Calendar, Calendar No. 437.
 - 2012-07-17 — Reported by the Committee on Natural Resources. H. Rept. 112-602.
 - 2012-07-17 — Reported by the Committee on Natural Resources. H. Rept. 112-602.
+- 2012-09-10 — Considered under suspension of the rules. (consideration: CR H5730-5732)
+- 2012-09-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3397.
+- 2012-09-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-10 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
+- 2012-09-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5730-5731)
+- 2012-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5730-5731)
