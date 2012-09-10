@@ -1,7 +1,7 @@
 ---
 measure: S. 710
 congress: 112
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 710
@@ -43,3 +43,7 @@ Hazardous Waste Electronic Manifest Establishment Act
 - 2011-08-05 — Held at the desk.
 - 2011-08-05 — Received in the House.
 - 2012-07-24 — Referred to the House Committee on Energy and Commerce.
+- 2012-07-27 — Referred to the Subcommittee on Environment and the Economy.
+- 2012-09-10 — Placed on the Union Calendar, Calendar No. 472.
+- 2012-09-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-654.
+- 2012-09-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 112-654.

@@ -30,55 +30,39 @@ This Act may be cited as the “Hazardous Waste Electronic Manifest Establishmen
   >       - **(ii)** submits to the system for data processing purposes a paper copy of the manifest (or data from such a paper copy), in accordance with such regulations as the Administrator may promulgate to require such a submission.
   > - **(b)** *Establishment* Not later than 3 years after the date of enactment of this section, the Administrator shall establish a hazardous waste electronic manifest system that may be used by any user.
   > - **(c)** *User fees*
-  >   - **(1)** *In general* The Administrator may impose on users such reasonable service fees as the Administrator determines to be necessary to pay costs incurred in developing, operating, maintaining, and upgrading the system, including any costs incurred in collecting and processing data from any paper manifest submitted to the system after the date on which the system enters operation.
+  >   - **(1)** *In general* In accordance with paragraph (4), the Administrator may impose on users such reasonable service fees as the Administrator determines to be necessary to pay costs incurred in developing, operating, maintaining, and upgrading the system, including any costs incurred in collecting and processing data from any paper manifest submitted to the system after the date on which the system enters operation.
   >   - **(2)** *Collection of fees* The Administrator shall—
   >     - **(A)** collect the fees described in paragraph (1) from the users in advance of, or as reimbursement for, the provision by the Administrator of system-related services; and
-  >     - **(B)** deposit the fees in the Fund for use in accordance with this subsection.
+  >     - **(B)** deposit the fees in the Fund.
   >   - **(3)** *Fee structure*
-  >     - **(A)** *In general* The Administrator, in consultation with information technology vendors, shall determine through the contract award process described in subsection (e) the fee structure that is necessary to recover the full cost to the Administrator of providing system-related services, including costs relating to—
-  >       - **(i)** materials and supplies;
-  >       - **(ii)** contracting and consulting;
-  >       - **(iii)** overhead;
-  >       - **(iv)** information technology (including costs of hardware, software, and related services);
-  >       - **(v)** information management;
-  >       - **(vi)** collection of service fees;
-  >       - **(vii)** investment of any unused service fees;
-  >       - **(viii)** reporting and accounting;
-  >       - **(ix)** employment of direct and indirect Government personnel dedicated to establishing and maintaining the system; and
-  >       - **(x)** project management.
+  >     - **(A)** *In general* The Administrator, in consultation with information technology vendors, shall determine through the contract award process described in subsection (e) the fee structure that is necessary to recover the full cost to the Administrator of providing system-related services, including—
+  >       - **(i)** contractor costs relating to—
+  >         - **(I)** materials and supplies;
+  >         - **(II)** contracting and consulting;
+  >         - **(III)** overhead;
+  >         - **(IV)** information technology (including costs of hardware, software, and related services);
+  >         - **(V)** information management;
+  >         - **(VI)** collection of service fees;
+  >         - **(VII)** reporting and accounting; and
+  >         - **(VIII)** project management; and
+  >       - **(ii)** costs of employment of direct and indirect Government personnel dedicated to establishing, managing, and maintaining the system.
   >     - **(B)** *Adjustments in fee amount*
-  >       - **(i)** *In general* The Administrator, in consultation with the Board, shall increase or decrease amount of a service fee determined under the fee structure described in subparagraph (A) to a level that will—
-  >         - **(I)** result in the collection of an aggregate amount for deposit in the Fund that is sufficient to cover current and projected system-related costs (including any necessary system upgrades); and
+  >       - **(i)** *In general* The Administrator, in consultation with the Board, shall increase or decrease the amount of a service fee determined under the fee structure described in subparagraph (A) to a level that will—
+  >         - **(I)** result in the collection of an aggregate amount for deposit in the Fund that is sufficient and not more than reasonably necessary to cover current and projected system-related costs (including any necessary system upgrades); and
   >         - **(II)** minimize, to the maximum extent practicable, the accumulation of unused amounts in the Fund.
   >       - **(ii)** *Exception for initial period of operation* The requirement described in clause (i)(II) shall not apply to any additional fees that accumulate in the Fund, in an amount that does not exceed $2,000,000, during the 3-year period beginning on the date on which the system enters operation.
   >       - **(iii)** *Timing of adjustments* Adjustments to service fees described in clause (i) shall be made—
   >         - **(I)** initially, at the time at which initial development costs of the system have been recovered by the Administrator such that the service fee may be reduced to reflect the elimination of the system development component of the fee; and
-  >         - **(II)** periodically thereafter, upon receipt and acceptance of the findings of any annual accounting or auditing report under subsection (d)(6), if the report discloses a significant disparity for a fiscal year between the funds collected from service fees under this subsection for the fiscal year and expenditures made for the fiscal year to provide system-related services.
+  >         - **(II)** periodically thereafter, upon receipt and acceptance of the findings of any annual accounting or auditing report under subsection (d)(3), if the report discloses a significant disparity for a fiscal year between the funds collected from service fees under this subsection for the fiscal year and expenditures made for the fiscal year to provide system-related services.
+  >   - **(4)** *Crediting and availability of fees* Fees authorized under this section shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts.
   > - **(d)** *Hazardous Waste Electronic Manifest System Fund*
-  >   - **(1)** *Establishment* There is established in the Treasury of the United States a revolving fund, to be known as the “Hazardous Waste Electronic Manifest System Fund”, consisting of—
-  >     - **(A)** such amounts as are appropriated to the Fund under paragraph (2); and
-  >     - **(B)** any interest earned on investment of amounts in the Fund under paragraph (4).
-  >   - **(2)** *Transfers to Fund* There are appropriated to the Fund amounts equivalent to amounts collected as fees and received by the Administrator under subsection (c).
-  >   - **(3)** *Expenditures from Fund*
-  >     - **(A)** *In general* Subject to paragraph (2), on request by the Administrator, the Secretary of the Treasury shall transfer from the Fund to the Administrator such amounts as the Administrator determines to be necessary to pay costs incurred in developing, operating, maintaining, and upgrading the system under subsection (c).
-  >     - **(B)** *Use of funds*
-  >       - **(i)** *In general* Fees collected by the Administrator and deposited in the Fund under this section shall be available to the Administrator for use in accordance with this section without fiscal year limitation and without further appropriation.
-  >       - **(ii)** *Oversight* The Administrator shall carry out all necessary measures to ensure that amounts in the Fund are used only to carry out the goals of establishing, operating, maintaining, upgrading, managing, supporting, and overseeing the system.
-  >   - **(4)** *Investment of amounts*
-  >     - **(A)** *In general* The Secretary of the Treasury shall invest such portion of the Fund as is not, in the judgment of the Secretary of the Treasury and the Administrator, required to meet current withdrawals.
-  >     - **(B)** *Interest-bearing obligations* Investments may be made only in—
-  >       - **(i)** interest-bearing obligations of the United States; or
-  >       - **(ii)** obligations, participations, or other instruments that are lawful investments for fiduciaries, trusts, or public funds, as determined by the Secretary of the Treasury.
-  >     - **(C)** *Acquisition of obligations* For the purpose of investments under paragraph (1), obligations may be acquired—
-  >       - **(i)** on original issue at the issue price; or
-  >       - **(ii)** by purchase of outstanding obligations at the market price.
-  >     - **(D)** *Sale of obligations* Any obligation acquired by the Fund may be sold by the Secretary of the Treasury at the market price.
-  >     - **(E)** *Credits to Fund* The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to, and form a part of, the Fund.
-  >   - **(5)** *Transfers of amounts*
-  >     - **(A)** *In general* The amounts required to be transferred to the Fund under this subsection shall be transferred at least monthly from the general fund of the Treasury to the Fund on the basis of estimates made by the Secretary of the Treasury.
-  >     - **(B)** *Adjustments* Proper adjustment shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
-  >   - **(6)** *Accounting and auditing*
-  >     - **(A)** *Accounting* For each 2-fiscal-year period, the Administrator shall prepare and submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that includes—
+  >   - **(1)** *Establishment* There is established in the Treasury of the United States a revolving fund, to be known as the “Hazardous Waste Electronic Manifest System Fund”, consisting of such amounts as are deposited in the Fund under subsection (c)(2)(B).
+  >   - **(2)** *Expenditures from Fund*
+  >     - **(A)** *In general* Only to the extent provided in advance in appropriations Acts, on request by the Administrator, the Secretary of the Treasury shall transfer from the Fund to the Administrator amounts appropriated to pay costs incurred in developing, operating, maintaining, and upgrading the system under subsection (c).
+  >     - **(B)** *Use of funds by Administrator* Fees collected by the Administrator and deposited in the Fund under this section shall be available to the Administrator subject to appropriations Acts for use in accordance with this section without fiscal year limitation.
+  >     - **(C)** *Oversight of Funds* The Administrator shall carry out all necessary measures to ensure that amounts in the Fund are used only to carry out the goals of establishing, operating, maintaining, upgrading, managing, supporting, and overseeing the system.
+  >   - **(3)** *Accounting and auditing*
+  >     - **(A)** *Accounting* For each 2-fiscal-year period, the Administrator shall prepare and submit to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives a report that includes—
   >       - **(i)** an accounting of the fees paid to the Administrator under subsection (c) and disbursed from the Fund for the period covered by the report, as reflected by financial statements provided in accordance with—
   >         - **(I)** the Chief Financial Officers Act of 1990 (Public Law 101–576; 104 Stat. 2838) and amendments made by that Act; and
   >         - **(II)** the Government Management Reform Act of 1994 (Public Law 103–356; 108 Stat. 3410) and amendments made by that Act; and
@@ -94,9 +78,7 @@ This Act may be cited as the “Hazardous Waste Electronic Manifest Establishmen
   >         - **(I)** conduct the annual audit described in clause (ii); and
   >         - **(II)** submit to the Administrator a report that describes the findings and recommendations of the Inspector General resulting from the audit.
   > - **(e)** *Contracts*
-  >   - **(1)** *Authority to Enter Into Contracts Funded by Service Fees* The Administrator may enter into 1 or more information technology contracts with entities determined to be appropriate by the Administrator (referred to in this subsection as contractors) under which—
-  >     - **(A)** the Administrator agrees to award a contract for the provision of system-related services; and
-  >     - **(B)** the contractor agrees to assume the initial risk of the information technology investment, and to obtain reimbursement for investment costs, operating costs, and other fees, by receiving as payment an agreed-upon share of the amounts collected as fees by the Administrator under subsection (c).
+  >   - **(1)** *Authority to Enter Into Contracts Funded by Service Fees* The Administrator may enter into 1 or more information technology contracts with entities determined to be appropriate by the Administrator (referred to in this subsection as contractors) for the provision of system-related services.
   >   - **(2)** *Term of contract* A contract awarded under this subsection shall have a term of not more than 10 years.
   >   - **(3)** *Achievement of goals* The Administrator shall ensure, to the maximum extent practicable, that a contract awarded under this subsection—
   >     - **(A)** is performance-based;
@@ -107,24 +89,11 @@ This Act may be cited as the “Hazardous Waste Electronic Manifest Establishmen
   >       - **(iii)** decreases the administrative burden on the user community; and
   >       - **(iv)** provides the waste receipt data applicable to the biennial reports required by section 3002(a)(6).
   >   - **(4)** *Payment structure* Each contract awarded under this subsection shall include a provision that specifies—
-  >     - **(A)** the service fee structure of the contractor that will form the basis for payments to the contractor;
-  >     - **(B)** the fixed-share ratio of monthly service fee revenues from which the Administrator shall reimburse the contractor for system-related development, operation, and maintenance costs and provide an additional profit or fee commensurate with the risk undertaken by the contractor in performing in accordance with the contract;
-  >     - **(C)** the amount of additional transactional costs attributed to—
-  >       - **(i)** the ancillary costs of the Administrator in implementing and managing the system, including the costs of integrating the applications of the contractor with the central data exchange architecture of the Environmental Protection Agency;
-  >       - **(ii)** the direct and indirect personnel costs incurred by the Administrator to employ personnel dedicated to the implementation and management of the system; and
-  >       - **(iii)** expenses incurred in procuring any independent contractor services to assist staff of the Administrator in the preparation of financial statements and reports and the conduct of regular user group and governance meetings necessary for the oversight of the system.
+  >     - **(A)** the service fee structure of the contractor that will form the basis for payments to the contractor; and
+  >     - **(B)** the fixed-share ratio of monthly service fee revenues from which the Administrator shall reimburse the contractor for system-related development, operation, and maintenance costs.
   >   - **(5)** *Cancellation and termination*
-  >     - **(A)** *In general* If the Administrator determines that sufficient funds are not made available for the continuation in a subsequent fiscal year of a contract entered into under this subsection, the Administrator shall cancel or terminate the contract.
-  >     - **(B)** *Costs* The costs of cancellation or termination under subparagraph (A) may be paid using—
-  >       - **(i)** appropriations available for performance of the contract;
-  >       - **(ii)** unobligated appropriations available for acquisition of the information technology procured under the contract; or
-  >       - **(iii)** funds subsequently appropriated for payment of costs of the cancellation or termination.
-  >     - **(C)** *Negotiation of amounts* The amount payable in the event of cancellation or termination of a contract entered into under this subsection shall be negotiated with the contractor at the time at which the contract is awarded.
-  >     - **(D)** *Authority to enter into contracts* The Administrator may enter into a contract under this subsection for any fiscal year, regardless of whether funds are made specifically available for the full costs of cancellation or termination of the contract, if—
-  >       - **(i)** funds are available at the time at which the contract is awarded to make payments with respect to a contingent liability in an amount equal to at least 100 percent of the estimated costs of a cancellation or termination during the first fiscal year of the contract, as determined by the Administrator; or
-  >       - **(ii)** funds described in clause (i) are not available as described in that clause, but the contractor—
-  >         - **(I)** is informed of the amount of any unfunded contingent liability; and
-  >         - **(II)** agrees to perform the contract despite the unfunded contingent liability.
+  >     - **(A)** *In general* If the Administrator determines that sufficient funds are not made available for the continuation in a subsequent fiscal year of a contract entered into under this subsection, the Administrator may cancel or terminate the contract.
+  >     - **(B)** *Negotiation of amounts* The amount payable in the event of cancellation or termination of a contract entered into under this subsection shall be negotiated with the contractor at the time at which the contract is awarded.
   >   - **(6)** *No effect on ownership* Regardless of whether the Administrator enters into a contract under this subsection, the system shall be owned by the Federal Government.
   > - **(f)** *Hazardous Waste Electronic Manifest System Advisory Board*
   >   - **(1)** *Establishment* Not later than 3 years after the date of enactment of this section, the Administrator shall establish a board to be known as the “Hazardous Waste Electronic Manifest System Advisory Board”.
@@ -146,10 +115,11 @@ This Act may be cited as the “Hazardous Waste Electronic Manifest Establishmen
   >       - **(ii)** if the manifest is electronically submitted, State authority to access paper printout copies of the manifest from the system; and
   >       - **(iii)** access to all publicly available information contained in the manifest.
   >   - **(2)** *Effective date of regulations* Any regulation promulgated by the Administrator under paragraph (1) and in accordance with section 3003 relating to electronic manifesting of hazardous waste shall take effect in each State as of the effective date specified in the regulation.
-  >   - **(3)** *Administration* The Administrator shall carry out regulations promulgated under this subsection in each State unless the State program is fully authorized to carry out those regulations in lieu of the Administrator.
+  >   - **(3)** *Administration* The Administrator shall carry out regulations promulgated under this subsection in each State unless the State program is fully authorized to carry out such regulations in lieu of the Administrator.
   > - **(h)** *Requirement of compliance with respect to certain States* In any case in which the State in which waste is generated, or the State in which waste will be transported to a designated facility, requires that the waste be tracked through a hazardous waste manifest, the designated facility that receives the waste shall, regardless of the State in which the facility is located—
   >   - **(1)** complete the facility portion of the applicable manifest;
   >   - **(2)** sign and date the facility certification; and
   >   - **(3)** submit to the system a final copy of the manifest for data processing purposes.
+  > - **(i)** *Authorization for start-up activities* There are authorized to be appropriated $2,000,000 for each of fiscal years 2013 through 2015 for start-up activities to carry out this section, to be offset by collection of user fees under subsection (c) such that all such appropriated funds are offset by fees as provided in subsection (c).
 
 - **(b)** *Conforming amendment* The table of contents of the Solid Waste Disposal Act (42 U.S.C. 6901) is amended by inserting at the end of the items relating to subtitle C the following:

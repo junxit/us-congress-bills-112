@@ -1,7 +1,7 @@
 ---
 measure: S. 710
 congress: 112
-version: Referred in House
+version: Reported in House
 derived: true
 ---
 
