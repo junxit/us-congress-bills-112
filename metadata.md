@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6122
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6122
@@ -20,6 +20,10 @@ To revise the authority of the Librarian of Congress to accept gifts and bequest
 
 - House — Committee on House Administration
 
+## Recorded votes (1)
+
+- 2012-09-10 — [House 112-2-557](votes/house-112-2-0557.md) — On Motion to Suspend the Rules and Pass — **Passed** (377–0)
+
 ## Actions
 
 - 2012-07-12 — Introduced in House
@@ -30,3 +34,11 @@ To revise the authority of the Librarian of Congress to accept gifts and bequest
 - 2012-07-26 — Placed on the Union Calendar, Calendar No. 448.
 - 2012-07-26 — Reported by the Committee on House Administration. H. Rept. 112-624.
 - 2012-07-26 — Reported by the Committee on House Administration. H. Rept. 112-624.
+- 2012-09-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-09-10 — Considered as unfinished business. (consideration: CR H5747)
+- 2012-09-10 — Considered under suspension of the rules. (consideration: CR H5742-5743)
+- 2012-09-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6122.
+- 2012-09-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-10 — Mr. Lungren, Daniel E. moved to suspend the rules and pass the bill.
+- 2012-09-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 0 (Roll no. 557). (text: CR H5742)
+- 2012-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 0 (Roll no. 557).(text: CR H5742)
