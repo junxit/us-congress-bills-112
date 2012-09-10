@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4057
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,8 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Chapter 36 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | amend | The table of sections at the beginning of such chapter is amended by adding after the item relating to section 3697A the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3696 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 4102A(c) of title 38, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (1) of section 2012(c) of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (6) as paragraph (7); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (5) the following new paragraph (6): | the bill names no machine-readable US Code section |
