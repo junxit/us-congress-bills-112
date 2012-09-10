@@ -1,7 +1,7 @@
 ---
 measure: H.R. 406
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 406
@@ -35,3 +35,9 @@ To amend the Federal Election Campaign Act of 1971 to permit candidates for elec
 - 2012-07-30 — Placed on the Union Calendar, Calendar No. 452.
 - 2012-07-30 — Reported by the Committee on House Administration. H. Rept. 112-628.
 - 2012-07-30 — Reported by the Committee on House Administration. H. Rept. 112-628.
+- 2012-09-10 — Considered under suspension of the rules. (consideration: CR H5743-5744)
+- 2012-09-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 406.
+- 2012-09-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-10 — Mr. Lungren, Daniel E. moved to suspend the rules and pass the bill.
+- 2012-09-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5743)
+- 2012-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5743)
