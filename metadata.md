@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 127
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 127
@@ -82,9 +82,10 @@ Expressing the sense of Congress regarding actions to preserve and advance the m
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 - Rep. Scott, Tim [R-SC-1] (S001184)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -109,3 +110,4 @@ Expressing the sense of Congress regarding actions to preserve and advance the m
 - 2012-08-02 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-08-02 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 555). (text: CR 8/2/2012 H5599)
 - 2012-08-02 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 555).(text: CR 8/2/2012 H5599)
+- 2012-09-10 — Received in the Senate and referred to the Committee on Foreign Relations.
