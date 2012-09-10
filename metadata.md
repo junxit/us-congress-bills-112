@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 132
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 132
@@ -29,3 +29,11 @@ Providing funding to ensure the printing and production of the authorized number
 - 2012-07-17 — Introduced in House
 - 2012-07-17 — Introduced in House
 - 2012-07-17 — Referred to the House Committee on House Administration.
+- 2012-07-19 — Committee Consideration and Mark-up Session Held.
+- 2012-07-19 — Ordered to be Reported by Voice Vote.
+- 2012-09-10 — Considered under suspension of the rules. (consideration: CR H5744-5745)
+- 2012-09-10 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 132.
+- 2012-09-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-10 — Mr. Lungren, Daniel E. moved to suspend the rules and agree to the resolution.
+- 2012-09-10 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5744)
+- 2012-09-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5744)
