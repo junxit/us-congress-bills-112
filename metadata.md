@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6233
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6233
@@ -16,9 +16,10 @@ Agricultural Disaster Assistance Act of 2012
 
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (2)
 
@@ -45,3 +46,4 @@ Agricultural Disaster Assistance Act of 2012
 - 2012-08-02 — Rule provides for consideration of H.R. 6233 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. Bill is closed to amendments. The resolution waives all points of order against consideration of the bill.
 - 2012-08-02 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5683)
 - 2012-08-02 — The previous question was ordered pursuant to the rule. (consideration: CR H5658)
+- 2012-09-10 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.

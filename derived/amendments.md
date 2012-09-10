@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6233
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 1238G(d)(1) of the Food Security Act of 1985 (16 U.S.C. 3838g(d)(1)) is amended by inserting “(except that for fiscal year 2013, the Secretary shall, to the maximum extent practicable, enroll in the program an additional 11,000,0… | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (D), by striking “; and” and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | replace | by striking subparagraph (E) and inserting the following: | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 3838g` | insert | Section 1238G(d)(1) of the Food Security Act of 1985 (16 U.S.C. 3838g(d)(1)) is amended by inserting “(except that for fiscal year 2013, the Secretary shall, to the maximum extent practicable, enroll in the program an additional 11,000,0… | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 3841` | replace | in subparagraph (D), by striking “; and” and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 3841` | replace | by striking subparagraph (E) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
