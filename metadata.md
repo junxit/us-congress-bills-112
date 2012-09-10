@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6189
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6189
@@ -29,3 +29,8 @@ Reporting Efficiency Improvement Act
 - 2012-07-25 — Introduced in House
 - 2012-07-25 — Introduced in House
 - 2012-07-25 — Referred to the House Committee on the Judiciary.
+- 2012-08-01 — Committee Consideration and Mark-up Session Held.
+- 2012-08-01 — Ordered to be Reported by Voice Vote.
+- 2012-09-10 — Placed on the Union Calendar, Calendar No. 466.
+- 2012-09-10 — Reported by the Committee on Judiciary. H. Rept. 112-648.
+- 2012-09-10 — Reported by the Committee on Judiciary. H. Rept. 112-648.
