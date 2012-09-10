@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6007
 congress: 112
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 6007
