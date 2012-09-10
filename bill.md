@@ -38,10 +38,10 @@ The Congress makes the following findings:
 
 - **(a)** *No new applications* The Secretary of Energy shall not issue any new loan guarantee pursuant to title XVII of the Energy Policy Act of 2005 (42 U.S.C. 16511 et seq.) for any application submitted to the Department of Energy after December 31, 2011.
 - **(b)** *Pending applications* With respect to any application submitted pursuant to section 1703 or 1705 of the Energy Policy Act of 2005 before December 31, 2011:
-  - **(1)** No guarantee shall be made until the Secretary of the Treasury has reviewed the proposed guarantee and made a written recommendation to the Secretary of Energy on the merits of the guarantee.
-  - **(2)** The Secretary of the Treasury shall transmit the written recommendation required under paragraph (1) to the Secretary of Energy not later than 30 days after receiving the proposal from the Secretary of Energy.
-  - **(3)** Before making a guarantee under such title XVII, the Secretary of Energy shall take into consideration the written recommendation made by the Secretary of the Treasury under paragraph (1).
-  - **(4)** If the Secretary of Energy makes a guarantee that does not conform to the written recommendation made by the Secretary of the Treasury under paragraph (1), not later than 30 days after making such guarantee the Secretary of Energy shall transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a written explanation of the Secretary’s reasons for deviating from the Secretary of the Treasury’s recommendation.
+  - **(1)** No guarantee shall be made until the Secretary of the Treasury has provided to the Secretary of Energy a written analysis of the financial terms and conditions of the proposed loan guarantee, pursuant to section 1702(a) of the Energy Policy Act of 2005 (42 U.S.C. 16512(a)).
+  - **(2)** The Secretary of the Treasury shall transmit the written analysis required under paragraph (1) to the Secretary of Energy not later than 30 days after receiving the proposal from the Secretary of Energy.
+  - **(3)** Before making a guarantee under such title XVII, the Secretary of Energy shall take into consideration the written analysis made by the Secretary of the Treasury under paragraph (1).
+  - **(4)** If the Secretary of Energy makes a guarantee that is not consistent with the written analysis provided by the Secretary of the Treasury under paragraph (1), not later than 30 days after making such guarantee the Secretary of Energy shall transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a written explanation of any material inconsistencies.
 - **(c)** *Transparency*
   - **(1)** *Reports to congress* Not later than 60 days after making a guarantee as provided in subsection (b), the Secretary of Energy shall transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that includes information regarding—
     - **(A)** the review and decisionmaking process utilized by the Secretary in making the guarantee;
@@ -50,16 +50,37 @@ The Congress makes the following findings:
     - **(D)** the technology and project for which the loan guarantee will be used.
   - **(2)** *Protecting confidential business information* A report under paragraph (1) shall provide all relevant information, but the Secretary shall take all necessary steps to protect confidential business information with respect to the recipient of the loan guarantee and the technology used.
 
-## § 4. Restating the restructuring of loan guarantees
+## § 4. Restructuring of loan guarantees
 
-With respect to any restructuring of the terms of a loan guarantee issued pursuant to title XVII of the Energy Policy Act of 2005, the Secretary of Energy—
+With respect to any restructuring of the terms of a loan guarantee issued pursuant to title XVII of the Energy Policy Act of 2005, the Secretary of Energy shall consult with the Secretary of the Treasury regarding any restructuring of the terms and conditions of the loan guarantee, including any deviations from the financial terms of the loan guarantee.
 
-- **(1)** shall consult with the Secretary of the Treasury regarding any restructuring of the terms and conditions of the loan guarantee, including any deviations from the financial terms of the loan guarantee; and
-- **(2)** shall not subordinate the interests of the United States Government to any other financing for the project.
+## § 5. Restating the prohibition on subordination
 
-## § 5. Administrative actions
+Section 1702(d)(3) of the Energy Policy Act of 2005 (42 U.S.C. 16512(d)(3)) is amended by striking “is not subordinate” and inserting “, including any reorganization, restructuring, or termination thereof, shall not at any time be subordinate”.
 
-- **(a)** *In general* Any Federal official who is responsible for the issuance of a loan guarantee under title XVII of the Energy Policy Act of 2005 in a manner that violates the requirements of such title or of this Act shall be subject to appropriate administrative discipline including, when circumstances warrant, suspension from duty without pay or removal from office.
+## § 6. Administrative actions and civil penalties
+
+- **(a)** *In general* Any Federal official who is responsible for the issuance of a loan guarantee under title XVII of the Energy Policy Act of 2005 in a manner that violates the requirements of such title or of this Act shall be—
+  - **(1)** subject to appropriate administrative discipline including, when circumstances warrant, suspension from duty without pay or removal from office; and
+  - **(2)** personally liable for a civil penalty in an amount of at least $10,000 but not more than $50,000 for each violation.
 - **(b)** *Definition* For purposes of this section, the term Federal official means—
   - **(1)** an individual serving in a position in level I, II, III, IV, or V of the Executive Schedule, as provided in subchapter II of chapter 53 of title 5, United States Code; and
   - **(2)** an individual serving in a Senior Executive Service position, as provided in subchapter II of chapter 31 of title 5, United States Code.
+
+## § 7. GAO study of Federal subsidies in energy markets
+
+- **(a)** *In general* The Comptroller General shall conduct a study of the Federal subsidies in energy markets provided from fiscal year 2003 through fiscal year 2012.
+- **(b)** *Focus* The study required under subsection (a) shall have particular focus on Federal subsidies in energy markets provided in support of—
+  - **(1)** electricity production, transmission, and consumption;
+  - **(2)** transportation fuels and infrastructure;
+  - **(3)** energy-related research and development; and
+  - **(4)** facilities that manufacture energy-related components.
+- **(c)** *Report* Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes the results of the study conducted under subsection (a), including an identification and quantification of—
+  - **(1)** costs to the United States Treasury;
+  - **(2)** impacts on United States energy security;
+  - **(3)** impacts on electricity prices, including any potential negative pricing impact on wholesale electricity markets;
+  - **(4)** impacts on transportation fuel prices;
+  - **(5)** impacts on private energy-related industries not benefitting from Federal subsidies in energy markets;
+  - **(6)** any Federal subsidies in energy markets that are provided to foreign persons or corporations; and
+  - **(7)** subsidies and direct financial interest any of the 15 foreign countries with the largest gross domestic product are providing to support energy markets in their respective countries.
+- **(d)** *Definition* For purposes of this section, the term “Federal subsidies” means Federal grants, direct loans, loan guarantees, and tax credits, and other programmatic activities targeted at energy markets and related sectors, relating to specific energy technologies.
