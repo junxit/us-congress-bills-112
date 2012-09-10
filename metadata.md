@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1775
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1775
@@ -16,7 +16,7 @@ Stolen Valor Act of 2012
 
 - Rep. Heck, Joseph J. [R-NV-3] (H001055)
 
-## Cosponsors (31)
+## Cosponsors (107)
 
 - Rep. Ryan, Tim [D-OH-17] (R000577)
 - Rep. Conaway, K. Michael [R-TX-11] (C001062)
@@ -49,6 +49,82 @@ Stolen Valor Act of 2012
 - Rep. Kinzinger, Adam [R-IL-11] (K000378)
 - Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
 - Rep. Long, Billy [R-MO-7] (L000576)
+- Rep. Rehberg, Denny [R-MT-At Large] (R000571)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Adams, Sandy [R-FL-24] (A000366)
+- Rep. Gibbs, Bob [R-OH-18] (G000563)
+- Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. Brooks, Mo [R-AL-5] (B001274)
+- Rep. Kissell, Larry [D-NC-8] (K000369)
+- Rep. Labrador, Raul R. [R-ID-1] (L000573)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Fincher, Stephen Lee [R-TN-8] (F000458)
+- Rep. Griffin, Tim [R-AR-2] (G000567)
+- Rep. Davis, Geoff [R-KY-4] (D000603)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. Farenthold, Blake [R-TX-27] (F000460)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Schmidt, Jean [R-OH-2] (S001164)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Crenshaw, Ander [R-FL-4] (C001045)
+- Rep. Black, Diane [R-TN-6] (B001273)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Roe, David P. [R-TN-1] (R000582)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Critz, Mark S. [D-PA-12] (C001081)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Boustany, Charles W., Jr. [R-LA-7] (B001255)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Akin, W. Todd [R-MO-2] (A000358)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Rigell, E. Scott [R-VA-2] (R000589)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Austria, Steve [R-OH-7] (A000365)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Hayworth, Nan A. S. [R-NY-19] (H001054)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
+- Rep. Yoder, Kevin [R-KS-3] (Y000063)
+- Rep. Marino, Tom [R-PA-10] (M001179)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Nugent, Richard B. [R-FL-5] (N000185)
+- Rep. Scott, Tim [R-SC-1] (S001184)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Schilling, Robert T. [R-IL-17] (S001182)
+- Rep. Heinrich, Martin [D-NM-1] (H001046)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Coffman, Mike [R-CO-6] (C001077)
+- Rep. King, Steve [R-IA-5] (K000362)
+- Rep. Shuler, Heath [D-NC-11] (S001171)
+- Rep. Lankford, James [R-OK-5] (L000575)
+- Rep. Stearns, Cliff [R-FL-6] (S000822)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Cicilline, David N. [D-RI-1] (C001084)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Canseco, Francisco "Quico" [R-TX-23] (C001082)
+- Rep. Bass, Charles F. [R-NH-2] (B000220)
 
 ## Committees (1)
 
@@ -59,3 +135,10 @@ Stolen Valor Act of 2012
 - 2011-05-05 — Introduced in House
 - 2011-05-05 — Introduced in House
 - 2011-05-05 — Referred to the House Committee on the Judiciary.
+- 2011-06-01 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2012-07-26 — Subcommittee on Crime, Terrorism, and Homeland Security Discharged.
+- 2012-08-01 — Committee Consideration and Mark-up Session Held.
+- 2012-08-01 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2012-09-10 — Placed on the Union Calendar, Calendar No. 468.
+- 2012-09-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-650.
+- 2012-09-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-650.

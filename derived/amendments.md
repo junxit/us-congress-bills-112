@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1775
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -37,3 +37,8 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | in subsection (b)(1), as redesignated by paragraph (2), by striking “or (b)”; and | the bill names no machine-readable US Code section |
 | — | redesignate | in subsection (c), as redesignated by paragraph (2), by striking “or (b)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of chapter 47 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | strike | in subsection (a), by striking “wears,”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “If a decoration” and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “a combat badge,” after “1129 of title 10,”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | Section 704 of title 18, United States Code, is amended in each of subsections (c)(1) and (d) by striking “or (b)”. | the bill names no machine-readable US Code section |
