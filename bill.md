@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2706
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,21 +11,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Billfish Conservation Act of 2011”.
+This Act may be cited as the “Billfish Conservation Act of 2012”.
 
 ## § 2. Findings
 
 Congress finds the following:
 
-- **(1)** Billfish populations are severely depleted and in need of greater protection.
-- **(2)** Billfish population declines are largely attributable to overfishing by non-United States commercial fishing fleets that harvest billfish as bycatch while targeting other species.
-- **(3)** Commercial fisheries in the United States do not target billfish.
-- **(4)** The current United States prohibition on the commercial harvest and sale of billfish is limited to Atlantic-caught fish.
-- **(5)** There are no existing conservation measures that prohibit the importation of Pacific-caught billfish.
-- **(6)** Billfish account for less than 0.1 percent of the market value of United States seafood.
-- **(7)** The United States seafood market is highly elastic and consumers have a large number of sustainable seafood alternatives.
-- **(8)** Catch and release recreational angling for billfish generates billions of dollars in economic benefits to the United States economy each year.
-- **(9)** Prohibiting the sale of Pacific-caught billfish in the continental United States will assist in the recovery of billfish populations worldwide.
+- **(1)** The United States carefully regulates its domestic fisheries for billfish and participates in international fishery management bodies in the Atlantic and Pacific.
+- **(2)** Global billfish populations have declined significantly, however, because of overfishing primarily through retention of bycatch by non-United States commercial fishing fleets.
+- **(3)** Ending the importation of foreign-caught billfish for sale in the United States aligns with U.S. management measures of billfish and protects the significant economic benefits to the U.S. economy of recreational fishing and marine commerce and the traditional cultural fisheries.
 
 ## § 3. Statement of constitutional authority
 
@@ -35,7 +29,9 @@ The Congress enacts this Act pursuant to clause 3 of section 8 of article I of t
 
 - **(a)** *Prohibition* No person shall offer for sale, sell, or have custody, control, or possession of for purposes of offering for sale or selling billfish or products containing billfish.
 - **(b)** *Penalty* For purposes of section 308(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858(a)), a violation of this section shall be treated as an act prohibited by section 307 of that Act (16 U.S.C. 1857).
-- **(c)** *Exemption for traditional fisheries and markets* Subsection (a) does not apply to the State of Hawaii and Pacific Insular Area as defined in section 3(35) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802(35)), except that billfish may be sold under this exemption only in Hawaii and the Pacific Insular Area.
+- **(c)** *Exemptions for traditional fisheries and markets*
+  - **(1)** Subsection (a) does not apply to billfish caught by US fishing vessels and landed in the State of Hawaii or Pacific Insular Areas as defined in section 3(35) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802(35)).
+  - **(2)** Subsection (a) does not apply to billfish landed by foreign fishing vessels in the Pacific Insular Areas when the foreign caught billfish is exported to non-US markets or retained within Hawaii and the Pacific Insular Areas for local consumption.
 - **(d)** *Billfish defined* In this section the term billfish—
   - **(1)** means any fish of the species—
     - **(A)** Makaira nigricans (blue marlin);
