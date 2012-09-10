@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2800
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,5 +34,9 @@ complete account of the bill's effect, which it is not.
 | — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “competitive” after “to receive a”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following new sentence: “The Attorney General shall periodically solicit applications for grants under this section by publishing a request for applications in the Federal Register and by posting such a request o… | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (c) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (d) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b), by inserting “competitive” after “to receive a”; | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (c) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (d) to read as follows: | the bill names no machine-readable US Code section |
