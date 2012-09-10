@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6185
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6185
@@ -16,7 +16,7 @@ Local Courthouse Safety Act of 2012
 
 - Rep. Adams, Sandy [R-FL-24] (A000366)
 
-## Cosponsors (8)
+## Cosponsors (12)
 
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
@@ -26,6 +26,10 @@ Local Courthouse Safety Act of 2012
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
 - Rep. Gowdy, Trey [R-SC-4] (G000566)
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
 
 ## Committees (2)
 
@@ -38,3 +42,10 @@ Local Courthouse Safety Act of 2012
 - 2012-07-25 — Introduced in House
 - 2012-07-25 — Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-07-25 — Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-08-01 — Committee Consideration and Mark-up Session Held.
+- 2012-08-01 — Ordered to be Reported by Voice Vote.
+- 2012-09-10 — Committee on Oversight and Government discharged.
+- 2012-09-10 — Committee on Oversight and Government discharged.
+- 2012-09-10 — Placed on the Union Calendar, Calendar No. 478.
+- 2012-09-10 — Reported by the Committee on Judiciary. H. Rept. 112-661, Part I.
+- 2012-09-10 — Reported by the Committee on Judiciary. H. Rept. 112-661, Part I.
