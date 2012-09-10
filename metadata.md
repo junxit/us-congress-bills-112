@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4305
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4305
@@ -16,9 +16,16 @@ Child and Elderly Missing Alert Program
 
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 
-## Cosponsors (1)
+## Cosponsors (8)
 
 - Rep. Deutch, Theodore E. [D-FL-19] (D000610)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Emerson, Jo Ann [R-MO-8] (E000172)
+- Rep. Boren, Dan [D-OK-2] (B001254)
+- Rep. Connolly, Gerald E. [D-VA-11] (C001078)
+- Rep. Kissell, Larry [D-NC-8] (K000369)
+- Rep. LaTourette, Steven C. [R-OH-14] (L000553)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
 
 ## Committees (1)
 
@@ -29,3 +36,10 @@ Child and Elderly Missing Alert Program
 - 2012-03-29 — Introduced in House
 - 2012-03-29 — Introduced in House
 - 2012-03-29 — Referred to the House Committee on the Judiciary.
+- 2012-04-16 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2012-07-26 — Subcommittee on Crime, Terrorism, and Homeland Security Discharged.
+- 2012-08-01 — Committee Consideration and Mark-up Session Held.
+- 2012-08-01 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2012-09-10 — Placed on the Union Calendar, Calendar No. 467.
+- 2012-09-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-649.
+- 2012-09-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-649.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4305
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,5 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | strike | in paragraph (16), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (17), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
