@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6186
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6186
@@ -22,9 +22,10 @@ To require a study of voluntary community-based flood insurance options and how 
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ To require a study of voluntary community-based flood insurance options and how 
 - 2012-09-10 — Mrs. Biggert moved to suspend the rules and pass the bill.
 - 2012-09-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 364 - 11 (Roll no. 559). (text: CR H5736)
 - 2012-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 364 - 11 (Roll no. 559).(text: CR H5736)
+- 2012-09-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
