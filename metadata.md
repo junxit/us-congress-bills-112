@@ -1,7 +1,7 @@
 ---
 measure: S. 710
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 710
@@ -53,3 +53,13 @@ Hazardous Waste Electronic Manifest Establishment Act
 - 2012-09-11 — Mr. Murphy (PA) moved to suspend the rules and pass the bill, as amended.
 - 2012-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5826-5827)
 - 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5826-5827)
+- 2012-09-12 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2012-09-22 — Resolving differences -- Senate actions: Senate agreed to the House amendment by Unanimous Consent.(consideration: CR 9/21/2012 S6672-6673; text as Senate agreed to House amendment: CR 9/21/2012 S6673)
+- 2012-09-22 — Senate agreed to the House amendment by Unanimous Consent. (consideration: CR 9/21/2012 S6672-6673; text as Senate agreed to House amendment: CR 9/21/2012 S6673)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Presented to President.
+- 2012-09-25 — Presented to President.
+- 2012-10-05 — Became Public Law No: 112-195.
+- 2012-10-05 — Became Public Law No: 112-195.
+- 2012-10-05 — Signed by President.
+- 2012-10-05 — Signed by President.
