@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4057
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4057
@@ -62,3 +62,9 @@ Improving Transparency of Education Opportunities for Veterans Act of 2012
 - 2012-09-10 — Placed on the Union Calendar, Calendar No. 464.
 - 2012-09-10 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-646.
 - 2012-09-10 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-646.
+- 2012-09-11 — Considered under suspension of the rules. (consideration: CR H5817-5821)
+- 2012-09-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4057.
+- 2012-09-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-11 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
+- 2012-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5817-5818)
+- 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5817-5818)
