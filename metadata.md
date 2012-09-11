@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2706
 congress: 112
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2706
@@ -67,3 +67,4 @@ Billfish Conservation Act of 2012
 - 2012-09-10 — Placed on the Union Calendar, Calendar No. 474.
 - 2012-09-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-656.
 - 2012-09-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-656.
+- 2012-09-11 — Received in the Senate, read twice.

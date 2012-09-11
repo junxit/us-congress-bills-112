@@ -2,7 +2,7 @@
 legis-num: H.R. 2706
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2706
@@ -30,8 +30,8 @@ The Congress enacts this Act pursuant to clause 3 of section 8 of article I of t
 - **(a)** *Prohibition* No person shall offer for sale, sell, or have custody, control, or possession of for purposes of offering for sale or selling billfish or products containing billfish.
 - **(b)** *Penalty* For purposes of section 308(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858(a)), a violation of this section shall be treated as an act prohibited by section 307 of that Act (16 U.S.C. 1857).
 - **(c)** *Exemptions for traditional fisheries and markets*
-  - **(1)** Subsection (a) does not apply to billfish caught by U.S. vessels and landed in the State of Hawaii or Pacific Insular Areas as defined in section 3(35) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802(35)).
-  - **(2)** Subsection (a) does not apply to billfish landed by foreign vessels in the Pacific Insular Areas when the foreign caught billfish is exported to non-U.S. markets or retained within the Pacific Insular Areas for local consumption.
+  - **(1)** Subsection (a) does not apply to billfish caught by US fishing vessels and landed in the State of Hawaii or Pacific Insular Areas as defined in section 3(35) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802(35)).
+  - **(2)** Subsection (a) does not apply to billfish landed by foreign fishing vessels in the Pacific Insular Areas when the foreign caught billfish is exported to non-US markets or retained within Hawaii and the Pacific Insular Areas for local consumption.
 - **(d)** *Billfish defined* In this section the term billfish—
   - **(1)** means any fish of the species—
     - **(A)** Makaira nigricans (blue marlin);
