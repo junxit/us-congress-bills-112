@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1410
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,13 +11,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Vietnam Human Rights Act of 2011”.
+- **(a)** *Short title* This Act may be cited as the “Vietnam Human Rights Act of 2012”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Findings and purpose
 
 - **(a)** *Findings* Congress finds the following:
-  - **(1)** The relationship between the United States and the Socialist Republic of Vietnam has grown substantially since the end of the trade embargo in 1994, with annual trade between the two countries reaching over $15,300,000,000 in 2009.
+  - **(1)** The relationship between the United States and the Socialist Republic of Vietnam has grown substantially since the end of the trade embargo in 1994, with annual trade between the two countries reaching over $20,000,000,000 in 2011.
   - **(2)** The Government of Vietnam’s transition toward greater economic freedom and trade has not been matched by greater political freedom and substantial improvements in basic human rights for Vietnamese citizens, including freedom of religion, expression, association, and assembly.
   - **(3)** The United States Congress agreed to Vietnam becoming an official member of the World Trade Organization in 2006, amidst assurances that the Government of Vietnam was steadily improving its human rights record and would continue to do so.
   - **(4)** Vietnam remains a one-party state, ruled and controlled by the Communist Party of Vietnam (CPV), which continues to deny the right of citizens to change their Government.
@@ -28,9 +28,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(9)** The Government of Vietnam has also failed to improve labor rights, continues to arrest and harass labor leaders, and restricts the right to organize independently.
   - **(10)** The Government of Vietnam continues to limit the freedom of religion, restrict the operations of independent religious organizations, and persecute believers whose religious activities the Government regards as a potential threat to its monopoly on power.
   - **(11)** Despite reported progress in church openings and legal registrations of religious venues, the Government of Vietnam has halted most positive actions since the Department of State lifted the “country of particular concern” (CPC) designation for Vietnam in November 2006.
-  - **(12)** Unregistered ethnic minority Protestant congregations, particularly Montagnards in the Central Northwest highlands, suffer severe abuses because of actions by the Government of Vietnam, which have included forced renunciations of faith, arrest and harassment, the withholding of social programs provided for the general population, confiscation and destruction of property, subjection to severe beatings, and reported deaths.
+  - **(12)** Unregistered ethnic minority Protestant congregations, particularly Montagnards in the Central and Northwest Highlands, suffer severe abuses because of actions by the Government of Vietnam, which have included forced renunciations of faith, arrest and harassment, the withholding of social programs provided for the general population, confiscation and destruction of property, subjection to severe beatings, and reported deaths.
   - **(13)** There has been a pattern of violent responses by the Government to peaceful prayer vigils and demonstrations by Catholics for the return of Government-confiscated church properties. Protesters have been harassed, beaten, and detained and church properties have been destroyed. Catholics also continue to face some restrictions on selection of clergy, the establishment of seminaries and seminary candidates, and individual cases of travel and church registration.
-  - **(14)** In May 2010 the village of Con Dau, a Catholic parish in Da Nang, faced escalated violence during a funeral procession as police attempted to prohibit a religious burial in the village cemetery; more than 100 villagers were injured, 62 were arrested, and at least three died.
+  - **(14)** In May 2010 the village of Con Dau, a Catholic parish in Da Nang, faced escalated violence during a funeral procession as police attempted to prohibit a religious burial in the village cemetery; more than 100 villagers were injured, 62 were arrested, five were tortured, and at least three died.
   - **(15)** The Unified Buddhist Church of Vietnam (UBCV) suffers persecution as the Government of Vietnam continues to restrict contacts and movement of senior UBCV clergy for refusing to join the state-sponsored Buddhist organization, the Government restricts expression and assembly, and the Government continues to harass and threaten UBCV monks, nuns, and youth leaders.
   - **(16)** The Government of Vietnam continues to suppress the activities of other religious adherents, including Cao Dai and Hoa Hao Buddhists who lack official recognition or have chosen not to affiliate with the state-sanctioned groups, including through the use of detention, imprisonment, and strict Government oversight.
   - **(17)** During Easter weekend in April 2004, thousands of Montagnards gathered to protest their treatment by the Government of Vietnam, including the confiscation of tribal lands and ongoing restrictions on religious activities. Credible reports indicate that the protests were met with violent response as many demonstrators were arrested, injured, or went into hiding, and that others were killed. Many of these Montagnards and others are still serving long sentences for their involvement in peaceful demonstrations in 2001, 2002, 2004, and 2008. Montagnards continue to face threats, detention, beatings, forced renunciation of faith, property destruction, restricted movement, and reported deaths at the hands of Government officials.
@@ -42,7 +42,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(23)** Although the Government of Vietnam reports progress in combating human trafficking, it does not fully comply with the minimum standards for the elimination of trafficking, and is not making substantial efforts to comply.
   - **(24)** United States refugee resettlement programs, including the Humanitarian Resettlement (HR) Program, the Orderly Departure Program (ODP), Resettlement Opportunities for Vietnamese Returnees (ROVR) Program, general resettlement of boat people from refugee camps throughout Southeast Asia, the Amerasian Homecoming Act of 1988, and the Priority One Refugee resettlement category, have helped rescue Vietnamese nationals who have suffered persecution on account of their associations with the United States or, in many cases, because of such associations by their spouses, parents, or other family members, as well as other Vietnamese nationals who have been persecuted because of race, religion, nationality, political opinion, or membership in a particular social group.
   - **(25)** While previous programs have served their purposes well, a significant number of eligible refugees from Vietnam were unfairly denied or excluded, including Amerasians, in some cases by vindictive or corrupt Vietnamese officials who controlled access to the programs, and in others by United States personnel who imposed unduly restrictive interpretations of program criteria. In addition, the Government of Vietnam has denied passports to persons who the United States has found eligible for refugee admission.
-  - **(26)** Congress has passed numerous resolutions condemning human rights abuses in Vietnam, indicating that although there has been an expansion of relations with the Government of Vietnam, it should not be construed as approval of the ongoing and serious violations of fundamental human rights in Vietnam.
+  - **(26)** The Government of Vietnam holds tens of thousands of people in government-run drug detention centers and treats them as slave laborers.
+  - **(27)** To date, over 60,000 people have signed a petition calling on the Administration to not expand trade with communist Vietnam at the expense of human rights.
+  - **(28)** Congress has passed numerous resolutions condemning human rights abuses in Vietnam, indicating that although there has been an expansion of relations with the Government of Vietnam, it should not be construed as approval of the ongoing and serious violations of fundamental human rights in Vietnam.
 - **(b)** *Purpose* The purpose of this Act is to promote the development of freedom and democracy in Vietnam.
 
 ## § 3. Prohibition on increased nonhumanitarian assistance to the Government of Vietnam
@@ -51,7 +53,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** *In general* Except as provided in subsection (b), the Federal Government may not provide nonhumanitarian assistance to the Government of Vietnam during any fiscal year in an amount that exceeds the amount of such assistance provided during fiscal year 2011 unless—
     - **(A)** the Federal Government provides assistance, in addition to the assistance authorized under section 4, supporting the creation and facilitation of human rights training, civil society capacity building, noncommercial rule of law programming, and exchange programs between the Vietnamese National Assembly and the United States Congress at levels commensurate with, or exceeding, any increases in nonhumanitarian assistance to Vietnam;
     - **(B)** with respect to the limitation for fiscal year 2012, the President determines and certifies to Congress, not later than 30 days after the date of the enactment of this Act, that the requirements of subparagraphs (A) through (G) of paragraph (2) have been met during the 12-month period ending on the date of the certification; and
-    - **(C)** with respect to the limitation for subsequent fiscal years, the President determines and certifies to Congress, in the most recent annual report submitted pursuant to section 601, that the requirements of subparagraphs (A) through (G) of paragraph (2) have been met during the 12-month period covered by the report.
+    - **(C)** with respect to the limitation for subsequent fiscal years, the President determines and certifies to Congress, in the most recent annual report submitted pursuant to section 5, that the requirements of subparagraphs (A) through (G) of paragraph (2) have been met during the 12-month period covered by the report.
   - **(2)** *Requirements* The requirements of this paragraph are the following:
     - **(A)** The Government of Vietnam has made substantial progress toward releasing all political and religious prisoners from imprisonment, house arrest, and other forms of detention.
     - **(B)** The Government of Vietnam has made substantial progress toward—
@@ -72,35 +74,29 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(A)** any assistance under the Foreign Assistance Act of 1961 (including programs under title IV of chapter 2 of part I of that Act, relating to the Overseas Private Investment Corporation), other than—
       - **(i)** disaster relief assistance, including any assistance under chapter 9 of part I of that Act;
       - **(ii)** assistance which involves the provision of food (including monetization of food) or medicine;
-      - **(iii)** assistance for refugees; and
-      - **(iv)** assistance to combat HIV/AIDS, including any assistance under section 104A of that Act; and
+      - **(iii)** assistance for environmental remediation of dioxin-contaminated sites and related health activities;
+      - **(iv)** assistance to combat severe forms of trafficking in persons;
+      - **(v)** assistance to combat pandemic diseases;
+      - **(vi)** assistance for refugees; and
+      - **(vii)** assistance to combat HIV/AIDS, including any assistance under section 104A of that Act; and
     - **(B)** sales, or financing on any terms, under the Arms Export Control Act.
-  - **(2)** *Severe forms of trafficking in persons* The term severe form of trafficking in persons means any activity described in section 103(8) of the Trafficking Victims Protection Act of 2000 (Public Law 106–386 (114 Stat. 1470); 22 U.S.C. 7102(8)).
-- **(d)** *Effective date* This section shall take effect on the date of the enactment of this Act and shall apply with respect to the provision of nonhumanitarian assistance to the Government of Vietnam during fiscal year 2012 and subsequent fiscal years.
+  - **(2)** *Severe form of trafficking in persons* The term severe form of trafficking in persons means any activity described in section 103(8) of the Trafficking Victims Protection Act of 2000 (Public Law 106–386 (114 Stat. 1470); 22 U.S.C. 7102(8)).
+- **(d)** *Effective date* This section shall take effect on the date of the enactment of this Act and shall apply with respect to the provision of nonhumanitarian assistance to the Government of Vietnam during fiscal year 2013 and subsequent fiscal years.
 
-## § 4. Assistance to support democracy in Vietnam
+## § 4. United States public diplomacy
 
-The President is authorized to provide assistance, through appropriate nongovernmental organizations and the Human Rights Defenders Fund, for the support of individuals and organizations to promote internationally recognized human rights in Vietnam.
+- **(a)** *Radio Free Asia transmissions to Vietnam* It is the sense of Congress that the United States should take measures to overcome the jamming of Radio Free Asia by the Government of Vietnam and that the Broadcasting Board of Governors should not cut staffing, funding, or broadcast hours for the Vietnamese language services of the Voice of America and Radio Free Asia, which shall be done without reducing any other broadcast language services.
+- **(b)** *United States educational and cultural exchange programs with Vietnam* It is the sense of Congress that any programs of educational and cultural exchange between the United States and Vietnam should actively promote progress toward freedom and democracy in Vietnam by providing opportunities to Vietnamese nationals from a wide range of occupations and perspectives to see freedom and democracy in action and, also, by ensuring that Vietnamese nationals who have already demonstrated a commitment to these values are included in such programs.
 
-## § 5. United States public diplomacy
-
-- **(a)** *Radio Free Asia transmissions to Vietnam* It is the policy of the United States to take such measures as are necessary to overcome the jamming of Radio Free Asia by the Government of Vietnam.
-- **(b)** *United States educational and cultural exchange programs with Vietnam* It is the policy of the United States that programs of educational and cultural exchange with Vietnam should actively promote progress toward freedom and democracy in Vietnam by providing opportunities to Vietnamese nationals from a wide range of occupations and perspectives to see freedom and democracy in action and, also, by ensuring that Vietnamese nationals who have already demonstrated a commitment to these values are included in such programs.
-
-## § 6. Refugee resettlement for nationals of Vietnam
-
-It is the policy of the United States to offer refugee resettlement to nationals of Vietnam (including members of the Montagnard ethnic minority groups) who were eligible for the Orderly Departure Program (ODP), the Humanitarian Resettlement (HR) Program, the Resettlement Opportunities for Vietnamese Returnees (ROVR) Program, the Amerasian Homecoming Act of 1988, or any other United States refugee program and who were deemed ineligible due to administrative error or who for reasons beyond the control of such individuals (including insufficient or contradictory information or the inability to pay bribes demanded by officials of the Government of Vietnam) were unable or failed to apply for such programs in compliance with deadlines imposed by the Department of State.
-
-## § 7. Annual report
+## § 5. Annual report
 
 - **(a)** *In general* Not later than 6 months after the date of the enactment of this Act and every 12 months thereafter, the Secretary of State shall submit to the Congress a report on the following:
   - **(1)** The determination and certification of the President that the requirements of subparagraphs (A) through (G) of section 3(a)(2) have been met, if applicable.
   - **(2)** Steps taken to carry out section 3(a)(1)(A), if applicable.
-  - **(3)** Efforts by the United States Government to secure transmission sites for Radio Free Asia in countries in close geographical proximity to Vietnam in accordance with section 5(a).
-  - **(4)** Efforts to ensure that programs with Vietnam promote the policy set forth in section 5(b) and with section 102 of the Human Rights, Refugee, and Other Foreign Policy Provisions Act of 1996 regarding participation in programs of educational and cultural exchange.
-  - **(5)** Steps taken to carry out the policy under section 6.
-  - **(6)** Lists of persons believed to be imprisoned, detained, or placed under house arrest, tortured, or otherwise persecuted by the Government of Vietnam due to their pursuit of internationally recognized human rights. In compiling such lists, the Secretary shall exercise appropriate discretion, including concerns regarding the safety and security of, and benefit to, the persons who may be included on the lists and their families. In addition, the Secretary shall include a list of such persons and their families who may qualify for protections under United States refugee programs.
-  - **(7)** A description of the development of the rule of law in Vietnam, including—
+  - **(3)** Efforts by the United States Government to promote access by the Vietnamese people to Radio Free Asia transmissions.
+  - **(4)** Efforts to ensure that programs with Vietnam promote the policy set forth in section 102 of the Human Rights, Refugee, and Other Foreign Policy Provisions Act of 1996 regarding participation in programs of educational and cultural exchange.
+  - **(5)** Lists of persons believed to be imprisoned, detained, or placed under house arrest, tortured, or otherwise persecuted by the Government of Vietnam due to their pursuit of internationally recognized human rights. In compiling such lists, the Secretary shall exercise appropriate discretion, including concerns regarding the safety and security of, and benefit to, the persons who may be included on the lists and their families. In addition, the Secretary shall include a list of such persons and their families who may qualify for protections under United States refugee programs.
+  - **(6)** A description of the development of the rule of law in Vietnam, including—
     - **(A)** progress toward the development of institutions of democratic governance;
     - **(B)** processes by which statutes, regulations, rules, and other legal acts of the Government of Vietnam are developed and become binding within Vietnam;
     - **(C)** the extent to which statutes, regulations, rules, administrative and judicial decisions, and other legal acts of the Government of Vietnam are published and are made accessible to the public;
