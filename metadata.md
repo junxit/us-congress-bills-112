@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6215
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6215
@@ -30,3 +30,9 @@ To amend the Trademark Act of 1946 to correct an error in the provisions relatin
 - 2012-09-10 — Placed on the Union Calendar, Calendar No. 465.
 - 2012-09-10 — Reported by the Committee on Judiciary. H. Rept. 112-647.
 - 2012-09-10 — Reported by the Committee on Judiciary. H. Rept. 112-647.
+- 2012-09-11 — Considered under suspension of the rules. (consideration: CR H5795-5796)
+- 2012-09-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6215.
+- 2012-09-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-11 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2012-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5795)
+- 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5795)

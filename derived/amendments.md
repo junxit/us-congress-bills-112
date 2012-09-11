@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6215
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 43(c)(6) of the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 6, 1946 … | the bill names no machine-readable US Code section |
+| — | replace | Section 43(c)(6) of the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 … | the bill names no machine-readable US Code section |

@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Remedies for dilution
 
-- **(a)** *In general* Section 43(c)(6) of the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 6, 1946 (commonly referred to as the “Trademark Act of 1946”; 15 U.S.C. 1125(c)(6)), is amended by striking subparagraphs (A) and (B) and inserting the following:
+- **(a)** *In general* Section 43(c)(6) of the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946”; 15 U.S.C. 1125(c)(6)), is amended by striking subparagraphs (A) and (B) and inserting the following:
   > - **(A)** is brought by another person under the common law or a statute of a State; and
   > - **(B)**
   >   - **(i)** seeks to prevent dilution by blurring or dilution by tarnishment; or
