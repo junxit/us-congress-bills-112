@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6336
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6336
@@ -36,3 +36,4 @@ To direct the Joint Committee on the Library to accept a statue depicting Freder
 - 2012-09-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5745)
 - 2012-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5745)
 - 2012-09-10 — The title of the measure was amended. Agreed to without objection.
+- 2012-09-11 — Received in the Senate, read twice.
