@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2489
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2489
@@ -51,3 +51,4 @@ American Battlefield Protection Program Amendments Act of 2012
 - 2012-09-10 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2012-09-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5735)
 - 2012-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5735)
+- 2012-09-11 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 505.
