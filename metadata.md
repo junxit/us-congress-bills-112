@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3397
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3397
@@ -22,9 +22,10 @@ Cabin Fee Act of 2012
 - Rep. Rehberg, Denny [R-MT-At Large] (R000571)
 - Rep. Hunter, Duncan D. [R-CA-52] (H001048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Cabin Fee Act of 2012
 - 2012-09-10 — Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.
 - 2012-09-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5730-5731)
 - 2012-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5730-5731)
+- 2012-09-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
