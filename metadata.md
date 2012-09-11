@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2800
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2800
@@ -53,3 +53,9 @@ Missing Alzheimer's Disease Patient Alert Program Reauthorization Act of 2012
 - 2012-09-10 — Placed on the Union Calendar, Calendar No. 469.
 - 2012-09-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-651.
 - 2012-09-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-651.
+- 2012-09-11 — Considered under suspension of the rules. (consideration: CR H5790-5791)
+- 2012-09-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2800.
+- 2012-09-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-11 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2012-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5790)
+- 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5790)
