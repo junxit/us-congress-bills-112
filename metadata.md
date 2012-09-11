@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 8
@@ -85,3 +85,5 @@ American Taxpayer Relief Act of 2012
 - 2012-08-01 — Rule provides for consideration of H.R. 6169 and H.R. 8. H.R. 6169 is accorded 3 hours of general debate and H.R. 8 is accorded 1 hour of general debate. For H.R. 6169, the amendment in the nature of a substitute printed in Part A of the report is in order and shall be debatable for 20 minutes. For H.R. 8, the amendment in the nature of a substitute printed in Part B is made in order and shall be debatable for 20 minutes. Section 3 provides that on any legislative day from August 3, 2012 through September 7, 2012: (a) the Journal of the proceedings of the previous day shall be considered as approved; (b) the Chair may adjourn the House to meet at a date and time within the limits of clause 4, section 5, article I of the Constitution; and (c) bills and resolutions introduced shall be numbered, listed in the Congressional Record, and when printed shall bear the date of introduction, but may be referred at a later time. Section 4 authorizes the Speaker to appoint Members to perform the duties of the Chair for the duration of the period addressed by section 3 as though under clause 8(a) of rule I. Section 5 of the resolution provides that each day during the period addressed by section 3 shall not constitute a calendar for purposes of section 7 of the War Powers Resolution. Section 6 of the resolution provides that each day during the period addressed by section 3 shall not constitute a legislative day for the purposes of clause 7 of rule XIII (resolutions of inquiry). Section 7 of the resolution provides that for each day during the period addressed by section 3 shall not constitute a calendar or legislative day for purposes of clause 7(c)(1) of rule XXII (motions to instruct conferees). Section 8 of the resolution authorizes the Speaker to entertain motions to suspend the rules on the legislative day of August 2, 2012. Section 9 of the resolution waives the requirement of clause 6(a) of rule XIII (requiring a two-thirds vote to consider a report from the Committee on Rules on the same day it is presented to the House) with respect to any resolution reported through the legislative day of August 2, 2012.
 - 2012-08-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5596)
 - 2012-08-01 — The previous question was ordered on the amendment (A001) pursuant to the rule. (consideration: CR H5594)
+- 2012-09-10 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-09-11 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 502.
