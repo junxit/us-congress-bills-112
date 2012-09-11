@@ -1,7 +1,7 @@
 ---
 measure: S. 710
 congress: 112
-version: Reported in House
+version: Engrossed Amendment House
 derived: true
 ---
 
