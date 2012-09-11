@@ -2,14 +2,14 @@
 legis-num: H.R. 6122
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 6122
 
 > To revise the authority of the Librarian of Congress to accept gifts and bequests on behalf of the Library, and for other purposes.
 
-## § 1. Authority of librarian of congress to accept gifts and bequests
+## § 1. Authority of Librarian of Congress to accept gifts and bequests
 
 - **(a)** *Expanding types of gifts that may be accepted* The first undesignated paragraph of section 4 of the Act entitled “An Act to create a Library of Congress Trust Fund Board, and for other purposes”, approved March 3, 1925 (2 U.S.C. 160), is amended—
   - **(1)** in the first sentence, by striking “in the name of the United States” and all that follows and inserting the following: “in the name of the United States and in the interest of the Library, its collections, or its service, gifts or bequests of money for immediate disbursement, personal property valued at $25,000 or less, nonpersonal services, or voluntary and uncompensated personal services.”;

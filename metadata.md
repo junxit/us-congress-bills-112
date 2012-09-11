@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6122
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6122
@@ -16,9 +16,10 @@ To revise the authority of the Librarian of Congress to accept gifts and bequest
 
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ To revise the authority of the Librarian of Congress to accept gifts and bequest
 - 2012-09-10 — Mr. Lungren, Daniel E. moved to suspend the rules and pass the bill.
 - 2012-09-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 0 (Roll no. 557). (text: CR H5742)
 - 2012-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 377 - 0 (Roll no. 557).(text: CR H5742)
+- 2012-09-11 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
