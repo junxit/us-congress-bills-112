@@ -43,10 +43,6 @@ In this Act:
 - **(1)** The term customer, with respect to a Federal agency, means any individual or entity, including a business, State or local government, other Federal agency, or Congress, to which the agency provides services or information.
 - **(2)** The term Federal agency has the meaning given the term “Executive agency” by section 105 of title 5, United States Code, except that the term does not include an agency if the President determines that this Act should not apply to the agency for national security reasons.
 
-## § 6. Funding from existing budgets
-
-Federal agencies shall implement this Act from funds available to the agency and may reprogram funds as necessary for such purposes.
-
-## § 7. Deficit reduction
+## § 6. Deficit reduction
 
 Any savings or reductions in expenditures resulting from this Act shall be used to offset the costs of implementation of this Act, and any additional savings shall be used to reduce the deficit.
