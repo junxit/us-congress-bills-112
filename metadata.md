@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 132
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 132
@@ -20,9 +20,10 @@ Providing funding to ensure the printing and production of the authorized number
 
 - Rep. Serrano, Jose E. [D-NY-16] (S000248)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Providing funding to ensure the printing and production of the authorized number
 - 2012-09-10 — Mr. Lungren, Daniel E. moved to suspend the rules and agree to the resolution.
 - 2012-09-10 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5744)
 - 2012-09-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5744)
+- 2012-09-11 — Received in the Senate and referred to the Committee on Rules and Administration.
