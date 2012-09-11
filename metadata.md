@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2139
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2139
@@ -335,3 +335,4 @@ Lions Clubs International Century of Service Commemorative Coin Act
 - 2012-09-10 — Mr. Dold moved to suspend the rules and pass the bill, as amended.
 - 2012-09-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 2, 1 Present (Roll no. 558). (text: CR H5740-5741)
 - 2012-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 2, 1 Present (Roll no. 558).(text: CR H5740-5741)
+- 2012-09-11 — Received in the Senate, read twice.
