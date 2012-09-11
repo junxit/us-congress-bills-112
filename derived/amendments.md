@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6189
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,4 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “(a) Reports to Attorney General.—”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (b). | the bill names no machine-readable US Code section |
 | — | repeal | Section 200113 of the Police Corps Act (42 U.S.C. 14102) is repealed. | the bill names no machine-readable US Code section |
+| — | strike | The Violent Crime Control and Law Enforcement Act of 1994 is amended by striking the item relating to section 200113 in the table of contents contained in section 2 of such Act. | the bill names no machine-readable US Code section |
