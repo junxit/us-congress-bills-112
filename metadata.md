@@ -1,7 +1,7 @@
 ---
 measure: H.R. 406
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 406
@@ -20,9 +20,10 @@ To amend the Federal Election Campaign Act of 1971 to permit candidates for elec
 
 - Rep. Owens, William L. [D-NY-23] (O000169)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To amend the Federal Election Campaign Act of 1971 to permit candidates for elec
 - 2012-09-10 — Mr. Lungren, Daniel E. moved to suspend the rules and pass the bill.
 - 2012-09-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5743)
 - 2012-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5743)
+- 2012-09-11 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
