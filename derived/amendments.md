@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4264
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -48,7 +48,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (c), by striking “(c)” and all that follows through “The Secretary ” in the first sentence of paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 203(b) of the National Housing Act (12 U.S.C. 1709(b)) is amended by striking paragraph (1) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 255(d) of the National Housing Act (12 U.S.C. 1715z–20(d)) is amended by striking paragraph (1) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 202 of the National Housing Act (12 U.S.C. 1708(e)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 202 of the National Housing Act (12 U.S.C. 1708), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Paragraph (2) of section 540(b) of the National Housing Act (12 U.S.C. 1712 U.S.C. 1735f–18(b)(2)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” after “(b)”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
