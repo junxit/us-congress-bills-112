@@ -25,7 +25,7 @@ Part D of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 
 
 The State Justice Institute Act of 1984 is amended—
 
-- **(1)** in section 203(b)(1) (42 U.S.C. 10702(b)(1), in the matter preceding subparagraph (A), by inserting “, safe,” after “a fair”; and
+- **(1)** in section 203(b)(1) (42 U.S.C. 10702(b)(1)), in the matter preceding subparagraph (A), by inserting “, safe,” after “a fair”; and
 - **(2)** in section 206 (42 U.S.C. 10705)—
   - **(A)** in subsection (c)—
     - **(i)** in paragraph (14)—
@@ -49,7 +49,7 @@ The State Justice Institute Act of 1984 is amended—
   > - **(b)** *Disposal of surplus security equipment*
   >   - **(1)** *In general* Notwithstanding any other provision of this subchapter, the Administrator of General Services shall ensure that a qualifying State or local courthouse has an opportunity to request to receive surplus security equipment for use at the qualifying State or local courthouse before the surplus security equipment is made available to any other individual or entity under this subchapter.
   >   - **(2)** *Disposal*
-  >     - **(A)** *In general* Subject to subparagraph (B), upon request by qualifying State or local courthouse for surplus security equipment for use at a qualifying State or local courthouse, the surplus security equipment shall be made available to the qualifying State or local courthouse without cost, except for any costs of shipping, handling, and maintenance.
+  >     - **(A)** *In general* Subject to subparagraph (B), upon request by a qualifying State or local courthouse for surplus security equipment for use at the qualifying State or local courthouse, the surplus security equipment shall be made available to the qualifying State or local courthouse without cost, except for any costs of shipping, handling, and maintenance.
   >     - **(B)** *Multiple requests* If more than 1 qualifying State or local courthouse requests a particular piece of surplus security equipment, the surplus security equipment shall be distributed based on need, as determined by the Administrator of General Services, with priority given to a qualifying State or local courthouse that has no security equipment.
 
 - **(b)** *Technical and conforming amendment* The table of sections for chapter 5 of title 40, United States Code, is amended by inserting after the item relating to section 559 the following:

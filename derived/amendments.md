@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6185
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,11 +32,11 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Part D of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3741 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | in section 203(b)(1) (42 U.S.C. 10702(b)(1), in the matter preceding subparagraph (A), by inserting “, safe,” after “a fair”; and | the bill names no machine-readable US Code section |
+| — | insert | in section 203(b)(1) (42 U.S.C. 10702(b)(1)), in the matter preceding subparagraph (A), by inserting “, safe,” after “a fair”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “to” before “conduct”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (15) as paragraph (16); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (14) the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Subchapter III of chapter 5 of title 40, United States Code, is amended by adding after section 559 the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections for chapter 5 of title 40, United States Code, is amended by inserting after the item relating to section 559 the following: | the bill names no machine-readable US Code section |
