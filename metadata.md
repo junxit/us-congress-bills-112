@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6007
 congress: 112
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6007
@@ -23,9 +23,10 @@ North Texas Zebra Mussel Barrier Act of 2012
 - Rep. Flores, Bill [R-TX-17] (F000461)
 - Rep. Farenthold, Blake [R-TX-27] (F000460)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ North Texas Zebra Mussel Barrier Act of 2012
 - 2012-09-10 — Placed on the Union Calendar, Calendar No. 475.
 - 2012-09-10 — Reported by the Committee on Natural Resources. H. Rept. 112-657.
 - 2012-09-10 — Reported by the Committee on Natural Resources. H. Rept. 112-657.
+- 2012-09-11 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
