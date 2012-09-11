@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2706
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2706
@@ -68,3 +68,12 @@ Billfish Conservation Act of 2012
 - 2012-09-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-656.
 - 2012-09-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-656.
 - 2012-09-11 — Received in the Senate, read twice.
+- 2012-09-22 — Passed Senate without amendment by Voice Vote. (consideration: CR 9/21/2012 S6665)
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR 9/21/2012 S6665)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Presented to President.
+- 2012-09-25 — Presented to President.
+- 2012-10-05 — Became Public Law No: 112-183.
+- 2012-10-05 — Became Public Law No: 112-183.
+- 2012-10-05 — Signed by President.
+- 2012-10-05 — Signed by President.
