@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3479
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-31 amendatory instructions. 0 executed, 31 stated and not applied.
+33 amendatory instructions. 0 executed, 33 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -62,3 +62,5 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subsections (e) and (f). | the bill names no machine-readable US Code section |
 | — | amend | Section 205 of the National Windstorm Impact Reduction Act of 2004 (42 U.S.C. 15704) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 207 of the National Windstorm Impact Reduction Act of 2004 (42 U.S.C. 15706) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (D), by inserting “fires at the wildland-urban interface that are the result of natural causes,” after “but not limited to,”; and | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (E), by inserting “fires at the wildland-urban interface that are the result of natural causes,” after “types of fires, including”. | the bill names no machine-readable US Code section |
