@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6215
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
