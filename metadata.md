@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4305
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4305
@@ -27,9 +27,10 @@ Child and Elderly Missing Alert Program
 - Rep. LaTourette, Steven C. [R-OH-14] (L000553)
 - Rep. Schock, Aaron [R-IL-18] (S001179)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Child and Elderly Missing Alert Program
 - 2012-09-11 — Mr. Chabot moved to suspend the rules and pass the bill, as amended.
 - 2012-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5787-5788)
 - 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5787-5788)
+- 2012-09-12 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.

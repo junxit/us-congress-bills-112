@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4305
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | in paragraph (16), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (17), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 3796dd` | strike | in paragraph (16), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 3796dd` | replace | in paragraph (17), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 3796dd` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12102` | amend | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
