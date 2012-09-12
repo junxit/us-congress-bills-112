@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6028
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6028
@@ -22,9 +22,10 @@ No-Hassle Flying Act of 2012
 - Rep. Keating, William R. [D-MA-10] (K000375)
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ No-Hassle Flying Act of 2012
 - 2012-09-11 — Mr. Walsh (IL) moved to suspend the rules and pass the bill, as amended.
 - 2012-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5824)
 - 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5824)
+- 2012-09-12 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
