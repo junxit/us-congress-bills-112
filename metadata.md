@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4264
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4264
@@ -29,9 +29,10 @@ FHA Emergency Fiscal Solvency Act of 2012
 - Rep. Dold, Robert J. [R-IL-10] (D000613)
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ FHA Emergency Fiscal Solvency Act of 2012
 - 2012-09-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 7 (Roll no. 562). (text: CR 9/10/2012 H5737-5739)
 - 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 7 (Roll no. 562).(text: CR 9/10/2012 H5737-5739)
+- 2012-09-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
