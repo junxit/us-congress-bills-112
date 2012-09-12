@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3857
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,8 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating subparagraphs (E) through (H) as subparagraphs (F) through (I), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (D) the following new subparagraph (E): | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (E) through (H) as subparagraphs (F) through (I), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (D) the following new subparagraph (E): | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (D) by striking “and” at the end; | the bill names no machine-readable US Code section |
