@@ -1,7 +1,7 @@
 ---
 measure: H.R. 538
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 538
@@ -22,9 +22,10 @@ Government Customer Service Improvement Act
 - Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Government Customer Service Improvement Act
 - 2012-09-11 — Mr. Walsh (IL) moved to suspend the rules and pass the bill, as amended.
 - 2012-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5778)
 - 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5778)
+- 2012-09-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
