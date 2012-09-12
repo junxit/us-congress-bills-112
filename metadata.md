@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6131
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6131
@@ -44,3 +44,4 @@ To extend the Undertaking Spam, Spyware, And Fraud Enforcement With Enforcers be
 - 2012-09-11 — Mrs. Bono Mack moved to suspend the rules and pass the bill.
 - 2012-09-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5829)
 - 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5829)
+- 2012-09-12 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 507.
