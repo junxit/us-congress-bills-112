@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5949
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,12 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in paragraph (1), by striking “December 31, 2012” and inserting “December 31, 2017”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2) in the material preceding subparagraph (A), by striking “December 31, 2012” and inserting “December 31, 2017”. | the bill names no machine-readable US Code section |
-| — | replace | The heading of section 404(b) of the FISA Amendments Act of 2008 (Public Law 110–261; 122 Stat. 2476) is amended by striking “December 31, 2012” and inserting “December 31, 2017”. | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “December 31, 2012” and inserting “December 31, 2017”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2) in the material preceding subparagraph (A), by striking “December 31, 2012” and inserting “December 31, 2017”. | the bill names no machine-readable US Code section |
-| — | replace | The heading of section 404(b)(1) of the FISA Amendments Act of 2008 (Public Law 110–261; 122 Stat. 2476) is amended by striking “december 31, 2012” and inserting “december 31, 2017”. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “December 31, 2012” and inserting “December 31, 2017”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) in the material preceding subparagraph (A), by striking “December 31, 2012” and inserting “December 31, 2017”. | the bill names no machine-readable US Code section |
 | — | replace | The heading of section 404(b)(1) of the FISA Amendments Act of 2008 (Public Law 110–261; 122 Stat. 2476) is amended by striking “december 31, 2012” and inserting “december 31, 2017”. | the bill names no machine-readable US Code section |

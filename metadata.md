@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5949
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5949
@@ -29,6 +29,10 @@ FISA Amendments Act Reauthorization Act of 2012
 - House — Intelligence (Permanent Select) Committee
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2012-09-12 — [House 112-2-569](votes/house-112-2-0569.md) — On Passage — **Passed** (301–118)
+
 ## Actions
 
 - 2012-06-15 — Introduced in House
@@ -42,3 +46,13 @@ FISA Amendments Act Reauthorization Act of 2012
 - 2012-08-02 — Reported (Amended) by the Committee on Intelligence. H. Rept. 112-645, Part II.
 - 2012-08-02 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-645, Part I.
 - 2012-08-02 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-645, Part I.
+- 2012-09-12 — Considered as unfinished business. (consideration: CR H5900-5901)
+- 2012-09-12 — Considered under the provisions of rule H. Res. 773. (consideration: CR H5890-5901)
+- 2012-09-12 — DEBATE - The House proceeded with one hour of debate on H.R. 5949.
+- 2012-09-12 — House amendment offered
+- 2012-09-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-12 — On passage Passed by the Yeas and Nays: 301 - 118 (Roll no. 569). (text: CR H5890)
+- 2012-09-12 — POSTPONED PROCEEDINGS - The Chair put the question on adoption of H.R. 5949, and announced that the ayes had prevailed. Mr. Ruppersberger demanded the yeas and nays, and the Chair postponed further proceedings on question of adoption until later in the legislative day.
+- 2012-09-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 301 - 118 (Roll no. 569).(text: CR H5890)
+- 2012-09-12 — Resolution provides for consideration of both H.R. 5544 and H.R. 5949. Both measures are debatable for one hour each. For H.R. 5544, specified amendments are in order. For H.R. 5949, the amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill, shall be considered as adopted. For each bill, one motion to recommit is in order, with or without instructions.
+- 2012-09-12 — The previous question was ordered pursuant to the rule. (consideration: CR H5900)
