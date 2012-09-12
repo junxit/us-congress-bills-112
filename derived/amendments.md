@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2800
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | in subsection (b), by inserting “competitive” after “to receive a”; | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (c) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (d) to read as follows: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 14181` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 14181` | insert | in subsection (b), by inserting “competitive” after “to receive a”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 14181` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 14181` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

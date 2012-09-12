@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2800
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2800
@@ -37,9 +37,10 @@ Missing Alzheimer's Disease Patient Alert Program Reauthorization Act of 2012
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
 - Rep. Lynch, Stephen F. [D-MA-9] (L000562)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ Missing Alzheimer's Disease Patient Alert Program Reauthorization Act of 2012
 - 2012-09-11 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2012-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5790)
 - 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5790)
+- 2012-09-12 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
