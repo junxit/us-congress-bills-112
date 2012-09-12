@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4631
 congress: 112
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 4631
@@ -27,9 +27,10 @@ GSA Act of 2012
 - Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
 - Rep. Kelly, Mike [R-PA-3] (K000376)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ GSA Act of 2012
 - 2012-09-11 — Placed on the Union Calendar, Calendar No. 479.
 - 2012-09-11 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-664.
 - 2012-09-11 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-664.
+- 2012-09-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
