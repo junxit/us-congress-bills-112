@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1464
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1464
@@ -74,9 +74,10 @@ North Korean Child Welfare Act of 2012
 - Rep. Brooks, Mo [R-AL-5] (B001274)
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ North Korean Child Welfare Act of 2012
 - 2012-09-11 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill.
 - 2012-09-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5842-5843)
 - 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5842-5843)
+- 2012-09-12 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
