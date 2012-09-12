@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1410
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1410
@@ -34,9 +34,10 @@ Vietnam Human Rights Act of 2012
 - Rep. Barton, Joe [R-TX-6] (B000213)
 - Rep. Olson, Pete [R-TX-22] (O000168)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Vietnam Human Rights Act of 2012
 - 2012-09-11 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
 - 2012-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5835-5837)
 - 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5835-5837)
+- 2012-09-12 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
