@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6185
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6185
@@ -31,10 +31,11 @@ Local Courthouse Safety Act of 2012
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 - Rep. Larsen, Rick [D-WA-2] (L000560)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Local Courthouse Safety Act of 2012
 - 2012-09-11 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2012-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5791-5792)
 - 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5791-5792)
+- 2012-09-12 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6185
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -37,6 +37,6 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (15) as paragraph (16); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (14) the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Subchapter III of chapter 5 of title 40, United States Code, is amended by adding after section 559 the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections for chapter 5 of title 40, United States Code, is amended by inserting after the item relating to section 559 the following: | the bill names no machine-readable US Code section |
