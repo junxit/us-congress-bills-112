@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4057
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4057
@@ -44,9 +44,10 @@ Improving Transparency of Education Opportunities for Veterans Act of 2012
 - Rep. Cicilline, David N. [D-RI-1] (C001084)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -68,3 +69,4 @@ Improving Transparency of Education Opportunities for Veterans Act of 2012
 - 2012-09-11 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
 - 2012-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5817-5818)
 - 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5817-5818)
+- 2012-09-12 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.

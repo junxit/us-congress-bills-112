@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4057
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,10 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Chapter 36 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | amend | The table of sections at the beginning of such chapter is amended by adding after the item relating to section 3697A the following new item: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 3696 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 4102A(c) of title 38, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Paragraph (1) of section 2012(c) of title 38, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (6) as paragraph (7); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (5) the following new paragraph (6): | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 1099b` | add-at-end | Chapter 36 of title 38, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1099b` | amend | The table of sections at the beginning of such chapter is amended by adding after the item relating to section 3697A the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 3696` | add-at-end | Section 3696 of title 38, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 4102A` | add-at-end | Section 4102A(c) of title 38, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 2012` | amend | Paragraph (1) of section 2012(c) of title 38, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 2065` | redesignate | by redesignating paragraph (6) as paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 2065` | insert | by inserting after paragraph (5) the following new paragraph (6): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
