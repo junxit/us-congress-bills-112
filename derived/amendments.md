@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6189
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 

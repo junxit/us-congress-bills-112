@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6189
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6189
@@ -20,9 +20,10 @@ Reporting Efficiency Improvement Act
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Reporting Efficiency Improvement Act
 - 2012-09-11 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2012-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5796)
 - 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5796)
+- 2012-09-12 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
