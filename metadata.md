@@ -1,7 +1,7 @@
 ---
 measure: S. 2170
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2170
@@ -31,3 +31,8 @@ Hatch Act Modernization Act of 2012
 - 2012-03-07 — Introduced in Senate
 - 2012-03-07 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S1461-1462)
 - 2012-03-07 — Sponsor introductory remarks on measure. (CR S1461)
+- 2012-03-13 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.
+- 2012-06-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-09-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute and an amendment to the title. With written report No. 112-211.
+- 2012-09-13 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute and an amendment to the title. With written report No. 112-211.
+- 2012-09-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 508.
