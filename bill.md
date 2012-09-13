@@ -1,0 +1,60 @@
+---
+legis-num: H.R. 6408
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6408
+
+> To amend the Help America Vote Act of 2002 to require each individual who desires to vote in an election for Federal office to provide the appropriate election official with a government-issued photo identification, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Federal Election Integrity Act of 2012”.
+
+## § 2. Requiring Voters To Provide Photo Identification
+
+- **(a)** *Requirement To Provide Photo Identification as Condition of Receiving Ballot* Section 303(b) of the Help America Vote Act of 2002 (42 U.S.C. 15483(b)) is amended—
+  - **(1)** in the heading, by striking “for Voters Who Register by Mail” and inserting “for Providing Photo Identification”; and
+  - **(2)** by striking paragraphs (1) through (3) and inserting the following:
+    > - **(1)** *Individuals voting in person*
+    >   - **(A)** *Requirement to provide identification* Notwithstanding any other provision of law and except as provided in subparagraph (B), the appropriate State or local election official shall not provide a ballot for an election for Federal office to an individual who desires to vote in person unless—
+    >     - **(i)** the individual presents to the official a government-issued, current, and valid photo identification of the individual; and
+    >     - **(ii)** the election official verifies that the photo identification presented is of the individual who requests the ballot.
+    >   - **(B)** *Availability of provisional ballot* If an individual does not present the identification required under subparagraph (A), the individual shall be permitted to cast a provisional ballot with respect to the election under section 302(a), except that the appropriate State or local election official shall not make a determination under section 302(a)(4) that the individual is eligible under State law to vote in the election unless, not later than 48 hours after casting the provisional ballot—
+    >     - **(i)** the individual presents the identification required under subparagraph (A) to the official; and
+    >     - **(ii)** the election official verifies that the photo identification presented is of the individual who cast the provisional ballot.
+    > - **(2)** *Individuals voting other than in person*
+    >   - **(A)** *In general* Notwithstanding any other provision of law and except as provided in subparagraph (B), the appropriate State or local election official shall not accept any ballot for an election for Federal office provided by an individual who votes other than in person unless—
+    >     - **(i)** the individual submits with the ballot a copy of a government-issued, current, and valid photo identification of the individual; and
+    >     - **(ii)** the election official verifies that the photo identification presented is of the individual who provides the ballot.
+    >   - **(B)** *In person requests for ballots to vote other than in person* Notwithstanding any other provision of law and except as provided in subparagraph (B), the appropriate State or local election official shall not provide a ballot for voting other than in person to an individual who makes a request for such a ballot in person unless—
+    >     - **(i)** the individual presents to the official a government-issued, current, and valid photo identification of the individual; and
+    >     - **(ii)** the election official verifies that the photo identification presented is of the individual who requests the ballot.
+    >   - **(C)** *Exception for overseas military voters* Subparagraphs (A) and (B) do not apply with respect to an absent uniformed services voter who, by reason of active duty or service, is absent from the United States on the date of the election involved. In this subparagraph, the term absent uniformed services voter has the meaning given such term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(1)), other than an individual described in section 107(1)(C) of such Act.
+    > - **(3)** *Specific requirements for identifications* For purposes of paragraphs (1) and (2), an identification is “government-issued” with respect to an individual if it is issued by the Federal Government or by the government of the State in which the individual seeks to cast a ballot. Nothing in this subsection shall be construed to prohibit the Federal Government or a State from requiring an individual who requests a photo identification to present such information as may be necessary to ensure that the individual is the individual for whom the identification is sought, or from imposing any other requirements deemed necessary to ensure the integrity or accuracy of any such photo identifications.
+
+- **(b)** *Conforming Amendments* Section 303 of such Act (42 U.S.C. 15483) is amended—
+  - **(1)** in the heading, by striking “for voters who register by mail” and inserting “for Providing Photo Identification”; and
+  - **(2)** in subsection (c), by striking “subsections (a)(5)(A)(I)(II) and (b)(3)(B)(I)(II)” and inserting “subsection (a)(5)(A)(I)(II)”.
+- **(c)** *Clerical Amendment* The table of contents of such Act is amended by amending the item relating to section 303 to read as follows:
+- **(d)** *Effective Date*
+  - **(1)** *In general* This section and the amendments made by this section shall apply with respect to elections for Federal office held on or after January 1, 2014.
+  - **(2)** *Conforming amendment* Section 303(d)(2) of such Act (42 U.S.C. 15483(d)(2)) is amended to read as follows:
+    > - **(2)** *Requirement to provide photo identification* Paragraphs (1) and (2) of subsection (b) shall apply with respect to elections for Federal office held on or after January 1, 2014.
+
+## § 3. Making photo identifications available
+
+- **(a)** *Requiring States To make identification available* Section 303(b) of the Help America Vote Act of 2002 (42 U.S.C. 15483(b)), as amended by section 2(a)(2), is amended—
+  - **(1)** by redesignating paragraphs (4) and (5) as paragraphs (5) and (6); and
+  - **(2)** by inserting after paragraph (3) the following new paragraph:
+    > - **(4)** *Making photo identifications available*
+    >   - **(A)** *In general* During fiscal year 2014 and each succeeding fiscal year, each State shall establish a program to provide photo identifications which may be used to meet the requirements of paragraphs (1) and (2) by individuals who desire to vote in elections held in the State but who do not otherwise possess a government-issued photo identification.
+    >   - **(B)** *Identifications provided at no cost to indigent individuals* If a State charges an individual a fee for providing a photo identification under the program established under subparagraph (A)—
+    >     - **(i)** the fee charged may not exceed the reasonable cost to the State of providing the identification to the individual; and
+    >     - **(ii)** the State may not charge a fee to any individual who provides an attestation that the individual is unable to afford the fee.
+    >   - **(C)** *Identifications not to be used as motor vehicle licenses* Any photo identification provided under the program established under subparagraph (A) may not serve as a government-issued photo identification for purposes of operating a motor vehicle or any related purpose.
+
+- **(b)** *Payments to States To cover costs* Subtitle D of title II of such Act (42 U.S.C. 15321 et seq.) is amended by adding at the end the following new part:
+- **(c)** *Clerical amendment* The table of contents of such Act is amended by adding at the end of the item relating to subtitle D of title II the following:
