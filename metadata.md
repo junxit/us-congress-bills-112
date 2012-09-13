@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5544
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5544
@@ -20,9 +20,10 @@ Minnesota Education Investment and Employment Act
 
 - Rep. Kline, John [R-MN-2] (K000363)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (6)
 
@@ -98,3 +99,4 @@ Minnesota Education Investment and Employment Act
 - 2012-09-12 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5889)
 - 2012-09-12 — The previous question was ordered pursuant to the rule. (consideration: CR H5888)
 - 2012-09-12 — UNFINISHED BUSINESS - The Chair announced the unfinished business was on adoption of amendments which were debated earlier and on which further proceedings were postponed.
+- 2012-09-13 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
