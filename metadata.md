@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 44
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 44
@@ -16,10 +16,12 @@ A joint resolution granting the consent of Congress to the State and Province Em
 
 - Sen. Kohl, Herb [D-WI] (K000305)
 
-## Cosponsors (2)
+## Cosponsors (4)
 
 - Sen. Hoeven, John [R-ND] (H001061)
 - Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Levin, Carl [D-MI] (L000261)
 
 ## Committees (1)
 
@@ -33,3 +35,5 @@ A joint resolution granting the consent of Congress to the State and Province Em
 - 2012-08-02 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2012-08-02 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2012-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 494.
+- 2012-09-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6387-6388; text as passed Senate: CR S6387-6388)
+- 2012-09-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6387-6388; text as passed Senate: CR S6387-6388)
