@@ -1,7 +1,7 @@
 ---
 measure: S. 3552
 congress: 112
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -82,20 +82,20 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (2), by striking “appearing in the Congressional Record on pages S10409” and all that follows through the period and inserting “provided under subsection (b)(3).”; and | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A), by inserting “and fee” before the period; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “(B) Completeness of application” and all that follows through “Not later” in clause (i) and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | in clause (i) (as so designated) by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | in clause (i) (as so designated) by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking clause (ii) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in the heading, by inserting “initial content” before “screening” ; | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding subclause (I), by inserting “content” after “initial”; and | the bill names no machine-readable US Code section |
 | — | replace | in subclause (II), by striking “contains” and inserting “appears to contain”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “March 1, 2014” and inserting “March 1, 2017”; | the bill names no machine-readable US Code section |
 | — | strike | in clause (vi)(V), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | insert | in clause (vii)(II), by inserting “and” at the end; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (E), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (F), by striking the period and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “2012” and inserting “2017”; and | the bill names no machine-readable US Code section |
 | — | replace | in the heading, by striking “2013” and inserting “2018”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “2013,” and inserting “2018,”; and | the bill names no machine-readable US Code section |
