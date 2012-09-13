@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1775
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1775
@@ -130,6 +130,10 @@ Stolen Valor Act of 2012
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2012-09-13 — [House 112-2-575](votes/house-112-2-0575.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (410–3)
+
 ## Actions
 
 - 2011-05-05 — Introduced in House
@@ -142,3 +146,12 @@ Stolen Valor Act of 2012
 - 2012-09-10 — Placed on the Union Calendar, Calendar No. 468.
 - 2012-09-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-650.
 - 2012-09-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-650.
+- 2012-09-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-09-11 — Considered under suspension of the rules. (consideration: CR H5793-5795)
+- 2012-09-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1775.
+- 2012-09-11 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2012-09-13 — Considered as unfinished business. (consideration: CR H5949)
+- 2012-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 3 (Roll no. 575). (text: CR 9/11/2012 H5793)
+- 2012-09-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 3 (Roll no. 575).(text: CR 9/11/2012 H5793)
+- 2012-09-13 — The title of the measure was amended. Agreed to without objection.

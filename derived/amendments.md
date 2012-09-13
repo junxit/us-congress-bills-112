@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1775
 congress: 112
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 0 executed, 11 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,12 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Chapter 47 of title 18, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (b); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (c) and (d) as subsections (b) and (c), respectively; | the bill names no machine-readable US Code section |
-| — | redesignate | in subsection (b)(1), as redesignated by paragraph (2), by striking “or (b)”; and | the bill names no machine-readable US Code section |
-| — | redesignate | in subsection (c), as redesignated by paragraph (2), by striking “or (b)”. | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections at the beginning of chapter 47 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a), by striking “wears,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “If a decoration” and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “a combat badge,” after “1129 of title 10,”; and | the bill names no machine-readable US Code section |
