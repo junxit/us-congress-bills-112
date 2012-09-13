@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5865
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5865
@@ -38,10 +38,11 @@ American Manufacturing Competitiveness Act of 2012
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 - Rep. Murphy, Christopher [D-CT-5] (M001169)
 
-## Committees (2)
+## Committees (3)
 
 - House — Budget Committee
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -73,3 +74,4 @@ American Manufacturing Competitiveness Act of 2012
 - 2012-09-12 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 339 - 77 (Roll no. 571). (text: CR 9/11/2012 H5830-5831)
 - 2012-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 339 - 77 (Roll no. 571).(text: CR 9/11/2012 H5830-5831)
+- 2012-09-13 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
