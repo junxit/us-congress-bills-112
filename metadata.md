@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 775
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 775
@@ -36,3 +36,8 @@ Condemning the shooting that killed six innocent people at the Sikh Temple of Wi
 - 2012-09-10 — Introduced in House
 - 2012-09-10 — Introduced in House
 - 2012-09-10 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-09-13 — Considered by unanimous consent. (consideration: CR H5973)
+- 2012-09-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-13 — Mr. Farenthold asked unanimous consent to discharge from committee and consider.
+- 2012-09-13 — On agreeing to the resolution Agreed to without objection. (text: CR H5973)
+- 2012-09-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H5973)
