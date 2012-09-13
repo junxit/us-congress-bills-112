@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3857
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+6 amendatory instructions. 1 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 6 U.S.C. § 1135
+
+> by striking “10 percent” and inserting “50 percent”; and
+
+| | |
+|---|---|
+| Removed | `10 percent` |
+| Inserted | `50 percent` |
 
 ## Stated, not applied
 
@@ -31,9 +42,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating subparagraphs (E) through (H) as subparagraphs (F) through (I), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (D) the following new subparagraph (E): | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (D) by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | by striking “10 percent” and inserting “50 percent”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `6 U.S.C. § 1135` | redesignate | by redesignating subparagraphs (E) through (H) as subparagraphs (F) through (I), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1135` | insert | by inserting after subparagraph (D) the following new subparagraph (E): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1135` | strike | in subparagraph (D) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 1135` | replace | by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 1135` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

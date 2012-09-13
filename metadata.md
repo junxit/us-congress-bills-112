@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3857
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3857
@@ -23,9 +23,10 @@ Public Transit Security and Local Law Enforcement Support Act
 - Rep. Grimm, Michael G. [R-NY-13] (G000569)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ Public Transit Security and Local Law Enforcement Support Act
 - 2012-09-12 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-09-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 62 (Roll no. 570). (text: CR 9/11/2012 H5822)
 - 2012-09-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 62 (Roll no. 570).(text: CR 9/11/2012 H5822)
+- 2012-09-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
