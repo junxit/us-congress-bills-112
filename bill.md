@@ -32,7 +32,7 @@ That the following sums are hereby appropriated, out of any money in the Treasur
 
 ## § 102.
 
-- **(a)** No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used for (1) the new production of items not funded for production in fiscal year 2012 or prior years; (2) the increase in production rates above those sustained with fiscal year 2012 funds; or (3) the initiation, resumption, or continuation of any project, activity, operation, or organization (defined as any project, subproject, activity, budget activity, program element, and subprogram within a program element, and for any investment items defined as a P–1 line item in a budget activity within an appropriation account and an R–1 line item that includes a program element and subprogram element within an appropriation account) for which appropriations, funds, or other authority were not available during fiscal year 2012.
+- **(a)** No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used for: (1) the new production of items not funded for production in fiscal year 2012 or prior years; (2) the increase in production rates above those sustained with fiscal year 2012 funds; or (3) the initiation, resumption, or continuation of any project, activity, operation, or organization (defined as any project, subproject, activity, budget activity, program element, and subprogram within a program element, and for any investment items defined as a P–1 line item in a budget activity within an appropriation account and an R–1 line item that includes a program element and subprogram element within an appropriation account) for which appropriations, funds, or other authority were not available during fiscal year 2012.
 - **(b)** No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used to initiate multi-year procurements utilizing advance procurement funding for economic order quantity procurement unless specifically appropriated later.
 
 ## § 103.
@@ -269,8 +269,8 @@ The authority provided by section 331 of the Department of the Interior and Rela
 
 ## § 144.
 
-- **(a)** The following sections of the Federal Insecticide, Fungicide, and Rodenticide Act shall continue in effect through the date specified in section 106(3) of this joint resolution:
-  - **(1)** Subparagraphs (C) through (E) of section 4(i)(5) (7 U.S.C. 136a–1(i)(5)(C)-(E));
+- **(a)** The following sections of the Federal Insecticide, Fungicide, and Rodenticide Act shall continue in effect through the date specified in section 106(3) of this joint resolution—
+  - **(1)** Subparagraphs (C) through (E) of section 4(i)(5) (7 U.S.C. 136a–1(i)(5)(C)–(E));
   - **(2)** Section 4(k)(3) (7 U.S.C. 136a–1(k)(3)); and
   - **(3)** Section 33(c)(3)(B) (7 U.S.C. 136w–8(c)(3)(B)).
 - **(b)**
@@ -282,9 +282,9 @@ The authority provided by section 331 of the Department of the Interior and Rela
 
 Section 163 of Public Law 111–242, as amended by Public Law 111–322, is further amended—
 
-- **(a)** in subsection (b), by striking “2012–2013” and inserting “2013–2014”; and
-- **(b)** by inserting at the end the following:
-  > - **(c)** Not later than December 31, 2013, the Secretary of Education shall submit a report to the Committees on Appropriations and Health, Education, Labor, and Pensions of the Senate and the Committees on Appropriations and Education and the Workforce of the House of Representatives, using data required under existing law (section 1111(h)(6)(A) of Public Law 107–110) by State and each local educational agency, regarding the extent to which students in the following categories are taught by teachers who are deemed highly qualified pursuant to 34 C.F.R. 200.56(a)(2)(ii) as published in the Federal Register on December 2, 2002:
+- **(1)** in subsection (b), by striking “2012–2013” and inserting “2013–2014”; and
+- **(2)** by inserting at the end the following:
+  > - **(c)** Not later than December 31, 2013, the Secretary of Education shall submit a report to the Committees on Appropriations and Health, Education, Labor, and Pensions of the Senate and the Committees on Appropriations and Education and the Workforce of the House of Representatives, using data required under existing law (section 1111(h)(6)(A) of Public Law 107–110) by State and each local educational agency, regarding the extent to which students in the following categories are taught by teachers who are deemed highly qualified pursuant to 34 CFR 200.56(a)(2)(ii) as published in the Federal Register on December 2, 2002:
   >   - **(1)** Students with disabilities.
   >   - **(2)** English Learners.
   >   - **(3)** Students in rural areas.
