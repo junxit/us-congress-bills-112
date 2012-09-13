@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 6401
+congress: 112th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6401
+
+> To require the Secretary of Labor to carry out a pilot program on providing veterans with access at One-Stop Centers to Internet websites to facilitate online job searches, and for other purposes.
+
+## § 1. Pilot program on providing veterans with access at One-Stop Centers to Internet websites to facilitate online job searches
+
+- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary of Labor shall commence a pilot program to assess the feasibility and advisability of providing veterans seeking employment with access to computing facilities to facilitate the access of such veterans to Internet websites that—
+  - **(1)** match such veterans with available jobs based on the skills the veterans acquired as members of the Armed Forces; and
+  - **(2)** allow employers to post information about available jobs.
+- **(b)** *Duration* The pilot program required by subsection (a) shall be carried out during the one-year period beginning on the date on which the Secretary commences the pilot program.
+- **(c)** *Locations* The pilot program shall be carried out at such one-stop centers and such other locations as the Secretary of Labor considers appropriate for purposes of the pilot program.
+- **(d)** *Assistance with use of Internet websites*
+  - **(1)** *In general* Under the pilot program, the Secretary of Labor shall provide each veteran using computing facilities made available under the pilot program with assistance in using such facilities to find employment via Internet websites described in subsection (a).
+  - **(2)** *Disabled veterans' outreach program specialists and local veterans' employment representatives* Each State that employs a disabled veterans' outreach program specialist under section 4103A of title 38, United States Code, or a local veterans' employment representative under section 4104 of such title shall make such employees available to the Secretary of Labor for purposes of providing assistance under paragraph (1).
+- **(e)** *Report* Not later than 455 days after the date of the enactment of this Act, the Secretary of Labor shall submit to the Committee on Veterans’ Affairs and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Veterans’ Affairs and the Committee on Education and the Workforce of the House of Representatives a report on the pilot program that includes the findings of the Secretary with respect to the feasibility and advisability of providing computing facilities as described in subsection (a) with assistance as described in subsection (d) at all one-stop centers.
+- **(f)** *Funding* Amounts made available to the Secretary of Labor to make grants or contracts under section 4102A(b)(5) of title 38, United States Code, shall be available to the Secretary to carry out the pilot program required by subsection (a).
+- **(g)** *One-Stop center defined* In this section, the term one-stop center means a center described in section 134(c) of the Workforce Investment Act of 1998 (29 U.S.C. 2864(c)).
+
+## § 2. Repeal of requirement for annual report by Secretary of Veterans Affairs on use of authorities to enhance retention of experienced nurses
+
+- **(a)** *In general* Section 7324 of title 38, United States Code, is hereby repealed.
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 73 of such title is amended by striking the item relating to section 7324.
