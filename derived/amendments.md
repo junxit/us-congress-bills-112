@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6083
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-880 amendatory instructions. 0 executed, 880 stated and not applied.
+957 amendatory instructions. 0 executed, 957 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -63,7 +63,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (1), by striking “, average adjusted gross farm income, and average adjusted gross nonfarm income” both places it appears; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “paragraphs (1)(C) and (2)(B) of subsection (b)” and inserting “subsection (b)(2)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “paragraphs (1)(C) and (2)(B) of subsection (b)” and inserting “subsection (b)(2)”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “, average adjusted gross farm income, or the average adjusted gross nonfarm income”. | the bill names no machine-readable US Code section |
+| — | strike | by striking “, average adjusted gross farm income, or average adjusted gross nonfarm income”. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (e) of section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a), as redesignated by subsection (c)(2) of this section, is amended by striking “2009 through 2012” and inserting “2013 through 2017”. | the bill names no machine-readable US Code section |
 | — | insert | Section 1001(d) of the Food Security Act of 1985 (7 U.S.C. 1308) is amended by inserting before the period at the end the following: “or title I of the Federal Agriculture Reform and Risk Management Act of 2012”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1621(d) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8792(d)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
@@ -106,7 +106,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “The Secretary” and inserting “During fiscal year 2013, the Secretary”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “before January 1, 1995,”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking subparagraph (C) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “60 days after date on which the owner or operator submits the notice required under paragraph (1)(C)” and inserting “upon approval by the Secretary”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “60 days after the date on which the owner or operator submits the notice required under paragraph (1)(C)” and inserting “upon approval by the Secretary”. | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A), by striking “Duties” and all that follows through “a beginning farmer” and inserting “Transition to covered farmer or rancher.—In the case of a contract modification approved in order to facilita… | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A)(i), by inserting “, including preparing to plant an agricultural crop” after “improvements”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D), by striking “the farmer or rancher” and inserting “the covered farmer or rancher”; and | the bill names no machine-readable US Code section |
@@ -120,7 +120,6 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after subparagraph (A) the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (5). | the bill names no machine-readable US Code section |
-| — | redesignate | Section 1240A of the Food Security Act of 1985 (16 U.S.C. 3839aa–1) is amended by striking paragraphs (2) and (3) and redesignating paragraphs (4) through (6) as paragraphs (2) through (4), respectively. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “2014” and inserting “2017”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking paragraph (2) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A), in the matter preceding clause (i), by inserting “, veteran farmer or rancher (as defined in section 2501(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279(e))),” before “or a beginning … | the bill names no machine-readable US Code section |
@@ -163,7 +162,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 524(b)(4)(B) of the Federal Crop Insurance Act (7 U.S.C. 1524(b)(4)(B)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “50” and inserting “30”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “(A), (B), and (C)” and inserting “(A) and (B)”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (iii), by striking “40” and inserting “60.” | the bill names no machine-readable US Code section |
+| — | replace | in clause (iii), by striking “40” and inserting “60”. | the bill names no machine-readable US Code section |
 | — | amend | Subsection (a) of section 1241 of the Food Security Act of 1985 (16 U.S.C. 3841) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (b) through (h) as subsections (c) through (i); respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following new subsection: | the bill names no machine-readable US Code section |
@@ -264,6 +263,12 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “and” at the end of subparagraph (C); and | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraphs (D) and (E) and inserting the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 3202(c) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 22 U.S.C. 2220a note) is amended by striking “section” and all that follows through the period and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | Subtitle B of the Department of Agriculture Reorganization Act of 1994 is amended by inserting after section 225 (7 U.S.C. 6931) the following new section: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Under Secretary of Agriculture for Farm and Foreign Agricultural Services” each place it appears and inserting “Under Secretary of Agriculture for Farm Services”; AND | the bill names no machine-readable US Code section |
+| — | strike | in subsection (c)(1), by striking “and foreign agricultural”. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (6)(C), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (7), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 3(p)(1)(A) of the Food and Nutrition Act of 2008 (7 U.S.C. 2012(p)(1)(A)) is amended by striking “at least 2” and inserting “at least 3”. | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -277,31 +282,42 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 4(b)(6)(F) of the Food and Nutrition Act of 2008 (7 U.S.C. 2013(b)(6)(F)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | replace | in the 2d sentence of subsection (a) by striking “households in which each member receives benefits” and inserting “households in which each member receives cash assistance”, and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (j) by striking “or who receives benefits under a State program” and inserting “or who receives cash assistance under a State program”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 5(e)(5) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(e)(5)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in clause (i) by inserting “, subject to clause (iv)” after “Secretary”; and | the bill names no machine-readable US Code section |
 | — | replace | in clause (iv)(I) by striking “the household still incurs” and all that follows through the end of the subclause and inserting “the payment received by, or made on behalf of, the household exceeds $10 or a higher amount annually, as dete… | the bill names no machine-readable US Code section |
 | — | insert | Section 2605(f)(2)(A) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8624(f)(2)(A)) is amended by inserting before the semicolon at the end “, except that, for purposes of the supplemental nutrition assistance program es… | the bill names no machine-readable US Code section |
-| — | replace | Section 6(e)(3)(B) of Food and Nutrition Act of 2008 (7 U.S.C. 2015(e)(3)(B)) is amended by striking “section” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 6(e)(3)(B) of Food and Nutrition Act of 2008 (7 U.S.C. 2015(e)(3)(B)) is amended by striking “section;” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 6 of the Food and Nutrition Act of 2008 (7 U.S.C. 2015) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 5(a) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(a)) is amended in the 2d sentence by striking “sections 6(b), 6(d)(2), and 6(g)” and inserting “subsections (b), (d)(2), (g), and (r) of section 6”. | the bill names no machine-readable US Code section |
-| — | replace | in the heading by striking “card fee” inserting “of cards”; | the bill names no machine-readable US Code section |
+| — | replace | in the heading by striking “card fee” and inserting “of cards”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “A State” and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | by adding after subparagraph (A) (as so designated by paragraph (2)) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7(h) of the Food and Nutrition Act of 2008 (7 U.S.C. 2016(h)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 10 of the Food and Nutrition Act of 2008 (7 U.S.C. 2019) is amended in the 1st sentence by inserting “agricultural producers who market agricultural products directly to consumers shall be authorized to redeem benefits for the in… | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (22) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (23)(C) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 9 of the Food and Nutrition Act of 2008 (7 U.S.C. 2018) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 3(k) of the Food and Nutrition Act of 2008 (7 U.S.C. 2012(k)) is amended by inserting “subject to section 9(h)” after “concessional prices” each place it appears. | the bill names no machine-readable US Code section |
-| — | repeal | Section 16(d) of the Food and Nutrition Act of 2008 (7 U.S.C. 2025(d)(2)(B)(ii)) is repealed. | the bill names no machine-readable US Code section |
+| — | amend | Section 11(p) of the Food and Nutrition Act of 2008 (7 U.S.C. 2020(p)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | repeal | Section 11(t) of the Food and Nutrition Act of 2008 (7 U.S.C. 2020(t)) is repealed. | the bill names no machine-readable US Code section |
+| — | amend | Section 11 of the Food and Nutrition Act of 2008 (7 U.S.C. 2020) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | repeal | Section 16(d) of the Food and Nutrition Act of 2008 (7 U.S.C. 2025(d)) is repealed. | the bill names no machine-readable US Code section |
 | — | replace | Section 16(h)(1)(A) of the Food and Nutrition Act of 2008 (7 U.S.C. 2025(h)(1)(A)) is amended by striking “$90,000,000” and inserting “$79,000,000”. | the bill names no machine-readable US Code section |
 | — | amend | Section 16(h)(5) of the Food and Nutrition Act of 2008 (7 U.S.C. 2025(h)(5)) is amended to read: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 17 of the Food and Nutrition Act of 2008 (7 U.S.C. 2026) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 18(a)(1) of the Food and Nutrition Act of 2008 (7 U.S.C. 2027(a)(1)) is amended in the 1st sentence by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 19(a)(2)(B) of the Food and Nutrition Act of 2008 (7 U.S.C. 2028(a)(2)(B)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in subclause (II) by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in subclause (III) by striking “or” at the end and inserting “and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 25(b) of the Food and Nutrition Act of 2008 (7 U.S.C. 2034) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1) by striking “2008 through 2012” and inserting “2012 through 2017”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraphs (A) and (B) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “2010 through 2012, the dollar amount of commodities specified in” and inserting “2014 through 2017, the total amount of commodities under”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “2008” and inserting “2012”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “2008” and inserting “2012”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting:“; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 209(d) of the Emergency Food Assistance Act of 1983 (7 U.S.C. 7511a(d)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | insert | Section 28(b) of the Food and Nutrition Act of 2008 (7 U.S.C. 2036a(b)) is amended by inserting “and physical activity” after “healthy food choices”. | the bill names no machine-readable US Code section |
 | — | add-at-end | The Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -310,7 +326,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subsection (l); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (m) through (t) as subsections (l) through (s), respectively; and | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting after subsection (s) (as so redesignated) the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 4(a) of the Food and Nutrition Act of 2008 (7 U.S.C. 2013(a)) is amended in the last sentence by striking “The benefits” and inserting “Benefits”. | the bill names no machine-readable US Code section |
+| — | replace | Section 4(a) of the Food and Nutrition Act of 2008 (7 U.S.C. 2013(a)) is amended by striking “benefits” the last place it appears and inserting “Benefits”. | the bill names no machine-readable US Code section |
 | — | replace | in the last sentence of subsection (i)(2)(D) by striking “section 13(b)(2)” and inserting “section 13(b)”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (k)(4)(A) by striking “paragraph (2)(H)” and inserting “paragraph (2)(G)”. | the bill names no machine-readable US Code section |
 | — | redesignate | Section 7(h) of the Food and Nutrition Act of 2008 (7 U.S.C. 2016(h)) is amended by redesignating the 2d paragraph (12) as paragraph (13). | the bill names no machine-readable US Code section |
@@ -324,13 +340,24 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 27(a)(1) of the Food and Nutrition Act of 2008 (7 U.S.C. 2036(a)(1)) is amended by striking “(Public Law 98–8; 7 U.S.C. 612c note)” and inserting “(7 U.S.C. 7515)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 509 of the Older Americans Act of 1965 (42 U.S.C. 3056g) is amended in the section heading by striking “food stamp programs” and inserting “supplemental nutrition assistance program”. | the bill names no machine-readable US Code section |
 | — | replace | Section 4115(c)(2)(H) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 1871) is amended by striking “531” and inserting “454”. | the bill names no machine-readable US Code section |
+| — | replace | Section 3803(c)(2)(C)(vii) of title 31 of the United States Code is amended by striking “section 3(l)” each place it appears and inserting “section 3(s)”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(2) by striking “section 3(l)” and inserting “section 3(s)”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(2) by striking “section 3(l)” and inserting “section 3(s)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e)(2) by striking “section 3(l)” and inserting “section 3(s)”. | the bill names no machine-readable US Code section |
+| — | replace | in section 4(a) by striking “Food Stamp Act of 1977” and inserting “Food and Nutrition Act of 2008”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (i)(1) by striking “Food Stamp Act of 1977” and inserting “Food and Nutrition Act of 2008”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (l)(2)(B) by striking “Food Stamp Act of 1977” and inserting “Food and Nutrition Act of 2008”. | the bill names no machine-readable US Code section |
+| — | replace | in the heading of section 453(j)(10) by striking “food stamp” and inserting “supplemental nutrition assistance”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(5)(B) by striking “food stamp” and inserting “supplemental nutrition assistance”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(4) by striking “food stamp program under the Food Stamp Act of 1977” and inserting “supplemental nutrition assistance program under the Food and Nutrition Act of 2008”; and | the bill names no machine-readable US Code section |
+| — | replace | in the heading of section 1631(n) by striking “food stamp” and inserting “supplemental nutrition assistance”. | the bill names no machine-readable US Code section |
 | — | replace | Section 4(a) of the Agriculture and Consumer Protection Act of 1973 (7 U.S.C. 612c note; Public Law 93–86) is amended in the 1st sentence by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | replace | in paragraphs (1) and (2)(B) of subsection (a) by striking “2012” each place it appears and inserting “2017”; | the bill names no machine-readable US Code section |
 | — | replace | in the 1st sentence of subsection (d)(2) by striking “2012” and inserting “2017”; | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (g) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 1114(a)(2)(A) of the Agriculture and Food Act of 1981 (7 U.S.C. 1431e(2)(A)) is amended in the 1st sentence by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
-| — | replace | Section 18 of the Commodity Distribution Reform Act and WIC Amendments of 1987 (7 U.S.C. 612c note) is amended by striking out paragraphs (1) and (2) and inserting the following in their place: | the bill names no machine-readable US Code section |
+| — | replace | Section 18 of the Commodity Distribution Reform Act and WIC Amendments of 1987 (7 U.S.C. 612c note) is amended by striking paragraphs (1) and (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3)(D) by striking “the Committee on Education and Labor” and inserting “the Committee on Education and the Workforce”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b)(1)(A)(ii) by striking “section 32 of the Agricultural Adjustment Act (7 U.S.C. 601 et seq.)” and inserting “section 32 of the Act of August 24, 1935 (7 U.S.C. 612c)”; | the bill names no machine-readable US Code section |
@@ -341,7 +368,8 @@ complete account of the bill's effect, which it is not.
 | — | strike | in the matter preceding paragraph (1), by striking “seniors”; and | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1) by inserting “, and low-income families who are determined to be at nutritional risk” after “low-income seniors”; | the bill names no machine-readable US Code section |
 | — | strike | in subsection (c) by striking “seniors”; | the bill names no machine-readable US Code section |
-| — | strike | in subsection (d) by striking “seniors”. | the bill names no machine-readable US Code section |
+| — | strike | in subsection (d) by striking “seniors”; | the bill names no machine-readable US Code section |
+| — | strike | in subsection (e) by striking “seniors”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (c), (d), (e), and (f) as subsections (d), (e), (f), and (g), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
 | — | repeal | Section 4403 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 3171 note; Public Law 107–171) is repealed. | the bill names no machine-readable US Code section |
@@ -365,7 +393,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 304(c) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1924(c)) is amended by inserting after “limited liability companies” the following: “, or such other legal entities as the Secretary deems appropriate,”. | the bill names no machine-readable US Code section |
 | — | replace | Section 304(e) of such Act (7 U.S.C. 1924(e)) is amended by striking “75 percent” and inserting “90 percent”. | the bill names no machine-readable US Code section |
 | — | replace | Section 304(h) of such Act (7 U.S.C. 1924(h)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
-| — | replace | Section 310E(b)(1)(C)) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1935(b)(1)(C)) is amended by striking “$500,000” and inserting “$667,000”. | the bill names no machine-readable US Code section |
+| — | replace | Section 310E(b)(1)(C) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1935(b)(1)(C)) is amended by striking “$500,000” and inserting “$667,000”. | the bill names no machine-readable US Code section |
 | — | strike | Section 310E(b) of such Act (7 U.S.C. 1935(b)) is amended by striking the 2nd paragraph (2). | the bill names no machine-readable US Code section |
 | — | redesignate | Section 307 of the Consolidated Farm and Rural Development Act (7 U.S.C. 1927) is amended by striking subsection (d) and redesignating subsection (e) as subsection (d). | the bill names no machine-readable US Code section |
 | — | replace | by striking “(a) In general.—The” and inserting the following: | the bill names no machine-readable US Code section |
@@ -374,7 +402,12 @@ complete account of the bill's effect, which it is not.
 | — | replace | in each of the 2nd and 3rd sentences, by striking “and limited liability companies” each place it appears and inserting “limited liability companies, and such other legal entities”; | the bill names no machine-readable US Code section |
 | — | replace | in the 3rd sentence, by striking “(3)” and “(4)” and inserting “(C)” and “(D)”, respectively; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | Section 311(b)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1941(b)(1)) is amended by striking “who are rural residents”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 311(b) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1941(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 313 of the Consolidated Farm and Rural Development Act (7 U.S.C. 1943) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 311(c)(2) of such Act (7 U.S.C. 1941(c)(2)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | Section 312(a) of such Act (7 U.S.C. 1942(a)) is amended by inserting “(including a microloan, as defined by the Secretary)” after “A direct loan”. | the bill names no machine-readable US Code section |
+| — | insert | Section 316(a)(2) of such Act (7 U.S.C. 1946(a)(2)) is amended by inserting “a microloan to a beginning farmer or rancher or military veteran farmer or” after “The interest rate on”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “owner-operators (in the case of loans for a purpose under subtitle A) or operators (in the case of loans for a purpose under subtitle B)” each place it appears and inserting “(in the case of farm ownership loans in accordanc… | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “limited liability companies” the 1st place it appears the following: “, or such other legal entities as the Secretary deems appropriate”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “limited liability companies” the 2nd place it appears the following: “, or other legal entities”; | the bill names no machine-readable US Code section |
@@ -384,7 +417,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 333B(h) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1983b(h)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “joint operation,” the 1st place it appears the following: “or such other legal entity as the Secretary deems appropriate,”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “or joint operators” each place it appears and inserting “joint operators, or owners”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after “joint operation,” each other place it appears the following: “or such other legal entity,”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting after “joint operation,” the 2nd and 3rd place it appears the following: “or such other legal entity,”. | the bill names no machine-readable US Code section |
 | — | replace | Section 343(a)(11)(F) of such Act (7 U.S.C. 1991(a)(11)(F)) is amended by striking “median acreage” and inserting “average acreage”. | the bill names no machine-readable US Code section |
 | — | replace | Section 346(b)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1994(b)(1)) is amended in the matter preceding subparagraph (A) by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 346(b)(2)(A)(i) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1994(b)(2)(A)(i)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -400,6 +433,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 306(a)(25)(C) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926(a)(25)(C)) is amended by striking “$10,000,000 for each of fiscal years 2008 through 2012” and inserting “$5,000,000 for each of fiscal years 2013 th… | the bill names no machine-readable US Code section |
 | — | replace | Section 306A(i)(2) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926a(i)(2)) is amended by striking “$35,000,000 for each of fiscal years 2008 through 2012” and inserting “$27,000,000 for each of fiscal years 2013 through… | the bill names no machine-readable US Code section |
 | — | replace | Section 306E(d) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926e(d)) is amended by striking “$10,000,000 for each of fiscal years 2008 through 2012” and inserting “$5,000,000 for each of fiscal years 2013 through 2017”. | the bill names no machine-readable US Code section |
+| — | insert | Section 310B(a)(2)(A) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1932(a)(2)(A)) is amended by inserting “including working capital” after “employment”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 310B(g)(7) of such Act (7 U.S.C. 1932(g)(7)) is amended by adding at the end the following: “In the discretion of the Secretary, if the Secretary determines that the action would not create or otherwise contribute to an unreasona… | the bill names no machine-readable US Code section |
 | — | replace | Section 310B(e)(12) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1932(e)(12)) is amended by striking “$50,000,000 for each of fiscal years 2008 through 2012” and inserting “$40,000,000 for each of fiscal years 2013 throug… | the bill names no machine-readable US Code section |
 | — | replace | by striking “2012” and inserting “2017”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “and not more than 7 percent” after “5 percent”. | the bill names no machine-readable US Code section |
@@ -407,7 +442,17 @@ complete account of the bill's effect, which it is not.
 | — | amend | in subparagraph (A), by adding “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (C). | the bill names no machine-readable US Code section |
+| — | strike | by striking “require”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1), by inserting “require” after “(1)”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2), by inserting “, require” after “314”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3), by inserting “require” after “loans,”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “require” after “(4)”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “require” after “(5)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 333A of the Consolidated Farm and Rural Development Act (7 U.S.C. 1983a) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 378(h) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2008m(h)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | amend | Section 379B(d) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2008p(d)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 379E(d)(2) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2008s(d)(2)) is amended by striking “$40,000,000 for each of fiscal years 2009 through 2012” and inserting “$20,000,000 for each of fiscal years 2013 through… | the bill names no machine-readable US Code section |
 | — | replace | Section 382M(a) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2009aa–12(a)) is amended by striking “$30,000,000 for each of fiscal years 2008 through 2012” and inserting “$12,000,000 for each of fiscal years 2013 through 2… | the bill names no machine-readable US Code section |
@@ -430,13 +475,16 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | in subsection (e), by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in each of subsections (k)(1) and (l), by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | replace | Section 2335A of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 950aaa–5) is amended by striking “$100,000,000 for each of fiscal years 2008 through 2012” and inserting “$65,000,000 for each of fiscal years 2013 thr… | the bill names no machine-readable US Code section |
-| — | replace | Section 1(b) of Public Law 102–551 (7 U.S.C. 950aaa note; Public Law 102–551) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1(b) of Public Law 102–551 (7 U.S.C. 950aaa note) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “2008” and inserting “2012”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “$15,000,000” and inserting “$50,000,000”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | replace | Section 6402(i) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 1632b(i)) is amended by striking “$6,000,000 for each of fiscal years 2008 through 2012” and inserting “$1,000,000 for each of fiscal years 2013 through 2017”. | the bill names no machine-readable US Code section |
-| — | strike | in clause (i), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | strike | in the matter preceding clause (i), by striking “that”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “that” before “qualify”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “that” before “offer”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | replace | Section 1408(h) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3123(h)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (3), by striking “and” at the end; | the bill names no machine-readable US Code section |
@@ -445,7 +493,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (1), by striking “Measures” and inserting “Programs”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (2), (3), and (4), respectively; and | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding subparagraph (A), by striking “Programs that would” and inserting “Research, extension, and teaching programs designed to improve competitiveness in the specialty crop industry, including programs that would—”; | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding subparagraph (A), by striking “Programs that would” and inserting “Research, extension, and teaching programs designed to improve competitiveness in the specialty crop industry, including programs that would”; | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (D), by inserting “including improving the quality and taste of processed specialty crops” before the semicolon; and | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (G), by inserting “the remote sensing and the” before “mechanization”. | the bill names no machine-readable US Code section |
 | — | insert | The National Agricultural Research, Extension, and Teaching Policy Act of 1977 is amended by inserting after section 1415A (7 U.S.C. 3151a) the following new section: | the bill names no machine-readable US Code section |
@@ -474,7 +522,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1455(c) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3241(c)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | amend | Section 1459A(c) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3292b(c)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | repeal | Section 1462A of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3310a) is repealed. | the bill names no machine-readable US Code section |
-| — | replace | Section 1463 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3311) is amended in each of subsections (a) and (b) by striking “2012” each place it appears and inserting “2017”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1463 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3311) is amended in both of subsections (a) and (b) by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1464 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3312) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | amend | in paragraph (2), by adding “and” at the end; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (3); and | the bill names no machine-readable US Code section |
@@ -492,11 +540,11 @@ complete account of the bill's effect, which it is not.
 | — | strike | Section 1490(a) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3362(a)) is amended by striking “or noncompetitive”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1490(f) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3362(f)) is amended by striking “section” and all that follows and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 1491(c) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3363(c)) is amended by striking “such sums as are necessary ” and all that follows and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The National Agricultural, Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3101 et seq.) is amended by adding at the end the following new subtitle: | the bill names no machine-readable US Code section |
+| — | add-at-end | The National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3101 et seq.) is amended by adding at the end the following new subtitle: | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (B); | the bill names no machine-readable US Code section |
 | — | insert | in the heading, by inserting “for equipment grants” after “funds”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “(A) Equipment grants.—”; and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and moving the margins two ems to the left. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and moving the margins of such subparagraphs two ems to the left. | the bill names no machine-readable US Code section |
 | — | strike | by striking “$40,000,000 for each fiscal year”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “$40,000,000 for each of fiscal years 2012 through 2017” after “chapter”. | the bill names no machine-readable US Code section |
 | — | amend | Section 1627(d) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5821(d)) is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -507,16 +555,20 @@ complete account of the bill's effect, which it is not.
 | — | repeal | Subtitle D of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5851 et seq.) is repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Section 1670 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5923) is repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Section 1671 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5924) is repealed. | the bill names no machine-readable US Code section |
-| — | replace | in the first sentence of subsection (a), by striking “subsections (e) through (i)” and inserting “subsections (d) and (e)”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b)(2), in the first sentence, by striking “subsections (e) through (i)” and inserting “subsections (d) and (e)”; | the bill names no machine-readable US Code section |
-| — | redesignate | by striking subsections (d), (e), and (h) (as redesignated by section 7125(b)(2)(B)); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (f), (g), and (i) (as redesignated by section 7125(b)(2)(B)) as subsections (d), (e), and (f), respectively; | the bill names no machine-readable US Code section |
-| — | insert | in the heading, by inserting “, bed bugs, and other pests” after “termites”; and | the bill names no machine-readable US Code section |
+| — | replace | in the first sentence of subsection (a), by striking “subsections (e) through (i)” and inserting “subsections (e) through (g)”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(2), in the first sentence, by striking “subsections (e) through (i)” and inserting “subsections (e) through (g)”; | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (A), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | strike | by striking subsections (e), (f), and (i); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (g), (h), and (j) as subsections (e), (f), and (h), respectively; | the bill names no machine-readable US Code section |
+| — | insert | in the heading, by inserting “, bed bugs, and other pests” after “termite”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, bed bugs, and other pests, including pests that the Secretary determines are a risk to public health” after “termites” each place it appears in paragraphs (1), (2)(A), and (3); | the bill names no machine-readable US Code section |
 | — | replace | by striking “2012” each place it appears in paragraphs (1)(B), (2)(B), and (3) and inserting “2017”; and | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A), by inserting “and honey bee health disorders” after “collapse”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (B), by inserting “, including best management practices” after “strategies”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f) (as redesignated by paragraph (4)), by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (B), by inserting “, including best management practices” after “strategies”; | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after subsection (f) (as redesignated by paragraph (5)), the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (h) (as redesignated by paragraph (5)), by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | repeal | Section 1672A of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5925a) is repealed. | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (e) and inserting the following new subsection: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A), by striking “and” at the end; | the bill names no machine-readable US Code section |
@@ -526,7 +578,7 @@ complete account of the bill's effect, which it is not.
 | — | repeal | Section 1672C of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5925e) is repealed. | the bill names no machine-readable US Code section |
 | — | strike | by striking clause (xi); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clauses (xii) and (xiii) as clauses (xi) and (xii), respectively. | the bill names no machine-readable US Code section |
-| — | replace | Section 1672D(d) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5925f(d)) is amended by striking “such sums as are necessary to carry out this section.” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 16f72D(d) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5925f(d)) is amended by striking “such sums as are necessary to carry out this section.” and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | The Food, Agriculture, Conservation, and Trade Act of 1990 is amended by inserting after section 1672D (7 U.S.C. 5925f) the following new section: | the bill names no machine-readable US Code section |
 | — | repeal | Section 1676 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5929) is repealed. | the bill names no machine-readable US Code section |
 | — | replace | by striking “is” and inserting “are”; and | the bill names no machine-readable US Code section |
@@ -534,9 +586,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 2381(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 3125b(e)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | replace | in the heading by striking “Merit review of extension” and inserting “Relevance and merit review of research, extension,”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “relevance and” before “merit”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “extension or education” and inserting, “research, extension, or education”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “extension or education” and inserting “research, extension, or education”; and | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (B), by inserting “on a continuous basis” after “procedures”. | the bill names no machine-readable US Code section |
-| — | replace | Section 406(e) of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7626(e)) (as redesignated by section 7125(b)(3)(A)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
+| — | replace | Section 406(f) of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7626(f)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | repeal | Section 407 of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7627) is repealed. | the bill names no machine-readable US Code section |
 | — | redesignate | by striking clause (xi) (as redesignated by section 7212(b)); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clause (xii) (as redesignated by section 7212(b)) as clause (xi). | the bill names no machine-readable US Code section |
@@ -578,8 +630,8 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following new clauses: | the bill names no machine-readable US Code section |
 | — | insert | in clause (ii), by inserting before the semicolon “, including the effects of plant-based foods that are major sources of nutrients of concern on diet and health”; | the bill names no machine-readable US Code section |
 | — | insert | in clause (iii), by inserting before the semicolon “, including plant-based foods that are major sources of nutrients of concern”; | the bill names no machine-readable US Code section |
-| — | insert | in clause (iv), by inserting before the semicolon“, including postharvest practices conducted with respect to plant-based foods that are major sources of nutrients of concern”; and | the bill names no machine-readable US Code section |
-| — | insert | in clause (v), by inserting before the semicolon “, including improving the functionality of plant-based foods that are major sources of nutrients of concern”; | the bill names no machine-readable US Code section |
+| — | insert | in clause (iv), by inserting before the semicolon “, including postharvest practices conducted with respect to plant-based foods that are major sources of nutrients of concern”; and | the bill names no machine-readable US Code section |
+| — | insert | in clause (v), by inserting before the period “, including improving the functionality of plant-based foods that are major sources of nutrients of concern”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clauses (iv), (v), and (vi) as clauses (v), (vi), and (vii), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (iii) the following new clause: | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding clause (i), by inserting “economics,” after “trade,”; | the bill names no machine-readable US Code section |
@@ -605,19 +657,20 @@ complete account of the bill's effect, which it is not.
 | — | repeal | Section 7410 of the Farm Security and Rural Investment Act of 2002 (Public Law 107–171; 116 Stat. 462) is repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Section 7411 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 5925a note; Public Law 107–171) is repealed. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking subparagraphs (A) through (R) and inserting the following new subparagraphs: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (6) (as redesignated by section 7125(b)(4)), by striking “and community-based organizations” and inserting “, community-based organizations, and school-based agricultural educational organizations”; | the bill names no machine-readable US Code section |
-| — | redesignate | by striking paragraph (7) (as redesignated by section 7125(b)(4)) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (7), by striking “and community-based organizations” and inserting “, community-based organizations, and school-based agricultural educational organizations”; | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (8) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (h)(2), by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | replace | Section 8 of Public Law 87–788 (commonly known as the McIntire-Stennis Cooperative Forestry Act; 16 U.S.C. 582a–7) is amended by striking “and Guam” and inserting “Guam, and the Commonwealth of the Northern Mariana Islands”. | the bill names no machine-readable US Code section |
 | — | amend | Section 14112(c) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8912(c)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking “such sums as may be necessary”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “subsection” and all that follows and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b)(2), by striking “is authorized to be appropriated to carry out this subsection” and all that follows and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 14121(b) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8921(b)) is amended by striking “is authorized to be appropriated to carry out this section” and all that follows and inserting the following: | the bill names no machine-readable US Code section |
-| — | strike | by striking “such sums as are necessary”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “sums as are necessary”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “section” and all that follows and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b)(6)(A), by striking “5 years” and inserting “9 years”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d)(2), by striking “1, 3, and 5 years” and inserting “5, 7, and 9 years”. | the bill names no machine-readable US Code section |
@@ -650,6 +703,7 @@ complete account of the bill's effect, which it is not.
 | — | repeal | Section 18 of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2112) is repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Section 8402 of the Food, Conservation, and Energy Act of 2008 (16 U.S.C. 1649a) is repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Section 303 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6542) is repealed. | the bill names no machine-readable US Code section |
+| — | repeal | Section 322 of the Department of the Interior and Related Agencies Appropriations Act, 1993 (Public Law 102–381; 16 U.S.C. 1612 note) is repealed. Section 428 of division E of the Consolidated Appropriations Act, 2012 (Public Law 112–74;… | the bill names no machine-readable US Code section |
 | — | amend | Subsection (m) of section 7 of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2103c) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (g) of section 7A of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2103d) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 2371(d)(2) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 6601(d)(2)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
@@ -658,13 +712,12 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subsection (b) as subsection (d); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following new subsections: | the bill names no machine-readable US Code section |
 | — | replace | Section 347(a) of the Department of the Interior and Related Agencies Appropriations Act, 1999 (as contained in section 101(e) of division A of Public Law 105–277; 16 U.S.C. 2104 note) is amended by striking “2013” and inserting “2017”. | the bill names no machine-readable US Code section |
-| — | replace | by striking paragraph (4) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in the heading of paragraph (1), by inserting “for fiscal years 2008 through 2012” after “funding”; | the bill names no machine-readable US Code section |
 | — | insert | in the heading of paragraph (2), by inserting “for fiscal years 2009 through 2012” after “funding”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “to eligible entities” and all that follows through “guarantees for loans” and inserting “to eligible entities guarantees for loans”; | the bill names no machine-readable US Code section |
-| — | strike | by striking subsections (d); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (e), (f), (g), and (h) (as amended by subsection (b) of this section) as subsections (d), (e), (f), (g), respectively; and | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (e), (f), (g), and (h) as subsections (d), (e), (f), and (g), respectively; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “subsection (c)(2)” each place it appears and inserting “subsection (c)”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2)(C), by striking “subsection (h)” and inserting “subsection (g)”. | the bill names no machine-readable US Code section |
 | — | insert | in the heading of paragraph (1), by inserting “for fiscal years 2009 and 2010” after “funding”; | the bill names no machine-readable US Code section |
@@ -692,6 +745,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “Program to” and all that follows through “support the establishment” and inserting “Program to support the establishment”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); | the bill names no machine-readable US Code section |
+| — | replace | in clause (viii), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clause (ix) as clause (x); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after clause (viii) the following new clause: | the bill names no machine-readable US Code section |
 | — | strike | by striking subclause (III); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subclauses (IV) and (V) as subclauses (III) and (IV), respectively; | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (d); | the bill names no machine-readable US Code section |
@@ -710,8 +766,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (b), by striking paragraph (1) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or other agricultural business entity” after “cooperative”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, including a community supported agriculture network or association” after “association”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (e) as subsection (f); | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (d) the following new subsection: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (e) as subsection (g); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (d) the following new subsections: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (B), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
@@ -734,8 +790,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “2012” and inserting “2017”; | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (b) and inserting the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (j) as subsection (l); | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (i) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), respectively, and moving such subpargraphs two ems to the right; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (i) the following new subsections: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), respectively, and moving such subparagraphs two ems to the right; | the bill names no machine-readable US Code section |
 | — | replace | by striking “Of the funds” and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | in subparagraph (B) (as redesignated by subparagraph (A)), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | in subparagraph (C) (as redesignated by subparagraph (A)), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
@@ -760,9 +816,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | in clause (ii), by striking “shall be” and all that follows through the period and inserting “shall be $184,800 for each of fiscal years 2013 through 2017.”; | the bill names no machine-readable US Code section |
 | — | replace | in subclause (I), by striking “shall be” and all that follows through the semicolon and inserting “shall be $70,600 for each of fiscal years 2013 through 2017;”; and | the bill names no machine-readable US Code section |
 | — | replace | in subclause (II), by striking “shall be” and all that follows through the period and inserting “shall be $122,100 for each of fiscal years 2013 through 2017.”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (F), by striking “paragraph (3)” and inserting “this paragraph”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (F), (G), and (H) as subparagraphs (G), (H), and (I), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (E), the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (H), by striking “2012” and inserting “2017”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (G) (as redesignated by clause (iv)), by striking “paragraph (3)” and inserting “this paragraph”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (I) (as so redesignated), by striking “2012” and inserting “2017”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “2014” and inserting “2019”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “paragraphs (1) through (5)” and inserting “paragraph (5)”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraphs (1), (2), (3), (4), and (7); and | the bill names no machine-readable US Code section |
@@ -809,7 +866,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (E), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (F), by striking the period and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “2012” and inserting “2017”; and | the bill names no machine-readable US Code section |
 | — | replace | in the heading, by striking “2013” and inserting “2018”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “2013,” and inserting “2018,”; and | the bill names no machine-readable US Code section |
@@ -822,6 +879,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (D), by striking “2012” each place it appears and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3(f) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a(f)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 2(oo) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136(oo)) is amended by inserting “bed bugs,” after “cockroaches,”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 25(b) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136w(b)) is amended by adding at the end the following new sentences: “Notwithstanding the exemption of a pesticide under this subsection, the Administrat… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 502(c) of the Federal Crop Insurance Act (7 U.S.C. 1502(c)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 508(a)(9) of the Federal Crop Insurance Act (7 U.S.C. 1508(a)(9)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (3) of section 508(c) of the Federal Crop Insurance Act (7 U.S.C. 1508(c)) is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -835,7 +894,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating clause (iii) as clause (ii). | the bill names no machine-readable US Code section |
 | — | amend | Subparagraph (A) of section 508(e)(5) of the Federal Crop Insurance Act (7 U.S.C. 1508(e)(5)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 508(e)(5) of the Federal Crop Insurance Act (7 U.S.C. 1508(e)(5)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 508(g)(2) of the Federal Crop Insurance Act (7 U.S.C. 1508(g)(2)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 508(g)(2) of the Federal Crop Insurance Act (7 U.S.C. 1508(g)(2)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 508(g)(4)(B) of the Federal Crop Insurance Act (7 U.S.C. 1508(g)(4)(B)) is amended by striking “60” each place it appears and inserting “70”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and indenting appropriately; | the bill names no machine-readable US Code section |
 | — | replace | by striking “(1) In general.—In addition” and inserting the following: | the bill names no machine-readable US Code section |
@@ -849,11 +908,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (A), by striking “for benefits under—” and all that follows through the period at the end and inserting | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (3) and inserting the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | replace | in the paragraph heading, by striking “ineligibility” and inserting “benefit reduction”; | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (A)(i), by inserting “, or the producer cannot substantiate that the ground has ever been tilled,” after “tilled”; | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A)(ii), by inserting “, or the producer cannot substantiate that the ground has ever been tilled,” after “tilled”; | the bill names no machine-readable US Code section |
 | — | replace | in the subparagraph heading, by striking “Ineligibility” and inserting “Reduction in”; and | the bill names no machine-readable US Code section |
 | — | replace | in clause (i), by striking “for benefits under—” and all that follows through the period at the end and inserting | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (C) and inserting the following new subparagraphs: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 508 of the Federal Crop Insurance Act of 1938 (7 U.S.C. 1508) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 508 of the Federal Crop Insurance Act of 1938 (7 U.S.C. 1508) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (3) through (9) as paragraphs (4) through (10), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b)(5)(E), by inserting “and beginning farmers or ranchers” after “limited resource farmers”; | the bill names no machine-readable US Code section |
@@ -873,11 +932,15 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (j), by striking paragraph (1) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (k), by striking paragraph (1) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 522(c)(6) of the Federal Crop Insurance Act (7 U.S.C. 1522(c)(6)) is amended by striking “a pasture, range, and forage program” and inserting “policies that increase participation by producers of underserved agricultural commodit… | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (17) as paragraph (21); and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “the Food, Conservation, and Energy Act of 2008” and inserting “the Federal Agriculture Reform and Risk Management Act of 2012”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B)(iii), by striking “2009” and inserting “2013”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii), by striking “2010” and inserting “2013”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (iii), by striking “Food, Conservation, and Energy Act of 2008” and inserting “the Federal Agriculture Reform and Risk Management Act of 2012”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (17) as paragraph (24); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (16), the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “, at the sole discretion of the Corporation,” after “may”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (5). | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (C), by striking “fiscal year 2004 and each subsequent fiscal year” and inserting “each of fiscal years 2004 through 2012.”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking “fiscal year 2004 and each subsequent fiscal year” and inserting “each of fiscal years 2004 through 2012”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (1) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
 | — | strike | in clause (i), by striking “and” after the semicolon at the end; | the bill names no machine-readable US Code section |
@@ -896,6 +959,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 375(e)(6)(C) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2008j(e)(6)(C)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | replace | Section 10405(d)(1) of the Animal Health Protection Act (7 U.S.C. 8304(d)(1)) is amended in subparagraphs (A) and (B) by striking “2012” each place it appears and inserting “2017” . | the bill names no machine-readable US Code section |
 | — | replace | Section 11013(d) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8322(d)) is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
+| — | repeal | Section 11006 of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 2120) is repealed. | the bill names no machine-readable US Code section |
+| — | repeal | The following provisions of title 9, Code of Federal Regulations, are repealed: | the bill names no machine-readable US Code section |
 | — | insert | in the section heading, by inserting “and veteran farmers and ranchers” after “ranchers”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1), by inserting “and veteran farmers or ranchers” after “ranchers”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2)(B)(i), by inserting “and veteran farmers or ranchers” after “ranchers”; and | the bill names no machine-readable US Code section |
@@ -908,6 +973,18 @@ complete account of the bill's effect, which it is not.
 | — | insert | in paragraph (2)(A), by inserting “veteran farmers or ranchers and” before “members”; and | the bill names no machine-readable US Code section |
 | — | insert | in clause (i), by inserting “and veteran farmers or ranchers” after “ranchers”; and | the bill names no machine-readable US Code section |
 | — | insert | in clause (ii), by inserting “and veteran farmers or ranchers” after “ranchers”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 2501(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279(e)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 2501(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279(e)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Paragraph (3) of section 226B(f) of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6934(f)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (d) of section 14204 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 2008q–1) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 14212 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 6932a) is amended by striking subsection (a) and inserting the following new subsection: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and moving the margins of such clauses two ems to the right; | the bill names no machine-readable US Code section |
+| — | replace | by striking “the Farm Service Agency, to the maximum extent practicable” and inserting | the bill names no machine-readable US Code section |
+| — | insert | by inserting “as of the date of the enactment of this Act” after “employees”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | replace | Section 26(a)(1) of the Animal Welfare Act (7 U.S.C. 2156(a)(1)) is amended by striking the period and inserting “or to knowingly attend or knowingly cause a minor to attend an animal fighting venture.”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2901 of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 1818) is amended by striking “this Act or an amendment made by this Act” and inserting “this Act, an amendment made by this Act, the Federal Ag… | the bill names no machine-readable US Code section |
+| — | amend | Title III of the Department of Agriculture Reorganization Act of 1994 is amended by adding after section 308 (7 U.S.C. 3125a note; Public Law 103–354) the following new section: | the bill names no machine-readable US Code section |
+| — | insert | Section 296(b) of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 7014(b)) is amended by inserting after paragraph (8), as added by section 3207, the following new paragraph: | the bill names no machine-readable US Code section |
+| — | insert | Subtitle A of the Department of Agriculture Reorganization Act of 1994 is amended by inserting after section 218 (7 U.S.C. 6918) the following new section: | the bill names no machine-readable US Code section |
+| — | insert | Section 296(b) of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 7014(b)) is amended by inserting after paragraph (9), as added by section 12305, the following new paragraph: | the bill names no machine-readable US Code section |

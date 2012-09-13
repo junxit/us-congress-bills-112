@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6083
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6083
@@ -29,3 +29,8 @@ Federal Agriculture Reform and Risk Management Act of 2012
 - 2012-07-09 — Introduced in House
 - 2012-07-09 — Introduced in House
 - 2012-07-09 — Referred to the House Committee on Agriculture.
+- 2012-07-11 — Committee Consideration and Mark-up Session Held.
+- 2012-07-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 35 - 11.
+- 2012-09-13 — Placed on the Union Calendar, Calendar No. 481.
+- 2012-09-13 — Reported (Amended) by the Committee on Agriculture. H. Rept. 112-669.
+- 2012-09-13 — Reported (Amended) by the Committee on Agriculture. H. Rept. 112-669.
