@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6190
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6190
@@ -33,3 +33,7 @@ Asthma Inhalers Relief Act of 2012
 - 2012-07-25 — Introduced in House
 - 2012-07-25 — Introduced in House
 - 2012-07-25 — Referred to the House Committee on Energy and Commerce.
+- 2012-07-27 — Referred to the Subcommittee on Energy and Power.
+- 2012-09-14 — Placed on the Union Calendar, Calendar No. 485.
+- 2012-09-14 — Reported by the Committee on Energy and Commerce. H. Rept. 112-673.
+- 2012-09-14 — Reported by the Committee on Energy and Commerce. H. Rept. 112-673.
