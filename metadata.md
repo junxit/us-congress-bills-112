@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 44
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 44
@@ -41,3 +41,17 @@ A joint resolution granting the consent of Congress to the State and Province Em
 - 2012-09-14 — Message on Senate action sent to the House.
 - 2012-09-14 — Received in the House.
 - 2012-09-14 — Referred to the House Committee on Foreign Affairs.
+- 2012-12-30 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Ros-Lehtinen objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2012-12-30 — Considered under suspension of the rules. (consideration: CR H7462-7464)
+- 2012-12-30 — DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 44.
+- 2012-12-30 — Ms. Ros-Lehtinen moved to suspend the rules and pass the resolution.
+- 2013-01-01 — Considered as unfinished business. (consideration: CR H7559)
+- 2013-01-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-01-01 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR 12/30/2012 H7462-7464)
+- 2013-01-01 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR 12/30/2012 H7462-7464)
+- 2013-01-03 — Presented to President.
+- 2013-01-03 — Presented to President.
+- 2013-01-14 — Became Public Law No: 112-282.
+- 2013-01-14 — Became Public Law No: 112-282.
+- 2013-01-14 — Signed by President.
+- 2013-01-14 — Signed by President.
