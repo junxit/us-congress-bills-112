@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6060
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6060
@@ -16,7 +16,7 @@ Endangered Fish Recovery Programs Extension Act of 2012
 
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Rep. Lummis, Cynthia M. [R-WY-At Large] (L000571)
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
@@ -30,6 +30,7 @@ Endangered Fish Recovery Programs Extension Act of 2012
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 - Rep. Coffman, Mike [R-CO-6] (C001077)
 - Rep. Polis, Jared [D-CO-2] (P000598)
+- Rep. Heinrich, Martin [D-NM-1] (H001046)
 
 ## Committees (1)
 
@@ -41,3 +42,10 @@ Endangered Fish Recovery Programs Extension Act of 2012
 - 2012-06-29 — Introduced in House
 - 2012-06-29 — Referred to the House Committee on Natural Resources.
 - 2012-06-29 — Referred to the Subcommittee on Water and Power.
+- 2012-07-10 — Subcommittee Hearings Held.
+- 2012-08-01 — Committee Consideration and Mark-up Session Held.
+- 2012-08-01 — Ordered to be Reported by Unanimous Consent.
+- 2012-08-01 — Subcommittee on Water and Power Discharged.
+- 2012-09-14 — Placed on the Union Calendar, Calendar No. 484.
+- 2012-09-14 — Reported by the Committee on Natural Resources. H. Rept. 112-672.
+- 2012-09-14 — Reported by the Committee on Natural Resources. H. Rept. 112-672.
