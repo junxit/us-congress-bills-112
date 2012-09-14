@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 44
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 44
@@ -23,9 +23,10 @@ A joint resolution granting the consent of Congress to the State and Province Em
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Levin, Carl [D-MI] (L000261)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,6 @@ A joint resolution granting the consent of Congress to the State and Province Em
 - 2012-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 494.
 - 2012-09-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6387-6388; text as passed Senate: CR S6387-6388)
 - 2012-09-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6387-6388; text as passed Senate: CR S6387-6388)
+- 2012-09-14 — Message on Senate action sent to the House.
+- 2012-09-14 — Received in the House.
+- 2012-09-14 — Referred to the House Committee on Foreign Affairs.
