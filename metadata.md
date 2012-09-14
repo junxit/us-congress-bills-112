@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2299
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2299
@@ -16,7 +16,7 @@ Child Interstate Abortion Notification Act
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Cosponsors (86)
+## Cosponsors (172)
 
 - Rep. King, Steve [R-IA-5] (K000362)
 - Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
@@ -104,6 +104,92 @@ Child Interstate Abortion Notification Act
 - Rep. King, Peter T. [R-NY-3] (K000210)
 - Rep. Miller, Jeff [R-FL-1] (M001144)
 - Rep. Stearns, Cliff [R-FL-6] (S000822)
+- Rep. Lankford, James [R-OK-5] (L000575)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. Marino, Tom [R-PA-10] (M001179)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Hultgren, Randy [R-IL-14] (H001059)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Walberg, Tim [R-MI-7] (W000798)
+- Rep. Guinta, Frank C. [R-NH-1] (G000570)
+- Rep. Huelskamp, Tim [R-KS-1] (H001057)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Ryan, Paul [R-WI-1] (R000570)
+- Rep. Jenkins, Lynn [R-KS-2] (J000290)
+- Rep. Schock, Aaron [R-IL-18] (S001179)
+- Rep. Long, Billy [R-MO-7] (L000576)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Camp, Dave [R-MI-4] (C000071)
+- Rep. Luetkemeyer, Blaine [R-MO-9] (L000569)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. Palazzo, Steven M. [R-MS-4] (P000601)
+- Rep. Turner, Michael R. [R-OH-3] (T000463)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. McKinley, David B. [R-WV-1] (M001180)
+- Rep. Scott, Tim [R-SC-1] (S001184)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Denham, Jeff [R-CA-19] (D000612)
+- Rep. Latham, Tom [R-IA-4] (L000111)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Noem, Kristi L. [R-SD-At Large] (N000184)
+- Rep. Emerson, Jo Ann [R-MO-8] (E000172)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Royce, Edward R. [R-CA-40] (R000487)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Landry, Jeffrey M. [R-LA-3] (L000574)
+- Rep. Schilling, Robert T. [R-IL-17] (S001182)
+- Rep. Broun, Paul C. [R-GA-10] (B001262)
+- Rep. Walsh, Joe [R-IL-8] (W000811)
+- Rep. Stivers, Steve [R-OH-15] (S001187)
+- Rep. Turner, Robert L. [R-NY-9] (T000471)
+- Rep. Berg, Rick [R-ND-At Large] (B001272)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Roby, Martha [R-AL-2] (R000591)
+- Rep. Boustany, Charles W., Jr. [R-LA-7] (B001255)
+- Rep. Herrera Beutler, Jaime [R-WA-3] (H001056)
+- Rep. Bonner, Jo [R-AL-1] (B001244)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Thompson, Glenn [R-PA-5] (T000467)
+- Rep. McClintock, Tom [R-CA-4] (M001177)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Hunter, Duncan D. [R-CA-52] (H001048)
+- Rep. Mulvaney, Mick [R-SC-5] (M001182)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Rigell, E. Scott [R-VA-2] (R000589)
+- Rep. Flores, Bill [R-TX-17] (F000461)
+- Rep. Schweikert, David [R-AZ-5] (S001183)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Quayle, Benjamin [R-AZ-3] (Q000024)
+- Rep. Ross, Dennis A. [R-FL-12] (R000593)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Cravaack, Chip [R-MN-8] (C001086)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Pompeo, Mike [R-KS-4] (P000602)
+- Rep. Kelly, Mike [R-PA-3] (K000376)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Gibbs, Bob [R-OH-18] (G000563)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Renacci, James B. [R-OH-16] (R000586)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Hurt, Robert [R-VA-5] (H001060)
 
 ## Committees (1)
 
@@ -114,3 +200,12 @@ Child Interstate Abortion Notification Act
 - 2011-06-22 — Introduced in House
 - 2011-06-22 — Introduced in House
 - 2011-06-22 — Referred to the House Committee on the Judiciary.
+- 2011-08-25 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2011-08-25 — Referred to the Subcommittee on the Constitution.
+- 2012-03-08 — Subcommittee Hearings Held.
+- 2012-03-22 — Subcommittee on Crime, Terrorism, and Homeland Security Discharged.
+- 2012-03-27 — Committee Consideration and Mark-up Session Held.
+- 2012-03-27 — Ordered to be Reported by the Yeas and Nays: 20 - 13.
+- 2012-09-14 — Placed on the Union Calendar, Calendar No. 483.
+- 2012-09-14 — Reported by the Committee on Judiciary. H. Rept. 112-671.
+- 2012-09-14 — Reported by the Committee on Judiciary. H. Rept. 112-671.
