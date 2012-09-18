@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3319
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,4 +15,4 @@ Section 3 of Public Law 95–375 (25 U.S.C. 1300f–2) is amended to read as fol
 
 > ## § 3.
 >
-> For the purposes of section 1 of this Act, membership of the Pascua Yaqui Tribe shall consist of any person of Pascua Yaqui blood enrolled by the tribe.
+> For the purposes of section 1 of this Act, membership of the Pascua Yaqui Tribe shall consist of any United States citizen of Pascua Yaqui blood enrolled by the tribe.
