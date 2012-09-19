@@ -1,7 +1,7 @@
 ---
 measure: S. 3315
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3315
@@ -29,3 +29,7 @@ GAO Mandates Revision Act of 2012
 
 - 2012-06-20 — Introduced in Senate
 - 2012-06-20 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2012-06-29 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2012-09-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 112-219.
+- 2012-09-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 112-219.
+- 2012-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 523.
