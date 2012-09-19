@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5949
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
