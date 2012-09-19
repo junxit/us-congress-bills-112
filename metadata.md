@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6324
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6324
@@ -29,3 +29,9 @@ Cutting FUEL Act
 - 2012-08-02 — Introduced in House
 - 2012-08-02 — Introduced in House
 - 2012-08-02 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-09-19 — Considered under suspension of the rules. (consideration: CR H6097-6099)
+- 2012-09-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6324.
+- 2012-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-19 — Mr. Chaffetz moved to suspend the rules and pass the bill.
+- 2012-09-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6097)
+- 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6097)
