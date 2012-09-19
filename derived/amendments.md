@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5949
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 

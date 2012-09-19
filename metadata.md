@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5949
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5949
@@ -56,3 +56,5 @@ FISA Amendments Act Reauthorization Act of 2012
 - 2012-09-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 301 - 118 (Roll no. 569).(text: CR H5890)
 - 2012-09-12 — Resolution provides for consideration of both H.R. 5544 and H.R. 5949. Both measures are debatable for one hour each. For H.R. 5544, specified amendments are in order. For H.R. 5949, the amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill, shall be considered as adopted. For each bill, one motion to recommit is in order, with or without instructions.
 - 2012-09-12 — The previous question was ordered pursuant to the rule. (consideration: CR H5900)
+- 2012-09-13 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-09-19 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 510.
