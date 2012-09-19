@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 786
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 786
@@ -31,3 +31,9 @@ Honoring the four United States public servants who died in Libya and condemning
 - 2012-09-18 — Introduced in House
 - 2012-09-18 — Introduced in House
 - 2012-09-18 — Referred to the House Committee on Foreign Affairs.
+- 2012-09-19 — Considered under suspension of the rules. (consideration: CR H6076-6079)
+- 2012-09-19 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 786.
+- 2012-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-19 — Ms. Ros-Lehtinen moved to suspend the rules and agree to the resolution.
+- 2012-09-19 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6076-6077)
+- 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6076-6077)
