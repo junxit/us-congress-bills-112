@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4212
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4212
@@ -16,7 +16,7 @@ Drywall Safety Act of 2012
 
 - Rep. Rigell, E. Scott [R-VA-2] (R000589)
 
-## Cosponsors (10)
+## Cosponsors (19)
 
 - Rep. Deutch, Theodore E. [D-FL-19] (D000610)
 - Rep. Posey, Bill [R-FL-15] (P000599)
@@ -28,6 +28,15 @@ Drywall Safety Act of 2012
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 - Rep. Buchanan, Vern [R-FL-13] (B001260)
+- Rep. Wilson, Frederica S. [D-FL-17] (W000808)
+- Rep. Rivera, David [R-FL-25] (R000590)
+- Rep. Ross, Dennis A. [R-FL-12] (R000593)
+- Rep. West, Allen B. [R-FL-22] (W000807)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Bonner, Jo [R-AL-1] (B001244)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
 
 ## Committees (2)
 
@@ -40,3 +49,12 @@ Drywall Safety Act of 2012
 - 2012-03-19 — Introduced in House
 - 2012-03-19 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-03-19 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-05-07 — Referred to the Subcommittee on Asia and the Pacific.
+- 2012-05-07 — Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.
+- 2012-09-19 — Considered under suspension of the rules. (consideration: CR H6134-6137)
+- 2012-09-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4212.
+- 2012-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-19 — Mrs. Bono Mack moved to suspend the rules and pass the bill, as amended.
+- 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6134-6135)
+- 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6134-6135)
+- 2012-09-19 — The title of the measure was amended. Agreed to without objection.
