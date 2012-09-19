@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6368
 
-> To require the Department of Justice, in consultation with the Department of Homeland Security, to provide a report to Congress on the Departments’ ability to track, investigate and quantify cross-border violence along the Southwest Border and provide recommendations to Congress on how to accurately track, investigate, and quantify cross-border violence.
+> To require the Department of Justice and the Department of Homeland Security to provide a joint report to Congress on the Departments’ ability to track, investigate and quantify cross-border violence along the Southwest Border and provide recommendations to Congress on how to accurately track, investigate, and quantify cross-border violence.
 
 ## § 1. Short title
 
@@ -15,7 +15,7 @@ This Act may be cited as the “Border Security Information Improvement Act of 2
 
 ## § 2. Study
 
-- **(a)** *Report on cross-Border violence on the southwest border* Not later than 180 days after the date of the enactment of this Act, the Attorney General, in consultation with the Secretary of Homeland Security, shall submit to the congressional committees set forth in subsection (b) a report on cross-border violence on the Southwest Border of the United States. Such study shall include—
+- **(a)** *Report on cross-Border violence on the southwest border* Not later than 180 days after the date of the enactment of this Act, the Attorney General and the Secretary of Homeland Security shall jointly submit to the congressional committees set forth in subsection (b) a report on cross-border violence on the Southwest Border of the United States. Such study shall include—
   - **(1)** the definition of cross-border violence used by law enforcement components within the Departments of Justice and Homeland Security;
   - **(2)** the ability of the Departments of Justice and Homeland Security and their law enforcement components to track, investigate, quantify, and report on the level of cross-border violence occurring along the Southwest Border of the United States;
   - **(3)** the extent to which the Departments of Justice and Homeland Security define and track cross-border violence and steps being taken to address the effects of cross-border violence along the Southwest Border of the United States;
