@@ -25,7 +25,7 @@ Congress finds that—
 - **(3)** since its inception, the Federal duck stamp program has—
   - **(A)** generated more than $500,000,000;
   - **(B)** preserved more than 5,000,000 acres of wetland and wildlife habitat; and
-  - **(C)** been called 1 of the most successful conservation programs ever initiated;
+  - **(C)** been called 1one of the most successful conservation programs ever initiated;
 - **(4)**
   - **(A)** since 1934, when duck stamps cost $1, the price has been increased 7 times to the price in effect on the date of enactment of this Act of $15, which took effect in 1991; and
   - **(B)** the price of the duck stamp has not increased since 1991, the longest single period without an increase in program history; and
@@ -38,8 +38,8 @@ Congress finds that—
 Section 2 of the Migratory Bird Hunting and Conservation Stamp Act (16 U.S.C. 718b) is amended by striking subsection (b) and inserting the following:
 
 > - **(b)** *Cost of stamps*
->   - **(1)** *In general* For a 5-calendar-year period beginning with calendar year 2013, and for each 5-calendar-year period thereafter, the Secretary, in consultation with the Migratory Bird Conservation Commission, shall establish the amount to be collected under paragraph (2) for each stamp sold under this section.
->   - **(2)** *Collection of amounts* The Postal Service shall collect the amount established under paragraph (1) for each stamp sold under this section for a hunting year if the Secretary determines, at any time before February 1 of the calendar year during which the hunting year begins, that all amounts described in paragraph (3) have been obligated for expenditure.
+>   - **(1)** *In general* For a 5-calendar-year period beginning with calendar year 2013, and for each 5-calendar-year period thereafter, the Secretary, in consultation with the Migratory Bird Conservation Commission, shall establish the amount to be collected under paragraph (2) for each stamp sold under this section, which amount shall not exceed $25 for the first such 5-calendar-year period and $30 for any subsequent period.
+>   - **(2)** *Collection of amounts* The Postal Service or the Department of the Interior shall collect the amount established under paragraph (1) for each stamp sold under this section for a hunting year if the Secretary determines, at any time before February 1 of the calendar year during which the hunting year begins, that all amounts described in paragraph (3) have been obligated for expenditure.
 >   - **(3)** *Amounts* The amounts described in this paragraph are amounts in the Migratory Bird Conservation Fund available for obligation and attributable to—
 >     - **(A)** amounts appropriated pursuant to this Act for the fiscal year ending in the immediately preceding calendar year; and
 >     - **(B)** the sale of stamps under this section during that fiscal year.
