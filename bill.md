@@ -17,7 +17,7 @@ This Act may be cited as the “Andrew P. Carpenter Tax Act”.
 
 - **(a)** *In general* Subsection (f) of section 108 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
   > - **(5)** *Deceased veterans*
-  >   - **(A)** *In general* In the case of an individual, gross income shall not include any amount which (but for this paragraph) would be includible in gross income by reason of the discharge (in whole or in part) of any student loan described in subparagraph (B) if, at the time of such discharge, such individual is a veteran who served on active duty in the Armed Forces of the United States, and is deceased as a result of a service-connected disability.
+  >   - **(A)** *In general* In the case of any student loan described in subparagraph (B) of an individual who is a veteran who served on active duty in the Armed Forces of the United States and who is deceased as a result of a service-connected disability, no amount which (but for this paragraph) would otherwise be includible in gross income by reason of the discharge (in whole or in part) of such loan shall be includible in gross income of any cosigner on such loan.
   >   - **(B)** *Student loan described* For purposes of subparagraph (A), a student loan described in this subparagraph is a loan that—
   >     - **(i)** is made, insured, or guaranteed under title IV of the Higher Education Act of 1965, or
   >     - **(ii)** is a private education loan (as defined in section 140(a)(7) of the Truth in Lending Act (15 U.S.C. 1650(a)(7))), made by an entity (other than an entity described in paragraph (2)) to an individual to assist the individual in attending an educational organization described in section 170(b)(1)(A)(ii).
@@ -25,3 +25,12 @@ This Act may be cited as the “Andrew P. Carpenter Tax Act”.
 
 - **(b)** *Effective date* The amendments made by this section shall apply to discharges of indebtedness occurring on or after October 7, 2001.
 - **(c)** *Waiver of limitation for credits and refunds attributable to this Act* If the credit or refund of any overpayment of tax resulting from the application of the amendment made by subsection (a) to a period before the date of enactment of this Act is prevented as of such date by the operation of any law or rule of law (including res judicata), such credit or refund may nevertheless be allowed or made if the claim therefor is filed before the close of the 1-year period beginning on the date of the enactment of this Act.
+
+## § 3. Accounts in the Thrift Savings Fund subject to certain Federal tax levies
+
+- **(a)** *In general* Section 8437(e)(3) of title 5, United States Code, is amended in the first sentence—
+  - **(1)** by striking “659)” and inserting “659),”; and
+  - **(2)** by striking the period at the end and inserting the following: “, and shall be subject to a Federal tax levy under section 6331 of the Internal Revenue Code of 1986.”.
+- **(b)** *Disposition of amounts* Any potential revenue gain attributable to the enactment of this Act, as determined by the Director of the Congressional Budget Office—
+  - **(1)** shall be deposited in the general fund of the Treasury of the United States; and
+  - **(2)** shall be used solely for purposes of deficit reduction.
