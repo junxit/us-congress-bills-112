@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1494
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Fish and Wildlife Foundation Reauthorization Act of 2011”.
+This Act may be cited as the “National Fish and Wildlife Foundation Reauthorization Act of 20112012”.
 
 ## § 2. Board of directors of the Foundation
 
@@ -69,13 +69,14 @@ Section 10 of the National Fish and Wildlife Foundation Establishment Act (16 U.
 - **(1)** in subsection (a), by striking paragraph (1) and inserting the following:
   > - **(1)** *In general* There are authorized to be appropriated to carry out this Act for each of fiscal years 2011 through 2015—
   >   - **(A)** $20,000,000 to the Secretary of the Interior;
+  >   - **(A)** $15,000,000 to the Secretary of the Interior;
   >   - **(B)** $5,000,000 to the Secretary of Agriculture; and
   >   - **(C)** $5,000,000 to the Secretary of Commerce.
 
 - **(2)** in subsection (b)—
   - **(A)** by striking paragraph (1) and inserting the following:
     > - **(1)** *Amounts from Federal agencies*
-    >   - **(A)** *In general* In addition to the amounts authorized to be appropriated under subsection (a), the Foundation may accept Federal funds from Federal departments, agencies, or instrumentalities for use by the Foundation, subject to the condition that the amounts are used for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with this Act.
+    >   - **(A)** *In general* In addition to the amounts authorized to be appropriated under subsection (a), the Foundation may accept Federal funds from Federal departments, agencies, or instrumentalities for use by the Foundation,subsection (a), Federal departments, agencies, or instrumentalities may provide Federal funds to the Foundation, subject to the condition that the amounts are used for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with this Act.
     >   - **(B)** *Advances* Federal departments, agencies, or instrumentalities may advance amounts described in subparagraph (A) to the Foundation in a lump sum without regard to when the expenses for which the amounts are used are incurred.
     >   - **(C)** *Management fees* The Foundation may assess and collect fees for the management of amounts received under this paragraph.
 
