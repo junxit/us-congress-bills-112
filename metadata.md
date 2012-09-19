@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2903
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2903
@@ -40,3 +40,9 @@ FEMA Reauthorization Act of 2012
 - 2012-09-17 — Committee on Homeland Security discharged.
 - 2012-09-17 — Committee on Homeland Security discharged.
 - 2012-09-17 — Placed on the Union Calendar, Calendar No. 486.
+- 2012-09-19 — Considered under suspension of the rules. (consideration: CR H6104-6113)
+- 2012-09-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2903.
+- 2012-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-19 — Mr. Denham moved to suspend the rules and pass the bill, as amended.
+- 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6104-6110)
+- 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6104-6110)
