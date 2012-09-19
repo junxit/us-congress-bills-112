@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1461
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1461
@@ -38,3 +38,9 @@ Mescalero Apache Tribe Leasing Authorization Act
 - 2011-12-01 — Placed on the Union Calendar, Calendar No. 207.
 - 2011-12-01 — Reported by the Committee on Natural Resources. H. Rept. 112-307.
 - 2011-12-01 — Reported by the Committee on Natural Resources. H. Rept. 112-307.
+- 2012-09-19 — Considered under suspension of the rules. (consideration: CR H6075-6076)
+- 2012-09-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1461.
+- 2012-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-19 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
+- 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6075)
+- 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6075)

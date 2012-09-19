@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1461
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -32,3 +32,4 @@ In this Act:
 - **(d)** *Liability* The Secretary shall not be liable to the Tribe or any other person for any loss or other detriment resulting from a lease, contract, or other arrangement entered into pursuant to this section.
 - **(e)** *Purchases or grants of land from Indians* The authorization provided by this Act for the leasing, contracting, and transfer of the adjudicated water rights shall be considered to satisfy any requirement for authorization of the action by treaty or convention imposed by section 2116 of the Revised Statutes (25 U.S.C. 177).
 - **(f)** *Prohibition on forfeiture* The nonuse of all or any portion of the adjudicated water rights by a lessee or contractor shall not result in the forfeiture, abandonment, relinquishment, or other loss of all or any portion of the adjudicated water rights.
+- **(g)** *Applicability* This Act shall not apply to leasing, contracting, or transfer of the adjudicated water rights on the Tribe’s reservation.
