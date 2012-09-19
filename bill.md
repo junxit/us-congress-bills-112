@@ -7,12 +7,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5948
 
-> To amend title 38, United States Code, to improve the supervision of fiduciaries of veterans under the laws administered by the Secretary of Veterans Affairs, to establish a Place of Remembrance at Arlington National Cemetery, and for other purposes.
+> To amend title 38, United States Code, to improve the supervision of fiduciaries of veterans under the laws administered by the Secretary of Veterans Affairs, and for other purposes.
 
-## § 1. Short title; table of contents
+## § 1. Table of Contents
 
-- **(a)** *Short title* This Act may be cited as the “Veterans Fiduciary Reform and Honoring Noble Service Act”.
-- **(b)** *Table of Contents* The table of contents for this Act is as follows:
+The table of contents for this Act is as follows:
 
 ## § 2. Improvement of fiduciaries for veterans
 
@@ -168,22 +167,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 3. Establishment of Place of Remembrance at Arlington National Cemetery
 
-- **(a)** *Establishment authorized*
-  - **(1)** *In general* Chapter 446 of title 10, United States Code, is amended by adding at the end the following new section:
-    > ## § 4727. Place of Remembrance at Arlington National Cemetery
-    >
-    > - **(a)** *Establishment authorized* Under regulations prescribed by the Secretary of Defense, the Secretary of the Army may establish at an appropriate location in Arlington National Cemetery a Place of Remembrance for the interment of cremated specimens or other portion of the remains of a deceased member of the armed forces described in subsection (b) when one of the conditions specified in subsection (c) applies with respect to the remains of the member.
-    > - **(b)** *Covered members* This section applies only with respect to members of the armed forces who die while on active duty—
-    >   - **(1)** in a war or contingency operation; or
-    >   - **(2)** in the line of duty, consistent with regulations prescribed by the Secretary of the Army with respect to burial at Arlington National Cemetery.
-    > - **(c)** *Conditions on interment of remains* The conditions under which cremated specimens or other portion of the remains of a deceased member of the armed forces described in subsection (b) (including cremated specimens or other portion of remains believed by the Secretary concerned to be from the remains of the deceased member) are authorized to be interred in the Place of Remembrance are any of the following:
-    >   - **(1)** The remains are unidentified.
-    >   - **(2)** The person designated under section 1482(c) of this title to direct disposition of the remains of the member agrees to interment of the remains in the Place of Remembrance.
-    >   - **(3)** The person designated under section 1482(c) of this title to direct disposition of the remains of the member has indicated to the Secretary concerned that no further notification is required if a specimen or portion of the remains of the member is discovered.
-    >   - **(4)** When, especially in historical cases, the Secretary concerned determines that there is no one authorized to direct the disposition of the remains of the member and the Secretary concerned recommends interment of the remains in the Place of Remembrance.
-
-  - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following new item:
-- **(b)** *Retroactive application* Section 4727 of title 10, United States Code, as added by subsection (a), applies with respect to any war or contingency operation in which members of the Armed Forces participated and covers members of the Armed Forces who died in the line of duty before the date of the enactment of this Act, consistent with regulations prescribed by the Secretary of the Army with respect to burial at Arlington National Cemetery.
+- **(a)** *Establishment authorized* The Secretary of the Army may establish at an appropriate location in Arlington National Cemetery a Place of Remembrance for the interment of cremated fragments of the remains of members of the Armed Forces who died in the circumstances specified in subsection (c) when one of the conditions specified in subsection (d) applies with respect to the remains.
+- **(b)** *Regulations; design* The Secretary of the Army shall—
+  - **(1)** prescribe such regulations as may be necessary to carry out this section; and
+  - **(2)** determine how the Place of Remembrance shall be designed.
+- **(c)** *Covered circumstances* The Secretary of the Army shall suggest that the Place of Remembrance be for the cremated fragments of remains of members of the Armed Forces who died—
+  - **(1)** in any war or contingency operation prior to or after the date of the enactment of this Act; or
+  - **(2)** in the line of duty prior to or after the date of the enactment of this Act, consistent with regulations prescribed by the Secretary with respect to burial at Arlington National Cemetery.
+- **(d)** *Remains authorized for interment* Subsection (a) applies to fragments of the remains of a deceased member of the Armed Forces described in such subsection (or fragments reasonable believed to be from the remains of a deceased member of the Armed Forces described in such subsection) that—
+  - **(1)** are unidentifiable by use of DNA testing or other means because of the condition of the fragments;
+  - **(2)** are unclaimed after a reasonable period of time;
+  - **(3)** are identified and authorized for interment in the Place of Remembrance by the person designated under section 1482(c) of title 10, United States Code, to direct disposition of the remains of the member; or
+  - **(4)** are designated as “No Further Pursuit” remains in cases in which the family of a deceased member has indicated to the Secretary of Army that the family does not want to be consulted when fragments of the remains of the member are found.
 
 ## § 4. Furnishing caskets and urns for deceased veterans with no known next of kin
 
@@ -247,7 +242,11 @@ Section 2404 of title 38, United States Code, is amended by adding at the end th
 >   - **(4)** Any person aggrieved by a violation of this subsection or any regulation prescribed pursuant to this subsection may in a civil action in an appropriate Federal court obtain any appropriate relief against the Federal Government with respect to the violation. Standing to assert a claim or defense under this subsection shall be governed by the general rules of standing under Article III of the Constitution.
 >   - **(5)** The Secretary shall prescribe regulations to carry out this subsection.
 
-## § 9. Provision of access to case-tracking information
+## § 9. Authority for the performance of medical disability examinations by contract physicians
+
+Section 704(c) of the Veterans Benefits Act of 2003 (38 U.S.C. 5101 note) is amended by striking “December 31, 2012” and inserting “December 31, 2017”.
+
+## § 10. Provision of access to case-tracking information
 
 - **(a)** *In general* Chapter 59 of title 38, United States Code, is amended by adding at the end the following:
   > ## § 5906. Provision of access to case-tracking information
@@ -262,7 +261,7 @@ Section 2404 of title 38, United States Code, is amended by adding at the end th
   > - **(b)** *Privacy certification course* The Secretary may not provide a covered employee with access to the case-tracking system under subsection (a)(1) unless the covered employee has successfully completed a certification course on privacy issues provided by the Secretary.
   > - **(c)** *Treatment of disclosure* The access to information by a covered employee pursuant to subsection (a)(1) shall be deemed to be—
   >   - **(1)** a covered disclosure under section 552a(b) of title 5; and
-  >   - **(2)** a permitted disclosure under regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).
+  >   - **(2)** a permitted disclosure under regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d-2 note).
   > - **(d)** *Definitions* In this section:
   >   - **(1)** The term case-tracking system means the system of the Department of Veterans Affairs that provides information regarding the status of a claim submitted by a veteran.
   >   - **(2)** The term covered employee means—
@@ -271,7 +270,7 @@ Section 2404 of title 38, United States Code, is amended by adding at the end th
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following new item:
 
-## § 10. Notification by the Secretary of Veterans Affairs of individuals whose sensitive personal information is involved in a data breach
+## § 11. Notification by the Secretary of Veterans Affairs of individuals whose sensitive personal information is involved in a data breach
 
 - **(a)** *In general* Subchapter III of chapter 57 of title 38, United States Code is amended by inserting after section 5724 the following new section:
   > ## § 5724A. Data breach notification
@@ -294,7 +293,7 @@ Section 2404 of title 38, United States Code, is amended by adding at the end th
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 5724 the following new item:
 - **(c)** *Effective date* The amendments made by this section shall apply with respect to a data breach occurring on or after the date that is 90 days after the date of the enactment of this Act.
 
-## § 11. Limitation on bonuses for Department of Veterans Affairs employees who violate Federal civil laws or regulations
+## § 12. Limitation on bonuses for Department of Veterans Affairs employees who violate Federal civil laws or regulations
 
 - **(a)** *In general* Chapter 7 of title 38, United States Code, is amended by adding at the end the following new section:
   > ## § 713. Limitation on bonuses
@@ -313,6 +312,37 @@ Section 2404 of title 38, United States Code, is amended by adding at the end th
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following new item:
 
-## § 12. Limitation on awards and bonuses to employees of the Department of Veterans Affairs
+## § 13. Limitation on awards and bonuses to employees of the Department of Veterans Affairs
 
 For each of fiscal years 2013 through 2017, the Secretary of Veterans Affairs may not pay more than $357,613,229 in awards or bonuses under chapter 45 or 53 of title 5, United States Code, or any other awards or bonuses authorized under such title.
+
+## § 14. Sense of Congress on Patriot Guard Riders
+
+- **(a)** *Findings* Congress finds the following:
+  - **(1)** The Patriot Guard Riders were founded in 2005 in Mulvane, Kansas, with a mission to show sincere respect for fallen members of the Armed Forces by attending their funeral services as invited guests of the member's family.
+  - **(2)** The Patriot Guard Riders have more than 220,000 members nationwide from all walks of life.
+  - **(3)** The Patriot Guard Riders shield the mourning family and friends from interruptions created by any protestor or group of protestors.
+  - **(4)** The Patriot Guard Riders engage only in respectful acts in honor of a fallen member of the Armed Forces.
+  - **(5)** The members of the Patriot Guard Riders willingly give their time, energy, and money to respect the memory of fallen members of the Armed Forces.
+  - **(6)** The men and women of the Armed Forces who fight to preserve freedom deserve the utmost respect and support of the American people.
+  - **(7)** The Patriot Guard Riders provide a unique service that honors fallen members of the Armed Forces and their families.
+- **(b)** *Sense of Congress* Congress—
+  - **(1)** commends the Patriot Guard Riders and all of the other volunteers involved in shielding the mourning family and friends of a fallen member of the Armed Forces from interruptions created by any protestor or group of protestors; and
+  - **(2)** recognizes the sacrifices that veterans, members of the Armed Forces, and their families have made, and continue to make, on behalf of the United States.
+
+## § 15. Sense of Congress honoring Korean War veterans
+
+- **(a)** *Findings* Congress finds the following:
+  - **(1)** On June 25, 1950, Communist North Korea invaded the Republic of Korea with approximately 135,000 troops to initiate the Korean War.
+  - **(2)** Nearly 1,800,000 members of the Armed Forces of the United States served along with the forces of the Republic of Korea and 20 other Allied nations under the United Nations Command to defend freedom and democracy in the Korean Peninsula.
+  - **(3)** The United States suffered 36,574 dead and 103,284 wounded during the Korean War in some of the most horrific conditions in the history of warfare.
+  - **(4)** Almost 60 years have passed since the signing of the cease-fire agreement at Panmunjom on July 27, 1953, and the Korean peninsula still technically remains in a state of war.
+  - **(5)** The Korean War has become a “Forgotten War” for many Americans.
+  - **(6)** Many of the members of the Armed Forces who fought in the Korean War returned home without the fanfare that greeted the heroes of World Wars I and II.
+  - **(7)** Korean War veterans deserve to be recognized by all Americans for their honorable service during the Korean War in defense of democracy and freedom.
+  - **(8)** The tide of communism on the Korean Peninsula was halted, liberty triumphed over tyranny, and the Republic of Korea has developed into a modern and prosperous democracy because of the selfless sacrifice of the Korean War veterans.
+  - **(9)** The people of the United States and the Republic of Korea are eternally grateful to the Korean War veterans.
+  - **(10)** It is important to include the history of the Korean War in the curricula of American schools so that future generations never forget the sacrifices of the Korean War veterans.
+  - **(11)** The Department of Defense 60th Anniversary of the Korean War Commemoration Committee will implement a national campaign to honor the Korean War veterans, remember those Korean War veterans still counted among the missing in action, and educate the American people concerning the ongoing relevance of the Korean War.
+  - **(12)** The commemorative campaign will include ceremonies in the United States and the Republic of Korea in recognition of June 25, 1950, and July 27, 1953, and a national media and outreach campaign for Veterans Day 2012 to honor the Korean War veterans.
+- **(b)** *Sense of Congress* On the occasion of the 60th anniversary of the Korean War, Congress recognizes the importance of the contributions and sacrifices made by veterans of the Korean War.
