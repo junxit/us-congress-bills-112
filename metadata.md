@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6194
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6194
@@ -16,7 +16,7 @@ U.S. Agricultural Sector Relief Act of 2012
 
 - Rep. Gingrey, Phil [R-GA-11] (G000550)
 
-## Cosponsors (11)
+## Cosponsors (13)
 
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. Whitfield, Ed [R-KY-1] (W000413)
@@ -29,6 +29,8 @@ U.S. Agricultural Sector Relief Act of 2012
 - Rep. Conaway, K. Michael [R-TX-11] (C001062)
 - Rep. Costa, Jim [D-CA-20] (C001059)
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Rep. Kingston, Jack [R-GA-1] (K000220)
 
 ## Committees (1)
 
@@ -39,3 +41,7 @@ U.S. Agricultural Sector Relief Act of 2012
 - 2012-07-25 — Introduced in House
 - 2012-07-25 — Introduced in House
 - 2012-07-25 — Referred to the House Committee on Energy and Commerce.
+- 2012-07-27 — Referred to the Subcommittee on Energy and Power.
+- 2012-09-19 — Placed on the Union Calendar, Calendar No. 491.
+- 2012-09-19 — Reported by the Committee on Energy and Commerce. H. Rept. 112-679.
+- 2012-09-19 — Reported by the Committee on Energy and Commerce. H. Rept. 112-679.
