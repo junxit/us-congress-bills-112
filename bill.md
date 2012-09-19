@@ -31,3 +31,14 @@ Section 7(d) of the Small Business Act is amended by adding at the end the follo
 >     - **(i)** A greater number of applications for disaster related loans.
 >     - **(ii)** A greater number of approvals of disaster related loans.
 >     - **(iii)** A decreased default rate on disaster related loans.
+
+## § 3. Termination of use of public funds for political party nominating conventions
+
+Section 9008 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
+
+> - **(i)** *Termination of use of funds for conventions* Notwithstanding any other provision of this section, in the case of any presidential election held after 2012—
+>   - **(1)** the Secretary shall not make any payments under subsection (b)(3) to any national committee of a major party or minor party;
+>   - **(2)** on November 1 of the year prior to the year in which the election is held, the Secretary shall determine—
+>     - **(A)** in the case of the first such election, the amount which is equal to the aggregate amount of the payments which were made under subsection (b)(3) to the national committees of a major party or minor party for the presidential election held in 2012, adjusted in the manner described in subsection (b)(5), or
+>     - **(B)** in the case of any subsequent election, the amount which is equal to the amount determined under subparagraph (A), adjusted in the manner described in subsection (b)(5); and
+>   - **(3)** at the time the Secretary makes the determination under paragraph (2), an amount equal to the amount determined under paragraph (2) shall be permanently rescinded from the fund and returned to the general fund.
