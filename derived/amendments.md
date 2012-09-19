@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6361
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,4 +35,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “or any deferred” and inserting “, any deferred”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “prospective monthly amounts” the following: “, and any expenses related to aid and attendance as detailed under section 1521 of title 38, United States Code”. | the bill names no machine-readable US Code section |
 | — | add-at-end | in paragraph (2), by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
