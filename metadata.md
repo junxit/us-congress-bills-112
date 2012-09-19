@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 557
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 557
@@ -35,3 +35,7 @@ A resolution honoring the contributions of Lodi Gyaltsen Gyari as Special Envoy 
 
 - 2012-09-13 — Introduced in Senate
 - 2012-09-13 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S6345-6346)
+- 2012-09-19 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S6472-6473)
+- 2012-09-19 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S6472-6473)
+- 2012-09-19 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S6472-6473)
+- 2012-09-19 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S6472-6473)
