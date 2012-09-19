@@ -1,7 +1,7 @@
 ---
 legis-num: S. 357
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -51,7 +51,7 @@ In this Act:
   - **(C)** is spreading rapidly; or
   - **(D)** poses a significant threat to the health of a functioning ecosystem in a priority landscape identified in—
     - **(i)** the national fish and wildlife climate change adaptation plan entitled “Rising to the Urgent Challenge: Strategic Plan for Responding to Accelerating Climate Change” and dated September 2010; or
-    - **(ii)** a similar Federal, State, local, or tribal law, regulation, or conservation plan.
+    - **(ii)** a similar Federal, State, local, or tribal law, regulation, or conservation plan.scape identified in a Federal, State, local, or tribal law, regulation, or conservation plan.
 
 ## § 4. Declaration of wildlife disease emergency
 
@@ -73,6 +73,8 @@ In this Act:
         - **(I)** the national fish and wildlife climate change adaptation plan entitled “Rising to the Urgent Challenge: Strategic Plan for Responding to Accelerating Climate Change” and dated September 2010; or
         - **(II)** a similar Federal, State, local, or tribal law, regulation, or conservation plan; and
       - **(iii)** wildlife located on Federal land;
+      - **(i)** species and habitats identified as priorities in a Federal, State, local, or tribal law, regulation, or conservation plan; and
+      - **(ii)** wildlife located on Federal land;
   - **(2)** the sufficiency of resources available in the Fund;
   - **(3)** the ability of the Department of the Interior and other Federal, State, and local agencies, tribal governments, and other stakeholders to address and coordinate response to the disease through other means; and
   - **(4)** the request of any State Governor to make such a declaration.
@@ -108,7 +110,10 @@ In this Act:
   - **(1)** *In general* Subject to paragraph (2), members of the Committee shall be appointed by the Secretary from among individuals who are qualified by education, training, or experience in topics such as wildlife health, biology, ecology, wildlife conservation, and natural resource management.
   - **(2)** *Inclusions* The Committee shall include—
     - **(A)** qualified individuals who are employed by Federal and State agencies and tribal entities; and
-    - **(B)** qualified individuals who represent public and private organizations.
+    - **(B)** qualified individuals who represent
+    - **(B)** at least 8 qualified individuals who are employed by a State fish and wildlife agency, each of whom shall be employed in a different 1 of the 8 regions of the United States Fish and Wildlife Service;
+    - **(C)** qualified individuals employed by other State agencies and tribal entities; and
+    - **(D)** qualified individuals who represent public and private organizations.
 - **(d)** *Committee chair* The Secretary, or a designee of the Secretary, shall be the Chair of the Committee.
 - **(e)** *Staffing and assistance* The Secretary shall make available to the Committee any staff, information, administrative services, or assistance the Secretary determines is reasonably required to enable the Committee to carry out the functions of the Committee.
 - **(f)** *Renewal* Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), the Secretary may renew the Committee for any period of time that the Secretary determines to be appropriate.
@@ -122,4 +127,7 @@ The Secretary may convene rapid response teams to address any wildlife disease e
 Nothing in this Act—
 
 - **(1)** limits the authority of the Secretary to respond to wildlife disease events that are not declared wildlife disease emergencies under this Act; or
-- **(2)** limits, repeals, supersedes, or modifies any provision of Federal, State, local, or tribal law (including regulations).
+- **(2)** limits, repeals, supersedes, or modifies any
+- **(2)** affects the authority, jurisdiction, or responsibility of the States to manage, control, or regulate fish and resident wildlife under any State law (including regulations);
+- **(3)** grants authority to any public agency to acquire private property or conservation easements or otherwise infringe any use of private property; or
+- **(4)** limits, repeals, supersedes, or modifies any provision of Federal, State, local, or tribal law (including regulations).
