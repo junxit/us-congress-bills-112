@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5912
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5912
@@ -16,7 +16,7 @@ To amend the Internal Revenue Code of 1986 to prohibit the use of public funds f
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 
-## Cosponsors (26)
+## Cosponsors (35)
 
 - Rep. Fitzpatrick, Michael G. [R-PA-8] (F000451)
 - Rep. Campbell, John [R-CA-48] (C001064)
@@ -44,13 +44,36 @@ To amend the Internal Revenue Code of 1986 to prohibit the use of public funds f
 - Rep. McClintock, Tom [R-CA-4] (M001177)
 - Rep. Canseco, Francisco "Quico" [R-TX-23] (C001082)
 - Rep. Griffin, Tim [R-AR-2] (G000567)
+- Rep. Nunnelee, Alan [R-MS-1] (N000186)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Gardner, Cory [R-CO-4] (G000562)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Lankford, James [R-OK-5] (L000575)
+- Rep. Rokita, Todd [R-IN-4] (R000592)
+- Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
+- Rep. Ribble, Reid J. [R-WI-8] (R000587)
 
 ## Committees (1)
 
 - House — Committee on House Administration
+
+## Recorded votes (1)
+
+- 2012-09-19 — [House 112-2-586](votes/house-112-2-0586.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (310–95)
 
 ## Actions
 
 - 2012-06-07 — Introduced in House
 - 2012-06-07 — Introduced in House
 - 2012-06-07 — Referred to the House Committee on House Administration.
+- 2012-09-13 — Referred to the Subcommittee on Elections.
+- 2012-09-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-09-19 — Considered as unfinished business. (consideration: CR H6120-6121)
+- 2012-09-19 — Considered under suspension of the rules. (consideration: CR H6113-6115)
+- 2012-09-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5912.
+- 2012-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-19 — Mr. Lungren, Daniel E. moved to suspend the rules and pass the bill, as amended.
+- 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 95 (Roll no. 586). (text: CR H6113)
+- 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 95 (Roll no. 586).(text: CR H6113)
+- 2012-09-19 — The title of the measure was amended. Agreed to without objection.

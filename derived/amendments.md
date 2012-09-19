@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5912
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 

@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5912
 
-> To amend the Internal Revenue Code of 1986 to prohibit the use of public funds for political party conventions, and to provide for the return of previously distributed funds for deficit reduction.
+> To amend the Internal Revenue Code of 1986 to prohibit the use of public funds for political party conventions.
 
 ## § 1. Prohibiting use of presidential election campaign funds for party conventions
 
@@ -26,10 +26,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** in subsection (c), by striking paragraph (2) and redesignating paragraph (3) as paragraph (2).
 - **(d)** *Availability of payments from presidential primary matching payment account* The second sentence of section 9037(a) of such Code is amended by striking “and for payments under section 9008(b)(3)”.
 
-## § 3. Return of previously submitted money for deficit reduction
-
-Any amount which is returned by the national committee of a major party or a minor party to the general fund of the Treasury from an account established under section 9008 of the Internal Revenue Code of 1986 after the date of the enactment of this Act shall be dedicated to the sole purpose of deficit reduction.
-
-## § 4. Effective date
+## § 3. Effective date
 
 The amendments made by this Act shall apply with respect to elections occurring after December 31, 2012.
