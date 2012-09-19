@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6375
 
-> To authorize certain Department of Veterans Affairs major medical facility projects and leases, to amend title 38, United States Code, to extend certain authorities of the Secretary of Veterans Affairs, and for other purposes.
+> To authorize certain Department of Veterans Affairs major medical facility projects, to amend title 38, United States Code, to extend certain authorities of the Secretary of Veterans Affairs, and for other purposes.
 
 ## § 1. Short title; table of contents
 
