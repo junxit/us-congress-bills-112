@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1775
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | in subsection (a), by striking “wears,”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “If a decoration” and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “a combat badge,” after “1129 of title 10,”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | strike | Section 704 of title 18, United States Code, is amended in each of subsections (c)(1) and (d) by striking “or (b)”. | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 704` | strike | in subsection (a), by striking “wears,”; and | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 704` | replace | by striking “If a decoration” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 704` | insert | by inserting “a combat badge,” after “1129 of title 10,”; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 704` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 704` | strike | Section 704 of title 18, United States Code, is amended in each of subsections (c)(1) and (d) by striking “or (b)”. | the bill quotes the text struck but describes what replaces it |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1775
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1775
@@ -155,3 +155,4 @@ Stolen Valor Act of 2012
 - 2012-09-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 3 (Roll no. 575). (text: CR 9/11/2012 H5793)
 - 2012-09-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 3 (Roll no. 575).(text: CR 9/11/2012 H5793)
 - 2012-09-13 — The title of the measure was amended. Agreed to without objection.
+- 2012-09-19 — Received in the Senate.
