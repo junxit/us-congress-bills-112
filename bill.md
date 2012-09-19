@@ -24,6 +24,19 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas Japan, India, and Egypt are not parties to the Hague Abduction Convention and were also among the top 10 countries to which children in the United States were most frequently abducted in 2011;
 - Whereas, in many countries, such as Japan and India, international parental child abduction is not considered a crime, and custody rulings made by courts in the United States are not typically recognized by courts in those countries; and
 - Whereas Japan is the only member of the Group of 7 major industrialized countries that has not ratified the Hague Abduction Convention: Now, therefore, be it
+- Whereas international parental child abduction is a tragic and common occurrence;
+- Whereas the abduction of a child by one parent is a heartbreaking loss for the left-behind parent and deprives the child of a relationship with 2 loving parents;
+- Whereas, according to the Report on Compliance with the Hague Convention on the Civil Aspects of International Child Abduction of the United States Department of State from April 2010, research shows that abducted children are at risk of significant short- and long-term problems, including “anxiety, eating problems, nightmares, mood swings, sleep disturbances, [and] aggressive behavior”;
+- Whereas, according to that report, left-behind parents may also experience substantial psychological and emotional issues, including feelings of “betrayal, sadness over the loss of their children or the end of their marriage, anger toward the other parent, anxiety, sleeplessness, and severe depression”, as well as financial strain while fighting for the return of a child;
+- Whereas, since 1988, the United States, which has a treaty relationship under the Convention on the Civil Aspects of International Child Abduction, done at The Hague October 25, 1980 (TIAS 11670) (referred to in this preamble as the “Hague Abduction Convention”) with 69 other countries, has agreed with its treaty partners to follow the terms of the Hague Abduction Convention;
+- Whereas the Hague Abduction Convention provides a legal framework for securing the prompt return of wrongfully removed or retained children to the countries of their habitual residence where competent courts can make decisions on issues of custody and the best interests of the children;
+- Whereas, according to the United States Department of State, the number of new cases of international child abduction from the United States increased from 579 in 2006 to 941 in 2011;
+- Whereas, in 2011, those 941 cases involved 1,367 children who were reported abducted from the United States by a parent and taken to a foreign country;
+- Whereas, in 2011, more than 660 children who were abducted from the United States and taken to a foreign country were returned to the United States;
+- Whereas 7 of the top 10 countries to which children from the United States were most frequently abducted in 2011 are parties to the Hague Abduction Convention, including Mexico, Canada, the United Kingdom, Germany, Ecuador, Brazil, and Colombia;
+- Whereas Japan, India, and Egypt are not parties to the Hague Abduction Convention and were also among the top 10 countries to which children in the United States were most frequently abducted in 2011;
+- Whereas, in many countries, such as Japan and India, international parental child abduction is not considered a crime, and custody rulings made by courts in the United States are not typically recognized by courts in those countries; and
+- Whereas Japan is the only member of the Group of 7 major industrialized countries that has not yet become a party to the Hague Abduction Convention: Now, therefore, be it
 
 That—
 
