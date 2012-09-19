@@ -1,7 +1,7 @@
 ---
 measure: S. 134
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 134
@@ -29,3 +29,8 @@ Mescalero Apache Tribe Leasing Authorization Act
 - 2011-01-25 — Introduced in Senate
 - 2011-01-25 — Read twice and referred to the Committee on Indian Affairs. (text of measure as introduced: CR S202)
 - 2011-01-25 — Sponsor introductory remarks on measure. (CR S202)
+- 2011-10-20 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 112-492.
+- 2012-06-28 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2012-09-19 — Committee on Indian Affairs. Reported by Senator Akaka without amendment. With written report No. 112-218.
+- 2012-09-19 — Committee on Indian Affairs. Reported by Senator Akaka without amendment. With written report No. 112-218.
+- 2012-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 522.
