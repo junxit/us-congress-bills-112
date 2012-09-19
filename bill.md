@@ -22,14 +22,14 @@ Section 409D of the Public Health Service Act (42 U.S.C. 284h; relating to the P
   > - **(d)** *National Pediatric Research Network*
   >   - **(1)** *Network* In carrying out the Initiative, the Director of NIH, acting through the Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development and in collaboration with other appropriate national research institutes and national centers that carry out activities involving pediatric research, may provide for the establishment of a National Pediatric Research Network consisting of the pediatric research consortia receiving awards under paragraph (2).
   >   - **(2)** *Pediatric research consortia*
-  >     - **(A)** *In general* The Director of the Institute may award cooperative agreements and grants to public or private nonprofit entities—
+  >     - **(A)** *In general* The Director of the Institute may award funding, including through grants and contracts, to public or private nonprofit entities—
   >       - **(i)** for planning, establishing, or strengthening pediatric research consortia; and
   >       - **(ii)** for providing basic operating support for such consortia, including with respect to—
   >         - **(I)** basic, clinical, behavioral, or translational research to meet unmet needs for pediatric research; and
   >         - **(II)** training researchers in pediatric research techniques.
   >     - **(B)** *Research* The Director of NIH shall ensure that—
   >       - **(i)** each consortium receiving an award under subparagraph (A) conducts or supports at least one category of research described in subparagraph (A)(ii)(I) and collectively such consortia conduct or support all such categories of research; and
-  >       - **(ii)** one or more such consortia provides training described in subparagraph (A)(ii)(II).
+  >       - **(ii)** one or more such consortia provide training described in subparagraph (A)(ii)(II).
   >     - **(C)** *Number of consortia* The Director of NIH may make awards under this paragraph for not more than 20 pediatric research consortia.
   >     - **(D)** *Organization of consortium* Each consortium receiving an award under subparagraph (A) shall—
   >       - **(i)** be formed from a collaboration of cooperating institutions;
@@ -50,8 +50,7 @@ Section 409D of the Public Health Service Act (42 U.S.C. 284h; relating to the P
   >       - **(i)** To distribute the scientific findings referred to in paragraph (1)(C).
   >       - **(ii)** To provide assistance in the design and conduct of collaborative research projects and the management, analysis, and storage of data associated with such projects.
   >       - **(iii)** To organize and conduct multisite monitoring activities.
-  >       - **(iv)** To provide assistance to the Centers for Disease Control and Prevention in the establishment of patient registries.
+  >       - **(iv)** To provide assistance to the Centers for Disease Control and Prevention in the establishment or expansion of patient registries and other surveillance systems.
   >     - **(B)** *Reporting* The Director of NIH shall—
   >       - **(i)** require the data coordinating center established under subparagraph (A) to provide regular reports to the Director of NIH and the Commissioner of Food and Drugs on research conducted by consortia described in paragraph (1), including information on enrollment in clinical trials and the allocation of resources with respect to such research; and
   >       - **(ii)** as appropriate, incorporate information reported under clause (i) into the Director’s biennial reports under section 403.
-  >   - **(3)** *Definition* In this subsection, the term pediatric rare disease or condition means a rare disease or condition (as defined in section 526(a)(2) of the Federal Food, Drug, and Cosmetic Act) that affects pediatric populations.
