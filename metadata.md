@@ -1,7 +1,7 @@
 ---
 measure: S. 3341
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3341
@@ -30,3 +30,7 @@ Quadrennial Diplomacy and Development Review Act of 2012
 - 2012-06-26 — Introduced in Senate
 - 2012-06-26 — Read twice and referred to the Committee on Foreign Relations.
 - 2012-06-26 — Sponsor introductory remarks on measure. (CR S4638)
+- 2012-09-19 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2012-09-19 — Committee on Foreign Relations. Reported by Senator Kerry without amendment. With written report No. 112-220.
+- 2012-09-19 — Committee on Foreign Relations. Reported by Senator Kerry without amendment. With written report No. 112-220.
+- 2012-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 525.
