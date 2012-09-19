@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6213
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6213
@@ -40,10 +40,11 @@ No More Solyndras Act
 - Rep. Cassidy, Bill [R-LA-6] (C001075)
 - Rep. Benishek, Dan [R-MI-1] (B001271)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (4)
 
@@ -101,3 +102,4 @@ No More Solyndras Act
 - 2012-09-14 — The Speaker designated the Honorable Rob Bishop to act as Chairman of the Committee.
 - 2012-09-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6023)
 - 2012-09-14 — The previous question was ordered pursuant to the rule. (consideration: CR H6022)
+- 2012-09-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
