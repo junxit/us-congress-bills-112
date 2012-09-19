@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 117
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `30 U.S.C. § 1240a` | amend | Section 411(h)(4)(A) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1240a(h)(4)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 411(h)(4)(A) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1240a(h)(4)(A)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “2012–2013” and inserting “2013–2014”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting at the end the following: | the bill names no machine-readable US Code section |

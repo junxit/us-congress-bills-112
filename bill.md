@@ -1,8 +1,8 @@
 ---
 legis-num: H.J. RES. 117
-congress: 112th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.J. RES. 117
@@ -52,8 +52,8 @@ Appropriations made and authority granted pursuant to this joint resolution shal
 Unless otherwise provided for in this joint resolution or in the applicable appropriations Act for fiscal year 2013, appropriations and funds made available and authority granted pursuant to this joint resolution shall be available until whichever of the following first occurs:
 
 - **(1)** the enactment into law of an appropriation for any project or activity provided for in this joint resolution;
-  - **(2)** the enactment into law of the applicable appropriations Act for fiscal year 2013 without any provision for such project or activity; or
-    - **(3)** March 27, 2013.
+- **(2)** the enactment into law of the applicable appropriations Act for fiscal year 2013 without any provision for such project or activity; or
+- **(3)** March 27, 2013.
 
 ## § 107.
 
