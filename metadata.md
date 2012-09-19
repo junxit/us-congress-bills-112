@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6060
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6060
@@ -49,3 +49,9 @@ Endangered Fish Recovery Programs Extension Act of 2012
 - 2012-09-14 — Placed on the Union Calendar, Calendar No. 484.
 - 2012-09-14 — Reported by the Committee on Natural Resources. H. Rept. 112-672.
 - 2012-09-14 — Reported by the Committee on Natural Resources. H. Rept. 112-672.
+- 2012-09-19 — Considered under suspension of the rules. (consideration: CR H6074-6075)
+- 2012-09-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6060.
+- 2012-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-19 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
+- 2012-09-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6074)
+- 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6074)
