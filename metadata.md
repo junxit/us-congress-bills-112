@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6365
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6365
@@ -21,9 +21,10 @@ National Security and Job Protection Act
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Granger, Kay [R-TX-12] (G000377)
 
-## Committees (1)
+## Committees (2)
 
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (2)
 
@@ -46,3 +47,4 @@ National Security and Job Protection Act
 - 2012-09-13 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H5968)
 - 2012-09-13 — The previous question was ordered pursuant to the rule. (consideration: CR H5956-5969)
 - 2012-09-13 — The rule provides for consideration of H.J. Res. 117 and H.R. 6365, under a closed rule for both measures. Each are debatable for one hour. In both cases all points of order against provisions in the measure are waived, and in each case, one motion to recommit, with or without instructions is made in order.
+- 2012-09-19 — Received in the Senate and Read twice and referred to the Committee on the Budget.
