@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3319
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3319
@@ -37,3 +37,9 @@ To allow the Pascua Yaqui Tribe to determine the requirements for membership in 
 - 2012-09-18 — Placed on the Union Calendar, Calendar No. 487.
 - 2012-09-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-675.
 - 2012-09-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-675.
+- 2012-09-19 — Considered under suspension of the rules. (consideration: CR H6076)
+- 2012-09-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3319.
+- 2012-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-19 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
+- 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6076)
+- 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6076)
