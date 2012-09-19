@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4124
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | insert | Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by inserting after section 314 the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 751(j)(1) of the Public Health Service Act (42 U.S.C. 294a(j)(1)) is amended by striking “There is authorized to be appropriated” and inserting “Subject to section 315(e), there is authorized to be appropriated”. | the bill names no machine-readable US Code section |

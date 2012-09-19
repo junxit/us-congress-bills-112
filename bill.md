@@ -13,16 +13,17 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Veteran Emergency Medical Technician Support Act of 2012”.
 
-## § 2. Assisting veterans with military emergency medical training To meet requirements for becoming civilian emergency medical technicians
+## § 2. Assisting veterans with military emergency medical training to meet requirements for becoming civilian emergency medical technicians
 
-Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by inserting after section 314 the following:
+- **(a)** *In general* Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by inserting after section 314 the following:
+  > ## § 315. Assisting veterans with military emergency medical training to meet requirements for becoming civilian emergency medical technicians
+  >
+  > - **(a)** *Program* The Secretary shall establish a program consisting of awarding demonstration grants to States to streamline State requirements and procedures in order to assist veterans who completed military emergency medical technician training while serving in the Armed Forces of the United States to meet certification, licensure, and other requirements applicable to becoming an emergency medical technician in the State.
+  > - **(b)** *Use of funds* Amounts received as a demonstration grant under this section shall be used to prepare and implement a plan to streamline State requirements and procedures as described in subsection (a), including by—
+  >   - **(1)** determining the extent to which the requirements for the education, training, and skill level of emergency medical technicians in the State are equivalent to requirements for the education, training, and skill level of military emergency medical technicians; and
+  >   - **(2)** identifying methods, such as waivers, for military emergency medical technicians to forego or meet any such equivalent State requirements.
+  > - **(c)** *Eligibility* To be eligible for a grant under this section, a State shall demonstrate that the State has a shortage of emergency medical technicians.
+  > - **(d)** *Report* The Secretary shall submit to the Congress an annual report on the program under this section.
+  > - **(e)** *Funding* Of the amount authorized by section 751(j)(1) to be appropriated to carry out section 751 for fiscal year 2013, there is authorized to be appropriated to carry out this section $1,000,000 for the period of fiscal years 2013 through 2017.
 
-> ## § 315. Assisting veterans with military emergency medical training To meet requirements for becoming civilian emergency medical technicians
->
-> - **(a)** *Program* The Secretary shall establish a program consisting of awarding demonstration grants to States to streamline State requirements and procedures in order to assist veterans who completed military emergency medical technician training while serving in the Armed Forces of the United States to meet certification, licensure, and other requirements applicable to becoming an emergency medical technician in the State.
-> - **(b)** *Use of funds* Amounts received as a demonstration grant under this section shall be used to prepare and implement a plan to streamline State requirements and procedures as described in subsection (a), including by—
->   - **(1)** determining the extent to which the requirements for the education, training, and skill level of emergency medical technicians in the State are equivalent to requirements for the education, training, and skill level of military emergency medical technicians; and
->   - **(2)** identifying methods, such as waivers, for military emergency medical technicians to forego or meet any such equivalent State requirements.
-> - **(c)** *Eligibility* To be eligible for a grant under this section, a State shall demonstrate that the State has a shortage of emergency medical technicians.
-> - **(d)** *Report* The Secretary shall submit to the Congress an annual report on the program under this section.
-> - **(e)** *Funding* There is authorized to be appropriated to carry out this section $200,000 for each of fiscal years 2013 through 2017.
+- **(b)** *Conforming Amendment* Section 751(j)(1) of the Public Health Service Act (42 U.S.C. 294a(j)(1)) is amended by striking “There is authorized to be appropriated” and inserting “Subject to section 315(e), there is authorized to be appropriated”.
