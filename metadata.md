@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 118
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 118
@@ -48,6 +48,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - House — Education and the Workforce Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2012-09-20 — [House 112-2-589](votes/house-112-2-0589.md) — On Passage — **Passed** (250–164)
+
 ## Actions
 
 - 2012-09-11 — Introduced in House
@@ -63,3 +67,14 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2012-09-18 — Reported by the Committee on Education and the Workforce. H. Rept. 112-677, Part II.
 - 2012-09-18 — Reported by the Committee on Ways and Means. H. Rept. 112-677, Part I.
 - 2012-09-18 — Reported by the Committee on Ways and Means. H. Rept. 112-677, Part I.
+- 2012-09-20 — Considered as unfinished business. (consideration: CR H6194-6195)
+- 2012-09-20 — Considered under the provisions of rule H. Res. 788. (consideration: CR H6174-6185)
+- 2012-09-20 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 118.
+- 2012-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-20 — On passage Passed by the Yeas and Nays: 250 - 164 (Roll no. 589). (text: CR H6175)
+- 2012-09-20 — POSTPONED PROCEEDINGS - Pursuant to clause 1(C) of Rule 19, the Speaker postponed further proceedings on H.J. Res. 118.
+- 2012-09-20 — POSTPONED PROCEEDINGS - The chair put the question on agreeing to the joint resolution and by voice vote, announced that the ayes had prevailed. Mr. George Miller (CA) demanded the yeas and nays and further proceedings on the joint resolution were postponed.
+- 2012-09-20 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 250 - 164 (Roll no. 589).(text: CR H6175)
+- 2012-09-20 — RESUMING CONSIDERATION OF H.J. RES. 118 - Pursuant to clause 1(c) of rule XIX, the Chair announced that consideration of H.J. Res. 118 would now resume.
+- 2012-09-20 — The previous question was ordered pursuant to the rule. (consideration: CR H6185)
+- 2012-09-20 — The resolution provides for consideration of both H.J.Res. 118 and H.R. 3409. H.J. Res. 118 is debatable for one hour and is closed to amendments. H.R. 3409 is debatable for one hour and specified amendments are in order. Motions to recommit are in order. The resolution also provides for approval of the Journal on specified days; appointing of Members to perform duties of the Chair; not counting of legislative days for the purposes of the War Powers Act, purposes of clause 7 of rule XIII, and the purposes of clause 7(c)(1) of rule XXII.
