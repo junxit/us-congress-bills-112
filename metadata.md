@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6433
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6433
@@ -37,3 +37,12 @@ FDA User Fee Corrections Act of 2012
 - 2012-09-19 — Passed/agreed to in House: On passage Passed without objection.(text: CR H6137-6138)
 - 2012-09-19 — Referred to the House Committee on Energy and Commerce.
 - 2012-09-20 — Received in the Senate, read twice.
+- 2012-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/21/2012 S6671)
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/21/2012 S6671)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Presented to President.
+- 2012-09-25 — Presented to President.
+- 2012-10-05 — Became Public Law No: 112-193.
+- 2012-10-05 — Became Public Law No: 112-193.
+- 2012-10-05 — Signed by President.
+- 2012-10-05 — Signed by President.
