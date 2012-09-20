@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6060
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6060
@@ -32,9 +32,10 @@ Endangered Fish Recovery Programs Extension Act of 2012
 - Rep. Polis, Jared [D-CO-2] (P000598)
 - Rep. Heinrich, Martin [D-NM-1] (H001046)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Endangered Fish Recovery Programs Extension Act of 2012
 - 2012-09-19 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
 - 2012-09-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6074)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6074)
+- 2012-09-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
