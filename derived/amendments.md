@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5948
 congress: 112
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-30 amendatory instructions. 0 executed, 30 stated and not applied.
+31 amendatory instructions. 0 executed, 31 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -45,6 +45,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | The table of sections at the beginning of chapter 55 of title 38, United States Code, is amended by striking the item relating to section 5509 and inserting the following new item: | the bill names no machine-readable US Code section |
 | — | insert | Section 6107(a)(2)(C) of title 38, United States Code, is amended by inserting before the period the following: “, including by the Secretary not acting in accordance with section 5507 of this title”. | the bill names no machine-readable US Code section |
 | — | replace | Section 5510 of title 38, United States Code, is amended by striking “The Secretary shall include in the Annual Benefits Report of the Veterans Benefits Administration or the Secretary's Annual Performance and Accountability Report ” and… | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 446 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (e) the following new subsection (f): | the bill names no machine-readable US Code section |
 | — | redesignate | in subsection (h), as redesignated by paragraph (1), by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
@@ -54,7 +56,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “or (b)(2)” each place it appears and inserting “, (b)(2), or (b)(4)”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “capital” each place it appears. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2404 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | replace | Section 704(c) of the Veterans Benefits Act of 2003 (38 U.S.C. 5101 note) is amended by striking “December 31, 2012” and inserting “December 31, 2017”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 59 of title 38, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | — | insert | Subchapter III of chapter 57 of title 38, United States Code is amended by inserting after section 5724 the following new section: | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5948
 congress: 112
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5948
@@ -28,9 +28,10 @@ Veterans Fiduciary Reform and Honoring Noble Service Act
 - Rep. Posey, Bill [R-FL-15] (P000599)
 - Rep. Rooney, Thomas J. [R-FL-16] (R000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Veterans Fiduciary Reform and Honoring Noble Service Act
 - 2012-09-19 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-678.
 - 2012-09-19 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 112-678.
 - 2012-09-19 — The title of the measure was amended. Agreed to without objection.
+- 2012-09-20 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
