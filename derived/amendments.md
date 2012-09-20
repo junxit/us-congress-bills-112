@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5910
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 3 of the Foreign Direct Investment and International Financial Data Improvements Act of 1990 (22 U.S.C. 3142) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 3142` | add-at-end | Section 3 of the Foreign Direct Investment and International Financial Data Improvements Act of 1990 (22 U.S.C. 3142) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

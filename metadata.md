@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5910
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5910
@@ -73,3 +73,4 @@ Global Investment in American Jobs Act of 2012
 - 2012-09-19 — Mrs. Bono Mack moved to suspend the rules and pass the bill, as amended.
 - 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (consideration: CR H6132-6133)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(consideration: CR H6132-6133)
+- 2012-09-20 — Received in the Senate.
