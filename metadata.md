@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6118
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6118
@@ -50,3 +50,4 @@ Taking Essential Steps for Testing Act of 2012
 - 2012-09-19 — Mr. Pitts moved to suspend the rules and pass the bill.
 - 2012-09-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6140)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6140)
+- 2012-09-20 — Received in the Senate, read twice.

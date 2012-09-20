@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6118
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+3 amendatory instructions. 1 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 263a
+
+> in paragraph (4), by striking “shall” the first place it appears and inserting “may”.
+
+| | |
+|---|---|
+| Removed | `shall` |
+| Inserted | `may` |
 
 ## Stated, not applied
 
@@ -31,6 +42,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in subsection (d)(1)(E), by inserting “, except that no proficiency testing sample shall be referred to another laboratory for analysis as prohibited under subsection (i)(4)” before the period at the end; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (3), by inserting before the period at the end of the first sentence the following: “, except that if the revocation occurs pursuant to paragraph (4) the Secretary may substitute intermediate sanctions under subsection (h) i… | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (4), by striking “shall” the first place it appears and inserting “may”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 263a` | insert | in subsection (d)(1)(E), by inserting “, except that no proficiency testing sample shall be referred to another laboratory for analysis as prohibited under subsection (i)(4)” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 263a` | insert | in paragraph (3), by inserting before the period at the end of the first sentence the following: “, except that if the revocation occurs pursuant to paragraph (4) the Secretary may substitute intermediate sanctions under subsection (h) i… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
