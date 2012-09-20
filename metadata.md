@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6433
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6433
@@ -20,6 +20,10 @@ FDA User Fee Corrections Act of 2012
 
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 
+## Committees (1)
+
+- House — Energy and Commerce Committee
+
 ## Actions
 
 - 2012-09-19 — Committee on Energy and Commerce discharged.
@@ -32,3 +36,4 @@ FDA User Fee Corrections Act of 2012
 - 2012-09-19 — On passage Passed without objection. (text: CR H6137-6138)
 - 2012-09-19 — Passed/agreed to in House: On passage Passed without objection.(text: CR H6137-6138)
 - 2012-09-19 — Referred to the House Committee on Energy and Commerce.
+- 2012-09-20 — Received in the Senate, read twice.
