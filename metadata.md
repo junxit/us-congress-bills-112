@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6410
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6410
@@ -49,3 +49,4 @@ Buffett Rule Act of 2012
 - 2012-09-19 — Mr. Camp moved to suspend the rules and pass the bill.
 - 2012-09-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6099)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6099)
+- 2012-09-20 — Received in the Senate.

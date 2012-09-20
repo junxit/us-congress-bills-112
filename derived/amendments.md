@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6410
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Subchapter A of chapter 61 of the Internal Revenue Code of 1986 is amended by adding at the end the following new part: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of parts for subchapter A of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| `31 U.S.C. § 3113` | add-at-end | Subchapter A of chapter 61 of the Internal Revenue Code of 1986 is amended by adding at the end the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 3113` | add-at-end | The table of parts for subchapter A of such chapter is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
