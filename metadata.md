@@ -1,7 +1,7 @@
 ---
 measure: S. 3486
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3486
@@ -16,9 +16,10 @@ Patent Law Treaties Implementation Act of 2012
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ Patent Law Treaties Implementation Act of 2012
 - 2012-08-02 — Introduced in Senate
 - 2012-08-02 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S5980-5983)
 - 2012-08-02 — Sponsor introductory remarks on measure. (CR S5980)
+- 2012-09-20 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-09-20 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2012-09-20 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2012-09-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 532.
