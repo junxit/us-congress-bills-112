@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2903
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2903
@@ -21,10 +21,11 @@ FEMA Reauthorization Act of 2012
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Hanna, Richard L. [R-NY-24] (H001051)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ FEMA Reauthorization Act of 2012
 - 2012-09-19 — Mr. Denham moved to suspend the rules and pass the bill, as amended.
 - 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6104-6110)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6104-6110)
+- 2012-09-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
