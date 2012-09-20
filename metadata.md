@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4158
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4158
@@ -70,3 +70,12 @@ To confirm full ownership rights for certain United States astronauts to artifac
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6086)
 - 2012-09-19 — VACATING ORDER FOR YEAS AND NAYS - Mr. Hall asked unanimous consent that the ordering of the yeas and nays on the motion that the House suspend the rules and pass H.R. 4158 be vacated to the end that the Chair put the question de novo. Agreed to without objection.
 - 2012-09-20 — Received in the Senate, read twice.
+- 2012-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/21/2012 S6671)
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/21/2012 S6671)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Presented to President.
+- 2012-09-25 — Presented to President.
+- 2012-10-05 — Became Public Law No: 112-185.
+- 2012-10-05 — Became Public Law No: 112-185.
+- 2012-10-05 — Signed by President.
+- 2012-10-05 — Signed by President.
