@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2827
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2827
@@ -58,9 +58,10 @@ To amend the Securities Exchange Act of 1934 to clarify provisions relating to t
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 - Rep. Palazzo, Steven M. [R-MS-4] (P000601)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -80,3 +81,4 @@ To amend the Securities Exchange Act of 1934 to clarify provisions relating to t
 - 2012-09-19 — Mr. Dold moved to suspend the rules and pass the bill, as amended.
 - 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6125-6126)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6125-6126)
+- 2012-09-20 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
