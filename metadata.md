@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6431
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6431
@@ -32,3 +32,12 @@ To provide flexibility with respect to United States support for assistance prov
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6124)
 - 2012-09-19 — Referred to the House Committee on Financial Services.
 - 2012-09-20 — Received in the Senate, read twice.
+- 2012-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/21/2012 S6670-6671)
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/21/2012 S6670-6671)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Presented to President.
+- 2012-09-25 — Presented to President.
+- 2012-10-05 — Became Public Law No: 112-192.
+- 2012-10-05 — Became Public Law No: 112-192.
+- 2012-10-05 — Signed by President.
+- 2012-10-05 — Signed by President.
