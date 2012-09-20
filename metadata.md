@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3319
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3319
@@ -45,3 +45,14 @@ To allow the Pascua Yaqui Tribe to determine the requirements for membership in 
 - 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6076)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6076)
 - 2012-09-20 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2012-12-11 — Passed Senate without amendment by Unanimous Consent.
+- 2012-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-12-11 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S7752)
+- 2012-12-11 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S7752)
+- 2012-12-12 — Message on Senate action sent to the House.
+- 2012-12-13 — Presented to President.
+- 2012-12-13 — Presented to President.
+- 2012-12-20 — Became Public Law No: 112-214.
+- 2012-12-20 — Became Public Law No: 112-214.
+- 2012-12-20 — Signed by President.
+- 2012-12-20 — Signed by President.
