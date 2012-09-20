@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6163
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6163
@@ -29,9 +29,10 @@ National Pediatric Research Network Act of 2012
 - Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
 - Rep. Matsui, Doris O. [D-CA-5] (M001163)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ National Pediatric Research Network Act of 2012
 - 2012-09-19 — Mr. Upton moved to suspend the rules and pass the bill, as amended.
 - 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6138)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6138)
+- 2012-09-20 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
