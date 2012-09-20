@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6118
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6118
@@ -51,3 +51,12 @@ Taking Essential Steps for Testing Act of 2012
 - 2012-09-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6140)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6140)
 - 2012-09-20 — Received in the Senate, read twice.
+- 2012-11-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6827)
+- 2012-11-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6827)
+- 2012-11-15 — Message on Senate action sent to the House.
+- 2012-11-28 — Presented to President.
+- 2012-11-28 — Presented to President.
+- 2012-12-04 — Became Public Law No: 112-202.
+- 2012-12-04 — Became Public Law No: 112-202.
+- 2012-12-04 — Signed by President.
+- 2012-12-04 — Signed by President.
