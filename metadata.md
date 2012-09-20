@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6375
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6375
@@ -38,3 +38,4 @@ VA Major Construction Authorization and Expiring Authorities Extension Act of 20
 - 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6094-6095)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6094-6095)
 - 2012-09-19 — The title of the measure was amended. Agreed to without objection.
+- 2012-09-20 — Received in the Senate, read twice.
