@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1461
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1461
@@ -44,3 +44,4 @@ Mescalero Apache Tribe Leasing Authorization Act
 - 2012-09-19 — Mr. Bishop (UT) moved to suspend the rules and pass the bill, as amended.
 - 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6075)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6075)
+- 2012-09-20 — Received in the Senate.
