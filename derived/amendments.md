@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3319
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 3 of Public Law 95–375 (25 U.S.C. 1300f–2) is amended to read as follows: | the bill names no machine-readable US Code section |
+| `25 U.S.C. § 1300f-2` | amend | Section 3 of Public Law 95–375 (25 U.S.C. 1300f–2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
