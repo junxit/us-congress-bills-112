@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6361
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6361
@@ -26,9 +26,10 @@ Vulnerable Veterans Housing Reform Act of 2012
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Vulnerable Veterans Housing Reform Act of 2012
 - 2012-09-19 — Mrs. Biggert moved to suspend the rules and pass the bill, as amended.
 - 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6121-6122)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6121-6122)
+- 2012-09-20 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
