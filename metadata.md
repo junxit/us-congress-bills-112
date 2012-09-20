@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5044
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5044
@@ -42,9 +42,10 @@ Andrew P. Carpenter Tax Act
 - Rep. Brady, Kevin [R-TX-8] (B000755)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -64,3 +65,4 @@ Andrew P. Carpenter Tax Act
 - 2012-09-19 — Mr. Johnson, Sam moved to suspend the rules and pass the bill, as amended.
 - 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 585). (text: CR H6101-6102)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 585).(text: CR H6101-6102)
+- 2012-09-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
