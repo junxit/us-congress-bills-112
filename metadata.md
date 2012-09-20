@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6368
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6368
@@ -16,10 +16,11 @@ Border Security Information Improvement Act of 2012
 
 - Rep. Canseco, Francisco "Quico" [R-TX-23] (C001082)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -34,3 +35,4 @@ Border Security Information Improvement Act of 2012
 - 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6118)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6118)
 - 2012-09-19 — The title of the measure was amended. Agreed to without objection.
+- 2012-09-20 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
