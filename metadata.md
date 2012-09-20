@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5912
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5912
@@ -77,3 +77,4 @@ To amend the Internal Revenue Code of 1986 to prohibit the use of public funds f
 - 2012-09-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 95 (Roll no. 586). (text: CR H6113)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 310 - 95 (Roll no. 586).(text: CR H6113)
 - 2012-09-19 — The title of the measure was amended. Agreed to without objection.
+- 2012-09-20 — Received in the Senate.
