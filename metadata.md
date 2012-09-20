@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6060
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6060
@@ -57,3 +57,14 @@ Endangered Fish Recovery Programs Extension Act of 2012
 - 2012-09-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6074)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6074)
 - 2012-09-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2013-01-01 — Message on Senate action sent to the House.
+- 2013-01-01 — Passed Senate without amendment by Unanimous Consent. (text: CR 12/31/2012 S8609)
+- 2013-01-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR 12/31/2012 S8609)
+- 2013-01-01 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR 12/31/2012 S8609)
+- 2013-01-01 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR 12/31/2012 S8609)
+- 2013-01-02 — Presented to President.
+- 2013-01-02 — Presented to President.
+- 2013-01-14 — Became Public Law No: 112-270.
+- 2013-01-14 — Became Public Law No: 112-270.
+- 2013-01-14 — Signed by President.
+- 2013-01-14 — Signed by President.
