@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6324
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6324
@@ -20,9 +20,10 @@ Cutting FUEL Act
 
 - Rep. Barrow, John [D-GA-12] (B001252)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Cutting FUEL Act
 - 2012-09-19 — Mr. Chaffetz moved to suspend the rules and pass the bill.
 - 2012-09-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6097)
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6097)
+- 2012-09-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
