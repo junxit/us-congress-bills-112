@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2467
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2467
@@ -41,3 +41,7 @@ Bridgeport Indian Colony Land Trust, Health, and Economic Development Act of 201
 - 2012-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5096)
 - 2012-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5096)
 - 2012-07-24 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2012-09-20 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2012-09-21 — Committee on Indian Affairs. Reported without amendment. Without written report.
+- 2012-09-21 — Committee on Indian Affairs. Reported without amendment. Without written report.
+- 2012-09-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 534.
