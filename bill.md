@@ -15,13 +15,13 @@ This Act may be cited as the “Furthering Asbestos Claim Transparency (FACT) Ac
 
 ## § 2. Amendments
 
-Section 524(g) of title 11, the United States Code, is amended by adding at the end the following:
+Section 524(g) of title 11, United States Code, is amended by adding at the end the following:
 
-> - **(8)** A trust described in subsection (2) shall—
->   - **(A)** file with the bankruptcy court and the United States Trustee, not later than 60 days after the end of every quarter, a report that shall be made available on the court’s public docket and with respect to each such reporting period—
+> - **(8)** A trust described in paragraph (2) shall, subject to section 107—
+>   - **(A)** file with the bankruptcy court, not later than 60 days after the end of every quarter, a report that shall be made available on the court’s public docket and with respect to such quarter—
 >     - **(i)** describes each demand the trust received from, including the name and exposure history of, a claimant and the basis for any payment from the trust made to such claimant; and
 >     - **(ii)** does not include any confidential medical record or the claimant’s full social security number; and
->   - **(B)** upon written request, provide in a timely manner any information related to payment from, and demands for payment from, such trust, subject to appropriate protective orders, to any party to any action in law or equity if the subject of such action concerns liability for asbestos exposure.
+>   - **(B)** upon written request, and subject to payment (demanded at the option of the trust) for any reasonable cost incurred by the trust to comply with such request, provide in a timely manner any information related to payment from, and demands for payment from, such trust, subject to appropriate protective orders, to any party to any action in law or equity if the subject of such action concerns liability for asbestos exposure.
 
 ## § 3. Effective date; application of amendments
 
