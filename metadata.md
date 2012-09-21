@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 118
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 118
@@ -78,3 +78,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2012-09-20 — RESUMING CONSIDERATION OF H.J. RES. 118 - Pursuant to clause 1(c) of rule XIX, the Chair announced that consideration of H.J. Res. 118 would now resume.
 - 2012-09-20 — The previous question was ordered pursuant to the rule. (consideration: CR H6185)
 - 2012-09-20 — The resolution provides for consideration of both H.J.Res. 118 and H.R. 3409. H.J. Res. 118 is debatable for one hour and is closed to amendments. H.R. 3409 is debatable for one hour and specified amendments are in order. Motions to recommit are in order. The resolution also provides for approval of the Journal on specified days; appointing of Members to perform duties of the Chair; not counting of legislative days for the purposes of the War Powers Act, purposes of clause 7 of rule XIII, and the purposes of clause 7(c)(1) of rule XXII.
+- 2012-09-21 — Received in the Senate.
