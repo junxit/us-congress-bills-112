@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6016
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Chapter 75 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The table of sections the beginning of chapter 75 of title 5, United States Code, is amended by adding after the item relating to section 7543 the following: | the bill names no machine-readable US Code section |
-| — | insert | in subsection (a), by inserting “misappropriation of funds,” after “malfeasance,”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The table of sections at the beginning of chapter 75 of title 5, United States Code, is amended by adding after the item relating to section 7543 the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a), by inserting “misappropriation of funds,” after “malfeasance,”; | the bill names no machine-readable US Code section |
+| — | amend | in subsection (b), by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
