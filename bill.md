@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2572
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,28 +13,24 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Clean Up Government Act of 2011”.
 
-## § 2. Application of mail and wire fraud statutes to licences and other intangible rights
-
-Sections 1341 and 1343 of title 18, United States Code, are each amended by striking “money or property” and inserting “money, property, or any other thing of value”.
-
-## § 3. Venue for Federal offenses
+## § 2. Venue for Federal offenses
 
 Section 3237(a) of title 18, United States Code, is amended by inserting after “begun, continued, or completed” the following: “or in any district in which an act in furtherance of an offense is committed”.
 
-## § 4. Theft or bribery concerning programs receiving Federal financial assistance
+## § 3. Theft or bribery concerning programs receiving Federal financial assistance
 
 Section 666(a) of title 18, United States Code, is amended—
 
 - **(1)** by striking “10 years” and inserting “20 years”;
-- **(2)** by striking “$5,000” each place it appears and inserting “$1,000”;
+- **(2)** by striking “$5,000” the second place and the third place it appears and inserting “$1,000”;
 - **(3)** by striking “anything of value” each place it appears and inserting “any thing or things of value”; and
 - **(4)** in paragraph (1)(B), by inserting after “any thing” the following: “or things”.
 
-## § 5. Penalty for section 641 violations
+## § 4. Penalty for section 641 violations
 
-Section 641 of title 18, United States Code, is amended by striking “ten years” and inserting “20 years”.
+Section 641 of title 18, United States Code, is amended by striking “ten years” and inserting “15 years”.
 
-## § 6. Bribery and graft
+## § 5. Bribery and graft
 
 Section 201 of title 18, United States Code, is amended—
 
@@ -47,29 +43,28 @@ Section 201 of title 18, United States Code, is amended—
 - **(2)** in subsection (b), by striking “fifteen years” and inserting “20 years”;
 - **(3)** in subsection (c)—
   - **(A)** by striking “two years” and inserting “five years”; and
-  - **(B)** in paragraph (1), in the matter preceding subparagraph (A), to read as follows: “otherwise than as provided by law for the proper discharge of official duty, or by rule or regulation—”; and
-- **(4)** by striking “anything of value” each place it appears and inserting “any thing or things of value”.
+  - **(B)** in paragraph (1), in the matter preceding subparagraph (A), to read as follows: “otherwise than as provided by law for the proper discharge of official duty, or by rule or regulation, knowingly—”; and
+- **(4)** by striking “anything of value” each place it appears and inserting “any thing or things of value of not less than $1,000”.
 
-## § 7. Addition of District of Columbia to theft of public money offense
+## § 6. Addition of District of Columbia to theft of public money offense
 
 Section 641 of title 18, United States Code, is amended by inserting “the District of Columbia or” before “the United States” each place such term appears.
 
-## § 8. Clarification of crime of illegal gratuities
+## § 7. Clarification of crime of illegal gratuities
 
 Subparagraphs (A) and (B) of section 201(c)(1) of title 18, United States Code, are each amended by inserting “the official’s or person’s official position or” before “any official act”.
 
-## § 9. Clarification of definition of “official act”
+## § 8. Clarification of definition of “official act”
 
 Section 201(a)(3) of title 18, United States Code, is amended to read as follows:
 
 > - **(3)** the term official act—
->   - **(A)** includes any act within the range of official duty, and any decision, recommendation, or action on any question, matter, cause, suit, proceeding, or controversy, which may at any time be pending, or which may by law be brought before any public official, in such public official’s official capacity or in such official’s place of trust or profit;
->   - **(B)** may be a single act, more than one act, or a course of conduct; and
->   - **(C)** includes a decision or recommendation that a government should not take action.
+>   - **(A)** means any act within the range of official duty, and any decision, recommendation, or action on any question, matter, cause, suit, proceeding, or controversy, which may at any time be pending, or which may by law be brought before any public official, in such public official’s official capacity or in such official’s place of trust or profit; and
+>   - **(B)** may be a single act, more than one act, or a course of conduct.
 
-## § 10. Amendment of the sentencing guidelines relating to certain crimes
+## § 9. Amendment of the sentencing guidelines relating to certain crimes
 
-- **(a)** *Directive to Sentencing Commission* Pursuant to its authority under section 994(p) of title 28, United States Code, and in accordance with this section, the United States Sentencing Commission forthwith shall review and amend its guidelines and its policy statements applicable to persons convicted of an offense under section 201, 641, or 666 of title 18, United States Code in order to reflect the intent of Congress that such penalties be increased in comparison to those currently provided by guidelines and policy statements.
+- **(a)** *Directive to Sentencing Commission* Pursuant to its authority under section 994(p) of title 28, United States Code, and in accordance with this section, the United States Sentencing Commission forthwith shall review and, if appropriate, amend its guidelines and its policy statements applicable to persons convicted of an offense under section 201, 641, or 666 of title 18, United States Code in order to reflect the intent of Congress that such penalties meet the requirements in subsection (b) of this section.
 - **(b)** *Requirements* In carrying out this subsection, the Commission shall—
   - **(1)** ensure that the sentencing guidelines and policy statements reflect Congress’s intent that the guidelines and policy statements reflect the serious nature of the offenses described in paragraph (1), the incidence of such offenses, and the need for an effective deterrent and appropriate punishment to prevent such offenses;
   - **(2)** consider the extent to which the guidelines may or may not appropriately account for—
@@ -84,7 +79,7 @@ Section 201(a)(3) of title 18, United States Code, is amended to read as follows
   - **(5)** make any necessary conforming changes to the sentencing guidelines; and
   - **(6)** assure that the guidelines adequately meet the purposes of sentencing as set forth in section 3553(a)(2) of title 18, United States Code.
 
-## § 11. Extension of statute of limitations for serious public corruption offenses
+## § 10. Extension of statute of limitations for serious public corruption offenses
 
 - **(a)** *In general* Chapter 213 of title 18, United States Code, is amended by adding at the end the following:
   > ## § 3302. Corruption offenses
@@ -100,33 +95,23 @@ Section 201(a)(3) of title 18, United States Code, is amended to read as follows
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 213 of title 18, United States Code, is amended by adding at the end the following new item:
 - **(c)** *Application of amendment* The amendments made by this section shall not apply to any offense committed before the date of enactment of this Act.
 
-## § 12. Increase of maximum penalties for certain public corruption related offenses
+## § 11. Increase of maximum penalties for certain public corruption related offenses
 
-- **(a)** *Solicitation of political contributions* Section 602(a)(4) of title 18, United States Code, is amended by striking “3 years” and inserting “10 years”.
-- **(b)** *Promise of employment for political activity* Section 600 of title 18, United States Code, is amended by striking “one year” and inserting “10 years”.
-- **(c)** *Deprivation of employment for political activity* Section 601(a) of title 18, United States Code, is amended by striking “one year” and inserting “10 years”.
-- **(d)** *Intimidation To secure political contributions* Section 606 of title 18, United States Code, is amended by striking “three years” and inserting “10 years”.
-- **(e)** *Solicitation and acceptance of contributions in federal offices* Section 607(a)(2) of title 18, United States Code, is amended by striking “3 years” and inserting “10 years”.
-- **(f)** *Coercion of political activity by federal employees* Section 610 of title 18, United States Code, is amended by striking “three years” and inserting “10 years”.
+- **(a)** *Solicitation of political contributions* Section 602(a)(4) of title 18, United States Code, is amended by striking “3 years” and inserting “5 years”.
+- **(b)** *Promise of employment for political activity* Section 600 of title 18, United States Code, is amended by striking “one year” and inserting “3 years”.
+- **(c)** *Deprivation of employment for political activity* Section 601(a) of title 18, United States Code, is amended by striking “one year” and inserting “3 years”.
+- **(d)** *Intimidation To secure political contributions* Section 606 of title 18, United States Code, is amended by striking “three years” and inserting “5 years”.
+- **(e)** *Solicitation and acceptance of contributions in federal offices* Section 607(a)(2) of title 18, United States Code, is amended by striking “3 years” and inserting “5 years”.
+- **(f)** *Coercion of political activity by federal employees* Section 610 of title 18, United States Code, is amended by striking “three years” and inserting “5 years”.
 
-## § 13. Additional RICO predicates
-
-- **(a)** *In general* Section 1961(1) of title 18, United States Code, is amended—
-  - **(1)** by inserting “section 641 (relating to embezzlement or theft of public money, property, or records),” after “473 (relating to counterfeiting),”;
-  - **(2)** by inserting “section 666 (relating to theft or bribery concerning programs receiving Federal funds),” after “section 664 (relating to embezzlement from pension and welfare funds),”; and
-  - **(3)** by inserting “section 1031 (relating to major fraud against the United States)” after “section 1029 (relating to fraud and related activity in connection with access devices),” .
-- **(b)** *Conforming amendments* Section 1956(c)(7)(D) of title 18, United States Code, is amended—
-  - **(1)** by striking “section 641 (relating to public money, property, or records),”; and
-  - **(2)** by striking “section 666 (relating to theft or bribery concerning programs receiving Federal funds),”.
-
-## § 14. Additional wiretap predicates
+## § 12. Additional wiretap predicates
 
 Section 2516(1)(c) of title 18, United States Code, is amended—
 
 - **(1)** by inserting “section 641 (relating to embezzlement or theft of public money, property, or records), section 666 (relating to theft or bribery concerning programs receiving Federal funds),” after “section 224 (bribery in sporting contests),”; and
 - **(2)** by inserting “section 1031 (relating to major fraud against the United States)” after “section 1014 (relating to loans and credit applications generally; renewals and discounts),”.
 
-## § 15. Expanding venue for perjury and obstruction of justice proceedings
+## § 13. Expanding venue for perjury and obstruction of justice proceedings
 
 - **(a)** *In general* Section 1512(i) of title 18, United States Code, is amended to read as follows:
   > - **(i)** A prosecution under section 1503, 1504, 1505, 1508, 1509, 1510, or this section may be brought in the district in which the conduct constituting the alleged offense occurred or in which the official proceeding (whether or not pending or about to be instituted) was intended to be affected.
@@ -139,7 +124,7 @@ Section 2516(1)(c) of title 18, United States Code, is amended—
 
   - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 79 of title 18, United States Code, is amended by adding at the end the following:
 
-## § 16. Prohibition on undisclosed self-dealing by public officials
+## § 14. Prohibition on undisclosed self-dealing by public officials
 
 - **(a)** *In general* Chapter 63 of title 18, United States Code, is amended by inserting after section 1346 the following new section:
   > ## § 1346A. Undisclosed self-dealing by public officials
@@ -147,13 +132,12 @@ Section 2516(1)(c) of title 18, United States Code, is amended—
   > - **(a)** *Undisclosed self-Dealing by public officials* For purposes of this chapter, the term scheme or artifice to defraud also includes a scheme or artifice by a public official to engage in undisclosed self-dealing.
   > - **(b)** *Definitions* As used in this section:
   >   - **(1)** *Official act* The term official act—
-  >     - **(A)** includes any act within the range of official duty, and any decision, recommendation, or action on any question, matter, cause, suit, proceeding, or controversy, which may at any time be pending, or which may by law be brought before any public official, in such public official’s official capacity or in such official’s place of trust or profit;
-  >     - **(B)** may be a single act, more than one act, or a course of conduct; and
-  >     - **(C)** includes a decision or recommendation that a government should not take action.
+  >     - **(A)** means any act within the range of official duty, and any decision, recommendation, or action on any question, matter, cause, suit, proceeding, or controversy, which may at any time be pending, or which may by law be brought before any public official, in such public official’s official capacity or in such official’s place of trust or profit; and
+  >     - **(B)** may be a single act, more than one act, or a course of conduct.
   >   - **(2)** *Public official* The term public official means an officer, employee, or elected or appointed representative, or person acting for or on behalf of the United States, a State, or a subdivision of a State, or any department, agency or branch of government thereof, in any official function, under or by authority of any such department, agency, or branch of government.
   >   - **(3)** *State* The term State includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
   >   - **(4)** *Undisclosed self-dealing* The term undisclosed self-dealing means that—
-  >     - **(A)** a public official performs an official act for the purpose, in whole or in material part, of furthering or benefitting a financial interest of—
+  >     - **(A)** a public official performs an official act for the purpose, in whole or in material part, of furthering or benefitting a financial interest, of which the public official has knowledge, of—
   >       - **(i)** the public official;
   >       - **(ii)** the spouse or minor child of a public official;
   >       - **(iii)** a general business partner of the public official;
@@ -161,14 +145,14 @@ Section 2516(1)(c) of title 18, United States Code, is amended—
   >       - **(v)** an individual, business, or organization with whom the public official is negotiating for, or has any arrangement concerning, prospective employment or financial compensation; or
   >       - **(vi)** an individual, business, or organization from whom the public official has received any thing or things of value, otherwise than as provided by law for the proper discharge of official duty, or by rule or regulation; and
   >     - **(B)** the public official knowingly falsifies, conceals, or covers up material information that is required to be disclosed by any Federal, State, or local statute, rule, regulation, or charter applicable to the public official, or the knowing failure of the public official to disclose material information in a manner that is required by any Federal, State, or local statute, rule, regulation, or charter applicable to the public official.
-  >   - **(5)** *Material information* The term “material information” includes information—
+  >   - **(5)** *Material information* The term “material information” means information—
   >     - **(A)** regarding a financial interest of a person described in clauses (i) through (iv) paragraph (4)(A); and
   >     - **(B)** regarding the association, connection, or dealings by a public official with an individual, business, or organization as described in clauses (iii) through (vi) of paragraph 4.
 
 - **(b)** *Conforming amendment* The table of sections for chapter 63 of title 18, United States Code, is amended by inserting after the item relating to section 1346 the following new item:
 - **(c)** *Applicability* The amendments made by this section apply to acts engaged in on or after the date of the enactment of this Act.
 
-## § 17. Disclosure of information in complaints against judges
+## § 15. Disclosure of information in complaints against judges
 
 Section 360(a) of title 28, United States Code, is amended—
 
@@ -177,13 +161,13 @@ Section 360(a) of title 28, United States Code, is amended—
 - **(3)** by inserting after paragraph (3) the following:
   > - **(4)** such disclosure of information regarding a potential criminal offense is made to the Attorney General, a Federal, State, or local grand jury, or a Federal, State, or local law enforcement agency.
 
-## § 18. Clarification of exemption in certain bribery offenses
+## § 16. Clarification of exemption in certain bribery offenses
 
 Section 666(c) of title 18, United States Code, is amended—
 
 - **(1)** by striking “This section does not apply to”; and
 - **(2)** by inserting “The term “anything of value” that is corruptly solicited, demanded, accepted or agreed to be accepted in subsection (a)(1)(B) or corruptly given, offered, or agreed to be given in subsection (a)(2) shall not include”, before “bona fide salary”.
 
-## § 19. Certifications regarding appeals by United States
+## § 17. Certifications regarding appeals by United States
 
 Section 3731 of title 18, United States Code, is amended by inserting after “United States attorney” the following: “, Deputy Attorney General, Assistant Attorney General, or the Attorney General”.

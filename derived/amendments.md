@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2572
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-42 amendatory instructions. 0 executed, 42 stated and not applied.
+36 amendatory instructions. 0 executed, 36 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,35 +31,29 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Sections 1341 and 1343 of title 18, United States Code, are each amended by striking “money or property” and inserting “money, property, or any other thing of value”. | the bill names no machine-readable US Code section |
 | — | insert | Section 3237(a) of title 18, United States Code, is amended by inserting after “begun, continued, or completed” the following: “or in any district in which an act in furtherance of an offense is committed”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “10 years” and inserting “20 years”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “$5,000” each place it appears and inserting “$1,000”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “$5,000” the second place and the third place it appears and inserting “$1,000”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “anything of value” each place it appears and inserting “any thing or things of value”; and | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1)(B), by inserting after “any thing” the following: “or things”. | the bill names no machine-readable US Code section |
-| — | replace | Section 641 of title 18, United States Code, is amended by striking “ten years” and inserting “20 years”. | the bill names no machine-readable US Code section |
+| — | replace | Section 641 of title 18, United States Code, is amended by striking “ten years” and inserting “15 years”. | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (3), by striking the period at the end; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “fifteen years” and inserting “20 years”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “two years” and inserting “five years”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “anything of value” each place it appears and inserting “any thing or things of value”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “anything of value” each place it appears and inserting “any thing or things of value of not less than $1,000”. | the bill names no machine-readable US Code section |
 | — | insert | Section 641 of title 18, United States Code, is amended by inserting “the District of Columbia or” before “the United States” each place such term appears. | the bill names no machine-readable US Code section |
 | — | insert | Subparagraphs (A) and (B) of section 201(c)(1) of title 18, United States Code, are each amended by inserting “the official’s or person’s official position or” before “any official act”. | the bill names no machine-readable US Code section |
 | — | amend | Section 201(a)(3) of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 213 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of chapter 213 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | replace | Section 602(a)(4) of title 18, United States Code, is amended by striking “3 years” and inserting “10 years”. | the bill names no machine-readable US Code section |
-| — | replace | Section 600 of title 18, United States Code, is amended by striking “one year” and inserting “10 years”. | the bill names no machine-readable US Code section |
-| — | replace | Section 601(a) of title 18, United States Code, is amended by striking “one year” and inserting “10 years”. | the bill names no machine-readable US Code section |
-| — | replace | Section 606 of title 18, United States Code, is amended by striking “three years” and inserting “10 years”. | the bill names no machine-readable US Code section |
-| — | replace | Section 607(a)(2) of title 18, United States Code, is amended by striking “3 years” and inserting “10 years”. | the bill names no machine-readable US Code section |
-| — | replace | Section 610 of title 18, United States Code, is amended by striking “three years” and inserting “10 years”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “section 641 (relating to embezzlement or theft of public money, property, or records),” after “473 (relating to counterfeiting),”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting “section 666 (relating to theft or bribery concerning programs receiving Federal funds),” after “section 664 (relating to embezzlement from pension and welfare funds),”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “section 1031 (relating to major fraud against the United States)” after “section 1029 (relating to fraud and related activity in connection with access devices),” . | the bill names no machine-readable US Code section |
-| — | strike | by striking “section 641 (relating to public money, property, or records),”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “section 666 (relating to theft or bribery concerning programs receiving Federal funds),”. | the bill names no machine-readable US Code section |
+| — | replace | Section 602(a)(4) of title 18, United States Code, is amended by striking “3 years” and inserting “5 years”. | the bill names no machine-readable US Code section |
+| — | replace | Section 600 of title 18, United States Code, is amended by striking “one year” and inserting “3 years”. | the bill names no machine-readable US Code section |
+| — | replace | Section 601(a) of title 18, United States Code, is amended by striking “one year” and inserting “3 years”. | the bill names no machine-readable US Code section |
+| — | replace | Section 606 of title 18, United States Code, is amended by striking “three years” and inserting “5 years”. | the bill names no machine-readable US Code section |
+| — | replace | Section 607(a)(2) of title 18, United States Code, is amended by striking “3 years” and inserting “5 years”. | the bill names no machine-readable US Code section |
+| — | replace | Section 610 of title 18, United States Code, is amended by striking “three years” and inserting “5 years”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting “section 641 (relating to embezzlement or theft of public money, property, or records), section 666 (relating to theft or bribery concerning programs receiving Federal funds),” after “section 224 (bribery in sporting contest… | the bill names no machine-readable US Code section |
 | — | insert | by inserting “section 1031 (relating to major fraud against the United States)” after “section 1014 (relating to loans and credit applications generally; renewals and discounts),”. | the bill names no machine-readable US Code section |
 | — | amend | Section 1512(i) of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
