@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 41
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 41
@@ -16,7 +16,7 @@ A joint resolution expressing the sense of Congress regarding the nuclear progra
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
-## Cosponsors (77)
+## Cosponsors (83)
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
@@ -95,9 +95,22 @@ A joint resolution expressing the sense of Congress regarding the nuclear progra
 - Sen. Shelby, Richard C. [R-AL] (S000320)
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Kerry, John F. [D-MA] (K000148)
+
+## Recorded votes (1)
+
+- 2012-09-22 — [Senate 112-2-197](votes/senate-112-2-0197.md) — On the Joint Resolution — **Joint Resolution Passed** (90–1)
 
 ## Actions
 
 - 2012-05-24 — Introduced in Senate
 - 2012-05-24 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2012-06-04 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 418.
+- 2012-09-22 — Measure laid before Senate by unanimous consent. (consideration: CR 9/21/2012 S6601-6603)
+- 2012-09-22 — Passed Senate without amendment and with a preamble by Yea-Nay Vote. 90 - 1. Record Vote Number: 197. (text: CR 9/21/2012 S6602-6603)
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate without amendment and with a preamble by Yea-Nay Vote. 90 - 1. Record Vote Number: 197.(text: CR 9/21/2012 S6602-6603)
