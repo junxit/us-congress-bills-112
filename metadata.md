@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 558
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 558
@@ -16,6 +16,10 @@ A resolution congratulating the athletes from the State of Nevada and throughout
 
 - Sen. Reid, Harry [D-NV] (R000146)
 
+## Cosponsors (1)
+
+- Sen. Heller, Dean [R-NV] (H001041)
+
 ## Committees (1)
 
 - Senate — Commerce, Science, and Transportation Committee
@@ -24,3 +28,7 @@ A resolution congratulating the athletes from the State of Nevada and throughout
 
 - 2012-09-13 — Introduced in Senate
 - 2012-09-13 — Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S6346)
+- 2012-09-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 9/21/2012 S6678)
+- 2012-09-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 9/21/2012 S6678)
+- 2012-09-22 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR 9/21/2012 S6676-6677, S6678)
+- 2012-09-22 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR 9/21/2012 S6676-6677, S6678)
