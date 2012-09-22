@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 561
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 561
@@ -38,3 +38,7 @@ A resolution recognizing National Native American Heritage Month and celebrating
 - 2012-09-19 — Introduced in Senate
 - 2012-09-19 — Referred to the Committee on Indian Affairs. (text of measure as introduced: CR S6464)
 - 2012-09-19 — Sponsor introductory remarks on measure. (CR S6464-6465)
+- 2012-09-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 9/21/2012 S6679)
+- 2012-09-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 9/21/2012 S6679)
+- 2012-09-22 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR 9/21/2012 S6679)
+- 2012-09-22 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR 9/21/2012 S6679)
