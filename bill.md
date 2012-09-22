@@ -15,7 +15,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas Operation Enduring Freedom, launched in response to the terrorist attacks committed against the United States on September 11, 2001, targeted al-Qaida and the Taliban protectors of al-Qaida in Afghanistan;
 - Whereas Operation Enduring Freedom is the longest ongoing war in which the United States is involved;
 - Whereas the wounded warriors who have served in Operation Enduring Freedom carry the scars of war, both seen and unseen;
-- Whereas nearly 1,800 patriots in the United States Armed Forces have made the ultimate sacrifice while serving in Afghanistan;
+- Whereas some 2,000 patriots in the United States Armed Forces have made the ultimate sacrifice while serving in Afghanistan;
 - Whereas the war in Afghanistan should not fade from the hearts and minds of the people of the United States; and
 - Whereas the ongoing sacrifices made by the men and women of the Armed Forces should be recognized and honored: Now, therefore, be it
 
