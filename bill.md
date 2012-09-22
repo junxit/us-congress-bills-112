@@ -13,55 +13,31 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - Whereas Ukraine has experienced encouraging growth and reforms since it declared its independence from the former Soviet Union in 1991 and adopted its first constitution in 1996;
 - Whereas the 1996 constitution provided basic freedoms like the freedom of speech, assembly, religion, and press, but was ultimately too weak to contain the existing corruption-laced political culture inherited from its communist past;
-- Whereas, as a result of the electoral fraud by which Mr. Yanukovych was declared the winner, the citizens of the Ukraine organized a series of protests, strikes, and sit-ins, which came to be known as The Orange Revolution;
-- Whereas the Orange Revolution, in concert with United States and international pressure, forced the Supreme Court of Ukraine to require an unprecedented second run-off election, which resulted in opposition leader Mr. Yushchenko defeating Mr. Yanukovych by a margin of 52 percent to 44 percent;
-- Whereas, in the 2010 presidential election, incumbent Yushchenko won only 5.5 percent in the first round of voting, which left former Prime Minister Yanukovych and then Prime Minister Yulia Tymoshenko to face one another in the run-off election;
-- Whereas, Mr. Yanukovych defeated Ms. Tymoshenko by a margin of 49 percent to 44 percent;
-- Whereas, shortly after the 2010 inauguration of Mr. Yanukovych, the Ukrainian Constitutional Court found most of the 2004 Orange Revolution inspired constitutional reforms unconstitutional;
-- Whereas, in 2010, President Yanukovych appointed Viktor Pshonka Prosecutor General, equivalent to the United States Attorney General;
-- Whereas, since Mr. Pshonka’s appointment, more than a dozen political leaders associated with the 2004 Orange Revolution have faced criminal charges under the Abuse of Office and Exceeding Official Powers articles of the Ukrainian Criminal Code;
-- Whereas, in 2011, Prosecutor General Pshonka brought charges under these Abuse of Office articles against former Prime Minister Yulia Tymoshenko over her decision while in office to conclude a natural gas contract between Ukraine and Russia;
-- Whereas, on October 11, 2011, Tymoshenko was found guilty and sentenced to seven years in prison, fined $189,000,000, and banned from holding public office for three years;
-- Whereas, recognizing the judicial abuses present in Ukraine, the Parliamentary Assembly Council of Europe (PACE) passed Resolution 1862 on January 26, 2012;
-- Whereas Resolution 1862 declared that the Abuse of Office and Exceeding Official Powers articles under which Tymoshenko was convicted are “overly broad in application and effectively allow for ex post facto criminalization of normal political decision making”;
-- Whereas, since Ms. Tymoshenko’s imprisonment, the Prosecutor General’s Office has reopened additional cases against her that were previously closed and thought to be sealed under a ten-year statute of limitations;
-- Whereas, on October 28, 2011, the Ukrainian Deputy Prosecutor General alleged in a television interview that Ms. Tymoshenko was involved in contract killings, tax evasion, bribery, and embezzlement;
-- Whereas, at the time of the Deputy Prosecutor’s public allegations, no formal charges were filed, thereby violating Ms. Tymoshenko’s right to “presumed innocence” guaranteed by Article 6(2) of the European Convention on Human Rights;
-- Whereas, since August 5, 2011, Ms. Tymoshenko has languished in a prison cell in Ukraine with limited outside contact and access to needed medical treatment;
-- Whereas the denial of proper medical assistance has left Ms. Tymoshenko in a failing state of health;
-- Whereas international calls for Ms. Tymoshenko’s release, access to outside visitors, and adequate medical treatment have been ignored even as her health continues to deteriorate;
-- Whereas, on April 28, 2012, major international news organizations, including the British Broadcast Corporation and Reuters, reported on and produced photos of bruises received by Ms. Tymoshenko during an apparent beating by prison guards on April 20, 2012;
-- Whereas, in response to her inhumane treatment, Ms. Tymoshenko began a hunger strike on April 20, 2012;
-- Whereas, amid international outrage, the European Union has delayed indefinitely the signing of a free trade agreement with Ukraine, and the member countries of the Organization for Security and Co-operation in Europe currently are deliberating whether to allow Ukraine to assume the chairmanship of the organization, which has been scheduled for 2013; and
-- Whereas, under international pressure, Ms. Tymoshenko was moved to a hospital in Kharkiv on May 9, 2012, prompting her to end her hunger strike: Now, therefore, be it
-- Whereas Ukraine has experienced encouraging growth and reforms since it declared its independence from the former Soviet Union in 1991 and adopted its first constitution in 1996;
-- Whereas the 1996 constitution provided basic freedoms like the freedom of speech, assembly, religion, and press, but was ultimately too weak to contain the existing corruption-laced political culture inherited from its communist past;
-- Whereas, as a result of the electoral fraud by which Prime Minister Viktor Yanukovych was declared the winner of the 2004 presidential election, the citizens of the Ukraine organized a series of protests, strikes, and sit-ins, which came to be known as “The Orange Revolution”;
+- Whereas as a result of the electoral fraud by which Prime Minister Viktor Yanukovych was declared the winner of the 2004 presidential election, the citizens of the Ukraine organized a series of protests, strikes, and sit-ins, which came to be known as “The Orange Revolution”;
 - Whereas the Orange Revolution, in concert with international pressure, forced an unprecedented second run-off election, which resulted in opposition leader Viktor Yushchenko defeating Mr. Yanukovych by a margin of 52 percent to 44 percent;
-- Whereas, in the 2010 presidential election, incumbent Yushchenko won only 5.5 percent in the first round of voting, which left former Prime Minister Yanukovych and then Prime Minister Yulia Tymoshenko to face one another in the run-off election;
-- Whereas, Mr. Yanukovych defeated Ms. Tymoshenko by a margin of 49 percent to 44 percent;
-- Whereas, shortly after the 2010 inauguration of Mr. Yanukovych, the Ukrainian Constitutional Court found most of the 2004 Orange Revolution inspired constitutional reforms unconstitutional;
-- Whereas, in 2010, President Yanukovych appointed Viktor Pshonka Prosecutor General;
-- Whereas, since Mr. Pshonka’s appointment, more than a dozen political leaders associated with the 2004 Orange Revolution have faced criminal charges under the Abuse of Office and Exceeding Official Powers articles of the Ukrainian Criminal Code;
-- Whereas, in 2011, Prosecutor General Pshonka brought charges under these Abuse of Office articles against former Prime Minister Yulia Tymoshenko over her decision while in office to conclude a natural gas contract between Ukraine and Russia;
-- Whereas, on October 11, 2011, Ms. Tymoshenko was found guilty and sentenced to seven years in prison, fined $189,000,000, and banned from holding public office for three years following the completion of her sentence;
-- Whereas, recognizing the judicial abuses present in Ukraine, the Parliamentary Assembly Council of Europe (PACE) passed Resolution 1862 on January 26, 2012;
+- Whereas in the 2010 presidential election, incumbent Yushchenko won only 5.5 percent in the first round of voting, which left former Prime Minister Yanukovych and then Prime Minister Yulia Tymoshenko to face one another in the run-off election;
+- Whereas Mr. Yanukovych defeated Ms. Tymoshenko by a margin of 49 percent to 44 percent;
+- Whereas shortly after the 2010 inauguration of Mr. Yanukovych, the Ukrainian Constitutional Court found most of the 2004 Orange Revolution inspired constitutional reforms unconstitutional;
+- Whereas in 2010, President Yanukovych appointed Viktor Pshonka Prosecutor General;
+- Whereas since Mr. Pshonka’s appointment, more than a dozen political leaders associated with the 2004 Orange Revolution have faced criminal charges under the Abuse of Office and Exceeding Official Powers articles of the Ukrainian Criminal Code;
+- Whereas in 2011, Prosecutor General Pshonka brought charges under these Abuse of Office articles against former Prime Minister Yulia Tymoshenko over her decision while in office to conclude a natural gas contract between Ukraine and Russia;
+- Whereas on October 11, 2011, Ms. Tymoshenko was found guilty and sentenced to seven years in prison, fined $189,000,000, and banned from holding public office for three years following the completion of her sentence;
+- Whereas recognizing the judicial abuses present in Ukraine, the Parliamentary Assembly Council of Europe (PACE) passed Resolution 1862 on January 26, 2012;
 - Whereas Resolution 1862 declared that the Abuse of Office and Exceeding Official Powers articles under which Ms. Tymoshenko was convicted are “overly broad in application and effectively allow for ex post facto criminalization of normal political decision making”;
-- Whereas, since Ms. Tymoshenko’s imprisonment, the Prosecutor General’s Office has reopened additional cases against her that were previously closed and thought to be sealed under a 10-year statute of limitations;
-- Whereas, beginning on October 28, 2011, and multiple times since, Ukrainian Deputy Prosecutor General Renat Kuzmin has alleged in television interviews that Tymoshenko was involved in contract killings, but has filed no formal charges;
-- Whereas, for much of Ms. Tymoshenko’s detention, she had limited outside contact and access to needed medical treatment;
+- Whereas since Ms. Tymoshenko’s imprisonment, the Prosecutor General’s Office has reopened additional cases against her that were previously closed and thought to be sealed under a 10-year statute of limitations;
+- Whereas beginning on October 28, 2011, and multiple times since, Ukrainian Deputy Prosecutor General Renat Kuzmin has alleged in television interviews that Tymoshenko was involved in contract killings, but has filed no formal charges;
+- Whereas for much of Ms. Tymoshenko’s detention, she had limited outside contact and access to needed medical treatment;
 - Whereas international calls for Ms. Tymoshenko’s release, access to outside visitors, and adequate medical treatment were initially ignored even as her health continued to deteriorate;
-- Whereas, on April 28, 2012, major international news organizations, including the British Broadcast Corporation and Reuters, reported on and produced photos of bruises allegedly received by Ms. Tymoshenko from prison guards on April 20, 2012;
-- Whereas, in response to her inhumane treatment, Ms. Tymoshenko began a hunger strike on April 20, 2012;
-- Whereas, amid international outrage, the European Union has delayed indefinitely the signing of a free trade agreement with Ukraine;
-- Whereas, under international pressure, Ms. Tymoshenko was moved to a hospital in Kharkiv on May 9, 2012, prompting her to end her hunger strike, yet leaving her in poor health; and
+- Whereas on April 28, 2012, major international news organizations, including the British Broadcast Corporation and Reuters, reported on and produced photos of bruises allegedly received by Ms. Tymoshenko from prison guards on April 20, 2012;
+- Whereas in response to her inhumane treatment, Ms. Tymoshenko began a hunger strike on April 20, 2012;
+- Whereas amid international outrage, the European Union has delayed indefinitely the signing of a free trade agreement with Ukraine;
+- Whereas under international pressure, Ms. Tymoshenko was moved to a hospital in Kharkiv on May 9, 2012, prompting her to end her hunger strike, yet leaving her in poor health; and
 - Whereas on May 30, 2012, the European Parliament passed a resolution (C153/21) deploring the sentencing of Ms. Tymoshenko: Now, therefore, be it
 
 That the Senate—
 
-- **(1)** condemns the administration of President Viktor Yanukovych for the politically motivated imprisonment of former Prime Minister Yulia Tymoshenko;
-- **(2)** calls on the Yanukovych administration to release Ms. Tymoshenko immediately for medical reasons;
-- **(3)** urges the Organization for Security and Cooperation in Europe not to recognize Ukraine’s scheduled 2013 chairmanship of the Organization until the release of Ms. Tymoshenko;
-- **(4)** urges the Department of State to withdraw the United States Ambassador to the Ukraine and suspend operations at the United States Embassy in Kiev until the release of Ms. Tymoshenko;
-- **(5)** calls on the Department of State to institute a visa ban against President Yanukovych, Prosecutor General Viktor Pshonka, and other officials responsible for Ms. Tymoshenko’s imprisonment; and
-- **(6)** calls on the North Atlantic Treaty Organization to suspend all cooperative agreements with Ukraine and place Ukraine on indefinite probation with regard to its Distinctive Partnership with the Organization until the release of Ms. Tymoshenko.
+- **(1)** condemns the selective and politically motivated prosecution and imprisonment of former Prime Minister Yulia Tymoshenko;
+- **(2)** expresses its deep concern that the politicized nature of prosecutions and detention of Ms. Tymoshenko and other members of her party took place in a country that is scheduled to assume chairmanship of the Organization for Security and Cooperation in Europe (OSCE) in 2013;
+- **(3)** expresses its deep concern that the politicized detention of Ms. Tymoshenko threatens to jeopardize ties between the United States and Ukraine;
+- **(4)** calls for the Government of Ukraine to release Ms. Tymoshenko from her current incarceration based on politicized charges, to provide Ms. Tymoshenko with timely access to medical care, and to conduct the October parliamentary elections in a fair and transparent manner consistent with OSCE standards; and
+- **(5)** calls on the Department of State to institute a visa ban against those responsible for the imprisonment and mistreatment of Ms. Tymoshenko and the more than dozen political leaders associated with the 2004 Orange Revolution.
