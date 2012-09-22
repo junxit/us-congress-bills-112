@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 555
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 555
@@ -29,3 +29,7 @@ A resolution supporting the goals and ideals of "National Save for Retirement We
 
 - 2012-09-13 — Introduced in Senate
 - 2012-09-13 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S6345)
+- 2012-09-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR 9/21/2012 S6679)
+- 2012-09-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 9/21/2012 S6679)
+- 2012-09-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR 9/21/2012 S6678-6679)
+- 2012-09-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR 9/21/2012 S6678-6679)
