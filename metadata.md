@@ -1,7 +1,7 @@
 ---
 measure: S. 3486
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3486
@@ -34,3 +34,5 @@ Patent Law Treaties Implementation Act of 2012
 - 2012-09-20 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2012-09-20 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2012-09-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 532.
+- 2012-09-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR 9/21/2012 S6667-6670; text as passed Senate: CR 9/21/2012 S6667-6670)
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR 9/21/2012 S6667-6670; text as passed Senate: CR 9/21/2012 S6667-6670)
