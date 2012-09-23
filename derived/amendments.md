@@ -1,7 +1,7 @@
 ---
 measure: H.R. 915
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 915
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 915
@@ -27,9 +27,10 @@ Jaime Zapata Border Enforcement Security Task Force Act
 - House — Homeland Security Committee
 - Senate — Homeland Security and Governmental Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2012-05-30 — [House 112-2-296](votes/house-112-2-0296.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (391–2)
+- 2012-11-27 — [House 112-2-610](votes/house-112-2-0610.md) — On motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (397–4)
 
 ## Actions
 
@@ -59,3 +60,17 @@ Jaime Zapata Border Enforcement Security Task Force Act
 - 2012-08-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 497.
 - 2012-09-22 — Passed Senate with an amendment by Voice Vote. (consideration: CR 9/21/2012 S6664-6665; text as passed Senate: CR S6664-6665)
 - 2012-09-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR 9/21/2012 S6664-6665; text as passed Senate: CR S6664-6665)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-11-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2012-11-27 — Considered as unfinished business. (consideration: CR H6437-6439, H6443-6444)
+- 2012-11-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 915.
+- 2012-11-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-11-27 — Mr. McCaul moved that the House suspend the rules and agree to the Senate amendment.
+- 2012-11-27 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 397 - 4 (Roll no. 610). (text as House agreed to Senate amendment: CR H6437)
+- 2012-11-27 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 397 - 4 (Roll no. 610).(text as House agreed to Senate amendment: CR H6437)
+- 2012-11-30 — Presented to President.
+- 2012-11-30 — Presented to President.
+- 2012-12-07 — Became Public Law No: 112-205.
+- 2012-12-07 — Became Public Law No: 112-205.
+- 2012-12-07 — Signed by President.
+- 2012-12-07 — Signed by President.
