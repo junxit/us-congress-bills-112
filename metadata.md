@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2453
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2453
@@ -322,9 +322,10 @@ Mark Twain Commemorative Coin Act
 - House — Financial Services Committee
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2012-04-18 — [House 112-2-171](votes/house-112-2-0171.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (408–4)
+- 2012-11-15 — [House 112-2-607](votes/house-112-2-0607.md) — On Motion to Suspend the Rules and Concur in the Senate Amendments — **Passed** (370–19)
 
 ## Actions
 
@@ -351,3 +352,16 @@ Mark Twain Commemorative Coin Act
 - 2012-09-22 — Senate amendment agreed to: Amendment SA 2865 agreed to in Senate by Unanimous Consent.
 - 2012-09-22 — Senate amendment proposed (on the floor): Amendment SA 2865 proposed by Senator Pryor for Senator Blumenthal.(consideration: CR 9/21/2012 S6671; text: CR 9/21/2012 S6671)
 - 2012-09-22 — Senate amendment submitted
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-11-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2012-11-14 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 2453.
+- 2012-11-14 — Mr. Luetkemeyer moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H6352-6353)
+- 2012-11-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-11-15 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 370 - 19 (Roll no. 607). (consideration: CR H6390-6391; text as House agreed to Senate amendment: CR 11/14/2012 H6352)
+- 2012-11-15 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 370 - 19 (Roll no. 607).(consideration: CR H6390-6391; text as House agreed to Senate amendment: CR 11/14/2012 H6352)
+- 2012-11-28 — Presented to President.
+- 2012-11-28 — Presented to President.
+- 2012-12-04 — Became Public Law No: 112-201.
+- 2012-12-04 — Became Public Law No: 112-201.
+- 2012-12-04 — Signed by President.
+- 2012-12-04 — Signed by President.
