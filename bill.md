@@ -15,15 +15,12 @@ This Act may be cited as the “GAO Mandates Revision Act of 2012”.
 
 ## § 2. Repeals and modifications
 
-- **(a)** *Capitol Preservation Fund financial statements* Section 804 of the Arizona-Idaho Conservation Act of 1988 (2 U.S.C. 2084) is amended by striking “annual audits of the transactions of the Commission” and inserting “periodic audits of the transactions of the Commission, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Committee on House Administration of the House of Representatives requests that an audit be conducted at an earlier date,”.
+- **(a)** *Capitol Preservation Fund financial statements* Section 804 of the Arizona-Idaho Conservation Act of 1988 (2 U.S.C. 2084) is amended by striking “annual audits of the transactions of the Commission” and inserting “periodic audits of the transactions of the Commission, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Committee on House Administration of the House of Representatives, the Secretary of the Senate, or the Clerk of the House of Representatives requests that an audit be conducted at an earlier date,”.
 - **(b)** *Judicial Survivors’ Annuities Fund audit by GAO*
   - **(1)** *In general* Section 376 of title 28, United States Code, is amended—
     - **(A)** by striking subsection (w); and
     - **(B)** by redesignating subsections (x) and (y) as subsections (w) and (x), respectively.
   - **(2)** *Technical and conforming amendment* Section 376(h)(2) of title 28, United States Code, is amended by striking “subsection (x)” and inserting “subsection (w)”.
-- **(c)** *ONDCP annual report requirement* Section 203 of the Office of National Drug Control Policy Reauthorization Act of 2006 (21 U.S.C. 1708a) is amended—
-  - **(1)** by striking “(a) In General.—”; and
-  - **(2)** by striking subsection (b).
 - **(c)** *ONDCP annual report requirement* Section 203 of the Office of National Drug Control Policy Reauthorization Act of 2006 (21 U.S.C. 1708a) is amended—
   - **(1)** in subsection (a), by striking “of each year” and inserting “, 2013, and every 3 years thereafter,”; and
   - **(2)** in subsection (b), in the matter preceding paragraph (1), by striking “at a frequency of not less than once per year—” and inserting “not later than December 31, 2013, and every 3 years thereafter—”.
@@ -38,4 +35,4 @@ This Act may be cited as the “GAO Mandates Revision Act of 2012”.
   - **(1)** in paragraph (1), by striking “of paragraph (2) of this subsection” and inserting “of section 3515 of title 31”;
   - **(2)** in paragraph (1), by striking “(1)”; and
   - **(3)** by striking paragraph (2).
-- **(h)** *Senate Preservation Fund audits* Section 3(c)(6) of the Legislative Branch Appropriations Act, 2004 (2 U.S.C. 2108(c)(6)) is amended by striking “annual audits of the Senate Preservation Fund” and inserting “periodic audits of the Senate Preservation Fund, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate requests that an audit be conducted at an earlier date,”.
+- **(h)** *Senate Preservation Fund audits* Section 3(c)(6) of the Legislative Branch Appropriations Act, 2004 (2 U.S.C. 2108(c)(6)) is amended by striking “annual audits of the Senate Preservation Fund” and inserting “periodic audits of the Senate Preservation Fund, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Secretary of the Senate requests that an audit be conducted at an earlier date,”.

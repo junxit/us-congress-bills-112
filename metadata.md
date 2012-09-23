@@ -1,7 +1,7 @@
 ---
 measure: S. 3315
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3315
@@ -33,3 +33,12 @@ GAO Mandates Revision Act of 2012
 - 2012-09-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 112-219.
 - 2012-09-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 112-219.
 - 2012-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 523.
+- 2012-09-22 — Amendment SA 2866 agreed to in Senate by Unanimous Consent.
+- 2012-09-22 — Amendment SA 2866 proposed by Senator Pryor for Senator Lieberman. (consideration: CR 9/21/2012 S6672; text: CR 9/21/2012 S6672) To improve the bill.
+- 2012-09-22 — Measure laid before Senate by unanimous consent. (consideration: CR 9/21/2012 S6671-6672; text of measure as reported in Senate: CR 9/21/2012 S6672)
+- 2012-09-22 — Passed Senate with amendments by Unanimous Consent. (text: CR 9/21/2012 S6672)
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR 9/21/2012 S6672)
+- 2012-09-22 — Senate amendment agreed to: Amendment SA 2866 agreed to in Senate by Unanimous Consent.
+- 2012-09-22 — Senate amendment proposed (on the floor): Amendment SA 2866 proposed by Senator Pryor for Senator Lieberman.(consideration: CR 9/21/2012 S6672; text: CR 9/21/2012 S6672)
+- 2012-09-22 — Senate amendment submitted
+- 2012-09-22 — The committee reported amendment was agreed to by Unanimous Consent.

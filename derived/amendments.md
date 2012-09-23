@@ -1,7 +1,7 @@
 ---
 measure: S. 3315
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 0 executed, 17 stated and not applied.
+15 amendatory instructions. 0 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,8 +35,6 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subsection (w); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (x) and (y) as subsections (w) and (x), respectively. | the bill names no machine-readable US Code section |
 | — | replace | Section 376(h)(2) of title 28, United States Code, is amended by striking “subsection (x)” and inserting “subsection (w)”. | the bill names no machine-readable US Code section |
-| — | strike | by striking “(a) In General.—”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking subsection (b). | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “of each year” and inserting “, 2013, and every 3 years thereafter,”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), in the matter preceding paragraph (1), by striking “at a frequency of not less than once per year—” and inserting “not later than December 31, 2013, and every 3 years thereafter—”. | the bill names no machine-readable US Code section |
 | — | strike | Section 105(g)(1) of the Veterans’ Benefits Act of 2010 (Public Law 111–275; 38 U.S.C. 4301 note) is amended by striking “, and annually thereafter during the period when the demonstration project is conducted,”. | the bill names no machine-readable US Code section |
