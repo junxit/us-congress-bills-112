@@ -1,7 +1,7 @@
 ---
 measure: S. 3193
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3193
@@ -34,3 +34,11 @@ Barona Band of Mission Indians Land Transfer Clarification Act of 2012
 - 2012-08-28 — Committee on Indian Affairs. Reported by Senator Akaka under authority of the order of the Senate of 08/02/2012 without amendment. With written report No. 112-207.
 - 2012-08-28 — Committee on Indian Affairs. Reported by Senator Akaka under authority of the order of the Senate of 08/02/2012 without amendment. With written report No. 112-207.
 - 2012-08-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 498.
+- 2012-09-22 — Amendment SA 2864 agreed to in Senate by Unanimous Consent.
+- 2012-09-22 — Amendment SA 2864 proposed by Senator Pryor for Senator Akaka. (consideration: CR 9/21/2012 S6670; text: CR 9/21/2012 S6670) In the nature of a substitute.
+- 2012-09-22 — Measure laid before Senate by unanimous consent. (consideration: CR 9/21/2012 S6670)
+- 2012-09-22 — Passed Senate with an amendment by Unanimous Consent.
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2012-09-22 — Senate amendment agreed to: Amendment SA 2864 agreed to in Senate by Unanimous Consent.
+- 2012-09-22 — Senate amendment proposed (on the floor): Amendment SA 2864 proposed by Senator Pryor for Senator Akaka.(consideration: CR 9/21/2012 S6670; text: CR 9/21/2012 S6670)
+- 2012-09-22 — Senate amendment submitted

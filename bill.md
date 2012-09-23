@@ -29,7 +29,13 @@ This Act may be cited as the “Barona Band of Mission Indians Land Transfer Cla
 Section 121 of the Native American Technical Corrections Act of 2004 (Public Law 108–204; 118 Stat. 544) is amended—
 
 - **(1)** by striking subsection (b) and inserting the following:
-  > - **(b)** *Description of land* The land referred to in subsection (a) is land comprising approximately 86.87 acres in San Diego County, California, and described more particularly as follows: T. 14 S., R. 1 E. San Bernardino Meridian; Section 21, SW¼ SW¼, excepting the north 475 ft.; W½ SE¼ SW¼, excepting the north 475 ft.; E½ SE¼ SW¼, excepting the north 350 ft.; Together with that portion W½ SE¼, lying southwesterly of the following line: Beginning at the intersection of the southerly line of said SE¼ Section 21 with the westerly boundary of Rancho Canada De San Vicente Y Mesa Del Padre Barona as shown on United States Government Resurvey approved January 21, 1939; thence northwesterly along said boundary to an intersection with the westerly line of said SE¼; containing 68.75 acres more or less; Section 28, NW¼ NW¼, excepting the east 750 ft.; containing 17.02 acres more or less.
+  > - **(b)** *Description of land* The land referred to in subsection (a) is land comprising approximately 86.87 acres in T. 14 S., R. 1 E., San Bernardino Meridian, San Diego County, California, and described more particularly as follows:
+  >   - **(1)** The approximately 69.85 acres located in Section 21 and described as—
+  >     - **(A)** SW¼ SW¼, excepting the north 475 feet;
+  >     - **(B)** W½ SE¼ SW¼, excepting the north 475 feet;
+  >     - **(C)** E½ SE¼ SW¼, excepting the north 350 feet; and
+  >     - **(D)** the portion of W½ SE¼ that lies southwesterly of the following line: Beginning at the intersection of the southerly line of said SE¼ of Section 21 with the westerly boundary of Rancho Canada De San Vicente Y Mesa Del Padre Barona as shown on United States Government Resurvey approved January 21, 1939, and thence northwesterly along said boundary to an intersection with the westerly line of said SE¼.
+  >   - **(2)** The approximately 17.02 acres located in Section 28 and described as NW¼ NW¼, excepting the east 750 feet.
 
 - **(2)** by adding at the end the following:
   > - **(d)** *Clarifications*
