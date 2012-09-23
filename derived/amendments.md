@@ -1,7 +1,7 @@
 ---
 measure: S. 3625
 congress: 112
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
