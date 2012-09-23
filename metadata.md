@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2606
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2606
@@ -59,3 +59,15 @@ New York City Natural Gas Supply Enhancement Act
 - 2012-09-22 — Senate amendment agreed to: Amendment SA 2869 agreed to in Senate by Unanimous Consent.
 - 2012-09-22 — Senate amendment proposed (on the floor): Amendment SA 2869 proposed by Senator Pryor for Senator Bingaman.(consideration: CR 9/21/2012 S6674-6675; text: CR 9/21/2012 S6674-6675)
 - 2012-09-22 — Senate amendment submitted
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-11-14 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 2606.
+- 2012-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-11-14 — Mr. Amodei moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H6350-6351)
+- 2012-11-14 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H6350)
+- 2012-11-14 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H6350)
+- 2012-11-16 — Presented to President.
+- 2012-11-16 — Presented to President.
+- 2012-11-27 — Became Public Law No: 112-197.
+- 2012-11-27 — Became Public Law No: 112-197.
+- 2012-11-27 — Signed by President.
+- 2012-11-27 — Signed by President.

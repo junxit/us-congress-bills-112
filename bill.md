@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2606
-congress: 112th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2606
 
-That the bill from the House of Representatives (H.R. 2606) entitled “An Act to authorize the Secretary of the Interior to allow the construction and operation of natural gas pipeline facilities in the Gateway National Recreation Area, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To authorize the Secretary of the Interior to allow the construction and operation of natural gas pipeline facilities in the Gateway National Recreation Area, and for other purposes.
 
 ## § 1. Short title
 
