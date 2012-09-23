@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 50
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 50
@@ -16,7 +16,7 @@ A concurrent resolution expressing the sense of Congress regarding actions to pr
 
 - Sen. Rubio, Marco [R-FL] (R000595)
 
-## Cosponsors (38)
+## Cosponsors (40)
 
 - Sen. McCaskill, Claire [D-MO] (M001170)
 - Sen. McCain, John [R-AZ] (M000303)
@@ -56,6 +56,8 @@ A concurrent resolution expressing the sense of Congress regarding actions to pr
 - Sen. Brown, Scott P. [R-MA] (B001268)
 - Sen. Coburn, Tom [R-OK] (C000560)
 - Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. McConnell, Mitch [R-KY] (M000355)
 
 ## Committees (1)
 
@@ -69,3 +71,5 @@ A concurrent resolution expressing the sense of Congress regarding actions to pr
 - 2012-09-19 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2012-09-19 — Committee on Foreign Relations. Reported by Senator Kerry without amendment and with a preamble. Without written report.
 - 2012-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 529.
+- 2012-09-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR 9/21/2012 S6667; text as passed Senate: CR 9/21/2012 S6667)
+- 2012-09-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR 9/21/2012 S6667; text as passed Senate: CR 9/21/2012 S6667)
