@@ -1,7 +1,7 @@
 ---
 measure: S. 3315
 congress: 112
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
