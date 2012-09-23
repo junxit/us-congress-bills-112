@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2453
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2453
@@ -341,3 +341,13 @@ Mark Twain Commemorative Coin Act
 - 2012-04-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 4, 2 Present (Roll no. 171). (text: CR 4/17/2012 H1824)
 - 2012-04-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 4, 2 Present (Roll no. 171).(text: CR 4/17/2012 H1824)
 - 2012-04-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2012-09-22 — Amendment SA 2865 agreed to in Senate by Unanimous Consent.
+- 2012-09-22 — Amendment SA 2865 proposed by Senator Pryor for Senator Blumenthal. (consideration: CR 9/21/2012 S6671; text: CR 9/21/2012 S6671) To improve the bill.
+- 2012-09-22 — Measure laid before Senate by unanimous consent. (consideration: CR 9/21/2012 S6671)
+- 2012-09-22 — Passed Senate with amendments by Unanimous Consent. (text: CR 9/21/2012 S6671)
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR 9/21/2012 S6671)
+- 2012-09-22 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2012-09-22 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2012-09-22 — Senate amendment agreed to: Amendment SA 2865 agreed to in Senate by Unanimous Consent.
+- 2012-09-22 — Senate amendment proposed (on the floor): Amendment SA 2865 proposed by Senator Pryor for Senator Blumenthal.(consideration: CR 9/21/2012 S6671; text: CR 9/21/2012 S6671)
+- 2012-09-22 — Senate amendment submitted
