@@ -1,7 +1,7 @@
 ---
 measure: S. 1956
 congress: 112
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1956
@@ -31,9 +31,10 @@ European Union Emissions Trading Scheme Prohibition Act of 2011
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Hagan, Kay R. [D-NC] (H001049)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -57,3 +58,18 @@ European Union Emissions Trading Scheme Prohibition Act of 2011
 - 2012-09-22 — Senate amendment submitted
 - 2012-09-22 — Senate amendment submitted
 - 2012-09-22 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Held at the desk.
+- 2012-09-25 — Received in the House.
+- 2012-11-13 — Considered under suspension of the rules. (consideration: CR H6330-6334)
+- 2012-11-13 — DEBATE - The House proceeded with forty minutes of debate on S. 1956.
+- 2012-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-11-13 — Mr. Mica moved to suspend the rules and pass the bill.
+- 2012-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6330-6331)
+- 2012-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6330-6331)
+- 2012-11-16 — Presented to President.
+- 2012-11-16 — Presented to President.
+- 2012-11-27 — Became Public Law No: 112-200.
+- 2012-11-27 — Became Public Law No: 112-200.
+- 2012-11-27 — Signed by President.
+- 2012-11-27 — Signed by President.
