@@ -13,26 +13,27 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “European Union Emissions Trading Scheme Prohibition Act of 2011”.
 
-## § 2. Findings
+## § 2. Prohibition on participation in the European Union's emissions trading scheme
 
-Congress finds the following:
+- **(a)** *In general* The Secretary of Transportation shall prohibit an operator of a civil aircraft of the United States from participating in the emissions trading scheme unilaterally established by the European Union in EU Directive 2003/87/EC of October 13, 2003, as amended, in any case in which the Secretary determines the prohibition to be, and in a manner that is, in the public interest, taking into account—
+  - **(1)** the impacts on U.S. consumers, U.S. carriers, and U.S. operators;
+  - **(2)** the impacts on the economic, energy, and environmental security of the United States; and
+  - **(3)** the impacts on U.S. foreign relations, including existing international commitments.
+- **(b)** *Public hearing* After determining that a prohibition under this section may be in the public interest, the Secretary must hold a public hearing at least 30 days before imposing any prohibition.
+- **(c)** *Reassessment of determination of public interest* The Secretary—
+  - **(1)** may reassess a determination under subsection (a) that a prohibition under that subsection is in the public interest at any time after making such a determination; and
+  - **(2)** shall reassess such a determination after—
+    - **(A)** any amendment by the European Union to the EU Directive referred to in subsection (a); or
+    - **(B)** the adoption of any international agreement pursuant to section 3(1).
+    - **(C)** enactment of a public law or issuance of a final rule after formal agency rulemaking, in the United State to address aircraft emissions.
 
-- **(1)** The European Union has unilaterally imposed an emissions trading scheme (in this section referred to as the ETS) on non-European Union aircraft flying to and from, as well as within, Europe.
-- **(2)** United States airlines and other United States aircraft operators will be required under the ETS to pay for European Union emissions allowances for aircraft operations within the United States, over other non-European Union countries, and in international airspace for flights serving the European Union.
-- **(3)** The European Union’s extraterritorial action is inconsistent with long-established international law and practice, including the Chicago Convention of 1944 and the Air Transport Agreement between the United States and the European Union and its member states, and directly infringes on the sovereignty of the United States.
-- **(4)** The European Union’s action undermines ongoing efforts at the International Civil Aviation Organization to develop a unified, worldwide approach to reducing aircraft greenhouse gas emissions and has generated unnecessary friction within the international civil aviation community as it endeavors to reduce such emissions.
-- **(5)** The European Union and its member states should instead work with other contracting states of the International Civil Aviation Organization to develop such an approach.
-- **(6)** There is no assurance that ETS revenues will be used for aviation environmental purposes by the European Union member states that will collect them.
-- **(7)** The United States Government expressed these and other serious objections relating to the ETS to representatives of the European Union and its member states during June 2011, but has not received satisfactory answers to those objections.
+## § 3. Negotiations
 
-## § 3. Prohibition on participation in the European Union’s emissions trading scheme
+- **(a)** *In general* The Secretary of Transportation, the Administrator of the Federal Aviation Administration, and other appropriate officials of the United States Government—
+  - **(1)** should, as appropriate, use their authority to conduct international negotiations, including using their authority to conduct international negotiations to pursue a worldwide approach to address aircraft emissions, including the environmental impact of aircraft emissions; and
+  - **(2)** shall, as appropriate and except as provided in subsection (b), take other actions under existing authorities that are in the public interest necessary to hold operators of civil aircraft of the United States harmless from the emissions trading scheme referred to under section 2.
+- **(b)** *Exclusion of payment of taxes and penalties* Actions taken under subsection (a)(2) may not include the obligation or expenditure of any amounts in the Airport and Airway Trust Fund established under section 9905 of the Internal Revenue Code of 1986, or amounts otherwise made available to the Department of Transportation or any other Federal agency pursuant to appropriations Acts, for the payment of any tax or penalty imposed on an operator of civil aircraft of the United States pursuant to the emissions trading scheme referred to under section 2.
 
-The Secretary of Transportation shall prohibit an operator of a civil aircraft of the United States from participating in any emissions trading scheme unilaterally established by the European Union in any case in which the Secretary determines the prohibition to be, and in a manner that is, in the public interest.
+## § 4. Definition of civil aircraft of the United States
 
-## § 4. Negotiations
-
-The Secretary of Transportation, the Administrator of the Federal Aviation Administration, and other appropriate officials of the United States Government shall, as appropriate, use their authority to conduct international negotiations and take other actions in the public interest to ensure that operators of civil aircraft of the United States are held harmless from any emissions trading scheme unilaterally established by the European Union.
-
-## § 5. Civil aircraft of the United States defined
-
-In this Act, the term civil aircraft of the United States has the meaning given that term under section 40102(a) of title 49, United States Code.
+In this Act, the term civil aircraft of the United States has the meaning given the term under section 40102(a) of title 49, United States Code.
