@@ -1,7 +1,7 @@
 ---
 measure: S. 3311
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3311
@@ -28,3 +28,5 @@ A bill to designate the United States courthouse located at 2601 2nd Avenue Nort
 - 2012-07-10 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2012-07-10 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2012-07-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 444.
+- 2012-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/21/2012 S6667; text as passed Senate: CR 9/21/2012 S6667)
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/21/2012 S6667; text as passed Senate: CR 9/21/2012 S6667)
