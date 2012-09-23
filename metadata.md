@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2838
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2838
@@ -20,10 +20,11 @@ Coast Guard and Maritime Transportation Act of 2012
 
 - Rep. Mica, John L. [R-FL-7] (M000689)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - Senate — Commerce, Science, and Transportation Committee
+- House — Homeland Security Committee
 
 ## Recorded votes (7)
 
@@ -161,3 +162,18 @@ Coast Guard and Maritime Transportation Act of 2012
 - 2011-11-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7608)
 - 2011-11-15 — The previous question was ordered pursuant to the rule. (consideration: CR H7607)
 - 2011-11-16 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2012-09-22 — Amendment SA 2867 agreed to in Senate by Unanimous Consent.
+- 2012-09-22 — Amendment SA 2867 proposed by Senator Pryor for Senator Rockefeller. (consideration: CR 9/21/2012 S6673) In the nature of a substitute.
+- 2012-09-22 — Amendment SA 2868 agreed to in Senate by Unanimous Consent.
+- 2012-09-22 — Amendment SA 2868 proposed by Senator Pryor for Senator Rockefeller. (consideration: CR 9/21/2012 S6673; text: CR 9/21/2012 S6673) To amend the title.
+- 2012-09-22 — Measure laid before Senate by unanimous consent. (consideration: CR 9/21/2012 S6673)
+- 2012-09-22 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2012-09-22 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2012-09-22 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2012-09-22 — Senate amendment agreed to: Amendment SA 2867 agreed to in Senate by Unanimous Consent.
+- 2012-09-22 — Senate amendment agreed to: Amendment SA 2868 agreed to in Senate by Unanimous Consent.
+- 2012-09-22 — Senate amendment proposed (on the floor): Amendment SA 2867 proposed by Senator Pryor for Senator Rockefeller.(consideration: CR 9/21/2012 S6673)
+- 2012-09-22 — Senate amendment proposed (on the floor): Amendment SA 2868 proposed by Senator Pryor for Senator Rockefeller.(consideration: CR 9/21/2012 S6673; text: CR 9/21/2012 S6673)
+- 2012-09-22 — Senate amendment submitted
+- 2012-09-22 — Senate amendment submitted
