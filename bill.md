@@ -2,12 +2,14 @@
 legis-num: H.R. 2606
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2606
 
-> To authorize the Secretary of the Interior to allow the construction and operation of natural gas pipeline facilities in the Gateway National Recreation Area, and for other purposes.
+That the bill from the House of Representatives (H.R. 2606) entitled “An Act to authorize the Secretary of the Interior to allow the construction and operation of natural gas pipeline facilities in the Gateway National Recreation Area, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -17,34 +19,25 @@ This Act may be cited as the “New York City Natural Gas Supply Enhancement Act
 
 In this Act:
 
-- **(1)** *Entity* The term entity means an entity holding a permit issued under this Act.
-- **(2)** *Lease* The term lease means an agreement that authorizes the occupancy and use of certain designated premises for facilities associated with the project, particularly a meter and regulating station.
-- **(3)** *Natural gas pipeline facilities* The term natural gas pipeline facilities means pipeline and related equipment necessary for the transmission and distribution of natural gas, such as meters and heating and pressure-regulating devices used in the transportation of natural gas.
-- **(4)** *Permit* The term permit means any permits, rights-of-way, or any other authorizations necessary for the Secretary to authorize the construction, operation, and maintenance of natural gas pipeline facilities in the Gateway National Recreation Area.
-- **(5)** *Project* The term project means the natural gas pipeline facilities within Gateway National Recreation Area, including the meter and regulating station to be located at Floyd Bennett Field, that are part of the Rockaway Delivery Lateral/Brooklyn Queens Interconnect Project, as further described in Federal Energy Regulatory Commission (FERC) Docket No. PF09–8, and including authorized revisions to the project.
-- **(6)** *Rent* The term rent means any payment to the Secretary pursuant to a lease for occupancy and use of designated premises to be made in such a manner and at such intervals as determined by the Secretary.
-- **(7)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the National Park Service.
+- **(1)** *Permittee* The term permittee means the Transcontinental Gas Pipeline Company, LLC, (Transco), its successors or assigns.
+- **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
 
-## § 3. Permitting instruments for natural gas pipeline facilities
+## § 3. Authorization for permit
 
-- **(a)** *In General* The Secretary may issue permits to authorize the construction, operation, and maintenance of natural gas pipeline facilities, as provided by the project, within Gateway National Recreation Area.
-- **(b)** *Terms and conditions*
-  - **(1)** Any rights-of-way or other permits issued for the natural gas pipeline facilities under this section shall be consistent with the laws and regulations generally applicable to utility rights-of-way within units of the National Park System.
-  - **(2)** Any permits issued under this section for the natural gas pipeline facilities shall be subject to such terms and conditions the Secretary deems appropriate.
-  - **(3)** The Secretary shall charge a fee for any permits issued under this section. The fees shall be based on fair market value and shall also include costs incurred by the National Park Service in processing a request for a permit; issuing a permit, if appropriate; and monitoring the permitted activities.
-  - **(4)** Any permits issued under this section shall be for a term of 10 years, subject to renewal with any changes to its terms and conditions mutually agreed upon.
-- **(c)** *Enforcement* Failure to comply with, or a violation of, any term or condition of a permit may result in a citation, or fine, or the suspension or revocation of authorization to conduct the permitted activity.
+- **(a)** *In general* The Secretary may issue permits for rights-of-way or other necessary authorizations to allow the permittee to construct, operate, and maintain a natural gas pipeline and related facilities within the Gateway National Recreation Area in New York, as described in Federal Regulatory Commission Docket No. PF09–8.
+- **(b)** *Terms and conditions* A permit issued under this section shall be—
+  - **(1)** consistent with the laws and regulations generally applicable to utility rights-of-way within units of the National Park System; and
+  - **(2)** subject to such terms and conditions as the Secretary deems appropriate.
+- **(c)** *Fees* The Secretary shall charge a fee for any permit issued under this section. The fee shall be based on fair market value and shall also provide for recovery of costs incurred by the National Park Service associated with the processing, issuance, and monitoring of the permit. The Secretary shall retain any fees associated with the recovery of costs.
+- **(d)** *Term* Any permit issued under this section shall be for a term of 10 years. The permit may be renewed at the discretion of the Secretary in accordance with this section.
 
-## § 4. Lease of buildings
+## § 4. Lease of historic buildings at floyd bennett field
 
-The Secretary may enter into a non-competitive lease with any entity to allow the occupancy and use of buildings and associated properties on Floyd Bennett Field to house facilities associated with the project, particularly a meter and regulating station. Such lease shall—
+- **(a)** *In general* The Secretary may enter into a non-competitive lease with the permittee to allow the occupancy and use of buildings and associated property at Floyd Bennett Field within the Gateway National Recreation Area to house meter and regulating equipment and other equipment necessary to the operation of the natural gas pipeline described in section 3(a).
+- **(b)** *Terms and conditions* A lease entered into under this section shall—
+  - **(1)** be in accordance with section 3(k) of the National Park System General Authorities Act (16 U.S.C. 1a–2(k)), except that the proceeds from rental payments may be used for infrastructure needs, resource protection and restoration, and visitor services at Gateway National Recreation Area; and
+  - **(2)** provide for the restoration and maintenance of the buildings and associated property in accordance with section 106 of the National Historic Preservation Act (16 U.S.C. 470f) and applicable regulations and programmatic agreements.
 
-- **(1)** otherwise be subject to National Park Service leasing regulations;
-- **(2)** provide for the restoration and maintenance of the buildings and associated properties in accordance with the Secretary of the Interior’s Treatment Standards for Historic Property (36 CFR Part 68), section 106 of the National Historic Preservation Act (36 CFR 800), and any programmatic agreements;
-- **(3)** provide for appropriate rent for occupancy and use of the property representing, at minimum but not limited to, fair market value; and
-- **(4)** provide for monetary penalties for violations of the lease.
+## § 5. Enforcement
 
-## § 5. Fees and rent
-
-- **(a)** *Fees* The Secretary shall retain the portion of any fee assessed under section 3(b)(3) that is equal to the costs incurred in processing and issuing the permit request and monitoring the permitted activities, and the balance of the fee shall be deposited in the Treasury of the United States.
-- **(b)** *Rent* Any rent collected pursuant to section 4 shall be deposited in a special account in the Treasury of the United States in accordance with section 3(k)(5) of Public Law 91–383 (16 U.S.C. 1a–2(k)(5)) and shall be available to the Secretary, without further appropriation and without fiscal year limitation, for infrastructure needs, resource protection, and visitor services at the Gateway National Recreation Area.
+The Secretary may impose citations or fines, or suspend or revoke any authority under a permit or lease issued in accordance with this Act for failure to comply with, or a violation of any term or condition of such permit or lease.

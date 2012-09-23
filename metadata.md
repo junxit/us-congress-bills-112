@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2606
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2606
@@ -48,3 +48,14 @@ New York City Natural Gas Supply Enhancement Act
 - 2012-02-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 2/6/2012 H481-482)
 - 2012-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 2/6/2012 H481-482)
 - 2012-02-09 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2012-03-07 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2012-09-22 — Amendment SA 2869 agreed to in Senate by Unanimous Consent.
+- 2012-09-22 — Amendment SA 2869 proposed by Senator Pryor for Senator Bingaman. (consideration: CR 9/21/2012 S6674-6675; text: CR 9/21/2012 S6674-6675) In the nature of a substitute.
+- 2012-09-22 — Measure laid before Senate by unanimous consent. (consideration: CR 9/21/2012 S6674-6675)
+- 2012-09-22 — Passed Senate with an amendment by Unanimous Consent.
+- 2012-09-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2012-09-22 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2012-09-22 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2012-09-22 — Senate amendment agreed to: Amendment SA 2869 agreed to in Senate by Unanimous Consent.
+- 2012-09-22 — Senate amendment proposed (on the floor): Amendment SA 2869 proposed by Senator Pryor for Senator Bingaman.(consideration: CR 9/21/2012 S6674-6675; text: CR 9/21/2012 S6674-6675)
+- 2012-09-22 — Senate amendment submitted
