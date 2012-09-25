@@ -1,7 +1,7 @@
 ---
 measure: S. 3193
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3193
@@ -21,9 +21,10 @@ Barona Band of Mission Indians Land Transfer Clarification Act of 2012
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -42,3 +43,6 @@ Barona Band of Mission Indians Land Transfer Clarification Act of 2012
 - 2012-09-22 — Senate amendment agreed to: Amendment SA 2864 agreed to in Senate by Unanimous Consent.
 - 2012-09-22 — Senate amendment proposed (on the floor): Amendment SA 2864 proposed by Senator Pryor for Senator Akaka.(consideration: CR 9/21/2012 S6670; text: CR 9/21/2012 S6670)
 - 2012-09-22 — Senate amendment submitted
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Received in the House.
+- 2012-09-25 — Referred to the House Committee on Natural Resources.
