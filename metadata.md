@@ -1,7 +1,7 @@
 ---
 measure: S. 3624
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3624
@@ -29,8 +29,15 @@ Military Commercial Driver's License Act of 2012
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Brown, Sherrod [D-OH] (B000944)
 
+## Committees (1)
+
+- House — Transportation and Infrastructure Committee
+
 ## Actions
 
 - 2012-09-22 — Introduced in Senate
 - 2012-09-22 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR 9/21/2012 S6675; text as passed Senate : CR 9/21/2012 S6675)
 - 2012-09-22 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR 9/21/2012 S6675; text as passed Senate : CR 9/21/2012 S6675)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Received in the House.
+- 2012-09-25 — Referred to the House Committee on Transportation and Infrastructure.
