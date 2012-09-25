@@ -1,8 +1,8 @@
 ---
 legis-num: S. 3311
-congress: 112th CONGRESS
+congress: One Hundred Twelfth Congress of the United States of America
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 3311

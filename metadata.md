@@ -1,7 +1,7 @@
 ---
 measure: S. 3311
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3311
@@ -34,3 +34,15 @@ A bill to designate the United States courthouse located at 2601 2nd Avenue Nort
 - 2012-09-24 — Message on Senate action sent to the House.
 - 2012-09-25 — Received in the House.
 - 2012-09-25 — Referred to the House Committee on Transportation and Infrastructure.
+- 2012-12-19 — Considered under suspension of the rules. (consideration: CR H7318-7319)
+- 2012-12-19 — DEBATE - The House proceeded with forty minutes of debate on S. 3311.
+- 2012-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-19 — Mr. Denham moved to suspend the rules and pass the bill.
+- 2012-12-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7318)
+- 2012-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7318)
+- 2012-12-20 — Presented to President.
+- 2012-12-20 — Presented to President.
+- 2012-12-28 — Became Public Law No: 112-233.
+- 2012-12-28 — Became Public Law No: 112-233.
+- 2012-12-28 — Signed by President.
+- 2012-12-28 — Signed by President.
