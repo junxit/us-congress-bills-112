@@ -1,7 +1,7 @@
 ---
 measure: S. 3486
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3486
@@ -40,3 +40,15 @@ Patent Law Treaties Implementation Act of 2012
 - 2012-09-24 — Message on Senate action sent to the House.
 - 2012-09-25 — Received in the House.
 - 2012-09-25 — Referred to the House Committee on the Judiciary.
+- 2012-12-05 — Considered under suspension of the rules. (consideration: CR H6552-6556)
+- 2012-12-05 — DEBATE - The House proceeded with forty minutes of debate on S. 3486.
+- 2012-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-05 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
+- 2012-12-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6552-6555)
+- 2012-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6552-6555)
+- 2012-12-10 — Presented to President.
+- 2012-12-10 — Presented to President.
+- 2012-12-18 — Became Public Law No: 112-211.
+- 2012-12-18 — Became Public Law No: 112-211.
+- 2012-12-18 — Signed by President.
+- 2012-12-18 — Signed by President.
