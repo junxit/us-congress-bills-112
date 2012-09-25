@@ -1,7 +1,7 @@
 ---
 measure: S. 3311
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3311
@@ -16,9 +16,10 @@ A bill to designate the United States courthouse located at 2601 2nd Avenue Nort
 
 - Sen. Baucus, Max [D-MT] (B000243)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -30,3 +31,6 @@ A bill to designate the United States courthouse located at 2601 2nd Avenue Nort
 - 2012-07-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 444.
 - 2012-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/21/2012 S6667; text as passed Senate: CR 9/21/2012 S6667)
 - 2012-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/21/2012 S6667; text as passed Senate: CR 9/21/2012 S6667)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Received in the House.
+- 2012-09-25 — Referred to the House Committee on Transportation and Infrastructure.
