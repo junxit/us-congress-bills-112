@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 41
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 41
@@ -102,6 +102,10 @@ A joint resolution expressing the sense of Congress regarding the nuclear progra
 - Sen. Corker, Bob [R-TN] (C001071)
 - Sen. Kerry, John F. [D-MA] (K000148)
 
+## Committees (1)
+
+- House — Foreign Affairs Committee
+
 ## Recorded votes (1)
 
 - 2012-09-22 — [Senate 112-2-197](votes/senate-112-2-0197.md) — On the Joint Resolution — **Joint Resolution Passed** (90–1)
@@ -114,3 +118,6 @@ A joint resolution expressing the sense of Congress regarding the nuclear progra
 - 2012-09-22 — Measure laid before Senate by unanimous consent. (consideration: CR 9/21/2012 S6601-6603)
 - 2012-09-22 — Passed Senate without amendment and with a preamble by Yea-Nay Vote. 90 - 1. Record Vote Number: 197. (text: CR 9/21/2012 S6602-6603)
 - 2012-09-22 — Passed/agreed to in Senate: Passed Senate without amendment and with a preamble by Yea-Nay Vote. 90 - 1. Record Vote Number: 197.(text: CR 9/21/2012 S6602-6603)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Received in the House.
+- 2012-09-25 — Referred to the House Committee on Foreign Affairs.
