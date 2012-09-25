@@ -1,7 +1,7 @@
 ---
 measure: S. 3341
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3341
@@ -22,9 +22,10 @@ Quadrennial Diplomacy and Development Review Act of 2012
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,6 @@ Quadrennial Diplomacy and Development Review Act of 2012
 - 2012-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 525.
 - 2012-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 9/21/2012 S6673-6674; text as passed Senate: CR 9/21/2012 S6673-6674)
 - 2012-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 9/21/2012 S6673-6674; text as passed Senate: CR 9/21/2012 S6673-6674)
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-09-25 — Received in the House.
+- 2012-09-25 — Referred to the House Committee on Foreign Affairs.
