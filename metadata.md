@@ -1,7 +1,7 @@
 ---
 measure: S. 3624
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3624
@@ -41,3 +41,16 @@ Military Commercial Driver's License Act of 2012
 - 2012-09-24 — Message on Senate action sent to the House.
 - 2012-09-25 — Received in the House.
 - 2012-09-25 — Referred to the House Committee on Transportation and Infrastructure.
+- 2012-09-28 — Committee on Transportation discharged.
+- 2012-09-28 — Committee on Transportation discharged.
+- 2012-09-28 — Considered by unanimous consent. (consideration: CR H6285)
+- 2012-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-28 — Mr. Lewis (CA) asked unanimous consent to discharge from committee and consider.
+- 2012-09-28 — On passage Passed without objection. (text: CR H6285)
+- 2012-09-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H6285)
+- 2012-10-09 — Presented to President.
+- 2012-10-09 — Presented to President.
+- 2012-10-19 — Became Public Law No: 112-196.
+- 2012-10-19 — Became Public Law No: 112-196.
+- 2012-10-19 — Signed by President.
+- 2012-10-19 — Signed by President.
