@@ -1,7 +1,7 @@
 ---
 measure: S. 743
 congress: 112
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 743
@@ -33,9 +33,12 @@ Whistleblower Protection Enhancement Act of 2012
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Homeland Security Committee
+- House — Intelligence (Permanent Select) Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -54,3 +57,23 @@ Whistleblower Protection Enhancement Act of 2012
 - 2012-05-09 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Intelligence (Permanent Select), and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-05-09 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Intelligence (Permanent Select), and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-05-09 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Intelligence (Permanent Select), and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-06-14 — Referred to the Subcommittee on Counterterrorism and Intelligence.
+- 2012-06-14 — Referred to the Subcommittee on Oversight, Investigations, and Management.
+- 2012-09-28 — Amendment (A001) offered by Mr. Lewis (CA). (consideration: CR H6293-6296; text: CR H6293-6296)
+- 2012-09-28 — Amendment agreed to by House: On agreeing to the Lewis (CA) amendment (A001) Agreed to without objection.
+- 2012-09-28 — Committee on Homeland Security discharged.
+- 2012-09-28 — Committee on Homeland Security discharged.
+- 2012-09-28 — Committee on Intelligence (Permanent) discharged.
+- 2012-09-28 — Committee on Intelligence (Permanent) discharged.
+- 2012-09-28 — Committee on Oversight and Government discharged.
+- 2012-09-28 — Committee on Oversight and Government discharged.
+- 2012-09-28 — Considered by unanimous consent. (consideration: CR H6286-6296; text as received in House: CR H6286-6293)
+- 2012-09-28 — House amendment agreed to: On agreeing to the Lewis (CA) amendment (A001) Agreed to without objection.
+- 2012-09-28 — House amendment offered
+- 2012-09-28 — House amendment offered/reported by: Amendment (A001) offered by Mr. Lewis (CA).(consideration: CR H6293-6296; text: CR H6293-6296)
+- 2012-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-09-28 — Mr. Lewis (CA) asked unanimous consent to discharge from committee and consider.
+- 2012-09-28 — On agreeing to the Lewis (CA) amendment (A001) Agreed to without objection.
+- 2012-09-28 — On passage Passed without objection.
+- 2012-09-28 — Passed/agreed to in House: On passage Passed without objection.
+- 2012-09-28 — RESERVATION OF OBJECTION - Mr. Van Hollen reserved the right to object to the unanimous consent request. Subsequently, the reservation was withdrawn.
