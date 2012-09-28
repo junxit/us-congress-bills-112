@@ -1,7 +1,7 @@
 ---
 measure: S. 743
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 

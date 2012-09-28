@@ -1,7 +1,7 @@
 ---
 measure: S. 743
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 743
@@ -77,3 +77,13 @@ Whistleblower Protection Enhancement Act of 2012
 - 2012-09-28 — On passage Passed without objection.
 - 2012-09-28 — Passed/agreed to in House: On passage Passed without objection.
 - 2012-09-28 — RESERVATION OF OBJECTION - Mr. Van Hollen reserved the right to object to the unanimous consent request. Subsequently, the reservation was withdrawn.
+- 2012-11-13 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2012-11-13 — Resolving differences -- Senate actions: Senate agreed to House amendment to the bill (S.743) by Unanimous Consent.(consideration: CR S6761; text as Senate agreed to House amendment: CR S6761)
+- 2012-11-13 — Senate agreed to House amendment to the bill (S.743) by Unanimous Consent. (consideration: CR S6761; text as Senate agreed to House amendment: CR S6761)
+- 2012-11-14 — Message on Senate action sent to the House.
+- 2012-11-16 — Presented to President.
+- 2012-11-16 — Presented to President.
+- 2012-11-27 — Became Public Law No: 112-199.
+- 2012-11-27 — Became Public Law No: 112-199.
+- 2012-11-27 — Signed by President.
+- 2012-11-27 — Signed by President.
