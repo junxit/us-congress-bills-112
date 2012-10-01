@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3289
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,5 +11,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Whistleblower Protection Enhancement Act of 2011”.
+- **(a)** *Short title* This Act may be cited as the “Whistleblower Protection Enhancement Act of 2011 Platts-Van Hollen Whistleblower Protection Enhancement Act of 2011”.
 - **(b)** *Table of contents* The table of contents of this Act is as follows:
