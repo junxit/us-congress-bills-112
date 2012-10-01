@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1974
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -56,7 +56,7 @@ This Act may be cited as the “Access to Congressionally Mandated Reports Act�
 - **(a)** *Compliance with statutory requirement To submit reports* Notwithstanding any other provision of law, a Federal agency is deemed to have complied with a statutory requirement to submit a report to Congress if the agency completes each of the following, with respect to such report:
   - **(1)** Publishes a complete and unredacted copy on the website required under section 2(a).
   - **(2)** Notifies the Clerk of the House of Representatives, the Secretary of the Senate, and each congressional committee to which a report must be submitted of the report’s availability on the website.
-- **(b)** *Removing and altering reports* A report submitted to be published to the website required under section 2(a) may only be changed or removed by the Federal agency with the express, written consent of each congressional committee to which the report must be submitted.
+- **(b)** *Removing and altering reports* A report submitted to be published to the website required under section 2(a) may only be changed or removed, with the exception of technical changes, by the Federal agency with the express, written consent of each congressional committee to which the report must be submitted.
 
 ## § 5. Relationship to Freedom of Information Act
 
