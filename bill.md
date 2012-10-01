@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1280
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,19 +21,20 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(C)** in paragraph (6), by inserting “or acquired from any other source” after “agreement” each place it appears;
     - **(D)** in paragraph (8), by striking “and” at the end;
     - **(E)** in paragraph (9), by striking the period at the end and inserting a semicolon; and
-    - **(F)** by adding at the end the following new paragraphs:
+    - **(F)** by inserting after paragraph (9) the following new paragraphs:
       > - **(10)** a guaranty by the cooperating party that no nationals of a third country shall be permitted access to any reactor, related equipment, or sensitive materials transferred under the agreement for cooperation without the prior consent of the United States; and
-      > - **(11)** if the cooperating party does not operate, as of April 1, 2011, enrichment or reprocessing facilities, a requirement as part of the agreement for cooperation or other legally binding document that is considered part of the agreement that no enrichment or reprocessing activities, or acquisition or construction of facilities for such activities, will occur within the territory over which the cooperating party exercises sovereignty.
+      > - **(11)** a commitment to maintain and, in the case of a country without such a legal regime in place, a commitment to enact at the earliest possible date, and in no case later than one year after the agreement enters into force, a legal regime providing for adequate protection from civil liability that will allow for the participation of United States suppliers in any effort by the country to develop civilian nuclear power.
 
-  - **(3)** in subsection c., by striking “and” at the end;
-  - **(4)** in subsection d.—
+  - **(3)** in the matter following paragraph (11) (as added by paragraph (2)(F) of this subsection), by striking “The President may exempt a proposed agreement for cooperation” and all that follows through “common defense and security.”;
+  - **(4)** in subsection c., by striking “and” at the end;
+  - **(5)** in subsection d.—
     - **(A)** in the first sentence—
       - **(i)** by striking “not” the first and second place it appears;
       - **(ii)** by inserting “only” after “effective” the first place it appears; and
-      - **(iii)** by striking “: Provided further,” and all that follows through “such agreement”; and
+      - **(iii)** by striking “: Provided further,” and all that follows through “such agreement” and inserting “, unless the proposed agreement includes a requirement as part of the agreement for cooperation or other legally binding document that is considered part of the agreement that no enrichment or reprocessing activities, or acquisition or construction of facilities for such activities, will occur within the territory over which the cooperating party exercises sovereignty, in which case the agreement shall become effective unless the Congress adopts, and there is enacted, a joint resolution of disapproval (1) during such sixty-day period for a new agreement; or (2) during a period of 30 days of continuous session for a renewal agreement”; and
     - **(B)** by striking the final period and inserting “; and”;
-  - **(5)** by redesignating subsection e. as subsection f.; and
-  - **(6)** by inserting immediately after subsection d. the following new subsection:
+  - **(6)** by redesignating subsection e. as subsection f.;
+  - **(7)** by inserting immediately after subsection d. the following new subsection:
     > - **(e)** the cooperating party—
     >   - **(1)** has acceded to and is fully implementing the provisions and guidelines of—
     >     - **(A)** the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction (commonly known as the “Chemical Weapons Convention”);
@@ -49,14 +50,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >     - **(B)** acquiring or developing destabilizing numbers and types of advanced conventional weapons, including ballistic missiles; and
     >   - **(6)** has signed, ratified, and is fully implementing an Additional Protocol to its safeguards agreement with the International Atomic Energy Agency.
 
+  - **(8)** by adding after subsection f. (as redesignated by paragraph (6) of this subsection) the following new subsection:
+    > - **(g)** For purposes of this section—
+    >   - **(1)** the term “new agreement” means an agreement for cooperation with a country with respect to which the United States has not, on or after the date of the enactment of this subsection, entered into such an agreement; and
+    >   - **(2)** the term “renewal agreement” means an agreement for cooperation with a country with respect to which the United States has, before the date of the enactment of this subsection, entered into such an agreement.
+
 - **(b)** *Subsequent arrangements* Section 131 a. (1) of such Act (42 U.S.C. 2160 a.(1)) is amended—
   - **(1)** in the second sentence, by striking “security,” and all that follows through “publication.” and inserting “security.”; and
   - **(2)** by inserting after the second sentence the following new sentences: “Such subsequent arrangement shall become effective only if Congress enacts a joint resolution of approval according to the procedures of sections 123 d. and 130 i. of this Act. Any such nuclear proliferation assessment statement shall be submitted to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate not later than the 31st day of continuous session after submission of the subsequent arrangement.”.
 
 ## § 2. Withdrawal from the Treaty on the Non-Proliferation of Nuclear Weapons
 
-- **(a)** *Statement of policy* It is the policy of the United States to oppose the withdrawal of any country that is a party to the Treaty on the Non-Proliferation of Nuclear Weapons (in this section referred to as the “Treaty”) and to use all political, economic, and diplomatic means at its disposal to deter, prevent, or reverse any such withdrawal from the Treaty.
-- **(b)** *Prohibition on certain assistance* Notwithstanding any other provision of law, no assistance (other than humanitarian assistance) under any provision of law may be provided to a country that has withdrawn from the Treaty.
+- **(a)** *Statement of policy* It is the policy of the United States to oppose the withdrawal from the Treaty on the Non-Proliferation of Nuclear Weapons (in this section referred to as the “Treaty”) of any country that is a party to the Treaty and to use all political, economic, and diplomatic means at its disposal to deter, prevent, or reverse any such withdrawal from the Treaty.
+- **(b)** *Prohibition on certain assistance* Notwithstanding any other provision of law, no assistance (other than humanitarian assistance) under any provision of law may be provided to a country that has withdrawn from the Treaty on or after the date of the enactment of this Act.
 - **(c)** *Return of all United States-Origin materials and equipment* The United States shall seek the return of any material, equipment, or components transferred under an agreement for civil nuclear cooperation that is in force pursuant to section 123 of the Atomic Energy Act of 1954 (42 U.S.C. 2153) on or after the date of the enactment of this Act, and any special fissionable material produced through the use of such material, equipment, or components previously provided to a country that withdraws from the Treaty.
 
 ## § 3. Report on comparability of nonproliferation conditions by foreign nuclear suppliers
@@ -69,7 +75,7 @@ Not later than 180 days after the date of the enactment of this Act, the Preside
 
 ## § 4. Initiatives and negotiations relating to agreements for peaceful nuclear cooperation
 
-Subsection f. of section 123 of the Atomic Energy Act of 1954 (42 U.S.C. 2153), as redesignated pursuant to section 1(a)(5) of this Act, is amended to read as follows:
+Subsection f. of section 123 of the Atomic Energy Act of 1954 (42 U.S.C. 2153), as redesignated pursuant to section 1(a)(6) of this Act, is amended to read as follows:
 
 > - **(f)** The President shall keep the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate fully and currently informed of any initiative or negotiations relating to a new or amended agreement for peaceful nuclear cooperation pursuant to this section prior to the President’s announcement of such initiative or negotiations. The President shall consult with the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate concerning such initiative or negotiations beginning not later than 15 calendar days after the initiation of any such negotiations, or the receipt or transmission of a draft agreement, whichever occurs first, and monthly thereafter until such time as the negotiations are concluded.
 
@@ -83,7 +89,7 @@ Section 129 a. (2) of the Atomic Energy Act of 1954 (42 U.S.C. 2158) is amended�
 
 ## § 6. Congressional review procedures
 
-Section 130 i. of the Atomic Energy Act of 1954 (42 U.S.C. 2159 i.) is amended—
+Section 130 i. (1) of the Atomic Energy Act of 1954 (42 U.S.C. 2159) is amended—
 
 - **(1)** by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and
 - **(2)** by inserting after subparagraph (A) the following new subparagraph:
@@ -97,4 +103,33 @@ The Atomic Energy Act of 1954 is amended by inserting after section 134 (42 U.S.
 
 > ## § 135. Requirement of liability protection for United States nuclear suppliers
 >
-> The President may not issue a license for the export of nuclear material, facilities, components, or other goods, services, or technology to a country pursuant to an agreement that has entered into force after the date of the enactment of this Act unless the President determines that such country has liability protection for United States nuclear suppliers that is equivalent to the liability protection specified under the Convention on Supplementary Compensation for Nuclear Damage.
+> The President may not issue a license for the export of nuclear material, facilities, components, or other goods, services, or technology to a country pursuant to an agreement that has entered into force after the date of the enactment of this section unless the President determines that such country has liability protection for United States nuclear suppliers that is equivalent to the liability protection specified under the Convention on Supplementary Compensation for Nuclear Damage.
+
+## § 8. Prohibition on assistance to state sponsors of proliferation of weapons of mass destruction
+
+- **(a)** *Prohibition on assistance* The United States shall not provide any assistance under Public Law 87–195, Public Law 90–629, the Food for Peace Act, the Peace Corps Act, or the Export-Import Bank Act of 1945 to any country if the Secretary of State determines that the government of the country has repeatedly provided support for acts of proliferation of equipment, technology, or materials to support the design, acquisition, manufacture, or use of weapons of mass destruction or the acquisition or development of ballistic missiles to carry such weapons.
+- **(b)** *Publication of Determinations* Each determination of the Secretary of State under subsection (a) shall be published in the Federal Register.
+- **(c)** *Rescission* A determination of the Secretary of State under subsection (a) may not be rescinded unless the Secretary submits to the appropriate congressional committees—
+  - **(1)** before the proposed rescission would take effect, a report certifying that—
+    - **(A)** there has been a fundamental change in the leadership and policies of the government of the country concerned;
+    - **(B)** the government is not supporting acts of proliferation of equipment, technology, or materials to support the design, acquisition, manufacture, or use of weapons of mass destruction; and
+    - **(C)** the government has provided assurances that it will not support such acts in the future; or
+  - **(2)** at least 45 days before the proposed rescission would take effect, a report justifying the rescission and certifying that—
+    - **(A)** the government of the country concerned has not provided any support for acts of proliferation of equipment, technology, or materials to support the design, acquisition, manufacture, or use of weapons of mass destruction during the preceding 24-month period; and
+    - **(B)** the government has provided assurances that it will not support such acts of proliferation in the future.
+- **(d)** *Waiver* The President may waive the requirements of subsection (a) on a case-by-case basis if—
+  - **(1)** the President determines that national security interests or humanitarian reasons justify a waiver of such requirements, except that humanitarian reasons may not be used to justify the waiver of such requirements to provide security assistance under Public Law 87–195, Public Law 90–629, or the Export-Import Bank Act of 1945; and
+  - **(2)** at least 15 days before the waiver takes effect, the President consults with the appropriate congressional committees regarding the proposed waiver and submits to the appropriate congressional committees a report containing—
+    - **(A)** the name of the recipient country;
+    - **(B)** a description of the national security interests or humanitarian reasons that require the waiver;
+    - **(C)** the type and amount of and the justification for the assistance to be provided pursuant to the waiver; and
+    - **(D)** the period of time during which such waiver will be effective.
+
+## § 9. Additional protocol as a criterion for United States assistance
+
+- **(a)** *Statement of policy* It is the policy of the United States to ensure that each country that is a party to the Treaty on the Non-Proliferation of Nuclear Weapons should bring into force an Additional Protocol to its safeguards agreement with the IAEA.
+- **(b)** *Criterion for assistance* The United States shall, when considering the provision of assistance under Public Law 87–195 or Public Law 90–629 to a country that is a party to the Treaty on the Nonproliferation of Nuclear Weapons, take into consideration whether the proposed recipient has in force an Additional Protocol to its safeguards agreement with the IAEA.
+
+## § 10. Sense of Congress
+
+It is the sense of Congress that the President should ensure that participation in international nuclear programs conducted by the United States is limited to the greatest extent practicable to governmental and nongovernmental participants from countries that have adopted nonproliferation provisions in their nuclear cooperation and nuclear export control policies comparable to the policies specified in section 123 of the Atomic Energy Act (42 U.S.C. 2153), as amended by this Act.
