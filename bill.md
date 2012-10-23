@@ -20,7 +20,7 @@ The table of contents for this Act is as follows:
 ## § 3. Appraisals
 
 - **(a)** *Amendment* Title XXVI of the Energy Policy Act of 1992 (25 U.S.C. 3501 et seq.) is amended by adding at the end the following:
-  > ## § 2608. Appraisal reforms
+  > ## § 2607. Appraisal reforms
   >
   > - **(a)** *Options to Indian Tribes* With respect to a transaction involving Indian land or the trust assets of an Indian tribe that requires the approval of the Secretary, any appraisal relating to fair market value required to be conducted under applicable law, regulation, or policy may be completed by—
   >   - **(1)** the Secretary;
@@ -106,7 +106,7 @@ The Secretary of the Interior, acting through the Bureau of Land Management, sha
     - **(B)** seeks judicial review of a final agency action (as defined in section 702 of title 5, United States Code), to issue a permit, license, or other form of agency permission allowing:
       - **(i)** any person or entity to conduct activities on Indian Land, which activities involve the exploration, development, production or transportation of oil, gas, coal, shale gas, oil shale, geothermal resources, wind or solar resources, underground coal gasification, biomass, or the generation of electricity, or
       - **(ii)** any Indian Tribe, or any organization of two or more entities, at least one of which is an Indian tribe, to conduct activities involving the exploration, development, production or transportation of oil, gas, coal, shale gas, oil shale, geothermal resources, wind or solar resources, underground coal gasification, biomass, or the generation of electricity, regardless of where such activities are undertaken.
-    - **(C)** *Ultimately prevail on the merits* The phrase “Ultimately prevail on the merits” means, in a final enforceable judgment on the merits, the court rules in the plaintiff’s favor on at least one cause of action which is an underlying rationale for the preliminary injunction, and does not include circumstances where the final agency action is modified or amended by the issuing agency unless such modification or amendment is required pursuant to a final enforceable judgment of the court or a court-ordered consent decree.
+  - **(4)** *Ultimately prevail on the merits* The phrase “Ultimately prevail on the merits” means, in a final enforceable judgment on the merits, the court rules in the plaintiff’s favor on at least one cause of action which is an underlying rationale for the preliminary injunction, and does not include circumstances where the final agency action is modified or amended by the issuing agency unless such modification or amendment is required pursuant to a final enforceable judgment of the court or a court-ordered consent decree.
 
 ## § 9. Tribal biomass demonstration project
 
@@ -150,7 +150,11 @@ Unless otherwise explicitly exempted by Federal law enacted after the date of th
 Subsection (e)(1) of the first section of the Act of August 9, 1955, (25 U.S.C. 415(e)(1); commonly referred to as the “Long-Term Leasing Act”) is amended—
 
 - **(1)** by striking “, except a lease for” and inserting “, including leases for”;
-- **(2)** in subparagraph (A), by striking “25” and all that follows and inserting “99 years;”;
+- **(2)** in subparagraph (A), by striking “25” the first place it appears and all that follows and inserting “99 years;”;
 - **(3)** in subparagraph (B), by striking the period and inserting “; and”; and
 - **(4)** by adding at the end the following:
   > - **(C)** in the case of a lease for the exploration, development, or extraction of mineral resources, including geothermal resources, 25 years, except that any such lease may include an option to renew for one additional term not to exceed 25 years.
+
+## § 12. Nonapplicability of certain rules
+
+No rule promulgated by the Department of the Interior regarding hydraulic fracturing used in the development or production of oil or gas resources shall have any effect on any land held in trust or restricted status for the benefit of Indians except with the express consent of the beneficiary on whose behalf such land is held in trust or restricted status.

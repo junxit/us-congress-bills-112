@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3973
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,11 +33,11 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Title XXVI of the Energy Policy Act of 1992 (25 U.S.C. 3501 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of contents of the Energy Policy Act of 1992 (42 U.S.C. 13201 note) is amended by adding at the end of the items relating to title XXVI the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) is amended by inserting “(a) In general.—” before the first sentence, and by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) is amended by inserting “(a) In general.—” before the first sentence, and by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (3) as paragraph (4); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
 | — | insert | The Tribal Forest Protection Act of 2004 (25 U.S.C. 3115a) is amended by inserting after section 2 the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “, except a lease for” and inserting “, including leases for”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “25” and all that follows and inserting “99 years;”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “25” the first place it appears and all that follows and inserting “99 years;”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
