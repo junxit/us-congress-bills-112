@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3409
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3409
@@ -38,9 +38,10 @@ Stop the War on Coal Act of 2012
 - Rep. Gosar, Paul A. [R-AZ-1] (G000565)
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (12)
 
@@ -200,3 +201,4 @@ Stop the War on Coal Act of 2012
 - 2012-09-21 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3409.
 - 2012-09-21 — The previous question was ordered pursuant to the rule. (consideration: CR H6254)
 - 2012-09-21 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2012-11-13 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
