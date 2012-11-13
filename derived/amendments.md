@@ -1,7 +1,7 @@
 ---
 measure: S. 1268
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,4 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | redesignate | by redesignating paragraph (2) as paragraph (3); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following new paragraph (2): | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 607(a) of the Foreign Service Act of 1980 (22 U.S.C. 4007(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 607(a) of the Foreign Service Act of 1980 (22 U.S.C. 4007(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
