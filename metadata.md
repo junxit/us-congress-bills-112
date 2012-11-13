@@ -1,7 +1,7 @@
 ---
 measure: S. 2318
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2318
@@ -33,3 +33,9 @@ Department of State Rewards Program Update and Technical Corrections Act of 2012
 
 - 2012-04-19 — Introduced in Senate
 - 2012-04-19 — Read twice and referred to the Committee on Foreign Relations.
+- 2012-04-24 — Committee on Foreign Relations Subcommittee on African Affairs. Hearings held.
+- 2012-05-24 — Committee on Foreign Relations. Hearings held. Hearings printed: S.Hrg. 112-602.
+- 2012-09-19 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-11-13 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 112-232.
+- 2012-11-13 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 112-232.
+- 2012-11-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 537.
