@@ -11,4 +11,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Extension
 
-Section 50915(f) of title 51, United States Code, is amended by striking “December 31, 2012” and inserting “December 31, 2014”.
+Section 50915(f) of title 51, United States Code, is amended by striking “December 31, 2012” and inserting “December 31, 2014” .

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6586
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 50915(f) of title 51, United States Code, is amended by striking “December 31, 2012” and inserting “December 31, 2014”. | the bill names no machine-readable US Code section |
+| — | replace | Section 50915(f) of title 51, United States Code, is amended by striking “December 31, 2012” and inserting “December 31, 2014” . | the bill names no machine-readable US Code section |

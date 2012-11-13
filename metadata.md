@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6586
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6586
@@ -34,3 +34,11 @@ Space Exploration Sustainability Act
 - 2012-11-09 — Introduced in House
 - 2012-11-09 — Introduced in House
 - 2012-11-09 — Referred to the House Committee on Science, Space, and Technology.
+- 2012-11-13 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Palazzo objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2012-11-13 — Considered as unfinished business. (consideration: CR H6341)
+- 2012-11-13 — Considered under suspension of the rules. (consideration: CR H6335-6337)
+- 2012-11-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6586.
+- 2012-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-11-13 — Mr. Palazzo moved to suspend the rules and pass the bill.
+- 2012-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6335)
+- 2012-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6335)
