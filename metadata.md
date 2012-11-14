@@ -1,7 +1,7 @@
 ---
 measure: S. 1307
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1307
@@ -28,3 +28,7 @@ A bill to authorize the Secretary of Commerce to convey real property, including
 
 - 2011-06-30 — Introduced in Senate
 - 2011-06-30 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2011-11-02 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2012-11-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 112-239.
+- 2012-11-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller without amendment. With written report No. 112-239.
+- 2012-11-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 547.
