@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6116
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6116
@@ -16,7 +16,7 @@ To amend the Revised Organic Act of the Virgin Islands to provide for direct rev
 
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 
-## Cosponsors (32)
+## Cosponsors (33)
 
 - Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
@@ -50,6 +50,7 @@ To amend the Revised Organic Act of the Virgin Islands to provide for direct rev
 - Rep. Brown, Corrine [D-FL-3] (B000911)
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
+- Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 
 ## Committees (1)
 
@@ -60,3 +61,11 @@ To amend the Revised Organic Act of the Virgin Islands to provide for direct rev
 - 2012-07-12 — Introduced in House
 - 2012-07-12 — Introduced in House
 - 2012-07-12 — Referred to the House Committee on the Judiciary.
+- 2012-07-19 — Referred to the Subcommittee on Courts, Commercial and Administrative Law.
+- 2012-11-14 — Considered under suspension of the rules. (consideration: CR H6353-6355)
+- 2012-11-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6116.
+- 2012-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-11-14 — Mr. Coble moved to suspend the rules and pass the bill, as amended.
+- 2012-11-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6353)
+- 2012-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6353)
+- 2012-11-14 — The title of the measure was amended. Agreed to without objection.
