@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6586
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6586
@@ -42,3 +42,4 @@ Space Exploration Sustainability Act
 - 2012-11-13 — Mr. Palazzo moved to suspend the rules and pass the bill.
 - 2012-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6335)
 - 2012-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6335)
+- 2012-11-14 — Received in the Senate, read twice.
