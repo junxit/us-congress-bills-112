@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6371
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+3 amendatory instructions. 2 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 40 U.S.C. § 3144
+
+> in subsection (a)(1), by striking “Comptroller General” and inserting “Secretary of Labor”.
+
+| | |
+|---|---|
+| Removed | `Comptroller General` |
+| Inserted | `Secretary of Labor` |
+
+### 40 U.S.C. § 3703
+
+> Section 3703(b)(3) of title 40, United States Code, is amended by striking “Comptroller General” both places it appears and inserting “Secretary of Labor”.
+
+| | |
+|---|---|
+| Removed | `Comptroller General` |
+| Inserted | `Secretary of Labor` |
 
 ## Stated, not applied
 
@@ -31,6 +51,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | in the section heading, by striking “of Comptroller General”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a)(1), by striking “Comptroller General” and inserting “Secretary of Labor”. | the bill names no machine-readable US Code section |
-| — | replace | Section 3703(b)(3) of title 40, United States Code, is amended by striking “Comptroller General” both places it appears and inserting “Secretary of Labor”. | the bill names no machine-readable US Code section |
+| `40 U.S.C. § 3144` | strike | in the section heading, by striking “of Comptroller General”; and | the bill quotes the text struck but describes what replaces it |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6371
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6371
@@ -16,9 +16,10 @@ Streamlining Claims Processing for Federal Contractor Employees Act
 
 - Rep. Walberg, Tim [R-MI-7] (W000798)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -37,3 +38,4 @@ Streamlining Claims Processing for Federal Contractor Employees Act
 - 2012-11-13 — Mr. Walberg moved to suspend the rules and pass the bill.
 - 2012-11-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 361 - 3 (Roll no. 604). (text: CR H6334)
 - 2012-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 361 - 3 (Roll no. 604).(text: CR H6334)
+- 2012-11-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
