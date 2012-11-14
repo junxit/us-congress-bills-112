@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6570
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -34,4 +34,4 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 1512(e) of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5; 123 Stat. 288) is amended by amending the second sentence to read as follows: “Such comments on all reports for calendar quarters in a year shall be… | the bill names no machine-readable US Code section |
 | — | repeal | Effective on January 1, 2016, section 1512(e) of the American Recovery and Reinvestment Act of 2009 is repealed. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “semiannually” and inserting “annually”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |

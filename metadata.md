@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6570
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6570
@@ -29,3 +29,9 @@ To amend the American Recovery and Reinvestment Act of 2009 and the Emergency Ec
 - 2012-10-12 — Referred to the Committee on Financial Services, and in addition to the Committees on Education and the Workforce, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-10-12 — Referred to the Committee on Financial Services, and in addition to the Committees on Education and the Workforce, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-10-12 — Referred to the Committee on Financial Services, and in addition to the Committees on Education and the Workforce, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-11-14 — Considered under suspension of the rules. (consideration: CR H6351-6352)
+- 2012-11-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6570.
+- 2012-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-11-14 — Mr. Garrett moved to suspend the rules and pass the bill.
+- 2012-11-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6351-6352)
+- 2012-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6351-6352)
