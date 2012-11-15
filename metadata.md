@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5934
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5934
@@ -24,9 +24,10 @@ Stop Tobacco Smuggling in the Territories Act of 2012
 - Resident Commissioner Pierluisi, Pedro R. [D-PR-At Large] (P000596)
 - Rep. Watt, Melvin L. [D-NC-12] (W000207)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Stop Tobacco Smuggling in the Territories Act of 2012
 - 2012-11-14 — Mr. Coble moved to suspend the rules and pass the bill.
 - 2012-11-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6355)
 - 2012-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6355)
+- 2012-11-15 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
