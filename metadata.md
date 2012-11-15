@@ -1,7 +1,7 @@
 ---
 measure: S. 285
 congress: 112
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 285
@@ -34,3 +34,8 @@ A bill for the relief of Sopuruchi Chukwueke.
 - 2012-07-26 — Message on Senate action sent to the House.
 - 2012-07-26 — Received in the House.
 - 2012-07-26 — Referred to the House Committee on the Judiciary.
+- 2012-08-01 — Committee Consideration and Mark-up Session Held.
+- 2012-08-01 — Ordered to be Reported by Voice Vote.
+- 2012-11-15 — Placed on the Private Calendar, Calendar No. 7.
+- 2012-11-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-695.
+- 2012-11-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-695.
