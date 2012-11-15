@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1206
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subsection (a)(3), by inserting “, remuneration paid for licensed independent insurance producers,” after “State taxes”; | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding clause (i), by inserting “, remuneration paid for licensed independent insurance producers,” after “State taxes”; | the bill names no machine-readable US Code section |
 | — | insert | in clause (ii), by inserting “or small group market” before “in such State”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new sentence: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new sentence: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b)(1)(B), by inserting “, remuneration paid for licensed independent insurance producers,” after “State taxes”; | the bill names no machine-readable US Code section |
 | — | insert | in subsection (d), by inserting “or small group market” after “individual market”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
