@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6116
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6116
@@ -52,9 +52,10 @@ To amend the Revised Organic Act of the Virgin Islands to provide for direct rev
 - Rep. Jackson Lee, Sheila [D-TX-18] (J000032)
 - Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large] (S001177)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ To amend the Revised Organic Act of the Virgin Islands to provide for direct rev
 - 2012-11-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6353)
 - 2012-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6353)
 - 2012-11-14 — The title of the measure was amended. Agreed to without objection.
+- 2012-11-15 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
