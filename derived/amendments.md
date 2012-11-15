@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6116
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `48 U.S.C. § 1613` | replace | Section 23 of the Revised Organic Act of the Virgin Islands (48 U.S.C. 1613) is amended by striking “: Provided, That” and all that follows through the end and inserting a period. | the bill quotes the text struck but describes what replaces it |
+| — | replace | Section 23 of the Revised Organic Act of the Virgin Islands (48 U.S.C. 1613) is amended by striking “: Provided, That” and all that follows through the end and inserting a period. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 81 of title 28, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for chapter 81 of title 28, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |

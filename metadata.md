@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6116
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6116
@@ -71,3 +71,14 @@ To amend the Revised Organic Act of the Virgin Islands to provide for direct rev
 - 2012-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6353)
 - 2012-11-14 — The title of the measure was amended. Agreed to without objection.
 - 2012-11-15 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2012-12-13 — Passed Senate without amendment by Unanimous Consent.
+- 2012-12-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-12-13 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S8046)
+- 2012-12-13 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S8046)
+- 2012-12-14 — Message on Senate action sent to the House.
+- 2012-12-19 — Presented to President.
+- 2012-12-19 — Presented to President.
+- 2012-12-28 — Became Public Law No: 112-226.
+- 2012-12-28 — Became Public Law No: 112-226.
+- 2012-12-28 — Signed by President.
+- 2012-12-28 — Signed by President.
