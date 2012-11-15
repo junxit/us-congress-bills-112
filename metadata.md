@@ -1,7 +1,7 @@
 ---
 measure: S. 285
 congress: 112
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 285
@@ -39,3 +39,16 @@ A bill for the relief of Sopuruchi Chukwueke.
 - 2012-11-15 — Placed on the Private Calendar, Calendar No. 7.
 - 2012-11-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-695.
 - 2012-11-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 112-695.
+- 2012-12-04 — By request of Mr. Smith (TX) the House passed over the measure without prejudice.
+- 2012-12-04 — Called up from the Private Calendar for consideration.
+- 2012-12-18 — Called up from the Private Calendar for consideration.
+- 2012-12-18 — Considered from the Private Calendar. (consideration: CR H6838)
+- 2012-12-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-18 — On passage Passed without objection. (text: CR H6838)
+- 2012-12-18 — Passed/agreed to in House: On passage Passed without objection.(text: CR H6838)
+- 2012-12-20 — Presented to President.
+- 2012-12-20 — Presented to President.
+- 2012-12-28 — Became Private Law No: 112-1.
+- 2012-12-28 — Became Private Law No: 112-1.
+- 2012-12-28 — Signed by President.
+- 2012-12-28 — Signed by President.
