@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6570
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+4 amendatory instructions. 1 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 12 U.S.C. § 5252
+
+> in subsection (a), by striking “semiannually” and inserting “annually”; and
+
+| | |
+|---|---|
+| Removed | `semiannually` |
+| Inserted | `annually` |
 
 ## Stated, not applied
 
@@ -31,7 +42,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 1512(e) of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5; 123 Stat. 288) is amended by amending the second sentence to read as follows: “Such comments on all reports for calendar quarters in a year shall be… | the bill names no machine-readable US Code section |
-| — | repeal | Effective on January 1, 2016, section 1512(e) of the American Recovery and Reinvestment Act of 2009 is repealed. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking “semiannually” and inserting “annually”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `12 U.S.C. § 5252` | amend | Section 1512(e) of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5; 123 Stat. 288) is amended by amending the second sentence to read as follows: “Such comments on all reports for calendar quarters in a year shall be… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5252` | repeal | Effective on January 1, 2016, section 1512(e) of the American Recovery and Reinvestment Act of 2009 is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5252` | amend | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

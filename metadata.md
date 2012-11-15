@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6570
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6570
@@ -35,3 +35,5 @@ To amend the American Recovery and Reinvestment Act of 2009 and the Emergency Ec
 - 2012-11-14 — Mr. Garrett moved to suspend the rules and pass the bill.
 - 2012-11-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6351-6352)
 - 2012-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6351-6352)
+- 2012-11-15 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6870)
+- 2012-11-15 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6870)
