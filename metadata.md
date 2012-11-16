@@ -1,7 +1,7 @@
 ---
 measure: S. 1440
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1440
@@ -42,9 +42,10 @@ PREEMIE Reauthorization Act
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -54,3 +55,16 @@ PREEMIE Reauthorization Act
 - 2012-09-19 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2012-09-19 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.
 - 2012-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 516.
+- 2012-11-15 — Amendment SA 2926 agreed to in Senate by Unanimous Consent.
+- 2012-11-15 — Amendment SA 2926 proposed by Senator Landrieu for Senator Alexander. (consideration: CR S6869-6870; text: CR S6869) To strike provisions relating to the National Institutes of Health.
+- 2012-11-15 — Measure laid before Senate by unanimous consent. (consideration: CR S6868-6870; text of measure as reported in Senate: CR S6868-6869)
+- 2012-11-15 — Passed Senate with an amendment by Voice Vote. (text: CR S6869-6870)
+- 2012-11-15 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text: CR S6869-6870)
+- 2012-11-15 — Senate amendment agreed to: Amendment SA 2926 agreed to in Senate by Unanimous Consent.
+- 2012-11-15 — Senate amendment proposed (on the floor): Amendment SA 2926 proposed by Senator Landrieu for Senator Alexander.(consideration: CR S6869-6870; text: CR S6869)
+- 2012-11-15 — Senate amendment submitted
+- 2012-11-15 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S6869)
+- 2012-11-16 — Message on Senate action sent to the House.
+- 2012-11-16 — Received in the House.
+- 2012-11-16 — Referred to the House Committee on Energy and Commerce.
+- 2012-11-16 — Referred to the Subcommittee on Health.
