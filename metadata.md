@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6156
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6156
@@ -64,3 +64,4 @@ Russia and Moldova Jackson-Vanik Repeal and Sergei Magnitsky Rule of Law Account
 - 2012-11-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 365 - 43 (Roll no. 608).(text: CR H6401-6404)
 - 2012-11-16 — Rule provides for consideration of H.R. 6156 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 112-33 shall be considered as adopted. The resolution waives all points of order against consideration of the bill.
 - 2012-11-16 — The previous question was ordered pursuant to the rule. (consideration: CR H6417)
+- 2012-11-26 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 552.
