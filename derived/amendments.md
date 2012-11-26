@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6156
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `19 U.S.C. § 2241` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2241` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | by redesignating paragraph (3) as paragraph (4); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |

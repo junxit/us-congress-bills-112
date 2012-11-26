@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6156
 congress: 112
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6156
@@ -37,9 +37,10 @@ Russia and Moldova Jackson-Vanik Repeal and Sergei Magnitsky Rule of Law Account
 
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2012-11-16 — [House 112-2-608](votes/house-112-2-0608.md) — On Passage — **Passed** (365–43)
+- 2012-12-06 — [Senate 112-2-223](votes/senate-112-2-0223.md) — On Passage of the Bill — **Bill Passed** (92–4)
 
 ## Actions
 
@@ -65,3 +66,15 @@ Russia and Moldova Jackson-Vanik Repeal and Sergei Magnitsky Rule of Law Account
 - 2012-11-16 — Rule provides for consideration of H.R. 6156 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee Print 112-33 shall be considered as adopted. The resolution waives all points of order against consideration of the bill.
 - 2012-11-16 — The previous question was ordered pursuant to the rule. (consideration: CR H6417)
 - 2012-11-26 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 552.
+- 2012-12-04 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S7392-7393)
+- 2012-12-05 — Measure laid before Senate by unanimous consent. (consideration: CR S7437-7445, S7448-7453)
+- 2012-12-06 — Considered by Senate. (consideration: CR S7660-7663)
+- 2012-12-06 — Message on Senate action sent to the House.
+- 2012-12-06 — Passed Senate without amendment by Yea-Nay Vote. 92 - 4. Record Vote Number: 223.
+- 2012-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 92 - 4. Record Vote Number: 223.
+- 2012-12-07 — Presented to President.
+- 2012-12-07 — Presented to President.
+- 2012-12-14 — Became Public Law No: 112-208.
+- 2012-12-14 — Became Public Law No: 112-208.
+- 2012-12-14 — Signed by President.
+- 2012-12-14 — Signed by President.
