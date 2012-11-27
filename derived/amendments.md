@@ -1,7 +1,7 @@
 ---
 measure: S. 3642
 congress: 112
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
