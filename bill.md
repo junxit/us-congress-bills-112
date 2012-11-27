@@ -31,14 +31,12 @@ There is established in the legislative branch an independent advisory panel to�
 
 ## § 4. Membership
 
-- **(a)** *In general* The independent advisory panel (in this Act referred to as the “Panel”) established under section 3 shall be composed of ten members as follows:
+- **(a)** *In general* The independent advisory panel (in this Act referred to as the “Panel”) established under section 3 shall be composed of eight members as follows:
   - **(1)** Two members shall be appointed by the Speaker of the House of Representatives, in coordination with the Chairman of the Committee on Homeland Security of the House of Representatives. Only one of such members may be from the same political party as the Speaker of the House of Representatives.
   - **(2)** Two members shall be appointed by the majority leader of the Senate, in coordination with the Chairman of the Committee on Homeland Security and Governmental Affairs of the Senate. Only one of such members may be from the same political party as the majority leader of the Senate.
   - **(3)** One member shall be appointed by the minority leader of the House of Representatives, in coordination with the Ranking Minority Member of the Committee on Homeland Security of the House of Representatives.
   - **(4)** One member shall be appointed by the minority leader of the Senate, in coordination with the Ranking Minority Member of the Committee on Homeland Security and Governmental Affairs of the Senate.
   - **(5)** Two members shall be appointed by the President, in consultation with the Secretary of Homeland Security. Only one of such members may be from the same political party as the President.
-  - **(6)** One member shall be the Comptroller General of the United States or the Comptroller General’s designee from the Government Accountability Office.
-  - **(7)** One member shall be the Inspector General of the Department of Homeland Security or Inspector General’s designee from the Office of Inspector General of the Department of Homeland Security.
 - **(b)** *Prohibition* Except as provided in subsection (a), members of the Panel may not be current appointees of the President’s Administration or Members of Congress, in order to ensure objectivity of the Panel’s assessments.
 - **(c)** *Deadline for appointments* All appointments to the Panel shall be made not later than 90 days after the date of the enactment of this Act.
 - **(d)** *Co-Chairmen* The Panel shall have two co-chairmen, as follows:
@@ -52,24 +50,26 @@ There is established in the legislative branch an independent advisory panel to�
 
 ## § 5. Duties
 
-The Panel shall assess the current management structure and capabilities of the Department of Homeland Security, including examining the following:
-
-- **(1)** The efficiency and effectiveness of the management structure and capabilities, including the policies, practices, and procedures, of the Department of Homeland Security and its component agencies in carrying out the management functions, such as program acquisition, financial management, information technology, human capital issues, performance measurement, and risk management efforts, related to homeland security.
-- **(2)** The extent to which unnecessary duplication exists in such management structure and capabilities, and how, if at all, such duplication negatively affects the mission of protecting the United States.
-- **(3)** The extent to which management of key homeland security missions is centralized under the Department.
-- **(4)** Options, as appropriate, to reduce or eliminate harmful waste and duplication of effort in the Department.
-- **(5)** Measures to evaluate the Department’s progress in reducing and eliminating waste and duplication from its management structure and capabilities.
+- **(a)** *In general* The Panel shall assess the current management structure and capabilities of the Department of Homeland Security, including examining the following:
+  - **(1)** The efficiency and effectiveness of the management structure and capabilities, including the policies, practices, and procedures, of the Department of Homeland Security and its component agencies in carrying out the management functions, such as program acquisition, financial management, information technology, human capital issues, performance measurement, and risk management efforts, related to homeland security.
+  - **(2)** The extent to which unnecessary duplication exists in such management structure and capabilities, and how, if at all, such duplication negatively affects the mission of protecting the United States.
+  - **(3)** The extent to which management of key homeland security missions is centralized under the Department.
+  - **(4)** Options, as appropriate, to reduce or eliminate harmful waste and duplication of effort in the Department.
+  - **(5)** Measures to evaluate the Department’s progress in reducing and eliminating waste and duplication from its management structure and capabilities.
+- **(b)** *Additional considerations* In carrying out its duties, the Panel should consult and leverage the work performed and recommendations made by the Government Accountability Office on the management structure and capabilities of the Department of Homeland Security, in particular with respect to the issues identified under subsection (a).
 
 ## § 6. Powers and authorities
 
-- **(a)** *Hearings and evidence* The Panel or, on the authority of the Panel, any portion thereof, may, for the purpose of carrying out this section—
-  - **(1)** hold such hearings and sit and act at such times and places, take such testimony, receive such evidence, administer such oaths (provided that the quorum for a hearing shall be two members of the Panel); and
-  - **(2)** subject to subsection (b), require by subpoena or otherwise provide for the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents, as the Panel, or such portion thereof, may determine advisable.
+- **(a)** *Hearings and evidence*
+  - **(1)** *In general* The Panel or, on the authority of the Panel, any portion thereof, may, for the purpose of carrying out this section—
+    - **(A)** hold such hearings and sit and act at such times and places, take such testimony, receive such evidence, administer such oaths (provided that the quorum for a hearing shall be two members of the Panel); and
+    - **(B)** subject to subsection (b), require by subpoena or otherwise provide for the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents, as the Panel, or such portion thereof, may determine advisable.
+  - **(2)** *Open to the public* Hearings and other activities conducted under paragraph (1) shall be open to the public unless the Panel, or, on the authority of the Panel, any portion thereof, determines that such is not appropriate, including for reasons relating to the disclosure of information or material regarding the national security interests of the United States or the disclosure of sensitive law enforcement data.
 - **(b)** *Subpoenas*
   - **(1)** *Issuance*
     - **(A)** *In general* A subpoena may be issued under this subsection only—
       - **(i)** by the two co-chairmen; or
-      - **(ii)** by the affirmative vote of six members of the Panel.
+      - **(ii)** by the affirmative recorded vote of six members of the Panel.
     - **(B)** *Signature* Subpoenas issued under this subsection may be—
       - **(i)** issued under the signature of the two co-chairmen or any member designated by a majority of the Panel; and
       - **(ii)** served by any person designated by the two co-chairmen or by any member designated by a majority of the Panel.
@@ -102,9 +102,3 @@ The Panel shall assess the current management structure and capabilities of the 
     - **(B)** reducing or eliminating unnecessary duplication in the management structure and capabilities of the Department and its component agencies;
     - **(C)** options, as appropriate, to reduce or eliminate harmful waste and duplication of effort in the Department; and
     - **(D)** developing measures to evaluate the Department’s progress in reducing and eliminating waste and duplication from its management structure and capabilities.
-
-## § 8. Funding and resources
-
-- **(a)** *Authorization of appropriations* There is authorized to be appropriated $5,000,000 to carry out this Act.
-- **(b)** *Availability* Amounts made available to the Panel under this section shall remain available until the termination of the Panel.
-- **(c)** *Travel expenses* A member of the Panel shall serve without pay but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of such member in the performance of the duties of the Panel.
