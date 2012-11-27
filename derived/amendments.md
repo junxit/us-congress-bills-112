@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5997
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | redesignate | in subsection (a), by redesignating paragraphs (10) through (13) as paragraphs (11) through (14), respectively, and by inserting after paragraph (9) the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b)(3)(A), by striking “(a)(1)” and inserting “(a)(11)”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(3)(B), by striking “(a)(10)” and inserting “(a)(11)”. | the bill names no machine-readable US Code section |
