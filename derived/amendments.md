@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6328
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in the section heading, by inserting “and clothing” after “money”; | the bill names no machine-readable US Code section |
-| — | insert | by inserting before the text the following: “(a) Disposition of unclaimed money.—”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | The table of sections at the beginning of chapter 449 of such title is amended by striking the item relating to such section and inserting the following: | the bill names no machine-readable US Code section |
+| `49 U.S.C. § 44945` | insert | in the section heading, by inserting “and clothing” after “money”; | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 44945` | insert | by inserting before the text the following: “(a) Disposition of unclaimed money.—”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 44945` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 44945` | replace | The table of sections at the beginning of chapter 449 of such title is amended by striking the item relating to such section and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

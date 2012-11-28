@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6328
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6328
@@ -36,3 +36,4 @@ Clothe a Homeless Hero Act
 - 2012-11-27 — Mr. Bilirakis moved to suspend the rules and pass the bill.
 - 2012-11-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6440)
 - 2012-11-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6440)
+- 2012-11-28 — Received in the Senate, read twice.
