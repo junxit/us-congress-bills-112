@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5788
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5788
@@ -35,3 +35,11 @@ To designate the facility of the United States Postal Service located at 103 Cen
 - 2012-05-16 — Introduced in House
 - 2012-05-16 — Introduced in House
 - 2012-05-16 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-06-27 — Committee Consideration and Mark-up Session Held.
+- 2012-06-27 — Ordered to be Reported by Unanimous Consent.
+- 2012-11-28 — Considered under suspension of the rules. (consideration: CR H6478-6479)
+- 2012-11-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5788.
+- 2012-11-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-11-28 — Mr. Gosar moved to suspend the rules and pass the bill.
+- 2012-11-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6478)
+- 2012-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6478)
