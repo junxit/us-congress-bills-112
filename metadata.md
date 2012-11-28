@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5913
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5913
@@ -21,9 +21,10 @@ DHS Accountability Act of 2012
 - Rep. Keating, William R. [D-MA-10] (K000375)
 - Rep. Long, Billy [R-MO-7] (L000576)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ DHS Accountability Act of 2012
 - 2012-11-27 — Mr. McCaul moved to suspend the rules and pass the bill, as amended.
 - 2012-11-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6434-6435)
 - 2012-11-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6434-6435)
+- 2012-11-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
