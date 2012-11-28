@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3892
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3892
@@ -80,3 +80,12 @@ To designate the facility of the United States Postal Service located at 8771 Au
 - 2012-02-02 — Introduced in House
 - 2012-02-02 — Referred to the House Committee on Oversight and Government Reform.
 - 2012-02-02 — Sponsor introductory remarks on measure. (CR H378-379)
+- 2012-02-07 — Committee Consideration and Mark-up Session Held.
+- 2012-02-07 — Ordered to be Reported by Voice Vote.
+- 2012-11-28 — Considered under suspension of the rules. (consideration: CR H6480-6482)
+- 2012-11-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3892.
+- 2012-11-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-11-28 — Mr. Gosar moved to suspend the rules and pass the bill, as amended.
+- 2012-11-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6480)
+- 2012-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6480)
+- 2012-11-28 — The title of the measure was amended. Agreed to without objection.
