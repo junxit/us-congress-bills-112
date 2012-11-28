@@ -1,7 +1,7 @@
 ---
 measure: S. 1998
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1998
@@ -29,3 +29,9 @@ DART Act
 
 - 2011-12-15 — Introduced in Senate
 - 2011-12-15 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2012-04-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-11-02 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman under authority of the order of the Senate of 09/22/2012 with an amendment in the nature of a substitute. With written report No. 112-230.
+- 2012-11-02 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman under authority of the order of the Senate of 09/22/2012 with an amendment in the nature of a substitute. With written report No. 112-230.
+- 2012-11-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 535.
+- 2012-11-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7125; text as passed Senate: CR S7125)
+- 2012-11-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S7125; text as passed Senate: CR S7125)
