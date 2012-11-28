@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6374
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6374
@@ -16,13 +16,16 @@ To designate the facility of the Department of Veterans Affairs located at 180 M
 
 - Rep. Gingrey, Phil [R-GA-11] (G000550)
 
-## Cosponsors (5)
+## Cosponsors (8)
 
 - Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
 - Rep. Scott, David [D-GA-13] (S001157)
 - Rep. Lewis, John [D-GA-5] (L000287)
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. Kingston, Jack [R-GA-1] (K000220)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Broun, Paul C. [R-GA-10] (B001262)
 
 ## Committees (1)
 
@@ -33,3 +36,10 @@ To designate the facility of the Department of Veterans Affairs located at 180 M
 - 2012-09-11 — Introduced in House
 - 2012-09-11 — Introduced in House
 - 2012-09-11 — Referred to the House Committee on Veterans' Affairs.
+- 2012-09-21 — Referred to the Subcommittee on Health.
+- 2012-11-28 — Considered under suspension of the rules. (consideration: CR H6477-6478)
+- 2012-11-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6374.
+- 2012-11-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-11-28 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
+- 2012-11-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6477)
+- 2012-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6477)
