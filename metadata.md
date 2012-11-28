@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6025
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6025
@@ -36,10 +36,11 @@ Mandatory Operational Control Reporting and Performance Measures Act of 2012
 - Rep. Gosar, Paul A. [R-AZ-1] (G000565)
 - Rep. Culberson, John Abney [R-TX-7] (C001048)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Mandatory Operational Control Reporting and Performance Measures Act of 2012
 - 2012-11-27 — Mrs. Miller (MI) moved to suspend the rules and pass the bill, as amended.
 - 2012-11-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6432-6433)
 - 2012-11-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6432-6433)
+- 2012-11-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
