@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2338
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2338
@@ -52,3 +52,12 @@ To designate the facility of the United States Postal Service located at 600 Flo
 - 2011-06-23 — Introduced in House
 - 2011-06-23 — Introduced in House
 - 2011-06-23 — Referred to the House Committee on Oversight and Government Reform.
+- 2011-06-30 — Referred to the Subcommittee on Federal Workforce, U.S. Postal Service, and Labor Policy     .
+- 2012-06-27 — Committee Consideration and Mark-up Session Held.
+- 2012-06-27 — Ordered to be Reported by Unanimous Consent.
+- 2012-11-28 — Considered under suspension of the rules. (consideration: CR H6482-6483)
+- 2012-11-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2338.
+- 2012-11-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-11-28 — Mr. Gosar moved to suspend the rules and pass the bill.
+- 2012-11-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6482)
+- 2012-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6482)
