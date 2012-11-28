@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5997
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5997
@@ -23,9 +23,10 @@ Medical Preparedness Allowable Use Act
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 - Rep. King, Peter T. [R-NY-3] (K000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ Medical Preparedness Allowable Use Act
 - 2012-11-27 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
 - 2012-11-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 1 (Roll no. 609). (text: CR H6439)
 - 2012-11-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 1 (Roll no. 609).(text: CR H6439)
+- 2012-11-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
