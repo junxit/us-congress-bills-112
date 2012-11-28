@@ -1,7 +1,7 @@
 ---
 measure: S. 3642
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3642
@@ -20,8 +20,15 @@ Theft of Trade Secrets Clarification Act of 2012
 
 - Sen. Kohl, Herb [D-WI] (K000305)
 
+## Committees (1)
+
+- House — Judiciary Committee
+
 ## Actions
 
 - 2012-11-27 — Introduced in Senate
 - 2012-11-27 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6978-6979; text as passed Senate: CR S6979)
 - 2012-11-27 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6978-6979; text as passed Senate: CR S6979)
+- 2012-11-28 — Message on Senate action sent to the House.
+- 2012-11-28 — Received in the House.
+- 2012-11-28 — Referred to the House Committee on the Judiciary.
