@@ -1,7 +1,7 @@
 ---
 measure: S. 3542
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
