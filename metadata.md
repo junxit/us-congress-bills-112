@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3892
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3892
@@ -91,3 +91,15 @@ To designate the facility of the United States Postal Service located at 8771 Au
 - 2012-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6480)
 - 2012-11-28 — The title of the measure was amended. Agreed to without objection.
 - 2012-11-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2012-12-06 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2012-12-27 — Passed Senate without amendment by Unanimous Consent.
+- 2012-12-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-12-27 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S8454)
+- 2012-12-27 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S8454)
+- 2012-12-28 — Message on Senate action sent to the House.
+- 2012-12-31 — Presented to President.
+- 2012-12-31 — Presented to President.
+- 2013-01-10 — Became Public Law No: 112-247.
+- 2013-01-10 — Became Public Law No: 112-247.
+- 2013-01-10 — Signed by President.
+- 2013-01-10 — Signed by President.
