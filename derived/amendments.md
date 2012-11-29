@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2471
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `18 U.S.C. § 2710` | replace | Section 2710(b)(2) of title 18, United States Code, is amended by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 2710(b)(2) of title 18, United States Code, is amended by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 2702(a)(3) of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 2703 of title 18, United States Code, is amended by striking subsections (a), (b), and (c) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “A court order for disclosure under subsection (b) or (c)” and inserting “A court order for disclosure under subsection (c)”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “the contents of a wire or electronic communication, or”. | the bill names no machine-readable US Code section |
+| — | amend | Section 2705 of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
