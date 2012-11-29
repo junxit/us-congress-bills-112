@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2338
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2338
@@ -43,9 +43,10 @@ To designate the facility of the United States Postal Service located at 600 Flo
 - Rep. Adams, Sandy [R-FL-24] (A000366)
 - Rep. Rivera, David [R-FL-25] (R000590)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ To designate the facility of the United States Postal Service located at 600 Flo
 - 2012-11-28 — Mr. Gosar moved to suspend the rules and pass the bill.
 - 2012-11-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6482)
 - 2012-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6482)
+- 2012-11-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
