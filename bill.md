@@ -11,25 +11,25 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas, according to the Centers for Disease Control and Prevention (referred to in this preamble as the CDC), nearly 26,000,000 people in the United States have diabetes and 79,000,000 people in the United States have pre-diabetes;
+- Whereas according to the Centers for Disease Control and Prevention (referred to in this preamble as the CDC), nearly 26,000,000 people in the United States have diabetes and 79,000,000 people in the United States have pre-diabetes;
 - Whereas diabetes is a serious chronic condition that affects people of every age, race, ethnicity, and income level;
 - Whereas the CDC reports that Hispanics, African-Americans, Asian-Americans, and Native Americans are disproportionately affected by diabetes and suffer from diabetes at rates that are much higher than the general population of the United States;
-- Whereas, according to the CDC, someone is diagnosed with diabetes every 17 seconds;
-- Whereas, each day, approximately 5,082 people are diagnosed with diabetes;
-- Whereas, in 2010, the CDC estimated that approximately 1,900,000 individuals age 20 and older were newly diagnosed with diabetes;
+- Whereas according to the CDC, someone is diagnosed with diabetes every 17 seconds;
+- Whereas each day, approximately 5,205 people are diagnosed with diabetes;
+- Whereas in 2010, the CDC estimated that approximately 1,900,000 individuals age 20 and older were newly diagnosed with diabetes;
 - Whereas a joint National Institutes of Health and CDC study found that approximately 15,000 youth in the United States are diagnosed with type 1 diabetes annually and approximately 3,600 youth are diagnosed with type 2 diabetes annually;
-- Whereas, according to the CDC, between 1980 and 2007, the prevalence of diabetes in the United States increased by more than 300 percent;
+- Whereas according to the CDC, between 1980 and 2007, the prevalence of diabetes in the United States increased by more than 300 percent;
 - Whereas the CDC reports that more than 27 percent of individuals with diabetes are undiagnosed;
-- Whereas the National Diabetes Fact Sheet issued by the CDC states that more than 11 percent of adults in the United States and 26.9 percent of people in the United States age 60 and older have diabetes;
+- Whereas the National Diabetes Fact Sheet issued by the CDC states that more than 11 percent of adults in the United States and 26.9 percent of people in the United States age 65 and older have diabetes;
 - Whereas the CDC estimates that as many as 1 in 3 adults in the United States will have diabetes in 2050 if present trends continue;
 - Whereas the CDC estimates that as many as 1 in 2 Hispanic, African-American, Asian-American, and Native American adults will have diabetes in 2050 if present trends continue;
-- Whereas, according to the American Diabetes Association, in 2007, the total cost of diagnosed diabetes in the United States was $174,000,000,000, and 1 in 10 dollars spent on health care was attributed to diabetes and its complications;
-- Whereas, according to a Lewin Group study, in 2007, the total cost of diabetes (including both diagnosed and undiagnosed diabetes, pre-diabetes, and gestational diabetes) was $218,000,000,000;
-- Whereas a Mathematica Policy Research study in 2007 found that, for each fiscal year, total expenditures for Medicare beneficiaries with diabetes comprise 32.7 percent of the Medicare budget;
-- Whereas, according to the CDC, diabetes was the seventh leading cause of death in 2007 and contributed to the deaths of more than 230,000 people in the United States in 2007;
+- Whereas according to the American Diabetes Association, in 2007, the total cost of diagnosed diabetes in the United States was $174,000,000,000, and 1 in 10 dollars spent on health care was attributed to diabetes and its complications;
+- Whereas according to a Lewin Group study, in 2007, the total cost of diabetes (including both diagnosed and undiagnosed diabetes, pre-diabetes, and gestational diabetes) was $218,000,000,000;
+- Whereas a Mathematica Policy Research study in 2007 found that, for fiscal year 2005, total expenditures for Medicare beneficiaries with diabetes comprise 32.7 percent of the Medicare budget;
+- Whereas according to the CDC, diabetes was the seventh leading cause of death in 2007 and contributed to the deaths of more than 230,000 people in the United States in 2007;
 - Whereas there is not yet a cure for diabetes;
 - Whereas there are proven means to reduce the incidence, and delay the onset, of type 2 diabetes;
-- Whereas, with the proper management and treatment, people with diabetes live healthy, productive lives; and
+- Whereas with the proper management and treatment, people with diabetes live healthy, productive lives; and
 - Whereas American Diabetes Month is celebrated in November: Now, therefore, be it
 
 That the Senate—
