@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5954
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5954
@@ -37,9 +37,10 @@ To designate the facility of the United States Postal Service located at 320 7th
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,4 @@ To designate the facility of the United States Postal Service located at 320 7th
 - 2012-11-28 — Mr. Gosar moved to suspend the rules and pass the bill.
 - 2012-11-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6484)
 - 2012-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6484)
+- 2012-11-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
