@@ -2,14 +2,14 @@
 legis-num: H. RES. 821
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 821
 
 > Providing for consideration of the bill (H.R. 6429) to amend the Immigration and Nationality Act to promote innovation, investment, and research in the United States, to eliminate the diversity immigrant program, and for other purposes; and providing for consideration of motions to suspend the rules.
 
-That upon the adoption of this resolution it shall be in order to consider in the House the bill (H.R. 6429) to amend the Immigration and Nationality Act to promote innovation, investment, and research in the United States, to eliminate the diversity immigrant program, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 112-34, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any amendment thereto to final passage without intervening motion except: (1) 90 minutes of debate equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary; and (2) one motion to recommit with or without instructions.
+That upon the adoption of this resolution it shall be in order to consider in the House the bill (H.R. 6429) to amend the Immigration and Nationality Act to promote innovation, investment, and research in the United States, to eliminate the diversity immigrant program, and for other purposes. All points of order against consideration of the bill are waived. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 112–34, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any amendment thereto to final passage without intervening motion except: (1) 90 minutes of debate equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary; and (2) one motion to recommit with or without instructions.
 
 ## § 2.
 
