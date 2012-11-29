@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3892
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3892
@@ -70,9 +70,10 @@ To designate the facility of the United States Postal Service located at 8771 Au
 - Rep. Becerra, Xavier [D-CA-31] (B000287)
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ To designate the facility of the United States Postal Service located at 8771 Au
 - 2012-11-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6480)
 - 2012-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6480)
 - 2012-11-28 — The title of the measure was amended. Agreed to without objection.
+- 2012-11-29 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
