@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6604
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6604
@@ -36,3 +36,4 @@ To designate the federal building currently known as Federal Office Building 8, 
 - 2012-11-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6474)
 - 2012-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6474)
 - 2012-11-28 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2012-11-29 — Received in the Senate.
