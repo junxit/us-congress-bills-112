@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6374
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6374
@@ -27,9 +27,10 @@ To designate the facility of the Department of Veterans Affairs located at 180 M
 - Rep. Price, Tom [R-GA-6] (P000591)
 - Rep. Broun, Paul C. [R-GA-10] (B001262)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To designate the facility of the Department of Veterans Affairs located at 180 M
 - 2012-11-28 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
 - 2012-11-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6477)
 - 2012-11-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6477)
+- 2012-11-29 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
