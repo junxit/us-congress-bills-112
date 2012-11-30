@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4053
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4053
@@ -48,3 +48,8 @@ Improper Payments Elimination and Recovery Improvement Act of 2012
 - 2012-02-16 — Introduced in House
 - 2012-02-16 — Introduced in House
 - 2012-02-16 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-09-20 — Committee Consideration and Mark-up Session Held.
+- 2012-09-20 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2012-11-30 — Placed on the Union Calendar, Calendar No. 509.
+- 2012-11-30 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-698.
+- 2012-11-30 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-698.
