@@ -1,7 +1,7 @@
 ---
 measure: S. 1735
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1735
@@ -28,3 +28,7 @@ A bill to approve the transfer of Yellow Creek Port properties in Iuka, Mississi
 
 - 2011-10-19 — Introduced in Senate
 - 2011-10-19 — Read twice and referred to the Committee on Environment and Public Works.
+- 2012-07-25 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2012-11-30 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-243.
+- 2012-11-30 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 112-243.
+- 2012-11-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 558.
