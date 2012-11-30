@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2356
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -41,5 +41,5 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating clause (ii) as clause (iii); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (i) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | in clause (iii), as so redesignated, by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 351A(e)(3)(A) of the Public Health Service Act (42 U.S.C. 262a(e)(3)(A)) is amended by adding at the end the following: “In identifying whether an individual is within a category specified in subparagraph (B)(ii)(II), the Attorne… | the bill names no machine-readable US Code section |
