@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 2170
 
-> To amend the provisions of title 5, United States Code, which are commonly referred to as the “Hatch Act” to eliminate the provision preventing certain State and local employees from seeking elective office, clarify the application of certain provisions to the District of Columbia, and modify the penalties which may be imposed for certain violations under subchapter III of chapter 73 of that title.
+> To amend the provisions of title 5, United States Code, which are commonly referred to as the “Hatch Act”, to scale back the provision forbidding certain State and local employees from seeking elective office, clarify the application of certain provisions to the District of Columbia, and modify the penalties which may be imposed for certain violations under subchapter III of chapter 73 of that title.
 
 ## § 1. Short title
 
@@ -15,31 +15,33 @@ This Act may be cited as the “Hatch Act Modernization Act of 2012”.
 
 ## § 2. Permitting State and local employees to be candidates for elective office
 
-- **(a)** *In general* Section 1502(a) of title 5, United States Code, is amended—
-  - **(1)** in paragraph (1), by adding “or” after the semicolon;
-  - **(2)** in paragraph (2), by striking “purposes; or” and inserting “purposes.”; and
-  - **(3)** by striking paragraph (3).
-- **(b)** *Technical and conforming amendments*
-  - **(1)** *Reference to State and local officials* Section 1502 of title 5, United States Code, is amended by striking subsection (c).
-  - **(2)** *Nonpartisan candidacies*
-    - **(A)** *In general* Section 1503 of title 5, United States Code, is repealed.
-    - **(B)** *Table of sections* The table of sections for chapter 15 of title 5, United States Code, is amended by striking the item relating to section 1503.
+Section 1502(a)(3) of title 5, United States Code, is amended to read as follows:
+
+> - **(3)** if the salary of the employee is paid completely, directly or indirectly, by loans or grants made by the United States or a Federal agency, be a candidate for elective office.
 
 ## § 3. Applicability of provisions relating to State and local employees
 
-- **(a)** *State or local agency* Section 1501(2) of title 5, United States Code, is amended by inserting “, or the District of Columbia, or an agency or department thereof ” before the semicolon.
+- **(a)** *State or local agency* Section 1501(2) of title 5, United States Code, is amended by inserting “, or the executive branch of the District of Columbia, or an agency or department thereof ” before the semicolon.
 - **(b)** *State or local officer or employee* Section 1501(4) of title 5, United States Code, is amended by striking subparagraph (B) and inserting the following:
   > - **(B)** an individual employed by an educational or research institution, establishment, agency, or system which is supported in whole or in part by—
   >   - **(i)** a State or political subdivision thereof;
   >   - **(ii)** the District of Columbia; or
   >   - **(iii)** a recognized religious, philanthropic, or cultural organization.
 
-- **(c)** *Merit Systems Protection Board orders* Section 1506(a)(2) of title 5, United States Code, is amended by inserting “(or in the case of the District of Columbia, in the District of Columbia)” after “the same State”.
-- **(d)** *Provisions relating to Federal employees made inapplicable* Section 7322(1) of title 5, United States Code, is amended—
+- **(c)** *Exception of certain officers* Section 1502(c)(3) of title 5, United States Code, is amended—
+  - **(1)** by striking “‘or municipality’’ and inserting ‘‘, municipality, or the District of Columbia’”; and
+  - **(2)** by striking “‘or municipal’’ and inserting ‘‘, municipal, or the District of Columbia’”.
+- **(d)** *Merit Systems Protection Board orders* Section 1506(a)(2) of title 5, United States Code, is amended by inserting “(or in the case of the District of Columbia, in the District of Columbia)” after “the same State”.
+- **(e)** *Provisions relating to Federal employees made inapplicable* Section 7322(1) of title 5, United States Code, is amended—
   - **(1)** in subparagraph (A), by adding “or” at the end;
   - **(2)** in subparagraph (B), by striking “or” at the end;
   - **(3)** by striking subparagraph (C); and
   - **(4)** by striking “services;” and inserting “services or an individual employed or holding office in the government of the District of Columbia;”.
+- **(f)** *Employees residing in certain municipalities* Section 7325(1) of title 5, United States Code, is amended to read as follows:
+  > - **(1)** the municipality or political subdivision is—
+  >   - **(A)** the District of Columbia;
+  >   - **(B)** in Maryland or Virginia and in the immediate vicinity of the District of Columbia; or
+  >   - **(C)** a municipality in which the majority of voters are employed by the Government of the United States; and
 
 ## § 4. Hatch Act penalties for Federal employees
 

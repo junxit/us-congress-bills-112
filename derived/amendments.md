@@ -1,7 +1,7 @@
 ---
 measure: S. 2170
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-26 amendatory instructions. 0 executed, 26 stated and not applied.
+12 amendatory instructions. 0 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,20 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | in paragraph (1), by adding “or” after the semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “purposes; or” and inserting “purposes.”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraph (3). | the bill names no machine-readable US Code section |
-| — | strike | Section 1502 of title 5, United States Code, is amended by striking subsection (c). | the bill names no machine-readable US Code section |
-| — | repeal | Section 1503 of title 5, United States Code, is repealed. | the bill names no machine-readable US Code section |
-| — | strike | The table of sections for chapter 15 of title 5, United States Code, is amended by striking the item relating to section 1503. | the bill names no machine-readable US Code section |
-| — | insert | Section 1501(2) of title 5, United States Code, is amended by inserting “, or the District of Columbia, or an agency or department thereof ” before the semicolon. | the bill names no machine-readable US Code section |
-| — | replace | Section 1501(4) of title 5, United States Code, is amended by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 1506(a)(2) of title 5, United States Code, is amended by inserting “(or in the case of the District of Columbia, in the District of Columbia)” after “the same State”. | the bill names no machine-readable US Code section |
-| — | amend | in subparagraph (A), by adding “or” at the end; | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (B), by striking “or” at the end; | the bill names no machine-readable US Code section |
-| — | strike | by striking subparagraph (C); and | the bill names no machine-readable US Code section |
-| — | replace | by striking “services;” and inserting “services or an individual employed or holding office in the government of the District of Columbia;”. | the bill names no machine-readable US Code section |
-| — | replace | Chapter 73 of title 5, United States Code, is amended by striking section 7326 and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 1502(a)(3) of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | Section 1501(2) of title 5, United States Code, is amended by inserting “, or the executive branch of the District of Columbia, or an agency or department thereof ” before the semicolon. | the bill names no machine-readable US Code section |
 | — | replace | Section 1501(4) of title 5, United States Code, is amended by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
