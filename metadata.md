@@ -1,7 +1,7 @@
 ---
 measure: S. 2170
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2170
@@ -22,9 +22,10 @@ Hatch Act Modernization Act of 2012
 - Sen. Levin, Carl [D-MI] (L000261)
 - Sen. Lee, Mike [R-UT] (L000577)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -38,3 +39,6 @@ Hatch Act Modernization Act of 2012
 - 2012-09-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 508.
 - 2012-11-30 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S7307-7308; text as passed Senate: CR S7307-7308)
 - 2012-11-30 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S7307-7308; text as passed Senate: CR S7307-7308)
+- 2012-12-03 — Message on Senate action sent to the House.
+- 2012-12-03 — Received in the House.
+- 2012-12-03 — Referred to the House Committee on Oversight and Government Reform.
