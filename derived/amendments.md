@@ -1,7 +1,7 @@
 ---
 measure: S. 2170
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 

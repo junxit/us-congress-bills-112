@@ -1,7 +1,7 @@
 ---
 measure: S. 2170
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2170
@@ -42,3 +42,15 @@ Hatch Act Modernization Act of 2012
 - 2012-12-03 — Message on Senate action sent to the House.
 - 2012-12-03 — Received in the House.
 - 2012-12-03 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-12-19 — Considered under suspension of the rules. (consideration: CR H7320-7323)
+- 2012-12-19 — DEBATE - The House proceeded with forty minutes of debate on S. 2170.
+- 2012-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-19 — Mr. Farenthold moved to suspend the rules and pass the bill.
+- 2012-12-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7320)
+- 2012-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7320)
+- 2012-12-20 — Presented to President.
+- 2012-12-20 — Presented to President.
+- 2012-12-28 — Became Public Law No: 112-230.
+- 2012-12-28 — Became Public Law No: 112-230.
+- 2012-12-28 — Signed by President.
+- 2012-12-28 — Signed by President.
