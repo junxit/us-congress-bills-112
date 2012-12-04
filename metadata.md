@@ -1,7 +1,7 @@
 ---
 measure: S. 3254
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 3254
@@ -16,9 +16,716 @@ National Defense Authorization Act for Fiscal Year 2013
 
 - Sen. Levin, Carl [D-MI] (L000261)
 
+## Cosponsors (687)
+
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Portman, Rob [R-OH] (P000449)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Moran, Jerry [R-KS] (M000934)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Kirk, Mark Steven [R-IL] (K000360)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Brown, Scott P. [R-MA] (B001268)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Hagan, Kay R. [D-NC] (H001049)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Ayotte, Kelly [R-NH] (A000368)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Johanns, Mike [R-NE] (J000291)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Begich, Mark [D-AK] (B001265)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Manchin, Joe, III [D-WV] (M001183)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Johnson, Ron [R-WI] (J000293)
+
 ## Committees (1)
 
 - Senate — Armed Services Committee
+
+## Recorded votes (14)
+
+- 2012-11-28 — [Senate 112-2-206](votes/senate-112-2-0206.md) — On the Amendment — **Amendment Agreed to** (62–37)
+- 2012-11-28 — [Senate 112-2-207](votes/senate-112-2-0207.md) — On the Amendment — **Amendment Agreed to** (85–11)
+- 2012-11-29 — [Senate 112-2-208](votes/senate-112-2-0208.md) — On the Amendment — **Amendment Agreed to** (95–0)
+- 2012-11-29 — [Senate 112-2-209](votes/senate-112-2-0209.md) — On the Amendment — **Amendment Agreed to** (54–41)
+- 2012-11-29 — [Senate 112-2-210](votes/senate-112-2-0210.md) — On the Amendment — **Amendment Agreed to** (62–33)
+- 2012-11-29 — [Senate 112-2-211](votes/senate-112-2-0211.md) — On the Amendment — **Amendment Agreed to** (66–29)
+- 2012-11-29 — [Senate 112-2-212](votes/senate-112-2-0212.md) — On the Amendment — **Amendment Agreed to** (54–41)
+- 2012-11-29 — [Senate 112-2-213](votes/senate-112-2-0213.md) — On the Amendment — **Amendment Agreed to** (67–29)
+- 2012-11-30 — [Senate 112-2-214](votes/senate-112-2-0214.md) — On the Amendment — **Amendment Rejected** (41–53)
+- 2012-11-30 — [Senate 112-2-215](votes/senate-112-2-0215.md) — On the Amendment — **Amendment Agreed to** (94–0)
+- 2012-11-30 — [Senate 112-2-216](votes/senate-112-2-0216.md) — On the Motion — **Motion Rejected** (58–34)
+- 2012-12-03 — [Senate 112-2-218](votes/senate-112-2-0218.md) — On the Cloture Motion — **Cloture Motion Agreed to** (93–0)
+- 2012-12-04 — [Senate 112-2-220](votes/senate-112-2-0220.md) — On the Amendment — **Amendment Agreed to** (92–6)
+- 2012-12-04 — [Senate 112-2-221](votes/senate-112-2-0221.md) — On Passage of the Bill — **Bill Passed** (98–0)
 
 ## Actions
 
@@ -26,3 +733,997 @@ National Defense Authorization Act for Fiscal Year 2013
 - 2012-06-04 — Committee on Armed Services. Original measure reported to Senate by Senator Levin. With written report No. 112-173. Additional views filed.
 - 2012-06-04 — Introduced in Senate
 - 2012-06-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 419.
+- 2012-11-13 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S6728)
+- 2012-11-13 — Senate amendment submitted
+- 2012-11-13 — Senate amendment submitted
+- 2012-11-14 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S6765, S6769)
+- 2012-11-15 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S6829)
+- 2012-11-15 — Senate amendment submitted
+- 2012-11-15 — Senate amendment submitted
+- 2012-11-15 — Senate amendment submitted
+- 2012-11-15 — Senate amendment submitted
+- 2012-11-26 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S6890-6891)
+- 2012-11-26 — Senate amendment submitted
+- 2012-11-26 — Senate amendment submitted
+- 2012-11-26 — Senate amendment submitted
+- 2012-11-26 — Senate amendment submitted
+- 2012-11-26 — Senate amendment submitted
+- 2012-11-26 — Senate amendment submitted
+- 2012-11-26 — Senate amendment submitted
+- 2012-11-26 — Senate amendment submitted
+- 2012-11-26 — Senate amendment submitted
+- 2012-11-26 — Senate amendment submitted
+- 2012-11-26 — Senate amendment submitted
+- 2012-11-26 — Senate amendment submitted
+- 2012-11-26 — Senate amendment submitted
+- 2012-11-26 — Senate amendment submitted
+- 2012-11-26 — Senate amendment submitted
+- 2012-11-27 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S6909, S6921-6922)
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-27 — Senate amendment submitted
+- 2012-11-28 — Amendment SA 2955 agreed to in Senate by Yea-Nay Vote. 85 - 11. Record Vote Number: 207.
+- 2012-11-28 — Amendment SA 2955 proposed by Senator Leahy. (consideration: CR S7025-7029) To improve the Public Safety Officers' Benefits Program.
+- 2012-11-28 — Amendment SA 2985 agreed to in Senate by Yea-Nay Vote. 62 - 37. Record Vote Number: 206.
+- 2012-11-28 — Amendment SA 2985 proposed by Senator Reid for Senator Udall CO. (consideration: CR S6995-7005, S7006-7007, S7007, S7009-7011; text: S6995) To strike section 313, relating to a limitation on the availability of funds for the procurement of alternative fuel.
+- 2012-11-28 — Amendment SA 3016 agreed to in Senate by Voice Vote.
+- 2012-11-28 — Amendment SA 3016 proposed by Senator Gillibrand. (consideration: CR S7011-7012; text: CR S7011) To provide for the processing for administrative separation from the Armed Forces of members who are convicted of certain sexual offenses under the Uniform Code of Military Justice and not punitively discharged in connection with such convictions.
+- 2012-11-28 — Amendment SA 3051 agreed to in Senate by Voice Vote.
+- 2012-11-28 — Amendment SA 3051 proposed by Senator McCain. (consideration: CR S7005-7006, S7007, S7007-7008; text: CR S7005-7006) To authorize additional Marine Corps personnel for the performance of security functions for United States embassies, consulates, and other diplomatic facilities abroad.
+- 2012-11-28 — Amendment SA 3099 agreed to in Senate by Voice Vote.
+- 2012-11-28 — Amendment SA 3099 proposed by Senator Murray. (consideration: CR S7015) To improve mental health care programs and activities for members of the Armed Forces and veterans.
+- 2012-11-28 — Amendment SA 3123 proposed by Senator Kyl. (consideration: CR S7014-7015; text: CR S7014) To require briefings on dialogue between the United States and the Russian Federation on nuclear arms, missile defense, and long-range conventional strike systems.
+- 2012-11-28 — Measure laid before Senate by motion. (consideration: CR S6995-7031)
+- 2012-11-28 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S6995)
+- 2012-11-28 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S6985-6995)
+- 2012-11-28 — Roll call votes on amendments in Senate: Amendment SA 2955 agreed to in Senate by Yea-Nay Vote. 85 - 11. Record Vote Number: 207.
+- 2012-11-28 — Roll call votes on amendments in Senate: Amendment SA 2985 agreed to in Senate by Yea-Nay Vote. 62 - 37. Record Vote Number: 206.
+- 2012-11-28 — Senate amendment agreed to: Amendment SA 2955 agreed to in Senate by Yea-Nay Vote. 85 - 11. Record Vote Number: 207.
+- 2012-11-28 — Senate amendment agreed to: Amendment SA 2985 agreed to in Senate by Yea-Nay Vote. 62 - 37. Record Vote Number: 206.
+- 2012-11-28 — Senate amendment agreed to: Amendment SA 3016 agreed to in Senate by Voice Vote.
+- 2012-11-28 — Senate amendment agreed to: Amendment SA 3051 agreed to in Senate by Voice Vote.
+- 2012-11-28 — Senate amendment agreed to: Amendment SA 3099 agreed to in Senate by Voice Vote.
+- 2012-11-28 — Senate amendment proposed (on the floor): Amendment SA 2955 proposed by Senator Leahy.(consideration: CR S7025-7029)
+- 2012-11-28 — Senate amendment proposed (on the floor): Amendment SA 2985 proposed by Senator Reid for Senator Udall CO.(consideration: CR S6995-7005, S7006-7007, S7007, S7009-7011; text: S6995)
+- 2012-11-28 — Senate amendment proposed (on the floor): Amendment SA 3016 proposed by Senator Gillibrand.(consideration: CR S7011-7012; text: CR S7011)
+- 2012-11-28 — Senate amendment proposed (on the floor): Amendment SA 3051 proposed by Senator McCain.(consideration: CR S7005-7006, S7007, S7007-7008; text: CR S7005-7006)
+- 2012-11-28 — Senate amendment proposed (on the floor): Amendment SA 3099 proposed by Senator Murray.(consideration: CR S7015)
+- 2012-11-28 — Senate amendment proposed (on the floor): Amendment SA 3123 proposed by Senator Kyl.(consideration: CR S7014-7015; text: CR S7014)
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-28 — Senate amendment submitted
+- 2012-11-29 — Amendment SA 2888 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2888 proposed by Senator Levin for Senator Kohl. (consideration: CR S7136-7138; text: CR S7137) To provide for the payment of a benefit for the nonparticipation of eligible members in the Post-Deployment/Mobilization Respite Absence program due to Government error.
+- 2012-11-29 — Amendment SA 2924 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2924 proposed by Senator Levin for Senator Manchin. (consideration: CR S7136-7138; text: CR S7137) To require an additional element in the report on the accuracy of the Defense Enrollment Eligibility Reporting System.
+- 2012-11-29 — Amendment SA 2929 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2929 proposed by Senator Levin for Senator McCaskill. (consideration: CR S7174-7178) To improve authorities and limitations relating to wartime contracting and other acquisition-related provisions.
+- 2012-11-29 — Amendment SA 2940 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2940 proposed by Senator Levin for Senator Blumenthal. (consideration: CR S7196-7201; text: CR S7196) To provide certain requirements relating to the retirement, adoption, care, and recognition of military working dogs.
+- 2012-11-29 — Amendment SA 2942 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2942 proposed by Senator Levin for Senator McCaskill. (consideration: CR S7174-7178; text: CR S7175-7176) To expand whistleblower protections to non-Defense contractor and grantee employees.
+- 2012-11-29 — Amendment SA 2948 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2948 proposed by Senator Levin for Senator Webb. (consideration: CR S7149-7151; text: CR S7149) To extend the authority to provide a temporary increase in rates of basic allowance for housing under certain circumstances.
+- 2012-11-29 — Amendment SA 2949 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2949 proposed by Senator Levin for Senator Webb. (consideration: CR S7136-7138; text: CR S7137) To extend the temporary increase in accumulated leave carryover for members of the Armed Forces.
+- 2012-11-29 — Amendment SA 2956 agreed to in Senate by Voice Vote.
+- 2012-11-29 — Amendment SA 2956 proposed by Senator Portman. (consideration: CR S7159; text: CR S7159) To require a report on Department of Defense efforts to standardize educational transcripts issued to separating members of the Armed Forces.
+- 2012-11-29 — Amendment SA 2960 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2960 proposed by Senator Levin for Senator Wyden. (consideration: CR S7136-7138; text: CR S7137) To require a report on mechanisms to ease the reintegration into civilian life of members of the National Guard and the Reserves following a deployment on active duty.
+- 2012-11-29 — Amendment SA 2962 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2962 proposed by Senator Levin for Senator Sessions. (consideration: CR S7149-7151; text: CR S7149-7150) To express the sense of Congress on the submittal to Congress of the homeland defense hedging policy and strategy of the Secretary of Defense.
+- 2012-11-29 — Amendment SA 2963 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2963 proposed by Senator Levin for Senator Sessions. (consideration: CR S7136-7138; text: CR S7137) To authorize the posthumous honorary promotion of Sergeant Paschal Conley to second lieutenant in the Army.
+- 2012-11-29 — Amendment SA 2966 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2966 proposed by Senator Levin for Senator Hatch. (consideration: CR S7174-7178; text: CR S7176) To reauthorize and expand the multi-trades demonstration project.
+- 2012-11-29 — Amendment SA 2969 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2969 proposed by Senator Levin for Senator Heller. (consideration: CR S7136-7138; text: CR S7137-7138) To require a report on the future availability of TRICARE Prime throughout the United States.
+- 2012-11-29 — Amendment SA 2971 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2971 proposed by Senator Levin for Senator Inhofe. (consideration: CR S7149-7151; text: CR S7150) To express the sense of the Senate on the protection of Department of Defense airfields, training airspace, and air training routes.
+- 2012-11-29 — Amendment SA 2972 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2972 proposed by Senator Inhofe. (consideration: CR S7154; text: CR S7154) To express the sense of Congress that the bugle call commonly known as "Taps" should be designated as the National Song of Military Remembrance.
+- 2012-11-29 — Amendment SA 2973 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2973 proposed by Senator Levin for Senator Inhofe. (consideration: CR S7174-7178; text: CR S7176) To express the sense of the Senate on training of mental health counselors for members of the Armed Forces, veterans, and their families.
+- 2012-11-29 — Amendment SA 2980 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2980 proposed by Senator Levin for Senator Boxer. (consideration: CR S7174-7178; text: CR S7176-7177) To require an Inspector General of the Department of Defense report on allowable costs of compensation of employees of Department of Defense contractors.
+- 2012-11-29 — Amendment SA 2981 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2981 proposed by Senator Levin for Senator Boxer. (consideration: CR S7149-7151; text: CR S7151) To prohibit the issuance of a waiver for commissioning or enlistment in the Armed Forces for any individual convicted of a felony sexual offense.
+- 2012-11-29 — Amendment SA 2986 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2986 proposed by Senator Levin for Senator Casey. (consideration: CR S7149-7151; text: CR S7150) To require contractors to notify small business concerns that they have been included in offers relating to contracts let by Federal agencies.
+- 2012-11-29 — Amendment SA 2989 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2989 proposed by Senator Levin for Senator Murray. (consideration: CR S7149-7151; text: CR S7150) To extend the authority of the Secretary of Veterans Affairs and the Secretary of Labor to carry out a program of referral and counseling services to veterans at risk of homelessness who are transitioning from certain institutions.
+- 2012-11-29 — Amendment SA 2991 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2991 proposed by Senator Levin for Senator Hoeven. (consideration: CR S7136-7138; text: CR S7138) To express the sense of the Senate on the maintenance by the United States of a triad of strategic nuclear delivery systems.
+- 2012-11-29 — Amendment SA 2994 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 2994 proposed by Senator Levin for Senator Casey. (consideration: CR S7174-7178; text: CR S7177) To require a report on a program on the return of rare earth phosphors from Department of Defense fluorescent lighting waste to the domestic rare earth supply chain.
+- 2012-11-29 — Amendment SA 2995 agreed to in Senate by Voice Vote.
+- 2012-11-29 — Amendment SA 2995 proposed by Senator Portman. (consideration: CR S7149; text: CR S7149) To enhance authorities relating to the admission of defense industry civilians to certain Department of Defense educational institutions and programs.
+- 2012-11-29 — Amendment SA 3018 agreed to in Senate by Yea-Nay Vote. 67 - 29. Record Vote Number: 213.
+- 2012-11-29 — Amendment SA 3018 proposed by Senator Feinstein. (consideration: CR S7181-7188, S7193; text: CR S7181) To clarify that an authorization to use military force, a declaration of war, or any similar authority shall not authorize the detention without charge or trial of a citizen or lawful permanent resident of the United States.
+- 2012-11-29 — Amendment SA 3036 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3036 proposed by Senator Levin for Senator Brown MA. (consideration: CR S7196-7201; text: CR S7196) To require reports on the potential security threat posed by Boko Haram.
+- 2012-11-29 — Amendment SA 3058 as modified agreed to in Senate by Yea-Nay Vote. 66 - 29. Record Vote Number: 211. (text as modified: CR S7156)
+- 2012-11-29 — Amendment SA 3058 proposed by Senator Gillibrand. (consideration: CR S7156-7158) To provide for certain treatment of autism under the TRICARE program.
+- 2012-11-29 — Amendment SA 3059 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3059 proposed by Senator Levin for Senator Toomey. (consideration: CR S7174-7178; text: CR S7177) To require a report on the establishment of a joint Armed Forces historical storage and preservation facility.
+- 2012-11-29 — Amendment SA 3064 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3064 proposed by Senator Levin for Senator Toomey. (consideration: CR S7196-7201; text: CR S7196) To require a study on the Bradley Fighting Vehicle industrial base.
+- 2012-11-29 — Amendment SA 3072 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3072 proposed by Senator Levin for Senator Inhofe. (consideration: CR S7174-7178; text: CR S7177) To express the sense of Senate on increasing the cost-effectiveness of training exercises for members of the Armed Forces.
+- 2012-11-29 — Amendment SA 3083 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3083 proposed by Senator Levin for Senator Barrasso. (consideration: CR S7136-7138; text: CR S7138) To authorize the Secretary of Defense to maintain the readiness and flexibility of the intercontinental ballistic missile force.
+- 2012-11-29 — Amendment SA 3085 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3085 proposed by Senator Levin for Senator Vitter. (consideration: CR S7149-7151; text: CR S7150) To require additional elements in the plan on the rationalization of cyber networks and cyber personnel of the Department of Defense.
+- 2012-11-29 — Amendment SA 3086 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3086 proposed by Senator Levin for Senator Vitter. (consideration: CR S7174-7178; text: CR S7177) To require assessments by the Air Force of the effects of proposed movements of airframes on joint readiness training.
+- 2012-11-29 — Amendment SA 3090 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7169-7174)
+- 2012-11-29 — Amendment SA 3090 proposed by Senator Levin for Senator Lieberman. (consideration: CR S7169-7174) To improve the provision of assistance to fire departments and to reauthorize the United States Fire Administration.
+- 2012-11-29 — Amendment SA 3095 agreed to in Senate by Yea-Nay Vote. 54 - 41. Record Vote Number: 209.
+- 2012-11-29 — Amendment SA 3095 proposed by Senator Hagan. (consideration: CR S7144-7145, S7145-7146; text: CR S7144) To strike the prohibition on biofuel refinery construction.
+- 2012-11-29 — Amendment SA 3096 as modified agreed to in Senate by Yea-Nay Vote. 62 - 33. Record Vote Number: 210. (text as modified: CR S7148)
+- 2012-11-29 — Amendment SA 3096 proposed by Senator Merkley. (consideration: CR S7148-7149, S7151-7152) To express the sense of Congress on the accelerated transition of United States combat and military and security operations to the Government of Afghanistan.
+- 2012-11-29 — Amendment SA 3098 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3098 proposed by Senator Levin for Senator Shaheen. (consideration: CR S7174-7178; text: CR S7177-7178) To require a report by the suspension and debarment officials of the military departments and the Defense Logistics Agency.
+- 2012-11-29 — Amendment SA 3110 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3110 proposed by Senator Levin for Senator Coburn. (consideration: CR S7149-7151; text: CR S7150) To require a report on the balances carried forward by the Department of Defense at the end of fiscal year 2012.
+- 2012-11-29 — Amendment SA 3114 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3114 proposed by Senator Levin. (consideration: CR S7196-7201; text: CR S7196-7197) To authorize the repair, overhaul, and refurbishment of defense articles for sale or transfer to eligible foreign countries and entities.
+- 2012-11-29 — Amendment SA 3124 as modified agreed to in Senate by Voice Vote. (text as modified: CR S7153)
+- 2012-11-29 — Amendment SA 3124 proposed by Senator Blumenthal. (consideration: CR S7152-7154) To prevent human trafficking in government contracting.
+- 2012-11-29 — Amendment SA 3158 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 208.
+- 2012-11-29 — Amendment SA 3158 proposed by Senator Cornyn. (consideration: CR S7143-7144, S7145; text: CR S7143-7144) To require the Secretary of Veterans Affairs to submit to Congress a plan to reduce the current backlog of veterans claims.
+- 2012-11-29 — Amendment SA 3166 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3166 proposed by Senator Levin for Senator Manchin. (consideration: CR S7149-7151; text: CR S7150) To require a report on the future of family support programs of the Department of Defense.
+- 2012-11-29 — Amendment SA 3180 agreed to in Senate by Voice Vote.
+- 2012-11-29 — Amendment SA 3180 proposed by Senator Whitehouse. (consideration: CR S7162-7164; text: CR S7162) To provide for scientific frameworks with respect to recalcitrant cancers.
+- 2012-11-29 — Amendment SA 3186 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3186 proposed by Senator Levin for Senator Coburn. (consideration: CR S7174-7178; text: CR S7178) To require a study on small arms and ammunition acquisition.
+- 2012-11-29 — Amendment SA 3193 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3193 proposed by Senator Levin for Senator Casey. (consideration: CR S7196-7201; text: CR S7197) To require the Department of Defense to develop a plan to promote the security of Afghan women and girls during the security transition process.
+- 2012-11-29 — Amendment SA 3199 as modified agreed to in Senate by Voice Vote. (text as modified: CR S7203)
+- 2012-11-29 — Amendment SA 3199 proposed by Senator Levin for Senator Durbin. (consideration: CR S7189-7191, S7203-7206; text: CR S7191) To impose sanctions with respect to persons that provide significant financial, material, or technological support to the rebel group known as M23 operating in the Democratic Republic of the Congo.
+- 2012-11-29 — Amendment SA 3201 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3201 proposed by Senator Inhofe for Senator Coons. (consideration: CR S7180-7181; text: CR S7181) To express the sense of the Senate on ongoing efforts to apprehend or remove Joseph Kony and his top commanders from the battlefield and end atrocities perpetuated by his Lord's Resistance Army.
+- 2012-11-29 — Amendment SA 3213 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3213 proposed by Senator Levin for Senator Risch. (consideration: CR S7196-7201; text: CR S7197-7198) To add the Select Committee on Intelligence and the Committee on Foreign Relations of the Senate and the Permanent Select Committee on Intelligence and the Committee on Foreign Affairs of the House of Representatives to the list of congressional committees to receive the submission of reports on the program for scientific engagement for nonproliferation.
+- 2012-11-29 — Amendment SA 3220 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3220 proposed by Senator Levin for Senator Wicker. (consideration: CR S7196-7201; text: CR S7198) To express the sense of Congress in support of the Israeli Iron Dome defensive weapon system.
+- 2012-11-29 — Amendment SA 3222 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3222 proposed by Senator Levin for Senator Johanns. (consideration: CR S7196-7201; text: CR S7198) To express the expectation of Congress to be consulted by the Secretary of Defense before the Secretary pursues a change in the command status of the United States Cyber Command.
+- 2012-11-29 — Amendment SA 3230 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3230 proposed by Senator Levin for Senator Boxer. (consideration: CR S7174-7178; text: CR S7176) To reauthorize and modify the responsibilities of the United States Advisory Commission on Public Diplomacy through fiscal year 2014.
+- 2012-11-29 — Amendment SA 3232 proposed by Senator Menendez. (consideration: CR S7201-7203) To enhance sanctions imposed with respect to Iran.
+- 2012-11-29 — Amendment SA 3237 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3237 proposed by Senator Levin for Senator Coburn. (consideration: CR S7196-7201; text: CR S7198-7199) To set forth consequences for the failure of the Department of Defense to obtain audits with an unqualified opinion on its financial statements by fiscal year 2017.
+- 2012-11-29 — Amendment SA 3243 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3243 proposed by Senator Levin. (consideration: CR S7196-7201; text: CR S7199-7200) To commend the Enduring Strategic Partnership Agreement between the United States of America and the Islamic Republic of Afghanistan.
+- 2012-11-29 — Amendment SA 3245 agreed to in Senate by Yea-Nay Vote. 54 - 41. Record Vote Number: 212.
+- 2012-11-29 — Amendment SA 3245 proposed by Senator Ayotte. (consideration: CR S7178-7180, S7191-7192; text: CR S7178) To prohibit the use of funds for the transfer or release of certain individuals from United States Naval Station, Guantanamo Bay, Cuba.
+- 2012-11-29 — Amendment SA 3256 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3256 proposed by Senator Levin for Senator Lieberman. (consideration: CR S7196-7201; text: CR S7200) To require reports from the Comptroller General of the United States on certain aspects of joint professional military education.
+- 2012-11-29 — Amendment SA 3260 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3260 proposed by Senator Levin for Senator Cornyn. (consideration: CR S7196-7201; text: CR S7200) To prohibit the use of funds to enter into contracts or agreements with Rosoboronexport.
+- 2012-11-29 — Amendment SA 3261 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3261 proposed by Senator Levin for Senator McCain. (consideration: CR S7196-7201; text: CR S7200) To require the submittal to Congress of risk assessments on changes in United States troop levels in Afghanistan.
+- 2012-11-29 — Amendment SA 3271 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3271 proposed by Senator Levin for Senator Kyl. (consideration: CR S7196-7201; text: CR S7201) To promote the development of an adequate, reliable, and stable supply of critical and essential minerals in the United States in order to strengthen and sustain the military readiness, national security, and critical infrastructure of the United States.
+- 2012-11-29 — Amendment SA 3275 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3275 proposed by Senator Levin for Senator Webb. (consideration: CR S7196-7201; text: CR S7201) To express the sense of the Senate on the situation in the Senkaku Islands.
+- 2012-11-29 — Amendment SA 3279 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Amendment SA 3279 proposed by Senator Levin for Senator Nelson NE. (consideration: CR S7196-7201; text: CR S7201) To express the sense of Congress that external and independent oversight of the National Nuclear Security Administration by the Department of Energy is critical to the mission of protecting the United States nuclear security enterprise.
+- 2012-11-29 — Considered by Senate. (consideration: CR S7136)
+- 2012-11-29 — Considered by Senate. (consideration: CR S7136-7146, S7148-7206)
+- 2012-11-29 — Roll call votes on amendments in Senate: Amendment SA 3018 agreed to in Senate by Yea-Nay Vote. 67 - 29. Record Vote Number: 213.
+- 2012-11-29 — Roll call votes on amendments in Senate: Amendment SA 3058 as modified agreed to in Senate by Yea-Nay Vote. 66 - 29. Record Vote Number: 211.(text as modified: CR S7156)
+- 2012-11-29 — Roll call votes on amendments in Senate: Amendment SA 3095 agreed to in Senate by Yea-Nay Vote. 54 - 41. Record Vote Number: 209.
+- 2012-11-29 — Roll call votes on amendments in Senate: Amendment SA 3096 as modified agreed to in Senate by Yea-Nay Vote. 62 - 33. Record Vote Number: 210.(text as modified: CR S7148)
+- 2012-11-29 — Roll call votes on amendments in Senate: Amendment SA 3158 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 208.
+- 2012-11-29 — Roll call votes on amendments in Senate: Amendment SA 3245 agreed to in Senate by Yea-Nay Vote. 54 - 41. Record Vote Number: 212.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2888 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2924 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2929 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2940 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2942 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2948 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2949 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2956 agreed to in Senate by Voice Vote.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2960 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2962 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2963 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2966 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2969 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2971 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2972 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2973 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2980 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2981 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2986 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2989 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2991 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2994 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 2995 agreed to in Senate by Voice Vote.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3018 agreed to in Senate by Yea-Nay Vote. 67 - 29. Record Vote Number: 213.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3036 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3058 as modified agreed to in Senate by Yea-Nay Vote. 66 - 29. Record Vote Number: 211.(text as modified: CR S7156)
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3059 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3064 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3072 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3083 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3085 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3086 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3090 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7169-7174)
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3095 agreed to in Senate by Yea-Nay Vote. 54 - 41. Record Vote Number: 209.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3096 as modified agreed to in Senate by Yea-Nay Vote. 62 - 33. Record Vote Number: 210.(text as modified: CR S7148)
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3098 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3110 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3114 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3124 as modified agreed to in Senate by Voice Vote.(text as modified: CR S7153)
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3158 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 208.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3166 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3180 agreed to in Senate by Voice Vote.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3186 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3193 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3199 as modified agreed to in Senate by Voice Vote.(text as modified: CR S7203)
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3201 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3213 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3220 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3222 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3230 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3237 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3243 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3245 agreed to in Senate by Yea-Nay Vote. 54 - 41. Record Vote Number: 212.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3256 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3260 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3261 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3271 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3275 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment agreed to: Amendment SA 3279 agreed to in Senate by Unanimous Consent.
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2888 proposed by Senator Levin for Senator Kohl.(consideration: CR S7136-7138; text: CR S7137)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2924 proposed by Senator Levin for Senator Manchin.(consideration: CR S7136-7138; text: CR S7137)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2929 proposed by Senator Levin for Senator McCaskill.(consideration: CR S7174-7178)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2940 proposed by Senator Levin for Senator Blumenthal.(consideration: CR S7196-7201; text: CR S7196)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2942 proposed by Senator Levin for Senator McCaskill.(consideration: CR S7174-7178; text: CR S7175-7176)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2948 proposed by Senator Levin for Senator Webb.(consideration: CR S7149-7151; text: CR S7149)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2949 proposed by Senator Levin for Senator Webb.(consideration: CR S7136-7138; text: CR S7137)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2956 proposed by Senator Portman.(consideration: CR S7159; text: CR S7159)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2960 proposed by Senator Levin for Senator Wyden.(consideration: CR S7136-7138; text: CR S7137)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2962 proposed by Senator Levin for Senator Sessions.(consideration: CR S7149-7151; text: CR S7149-7150)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2963 proposed by Senator Levin for Senator Sessions.(consideration: CR S7136-7138; text: CR S7137)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2966 proposed by Senator Levin for Senator Hatch.(consideration: CR S7174-7178; text: CR S7176)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2969 proposed by Senator Levin for Senator Heller.(consideration: CR S7136-7138; text: CR S7137-7138)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2971 proposed by Senator Levin for Senator Inhofe.(consideration: CR S7149-7151; text: CR S7150)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2972 proposed by Senator Inhofe.(consideration: CR S7154; text: CR S7154)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2973 proposed by Senator Levin for Senator Inhofe.(consideration: CR S7174-7178; text: CR S7176)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2980 proposed by Senator Levin for Senator Boxer.(consideration: CR S7174-7178; text: CR S7176-7177)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2981 proposed by Senator Levin for Senator Boxer.(consideration: CR S7149-7151; text: CR S7151)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2986 proposed by Senator Levin for Senator Casey.(consideration: CR S7149-7151; text: CR S7150)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2989 proposed by Senator Levin for Senator Murray.(consideration: CR S7149-7151; text: CR S7150)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2991 proposed by Senator Levin for Senator Hoeven.(consideration: CR S7136-7138; text: CR S7138)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2994 proposed by Senator Levin for Senator Casey.(consideration: CR S7174-7178; text: CR S7177)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 2995 proposed by Senator Portman.(consideration: CR S7149; text: CR S7149)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3018 proposed by Senator Feinstein.(consideration: CR S7181-7188, S7193; text: CR S7181)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3036 proposed by Senator Levin for Senator Brown MA.(consideration: CR S7196-7201; text: CR S7196)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3058 proposed by Senator Gillibrand.(consideration: CR S7156-7158)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3059 proposed by Senator Levin for Senator Toomey.(consideration: CR S7174-7178; text: CR S7177)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3064 proposed by Senator Levin for Senator Toomey.(consideration: CR S7196-7201; text: CR S7196)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3072 proposed by Senator Levin for Senator Inhofe.(consideration: CR S7174-7178; text: CR S7177)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3083 proposed by Senator Levin for Senator Barrasso.(consideration: CR S7136-7138; text: CR S7138)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3085 proposed by Senator Levin for Senator Vitter.(consideration: CR S7149-7151; text: CR S7150)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3086 proposed by Senator Levin for Senator Vitter.(consideration: CR S7174-7178; text: CR S7177)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3090 proposed by Senator Levin for Senator Lieberman.(consideration: CR S7169-7174)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3095 proposed by Senator Hagan.(consideration: CR S7144-7145, S7145-7146; text: CR S7144)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3096 proposed by Senator Merkley.(consideration: CR S7148-7149, S7151-7152)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3098 proposed by Senator Levin for Senator Shaheen.(consideration: CR S7174-7178; text: CR S7177-7178)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3110 proposed by Senator Levin for Senator Coburn.(consideration: CR S7149-7151; text: CR S7150)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3114 proposed by Senator Levin.(consideration: CR S7196-7201; text: CR S7196-7197)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3124 proposed by Senator Blumenthal.(consideration: CR S7152-7154)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3158 proposed by Senator Cornyn.(consideration: CR S7143-7144, S7145; text: CR S7143-7144)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3166 proposed by Senator Levin for Senator Manchin.(consideration: CR S7149-7151; text: CR S7150)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3180 proposed by Senator Whitehouse.(consideration: CR S7162-7164; text: CR S7162)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3186 proposed by Senator Levin for Senator Coburn.(consideration: CR S7174-7178; text: CR S7178)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3193 proposed by Senator Levin for Senator Casey.(consideration: CR S7196-7201; text: CR S7197)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3199 proposed by Senator Levin for Senator Durbin.(consideration: CR S7189-7191, S7203-7206; text: CR S7191)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3201 proposed by Senator Inhofe for Senator Coons.(consideration: CR S7180-7181; text: CR S7181)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3213 proposed by Senator Levin for Senator Risch.(consideration: CR S7196-7201; text: CR S7197-7198)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3220 proposed by Senator Levin for Senator Wicker.(consideration: CR S7196-7201; text: CR S7198)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3222 proposed by Senator Levin for Senator Johanns.(consideration: CR S7196-7201; text: CR S7198)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3230 proposed by Senator Levin for Senator Boxer.(consideration: CR S7174-7178; text: CR S7176)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3232 proposed by Senator Menendez.(consideration: CR S7201-7203)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3237 proposed by Senator Levin for Senator Coburn.(consideration: CR S7196-7201; text: CR S7198-7199)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3243 proposed by Senator Levin.(consideration: CR S7196-7201; text: CR S7199-7200)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3245 proposed by Senator Ayotte.(consideration: CR S7178-7180, S7191-7192; text: CR S7178)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3256 proposed by Senator Levin for Senator Lieberman.(consideration: CR S7196-7201; text: CR S7200)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3260 proposed by Senator Levin for Senator Cornyn.(consideration: CR S7196-7201; text: CR S7200)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3261 proposed by Senator Levin for Senator McCain.(consideration: CR S7196-7201; text: CR S7200)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3271 proposed by Senator Levin for Senator Kyl.(consideration: CR S7196-7201; text: CR S7201)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3275 proposed by Senator Levin for Senator Webb.(consideration: CR S7196-7201; text: CR S7201)
+- 2012-11-29 — Senate amendment proposed (on the floor): Amendment SA 3279 proposed by Senator Levin for Senator Nelson NE.(consideration: CR S7196-7201; text: CR S7201)
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-29 — Senate amendment submitted
+- 2012-11-30 — Amendment SA 2959 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Amendment SA 2959 proposed by Senator Levin for Senator Wyden. (consideration: CR S7294-7298; text: CR S7294) To require reports on the use of indemnification agreements in Department of Defense contracts.
+- 2012-11-30 — Amendment SA 2984 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Amendment SA 2984 proposed by Senator Levin for Senator Bingaman. (consideration: CR S7294-7298; text: CR S7294) To provide for national security benefits for White Sands Missile Range and Fort Bliss.
+- 2012-11-30 — Amendment SA 3009 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Amendment SA 3009 proposed by Senator Sessions. (consideration: CR S7280-7281; text: CR S7280-7281) To provide for congressional review of any bilateral security agreement with Afghanistan.
+- 2012-11-30 — Amendment SA 3025 not agreed to in Senate by Yea-Nay Vote. 41 - 53. Record Vote Number: 214.
+- 2012-11-30 — Amendment SA 3025 proposed by Senator Cardin. (consideration: CR S7281-7282; text: CR S7281) To ensure sufficient sizing of the civilian and contract services workforces of the Department of Defense.
+- 2012-11-30 — Amendment SA 3052 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Amendment SA 3052 proposed by Senator Levin for Senator McCain. (consideration: CR S7288-7290; text: CR S7288) To provide a military resource plan to meet the United States Force Posture Strategy in the Asia Pacific Region.
+- 2012-11-30 — Amendment SA 3073 proposed by Senator Nelson FL. (consideration: CR S7284-7285; text: CR S7284) To repeal the requirement for reduction of survivor annuities under the Survivor Benefit Plan by veterans' dependency and indemnity compensation.
+- 2012-11-30 — Amendment SA 3073 ruled out of order by the chair.
+- 2012-11-30 — Amendment SA 3075 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Amendment SA 3075 proposed by Senator Levin for Senator Whitehouse. (consideration: CR S7288-7290; text: CR S7288) To express the sense of the Senate on the continuing progress of the Department of Defense in implementing its Item Unique Identification Initiative.
+- 2012-11-30 — Amendment SA 3079 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Amendment SA 3079 proposed by Senator Levin for Senator Grassley. (consideration: CR S7294-7298; text: CR S7294) To permit Federal officers to remove cases involving crimes of violence to Federal court.
+- 2012-11-30 — Amendment SA 3082 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Amendment SA 3082 proposed by Senator Levin for Senator Barrasso. (consideration: CR S7294-7298; text: CR S7294-7295) To require a report on the issuance by the Armed Forces Medical Examiner of death certificates for members of the Armed Forces who die on active duty abroad.
+- 2012-11-30 — Amendment SA 3087 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR: S7295)
+- 2012-11-30 — Amendment SA 3087 proposed by Senator Levin for Senator Vitter. (consideration: CR S7294-7298) To require a report on Department of the Navy plans to implement efficiency initiatives to reduce overhead costs at the Space and Naval Warfare Systems Command (SPAWAR).
+- 2012-11-30 — Amendment SA 3102 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Amendment SA 3102 proposed by Senator Levin for Senator Klobuchar. (consideration: CR S7294-7298; text: CR S7295) To provide for the retention of certain forms in connection with Restricted Reports on sexual assault involving members of the Armed Forces.
+- 2012-11-30 — Amendment SA 3105 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Amendment SA 3105 proposed by Senator Levin for Senator Klobuchar. (consideration: CR S7294-7298; text: CR S7295) Relating to the prevention and response to sexual harassment in the Armed Forces.
+- 2012-11-30 — Amendment SA 3133 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Amendment SA 3133 proposed by Senator Levin for Senator Snowe. (consideration: CR S7288-7290; text: CR S7288-7289) To terminate the Federal authorization of the National Veterans Business Development Corporation.
+- 2012-11-30 — Amendment SA 3135 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Amendment SA 3135 proposed by Senator Levin for Senator Murkowski. (consideration: CR S7294-7298; text: CR S7295) To extend the deadline for submission of a report on the findings and conclusions of the National Commission on the Structure of the Air Force.
+- 2012-11-30 — Amendment SA 3145 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Amendment SA 3145 proposed by Senator Levin for Senator Warner. (consideration: CR S7294-7298; text: CR S7295-7296) To require a study on the ability of national air and ground test and evaluation infrastructure facilities to support defense hypersonic test and evaluation activities.
+- 2012-11-30 — Amendment SA 3182 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Amendment SA 3182 proposed by Senator Levin for Senator Sanders. (consideration: CR S7288-7290; text: CR S7289) To require an annual report on Federal contracting fraud.
+- 2012-11-30 — Amendment SA 3183 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Amendment SA 3183 proposed by Senator Levin for Senator Sanders. (consideration: CR S7288-7290; text: CR S7289) To require public availability of the database of senior Department officials seeking employment with defense contractors.
+- 2012-11-30 — Amendment SA 3196 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7296)
+- 2012-11-30 — Amendment SA 3196 proposed by Senator Levin for Senator Collins. (consideration: CR S7294-7298) To require a research study on resilience in members of the Army.
+- 2012-11-30 — Amendment SA 3198 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Amendment SA 3198 proposed by Senator Levin for Senator Barrasso. (consideration: CR S7294-7298; text: CR S7296) To renew expired prohibition on return of veterans memorial objects without specific authorization in law.
+- 2012-11-30 — Amendment SA 3232 agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 215.
+- 2012-11-30 — Amendment SA 3233 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Amendment SA 3233 proposed by Senator Levin for Senator Warner. (consideration: CR S7288-7290; text: CR S7289) To promote a more efficient, responsive, and effective bilateral defense trade relationship between the United States and India.
+- 2012-11-30 — Amendment SA 3234 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Amendment SA 3234 proposed by Senator Levin for Senator Klobuchar. (consideration: CR S7294-7298; text: CR S7296) To enhance the annual reports regarding sexual assaults involving members of the Armed Forces.
+- 2012-11-30 — Amendment SA 3236 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Amendment SA 3236 proposed by Senator Levin for Senator Coburn. (consideration: CR S7288-7290; text: CR S7289) To ensure that the Deputy Chief Management Officer of the Department of Defense obtains information from the military departments and Defense Agencies necessary to conduct defense business system investment reviews.
+- 2012-11-30 — Amendment SA 3244 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Amendment SA 3244 proposed by Senator Levin for Senator Reid. (consideration: CR S7294-7298; text: CR S7296-7297) To amend title 18, United States Code, to provide penalties for transporting minors in foreign commerce for the purposes of female genital mutilation.
+- 2012-11-30 — Amendment SA 3247 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7297)
+- 2012-11-30 — Amendment SA 3247 proposed by Senator Levin for Senator McCain. (consideration: CR S7294-7298) Relating to the transfer of excess aircraft.
+- 2012-11-30 — Amendment SA 3248 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Amendment SA 3248 proposed by Senator Levin for Senator Sanders. (consideration: CR S7288-7290; text: CR S7289) To amend the Federal renewable energy purchase requirement to include geothermal heat pumps.
+- 2012-11-30 — Amendment SA 3258 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Amendment SA 3258 proposed by Senator Levin for Senator Alexander. (consideration: CR S7294-7298; text: CR S7297) To modify the authority to carry out a fiscal year 2011 military construction project at Nashville International Airport.
+- 2012-11-30 — Amendment SA 3280 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Amendment SA 3280 proposed by Senator Levin. (consideration: CR S7294-7298; text: CR S7297) To require reports to the Department of Defense on penetrations of networks and information systems of certain contractors.
+- 2012-11-30 — Amendment SA 3283 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Amendment SA 3283 proposed by Senator Levin for Senator Rubio. (consideration: CR S7288-7290; text: CR S7289-7290) To require a report on implementation by the Government of Bahrain of the recommendations contained in the Report of the Bahrain Independent Commission of Inquiry.
+- 2012-11-30 — Amendment SA 3290 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Amendment SA 3290 proposed by Senator Levin for Senator Begich. (consideration: CR S7294-7298; text: CR S7297-7298) To modify notice requirements in advance of permanent reductions of sizeable numbers of members of the Armed Forces at military installations.
+- 2012-11-30 — Cloture motion on the bill presented in Senate. (consideration: CR S7293; text: CR S7293)
+- 2012-11-30 — Considered by Senate. (consideration: CR S7280, S7282-7283)
+- 2012-11-30 — Considered by Senate. (consideration: CR S7280, S7285-7288)
+- 2012-11-30 — Considered by Senate. (consideration: CR S7280-7293, S7293-7300)
+- 2012-11-30 — Motion to waive section 302(f) of the CBA with respect to amendment SA 3073 rejected in Senate by Yea-Nay Vote. 58 - 34. Record Vote Number: 216.
+- 2012-11-30 — Point of order that the amendment violates section 302(f) of the CBA raised in Senate with respect to amendment SA 3073.
+- 2012-11-30 — Roll call votes on amendments in Senate: Amendment SA 3025 not agreed to in Senate by Yea-Nay Vote. 41 - 53. Record Vote Number: 214.
+- 2012-11-30 — Roll call votes on amendments in Senate: Amendment SA 3232 agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 215.
+- 2012-11-30 — Roll call votes on amendments in Senate: Motion to waive section 302(f) of the CBA with respect to amendment SA 3073 rejected in Senate by Yea-Nay Vote. 58 - 34. Record Vote Number: 216.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 2959 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 2984 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3009 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3052 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3075 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3079 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3082 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3087 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR: S7295)
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3102 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3105 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3133 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3135 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3145 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3182 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3183 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3196 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7296)
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3198 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3232 agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 215.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3233 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3234 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3236 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3244 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3247 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7297)
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3248 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3258 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3280 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3283 agreed to in Senate by Voice Vote.
+- 2012-11-30 — Senate amendment agreed to: Amendment SA 3290 agreed to in Senate by Unanimous Consent.
+- 2012-11-30 — Senate amendment not agreed to: Amendment SA 3025 not agreed to in Senate by Yea-Nay Vote. 41 - 53. Record Vote Number: 214.
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 2959 proposed by Senator Levin for Senator Wyden.(consideration: CR S7294-7298; text: CR S7294)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 2984 proposed by Senator Levin for Senator Bingaman.(consideration: CR S7294-7298; text: CR S7294)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3009 proposed by Senator Sessions.(consideration: CR S7280-7281; text: CR S7280-7281)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3025 proposed by Senator Cardin.(consideration: CR S7281-7282; text: CR S7281)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3052 proposed by Senator Levin for Senator McCain.(consideration: CR S7288-7290; text: CR S7288)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3073 proposed by Senator Nelson FL.(consideration: CR S7284-7285; text: CR S7284)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3075 proposed by Senator Levin for Senator Whitehouse.(consideration: CR S7288-7290; text: CR S7288)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3079 proposed by Senator Levin for Senator Grassley.(consideration: CR S7294-7298; text: CR S7294)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3082 proposed by Senator Levin for Senator Barrasso.(consideration: CR S7294-7298; text: CR S7294-7295)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3087 proposed by Senator Levin for Senator Vitter.(consideration: CR S7294-7298)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3102 proposed by Senator Levin for Senator Klobuchar.(consideration: CR S7294-7298; text: CR S7295)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3105 proposed by Senator Levin for Senator Klobuchar.(consideration: CR S7294-7298; text: CR S7295)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3133 proposed by Senator Levin for Senator Snowe.(consideration: CR S7288-7290; text: CR S7288-7289)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3135 proposed by Senator Levin for Senator Murkowski.(consideration: CR S7294-7298; text: CR S7295)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3145 proposed by Senator Levin for Senator Warner.(consideration: CR S7294-7298; text: CR S7295-7296)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3182 proposed by Senator Levin for Senator Sanders.(consideration: CR S7288-7290; text: CR S7289)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3183 proposed by Senator Levin for Senator Sanders.(consideration: CR S7288-7290; text: CR S7289)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3196 proposed by Senator Levin for Senator Collins.(consideration: CR S7294-7298)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3198 proposed by Senator Levin for Senator Barrasso.(consideration: CR S7294-7298; text: CR S7296)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3233 proposed by Senator Levin for Senator Warner.(consideration: CR S7288-7290; text: CR S7289)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3234 proposed by Senator Levin for Senator Klobuchar.(consideration: CR S7294-7298; text: CR S7296)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3236 proposed by Senator Levin for Senator Coburn.(consideration: CR S7288-7290; text: CR S7289)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3244 proposed by Senator Levin for Senator Reid.(consideration: CR S7294-7298; text: CR S7296-7297)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3247 proposed by Senator Levin for Senator McCain.(consideration: CR S7294-7298)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3248 proposed by Senator Levin for Senator Sanders.(consideration: CR S7288-7290; text: CR S7289)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3258 proposed by Senator Levin for Senator Alexander.(consideration: CR S7294-7298; text: CR S7297)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3280 proposed by Senator Levin.(consideration: CR S7294-7298; text: CR S7297)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3283 proposed by Senator Levin for Senator Rubio.(consideration: CR S7288-7290; text: CR S7289-7290)
+- 2012-11-30 — Senate amendment proposed (on the floor): Amendment SA 3290 proposed by Senator Levin for Senator Begich.(consideration: CR S7294-7298; text: CR S7297-7298)
+- 2012-11-30 — Senate amendment submitted
+- 2012-11-30 — Senate amendment submitted
+- 2012-11-30 — Senate amendment submitted
+- 2012-11-30 — Senate amendment submitted
+- 2012-11-30 — Senate amendment submitted
+- 2012-12-03 — Amendment SA 2923 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7336-7337)
+- 2012-12-03 — Amendment SA 2923 proposed by Senator Levin for Senator Coats. (consideration: CR S7336-7340) In the nature of a substitute.
+- 2012-12-03 — Amendment SA 2943 agreed to in Senate by Unanimous Consent.
+- 2012-12-03 — Amendment SA 2943 proposed by Senator Levin for Senator Webb. (consideration: CR S7336-7340; text: CR S7337) To make Department of Defense law enforcement officers eligible under the Law Enforcement Officers Safety Act.
+- 2012-12-03 — Amendment SA 2954 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 2954 proposed by Senator Levin for Senator Begich. (consideration: CR S7324-7329; text: CR S7324) To authorize space-available travel on Department of Defense aircraft of certain unremarried spouses of members and former members of the Armed Forces.
+- 2012-12-03 — Amendment SA 2978 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 2978 proposed by Senator Levin for Senator Inhofe. (consideration: CR S7324-7329; text: CR S7324) To require the Secretary of the Air Force to submit to Congress a plan to increase the number of contractors eligible to be awarded contracts under the Air Force's Network-Centric Solutions-2 (NETCENTS-2) indefinite-delivery, indefinite quantity (IDIQ) contract.
+- 2012-12-03 — Amendment SA 2996 agreed to in Senate by Unanimous Consent.
+- 2012-12-03 — Amendment SA 2996 proposed by Senator Levin for Senator Rockefeller. (consideration: CR S7336-7340; text: CR S7339-7340) To authorize certain maritime programs of the Department of Transportation, and for other purposes.
+- 2012-12-03 — Amendment SA 2997 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7337)
+- 2012-12-03 — Amendment SA 2997 proposed by Senator Levin for Senator Casey. (consideration: CR S7336-7340) To authorize the Transition Assistance Advisor program of the Department of Defense, and for other purposes.
+- 2012-12-03 — Amendment SA 3015 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3015 proposed by Senator Levin for Senator Blumenthal. (consideration: CR S7324-7329; text: CR S7324) To extend the stolen goods offense to cover all veterans' memorials.
+- 2012-12-03 — Amendment SA 3022 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3022 proposed by Senator Levin for Senator Cardin. (consideration: CR S7324-7329; text: CR S7324-7325) To express the sense of the Senate concerning the conflict-induced Afghan refugee situation.
+- 2012-12-03 — Amendment SA 3023 agreed to in Senate by Unanimous Consent.
+- 2012-12-03 — Amendment SA 3023 proposed by Senator Levin for Senator Cardin. (consideration: CR S7336-7340; text: CR S7337) To include the Coast Guard in the requirements relating to hazing in the Armed Forces.
+- 2012-12-03 — Amendment SA 3024 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3024 proposed by Senator Levin for Senator Cardin. (consideration: CR S7324-7329; text: CR S7325) To include the Coast Guard in the requirements for the achievement of diversity in the Armed Forces.
+- 2012-12-03 — Amendment SA 3028 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3028 proposed by Senator Levin for Senator Tester. (consideration: CR S7324-7329; text: CR S7325) To authorize the Secretary of Veterans Affairs to transport individuals to and from facilities of the Department of Veterans Affairs in connection with rehabilitation, counseling, examination, treatment, and care.
+- 2012-12-03 — Amendment SA 3042 as modified agreed to in Senate by Voice Vote. (text as modified: CR S7325)
+- 2012-12-03 — Amendment SA 3042 proposed by Senator Levin for Senator Collins. (consideration: CR S7324-7329) To require a report on insider attacks in Afghanistan and their effect on the United States transition strategy for Afghanistan.
+- 2012-12-03 — Amendment SA 3047 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7340)
+- 2012-12-03 — Amendment SA 3047 proposed by Senator Levin for Senator Reid. (consideration: CR S7336-7340) To clarify the computation of combat-related special compensation for disability retirees from the Armed Forces.
+- 2012-12-03 — Amendment SA 3054 as modified agreed to in Senate by Voice Vote. (text as modified: CR S7325)
+- 2012-12-03 — Amendment SA 3054 proposed by Senator Levin for Senator McCain. (consideration: CR S7324-7329) Relative to notice to Congress for the review of proposals to name naval vessels.
+- 2012-12-03 — Amendment SA 3066 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3066 proposed by Senator Levin for Senator Toomey. (consideration: CR S7324-7329; text: CR S7325-7326) To require an independent study and report on simulated tactical flight training in a sustained gravity environment.
+- 2012-12-03 — Amendment SA 3091 as modified agreed to in Senate by Voice Vote. (text as modified: CR S7326)
+- 2012-12-03 — Amendment SA 3091 proposed by Senator Levin for Senator McCain. (consideration: CR S7324-7329) To authorize additional amounts for new programs identified and requested by the Department of Defense as unforeseen, urgent, and high priority requirements, and to provide an offset.
+- 2012-12-03 — Amendment SA 3119 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3119 proposed by Senator Levin for Senator Paul. (consideration: CR S7324-7329; text: CR S7329) To provide for the more accurate and complete enumeration of members of the Armed Forces in any tabulation of total population by the Secretary of Commerce.
+- 2012-12-03 — Amendment SA 3121 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7337)
+- 2012-12-03 — Amendment SA 3121 proposed by Senator Levin for Senator Wicker. (consideration: CR S7336-7340) To exempt the high performance computing modernization program from certain requirements relating to funding for data servers and centers.
+- 2012-12-03 — Amendment SA 3124, previously agreed to, was further modified by Unanimous Consent. (consideration: CR S7329; text as further modified: CR S7329-7331)
+- 2012-12-03 — Amendment SA 3142 agreed to in Senate by Unanimous Consent.
+- 2012-12-03 — Amendment SA 3142 proposed by Senator Levin for Senator Portman. (consideration: CR S7336-7340; text: CR S7337-7338) To require a report on Department of Defense support for United States diplomatic security.
+- 2012-12-03 — Amendment SA 3144 agreed to in Senate by Unanimous Consent.
+- 2012-12-03 — Amendment SA 3144 proposed by Senator Levin for Senator Webb. (consideration: CR S7336-7340; text: CR S7338) To amend section 704 of title 18, United States Code.
+- 2012-12-03 — Amendment SA 3160 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3160 proposed by Senator Levin for Senator Brown MA. (consideration: CR S7324-7329) To improve the authorities relating to rates of basic allowance for housing for National Guard members on full-time National Guard duty.
+- 2012-12-03 — Amendment SA 3164 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3164 proposed by Senator Levin. (consideration: CR S7324-7329; text: CR S7326-7327) To authorize the transfer of defense articles and the provision of defense services to the military and security forces of Afghanistan and certain other countries.
+- 2012-12-03 — Amendment SA 3165 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3165 proposed by Senator Levin for Senator Reed. (consideration: CR S7332) To establish a pilot program to authorize the Secretary of Housing and Urban Development to make grants to nonprofit organizations to rehabilitate and modify homes of disabled and low-income veterans.
+- 2012-12-03 — Amendment SA 3172 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7338-7339)
+- 2012-12-03 — Amendment SA 3172 proposed by Senator Levin for Senator Corker. (consideration: CR S7336-7340) To require the President to report to Congress on issues related to Syria.
+- 2012-12-03 — Amendment SA 3176 as modified agreed to in Senate by Voice Vote. (text as modified: CR S7327)
+- 2012-12-03 — Amendment SA 3176 proposed by Senator Levin for Senator Rubio. (consideration: CR S7324-7329) To require a report on the reorganization of Air Force Materiel command organizations.
+- 2012-12-03 — Amendment SA 3188 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3188 proposed by Senator Levin for Senator Warner. (consideration: CR S7324-7329; text: CR S7328) To express the sense of Congress on the Joint Warfighting Analysis Center.
+- 2012-12-03 — Amendment SA 3208 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3208 proposed by Senator Leahy for Senator Bingaman. (consideration: CR S7324-7329) To promote the production of molybdenum-99 in the United States for medical isotope production, and to condition and phase out the export of highly enriched uranium for the production of medical isotopes.
+- 2012-12-03 — Amendment SA 3218 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3218 proposed by Senator Levin for Senator Snowe. (consideration: CR S7324-7329; text: CR S7328) To remove the limit on the anticipated award price for contracts awarded under the procurement program for women-owned small business concerns.
+- 2012-12-03 — Amendment SA 3227 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3227 proposed by Senator Levin for Senator Conrad. (consideration: CR S7324-7329; text: CR S7328) To require the Director of the American Folklife Center at the Library of Congress to carry out a national public awareness and participation campaign for the Veterans' History Project of the American Folklife Center.
+- 2012-12-03 — Amendment SA 3268 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3268 proposed by Senator Levin for Senator Hatch. (consideration: CR S7324-7329; text: CR S7328) To modify the age and retirement treatment under the Federal Employees Retirement System for certain retirees of the Armed Forces.
+- 2012-12-03 — Amendment SA 3276 agreed to in Senate by Unanimous Consent.
+- 2012-12-03 — Amendment SA 3276 proposed by Senator Levin for Senator Lieberman. (consideration: CR S7336-7340; text: CR S7339) To authorize National Mall Liberty Fund D.C. to establish a memorial on Federal land in the District of Columbia to honor free persons and slaves who fought for independence, liberty, and justice for all during the American Revolution.
+- 2012-12-03 — Amendment SA 3278 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7339)
+- 2012-12-03 — Amendment SA 3278 proposed by Senator Levin for Senator Blunt. (consideration: CR S7336-7340) To provide for the modernization of the Department of Defense's mail delivery system to ensure the effective and efficient delivery of absentee ballots.
+- 2012-12-03 — Amendment SA 3282 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3282 proposed by Senator Levin for Senator Collins. (consideration: CR S7332; text: CR S7332) To provide for a prescription drug take-back program for members of the Armed Forces and their dependents.
+- 2012-12-03 — Amendment SA 3289 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3289 proposed by Senator Levin for Senator Coons. (consideration: CR S7324-7329; text: CR S7329) To make technical amendments relating to the termination of the Armed Forces Institute of Pathology under defense base closure and realignment.
+- 2012-12-03 — Amendment SA 3291 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3291 proposed by Senator Levin for Senator Pryor. (consideration: CR S7332; text: CR S7332) To require, as a condition on the receipt by a State of certain funds for veterans employment and training, that the State ensures that training received by a veteran while on active duty is taken into consideration in granting certain State certifications or licenses.
+- 2012-12-03 — Amendment SA 3292 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Amendment SA 3292 proposed by Senator Levin for Senator Reed. (consideration: CR S7332; text: CR S7332) To provide for the enforcement of protections on consumer credit for members of the Armed Forces and their dependents.
+- 2012-12-03 — Amendment SA 3298 agreed to in Senate by Unanimous Consent.
+- 2012-12-03 — Amendment SA 3298 proposed by Senator Levin for Senator Lautenberg. (consideration: CR S7336-7340; text: CR S7339) To express the sense of Congress on health care for retired members of the uniformed services.
+- 2012-12-03 — Cloture on the bill invoked in Senate by Yea-Nay Vote. 93 - 0. Record Vote Number: 218. (consideration: CR S7336; text: CR S7336)
+- 2012-12-03 — Considered by Senate. (consideration: CR S7312)
+- 2012-12-03 — Considered by Senate. (consideration: CR S7312-7332, S7336-7342)
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 2923 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7336-7337)
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 2943 agreed to in Senate by Unanimous Consent.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 2954 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 2978 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 2996 agreed to in Senate by Unanimous Consent.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 2997 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7337)
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3015 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3022 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3023 agreed to in Senate by Unanimous Consent.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3024 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3028 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3042 as modified agreed to in Senate by Voice Vote.(text as modified: CR S7325)
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3047 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7340)
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3054 as modified agreed to in Senate by Voice Vote.(text as modified: CR S7325)
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3066 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3091 as modified agreed to in Senate by Voice Vote.(text as modified: CR S7326)
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3119 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3121 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7337)
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3142 agreed to in Senate by Unanimous Consent.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3144 agreed to in Senate by Unanimous Consent.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3160 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3164 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3165 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3172 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7338-7339)
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3176 as modified agreed to in Senate by Voice Vote.(text as modified: CR S7327)
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3188 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3208 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3218 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3227 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3268 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3276 agreed to in Senate by Unanimous Consent.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3278 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7339)
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3282 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3289 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3291 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3292 agreed to in Senate by Voice Vote.
+- 2012-12-03 — Senate amendment agreed to: Amendment SA 3298 agreed to in Senate by Unanimous Consent.
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 2923 proposed by Senator Levin for Senator Coats.(consideration: CR S7336-7340)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 2943 proposed by Senator Levin for Senator Webb.(consideration: CR S7336-7340; text: CR S7337)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 2954 proposed by Senator Levin for Senator Begich.(consideration: CR S7324-7329; text: CR S7324)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 2978 proposed by Senator Levin for Senator Inhofe.(consideration: CR S7324-7329; text: CR S7324)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 2996 proposed by Senator Levin for Senator Rockefeller.(consideration: CR S7336-7340; text: CR S7339-7340)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 2997 proposed by Senator Levin for Senator Casey.(consideration: CR S7336-7340)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3015 proposed by Senator Levin for Senator Blumenthal.(consideration: CR S7324-7329; text: CR S7324)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3022 proposed by Senator Levin for Senator Cardin.(consideration: CR S7324-7329; text: CR S7324-7325)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3023 proposed by Senator Levin for Senator Cardin.(consideration: CR S7336-7340; text: CR S7337)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3024 proposed by Senator Levin for Senator Cardin.(consideration: CR S7324-7329; text: CR S7325)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3028 proposed by Senator Levin for Senator Tester.(consideration: CR S7324-7329; text: CR S7325)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3042 proposed by Senator Levin for Senator Collins.(consideration: CR S7324-7329)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3047 proposed by Senator Levin for Senator Reid.(consideration: CR S7336-7340)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3054 proposed by Senator Levin for Senator McCain.(consideration: CR S7324-7329)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3066 proposed by Senator Levin for Senator Toomey.(consideration: CR S7324-7329; text: CR S7325-7326)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3091 proposed by Senator Levin for Senator McCain.(consideration: CR S7324-7329)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3119 proposed by Senator Levin for Senator Paul.(consideration: CR S7324-7329; text: CR S7329)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3121 proposed by Senator Levin for Senator Wicker.(consideration: CR S7336-7340)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3142 proposed by Senator Levin for Senator Portman.(consideration: CR S7336-7340; text: CR S7337-7338)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3144 proposed by Senator Levin for Senator Webb.(consideration: CR S7336-7340; text: CR S7338)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3160 proposed by Senator Levin for Senator Brown MA.(consideration: CR S7324-7329)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3164 proposed by Senator Levin.(consideration: CR S7324-7329; text: CR S7326-7327)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3165 proposed by Senator Levin for Senator Reed.(consideration: CR S7332)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3172 proposed by Senator Levin for Senator Corker.(consideration: CR S7336-7340)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3176 proposed by Senator Levin for Senator Rubio.(consideration: CR S7324-7329)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3188 proposed by Senator Levin for Senator Warner.(consideration: CR S7324-7329; text: CR S7328)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3208 proposed by Senator Leahy for Senator Bingaman.(consideration: CR S7324-7329)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3218 proposed by Senator Levin for Senator Snowe.(consideration: CR S7324-7329; text: CR S7328)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3227 proposed by Senator Levin for Senator Conrad.(consideration: CR S7324-7329; text: CR S7328)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3268 proposed by Senator Levin for Senator Hatch.(consideration: CR S7324-7329; text: CR S7328)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3276 proposed by Senator Levin for Senator Lieberman.(consideration: CR S7336-7340; text: CR S7339)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3278 proposed by Senator Levin for Senator Blunt.(consideration: CR S7336-7340)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3282 proposed by Senator Levin for Senator Collins.(consideration: CR S7332; text: CR S7332)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3289 proposed by Senator Levin for Senator Coons.(consideration: CR S7324-7329; text: CR S7329)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3291 proposed by Senator Levin for Senator Pryor.(consideration: CR S7332; text: CR S7332)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3292 proposed by Senator Levin for Senator Reed.(consideration: CR S7332; text: CR S7332)
+- 2012-12-03 — Senate amendment proposed (on the floor): Amendment SA 3298 proposed by Senator Levin for Senator Lautenberg.(consideration: CR S7336-7340; text: CR S7339)
+- 2012-12-03 — Senate amendment submitted
+- 2012-12-03 — Senate amendment submitted
+- 2012-12-03 — Senate amendment submitted
+- 2012-12-03 — Senate amendment submitted
+- 2012-12-03 — Senate amendment submitted
+- 2012-12-03 — Senate amendment submitted
+- 2012-12-03 — Senate amendment submitted
+- 2012-12-03 — Senate amendment submitted
+- 2012-12-03 — Senate amendment submitted
+- 2012-12-03 — Senate amendment submitted
+- 2012-12-03 — Senate amendment submitted
+- 2012-12-03 — Senate amendment submitted
+- 2012-12-03 — Senate amendment submitted
+- 2012-12-03 — Senate amendment submitted
+- 2012-12-03 — Senate amendment submitted
+- 2012-12-04 — Amendment SA 2927 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7383-7384)
+- 2012-12-04 — Amendment SA 2927 proposed by Senator Levin for Senator Kyl. (consideration: CR S7383-7385) To establish a congressional advisory panel on revising the governance structure of the National Nuclear Security Administration to permit it to operate more effectively and independently of the Department of Energy.
+- 2012-12-04 — Amendment SA 3019 agreed to in Senate by Unanimous Consent.
+- 2012-12-04 — Amendment SA 3019 proposed by Senator Levin for Senator Akaka. (consideration: CR S7383-7385; text: CR S7384) To amend the Small Business Jobs Act of 2010 with respect to the State Trade and Export Promotion Grant Program.
+- 2012-12-04 — Amendment SA 3062 agreed to in Senate by Unanimous Consent.
+- 2012-12-04 — Amendment SA 3062 proposed by Senator Levin for Senator Toomey. (consideration: CR S7383-7385; text: CR S7384) To require the Government Accountability Office to include in its annual report to Congress a list of the most common grounds for sustaining protests relating to bids for contracts.
+- 2012-12-04 — Amendment SA 3113 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7384)
+- 2012-12-04 — Amendment SA 3113 proposed by Senator Levin for Senator Brown OH. (consideration: CR S7383-7385) To extend treatment of base closure areas as HUBZones for purposes of the Small Business Act.
+- 2012-12-04 — Amendment SA 3117 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7385)
+- 2012-12-04 — Amendment SA 3117 proposed by Senator Levin for Senator Hatch. (consideration: CR S7383-7385) To provide that the rating chain for a system program manager may include any senior official located at an Air Logistics Complex where the system program manager is based.
+- 2012-12-04 — Amendment SA 3123 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR 11/30/2012 S7285)
+- 2012-12-04 — Amendment SA 3175 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7384)
+- 2012-12-04 — Amendment SA 3175 proposed by Senator Levin for Senator Rubio. (consideration: CR S7383-7385) To limit the availability of funds for retirement or inactivation of Ticonderoga class cruisers or dock landing ships.
+- 2012-12-04 — Amendment SA 3226 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7385)
+- 2012-12-04 — Amendment SA 3226 proposed by Senator Levin for Senator Bennet. (consideration: CR S7383-7385) To make enhancements to the Troops-to-Teachers program.
+- 2012-12-04 — Amendment SA 3241 agreed to in Senate by Unanimous Consent.
+- 2012-12-04 — Amendment SA 3241 proposed by Senator Levin for Senator Carper. (consideration: CR S7383-7385; text: CR S7384) To repeal or modify certain mandates of the Government Accountability Office.
+- 2012-12-04 — Amendment SA 3242 agreed to in Senate by Unanimous Consent.
+- 2012-12-04 — Amendment SA 3242 proposed by Senator Levin for Senator Carper. (consideration: CR S7383-7385) To intensify efforts to identify, prevent, and recover payment error, waste, fraud, and abuse within Federal spending.
+- 2012-12-04 — Amendment SA 3262 as modified agreed to in Senate by Yea-Nay Vote. 92 - 6. Record Vote Number: 220. (text as modified: CR S7386)
+- 2012-12-04 — Amendment SA 3262 proposed by Senator McCain. (consideration: CR S7385-7389) To require a report on military activities to deny or significantly degrade the use of air power against civilian and opposition groups in Syria.
+- 2012-12-04 — Amendment SA 3277 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7384-7385)
+- 2012-12-04 — Amendment SA 3277 proposed by Senator Levin for Senator Thune. (consideration: CR S7383-7385) To express the sense of Congress regarding the reallocation of government spectrum.
+- 2012-12-04 — Amendment SA 3285 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S7385)
+- 2012-12-04 — Amendment SA 3285 proposed by Senator Levin for Senator Moran. (consideration: CR S7383-7385) In the nature of a substitute.
+- 2012-12-04 — Considered by Senate. (consideration: CR S7381, S7389)
+- 2012-12-04 — Considered by Senate. (consideration: CR S7381-7392)
+- 2012-12-04 — Passed Senate with amendments by Yea-Nay Vote. 98 - 0. Record Vote Number: 221. (text: CR 12/05/2012 S7461-7636)
+- 2012-12-04 — Passed/agreed to in Senate: Passed Senate with amendments by Yea-Nay Vote. 98 - 0. Record Vote Number: 221.(text: CR 12/05/2012 S7461-7636)
+- 2012-12-04 — Roll call votes on amendments in Senate: Amendment SA 3262 as modified agreed to in Senate by Yea-Nay Vote. 92 - 6. Record Vote Number: 220.(text as modified: CR S7386)
+- 2012-12-04 — See also H.R. 4310.
+- 2012-12-04 — Senate amendment agreed to: Amendment SA 2927 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7383-7384)
+- 2012-12-04 — Senate amendment agreed to: Amendment SA 3019 agreed to in Senate by Unanimous Consent.
+- 2012-12-04 — Senate amendment agreed to: Amendment SA 3062 agreed to in Senate by Unanimous Consent.
+- 2012-12-04 — Senate amendment agreed to: Amendment SA 3113 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7384)
+- 2012-12-04 — Senate amendment agreed to: Amendment SA 3117 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7385)
+- 2012-12-04 — Senate amendment agreed to: Amendment SA 3123 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR 11/30/2012 S7285)
+- 2012-12-04 — Senate amendment agreed to: Amendment SA 3175 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7384)
+- 2012-12-04 — Senate amendment agreed to: Amendment SA 3226 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7385)
+- 2012-12-04 — Senate amendment agreed to: Amendment SA 3241 agreed to in Senate by Unanimous Consent.
+- 2012-12-04 — Senate amendment agreed to: Amendment SA 3242 agreed to in Senate by Unanimous Consent.
+- 2012-12-04 — Senate amendment agreed to: Amendment SA 3262 as modified agreed to in Senate by Yea-Nay Vote. 92 - 6. Record Vote Number: 220.(text as modified: CR S7386)
+- 2012-12-04 — Senate amendment agreed to: Amendment SA 3277 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7384-7385)
+- 2012-12-04 — Senate amendment agreed to: Amendment SA 3285 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S7385)
+- 2012-12-04 — Senate amendment proposed (on the floor): Amendment SA 2927 proposed by Senator Levin for Senator Kyl.(consideration: CR S7383-7385)
+- 2012-12-04 — Senate amendment proposed (on the floor): Amendment SA 3019 proposed by Senator Levin for Senator Akaka.(consideration: CR S7383-7385; text: CR S7384)
+- 2012-12-04 — Senate amendment proposed (on the floor): Amendment SA 3062 proposed by Senator Levin for Senator Toomey.(consideration: CR S7383-7385; text: CR S7384)
+- 2012-12-04 — Senate amendment proposed (on the floor): Amendment SA 3113 proposed by Senator Levin for Senator Brown OH.(consideration: CR S7383-7385)
+- 2012-12-04 — Senate amendment proposed (on the floor): Amendment SA 3117 proposed by Senator Levin for Senator Hatch.(consideration: CR S7383-7385)
+- 2012-12-04 — Senate amendment proposed (on the floor): Amendment SA 3175 proposed by Senator Levin for Senator Rubio.(consideration: CR S7383-7385)
+- 2012-12-04 — Senate amendment proposed (on the floor): Amendment SA 3226 proposed by Senator Levin for Senator Bennet.(consideration: CR S7383-7385)
+- 2012-12-04 — Senate amendment proposed (on the floor): Amendment SA 3241 proposed by Senator Levin for Senator Carper.(consideration: CR S7383-7385; text: CR S7384)
+- 2012-12-04 — Senate amendment proposed (on the floor): Amendment SA 3242 proposed by Senator Levin for Senator Carper.(consideration: CR S7383-7385)
+- 2012-12-04 — Senate amendment proposed (on the floor): Amendment SA 3262 proposed by Senator McCain.(consideration: CR S7385-7389)
+- 2012-12-04 — Senate amendment proposed (on the floor): Amendment SA 3277 proposed by Senator Levin for Senator Thune.(consideration: CR S7383-7385)
+- 2012-12-04 — Senate amendment proposed (on the floor): Amendment SA 3285 proposed by Senator Levin for Senator Moran.(consideration: CR S7383-7385)
+- 2012-12-04 — Senate incorporated this measure in H.R. 4310 as an amendment.
