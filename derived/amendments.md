@@ -1,7 +1,7 @@
 ---
 measure: S. 1947
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -39,4 +39,4 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | in subsection (g), by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Whoever” and inserting “(a) In general.—Whoever”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), as designated by paragraph (1) of this section, by striking “subsection (a),” and inserting “subsection (a)(1),”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |

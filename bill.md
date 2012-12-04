@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1947
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -26,7 +26,7 @@ Section 26 of the Animal Welfare Act (7 U.S.C. 2156) is amended—
   - **(D)** by inserting after paragraph (1) the following new paragraph:
     > - **(2)** *Attending or causing a minor to attend* It shall be unlawful for any person to—
     >   - **(A)** knowingly attend an animal fighting venture; or
-    >   - **(B)** cause a minor to attend an animal fighting venture.
+    >   - **(B)** knowingly cause a minor to attend an animal fighting venture.
 
 - **(2)** in subsection (g), by adding at the end the following new paragraph:
   > - **(5)** the term minor means a person under the age of 18 years old.
