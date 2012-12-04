@@ -1,7 +1,7 @@
 ---
 measure: H.R. 794
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 794
@@ -32,3 +32,7 @@ For the relief of Allan Bolor Kelley.
 - 2012-07-24 — Placed on the Private Calendar, Calendar No. 4.
 - 2012-07-24 — Reported by the Committee on Judiciary. H. Rept. 112-620.
 - 2012-07-24 — Reported by the Committee on Judiciary. H. Rept. 112-620.
+- 2012-12-04 — Considered from the Private Calendar.
+- 2012-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-04 — On passage Passed without objection.
+- 2012-12-04 — Passed/agreed to in House: On passage Passed without objection.
