@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6429
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6429
@@ -124,3 +124,5 @@ STEM Jobs Act of 2012
 - 2012-11-30 — Rule provides for consideration of H.R. 6429 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution provides that an amendment in the nature of a substitute consisting of the text of Rules Committee print 112-34, as modified by the amendment printed in the Rules Committee report, shall be considered as adopted. The resolution provides suspension authority on Thursday, December 6, 2012.
 - 2012-11-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6560)
 - 2012-11-30 — The previous question was ordered pursuant to the rule. (consideration: CR H6556)
+- 2012-12-03 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2012-12-04 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 559.
