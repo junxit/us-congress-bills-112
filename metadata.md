@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 543
 congress: 112
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 543
@@ -16,7 +16,7 @@ A resolution to express the sense of the Senate on international parental child 
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Cosponsors (24)
+## Cosponsors (28)
 
 - Sen. Lautenberg, Frank R. [D-NJ] (L000123)
 - Sen. Kerry, John F. [D-MA] (K000148)
@@ -42,6 +42,10 @@ A resolution to express the sense of the Senate on international parental child 
 - Sen. Roberts, Pat [R-KS] (R000307)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
 
 ## Committees (1)
 
@@ -55,3 +59,5 @@ A resolution to express the sense of the Senate on international parental child 
 - 2012-09-19 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2012-09-19 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute and with an amended preamble. Without written report.
 - 2012-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 528.
+- 2012-12-04 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote.(consideration: CR S7403-7404; text as passed Senate: CR S7403-7404)
+- 2012-12-04 — Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote. (consideration: CR S7403-7404; text as passed Senate: CR S7403-7404)
