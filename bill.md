@@ -29,9 +29,9 @@ Section 325(e) of the Energy Policy and Conservation Act (42 U.S.C. 6295(e)) is 
 >   - **(A)** *Definitions* In this paragraph:
 >     - **(i)** *Covered water heater* The term covered water heater means—
 >       - **(I)** a water heater; and
->       - **(II)** a storage water heater, instantaneous water heater, and unfired water storage tank (as defined in section 340).
+>       - **(II)** a storage water heater, instantaneous water heater, and unfired hot water storage tank (as defined in section 340).
 >     - **(ii)** *Final rule* The term final rule means the final rule published under this paragraph.
->   - **(B)** *Publication of final rule* Not later than 180 days after the date of enactment of this paragraph, the Secretary shall publish a final rule that establishes a uniform efficiency descriptor and accompanying test methods for covered water heaters.
+>   - **(B)** *Publication of final rule* Not later than 1 year after the date of enactment of this paragraph, the Secretary shall publish a final rule that establishes a uniform efficiency descriptor and accompanying test methods for covered water heaters.
 >   - **(C)** *Purpose* The purpose of the final rule shall be to replace with a uniform efficiency descriptor—
 >     - **(i)** the energy factor descriptor for water heaters established under this subsection; and
 >     - **(ii)** the thermal efficiency and standby loss descriptors for storage water heaters, instantaneous water heaters, and unfired water storage tanks established under section 342(a)(5).
@@ -43,9 +43,9 @@ Section 325(e) of the Energy Policy and Conservation Act (42 U.S.C. 6295(e)) is 
 >     - **(ii)** *Application* The conversion factor shall apply to models of covered water heaters affected by the final rule and tested prior to the effective date of the final rule.
 >     - **(iii)** *Effect on efficiency requirements* The conversion factor shall not affect the minimum efficiency requirements for covered water heaters otherwise established under this title.
 >     - **(iv)** *Use* During the period described in clause (v), a manufacturer may apply the conversion factor established by the Secretary to rerate existing models of covered water heaters that are in existence prior to the effective date of the rule described in clause (v)(II) to comply with the new efficiency descriptor.
->     - **(v)** *Period* Subclause (E) shall apply during the period—
+>     - **(v)** *Period* Clause (iv) shall apply during the period—
 >       - **(I)** beginning on the date of publication of the conversion factor in the Federal Register; and
->       - **(II)** ending on April 16, 2015.
+>       - **(II)** ending on the later of 1 year after the date of publication of the conversion factor, or December 31, 2015.
 >   - **(F)** *Exclusions* The final rule may exclude a specific category of covered water heaters from the uniform efficiency descriptor established under this paragraph if the Secretary determines that the category of water heaters—
 >     - **(i)** does not have a residential use and can be clearly described in the final rule; and
 >     - **(ii)** are effectively rated using the thermal efficiency and standby loss descriptors applied (as of the date of enactment of this paragraph) to the category under section 342(a)(5).
@@ -76,7 +76,14 @@ Section 342(c) of the Energy Policy and Conservation Act (42 U.S.C. 6313(c)) is 
 
 - **(2)** by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively; and
 - **(3)** by inserting after paragraph (3) the following:
-  > - **(4)** Each SOC–SC–M manufactured on or after January 1, 2012, shall have a total daily energy consumption (in kilowatt hours per day) of not more than 0.6 × TDA + 1.0.
+  > - **(4)**
+  >   - **(A)** Each SOC–SC–M manufactured on or after January 1, 2012, shall have a total daily energy consumption (in kilowatt hours per day) of not more than 0.6 × TDA + 1.0.
+  >   - **(B)** Not later than 3 years after the date of enactment of this paragraph, the Secretary shall—
+  >     - **(i)** determine whether the standard established under subparagraph (A) should be amended; and
+  >     - **(ii)** if the Secretary determines that such standard should be amended, issue a final rule establishing an amended standard.
+  >   - **(C)** If the Secretary issues a final rule pursuant to subparagraph (B) establishing an amended standard, the final rule shall provide that the amended standard shall apply to products manufactured on or after the date that is—
+  >     - **(i)** 3 years after the date on which the final amended standard is published; or
+  >     - **(ii)** if the Secretary determines, by rule, that 3 years is inadequate, not later than 5 years after the date on which the final rule is published.
 
 ## § 5. Small duct high velocity systems and administrative changes
 
@@ -119,7 +126,81 @@ Section 342(c) of the Energy Policy and Conservation Act (42 U.S.C. 6313(c)) is 
     >   - **(A)** a final rule that contains the new or amended standards; or
     >   - **(B)** a determination that no new or amended standards are necessary.
 
-## § 6. Technical corrections
+## § 6. Coordination of research and development of energy efficient technologies for industry
+
+- **(a)** *In general* As part of the research and development activities of the Industrial Technologies Program of the Department of Energy, the Secretary of Energy (referred to in this section as the “Secretary”) shall establish, as appropriate, collaborative research and development partnerships with other programs within the Office of Energy Efficiency and Renewable Energy (including the Building Technologies Program), the Office of Electricity Delivery and Energy Reliability, and the Office of Science that—
+  - **(1)** leverage the research and development expertise of those programs to promote early stage energy efficiency technology development;
+  - **(2)** support the use of innovative manufacturing processes and applied research for development, demonstration, and commercialization of new technologies and processes to improve efficiency (including improvements in efficient use of water), reduce emissions, reduce industrial waste, and improve industrial cost-competitiveness; and
+  - **(3)** apply the knowledge and expertise of the Industrial Technologies Program to help achieve the program goals of the other programs.
+- **(b)** *Reports* Not later than 2 years after the date of enactment of this Act and biennially thereafter, the Secretary shall submit to Congress a report that describes actions taken to carry out subsection (a) and the results of those actions.
+
+## § 7. Reducing barriers to the deployment of industrial energy efficiency
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Industrial energy efficiency* The term “industrial energy efficiency” means the energy efficiency derived from commercial technologies and measures to improve energy efficiency or to generate or transmit electric power and heat, including electric motor efficiency improvements, demand response, direct or indirect combined heat and power, and waste heat recovery.
+  - **(2)** *Industrial sector* The term “industrial sector” means any subsector of the manufacturing sector (as defined in North American Industry Classification System codes 31-33 (as in effect on the date of enactment of this Act)) establishments of which have, or could have, thermal host facilities with electricity requirements met in whole, or in part, by onsite electricity generation, including direct and indirect combined heat and power or waste recovery.
+- **(b)** *Report on the deployment of industrial energy efficiency*
+  - **(1)** *In general* Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report describing—
+    - **(A)** the results of the study conducted under paragraph (2); and
+    - **(B)** recommendations and guidance developed under paragraph (3).
+  - **(2)** *Study* The Secretary, in coordination with the industrial sector and other stakeholders, shall conduct a study of the following:
+    - **(A)** The legal, regulatory, and economic barriers to the deployment of industrial energy efficiency in all electricity markets (including organized wholesale electricity markets, and regulated electricity markets), including, as applicable, the following:
+      - **(i)** Transmission and distribution interconnection requirements.
+      - **(ii)** Standby, back-up, and maintenance fees (including demand ratchets).
+      - **(iii)** Exit fees.
+      - **(iv)** Life of contract demand ratchets.
+      - **(v)** Net metering.
+      - **(vi)** Calculation of avoided cost rates.
+      - **(vii)** Power purchase agreements.
+      - **(viii)** Energy market structures.
+      - **(ix)** Capacity market structures.
+      - **(x)** Other barriers as may be identified by the Secretary, in coordination with the industrial sector and other stakeholders.
+    - **(B)** Examples of—
+      - **(i)** successful State and Federal policies that resulted in greater use of industrial energy efficiency;
+      - **(ii)** successful private initiatives that resulted in greater use of industrial energy efficiency; and
+      - **(iii)** cost-effective policies used by foreign countries to foster industrial energy efficiency.
+    - **(C)** The estimated economic benefits to the national economy of providing the industrial sector with Federal energy efficiency matching grants of $5,000,000,000 for 5- and 10-year periods, including benefits relating to—
+      - **(i)** estimated energy and emission reductions;
+      - **(ii)** direct and indirect jobs saved or created;
+      - **(iii)** direct and indirect capital investment;
+      - **(iv)** the gross domestic product; and
+      - **(v)** trade balance impacts.
+    - **(D)** The estimated energy savings available from increased use of recycled material in energy-intensive manufacturing processes.
+  - **(3)** *Recommendations and guidance* The Secretary, in coordination with the industrial sector and other stakeholders, shall develop policy recommendations regarding the deployment of industrial energy efficiency, including proposed regulatory guidance to States and relevant Federal agencies to address barriers to deployment.
+
+## § 8. Best practices for advanced metering
+
+Section 543(e) of the National Energy Conservation Policy Act (42 U.S.C. 8253(e)) is amended by striking paragraph (3) and inserting the following:
+
+> - **(3)** *Plan* Not later than 180 days after the date on which guidelines are established under paragraph (2), in a report submitted by the agency under section 548(a), each agency shall submit to the Secretary a plan describing the manner in which the agency will implement the requirements of paragraph (1), including—
+>   - **(A)** how the agency will designate personnel primarily responsible for achieving the requirements; and
+>   - **(B)** a demonstration by the agency, complete with documentation, of any finding that advanced meters or advanced metering devices (as those terms are used in paragraph (1)), are not practicable.
+> - **(4)** *Best practices report*
+>   - **(A)** *In general* Not later than 180 days after the date of enactment of this paragraph, the Secretary of Energy, in consultation with the Secretary of Defense and the Administrator of General Services, shall develop, and issue a report on, best practices for the use of advanced metering of energy use in Federal facilities, buildings, and equipment by Federal agencies.
+>   - **(B)** *Components* The report shall include, at a minimum—
+>     - **(i)** summaries and analysis of the reports by agencies under paragraph (3);
+>     - **(ii)** recommendations on standard requirements or guidelines for automated energy management systems, including—
+>       - **(I)** potential common communications standards to allow data sharing and reporting;
+>       - **(II)** means of facilitating continuous commissioning of buildings and evidence-based maintenance of buildings and building systems; and
+>       - **(III)** standards for sufficient levels of security and protection against cyber threats to ensure systems cannot be controlled by unauthorized persons; and
+>     - **(iii)** an analysis of—
+>       - **(I)** the types of advanced metering and monitoring systems being piloted, tested, or installed in Federal buildings; and
+>       - **(II)** existing techniques used within the private sector or other non-Federal government buildings.
+
+## § 9. Federal energy management and data collection standard
+
+Section 543 of the National Energy Conservation Policy Act (42 U.S.C. 8253) is amended—
+
+- **(1)** by redesignating the second subsection (f) (as added by section 434(a) of Public Law 110-140 (121 Stat. 1614)) as subsection (g); and
+- **(2)** in subsection (f)(7), by striking subparagraph (A) and inserting the following:
+  > - **(A)** *In general* For each facility that meets the criteria established by the Secretary under paragraph (2)(B), the energy manager shall use the web-based tracking system under subparagraph (B)—
+  >   - **(i)** to certify compliance with the requirements for—
+  >     - **(I)** energy and water evaluations under paragraph (3);
+  >     - **(II)** implementation of identified energy and water measures under paragraph (4); and
+  >     - **(III)** follow-up on implemented measures under paragraph (5); and
+  >   - **(ii)** to publish energy and water consumption data on an individual facility basis.
+
+## § 10. Technical corrections
 
 - **(a)** *Title III of Energy Independence and Security Act of 2007—Energy Savings Through Improved Standards for Appliances and Lighting*
   - **(1)** Section 325(u) of the Energy Policy and Conservation Act (42 U.S.C. 6295(u)) (as amended by section 301(c) of the Energy Independence and Security Act of 2007 (121 Stat. 1550)) is amended—
@@ -177,7 +258,7 @@ Section 342(c) of the Energy Policy and Conservation Act (42 U.S.C. 6313(c)) is 
   - **(12)** Section 325(b) of the Energy Independence and Security Act of 2007 (121 Stat. 1596) is amended by striking “6924(c)” and inserting “6294(c)”.
   - **(13)** This subsection and the amendments made by this subsection take effect as if included in the Energy Independence and Security Act of 2007 (Public Law 110–140; 121 Stat. 1492).
 - **(b)** *Energy policy act of 2005*
-  - **(1)** Section 325(g)(8)(C)(ii) of the Energy Policy and Conservation Act (42 U.S.C. 6295(g)(8)(C)(ii)) (as added by section 135(c)(2)(B) of the Energy Policy Act of 2005) is amended by striking “20F” and inserting “20°F ”.
+  - **(1)** Section 325(g)(8)(C)(ii) of the Energy Policy and Conservation Act (42 U.S.C. 6295(g)(8)(C)(ii)) (as added by section 135(c)(2)(B) of the Energy Policy Act of 2005) is amended by striking “20°F” and inserting “negative 20°F ”.
   - **(2)** This subsection and the amendment made by this subsection take effect as if included in the Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 594).
 - **(c)** *Energy policy and conservation act*
   - **(1)** Section 340(2)(B) of the Energy Policy and Conservation Act (42 U.S.C. 6311(2)(B)) is amended—
