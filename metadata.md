@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4310
 congress: 112
-version: Referred in Senate
+version: Public Print
 ---
 
 # H.R. 4310
@@ -500,3 +500,12 @@ National Defense Authorization Act for Fiscal Year 2013
 - 2012-05-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2012-05-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2012-06-19 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
+- 2012-12-04 — Measure laid before Senate by unanimous consent. (consideration: CR S7392)
+- 2012-12-04 — Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-04 — See also S. 3254.
+- 2012-12-04 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2012-12-04 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2012-12-04 — Senate insists on its amendment, asks for a conference, appoints conferees Levin; Lieberman; Reed; Akaka; Nelson NE; Webb; McCaskill; Udall CO; Hagan; Begich; Manchin; Shaheen; Gillibrand; Blumenthal; McCain; Inhofe; Sessions; Chambliss; Wicker; Brown MA; Portman; Ayotte; Collins; Graham; Cornyn; Vitter.
+- 2012-12-04 — Senate ordered measure printed as passed.
+- 2012-12-04 — Senate struck all after the Enacting Clause and substituted the language of S. 3254 amended.
