@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1857
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1857
@@ -16,9 +16,10 @@ For the relief of Bartosz Kumor.
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ For the relief of Bartosz Kumor.
 - 2012-12-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-12-04 — On passage Passed without objection.
 - 2012-12-04 — Passed/agreed to in House: On passage Passed without objection.
+- 2012-12-05 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
