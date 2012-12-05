@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6620
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 

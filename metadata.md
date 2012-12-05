@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6620
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6620
@@ -31,3 +31,9 @@ Former Presidents Protection Act of 2012
 - 2012-11-30 — Introduced in House
 - 2012-11-30 — Introduced in House
 - 2012-11-30 — Referred to the House Committee on the Judiciary.
+- 2012-12-05 — Considered under suspension of the rules. (consideration: CR H6646-6647)
+- 2012-12-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6620.
+- 2012-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-05 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
+- 2012-12-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6646)
+- 2012-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6646)
