@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. RES. 573
 
-> Designating the third week of January 2013 as “Teen Cancer Awareness Week”.
+> Designating the third week of January 2013 as Teen Cancer Awareness Week.
 
 ## Preamble
 
@@ -19,4 +19,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas many adolescent cancer survivors have difficulty readjusting to school and social settings, experience anxiety, and in some cases face increased learning difficulties; and
 - Whereas it is important to understand the biological and clinical needs of teenagers with cancer, seek the prevention of cancer in teenagers, and increase awareness in the general public of the unique challenges facing teenagers with cancer: Now, therefore, be it
 
-That the Senate designates the third week of January 2013 as “Teen Cancer Awareness Week” to promote awareness of teenage cancer and the unique medical and social needs of teenagers with cancer.
+That the Senate designates the third week of January 2013 as Teen Cancer Awareness Week to promote awareness of teenage cancer and the unique medical and social needs of teenagers with cancer.
