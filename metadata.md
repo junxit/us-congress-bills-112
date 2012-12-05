@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2838
 congress: 112
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 2838
@@ -181,3 +181,13 @@ Coast Guard and Maritime Transportation Act of 2012
 - 2012-12-05 — House agreed to Senate amendments with an amendment pursuant to H. Res. 825. (consideration: CR H6626-6640; text as House agreed to Senate amendments with amendment: CR H6626-6640)
 - 2012-12-05 — Passed/agreed to in House: House agreed to Senate amendments with an amendment pursuant to H. Res. 825.(consideration: CR H6626-6640; text as House agreed to Senate amendments with amendment: CR H6626-6640)
 - 2012-12-05 — Resolving differences -- House actions: House agreed to Senate amendments with an amendment pursuant to H. Res. 825.(consideration: CR H6626-6640; text as House agreed to Senate amendments with amendment: CR H6626-6640)
+- 2012-12-06 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2012-12-12 — Resolving differences -- Senate actions: Senate agreed to the House amendment to Senate amendment by Voice Vote.(consideration: CR S7972-7973)
+- 2012-12-12 — Senate agreed to the House amendment to Senate amendment by Voice Vote. (consideration: CR S7972-7973)
+- 2012-12-13 — Message on Senate action sent to the House.
+- 2012-12-14 — Presented to President.
+- 2012-12-14 — Presented to President.
+- 2012-12-20 — Became Public Law No: 112-213.
+- 2012-12-20 — Became Public Law No: 112-213.
+- 2012-12-20 — Signed by President.
+- 2012-12-20 — Signed by President.
