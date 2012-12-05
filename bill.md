@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 6582
-congress: 112th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 6582
@@ -138,7 +138,7 @@ Section 342(c) of the Energy Policy and Conservation Act (42 U.S.C. 6313(c)) is 
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Industrial energy efficiency* The term “industrial energy efficiency” means the energy efficiency derived from commercial technologies and measures to improve energy efficiency or to generate or transmit electric power and heat, including electric motor efficiency improvements, demand response, direct or indirect combined heat and power, and waste heat recovery.
-  - **(2)** *Industrial sector* The term “industrial sector” means any subsector of the manufacturing sector (as defined in North American Industry Classification System codes 31-33 (as in effect on the date of enactment of this Act)) establishments of which have, or could have, thermal host facilities with electricity requirements met in whole, or in part, by onsite electricity generation, including direct and indirect combined heat and power or waste recovery.
+  - **(2)** *Industrial sector* The term “industrial sector” means any subsector of the manufacturing sector (as defined in North American Industry Classification System codes 31–33 (as in effect on the date of enactment of this Act)) establishments of which have, or could have, thermal host facilities with electricity requirements met in whole, or in part, by onsite electricity generation, including direct and indirect combined heat and power or waste recovery.
 - **(b)** *Report on the deployment of industrial energy efficiency*
   - **(1)** *In general* Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report describing—
     - **(A)** the results of the study conducted under paragraph (2); and
