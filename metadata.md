@@ -1,7 +1,7 @@
 ---
 measure: H.R. 823
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 823
@@ -16,9 +16,10 @@ For the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.
 
 - Rep. Pelosi, Nancy [D-CA-8] (P000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ For the relief of Maria Carmen Castro Ramirez and J. Refugio Carreno Rojas.
 - 2012-12-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-12-04 — On passage Passed without objection.
 - 2012-12-04 — Passed/agreed to in House: On passage Passed without objection.
+- 2012-12-05 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
