@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6634
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6634
@@ -37,3 +37,12 @@ To change the effective date for the Internet publication of certain financial d
 - 2012-12-05 — Received in the Senate, read twice.
 - 2012-12-05 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-12-05 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-12-06 — Message on Senate action sent to the House.
+- 2012-12-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7672)
+- 2012-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7672)
+- 2012-12-06 — Presented to President.
+- 2012-12-06 — Presented to President.
+- 2012-12-07 — Became Public Law No: 112-207.
+- 2012-12-07 — Became Public Law No: 112-207.
+- 2012-12-07 — Signed by President.
+- 2012-12-07 — Signed by President.
