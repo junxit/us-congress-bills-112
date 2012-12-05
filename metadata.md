@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2838
 congress: 112
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 2838
@@ -177,3 +177,7 @@ Coast Guard and Maritime Transportation Act of 2012
 - 2012-09-22 — Senate amendment proposed (on the floor): Amendment SA 2868 proposed by Senator Pryor for Senator Rockefeller.(consideration: CR 9/21/2012 S6673; text: CR 9/21/2012 S6673)
 - 2012-09-22 — Senate amendment submitted
 - 2012-09-22 — Senate amendment submitted
+- 2012-09-24 — Message on Senate action sent to the House.
+- 2012-12-05 — House agreed to Senate amendments with an amendment pursuant to H. Res. 825. (consideration: CR H6626-6640; text as House agreed to Senate amendments with amendment: CR H6626-6640)
+- 2012-12-05 — Passed/agreed to in House: House agreed to Senate amendments with an amendment pursuant to H. Res. 825.(consideration: CR H6626-6640; text as House agreed to Senate amendments with amendment: CR H6626-6640)
+- 2012-12-05 — Resolving differences -- House actions: House agreed to Senate amendments with an amendment pursuant to H. Res. 825.(consideration: CR H6626-6640; text as House agreed to Senate amendments with amendment: CR H6626-6640)
