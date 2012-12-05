@@ -2,7 +2,7 @@
 legis-num: H.R. 6582
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 6582
@@ -191,7 +191,7 @@ Section 543(e) of the National Energy Conservation Policy Act (42 U.S.C. 8253(e)
 
 Section 543 of the National Energy Conservation Policy Act (42 U.S.C. 8253) is amended—
 
-- **(1)** by redesignating the second subsection (f) (as added by section 434(a) of Public Law 110-140 (121 Stat. 1614)) as subsection (g); and
+- **(1)** by redesignating the second subsection (f) (as added by section 434(a) of Public Law 110–140 (121 Stat. 1614)) as subsection (g); and
 - **(2)** in subsection (f)(7), by striking subparagraph (A) and inserting the following:
   > - **(A)** *In general* For each facility that meets the criteria established by the Secretary under paragraph (2)(B), the energy manager shall use the web-based tracking system under subparagraph (B)—
   >   - **(i)** to certify compliance with the requirements for—

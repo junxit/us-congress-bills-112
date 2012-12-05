@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6582
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6582
@@ -55,3 +55,4 @@ American Energy Manufacturing Technical Corrections Act
 - 2012-12-04 — Mr. Whitfield moved to suspend the rules and pass the bill, as amended.
 - 2012-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 2, 1 Present (Roll no. 614). (text: CR H6599-6602)
 - 2012-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 2, 1 Present (Roll no. 614).(text: CR H6599-6602)
+- 2012-12-05 — Received in the Senate, read twice.
