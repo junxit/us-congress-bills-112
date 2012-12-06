@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 3666
 
-> To amend the Animal Welfare Act to modify the definition of exhibitor.
+> To amend the Animal Welfare Act to modify the definition of “exhibitor”.
 
 ## § 1. Animal welfare
 
