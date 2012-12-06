@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6620
 congress: 112
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6620
@@ -39,3 +39,14 @@ Former Presidents Protection Act of 2012
 - 2012-12-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6646)
 - 2012-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6646)
 - 2012-12-06 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2012-12-28 — Passed Senate without amendment by Unanimous Consent.
+- 2012-12-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-12-28 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S8516-8517)
+- 2012-12-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S8516-8517)
+- 2012-12-30 — Message on Senate action sent to the House.
+- 2013-01-01 — Presented to President.
+- 2013-01-01 — Presented to President.
+- 2013-01-10 — Became Public Law No: 112-257.
+- 2013-01-10 — Became Public Law No: 112-257.
+- 2013-01-10 — Signed by President.
+- 2013-01-10 — Signed by President.
