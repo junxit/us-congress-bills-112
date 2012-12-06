@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6620
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6620
@@ -22,9 +22,10 @@ Former Presidents Protection Act of 2012
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Former Presidents Protection Act of 2012
 - 2012-12-05 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
 - 2012-12-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6646)
 - 2012-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6646)
+- 2012-12-06 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.

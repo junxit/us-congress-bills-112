@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6620
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | Section 3056(a)(3) of title 18, United States Code, is amended by striking “unless the former President did not” and all that follows through “warrant such protection”. | the bill names no machine-readable US Code section |
-| — | strike | Section 3056(a)(4) of title 18, United States Code, is amended by striking “for a period” and all that follows through “comes first”. | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 3056` | strike | Section 3056(a)(3) of title 18, United States Code, is amended by striking “unless the former President did not” and all that follows through “warrant such protection”. | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 3056` | strike | Section 3056(a)(4) of title 18, United States Code, is amended by striking “for a period” and all that follows through “comes first”. | the bill quotes the text struck but describes what replaces it |
