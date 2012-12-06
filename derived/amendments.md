@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6223
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `8 U.S.C. § 1101` | amend | Section 1059(e) of the National Defense Authorization Act for Fiscal Year 2006 (8 U.S.C. 1101 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 1059(e) of the National Defense Authorization Act for Fiscal Year 2006 (8 U.S.C. 1101 note) is amended to read as follows: | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6223
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6223
@@ -38,3 +38,12 @@ To amend section 1059(e) of the National Defense Authorization Act for Fiscal Ye
 - 2012-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6650-6651)
 - 2012-12-05 — The title of the measure was amended. Agreed to without objection.
 - 2012-12-06 — Received in the Senate, read twice.
+- 2012-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8087-8088)
+- 2012-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8087-8088)
+- 2012-12-18 — Message on Senate action sent to the House.
+- 2012-12-19 — Presented to President.
+- 2012-12-19 — Presented to President.
+- 2012-12-28 — Became Public Law No: 112-227.
+- 2012-12-28 — Became Public Law No: 112-227.
+- 2012-12-28 — Signed by President.
+- 2012-12-28 — Signed by President.
