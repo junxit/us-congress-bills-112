@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6605
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6605
@@ -20,9 +20,10 @@ To eliminate an unnecessary reporting requirement for an unfunded DNA Identifica
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ To eliminate an unnecessary reporting requirement for an unfunded DNA Identifica
 - 2012-12-05 — Mr. Smith (TX) moved to suspend the rules and pass the bill.
 - 2012-12-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6650)
 - 2012-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6650)
+- 2012-12-06 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
