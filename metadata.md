@@ -1,7 +1,7 @@
 ---
 measure: S. 1947
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1947
@@ -32,9 +32,11 @@ Animal Fighting Spectator Prohibition Act of 2011
 - Sen. Kerry, John F. [D-MA] (K000148)
 - Sen. Murray, Patty [D-WA] (M001111)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Agriculture, Nutrition, and Forestry Committee
+- House — Judiciary Committee
+- House — Agriculture Committee
 
 ## Actions
 
@@ -50,3 +52,7 @@ Animal Fighting Spectator Prohibition Act of 2011
 - 2012-12-04 — Senate amendment agreed to: Amendment SA 3309 agreed to in Senate by Unanimous Consent.
 - 2012-12-04 — Senate amendment proposed (on the floor): Amendment SA 3309 proposed by Senator Blumenthal.(consideration: CR S7393; text: CR S7393)
 - 2012-12-04 — Senate amendment submitted
+- 2012-12-06 — Message on Senate action sent to the House.
+- 2012-12-07 — Received in the House.
+- 2012-12-07 — Referred to the Committee on Agriculture, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-12-07 — Referred to the Committee on Agriculture, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
