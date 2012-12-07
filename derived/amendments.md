@@ -1,7 +1,7 @@
 ---
 measure: S. 3331
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | strike | Section 403 of the Intercountry Adoption Act of 2000 (42 U.S.C. 14943) is amended by striking subsection (c). | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 202(b) of the Intercountry Adoption act of 2000 (42 U.S.C. 14922(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 202(b) of the Intercountry Adoption Act of 2000 (42 U.S.C. 14922(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |

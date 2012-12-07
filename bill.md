@@ -1,8 +1,8 @@
 ---
 legis-num: S. 3331
-congress: 112th CONGRESS
+congress: One Hundred Twelfth Congress of the United States of America
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 3331
@@ -24,7 +24,7 @@ This Act may be cited as the “Intercountry Adoption Universal Accreditation Ac
 ## § 3. Availability of collected fees for accrediting entities
 
 - **(a)** Section 403 of the Intercountry Adoption Act of 2000 (42 U.S.C. 14943) is amended by striking subsection (c).
-- **(b)** *Report requirement* Section 202(b) of the Intercountry Adoption act of 2000 (42 U.S.C. 14922(b)) is amended by adding at the end the following:
+- **(b)** *Report requirement* Section 202(b) of the Intercountry Adoption Act of 2000 (42 U.S.C. 14922(b)) is amended by adding at the end the following:
   > - **(5)** *Report on use of federal funding* Not later than 90 days after an accrediting entity receives Federal funding authorized by section 403, the entity shall submit a report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that describes—
   >   - **(A)** the amount of such funding the entity received; and
   >   - **(B)** how such funding was, or will be, used by the entity.
