@@ -1,7 +1,7 @@
 ---
 measure: S. 3331
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3331
@@ -27,9 +27,10 @@ Intercountry Adoption Universal Accreditation Act of 2012
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. DeMint, Jim [R-SC] (D000595)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,6 @@ Intercountry Adoption Universal Accreditation Act of 2012
 - 2012-12-05 — Senate amendment agreed to: Amendment SA 3310 agreed to in Senate by Unanimous Consent.
 - 2012-12-05 — Senate amendment proposed (on the floor): Amendment SA 3310 proposed by Senator Cardin for Senator Kerry.(consideration: CR S7636-7637; text: CR S7636-7637)
 - 2012-12-05 — Senate amendment submitted
+- 2012-12-06 — Message on Senate action sent to the House.
+- 2012-12-07 — Received in the House.
+- 2012-12-07 — Referred to the House Committee on Foreign Affairs.
