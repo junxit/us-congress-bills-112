@@ -1,7 +1,7 @@
 ---
 measure: S. 3666
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3666
@@ -16,9 +16,15 @@ A bill to amend the Animal Welfare Act to modify the definition of "exhibitor".
 
 - Sen. Vitter, David [R-LA] (V000127)
 
+## Committees (1)
+
+- House — Agriculture Committee
+
 ## Actions
 
 - 2012-12-06 — Introduced in Senate
 - 2012-12-06 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S7688; text as passed Senate: CR S7688)
 - 2012-12-06 — Message on Senate action sent to the House.
 - 2012-12-06 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S7688; text as passed Senate: CR S7688)
+- 2012-12-07 — Received in the House.
+- 2012-12-07 — Referred to the House Committee on Agriculture.
