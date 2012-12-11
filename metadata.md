@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6328
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6328
@@ -47,3 +47,16 @@ Clothe a Homeless Hero Act
 - 2012-12-11 — Senate amendment agreed to: Amendment SA 3328 agreed to in Senate by Unanimous Consent.
 - 2012-12-11 — Senate amendment proposed (on the floor): Amendment SA 3328 proposed by Senator Reid for Senator Gillibrand.(consideration: CR S7752; text: CR S7752)
 - 2012-12-11 — Senate amendment submitted
+- 2012-12-12 — Message on Senate action sent to the House.
+- 2012-12-30 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Bilirakis objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2012-12-30 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 6328.
+- 2012-12-30 — Mr. Bilirakis moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H7446-7448)
+- 2013-01-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-01-01 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (consideraation: CR H7559; text as House agreed to Senate amendment: CR 12/30/2012 H7447)
+- 2013-01-01 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(consideraation: CR H7559; text as House agreed to Senate amendment: CR 12/30/2012 H7447)
+- 2013-01-03 — Presented to President.
+- 2013-01-03 — Presented to President.
+- 2013-01-14 — Became Public Law No: 112-271.
+- 2013-01-14 — Became Public Law No: 112-271.
+- 2013-01-14 — Signed by President.
+- 2013-01-14 — Signed by President.
