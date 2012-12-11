@@ -1,7 +1,7 @@
 ---
 measure: S. 3548
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3548
@@ -25,3 +25,7 @@ Native American Veterans' Memorial Amendments Act of 2012
 - 2012-09-13 — Introduced in Senate
 - 2012-09-13 — Read twice and referred to the Committee on Indian Affairs.
 - 2012-09-13 — Sponsor introductory remarks on measure. (CR S6344)
+- 2012-09-20 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2012-12-11 — Committee on Indian Affairs. Reported by Senator Akaka without amendment. Without written report.
+- 2012-12-11 — Committee on Indian Affairs. Reported by Senator Akaka without amendment. Without written report.
+- 2012-12-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 563.
