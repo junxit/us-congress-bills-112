@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2024
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -20,11 +20,11 @@ Section 413(b) of the T’uf Shur Bien Preservation Trust Area Act (16 U.S.C. 53
 - **(1)** in the first sentence of paragraph (4), by striking “conveyance” and inserting “the title to be conveyed”; and
 - **(2)** by adding at the end the following:
   > - **(6)** *Failure to exchange*
-  >   - **(A)** *In general* If the land exchange authorized under paragraph (1) is not completed by the date that is 90 days after the date of enactment of this paragraph, the Secretary, on receipt of consideration under subparagraph (B) and at the request of the Pueblo and the Secretary of the Interior, shall transfer the National Forest land generally depicted as Land to be Held in Trust on the map entitled Sandia Pueblo Settlement Technical Amendment and dated December 7, 2011, to the Secretary of the Interior to be held in trust by the United States for the Pueblo, subject to the condition that the land remain in its natural state.
+  >   - **(A)** *In general* If the land exchange authorized under paragraph (1) is not completed by the date that is 90 days after the date of enactment of this paragraph, the Secretary, on receipt of consideration under subparagraph (B) and at the request of the Pueblo and the Secretary of the Interior, shall transfer the National Forest land generally depicted as Land to be Held in Trust on the map entitled Sandia Pueblo Settlement Technical Amendment and dated December 7, 2011, to the Secretary of the Interior to be held in trust by the United States for the Pueblo, subject to the condition that the land remain in its natural stateas open space, with the natural characteristics of the land to be preserved in perpetuity.
   >   - **(B)** *Consideration* In consideration for the National Forest land to be held in trust under subparagraph (A), the Pueblo shall—
   >     - **(i)** convey to the Secretary the La Luz tract; and
   >     - **(ii)** pay to the Secretary the amount that is equal to the difference between—
-  >       - **(I)** the amount that is equal to the fair market value of the National Forest land, as subject to the condition that the National Forest land remain in its natural state; and
+  >       - **(I)** the amount that is equal to the fair market value of the National Forest land, as subject to the condition that the National Forest land remain in its natural stateas open space, with the natural characteristics of the land to be preserved in perpetuity; and
   >       - **(II)** the amount that is equal to the sum of—
   >         - **(aa)** the amount of compensation owed to the Pueblo by the Secretary for the right-of-way and conservation easement on the Piedra Lisa tract under subsection (c)(2); and
   >         - **(bb)** the amount that is equal to the fair market value of the La Luz tract.
