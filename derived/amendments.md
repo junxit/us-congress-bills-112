@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4310
 congress: 112
-version: Public Print
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,13 +14,51 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-784 amendatory instructions. 0 executed, 784 stated and not applied.
+784 amendatory instructions. 4 executed, 780 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 22 U.S.C. § 8551
+
+> by striking “or 105B(a)” and inserting “105B(a), or 105C(a)”; and
+
+| | |
+|---|---|
+| Removed | `or 105B(a)` |
+| Inserted | `105B(a), or 105C(a)` |
+
+### 22 U.S.C. § 8551
+
+> by striking “or 105B(b)” and inserting “105B(b), or 105C(b)”.
+
+| | |
+|---|---|
+| Removed | `or 105B(b)` |
+| Inserted | `105B(b), or 105C(b)` |
+
+### 18 U.S.C. § 2335
+
+> in subsection (a), by striking “4 years” and inserting “10 years”; and
+
+| | |
+|---|---|
+| Removed | `4 years` |
+| Inserted | `10 years` |
+
+### 18 U.S.C. § 2335
+
+> in subsection (b), by striking “4-year period” and inserting “10-year period”.
+
+| | |
+|---|---|
+| Removed | `4-year period` |
+| Inserted | `10-year period` |
 
 ## Stated, not applied
 
@@ -571,15 +609,11 @@ complete account of the bill's effect, which it is not.
 | — | amend | by amending subsection (d) to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 6 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of chapter 6 of such title is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | insert | Title I of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8511 et seq.) is amended by inserting after section 105B the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking “or 105B(a)” and inserting “105B(a), or 105C(a)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “or 105B(b)” and inserting “105B(b), or 105C(b)”. | the bill names no machine-readable US Code section |
-| — | insert | The table of contents for the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 is amended by inserting after the item relating to section 105B the following: | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating clause (ii) as clause (iii); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after clause (i) the following new clause: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking “4 years” and inserting “10 years”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b), by striking “4-year period” and inserting “10-year period”. | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 8511` | insert | Title I of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8511 et seq.) is amended by inserting after section 105B the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 8511` | insert | The table of contents for the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 is amended by inserting after the item relating to section 105B the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 8513a` | replace | in clause (i), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 8513a` | redesignate | by redesignating clause (ii) as clause (iii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 8513a` | insert | by inserting after clause (i) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |

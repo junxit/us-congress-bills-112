@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4310
 congress: 112
-version: Public Print
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4310
@@ -509,3 +509,24 @@ National Defense Authorization Act for Fiscal Year 2013
 - 2012-12-04 — Senate insists on its amendment, asks for a conference, appoints conferees Levin; Lieberman; Reed; Akaka; Nelson NE; Webb; McCaskill; Udall CO; Hagan; Begich; Manchin; Shaheen; Gillibrand; Blumenthal; McCain; Inhofe; Sessions; Chambliss; Wicker; Brown MA; Portman; Ayotte; Collins; Graham; Cornyn; Vitter.
 - 2012-12-04 — Senate ordered measure printed as passed.
 - 2012-12-04 — Senate struck all after the Enacting Clause and substituted the language of S. 3254 amended.
+- 2012-12-06 — Message on Senate action sent to the House.
+- 2012-12-12 — Amendment SA 3332 agreed to in Senate by Unanimous Consent.
+- 2012-12-12 — Amendment SA 3332 proposed by Senator Durbin to the amendment to H.R. 4310. (consideration: CR S7793-7794; text: CR S7793-7794) Of a perfecting nature.
+- 2012-12-12 — Amendment SA 3333 agreed to in Senate by Unanimous Consent.
+- 2012-12-12 — Amendment SA 3333 proposed by Senator Menendez to the amendment to H.R 4310. (consideration: CR S7793-7794) Of a perfecting nature.
+- 2012-12-12 — Measure laid before Senate by unanimous consent. (consideration: CR S7786, S7793-7972)
+- 2012-12-12 — Passed Senate with an amendment by Voice Vote. (text: CR S7794-7972)
+- 2012-12-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text: CR S7794-7972)
+- 2012-12-12 — Pursuant to the provisions of H. Res. 829, papers are returned to the Senate.
+- 2012-12-12 — Senate amendment agreed to: Amendment SA 3332 agreed to in Senate by Unanimous Consent.
+- 2012-12-12 — Senate amendment agreed to: Amendment SA 3333 agreed to in Senate by Unanimous Consent.
+- 2012-12-12 — Senate amendment proposed (on the floor): Amendment SA 3332 proposed by Senator Durbin to the amendment to H.R. 4310.(consideration: CR S7793-7794; text: CR S7793-7794)
+- 2012-12-12 — Senate amendment proposed (on the floor): Amendment SA 3333 proposed by Senator Menendez to the amendment to H.R 4310.(consideration: CR S7793-7794)
+- 2012-12-12 — Senate amendment submitted
+- 2012-12-12 — Senate amendment submitted
+- 2012-12-12 — Senate insists on its amendment, asks for a conference, appoints conferees Levin; Lieberman; Reed; Akaka; Nelson NE; Webb; McCaskill; Udall CO; Hagan; Begich; Manchin; Shaheen; Gillibrand; Blumenthal; McCain; Inhofe; Sessions; Chambliss; Wicker; Brown MA; Portman; Ayotte; Collins; Graham; Cornyn; Vitter. (consideration: CR S7786, S7972)
+- 2012-12-12 — Senate vitiated insistence on its amendment, request for a conference, and the appointment of conferees by Unanimous Consent. (consideration: CR S7786, S7793)
+- 2012-12-12 — Senate vitiated previous adoption of the Senate amendment to H.R. 4310. (consideration: CR S7786, S7793)
+- 2012-12-12 — Senate vitiated previous passage of the bill. (consideration: CR S7786, S7793)
+- 2012-12-12 — The Senate amendment (the language of S. 3254, as amended) to the bill, H.R. 4310, was modified with the following amendments: SA 3332 and SA 3333 by Unanimous Consent. (consideration: CR S7786)
+- 2012-12-12 — The Senate amendment was agreed to as modified by Unanimous Consent. (consideration: CR S7786)
