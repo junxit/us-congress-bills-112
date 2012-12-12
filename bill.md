@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6364
 
-> To establish a commission to ensure a suitable observance of the centennial of World War I, to designate memorials to the service of members of the United States Armed Forces in World War I, including a National World War I Memorial on the National Mall in the District of Columbia, and for other purposes.
+> To establish a commission to ensure a suitable observance of the centennial of World War I, to provide for the designation of memorials to the service of members of the United States Armed Forces in World War I, and for other purposes.
 
 ## § 1. Short title; table of contents
 
@@ -120,20 +120,20 @@ In this Act—
 - **(a)** *In general* The Liberty Memorial of Kansas City at America’s National World War I Museum in Kansas City, Missouri, is hereby designated as the “National World War I Museum and Memorial”.
 - **(b)** *Ceremonies* The Centennial Commission may plan, develop, and execute ceremonies to recognize the designation of the Liberty Memorial of Kansas City as the National World War I Museum and Memorial.
 
-## § 10. Establishment of National World War I Memorial on the National Mall in the District of Columbia
+## § 10. Establishment of National World War I Memorial in the District of Columbia
 
-- **(a)** *Authority to establish commemorative work* The World War I Memorial Foundation may establish a commemorative work on Federal land located in the general vicinity of Constitution Gardens in the Reserve portion of the District of Columbia to consist of an appropriate sculptural or other commemorative elements to serve as the National World War I Memorial.
-- **(b)** *Limitation on size of memorial* The National World War I Memorial may not exceed 1.5 acres in size.
+- **(a)** *Authority to establish commemorative work* The World War I Memorial Foundation may establish a commemorative work on Federal land in the District of Columbia and its environs to consist of an appropriate sculptural or other commemorative elements to serve as the National World War I Memorial.
+- **(b)** *Limitation on size of memorial* The National World War I Memorial may not exceed 0.5 acres in size.
 - **(c)** *Compliance with standards for commemorative works*
-  - **(1)** *In general* Chapter 89 of title 40, United States Code, shall apply to the establishment of the National World War I Memorial in the Reserve.
+  - **(1)** *In general* Chapter 89 of title 40, United States Code, shall apply to the establishment of the National World War I Memorial in the District of Columbia and its environs.
   - **(2)** *Exception from prohibition on additional commemorative works in reserve* Section 8908(c) of title 40, United States Code, does not apply with respect to the selection of the site for the National World War I Memorial.
-- **(d)** *No infringement upon existing memorial* The location in the general vicinity of Constitution Gardens in the Reserve selected as the site for the National World War I Memorial may not infringe upon or otherwise adversely impact the District of Columbia War Memorial.
-- **(e)** *Limitation on total cost* The total cost to design and construct the National World War I Memorial may not exceed $10,000,000.
-- **(f)** *Deposit of excess funds* The Memorial Foundation shall transmit to the Secretary of the Treasury for deposit in the account provided for in section 8906(b)(3) of title 40, United States Code—
-  - **(1)** any funds that remain after payment of all expenses incurred in the establishment of the National World War I Memorial (including payment of the amount for maintenance and preservation required under section 8906(b) of that title); or
-  - **(2)** any funds that remain for the establishment of the commemorative work on expiration of the authority for the commemorative work under section 8903(e) of that title.
-- **(g)** *Ceremonies* The Centennial Commission may plan, develop, and execute ceremonies to recognize the establishment of the National World War I Memorial.
-- **(h)** *Reserve defined* In this section, the term “Reserve” has the meaning given that term in section 8902(a)(3) of title 40, United States Code.
+  - **(3)** *No infringement upon existing memorial* The site selected for the National World War I Memorial may not infringe upon or adversely impact the District of Columbia War Memorial.
+- **(d)** *Limitation on total cost* The total cost to design and construct the National World War I Memorial may not exceed $10,000,000.
+- **(e)** *Deposit of excess funds*
+  - **(1)** *Upon establishment of memorial* If, upon payment of all expenses for the establishment of the National World War I Memorial (including the maintenance and preservation amount required by section 8906(b)(1) of title 40, United States Code), there remains a balance of funds received for the establishment of the memorial, the Memorial Foundation shall transmit the amount of the balance to the account provided for in section 8906(b)(3) of such title.
+  - **(2)** *Upon expiration of authority to establish memorial* If, upon expiration of the authority for the National World War I Memorial under section 8903(e) of title 40, United States Code, there remains a balance of funds received for the establishment of the memorial, the Memorial Foundation shall transmit the amount of the balance to a separate account with the National Park Foundation for memorials, to be available to the Secretary of the Interior or Administrator of General Services (as appropriate) following the process provided in section 8906(b)(4) of such title for accounts established under section 8906(b)(3) of such title.
+- **(f)** *Ceremonies* The Centennial Commission may plan, develop, and execute ceremonies to recognize the establishment of the National World War I Memorial.
+- **(g)** *Memorial area defined* In this section, the term “District of Columbia and its environs” has the meaning given that term in section 8902(a)(2) of title 40, United States Code.
 
 ## § 11. Prohibition on obligation of Federal funds
 

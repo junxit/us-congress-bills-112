@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6364
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6364
@@ -16,10 +16,22 @@ World War I Centennial Commission Act
 
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Cosponsors (2)
+## Cosponsors (14)
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Thompson, Mike [D-CA-1] (T000460)
+- Rep. Yoder, Kevin [R-KS-3] (Y000063)
+- Rep. Huizenga, Bill [R-MI-2] (H001058)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Long, Billy [R-MO-7] (L000576)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Hartzler, Vicky [R-MO-4] (H001053)
 
 ## Committees (2)
 
@@ -33,3 +45,16 @@ World War I Centennial Commission Act
 - 2012-09-10 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-09-10 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-09-10 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2012-09-11 — Subcommittee Hearings Held.
+- 2012-12-05 — Committee Consideration and Mark-up Session Held.
+- 2012-12-05 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2012-12-05 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-12-12 — Considered under suspension of the rules. (consideration: CR H6733-6739)
+- 2012-12-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6364.
+- 2012-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-12 — Mr. Chaffetz moved to suspend the rules and pass the bill, as amended.
+- 2012-12-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6733-6735)
+- 2012-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6733-6735)
+- 2012-12-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-701, Part I.
+- 2012-12-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-701, Part I.
+- 2012-12-12 — The title of the measure was amended. Agreed to without objection.
