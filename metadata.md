@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4310
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4310
@@ -25,7 +25,7 @@ National Defense Authorization Act for Fiscal Year 2013
 - House — Armed Services Committee
 - Senate — Armed Services Committee
 
-## Recorded votes (29)
+## Recorded votes (33)
 
 - 2012-05-17 — [House 112-2-263](votes/house-112-2-0263.md) — On Agreeing to the Amendment — **Failed** (84–335)
 - 2012-05-17 — [House 112-2-264](votes/house-112-2-0264.md) — On Agreeing to the Amendment — **Failed** (113–303)
@@ -56,6 +56,10 @@ National Defense Authorization Act for Fiscal Year 2013
 - 2012-05-18 — [House 112-2-289](votes/house-112-2-0289.md) — On Agreeing to the Amendment — **Agreed to** (379–38)
 - 2012-05-18 — [House 112-2-290](votes/house-112-2-0290.md) — On Motion to Recommit with Instructions — **Failed** (182–236)
 - 2012-05-18 — [House 112-2-291](votes/house-112-2-0291.md) — On Passage — **Passed** (299–120)
+- 2012-12-13 — [House 112-2-624](votes/house-112-2-0624.md) — On Motion to Instruct Conferees — **Passed** (399–4)
+- 2012-12-13 — [House 112-2-625](votes/house-112-2-0625.md) — On Motion to Permit Closed Conference Meetings — **Passed** (351–53)
+- 2012-12-20 — [House 112-2-645](votes/house-112-2-0645.md) — On Agreeing to the Conference Report — **Passed** (315–107)
+- 2012-12-21 — [Senate 112-2-229](votes/senate-112-2-0229.md) — On the Conference Report — **Conference Report Agreed to** (81–14)
 
 ## Actions
 
@@ -530,3 +534,53 @@ National Defense Authorization Act for Fiscal Year 2013
 - 2012-12-12 — Senate vitiated previous passage of the bill. (consideration: CR S7786, S7793)
 - 2012-12-12 — The Senate amendment (the language of S. 3254, as amended) to the bill, H.R. 4310, was modified with the following amendments: SA 3332 and SA 3333 by Unanimous Consent. (consideration: CR S7786)
 - 2012-12-12 — The Senate amendment was agreed to as modified by Unanimous Consent. (consideration: CR S7786)
+- 2012-12-13 — DEBATE - The House proceeded with one hour of debate on the Davis(CA) motion to instruct conferees on H.R. 4310. The instructions contained in the motion seek to require the managers on the part of the House at the conference on the disagreeing votes of the two Houses on the Senate amendment to the bill H.R. 4310 be instructed to agree to section 1249 of the Senate amendment (relating to a plan for promoting the security of Afghan women and girls during the security transition process).
+- 2012-12-13 — Message on Senate action sent to the House.
+- 2012-12-13 — Mr. McKeon asked unanimous consent that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H6775-6779, H6780-6781, H6782)
+- 2012-12-13 — Mr. McKeon moved to permit closed conference meetings. (consideration: CR H6780)
+- 2012-12-13 — Mrs. Davis (CA) moved that the House instruct conferees. (consideration: CR H6779)
+- 2012-12-13 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection. (consideration: CR H6775)
+- 2012-12-13 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 399 - 4 (Roll no. 624). (consideration: CR H6780)
+- 2012-12-13 — On motion to permit closed conference meetings Agreed to by the Yeas and Nays: 351 - 53 (Roll no. 625). (consideration: CR H6780-6781)
+- 2012-12-13 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Davis(CA) motion to instruct conferees on H.R. 4310, the Chair put the question on adoption of the motion to instruct conferees and by voice vote, announced the ayes prevailed. Mrs. Davis(CA) demanded the yeas and nays and the Chair postponed further proceedings on the motion to instruct conferees on H.R. 4310 until later in the legislative day.
+- 2012-12-13 — The Speaker appointed conferees - from the Committee on Armed Services for consideration of the House bill and the Senate amendment, and modifications committed to conference: McKeon, Bartlett, Thornberry, Forbes, Miller (FL), Wilson (SC), LoBiondo, Turner (OH), Kline, Rogers (AL), Shuster, Conaway, Wittman, Hunter, Rigell, Hartzler, West, Roby, Smith (WA), Reyes, Sanchez, Loretta, McIntyre, Andrews, Davis (CA), Langevin, Larsen (WA), Cooper, Bordallo, Courtney, Loebsack, Tsongas, and Pingree (ME). (consideration: CR H6782)
+- 2012-12-13 — The Speaker appointed conferees - from the Committee on Education and the Workforce for consideration of secs. 541 and 561 of the House bill and secs. 563 and 571-73 of the Senate amendment, and modifications committed to conference: Petri, Noem, and Scott (VA). (consideration: CR H6782)
+- 2012-12-13 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of secs. 312, 601, 727, 3111, 3113, 3114, 3117, 3118, 3132, 3133, 3151, and 3202 of the House bill and secs 736, 758, 914, 3118, 3122, 3152-54, 3156, and 5022 of the Senate amendment, and modifications committed to conference: Walden, Whitfield, and Waxman. (consideration: CR H6782)
+- 2012-12-13 — The Speaker appointed conferees - from the Committee on Financial Services for consideration of sec. 661 of the House bill and secs. 651-55, subtitle E of title XII, and title L of the Senate amendment, and modifications committed to conference: Capito, Huizenga (MI), and Perlmutter. (consideration: CR H6782)
+- 2012-12-13 — The Speaker appointed conferees - from the Committee on Foreign Affairs for consideration of secs. 227, 230, 335, 355, 952, 1013, 1033, 1035, 1037, 1041, 1043, 1097, 1111, 1202, 1203, 1212, 1213, 1217, 1219, 1234, 1237, 1238, 1240, 1240A, 1240B, 1240C, 1243, 1245-47, 1301, 1303, 1531-33, title XVII, secs. 3120, 3121, and 3123 of the House bill and secs. 237, 342, 873, subtitle F of title VIII, secs. 1013, 1031, 1033, 1042, 1045, 1050, 1093, 1201-04, 1212-15, 1217, 1218, 1223, 1224, 1241, 1242, 1247, 1248, subtitle E of title XII, secs. 1301, 1531, 1532, 1534, 3114 and 5023 of the Senate amendment, and modifications committed to conference: Ros-Lehtinen, Royce, and Berman. (consideration: CR H6782)
+- 2012-12-13 — The Speaker appointed conferees - from the Committee on Homeland Security for consideration of sec. 1111 of the House bill and sec. 1803 of the Senate amendment, and modifications committed to conference: King (NY), Turner (NY), and Thompson (MS). (consideration: CR H6782)
+- 2012-12-13 — The Speaker appointed conferees - from the Committee on Natural Resources for consideration of secs. 316, 317, 601, 2841, 2846, and 2861 of the House bill and secs. 271, 312, 1091, 1433, title XIX, and sec. 2842 of the Senate amendment, and modifications committed to conference: Hastings (WA), Bishop (UT), and Markey. (consideration: CR H6782)
+- 2012-12-13 — The Speaker appointed conferees - from the Committee on Oversight and Government Reform for consideration of secs. 313, 651, 663, 801, 812, 833, 952, 1101-04, 1111, 1616, 1683, 1702, 1704-06, and 2811 of the House bill and secs. 641, 822, 825, 844, 844A, 892, 894-96, 903, 1099A, 1101-04, and subtitle B of title LIII of the Senate amendment, and modifications committed to conference: Issa, Walberg, and Cummings. (consideration: CR H6782)
+- 2012-12-13 — The Speaker appointed conferees - from the Committee on Science, Space, and Technology for consideration of secs. 916, 1074, 1603, 1617, 1661, and 3158 of the House bill and secs. 271, 912, 1046, title XVIII, secs. 3153, 3159 and 3504 of the Senate amendment, and modifications committed to conference: Hall, Biggert, and Johnson, E. B. (consideration: CR H6782)
+- 2012-12-13 — The Speaker appointed conferees - from the Committee on Small Business for consideration of secs. 1611, 1621-23, 1631, 1632, 1641, 1651-58, 1661, 1671-73, 1681-83, 1691, 1693a, 1695, and 1697 of the House bill and secs. 848, 888, 889E, 1090, and 1099E of the Senate amendment, and modifications committed to conference: Graves (MO), Herrera Beutler, and Velazquez. (consideration: CR H6782)
+- 2012-12-13 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of secs. 334, 535, 601, 704, 1074, 1078, 2801, and 3509 of the House bill and secs. 521, 1803, 1804, 3503-05, 3508, and 3509 of the Senate amendment, and modifications committed to conference: Mica, Coble, and Bishop (NY). (consideration: CR H6782)
+- 2012-12-13 — The Speaker appointed conferees - from the Committee on Veterans' Affairs for consideration of secs. 355, 564, 565, 664, and 728 of the House bill and secs. 642, 755, 756, 759-64, 1044, 1087, 1090, 1097, 1099B, and title L of the Senate amendment, and modifications committed to conference: Bilirakis, Lamborn, and Michaud. (consideration: CR H6782)
+- 2012-12-13 — The Speaker appointed conferees - from the Committee on the Judiciary for consideration of secs. 564, 593, 599, 1033, 1084, 1088, 1099C, 1707, and 1709 of the House bill and secs. 653, 736, 844, 844A, 897, 899, 1033, 1092, 1096, 1099C, 5021, 5024, subtitle E of title XII, and title LI of the Senate amendment, and modifications committed to conference: Smith (TX), Lungren, Daniel E., and Conyers. (consideration: CR H6782)
+- 2012-12-13 — The Speaker appointed conferees - from the Permanent Select Committee on Intelligence for consideration of matters within the jurisdiction of that committee under clause 11 of rule X: Rogers (MI), Nunes, and Ruppersberger. (consideration: CR H6782)
+- 2012-12-13 — The previous question was ordered without objection. (consideration: CR H6779)
+- 2012-12-18 — Conferees agreed to file conference report.
+- 2012-12-18 — Conference committee actions: Conferees agreed to file conference report.
+- 2012-12-18 — Conference report H. Rept. 112-705 filed. Filed pursuant to previous special order. (text of conference report: CR H6869-7263)
+- 2012-12-18 — Conference report filed: Conference report H. Rept. 112-705 filed. Filed pursuant to previous special order.(text of conference report: CR H6869-7263)
+- 2012-12-18 — Mr. Rigell asked unanimous consent that managers on the part of the House have until midnight on Dec. 18 to file a conference report on H.R. 4310. Agreed to without objection.
+- 2012-12-19 — Rules Committee Resolution H. Res. 840 Reported to House. Rule provides for consideration of the conference report to H.R. 4310. The resolution waives all points of order against the conference report and against its consideration. The resolution provides that the conference report shall be considered as read. The previous question shall be considered as ordered without intervening motion except one hour of debate and one motion to recommit if applicable.
+- 2012-12-20 — Conference papers: Senate report and manager's statement and official papers held at the desk in Senate.
+- 2012-12-20 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 315 - 107 (Roll no. 645).
+- 2012-12-20 — DEBATE - The House proceeded with one hour of debate on conference report to accompany H.R. 4310.
+- 2012-12-20 — Motions to reconsider laid on the table Agreed to without objection.
+- 2012-12-20 — Mr. McKeon brought up conference report H. Rept. 112-705 for consideration under the provisions of H. Res. 840. (consideration: CR H7384-7394)
+- 2012-12-20 — On agreeing to the conference report Agreed to by the Yeas and Nays: 315 - 107 (Roll no. 645).
+- 2012-12-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on the conference report to accompany H.R. 4310, the Chair put the question on adoption of the conference report and by voice vote announced that the ayes had prevailed. Mr. Smith (WA) demanded the yeas and nays, and the Chair postponed further proceedings on adoption of the conference report until later in the legislative day.
+- 2012-12-20 — Rule H. Res. 840 passed House.
+- 2012-12-20 — The House proceeded to consider the conference report H.Rept. 112-705 as unfinished business. (consideration: CR H7412-7413)
+- 2012-12-20 — The previous question was ordered pursuant to the rule. (consideration: CR H7394)
+- 2012-12-21 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 81 - 14. Record Vote Number: 229.
+- 2012-12-21 — Conference report considered in Senate. (consideration: CR S8325-8340)
+- 2012-12-21 — Message on Senate action sent to the House.
+- 2012-12-21 — Senate agreed to conference report by Yea-Nay Vote. 81 - 14. Record Vote Number: 229.
+- 2012-12-30 — Presented to President.
+- 2012-12-30 — Presented to President.
+- 2013-01-02 — Became Public Law No: 112-239.
+- 2013-01-02 — Became Public Law No: 112-239.
+- 2013-01-02 — Signed by President.
+- 2013-01-02 — Signed by President.
