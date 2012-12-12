@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5817
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 6803` | amend | Section 503 of the Gramm-Leach-Bliley Act (15 U.S.C. 6803) is amended by adding the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6803` | add-at-end | Section 503 of the Gramm-Leach-Bliley Act (15 U.S.C. 6803) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
