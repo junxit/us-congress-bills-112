@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3783
 congress: 112
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3783
@@ -130,3 +130,11 @@ Countering Iran in the Western Hemisphere Act of 2012
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6079-6080)
 - 2012-09-19 — The title of the measure was amended. Agreed to without objection.
 - 2012-09-20 — Received in the Senate, read twice.
+- 2012-12-12 — Amendment SA 3334 agreed to in Senate by Unanimous Consent.
+- 2012-12-12 — Amendment SA 3334 proposed by Senator Coons for Senator Rubio. (consideration: CR S7988; text: CR S7988) To provide that the comprehensive strategy may be submitted in classified form, but shall include an unclassified summary of policy recommendations to address the growing Iranian threat in the Western Hemisphere.
+- 2012-12-12 — Measure laid before Senate by unanimous consent. (consideration: CR S7988)
+- 2012-12-12 — Passed Senate with an amendment by Voice Vote. (text: CR S7988)
+- 2012-12-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text: CR S7988)
+- 2012-12-12 — Senate amendment agreed to: Amendment SA 3334 agreed to in Senate by Unanimous Consent.
+- 2012-12-12 — Senate amendment proposed (on the floor): Amendment SA 3334 proposed by Senator Coons for Senator Rubio.(consideration: CR S7988; text: CR S7988)
+- 2012-12-12 — Senate amendment submitted
