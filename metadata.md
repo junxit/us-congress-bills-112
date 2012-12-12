@@ -1,7 +1,7 @@
 ---
 measure: S. 3564
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3564
@@ -22,9 +22,10 @@ Public Interest Declassification Board Reauthorization Act of 2012
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -45,3 +46,6 @@ Public Interest Declassification Board Reauthorization Act of 2012
 - 2012-12-11 — Senate amendment proposed (on the floor): Amendment SA 3327 proposed by Senator Reid for Senator Lieberman.(consideration: CR S7752; text: CR S7752)
 - 2012-12-11 — Senate amendment submitted
 - 2012-12-11 — Senate amendment submitted
+- 2012-12-12 — Message on Senate action sent to the House.
+- 2012-12-12 — Received in the House.
+- 2012-12-12 — Referred to the House Committee on Oversight and Government Reform.
