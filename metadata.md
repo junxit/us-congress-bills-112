@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3783
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3783
@@ -110,6 +110,10 @@ Countering Iran in the Western Hemisphere Act of 2012
 
 - House — Foreign Affairs Committee
 
+## Recorded votes (1)
+
+- 2012-12-18 — [House 112-2-630](votes/house-112-2-0630.md) — On Motion to Suspend the Rules and Agree to the Senate Amendment — **Passed** (386–6)
+
 ## Actions
 
 - 2012-01-18 — Introduced in House
@@ -138,3 +142,17 @@ Countering Iran in the Western Hemisphere Act of 2012
 - 2012-12-12 — Senate amendment agreed to: Amendment SA 3334 agreed to in Senate by Unanimous Consent.
 - 2012-12-12 — Senate amendment proposed (on the floor): Amendment SA 3334 proposed by Senator Coons for Senator Rubio.(consideration: CR S7988; text: CR S7988)
 - 2012-12-12 — Senate amendment submitted
+- 2012-12-13 — Message on Senate action sent to the House.
+- 2012-12-18 — Considered as unfinished business. (consideration: CR H6853)
+- 2012-12-18 — DEBATE - The House proceeded with forty minutes of debate on agreeing to the Senate amendment to H.R. 3783.
+- 2012-12-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-18 — Ms. Ros-Lehtinen moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H6840-6841)
+- 2012-12-18 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 386 - 6 (Roll no. 630). (text as House agreed to Senate amendment: CR H6840)
+- 2012-12-18 — POSTPONED PROCEEDINGS - At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-12-18 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 386 - 6 (Roll no. 630).(text as House agreed to Senate amendment: CR H6840)
+- 2012-12-20 — Presented to President.
+- 2012-12-20 — Presented to President.
+- 2012-12-28 — Became Public Law No: 112-220.
+- 2012-12-28 — Became Public Law No: 112-220.
+- 2012-12-28 — Signed by President.
+- 2012-12-28 — Signed by President.
