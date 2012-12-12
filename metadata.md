@@ -1,7 +1,7 @@
 ---
 measure: S. 3564
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3564
@@ -27,6 +27,10 @@ Public Interest Declassification Board Reauthorization Act of 2012
 - Senate — Homeland Security and Governmental Affairs Committee
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2012-12-19 — [House 112-2-637](votes/house-112-2-0637.md) — On Motion to Suspend the Rules and Pass — **Passed** (409–1)
+
 ## Actions
 
 - 2012-09-19 — Introduced in Senate
@@ -49,3 +53,17 @@ Public Interest Declassification Board Reauthorization Act of 2012
 - 2012-12-12 — Message on Senate action sent to the House.
 - 2012-12-12 — Received in the House.
 - 2012-12-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-12-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-12-19 — Considered as unfinished business. (consideration: CR H7328-7329)
+- 2012-12-19 — Considered under suspension of the rules. (consideration: CR H7323-7324)
+- 2012-12-19 — DEBATE - The House proceeded with forty minutes of debate on S. 3564.
+- 2012-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-19 — Mr. Farenthold moved to suspend the rules and pass the bill.
+- 2012-12-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 637). (text: CR H7323)
+- 2012-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 637).(text: CR H7323)
+- 2012-12-20 — Presented to President.
+- 2012-12-20 — Presented to President.
+- 2012-12-28 — Became Public Law No: 112-235.
+- 2012-12-28 — Became Public Law No: 112-235.
+- 2012-12-28 — Signed by President.
+- 2012-12-28 — Signed by President.
