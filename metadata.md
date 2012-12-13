@@ -1,7 +1,7 @@
 ---
 measure: H.R. 443
 congress: 112
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 443
@@ -52,3 +52,7 @@ To provide for the conveyance of certain property from the United States to the 
 - 2011-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 407 - 4 (Roll no. 936). (text: CR 12/14/2011 H8948-8949)
 - 2011-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 407 - 4 (Roll no. 936).(text: CR 12/14/2011 H8948-8949)
 - 2011-12-15 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2012-06-28 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2012-12-13 — Committee on Indian Affairs. Reported by Senator Akaka without amendment. With written report No. 112-250.
+- 2012-12-13 — Committee on Indian Affairs. Reported by Senator Akaka without amendment. With written report No. 112-250.
+- 2012-12-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 566.
