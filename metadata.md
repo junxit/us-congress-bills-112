@@ -1,7 +1,7 @@
 ---
 measure: S. 3677
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3677
@@ -32,3 +32,17 @@ A bill to make a technical correction to the Flood Disaster Protection Act of 19
 - 2012-12-13 — Message on Senate action sent to the House.
 - 2012-12-13 — Received in the House.
 - 2012-12-13 — Referred to the House Committee on Financial Services.
+- 2012-12-20 — Referred to the Subcommittee on Insurance, Housing and Community Opportunity.
+- 2013-01-01 — Committee on Financial Services discharged.
+- 2013-01-01 — Committee on Financial Services discharged.
+- 2013-01-01 — Considered by unanimous consent. (consideration: CR H7528-7529)
+- 2013-01-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-01-01 — Mrs. Biggert asked unanimous consent to discharge from committee and consider.
+- 2013-01-01 — On passage Passed without objection. (text: CR H7528)
+- 2013-01-01 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7528)
+- 2013-01-02 — Presented to President.
+- 2013-01-02 — Presented to President.
+- 2013-01-14 — Became Public Law No: 112-281.
+- 2013-01-14 — Became Public Law No: 112-281.
+- 2013-01-14 — Signed by President.
+- 2013-01-14 — Signed by President.
