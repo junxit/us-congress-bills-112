@@ -20,7 +20,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
     >   - **(1)** Except as provided in paragraph (2), the official duty station of each judge while in active service shall be the principal office of the Court of Appeals for Veterans Claims.
     >   - **(2)** The place where a recall-eligible retired judge maintains the actual abode in which such judge customarily lives shall be considered the recall-eligible retired judge's official duty station.
     > - **(c)** *Residences*
-    >   - **(1)** Except as provided in paragraph (2), after appointment and while in active service, each judge of the Court of Appeals for Veterans Claims shall reside within 50 miles of the District of Columbia.
+    >   - **(1)** Except as provided in paragraph (2), after appointment and while in active service, each judge of the Court of Appeals for Veterans Claims shall reside within 50 miles of the Washington, D.C., metropolitan area.
     >   - **(2)** Paragraph (1) shall not apply to recall-eligible retired judges of the Court of Appeals for Veterans Claims.
 
   - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 72 of such title is amended by striking the item relating to section 7255 and inserting the following new item:
