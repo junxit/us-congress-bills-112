@@ -1,7 +1,7 @@
 ---
 measure: S. 3637
 congress: 112
-version: Placed on Calendar Senate
+version: Referred to Committee Senate
 derived: true
 ---
 
