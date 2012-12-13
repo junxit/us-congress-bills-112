@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6364
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6364
@@ -58,3 +58,4 @@ World War I Centennial Commission Act
 - 2012-12-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-701, Part I.
 - 2012-12-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-701, Part I.
 - 2012-12-12 — The title of the measure was amended. Agreed to without objection.
+- 2012-12-13 — Received in the Senate, read twice.
