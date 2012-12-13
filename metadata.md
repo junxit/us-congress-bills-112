@@ -1,7 +1,7 @@
 ---
 measure: S. 3313
 congress: 112
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S. 3313
