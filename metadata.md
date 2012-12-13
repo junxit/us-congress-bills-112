@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5817
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5817
@@ -62,9 +62,10 @@ Eliminate Privacy Notice Confusion Act
 - Rep. Paulsen, Erik [R-MN-3] (P000594)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -83,3 +84,4 @@ Eliminate Privacy Notice Confusion Act
 - 2012-12-12 — Mrs. Capito moved to suspend the rules and pass the bill, as amended.
 - 2012-12-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6723)
 - 2012-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6723)
+- 2012-12-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
