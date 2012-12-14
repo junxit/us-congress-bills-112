@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3283
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 4s(a) of the Commodity Exchange Act (7 U.S.C. 6s(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Section 15F(a) of the Securities Exchange Act of 1934 (78o–10(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 15F(a) of the Securities Exchange Act of 1934 (78o–10(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3283
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -61,9 +61,7 @@ Section 15F(a) of the Securities Exchange Act of 1934 (78o–10(a)) is amended b
 >     - **(i)** a security-based swap dealer that is registered with the Commission who is either—
 >       - **(I)** a U.S. person, or
 >       - **(II)** a person that has a parent company that is a U.S. person, and
->     - **(ii)** a person who is—
->       - **(I)** a U.S. or non-U.S. subsidiary, branch, or affiliate of such security-based swap dealer, or
->       - **(II)** any other non-U.S. person that is not registered as a security-based swap dealer with the Commission,
+>     - **(ii)** a person who is a U.S. or non-U.S. subsidiary, branch, affiliate, or parent company of such security-based swap dealer,
 >   - **(B)** *Security-based swaps entered into by registered non-U.S. persons*
 >     - **(i)** *In general* A non-U.S. person that registers as a security-based swap dealer with the Commission shall only be subject to the requirements of title VII of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and of amendments added by such title, with respect to security-based swaps that such person enters into with a U.S. person who is not a U.S. subsidiary, branch, or affiliate of such non-U.S. person.
 >     - **(ii)** *Capital requirements* A non-U.S. person that registers as a security-based swap dealer with the Commission shall be permitted by the Commission to comply with the capital requirements under subsection (e) by complying with comparable requirements established by the appropriate governmental authorities in the home country of the non-U.S. person, so long as such home country is a signatory to the Basel Accords.
@@ -90,3 +88,6 @@ Section 15F(a) of the Securities Exchange Act of 1934 (78o–10(a)) is amended b
 >       - **(I)** organized or incorporated under the laws of any foreign jurisdiction; and
 >       - **(II)** formed by a U.S. person principally for the purpose of investing in securities not registered under the Securities Act of 1933, unless it is organized or incorporated, and owned, by accredited investors (as such term is defined under section 230.501 of title 17, Code of Federal Regulations) that are not natural persons, estates, or trusts.
 >   - **(E)** *Anti-Evasion* Notwithstanding any other provision of this paragraph, a registered security-based swap dealer shall not conduct any activities that are designed to evade any provision of this Act that was enacted by the Wall Street Transparency and Accountability Act of 2010.
+>   - **(F)** *Preservation of authority* Nothing in this paragraph shall—
+>     - **(i)** exempt a transaction described in this paragraph from section 23A or 23B of the Federal Reserve Act, or implementing regulations thereunder; or
+>     - **(ii)** affect the authorities of the prudential regulators over the institutions described under subparagraphs (A) through (E) of section 1a(39) of the Commodity Exchange Act (7 U.S.C. 1a(39)) as those authorities are established in law, other than under title VII of the Dodd-Frank Wall Street Reform and Consumer Protection Act and amendments made by such title.
