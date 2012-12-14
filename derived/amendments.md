@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4297
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-341 amendatory instructions. 0 executed, 341 stated and not applied.
+423 amendatory instructions. 0 executed, 423 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -43,25 +43,26 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (B)(iii), by striking “intensive services described in section 134(d)(3)” and inserting “work ready services described in section 134(c)(2)”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (C), by striking “or” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “and” after the semicolon and inserting “or”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “(A)” and inserting “(A)(i)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | in paragraph (13) (as so redesignated), by inserting “or regional” after “local” each place it appears; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “section 122(e)(3)” and inserting “section 122”; | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (B), and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (C); | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (15), by striking “adult or dislocated worker” and inserting “individual”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “higher of—” and all that follows through clause (ii) and inserting “poverty line for an equivalent period;”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (15) (as so redesignated), by striking “adult or dislocated worker” and inserting “individual”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “higher of—” and all that follows through clause (ii) and inserting “poverty line for an equivalent period;”; and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (D) through (F) as subparagraphs (E) through (G), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (C) the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (32), by striking “the Republic of the Marshall Islands, the Federated States of Micronesia,”; | the bill names no machine-readable US Code section |
-| — | redesignate | by striking paragraph (33) and redesignating paragraphs (34) through (53) as paragraphs (33) through (52), respectively; | the bill names no machine-readable US Code section |
-| — | strike | by striking “134(a)(1)(A)” and replacing with “134(a)(1)(B)”; | the bill names no machine-readable US Code section |
-| — | redesignate | by amending paragraph (48) (as so redesignated) to read as follows: | the bill names no machine-readable US Code section |
-| — | redesignate | by amending paragraph (49) (as so redesignated) to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (51) by striking “, and youth activity.”. | the bill names no machine-readable US Code section |
-| — | insert | Section 106 (20 U.S.C. 2811) is amended by inserting at the end the following: “It is also the purpose of this subtitle to provide workforce investment activities in a manner that enhances employer engagement, promotes customer choices i… | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (33) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (38), by striking “134(a)(1)(A)” and inserting “134(a)(1)(B)”; | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (49) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (50) to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (51) by striking “, and a youth activity”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 106 (29 U.S.C. 2811) is amended by adding at the end the following: “It is also the purpose of this subtitle to provide workforce investment activities in a manner that enhances employer engagement, promotes customer choices in t… | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (B); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (C) as subparagraph (B); and | the bill names no machine-readable US Code section |
 | — | replace | by amending clause (i)(I), by striking “section 117(b)(2)(A)(i)” and inserting “section 117(b)(2)(A)”; | the bill names no machine-readable US Code section |
@@ -71,7 +72,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | by amending clause (vii) to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clause (vii) (as so amended) as clause (iv); and | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | by amending subsection (c) by striking “(b)(1)(C)(i)” and replacing with “(b)(1)(B)(i)”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “(b)(1)(C)(i)” and inserting “(b)(1)(B)(i)”; | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (d) to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by striking subsection (e) and redesignating subsection (f) as subsection (e); | the bill names no machine-readable US Code section |
 | — | redesignate | in subsection (e) (as so redesignated), by inserting “or participate in action taken” after “vote”; | the bill names no machine-readable US Code section |
@@ -83,17 +84,17 @@ complete account of the bill's effect, which it is not.
 | — | amend | by amending paragraph (7) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (8) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (9), by striking “, including comment by representatives of businesses and representatives of labor organizations,”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (11), by striking “under sections 127 and 132” and inserting “under section 132,”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (11), by striking “under sections 127 and 132” and inserting “under section 132”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (12); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (13) through (18) as paragraphs (12) through (17), respectively; | the bill names no machine-readable US Code section |
-| — | replace | by amending paragraph (12) (as so redesignated) by striking “(111)(f) and 117(g)” and inserting “111(e) and 117(f)”; | the bill names no machine-readable US Code section |
-| — | replace | by amending paragraph (13) (as so redesignated) by striking “134(c)” and inserting “121(e)”; | the bill names no machine-readable US Code section |
-| — | replace | by amending paragraph (14) (as so redesignated) by striking “116(a)(5)” and inserting “116(a)(4)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (12) (as so redesignated), by striking “111(f)” and inserting “111(e)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (13) (as so redesignated), by striking “134(c)” and inserting “121(e)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (14) (as so redesignated), by striking “116(a)(5)” and inserting “116(a)(4)”; | the bill names no machine-readable US Code section |
 | — | strike | in clause (ii), by striking “to dislocated workers”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (iii), by striking “134(d)(4)” and inserting “134(c)(4)”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of clause (iii); | the bill names no machine-readable US Code section |
 | — | amend | by amending clause (iv) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “to the extent practicable” and inserting “in accordance with the requirements of the Jobs for Veterans Act (Public Law 107–288) and the amendments made by such Act”; and | the bill names no machine-readable US Code section |
 | — | redesignate | by striking paragraph (17) (as so redesignated) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “period, that—” all that follows through paragraph (2) and inserting “period, that the plan is inconsistent with the provisions of this title.”; and | the bill names no machine-readable US Code section |
@@ -110,17 +111,19 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (2), by striking “employment statistics” and inserting “workforce and labor market information”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “include—” and all that follows through “representatives” and inserting “include representatives”; | the bill names no machine-readable US Code section |
 | — | strike | by striking clauses (ii) through (vi); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subclauses (I) through (III) as clauses (i) through (iii), respectively; | the bill names no machine-readable US Code section |
-| — | redesignate | by striking clause (ii) (as so redesignated) and inserting the following: “(ii) represent businesses, including large and small businesses, with immediate and long-term employment opportunities in in-demand industries and other occupatio… | the bill names no machine-readable US Code section |
-| — | redesignate | by striking the semicolon at the end of clause (iii) (as so redesignated) and inserting “; and”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subclauses (I) through (III) as clauses (i) through (iii), respectively (and by moving the margins of such clauses 2 ems to the left); | the bill names no machine-readable US Code section |
+| — | redesignate | by striking clause (ii) (as so redesignated) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by striking the semicolon at the end of clause (iii) (as so redesignated) and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by amending subparagraph (B) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “A majority” and inserting “A 2/3 majority”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “(2)(A)(i)” and inserting “(2)(A)”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (5) by striking “(2)(A)(i)” and inserting “(2)(A)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “(2)(A)(i)” and inserting “(2)(A)”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5) by striking “(2)(A)(i)” and inserting “(2)(A)”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (c)(1)(C); | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (d) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “electronic means and” after “regular basis through”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “and the award of grants or contracts to eligible providers of youth activities,”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (f), by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1)(A), by striking “section 134(d)(4)” and inserting “section 134(c)(4)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (g)(1), by inserting “or participate in action taken” after “vote”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subsections (h) and (i). | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “5-year” and inserting “3-year”; | the bill names no machine-readable US Code section |
@@ -130,17 +133,19 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subparagraph (A) of paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking clause (vi); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clauses (vii) through (xii) as clauses (vi) through (xi), respectively; and | the bill names no machine-readable US Code section |
-| — | strike | by striking clause (ii) and (v); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating clauses (iii) through (iv) as clauses (ii) through (iii), respectively; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A)(i), by striking “section 134(d)(2)” and inserting “section 134(c)(2)”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking clauses (ii) and (v); | the bill names no machine-readable US Code section |
+| — | strike | in clause (iv), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clauses (iii) and (iv) as clauses (ii) and (iii), respectively; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | in subsection (c)(2), by amending subparagraph (A) to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in the heading for paragraph (1), by striking “designation and certification” and inserting “local designation and certification”; | the bill names no machine-readable US Code section |
+| — | replace | in the heading for paragraph (1), by striking “Designation and certification” and inserting “Local designation and certification”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 134(c)” and inserting “subsection (e)”; | the bill names no machine-readable US Code section |
 | — | amend | by amending subparagraph (A) to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | in subparagraph (B), by striking clause (ii) and redesignating clauses (iii) through (vi) as clauses (ii) through (v), respectively; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “vocational” and inserting “career and technical”; | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (e) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 122 (29 U.S.C. 2842) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking the heading for chapter 5 and inserting the following: “Employment and training activities”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “paragraphs (1)(B) and (2)(B) of”; and | the bill names no machine-readable US Code section |
@@ -153,7 +158,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (2), by striking “paragraph (2)(A) or (3) of subsection (b) for such activities” and inserting “subsection (b) for such activities”; | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (4), by striking “paragraph (2)(A) or (3) of”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (c); | the bill names no machine-readable US Code section |
@@ -175,10 +180,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (B)(i), by striking “Except” and inserting “Notwithstanding section 479B of the Higher Education Act of 1965 (20 U.S.C. 1087uu) and except”; | the bill names no machine-readable US Code section |
 | — | amend | by amending subparagraph (D) to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by striking subparagraph (E) and redesignating subparagraphs (F) and (G) as subparagraphs (E) and (F), respectively; and | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding clause (I), by striking “subsection (c)” and inserting “section 121”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (II), by striking “subsections (e) and (h)” and inserting “subsection (i)”; and | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding subclause (I), by striking “subsection (c)” and inserting “section 121”; and | the bill names no machine-readable US Code section |
+| — | replace | in subclause (II), by striking “subsections (e) and (h)” and inserting “subsection (i)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking clause (iii) and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in the subparagraph heading, by striking “Individual training accounts” and inserting “Career enhancement accounts”; | the bill names no machine-readable US Code section |
+| — | replace | in the subparagraph heading, by striking “individual training accounts” and inserting “career enhancement accounts”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (i) by striking “individual training accounts” and inserting “career enhancement accounts”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “an individual training account” and inserting “a career enhancement account”; | the bill names no machine-readable US Code section |
 | — | replace | in subclause (II), by striking “individual training accounts” and inserting “career enhancement accounts”; | the bill names no machine-readable US Code section |
@@ -189,7 +194,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subclause (IV) as subclause (V) and inserting after subclause (III) the following: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraphs (2) and (3); and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraphs (1) and (2) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in the heading, by striking “and customer satisfaction indicator”; | the bill names no machine-readable US Code section |
@@ -203,99 +208,159 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “, such as indicators of poor work experience, dislocation from high-wage employment, low levels of literacy or English proficiency, disability status, including the number of veterans with disabilities, and welfare dependen… | the bill names no machine-readable US Code section |
 | — | redesignate | by striking clause (v) and redesignating clause (vi) as clause (v); and | the bill names no machine-readable US Code section |
 | — | replace | by striking “described in clause (iv)(II)” and inserting “described in clause (iv)(I)”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “or (v)”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “paragraph (2)(C)” and inserting “paragraph (2)(B)”; | the bill names no machine-readable US Code section |
-| — | amend | by amending clause (i) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending clause (i) to read as follows: “(i) the core indicators of performance described in subsection (b)(2)(A) for activities described in such subsections, other than statewide workforce investment activities; and”; | the bill names no machine-readable US Code section |
 | — | replace | in clause (ii), by striking “(b)(2)(C)” and inserting “(b)(2)(B)”; and | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | by striking “127 or”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “127 or”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “maintain a central repository of policies related to access, eligibility, availability of services, and other matters approved by the State board and plans and such policies approved by each local board and make such reposi… | the bill names no machine-readable US Code section |
 | — | strike | by striking “and the customer satisfaction indicator” each place it appears; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “section 134(d)(4)” and inserting “section 134)(c)(4)”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (E), by striking “(excluding participants who received only self-service and information activities); and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “section 134(d)(4)” and inserting “section 134(c)(4)”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (E), by striking “(excluding participants who received only self-service and informational activities);” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subparagraph (E); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of subparagraph (F) and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of subparagraph (F) and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end, the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “through publication” and inserting “through electronic means”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | strike | in subsection (g)(1)(A), by striking “or (B)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3)(A), by striking “through publication” and inserting “through electronic means”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1)(A), by striking “or (B)”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1)(B), by striking “may reduce by not more than 5 percent,” and inserting “shall reduce”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | in subsection (h)(1), by striking “or (B)”; | the bill names no machine-readable US Code section |
 | — | amend | in subparagraph (A), by amending the matter preceding clause (i) to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (A), the following: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (C)(i) (as so redesignated), by striking “a reorganization plan under subparagraph (A) may, not later than 30 days after receiving notice of the reorganization plan, appeal to the Governor to rescind or revise such a plan… | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C)(i) (as so redesignated), by striking “a reorganization plan under subparagraph (A) may, not later than 30 days after receiving notice of the reorganization plan, appeal to the Governor to rescind or revise such plan” … | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D) (as so redesignated), by striking “subparagraph (B)” each place it appears and inserting “subparagraph (C)”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (i)(1)(C), by striking “(b)(3)(A)(vi)” and inserting “(b)(3)(A)(v)”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (i)(1)(B), by striking “subsection (b)(2)(C)” and inserting “subsection (b)(2)(B)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following subsection: | the bill names no machine-readable US Code section |
-| — | amend | Section 137 is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 137 (29 U.S.C. 2872) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (1) of section 141 (29 U.S.C. 2881(1)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | in the paragraph heading, by striking “Applicable”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “applicable”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “customer service”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “intake” and inserting “assessment”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking “before completing the requirements” and all that follows and inserting “prior to becoming a graduate.”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5), by striking “has completed the requirements” and all that follows and inserting the following: “who, as a result of participation in the Job Corps program, has received a regular secondary school diploma, completed the … | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3)(B), by inserting “secondary” before “school”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3)(E), by striking “vocational” and inserting “career and technical education and”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2)(C)(i) by striking “vocational” and inserting “career and technical education and training”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “To the extent practicable, the” and inserting “The”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “applicable”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and” after the semicolon; | the bill names no machine-readable US Code section |
+| — | strike | by striking subparagraphs (B) and (C); and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (5), by inserting at the end the following: “The Secretary shall allot not more than ½ of 1 percent of the budget of the Job Corps program for the purpose of this paragraph.”; | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (B), by inserting “and agrees to such rules” after “failure to observe the rules”; and | the bill names no machine-readable US Code section |
+| — | amend | by amending subparagraph (C) to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | by striking “2 years” and inserting “year”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “an assignment” and inserting “a”; | the bill names no machine-readable US Code section |
+| — | strike | in the matter preceding subparagraph (A), by striking “, every 2 years,”; | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (B), by striking “and” at the end; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “the education and training” after “including”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding subparagraph (A), by striking “is closest to the home of the enrollee, except that the” and inserting “offers the type of career and technical education and training selected by the individual and, among the cente… | the bill names no machine-readable US Code section |
+| — | strike | by striking subparagraph (A); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2), by inserting “that offers the career and technical education and training desired by” after “home of the enrollee” . | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “vocational” both places it appears and inserting “career and technical”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “may” and inserting “shall”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “that resides in the State in which the Jobs Corps center is located” before “to provide”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the period at the end the following: “, as appropriate”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “subsections (c) and (d) of section 303 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253)” and inserting “subsections (a) and (b) of section 3304 of title 41, United States Code”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “industry council” and inserting “workforce council”; | the bill names no machine-readable US Code section |
+| — | amend | by amending subclause (II) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in subclause (III), by striking “is familiar with the surrounding communities,” and inserting “demonstrates relationships with the surrounding communities, employers, workforce boards,” and by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | amend | by amending subclause (IV) to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subclause: | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (B)(ii), by striking “, as appropriate”; | the bill names no machine-readable US Code section |
+| — | strike | in subsection (b), by striking “In any year, no more than 20 percent of the individuals enrolled in the Job Corps may be nonresidential participants in the Job Corps.”; | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (c) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (d) and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in the subsection heading, by striking “Education and Vocational” and inserting “Academic and Career and Technical Education and”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “may” after “The Secretary” and inserting “shall”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “vocational” each place it appears and inserting “career and technical”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3) of subsection (c), by striking “have achieved a satisfactory rate of completion and placement in training-related jobs” and inserting “have met or exceeded the performance measurements in paragraphs (1) and (2) in sectio… | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “vocational” and inserting “career and technical education and”; | the bill names no machine-readable US Code section |
+| — | strike | in subsection (b), by striking “make every effort to arrange to”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (d). | the bill names no machine-readable US Code section |
+| — | amend | Subsection (b) of section 150 (29 U.S.C. 2890) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in the header, by striking “Operating plan.” and inserting “Operations.”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “In General.—” and inserting “Operating Plan.—”; | the bill names no machine-readable US Code section |
+| — | redesignate | by striking subsection (b) and redesignating subsection (c) as subsection (b); | the bill names no machine-readable US Code section |
+| — | redesignate | by amending subsection (b) (as so redesignated)— | the bill names no machine-readable US Code section |
+| — | insert | in the heading by inserting “of Operating Plan” after “Availability”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “subsections (a) and (b)” and inserting “subsection (a)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | Section 153 (29 U.S.C. 2893) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 154 (29 U.S.C. 2894) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 156 is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by amending paragraph (1) in subsection (c), by striking “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)” and inserting “chapter of 5 title 40, United States Code,”; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (e); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (f) and (g) as subsections (e) and (f), respectively. | the bill names no machine-readable US Code section |
+| — | replace | in the section heading, by striking “Management Information” and inserting “Performance Accountability and Management”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking subsections (c) through (g); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 161 (29 U.S.C. 2901) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subtitle C of title I (29 U.S.C. 2881 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (b); | the bill names no machine-readable US Code section |
 | — | strike | by striking: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (1), (2), and (3) as subsections (a), (b), and (c) respectively, and moving such subsections 2 ems to the left; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “the training of staff providing rapid response services, the training of other staff of recipients of funds under this title, assistance regarding accounting and program operation practices (when such assistance would not b… | the bill names no machine-readable US Code section |
-| — | replace | by striking “from carrying out activities” and all that follows up to the period and inserting “to implement the amendments made by the Workforce Investment Improvement Act of 2011”; and | the bill names no machine-readable US Code section |
-| — | redesignate | in subsection (b) (as so redesignated) by striking “, or recipient of financial assistance under any of section 166 through 169,”; and | the bill names no machine-readable US Code section |
-| — | redesignate | by inserting, after subsection (c) (as redesignated by paragraph (3)), the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “from carrying out activities” and all that follows up to the period and inserting “to implement the amendments made by the Workforce Investment Improvement Act of 2012”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “paragraph (1)” and inserting “subsection (a)”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “, or recipient of financial assistance under any of sections 166 through 169,”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c) (as so redesignated), by striking “paragraph (1)” and inserting “subsection (a)”; and | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting, after subsection (c) (as so redesignated), the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “the Secretary shall provide for the continuing evaluation of the programs and activities, including those programs and activities carried out under section 171” and inserting “the Secretary, through grants… | the bill names no machine-readable US Code section |
 | — | amend | in subsection (a)(4) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | in subsection (c) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e) is amended by striking “the Committee on Labor and Human Resources of the Senate” and inserting “the Committee on Health, Education, Labor, and Pensions of the Senate”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end, the following: | the bill names no machine-readable US Code section |
-| — | amend | by amending the heading for section 173 to read as follows: “National dislocated worker grants”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “national emergency grants” in the matter preceding paragraph (1) and inserting “national dislocated worker grants”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “subsection (c)” and inserting “subsection (b)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 173(c)(1)(B)” and inserting “section 173(h)(1)(B)”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “subsection (f)” and inserting “subsection (d)”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “subsection (g)” and inserting “subsection (e)”; | the bill names no machine-readable US Code section |
-| — | redesignate | by striking subsections (b) and (e) and redesignating subsections (c), (d), (f), and (g) as subsections (b) through (e), respectively; | the bill names no machine-readable US Code section |
-| — | redesignate | in subsection (b)(1)(B) (as so redesignated), by striking “an entity described in section 166(c)” and all that follows, and replacing with “and section 132(a)(2). ”; | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding clause (i), by striking “national emergency grant” and inserting “national dislocated worker grant”; | the bill names no machine-readable US Code section |
-| — | replace | in clause (iii), by striking “; or” and inserting a semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in clause (iv)(IV) by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b)(2)(C) (as so redesignated), by striking “national emergency grant” and inserting “national dislocated worker grants”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d)(2) (as so redesignated), by striking “subsection (g)” and inserting “subsection (e)”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d)(5) (as so redesignated), by striking “subsection (g)” and inserting “subsection (e)”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d)(6) (as so redesignated), by striking “subsection (g)” and inserting “subsection (e)”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (e)(1)(A) (as so redesignated), by striking “subsection (f)(1)(A)” and inserting “subsection (d)(1)(A)”; and | the bill names no machine-readable US Code section |
-| — | strike | in subsection (b)(6), by striking “, including representatives of businesses and labor organizations”; | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end, the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subtitle D of title I (29 U.S.C. 2911 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in subsection (b)(6), by striking “, including representatives of businesses and of labor organizations”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(2)(A), in the matter preceding clause (i), by striking “shall” and inserting “may”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “training for” and inserting “the entry into employment, retention in employment, or increases in earnings of”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “under subtitle B” and inserting “this Act”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subsection (c), by striking “127 or”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “sections 128 and 133” and inserting “section 133”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “127 or”. | the bill names no machine-readable US Code section |
 | — | strike | Section 184(a)(2) (29 U.S.C. 2934(a)(2)) is amended by striking subparagraph (B). | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (e)(2), by inserting “and the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate,” after “Secreta… | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “each State” and inserting “each recipient”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “171 or”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “requirements of subparagraph (B)” and all that follows through “any of the statutory or regulatory requirements of subtitle B” and inserting “requirements of subparagraph (B) or (D), any of the statutory or regulatory requir… | the bill names no machine-readable US Code section |
 | — | strike | by striking clause (ii); and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “; and” and inserting a period at the end; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “consistent with the provisions of this title” and inserting “consistent with State law and the provisions of this title”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “consistent with the terms and conditions required under this title” and inserting “consistent with State law and the terms and conditions required under this title”. | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a)(1)(A), by striking “127 or”; | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a)(1)(B), by striking “127 or”; and | the bill names no machine-readable US Code section |
 | — | strike | in subsection (a)(2), by striking “127 or”. | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (7), by inserting at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subtitle E of title I (29 U.S.C. 2931 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end, the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end, the following: | the bill names no machine-readable US Code section |
 | — | amend | Title II (29 U.S.C. 2901 et seq.) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | by striking sections 1 through 13; | the bill names no machine-readable US Code section |
-| — | insert | in section 14 by inserting “of Labor” after “Secretary”; and | the bill names no machine-readable US Code section |
-| — | amend | by amending section 15 to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | The Wagner-Peyser Act (29 U.S.C. 49 et seq.) is amended by amending section 15 to read as follows: | the bill names no machine-readable US Code section |
 | — | repeal | The following provisions are repealed: | the bill names no machine-readable US Code section |
 | — | strike | Section 104(k)(6) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9604) is amended by striking “, training,”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “and (2)” and inserting “(2)”, and | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the period at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (d)(14) by striking “section (d)(4)(I)” and inserting “section (d)(4)(C)”, and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (g)(3) by striking “constituting adequate participation in an employment and training program under section 6(d)” and inserting “allows the individual to participate in employment and training activities under section 6(d)(… | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d)(14) by striking “section 6(d)(4)(I)” and inserting “section 6(d)(4)(C)”, and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (g)(3) by striking “constitutes adequate participation in an employment and training program under section 6(d)” and inserting “allows the individual to participate in employment and training activities under section 6(d)(4)”. | the bill names no machine-readable US Code section |
 | — | amend | Section 6(d)(4) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(d)(4)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 11(e)(19) of the Food and Nutrition Act of 2008 (7 U.S.C. 2020(e)(11) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A) by striking “carry out employment and training programs” and inserting “provide employment and training services to eligible households under section 6(d)(4)”, and | the bill names no machine-readable US Code section |
@@ -307,29 +372,46 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “, in conjunction with the Secretary of Labor,” after “Secretary”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “programs established” and inserting “activities provided to eligible households”. | the bill names no machine-readable US Code section |
 | — | strike | Section 22(b)(4) of the Food and Nutrition Act of 2008 (7 U.S.C. 2031(b)(4)) is amended by striking “equivalent to those offered under the employment and training program”. | the bill names no machine-readable US Code section |
+| — | strike | by striking the item relating to section 4103A and section 4104 in the table of sections at the beginning of chapter 41 of such title; | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraphs (5), (6), and (7); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (8) as paragraph (5); | the bill names no machine-readable US Code section |
+| — | strike | by striking subsections (c) and (h); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (d), (e), (f), and (g) as subsection (c), (d), (e), and (f); | the bill names no machine-readable US Code section |
+| — | strike | by striking “, including disabled veterans’ outreach program specialists and local veterans' employment representatives providing employment, training, and placement services under this chapter in a State”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “for purposes of subsection (c)”. | the bill names no machine-readable US Code section |
+| — | replace | in section 4109(a), by striking “disabled veterans’ outreach program specialists, local veterans’ employment representatives” and inserting “veteran employment specialists appointed under section 134(f) of the Workforce Investment Act”; | the bill names no machine-readable US Code section |
+| — | replace | in section 4109(d)(1), by striking “disabled veterans’ outreach program specialists and local veterans’ employment representatives” and inserting “veteran employment specialists appointed under section 134(f) of the Workforce Investment … | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “disabled veterans’ outreach program specialist” and inserting “veteran employment specialist appointed under section 134(f) of the Workforce Investment Act”; and | the bill names no machine-readable US Code section |
+| — | redesignate | by striking paragraph (2) and redesignating paragraph (3) as paragraph (2); | the bill names no machine-readable US Code section |
+| — | replace | in section 3672(d)(1), by striking “disabled veterans’ outreach program specialists under section 4103A” and inserting “veteran employment specialists appointed under section 134(f) of the Workforce Investment Act of 1998”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “section 1144 of title 10” and inserting “section 175 of the Workforce Investment Act of 1998”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “section 1144(a)(1) of title 10” and inserting “section 175(a) of the Workforce Investment Act of 1998”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(1), by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c)(1), by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | The table of contents in section 1(b) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (5), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Office of the Secretary” and inserting “Department of Education”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “President by and with the advice and consent of the Senate” and inserting “Secretary”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “, and the Commissioner shall be the principal officer,”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “Commissioner” each place it appears (except in section 21) and inserting “Director”; | the bill names no machine-readable US Code section |
+| — | replace | in section 12(c) (29 U.S.C. 709), is amended by striking “Commissioner’s” and inserting “Director’s”; | the bill names no machine-readable US Code section |
 | — | replace | in the heading for subparagraph (B) of section 100(d)(2), by striking “commissioner” and inserting “director”; | the bill names no machine-readable US Code section |
 | — | replace | in the heading for section 706, by striking “commissioner” and inserting “director”; | the bill names no machine-readable US Code section |
 | — | replace | in the heading for paragraph (3) of section 723(a), by striking “commissioner” and inserting “director”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “Commissioner” the first place it appears and inserting “Director of the Rehabilitation Services Administration”; and | the bill names no machine-readable US Code section |
-| — | strike | by striking “(referred to in this subsection as the Director)”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “the Commissioner and the Director” each place it appears and inserting “both such Directors”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “The Commissioner and the Director” and inserting “Both such Directors”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “Commissioner” the first place it appears and inserting “Director of the Rehabilitation Services Administration”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “(referred to in this subsection as the Director)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “The Commissioner and the Director” and inserting “Both such Directors”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “the Commissioner and the Director” each place it appears and inserting “both such Directors”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (35) through (39) as paragraphs (36) through (40), respectively; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A)(ii) of paragraph (36) (as redesignated by paragraph (1)), by striking “paragraph (36)(C)” and inserting “paragraph (37)(C)”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (34) the following: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (D)(i), by inserting before the semicolon the following: “, which may be provided using alternative means of meeting participation (such as video conferences and conference calls)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subclause (II), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | amend | in subclause (III), by adding “and” at the end; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clauses (ii) and (iii) as clauses (iii) and (iv), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after clause (i) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clauses (iii), (iv), and (v) as clauses (iv), (v), and (vi), respectively; and | the bill names no machine-readable US Code section |
@@ -337,7 +419,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “carrying out part B of title VI, including”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “that part to supplement funds made available under part B of”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (24)(A), by striking “part A of title VI” and inserting “section 109A”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking paragraph (15) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking paragraph (6) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b) by inserting at the end, the following: | the bill names no machine-readable US Code section |
@@ -358,9 +440,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | in section 100(b)(1) (29 U.S.C. 720(b)(1)), by striking “such sums as may be necessary for fiscal years 1999 through 2003” and inserting “$3,121,712,000 for fiscal year 2013 and each of the 5 succeeding fiscal years”; | the bill names no machine-readable US Code section |
 | — | amend | in section 110(c) (29 U.S.C. 730(c)), by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in section 112(h) (29 U.S.C. 732(h)) by striking “such sums as may be necessary for fiscal years 1999 through 2003” and inserting “$12,240,000 for fiscal year 2013 and each of the 5 succeeding fiscal years”; | the bill names no machine-readable US Code section |
-| — | amend | by amending subsection (a) of section 201 (29 U.S.C. 761(a)) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (a) of section 201 (29 U.S.C. 761(a)) to read as follows: “(a) There are authorized to be appropriated $108,817,000 for fiscal year 2013 and each of the 5 succeeding fiscal years to carry out this title.”; | the bill names no machine-readable US Code section |
 | — | replace | in section 302(i) (29 U.S.C. 772(i)) by striking “such sums as may be necessary for each of the fiscal years 1999 through 2003” and inserting “$35,515,000 for fiscal year 2013 and each of the 5 succeeding fiscal years”; | the bill names no machine-readable US Code section |
-| — | replace | in section 303(e) (29 U.S.C. 773(e)) by striking “such sums as may be necessary for fiscal years 1999 through 2003” and inserting “$5,325,000 for fiscal year 2013 and each of the 5 succeeding fiscal years”; | the bill names no machine-readable US Code section |
+| — | replace | in section 303(e) (29 U.S.C. 773(e)) by striking “such sums as may be necessary for each of the fiscal years 1999 through 2003” and inserting “$5,325,000 for fiscal year 2013 and each of the 5 succeeding fiscal years”; | the bill names no machine-readable US Code section |
 | — | replace | in section 405 (29 U.S.C. 785) by striking “such sums as may be necessary for each of the fiscal years 1999 through 2003” and inserting “$3,258,000 for fiscal year 2013 and each of the 5 succeeding fiscal years”; | the bill names no machine-readable US Code section |
 | — | replace | in section 502(j) (29 U.S.C. 792(j)) by striking “such sums as may be necessary for each of the fiscal years 1999 through 2003” and inserting “$7,400,000 for fiscal year 2013 and each of the 5 succeeding fiscal years”; | the bill names no machine-readable US Code section |
 | — | replace | in section 509(l) (29 U.S.C. 794e(l)) by striking “such sums as may be necessary for each of the fiscal years 1999 through 2003” and inserting “$18,031,000 for fiscal year 2013 and each of the 5 succeeding fiscal years”; | the bill names no machine-readable US Code section |

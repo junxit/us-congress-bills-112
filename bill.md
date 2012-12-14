@@ -19,7 +19,7 @@ The table of contents for this Act is as follows:
 
 ## § 3. References
 
-Except as otherwise expressly provided, wherever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the amendment or repeal shall be considered to be made to a section or other provision of the Workforce Investment Act of 1998 (20 U.S.C. 9201 et seq.).
+Except as otherwise expressly provided, wherever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the amendment or repeal shall be considered to be made to a section or other provision of the Workforce Investment Act of 1998 (29 U.S.C. 9201 et seq.).
 
 ## § 4. Effective date
 
