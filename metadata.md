@@ -1,7 +1,7 @@
 ---
 measure: S. 1998
 congress: 112
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # S. 1998
@@ -50,3 +50,7 @@ DART Act
 - 2012-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6731)
 - 2012-12-14 — Presented to President.
 - 2012-12-14 — Presented to President.
+- 2012-12-20 — Became Public Law No: 112-217.
+- 2012-12-20 — Became Public Law No: 112-217.
+- 2012-12-20 — Signed by President.
+- 2012-12-20 — Signed by President.
