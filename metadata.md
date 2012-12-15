@@ -1,7 +1,7 @@
 ---
 measure: S. 1998
 congress: 112
-version: Referred in House
+version: Reported to Senate
 ---
 
 # S. 1998
@@ -41,3 +41,12 @@ DART Act
 - 2012-11-29 — Received in the House.
 - 2012-11-29 — Referred to the Committee on Homeland Security, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-11-29 — Referred to the Committee on Homeland Security, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-11-30 — Referred to the Subcommittee on Oversight, Investigations, and Management.
+- 2012-12-12 — Considered under suspension of the rules. (consideration: CR H6731-6733)
+- 2012-12-12 — DEBATE - The House proceeded with forty minutes of debate on S. 1998.
+- 2012-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-12 — Mr. King (NY) moved to suspend the rules and pass the bill.
+- 2012-12-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6731)
+- 2012-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6731)
+- 2012-12-14 — Presented to President.
+- 2012-12-14 — Presented to President.
