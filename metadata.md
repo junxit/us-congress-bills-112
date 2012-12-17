@@ -1,7 +1,7 @@
 ---
 measure: S. 2045
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2045
@@ -16,9 +16,10 @@ A bill to amend title 38, United States Code, to require judges of the United St
 
 - Sen. Burr, Richard [R-NC] (B001135)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ A bill to amend title 38, United States Code, to require judges of the United St
 - 2012-12-13 — Senate amendment agreed to: Amendment agreed to in Senate by Unanimous Consent.
 - 2012-12-13 — Senate amendment proposed (on the floor): Amendment SA 3337 proposed by Senator Reid for Senator Burr.(consideration: CR S8046; text: CR S8046)
 - 2012-12-13 — Senate amendment submitted
+- 2012-12-14 — Message on Senate action sent to the House.
+- 2012-12-17 — Received in the House.
+- 2012-12-17 — Referred to the House Committee on Veterans' Affairs.
