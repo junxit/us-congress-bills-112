@@ -1,7 +1,7 @@
 ---
 measure: S. 3193
 congress: 112
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 3193
@@ -66,3 +66,9 @@ Barona Band of Mission Indians Land Transfer Clarification Act of 2012
 - 2012-12-17 — Placed on the Union Calendar, Calendar No. 514.
 - 2012-12-17 — Reported by the Committee on Natural Resources. H. Rept. 112-702.
 - 2012-12-17 — Reported by the Committee on Natural Resources. H. Rept. 112-702.
+- 2012-12-19 — Presented to President.
+- 2012-12-19 — Presented to President.
+- 2012-12-28 — Became Public Law No: 112-232.
+- 2012-12-28 — Became Public Law No: 112-232.
+- 2012-12-28 — Signed by President.
+- 2012-12-28 — Signed by President.
