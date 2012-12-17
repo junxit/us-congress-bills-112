@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2076
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 

@@ -1,12 +1,32 @@
 ---
 legis-num: H.R. 2076
-congress: 112th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2076
 
-That the bill from the House of Representatives (H.R. 2076) entitled “An Act to amend title 28, United States Code, to clarify the statutory authority for the longstanding practice of the Department of Justice of providing investigatory assistance on request of State and local authorities with respect to certain serious violent crimes, and for other purposes.”, do pass with the following
+> To amend title 28, United States Code, to clarify the statutory authority for the longstanding practice of the Department of Justice of providing investigatory assistance on request of State and local authorities with respect to certain serious violent crimes, and for other purposes.
 
-*In lieu of matter proposed to be inserted, insert the following:*
+## § 1. Short title
+
+This Act may be cited as the “Investigative Assistance for Violent Crimes Act of 2012”.
+
+## § 2. Investigation of certain violent acts, shootings, and mass killings
+
+- **(a)** *Attorney general* Title 28, United States Code, is amended—
+  - **(1)** in section 530C(b)(1)(L)(i), by striking “$2,000,000” and inserting “$3,000,000”; and
+  - **(2)** in section 530C(b)(1), by adding at the end the following—
+    > - **(M)**
+    >   - **(i)** At the request of an appropriate law enforcement official of a State or political subdivision, the Attorney General may assist in the investigation of violent acts and shootings occurring in a place of public use and in the investigation of mass killings and attempted mass killings. Any assistance provided under this subparagraph shall be presumed to be within the scope of Federal office or employment.
+    >   - **(i)** For purposes of this subparagraph—
+    >     - **(I)** the term mass killings means 3 or more killings in a single incident; and
+    >     - **(II)** the term place of public use has the meaning given that term under section 2332f(e)(6) of title 18, United States Code.
+
+- **(b)** *Secretary of Homeland Security* Section 875 of the Homeland Security Act of 2002 (6 U.S.C. 455) is amended by adding at the end the following:
+  > - **(d)** *Investigation of certain violent acts, shootings, and mass killings*
+  >   - **(1)** *In general* At the request of an appropriate law enforcement official of a State or political subdivision, the Secretary, through deployment of the Secret Service or United States Immigration and Customs Enforcement, may assist in the investigation of violent acts and shootings occurring in a place of public use, and in the investigation of mass killings and attempted mass killings. Any assistance provided by the Secretary under this subsection shall be presumed to be within the scope of Federal office or employment.
+  >   - **(2)** *Definitions* For purposes of this subsection—
+  >     - **(A)** the term mass killings means 3 or more killings in a single incident; and
+  >     - **(B)** the term place of public use has the meaning given that term under section 2332f(e)(6) of title 18, United States Code.

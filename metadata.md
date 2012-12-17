@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2076
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2076
@@ -64,3 +64,16 @@ Investigative Assistance for Violent Crimes Act of 2012
 - 2012-12-17 — Senate amendment proposed (on the floor): Amendment SA 3342 proposed by Senator Reid for Senator Whitehouse.(consideration: CR S8089; text: CR S8089)
 - 2012-12-17 — Senate amendment submitted
 - 2012-12-17 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S8089; text: CR S8089)
+- 2012-12-18 — Message on Senate action sent to the House.
+- 2012-12-31 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Scott (VA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2012-12-31 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 2076.
+- 2012-12-31 — Mr. Gowdy moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H7491-7495)
+- 2013-01-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-01-01 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (consideration: CR H7560; text as House agreed to Senate amendment: CR 12/31/2012 H7491-7492)
+- 2013-01-01 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(consideration: CR H7560; text as House agreed to Senate amendment: CR 12/31/2012 H7491-7492)
+- 2013-01-03 — Presented to President.
+- 2013-01-03 — Presented to President.
+- 2013-01-14 — Became Public Law No: 112-265.
+- 2013-01-14 — Became Public Law No: 112-265.
+- 2013-01-14 — Signed by President.
+- 2013-01-14 — Signed by President.
