@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4053
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4053
@@ -66,3 +66,12 @@ Improper Payments Elimination and Recovery Improvement Act of 2012
 - 2012-12-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 626). (text: CR H6768-6770)
 - 2012-12-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 626).(text: CR H6768-6770)
 - 2012-12-17 — Received in the Senate, read twice.
+- 2012-12-20 — Passed Senate without amendment by Unanimous Consent.
+- 2012-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-12-21 — Message on Senate action sent to the House.
+- 2012-12-31 — Presented to President.
+- 2012-12-31 — Presented to President.
+- 2013-01-10 — Became Public Law No: 112-248.
+- 2013-01-10 — Became Public Law No: 112-248.
+- 2013-01-10 — Signed by President.
+- 2013-01-10 — Signed by President.

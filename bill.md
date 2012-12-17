@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 4053
-congress: 112th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4053
@@ -60,7 +60,7 @@ In this Act—
     - **(D)** require agencies to include all identified improper payments in the reported estimate, regardless of whether the improper payment in question has been or is being recovered;
     - **(E)** include payments to employees, including salary, locality pay, travel pay, purchase card use, and other employee payments, as subject to risk assessment and, where appropriate, improper payment estimation; and
     - **(F)** require agencies to tailor their corrective actions for the high-priority programs identified under section 2(b)(1)(A) of the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note) to better reflect the unique processes, procedures, and risks involved in each specific program.
-- **(c)** *Technical and conforming amendments* The Improper Payments Elimination and Recovery Act of 2010 (Public Law 111–204; 31 U.S.C. 3321 note.) is amended—
+- **(c)** *Technical and conforming amendments* The Improper Payments Elimination and Recovery Act of 2010 (Public Law 111–204; 31 U.S.C. 3321 note) is amended—
   - **(1)** in section 2(h)(1), by striking “section 2(f)” and all that follows and inserting “section 2(g) of the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note).”; and
   - **(2)** in section 3(a)—
     - **(A)** in paragraph (1), by striking “section 2(f)” and all that follows and inserting “section 2(g) of the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note).”; and
