@@ -1,7 +1,7 @@
 ---
 measure: S. 3687
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3687
@@ -16,6 +16,12 @@ A bill to amend the Federal Water Pollution Control Act to reauthorize the Lake 
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
+## Committees (3)
+
+- House — Transportation and Infrastructure Committee
+- House — Natural Resources Committee
+- House — Judiciary Committee
+
 ## Actions
 
 - 2012-12-17 — Introduced in Senate
@@ -26,3 +32,20 @@ A bill to amend the Federal Water Pollution Control Act to reauthorize the Lake 
 - 2012-12-17 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-12-17 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-12-17 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Natural Resources, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-12-18 — Committee on Judiciary discharged.
+- 2012-12-18 — Committee on Judiciary discharged.
+- 2012-12-18 — Committee on Natural Resources discharged.
+- 2012-12-18 — Committee on Natural Resources discharged.
+- 2012-12-18 — Committee on Transportation discharged.
+- 2012-12-18 — Committee on Transportation discharged.
+- 2012-12-18 — Considered by unanimous consent. (consideration: CR H6855-6856)
+- 2012-12-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-18 — Mr. Denham asked unanimous consent to discharge from committee and consider. (consideration: CR H6855)
+- 2012-12-18 — On passage Passed without objection. (text: CR H6855-6856)
+- 2012-12-18 — Passed/agreed to in House: On passage Passed without objection.(text: CR H6855-6856)
+- 2012-12-20 — Presented to President.
+- 2012-12-20 — Presented to President.
+- 2012-12-28 — Became Public Law No: 112-237.
+- 2012-12-28 — Became Public Law No: 112-237.
+- 2012-12-28 — Signed by President.
+- 2012-12-28 — Signed by President.
