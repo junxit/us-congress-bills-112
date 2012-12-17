@@ -1,7 +1,7 @@
 ---
 measure: S. 3193
 congress: 112
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 3193
@@ -26,6 +26,10 @@ Barona Band of Mission Indians Land Transfer Clarification Act of 2012
 - Senate — Indian Affairs Committee
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2012-12-17 — [House 112-2-628](votes/house-112-2-0628.md) — On Motion to Suspend the Rules and Pass — **Passed** (306–0)
+
 ## Actions
 
 - 2012-05-16 — Introduced in Senate
@@ -46,3 +50,19 @@ Barona Band of Mission Indians Land Transfer Clarification Act of 2012
 - 2012-09-24 — Message on Senate action sent to the House.
 - 2012-09-25 — Received in the House.
 - 2012-09-25 — Referred to the House Committee on Natural Resources.
+- 2012-10-01 — Referred to the Subcommittee Indian and Alaska Native Affairs.
+- 2012-12-04 — Subcommittee Hearings Held.
+- 2012-12-05 — Committee Consideration and Mark-up Session Held.
+- 2012-12-05 — Ordered to be Reported by Unanimous Consent.
+- 2012-12-05 — Subcommittee Indian and Alaska Native Affairs Discharged.
+- 2012-12-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-12-17 — Considered as unfinished business. (consideration: CR H6814-6815)
+- 2012-12-17 — Considered under suspension of the rules. (consideration: CR H6812-6813)
+- 2012-12-17 — DEBATE - The House proceeded with forty minutes of debate on S. 3193.
+- 2012-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-17 — Mr. Bishop (UT) moved to suspend the rules and pass the bill.
+- 2012-12-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 306 - 0 (Roll no. 628). (text: CR H6812)
+- 2012-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 306 - 0 (Roll no. 628).(text: CR H6812)
+- 2012-12-17 — Placed on the Union Calendar, Calendar No. 514.
+- 2012-12-17 — Reported by the Committee on Natural Resources. H. Rept. 112-702.
+- 2012-12-17 — Reported by the Committee on Natural Resources. H. Rept. 112-702.
