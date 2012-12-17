@@ -1,7 +1,7 @@
 ---
 measure: S. 3472
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 

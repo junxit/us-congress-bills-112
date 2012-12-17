@@ -1,7 +1,7 @@
 ---
 measure: S. 3472
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3472
@@ -28,9 +28,10 @@ Uninterrupted Scholars Act (USA)
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Education and the Workforce Committee
 
 ## Actions
 
@@ -50,3 +51,17 @@ Uninterrupted Scholars Act (USA)
 - 2012-12-17 — Senate amendment agreed to: Amendment SA 3345 agreed to in Senate by Unanimous Consent.
 - 2012-12-17 — Senate amendment proposed (on the floor): Amendment SA 3345 proposed by Senator Hagan for Senator Landrieu.(consideration: CR S8091-8092; text: CR S8091-8092)
 - 2012-12-17 — Senate amendment submitted
+- 2012-12-30 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Roe (TN) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2012-12-30 — Considered under suspension of the rules. (consideration: CR H7450-7453)
+- 2012-12-30 — DEBATE - The House proceeded with forty minutes of debate on S. 3472.
+- 2012-12-30 — Mr. Roe (TN) moved to suspend the rules and pass the bill.
+- 2013-01-01 — Considered as unfinished business. (consideration: CR H7559)
+- 2013-01-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-01-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text as House agreed to Senate amendment: CR 12/30/2012 H7450)
+- 2013-01-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text as House agreed to Senate amendment: CR 12/30/2012 H7450)
+- 2013-01-03 — Presented to President.
+- 2013-01-03 — Presented to President.
+- 2013-01-14 — Became Public Law No: 112-278.
+- 2013-01-14 — Became Public Law No: 112-278.
+- 2013-01-14 — Signed by President.
+- 2013-01-14 — Signed by President.

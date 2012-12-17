@@ -1,8 +1,8 @@
 ---
 legis-num: S. 3472
-congress: 112th CONGRESS
+congress: One Hundred Twelfth Congress of the United States of America
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 3472
@@ -21,6 +21,6 @@ Section 444(b) of the General Education Provisions Act (20 U.S.C. 1232g(b)) (com
   - **(A)** in subparagraph (J)(ii), by striking “and” after the semicolon at the end;
   - **(B)** in subparagraph (K)(ii), by striking the period at the end and inserting “; and”; and
   - **(C)** by inserting after subparagraph (K), the following:
-    > - **(L)** an agency caseworker or other representative of a State or local child welfare agency, or tribal organization (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S. C. 450b)), who has the right to access a student's case plan, as defined and determined by the State or tribal organization, when such agency or organization is legally responsible, in accordance with State or tribal law, for the care and protection of the student, provided that the education records, or the personally identifiable information contained in such records, of the student will not be disclosed by such agency or organization, except to an individual or entity engaged in addressing the student’s education needs and authorized by such agency or organization to receive such disclosure and such disclosure is consistent with the State or tribal laws applicable to protecting the confidentiality of a student’s education records.
+    > - **(L)** an agency caseworker or other representative of a State or local child welfare agency, or tribal organization (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b)), who has the right to access a student's case plan, as defined and determined by the State or tribal organization, when such agency or organization is legally responsible, in accordance with State or tribal law, for the care and protection of the student, provided that the education records, or the personally identifiable information contained in such records, of the student will not be disclosed by such agency or organization, except to an individual or entity engaged in addressing the student’s education needs and authorized by such agency or organization to receive such disclosure and such disclosure is consistent with the State or tribal laws applicable to protecting the confidentiality of a student’s education records.
 
 - **(2)** in paragraph (2)(B), by inserting “, except when a parent is a party to a court proceeding involving child abuse and neglect (as defined in section 3 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 note)) or dependency matters, and the order is issued in the context of that proceeding, additional notice to the parent by the educational agency or institution is not required” after “educational institution or agency”.
