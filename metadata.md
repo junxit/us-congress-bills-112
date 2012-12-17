@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2076
 congress: 112
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2076
@@ -55,3 +55,12 @@ Investigative Assistance for Violent Crimes Act of 2012
 - 2011-11-17 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2011-11-17 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
 - 2011-11-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 236.
+- 2012-12-17 — Amendment SA 3342 agreed to in Senate by Unanimous Consent.
+- 2012-12-17 — Amendment SA 3342 proposed by Senator Reid for Senator Whitehouse. (consideration: CR S8089; text: CR S8089) In the nature of a substitute.
+- 2012-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S8089)
+- 2012-12-17 — Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-17 — Senate amendment agreed to: Amendment SA 3342 agreed to in Senate by Unanimous Consent.
+- 2012-12-17 — Senate amendment proposed (on the floor): Amendment SA 3342 proposed by Senator Reid for Senator Whitehouse.(consideration: CR S8089; text: CR S8089)
+- 2012-12-17 — Senate amendment submitted
+- 2012-12-17 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S8089; text: CR S8089)
