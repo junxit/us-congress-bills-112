@@ -1,7 +1,7 @@
 ---
 measure: S. 3472
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,8 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in subparagraph (F), by inserting “or for, or on behalf of, child welfare agencies for the purpose of assessing policies and practices intended to improve educational outcomes for students in foster care,” after “improving instruction,”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (J)(ii), by striking “and” after the semicolon at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (K)(ii), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (K) the following: | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (2)(B), by inserting “, except when a parent is a party to a child welfare court proceeding, and the order is issued in the context of that proceeding, additional notice to the parent by the educational agency or institution… | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (K), the following: | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2)(B), by inserting “, except when a parent is a party to a court proceeding involving child abuse and neglect (as defined in section 3 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 note)) or dependency ma… | the bill names no machine-readable US Code section |
