@@ -1,7 +1,7 @@
 ---
 measure: S. 3687
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3687
