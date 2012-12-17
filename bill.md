@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1793
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,18 +11,22 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Investigative Assistance for Violent Crimes Act of 2011”.
+This Act may be cited as the “Investigative Assistance for Violent Crimes Act of 2012”.
 
-## § 2. Investigation of mass killing or attempted mass killing and other violent crimes
+## § 2. Investigation of certain violent acts, shootings, and mass killings
 
-Title 28, United States Code, is amended—
+- **(a)** *Attorney general* Title 28, United States Code, is amended—
+  - **(1)** in section 530C(b)(1)(L)(i), by striking “$2,000,000” and inserting “$3,000,000”; and
+  - **(2)** in section 530C(b)(1), by adding at the end the following—
+    > - **(M)**
+    >   - **(i)** At the request of an appropriate law enforcement official of a State or political subdivision, the Attorney General may assist in the investigation of violent acts and shootings occurring in a place of public use and in the investigation of mass killings and attempted mass killings. Any assistance provided under this subparagraph shall be presumed to be within the scope of Federal office or employment.
+    >   - **(ii)** For purposes of this subparagraph—
+    >     - **(I)** the term mass killings means 3 or more killings in a single incident; and
+    >     - **(II)** the term place of public use has the meaning given that term under section 2332f(e)(6) of title 18, United States Code.
 
-- **(1)** in section 530C(b)(1)(L)(i), by striking “2,000,000” and inserting “$3,000,000”;
-- **(2)** in section 530C(b)(4), by adding at the end the following: “The authority to conduct or assist in investigations includes the authority to deploy tactical response, command and control, and other crisis-management assets of the Bureau, as appropriate; and any such conduct or assistance shall be understood presumptively to be within the scope of Federal office or employment.”;
-- **(3)** in section 540A—
-  - **(A)** in the section heading, by striking “Investigation of violent crimes against travelers” and inserting “Investigation of certain violent crimes”;
-  - **(B)** in subsection (a), by inserting “, in the investigation of violent acts and shootings occurring in venues such as schools, colleges, universities, non-Federal office buildings, malls, and other public places, and in the investigation of mass killings and attempted mass killings” after “traveler”; and
-  - **(C)** in subsection (c), by adding the following new paragraph at the end:
-    > - **(4)** mass killings means 3 or more killings in a single incident.
-
-- **(4)** in the table of sections at the beginning of chapter 33, by striking the item relating to section 540A and inserting the following:
+- **(b)** *Secretary of Homeland Security* Section 875 of the Homeland Security Act of 2002 (6 U.S.C. 455) is amended by adding at the end the following:
+  > - **(d)** *Investigation of certain violent acts, shootings, and mass killings*
+  >   - **(1)** *In general* At the request of an appropriate law enforcement official of a State or political subdivision, the Secretary, through deployment of the Secret Service or United States Immigration and Customs Enforcement, may assist in the investigation of violent acts and shootings occurring in a place of public use, and in the investigation of mass killings and attempted mass killings. Any assistance provided by the Secretary under this subsection shall be presumed to be within the scope of Federal office or employment.
+  >   - **(2)** *Definitions* For purposes of this subsection—
+  >     - **(A)** the term mass killings means 3 or more killings in a single incident; and
+  >     - **(B)** the term place of public use has the meaning given that term under section 2332f(e)(6) of title 18, United States Code.
