@@ -1,7 +1,7 @@
 ---
 measure: S. 3313
 congress: 112
-version: Reported to Senate
+version: Referred in House
 ---
 
 # S. 3313
@@ -23,9 +23,10 @@ Women Veterans and Other Health Care Improvements Act of 2012
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,5 @@ Women Veterans and Other Health Care Improvements Act of 2012
 - 2012-12-13 — Senate amendment proposed (on the floor): Amendment SA 3336 proposed by Senator Murray.(consideration: CR S8017; text: CR S8017)
 - 2012-12-13 — Senate amendment submitted
 - 2012-12-13 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S8017)
+- 2012-12-17 — Received in the House.
+- 2012-12-17 — Referred to the House Committee on Veterans' Affairs.
