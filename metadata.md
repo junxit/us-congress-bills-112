@@ -1,7 +1,7 @@
 ---
 measure: S. 675
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 675
@@ -31,3 +31,8 @@ Native Hawaiian Government Reorganization Act of 2011
 - 2011-03-30 — Introduced in Senate
 - 2011-03-30 — Read twice and referred to the Committee on Indian Affairs. (text of measure as introduced: CR S1979-1984)
 - 2011-03-30 — Sponsor introductory remarks on measure. (CR S1978-1979)
+- 2011-04-07 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2012-09-13 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2012-12-17 — Committee on Indian Affairs. Reported by Senator Akaka with an amendment in the nature of a substitute. With written report No. 112-251. Additional views filed.
+- 2012-12-17 — Committee on Indian Affairs. Reported by Senator Akaka with an amendment in the nature of a substitute. With written report No. 112-251. Additional views filed.
+- 2012-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 568.
