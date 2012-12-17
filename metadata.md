@@ -1,7 +1,7 @@
 ---
 measure: S. 1792
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1792
@@ -37,3 +37,5 @@ Strengthening Investigations of Sex Offenders and Missing Children Act of 2011
 - 2011-12-01 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2011-12-01 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2011-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 246.
+- 2012-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8086-8087; text as passed: CR S8087)
+- 2012-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8086-8087; text as passed: CR S8087)
