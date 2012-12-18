@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6621
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6621
@@ -20,8 +20,20 @@ To correct and improve certain provisions of the Leahy-Smith America Invents Act
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2012-12-18 — [House 112-2-631](votes/house-112-2-0631.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (308–89)
+
 ## Actions
 
 - 2012-11-30 — Introduced in House
 - 2012-11-30 — Introduced in House
 - 2012-11-30 — Referred to the House Committee on the Judiciary.
+- 2012-12-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-12-18 — Considered as unfinished business. (consideration: CR H6854)
+- 2012-12-18 — Considered under suspension of the rules. (consideration: CR H6842-6844)
+- 2012-12-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6621.
+- 2012-12-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-18 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
+- 2012-12-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 308 - 89 (Roll no. 631). (text: CR H6842-6843)
+- 2012-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 308 - 89 (Roll no. 631).(text: CR H6842-6843)

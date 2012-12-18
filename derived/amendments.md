@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6621
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subsection (a)(1)(C)((i), by striking “of such title” the second place it appears; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d)(2), by striking “subsection” and inserting “section”. | the bill names no machine-readable US Code section |
 | — | replace | Section 299(a) of title 35, United States Code, is amended in the matter preceding paragraph (1) by striking “or counterclaim defendants only if” and inserting “only if”. | the bill names no machine-readable US Code section |
-| — | repeal | Section 325(f) of title 35, United States Code, as added by section 6 of the Leahy-Smith America Invents Act, is repealed. | the bill names no machine-readable US Code section |
+| — | strike | Section 311(c)(1) of title 35, United States Code, is amended by striking “or issuance of a reissue of a patent”. | the bill names no machine-readable US Code section |
 | — | replace | Section 135(e) of title 35, United States Code, as amended by section 3(i) of the Leahy-Smith America Invents Act, is amended by striking “correct inventors” and inserting “correct inventor”. | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (f) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (g)(1), by striking “who claims” and inserting “that claims”. | the bill names no machine-readable US Code section |
@@ -48,7 +48,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “a share of the administrative costs of the Office relating to patents” and inserting “a proportionate share of the administrative costs of the Office”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “a share of the administrative costs of the Office relating to trademarks” and inserting “a proportionate share of the administrative costs of the Office”. | the bill names no machine-readable US Code section |
 | — | amend | Section 135(a) of title 35, United States Code, as amended by section 3(i) of the Leahy-Smith America Invents Act, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “Members of” and all that follows through “such appointments.” and inserting the following: “In each year, 3 members shall be appointed to each Advisory Committee for 3-year terms that shall begin on May 1 o… | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “Members of” and all that follows through “such appointments.” and inserting the following: “In each year, 3 members shall be appointed to each Advisory Committee for 3-year terms that shall begin on Decembe… | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (3). | the bill names no machine-readable US Code section |
 | — | insert | Section 123(a) of title 35, United States Code, is amended in the matter preceding paragraph (1) by inserting “of this title” after “For purposes”. | the bill names no machine-readable US Code section |
