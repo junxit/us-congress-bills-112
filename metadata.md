@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6671
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6671
@@ -38,3 +38,9 @@ Video Privacy Protection Act Amendments Act of 2012
 - 2012-12-17 — Introduced in House
 - 2012-12-17 — Introduced in House
 - 2012-12-17 — Referred to the House Committee on the Judiciary.
+- 2012-12-18 — Considered under suspension of the rules. (consideration: CR H6849-6851)
+- 2012-12-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6671.
+- 2012-12-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-18 — Mr. Goodlatte moved to suspend the rules and pass the bill.
+- 2012-12-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6849-6850)
+- 2012-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6849-6850)
