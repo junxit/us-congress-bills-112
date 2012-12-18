@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4606
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4606
@@ -47,3 +47,12 @@ To authorize the issuance of right-of-way permits for natural gas pipelines in G
 - 2012-12-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 286 - 10 (Roll no. 627). (text: CR H6811)
 - 2012-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 286 - 10 (Roll no. 627).(text: CR H6811)
 - 2012-12-18 — Received in the Senate, read twice.
+- 2013-01-02 — Message on Senate action sent to the House.
+- 2013-01-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8666)
+- 2013-01-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8666)
+- 2013-01-03 — Presented to President.
+- 2013-01-03 — Presented to President.
+- 2013-01-14 — Became Public Law No: 112-268.
+- 2013-01-14 — Became Public Law No: 112-268.
+- 2013-01-14 — Signed by President.
+- 2013-01-14 — Signed by President.
