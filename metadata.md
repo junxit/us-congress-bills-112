@@ -1,7 +1,7 @@
 ---
 measure: S. 1792
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1792
@@ -25,9 +25,10 @@ Strengthening Investigations of Sex Offenders and Missing Children Act of 2011
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ Strengthening Investigations of Sex Offenders and Missing Children Act of 2011
 - 2011-12-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 246.
 - 2012-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8086-8087; text as passed: CR S8087)
 - 2012-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8086-8087; text as passed: CR S8087)
+- 2012-12-18 — Message on Senate action sent to the House.
+- 2012-12-18 — Received in the House.
+- 2012-12-18 — Referred to the House Committee on the Judiciary.
