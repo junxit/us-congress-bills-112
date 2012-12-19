@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6621
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6621
@@ -37,3 +37,4 @@ To correct and improve certain provisions of the Leahy-Smith America Invents Act
 - 2012-12-18 — Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.
 - 2012-12-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 308 - 89 (Roll no. 631). (text: CR H6842-6843)
 - 2012-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 308 - 89 (Roll no. 631).(text: CR H6842-6843)
+- 2012-12-19 — Received in the Senate, read twice.
