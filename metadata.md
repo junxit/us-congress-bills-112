@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4057
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4057
@@ -70,3 +70,13 @@ Improving Transparency of Education Opportunities for Veterans Act of 2012
 - 2012-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5817-5818)
 - 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5817-5818)
 - 2012-09-12 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2012-12-19 — Amendment SA 3405 agreed to in Senate by Unanimous Consent.
+- 2012-12-19 — Amendment SA 3405 proposed by Senator Merkley for Senator Murray. (consideration: CR S8229) In the nature of a substitute.
+- 2012-12-19 — Measure laid before Senate by unanimous consent. (consideration: CR S8229)
+- 2012-12-19 — Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2012-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2012-12-19 — Senate amendment agreed to: Amendment SA 3405 agreed to in Senate by Unanimous Consent.
+- 2012-12-19 — Senate amendment proposed (on the floor): Amendment SA 3405 proposed by Senator Merkley for Senator Murray.(consideration: CR S8229)
+- 2012-12-19 — Senate amendment submitted
