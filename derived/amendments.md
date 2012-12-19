@@ -1,7 +1,7 @@
 ---
 measure: S. 3698
 congress: 112
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -34,4 +34,4 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subparagraph (A), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | amend | in clause (viii), by adding “or” at the end; and | the bill names no machine-readable US Code section |
 | — | strike | by striking clause (x); and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
