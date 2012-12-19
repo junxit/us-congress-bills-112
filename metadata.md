@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6504
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6504
@@ -47,3 +47,4 @@ Small Business Investment Company Modernization Act of 2012
 - 2012-12-18 — Mr. Chabot moved to suspend the rules and pass the bill.
 - 2012-12-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 359 - 36, 1 Present (Roll no. 629). (text: CR H6838)
 - 2012-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 359 - 36, 1 Present (Roll no. 629).(text: CR H6838)
+- 2012-12-19 — Received in the Senate.
