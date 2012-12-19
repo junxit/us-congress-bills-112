@@ -1,7 +1,7 @@
 ---
 measure: S. 3630
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3630
@@ -28,3 +28,8 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2012-11-14 — Introduced in Senate
 - 2012-11-14 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2012-12-06 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2012-12-19 — Passed Senate without amendment by Unanimous Consent. (text: CR S8230)
+- 2012-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S8230)
+- 2012-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S8230)
+- 2012-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S8230)
