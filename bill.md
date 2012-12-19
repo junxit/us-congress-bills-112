@@ -2,12 +2,14 @@
 legis-num: H.R. 6029
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 6029
 
-> To amend title 18, United States Code, to provide for increased penalties for foreign and economic espionage, and for other purposes.
+That the bill from the House of Representatives (H.R. 6029) entitled “An Act to amend title 18, United States Code, to provide for increased penalties for foreign and economic espionage, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
@@ -15,9 +17,7 @@ This Act may be cited as the “Foreign and Economic Espionage Penalty Enhanceme
 
 ## § 2. Protecting U.S. businesses from foreign espionage
 
-- **(a)** *For offenses committed by individuals* Section 1831(a) of title 18, United States Code, is amended, in the matter after paragraph (5)—
-  - **(1)** by striking “15 years” and inserting “20 years”; and
-  - **(2)** by striking “not more than $500,000” and inserting “not more than $5,000,000”.
+- **(a)** *For offenses committed by individuals* Section 1831(a) of title 18, United States Code, is amended, in the matter after paragraph (5), by striking “not more than $500,000” and inserting “not more than $5,000,000”.
 - **(b)** *For offenses committed by organizations* Section 1831(b) of such title is amended by striking “not more than $10,000,000” and inserting “not more than the greater of $10,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided”.
 
 ## § 3. Review by the United States Sentencing Commission

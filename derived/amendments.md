@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6029
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 3 executed, 0 stated and not applied.
+2 amendatory instructions. 2 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,16 +26,7 @@ to guess them.
 
 ### 18 U.S.C. § 1831
 
-> by striking “15 years” and inserting “20 years”; and
-
-| | |
-|---|---|
-| Removed | `15 years` |
-| Inserted | `20 years` |
-
-### 18 U.S.C. § 1831
-
-> by striking “not more than $500,000” and inserting “not more than $5,000,000”.
+> Section 1831(a) of title 18, United States Code, is amended, in the matter after paragraph (5), by striking “not more than $500,000” and inserting “not more than $5,000,000”.
 
 | | |
 |---|---|

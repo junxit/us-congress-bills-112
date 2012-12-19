@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6029
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6029
@@ -16,7 +16,7 @@ Foreign and Economic Espionage Penalty Enhancement Act of 2012
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
@@ -29,6 +29,7 @@ Foreign and Economic Espionage Penalty Enhancement Act of 2012
 - Rep. Deutch, Theodore E. [D-FL-19] (D000610)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Chabot, Steve [R-OH-1] (C000266)
+- Sen. Lee, Mike [R-UT] (L000577)
 
 ## Committees (1)
 
@@ -53,3 +54,11 @@ Foreign and Economic Espionage Penalty Enhancement Act of 2012
 - 2012-08-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/31/2012 H5506)
 - 2012-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/31/2012 H5506)
 - 2012-08-02 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 493.
+- 2012-12-19 — Amendment SA 3406 agreed to in Senate by Unanimous Consent.
+- 2012-12-19 — Amendment SA 3406 proposed by Senator Merkley for Senator Kohl. (consideration: CR S8229-8230; text: CR S8229-8230) In the nature of a substitute.
+- 2012-12-19 — Measure laid before Senate by unanimous consent. (consideration: CR S8229-8230)
+- 2012-12-19 — Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-19 — Senate amendment agreed to: Amendment SA 3406 agreed to in Senate by Unanimous Consent.
+- 2012-12-19 — Senate amendment proposed (on the floor): Amendment SA 3406 proposed by Senator Merkley for Senator Kohl.(consideration: CR S8229-8230; text: CR S8229-8230)
+- 2012-12-19 — Senate amendment submitted
