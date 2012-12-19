@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4057
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4057
@@ -49,6 +49,10 @@ Improving Transparency of Education Opportunities for Veterans Act of 2012
 - House — Veterans' Affairs Committee
 - Senate — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2012-12-30 — [House 112-2-650](votes/house-112-2-0650.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (392–3)
+
 ## Actions
 
 - 2012-02-16 — Introduced in House
@@ -80,3 +84,17 @@ Improving Transparency of Education Opportunities for Veterans Act of 2012
 - 2012-12-19 — Senate amendment agreed to: Amendment SA 3405 agreed to in Senate by Unanimous Consent.
 - 2012-12-19 — Senate amendment proposed (on the floor): Amendment SA 3405 proposed by Senator Merkley for Senator Murray.(consideration: CR S8229)
 - 2012-12-19 — Senate amendment submitted
+- 2012-12-20 — Message on Senate action sent to the House.
+- 2012-12-30 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Michaud objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2012-12-30 — Considered as unfinished business. (consideration: CR H7465-7466)
+- 2012-12-30 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 4057.
+- 2012-12-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-30 — Mr. Miller (FL) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H7439-7442)
+- 2012-12-30 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 392 - 3 (Roll no. 650). (text as House agreed to Senate amendment: CR H7439-7440)
+- 2012-12-30 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 392 - 3 (Roll no. 650).(text as House agreed to Senate amendment: CR H7439-7440)
+- 2013-01-01 — Presented to President.
+- 2013-01-01 — Presented to President.
+- 2013-01-10 — Became Public Law No: 112-249.
+- 2013-01-10 — Became Public Law No: 112-249.
+- 2013-01-10 — Signed by President.
+- 2013-01-10 — Signed by President.

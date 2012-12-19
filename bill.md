@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 4057
-congress: 112th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4057
 
-That the bill from the House of Representatives (H.R. 4057) entitled “An Act to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to develop a comprehensive policy to improve outreach and transparency to veterans and members of the Armed Forces through the provision of information on institutions of higher learning, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to develop a comprehensive policy to improve outreach and transparency to veterans and members of the Armed Forces through the provision of information on institutions of higher learning, and for other purposes.
 
 ## § 1. Comprehensive policy on providing education information to veterans
 

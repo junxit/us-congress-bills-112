@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4057
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
