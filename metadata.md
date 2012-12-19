@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6016
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6016
@@ -36,6 +36,10 @@ Government Employee Accountability Act
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2012-12-19 — [House 112-2-638](votes/house-112-2-0638.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (402–2)
+
 ## Actions
 
 - 2012-06-21 — Introduced in House
@@ -46,3 +50,12 @@ Government Employee Accountability Act
 - 2012-09-21 — Placed on the Union Calendar, Calendar No. 497.
 - 2012-09-21 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-686.
 - 2012-09-21 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 112-686.
+- 2012-12-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2012-12-19 — Considered as unfinished business. (consideration: CR H7329)
+- 2012-12-19 — Considered under suspension of the rules. (consideration: CR H7324-7326)
+- 2012-12-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6016.
+- 2012-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-19 — Mr. Farenthold moved to suspend the rules and pass the bill, as amended.
+- 2012-12-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 2 (Roll no. 638). (text: CR H7324-7325)
+- 2012-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 2 (Roll no. 638).(text: CR H7324-7325)
+- 2012-12-19 — The title of the measure was amended. Agreed to without objection.
