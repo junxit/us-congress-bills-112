@@ -66,3 +66,7 @@ Section 36(e)(1) of the State Department Basic Authorities Act of 1956 (22 U.S.C
 ## § 5. Rule of construction
 
 Nothing in this Act or the amendments made by this Act shall be construed as authorizing the use of activity precluded under the American Servicemembers’ Protection Act of 2002 (title II of Public Law 107–206; 22 U.S.C. 7421 et seq.).
+
+## § 6. Funding
+
+The Secretary of State shall use amounts appropriated or otherwise made available to the Emergencies in the Diplomatic and Consular Services account of the Department of State to pay rewards authorized pursuant to this Act and to carry out other activities related to such rewards authorized under section 36 of the State Department Basic Authorities Act (22 U.S.C. 2708).

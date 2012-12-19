@@ -1,7 +1,7 @@
 ---
 measure: S. 2318
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2318
@@ -16,7 +16,7 @@ Department of State Rewards Program Update and Technical Corrections Act of 2012
 
 - Sen. Kerry, John F. [D-MA] (K000148)
 
-## Cosponsors (6)
+## Cosponsors (8)
 
 - Sen. Boozman, John [R-AR] (B001236)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
@@ -24,6 +24,8 @@ Department of State Rewards Program Update and Technical Corrections Act of 2012
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Franken, Al [D-MN] (F000457)
 
 ## Committees (1)
 
@@ -39,3 +41,5 @@ Department of State Rewards Program Update and Technical Corrections Act of 2012
 - 2012-11-13 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 112-232.
 - 2012-11-13 — Committee on Foreign Relations. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 112-232.
 - 2012-11-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 537.
+- 2012-12-19 — Passed Senate with an amendment by Voice Vote. (consideration: CR S8230-8231; text as passed: CR S8230-8231)
+- 2012-12-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S8230-8231; text as passed: CR S8230-8231)
