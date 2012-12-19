@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 122
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 122
@@ -26,3 +26,12 @@ Establishing the date for the counting of the electoral votes for President and 
 - 2012-12-18 — On passage Passed without objection. (text: CR H6856)
 - 2012-12-18 — Passed/agreed to in House: On passage Passed without objection.(text: CR H6856)
 - 2012-12-19 — Received in the Senate, read twice.
+- 2012-12-20 — Message on Senate action sent to the House.
+- 2012-12-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8251)
+- 2012-12-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8251)
+- 2012-12-21 — Presented to President.
+- 2012-12-21 — Presented to President.
+- 2012-12-28 — Became Public Law No: 112-228.
+- 2012-12-28 — Became Public Law No: 112-228.
+- 2012-12-28 — Signed by President.
+- 2012-12-28 — Signed by President.
