@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6166
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6166
@@ -16,7 +16,7 @@ To designate the United States courthouse located at 333 West Broadway Street in
 
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Cosponsors (31)
+## Cosponsors (32)
 
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 - Rep. Thompson, Mike [D-CA-1] (T000460)
@@ -49,6 +49,7 @@ To designate the United States courthouse located at 333 West Broadway Street in
 - Rep. Becerra, Xavier [D-CA-31] (B000287)
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Waters, Maxine [D-CA-35] (W000187)
 
 ## Committees (1)
 
@@ -59,3 +60,11 @@ To designate the United States courthouse located at 333 West Broadway Street in
 - 2012-07-23 — Introduced in House
 - 2012-07-23 — Introduced in House
 - 2012-07-23 — Referred to the House Committee on Transportation and Infrastructure.
+- 2012-07-24 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2012-12-19 — Committee on Transportation discharged.
+- 2012-12-19 — Committee on Transportation discharged.
+- 2012-12-19 — Considered by unanimous consent. (consideration: CR H7317-7318)
+- 2012-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-19 — Mr. Denham asked unanimous consent to discharge from committee and consider. (consideration: CR H7317)
+- 2012-12-19 — On passage Passed without objection. (text: CR H7317)
+- 2012-12-19 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7317)
