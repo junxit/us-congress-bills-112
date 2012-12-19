@@ -2,11 +2,22 @@
 legis-num: H. RES. 668
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 668
 
 > To refer H.R. 5862, a bill making congressional reference to the United States Court of Federal Claims pursuant to sections 1492 and 2509 of title 28, United States Code, the Indian trust-related claims of the Quapaw Tribe of Oklahoma (O-Gah-Pah) as well as its individual members.
 
-That notwithstanding any other provision of law, the Quapaw Tribe of Oklahoma (O-Gah-Pah) and its tribal members may pursue their Indian trust-related claims in the U.S. Court of Federal Claims pursuant to sections 1492 and 2509 of title 28, United States Code.
+## § 1. Referral
+
+Pursuant to section 1492 of title 28, United States Code, the bill (H.R. 5862), entitled “A Bill relating to members of the Quapaw Tribe of Oklahoma (O-Gah-Pah),” now pending in the House of Representatives, is referred to the chief judge of the United States Court of Federal Claims for a determination as to whether the Tribe and its members have Indian trust-related legal or equitable claims against the United States other than the legal claims that are pending in the Court of Federal Claims on the date of enactment of this resolution.
+
+## § 2. Proceeding and report
+
+Upon receipt of the bill, the chief judge shall—
+
+- **(1)** proceed according to the provisions of sections 1492 and 2509 of title 28, United States Code, notwithstanding the bar of any statute of limitations; and
+- **(2)** report back to the House of Representatives, at the earliest practicable date, providing—
+  - **(A)** findings of fact and conclusions of law that are sufficient to inform the Congress of the nature, extent, and character of the Indian-trust related claims of the Quapaw Tribe of Oklahoma and its tribal members for compensation as legal or equitable claims against the United States other than the legal claims that are pending in the Court of Federal Claims on the date of enactment of this resolution; and
+  - **(B)** the amount, if any, legally or equitably due from the United States to the claimants.
