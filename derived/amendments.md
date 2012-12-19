@@ -1,7 +1,7 @@
 ---
 measure: S. 241
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | insert | Chapter 47 of division C of title 41, United States Code, is amended by inserting after section 4704 the following new section: | the bill names no machine-readable US Code section |
+| — | repeal | Section 4705 is repealed. | the bill names no machine-readable US Code section |
+| — | strike | The table of sections at the beginning of chapter 47 is amended by striking the item relating to section 4705. | the bill names no machine-readable US Code section |
+| — | repeal | Section 2409 is repealed. | the bill names no machine-readable US Code section |
+| — | strike | The table of sections at the beginning of chapter 141 is amended by striking the item relating to section 2409. | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 23 of division B of title 41, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of chapter 23 of title 41, United States Code, is amended by inserting after the item relating to section 2313 the following new item: | the bill names no machine-readable US Code section |
