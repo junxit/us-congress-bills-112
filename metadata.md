@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4062
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4062
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 1444 Ma
 
 - Rep. Hunter, Duncan D. [R-CA-52] (H001048)
 
-## Cosponsors (42)
+## Cosponsors (48)
 
 - Rep. McClintock, Tom [R-CA-4] (M001177)
 - Rep. Costa, Jim [D-CA-20] (C001059)
@@ -60,6 +60,12 @@ To designate the facility of the United States Postal Service located at 1444 Ma
 - Rep. Chu, Judy [D-CA-32] (C001080)
 - Rep. Matsui, Doris O. [D-CA-5] (M001163)
 - Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Dreier, David [R-CA-26] (D000492)
+- Rep. McCarthy, Kevin [R-CA-22] (M001165)
+- Rep. Lewis, Jerry [R-CA-41] (L000274)
+- Rep. Farr, Sam [D-CA-17] (F000030)
 
 ## Committees (1)
 
@@ -70,3 +76,9 @@ To designate the facility of the United States Postal Service located at 1444 Ma
 - 2012-02-16 — Introduced in House
 - 2012-02-16 — Introduced in House
 - 2012-02-16 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-12-19 — Considered under suspension of the rules. (consideration: CR H7326-7327)
+- 2012-12-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4062.
+- 2012-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-19 — Mr. Farenthold moved to suspend the rules and pass the bill.
+- 2012-12-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7326)
+- 2012-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7326)
