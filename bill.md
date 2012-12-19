@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1100
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -29,7 +29,9 @@ This Act may be cited as the “Keeping Politics Out of Federal Contracting Act 
   >     - **(A)** *Exception* Data required as of the date of the enactment of the Keeping Politics Out of Federal Contracting Act of 2011 to be included in the database maintained under section 2313 of this title are not subject to the prohibition under paragraph (1).
   >     - **(B)** *Rule of construction* Notwithstanding subparagraph (A), this paragraph shall not be construed as authorizing the inclusion of political information pursuant to subsection (c)(6) of such section.
   > - **(d)** *Applicability* The prohibitions under this section apply to the procurement of commercial items, the procurement of commercial-off-the-shelf-items, and the non-commercial procurement of supplies, property, services, and manufactured items, irrespective of contract vehicle, including contracts, purchase orders, task or deliver orders under indefinite delivery/indefinite quantity contracts, blanket purchase agreements, and basic ordering agreements.
-  > - **(e)** *Rule of construction* Nothing in this section shall be construed as waiving, superseding, restricting, or limiting the application of the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et seq.) or preventing Federal regulatory or law enforcement agencies from collecting or receiving information authorized by law.
+  > - **(e)** *Rule of construction* Nothing in this section shall be construed as waiving, superseding, restricting, or limiting the application of the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et seq.) or preventing Federal regulatory or law enforcement agencies from collecting or receiving information authorized by law.construed as—
+  >   - **(1)** waiving, superseding, restricting, or limiting the application of the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et seq.) or preventing Federal regulatory or law enforcement agencies from collecting or receiving information authorized by law; or
+  >   - **(2)** precluding the Defense Contract Audit Agency or other auditor from accessing and reviewing certain information, including political information, for the purpose of identifying unallowable costs and administering cost principles established pursuant to chapter 43 of this title.
   > - **(f)** *Definitions* In this section:
   >   - **(1)** *Acquisition* The term acquisition has the meaning given the term in section 131 of this title.
   >   - **(2)** *Contractor* The term contractor includes contractors, bidders, and offerors, and individuals and legal entities who would reasonably be expected to submit offers or bids for Federal Government contracts.

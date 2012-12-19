@@ -1,7 +1,7 @@
 ---
 measure: S. 1100
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1100
@@ -16,7 +16,7 @@ Keeping Politics Out of Federal Contracting Act of 2011
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (21)
+## Cosponsors (22)
 
 - Sen. McConnell, Mitch [R-KY] (M000355)
 - Sen. Kyl, Jon [R-AZ] (K000352)
@@ -39,6 +39,7 @@ Keeping Politics Out of Federal Contracting Act of 2011
 - Sen. Coats, Daniel [R-IN] (C000542)
 - Sen. Ayotte, Kelly [R-NH] (A000368)
 - Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Roberts, Pat [R-KS] (R000307)
 
 ## Committees (1)
 
@@ -49,3 +50,7 @@ Keeping Politics Out of Federal Contracting Act of 2011
 - 2011-05-26 — Introduced in Senate
 - 2011-05-26 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2011-05-26 — Sponsor introductory remarks on measure. (CR S3435-3436)
+- 2012-05-16 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2012-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. Without written report.
+- 2012-12-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. Without written report.
+- 2012-12-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 570.
