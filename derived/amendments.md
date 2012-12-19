@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6671
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
