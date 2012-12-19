@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 122
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 122
@@ -25,3 +25,4 @@ Establishing the date for the counting of the electoral votes for President and 
 - 2012-12-18 — Mr. Denham asked unanimous consent to consider as introduced.
 - 2012-12-18 — On passage Passed without objection. (text: CR H6856)
 - 2012-12-18 — Passed/agreed to in House: On passage Passed without objection.(text: CR H6856)
+- 2012-12-19 — Received in the Senate, read twice.
