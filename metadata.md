@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6014
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6014
@@ -40,3 +40,4 @@ Katie Sepich Enhanced DNA Collection Act of 2012
 - 2012-12-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6844-6845)
 - 2012-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6844-6845)
 - 2012-12-18 — The title of the measure was amended. Agreed to without objection.
+- 2012-12-19 — Received in the Senate, read twice.
