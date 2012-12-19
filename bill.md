@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 6029
-congress: 112th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 6029
 
-That the bill from the House of Representatives (H.R. 6029) entitled “An Act to amend title 18, United States Code, to provide for increased penalties for foreign and economic espionage, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend title 18, United States Code, to provide for increased penalties for foreign and economic espionage, and for other purposes.
 
 ## § 1. Short title
 

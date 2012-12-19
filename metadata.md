@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6029
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6029
@@ -62,3 +62,16 @@ Foreign and Economic Espionage Penalty Enhancement Act of 2012
 - 2012-12-19 — Senate amendment agreed to: Amendment SA 3406 agreed to in Senate by Unanimous Consent.
 - 2012-12-19 — Senate amendment proposed (on the floor): Amendment SA 3406 proposed by Senator Merkley for Senator Kohl.(consideration: CR S8229-8230; text: CR S8229-8230)
 - 2012-12-19 — Senate amendment submitted
+- 2012-12-20 — Message on Senate action sent to the House.
+- 2012-12-30 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Scott (VA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2012-12-30 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 6029.
+- 2012-12-30 — Mr. Smith (TX) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H7453-7455)
+- 2013-01-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-01-01 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (consideration: CR H7559; text as House agreed to Senate amendment: CR 12/30/2012 H7453-7454)
+- 2013-01-01 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(consideration: CR H7559; text as House agreed to Senate amendment: CR 12/30/2012 H7453-7454)
+- 2013-01-03 — Presented to President.
+- 2013-01-03 — Presented to President.
+- 2013-01-14 — Became Public Law No: 112-269.
+- 2013-01-14 — Became Public Law No: 112-269.
+- 2013-01-14 — Signed by President.
+- 2013-01-14 — Signed by President.
