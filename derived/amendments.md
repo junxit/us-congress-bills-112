@@ -1,7 +1,7 @@
 ---
 measure: S. 2234
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -39,3 +39,5 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after clause (ii) the following new clause: | the bill names no machine-readable US Code section |
 | — | redesignate | in clause (iv), as redesignated by paragraph (2), by inserting “and” at the end after the semicolon; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | insert | in clause (iii), by inserting “and” at the end after the semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |

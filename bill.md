@@ -35,18 +35,18 @@ Section 106(g) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7104
 >     - **(aa)** exempted from the duty to repatriate by the Federal department or agency providing or entering into the grant, contract, or cooperative agreement; or
 >     - **(bb)** the employee is a victim of human trafficking seeking victim services or legal redress in the country of employment or a witness in a human trafficking enforcement action.
 >   - **(III)** Soliciting a person for the purpose of employment, or offering employment, by means of materially false or fraudulent pretenses, representations, or promises regarding that employment.
->   - **(IV)** Charging recruited employees exorbitant placement fees, including fees equal to or greater than the employee’s monthly salary, or recruitment fees that violate the laws of the country from which an employee is recruited.
+>   - **(IV)** Charging recruited employees exorbitant placement fees, includingsuch as fees equal to or greater than the employee’s monthly salary, or recruitment fees that violate the laws of the country from which an employee is recruited.
 >   - **(V)** Providing inhumane living conditions.
 
 ## § 4. Compliance plan and certification requirement
 
-- **(a)** *Requirement* The head of an executive agency may not provide or enter into a grant, contract, or cooperative agreement valued at $1,000,000 or more if performance will predominantly be conducted overseas, unless a duly designated representative of the recipient of such grant, contract, or cooperative agreement certifies to the contracting or grant officer prior to receiving an award and on an annual basis thereafter, after having conducted due diligence, that—
+- **(a)** *Requirement* The head of an executive agency may not provide or enter into a grant, contract, or cooperative agreement valued at $1,000,000 or more if performance will predominantly be conducted overseassubstantially be conducted overseas, unless a duly designated representative of the recipient of such grant, contract, or cooperative agreement certifies to the contracting or grant officer prior to receiving an award and on an annual basis thereafter, after having conducted due diligence, that—
   - **(1)** the recipient has implemented a plan to prevent the activities described in section 106(g) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7104(g)), as amended by section 3, and is in compliance with that plan;
-  - **(2)** the recipient has implemented procedures to prevent any activities described in such section 106(g) and to monitor, detect, and terminate any subcontractor, subgrantee, or employee of the recipient found to be engaged in any activities described in such section; and
+  - **(2)** the recipient has implemented procedures to prevent any activities described in such section 106(g) and to monitor, detect, and terminate any subcontractor, subgrantee, or employee of the recipient found to be engagedengaging in any activities described in such section; and
   - **(3)** to the best of the representative’s knowledge, neither the recipient, nor any subcontractor or subgrantee of the recipient or any agent of the recipient or of such a subcontractor or subgrantee, is engaged in any of the activities described in such section.
 - **(b)** *Limitation* Any plan or procedures implemented pursuant to subsection (a) shall be appropriate to the size and complexity of the grant, contract, or cooperative agreement and to the nature and scope of its activities, including the number of non-United States citizens expected to be employed.
 - **(c)** *Disclosure* The recipient shall provide a copy of the plan to the contracting or grant officer upon request, and as appropriate, shall post the useful and relevant contents of the plan or related materials on its website and at the workplace.
-- **(d)** *Performance predominately overseas* For purposes of subsection (a), a grant, contract, or cooperative agreement shall be considered to be performed predominantly overseas if the estimated value of the services required to be performed under the grant, contract, or cooperative agreement outside the United States exceeds $500,000.
+- **(d)** *Performance predominately overseasPerformance substantially overseas* For purposes of subsection (a), a grant, contract, or cooperative agreement shall be considered to be performed predominantly overseasperformed substantially overseas if the estimated value of the services required to be performed under the grant, contract, or cooperative agreement outside the United States exceeds $500,000.
 
 ## § 5. Monitoring and investigation of trafficking in persons
 
@@ -92,7 +92,10 @@ Section 105(d)(7)(H) of the Trafficking Victims Protection Act of 2000 (22 U.S.C
 
 - **(4)** in clause (iv), as redesignated by paragraph (2), by inserting “and” at the end after the semicolon; and
 - **(5)** by adding at the end the following new clause:
-  > - **(v)** all trafficking in persons activities of contractors reported to the Under Secretary of Defense for Acquisition, Technology, and Logistics;
+  - **(“(v)** all trafficking
+- **(2)** in clause (iii), by inserting “and” at the end after the semicolon; and
+- **(3)** by adding at the end the following new clause:
+  > - **(iv)** all trafficking in persons activities of contractors reported to the Under Secretary of Defense for Acquisition, Technology, and Logistics;
 
 ## § 9. Rule of construction
 
