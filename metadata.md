@@ -1,7 +1,7 @@
 ---
 measure: S. 3662
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3662
@@ -29,3 +29,7 @@ Lieutenant Ryan Patrick Jones Post Office Designation Act
 
 - 2012-12-05 — Introduced in Senate
 - 2012-12-05 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2012-12-19 — Passed Senate without amendment by Unanimous Consent. (text: CR S8230)
+- 2012-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S8230)
+- 2012-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S8230)
+- 2012-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S8230)
