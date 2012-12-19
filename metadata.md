@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 618
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 618
@@ -16,7 +16,7 @@ A resolution observing the 100th birthday of civil rights icon Rosa Parks and co
 
 - Sen. Levin, Carl [D-MI] (L000261)
 
-## Cosponsors (52)
+## Cosponsors (56)
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Sessions, Jeff [R-AL] (S001141)
@@ -70,6 +70,10 @@ A resolution observing the 100th birthday of civil rights icon Rosa Parks and co
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (1)
 
@@ -79,3 +83,7 @@ A resolution observing the 100th birthday of civil rights icon Rosa Parks and co
 
 - 2012-12-13 — Introduced in Senate
 - 2012-12-13 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S8044)
+- 2012-12-19 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S8232-8233)
+- 2012-12-19 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S8232-8233)
+- 2012-12-19 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S8232-8233)
+- 2012-12-19 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S8232-8233)
