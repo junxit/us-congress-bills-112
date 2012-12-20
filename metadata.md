@@ -1,7 +1,7 @@
 ---
 measure: S. 3202
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3202
@@ -24,9 +24,12 @@ Dignified Burial and Other Veterans' Benefits Improvement Act of 2012
 - Sen. Heller, Dean [R-NV] (H001041)
 - Sen. Isakson, Johnny [R-GA] (I000055)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
+- House — Budget Committee
+- House — Armed Services Committee
 
 ## Actions
 
@@ -44,3 +47,8 @@ Dignified Burial and Other Veterans' Benefits Improvement Act of 2012
 - 2012-12-19 — Senate amendment agreed to: Amendment SA 3407 agreed to in Senate by Unanimous Consent.
 - 2012-12-19 — Senate amendment proposed (on the floor): Amendment SA 3407 proposed by Senator Merkley for Senator Murray.(consideration: CR S8231)
 - 2012-12-19 — Senate amendment submitted
+- 2012-12-20 — Message on Senate action sent to the House.
+- 2012-12-20 — Received in the House.
+- 2012-12-20 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-12-20 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-12-20 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
