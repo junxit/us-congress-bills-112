@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6166
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6166
@@ -68,3 +68,4 @@ To designate the United States courthouse located at 333 West Broadway Street in
 - 2012-12-19 — Mr. Denham asked unanimous consent to discharge from committee and consider. (consideration: CR H7317)
 - 2012-12-19 — On passage Passed without objection. (text: CR H7317)
 - 2012-12-19 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7317)
+- 2012-12-20 — Received in the Senate.

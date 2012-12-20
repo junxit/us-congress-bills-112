@@ -2,17 +2,17 @@
 legis-num: H.R. 6166
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 6166
 
-> To designate the United States courthouse located at 333 West Broadway Street in San Diego, California, as the “James M. Carter and Judith N. Keep United States Courthouse”.
+> To designate the United States courthouse located at 333 West Broadway Street in San Diego, California, as the James M. Carter and Judith N. Keep United States Courthouse.
 
 ## § 1. Designation
 
-The United States courthouse located at 333 West Broadway Street in San Diego, California, shall be known and designated as the “James M. Carter and Judith N. Keep United States Courthouse”.
+The United States courthouse located at 333 West Broadway Street in San Diego, California, shall be known and designated as the James M. Carter and Judith N. Keep United States Courthouse.
 
 ## § 2. References
 
-Any reference in a law, map, regulation, document, paper, or other record of the United States to the United States courthouse referred to in section 1 shall be deemed to be a reference to the “James M. Carter and Judith N. Keep United States Courthouse”.
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the United States courthouse referred to in section 1 shall be deemed to be a reference to the James M. Carter and Judith N. Keep United States Courthouse.
