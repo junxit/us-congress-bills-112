@@ -1,7 +1,7 @@
 ---
 measure: S. 3662
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3662
@@ -21,9 +21,10 @@ Lieutenant Ryan Patrick Jones Post Office Designation Act
 - Sen. Kerry, John F. [D-MA] (K000148)
 - Sen. Moran, Jerry [R-KS] (M000934)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -33,3 +34,6 @@ Lieutenant Ryan Patrick Jones Post Office Designation Act
 - 2012-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S8230)
 - 2012-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S8230)
 - 2012-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S8230)
+- 2012-12-20 — Message on Senate action sent to the House.
+- 2012-12-20 — Received in the House.
+- 2012-12-20 — Referred to the House Committee on Oversight and Government Reform.
