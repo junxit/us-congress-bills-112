@@ -1,7 +1,7 @@
 ---
 measure: S. 3630
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3630
@@ -20,9 +20,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Kohl, Herb [D-WI] (K000305)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -33,3 +34,6 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2012-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S8230)
 - 2012-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S8230)
 - 2012-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S8230)
+- 2012-12-20 — Message on Senate action sent to the House.
+- 2012-12-20 — Received in the House.
+- 2012-12-20 — Referred to the House Committee on Oversight and Government Reform.
