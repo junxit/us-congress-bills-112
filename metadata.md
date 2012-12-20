@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4389
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4389
@@ -80,3 +80,12 @@ To designate the facility of the United States Postal Service located at 19 East
 - 2012-04-18 — Introduced in House
 - 2012-04-18 — Introduced in House
 - 2012-04-18 — Referred to the House Committee on Oversight and Government Reform.
+- 2012-06-27 — Ordered to be Reported by Unanimous Consent.
+- 2012-12-19 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mrs. Maloney objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2012-12-19 — Considered under suspension of the rules. (consideration: CR H7335-7336)
+- 2012-12-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4389.
+- 2012-12-19 — Mr. Farenthold moved to suspend the rules and pass the bill.
+- 2012-12-20 — Considered as unfinished business. (consideration: CR H7416)
+- 2012-12-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 12/19/2012 H7335)
+- 2012-12-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 12/19/2012 H7335)
