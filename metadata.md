@@ -1,7 +1,7 @@
 ---
 measure: S. 2318
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2318
@@ -27,9 +27,10 @@ Department of State Rewards Program Update and Technical Corrections Act of 2012
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Franken, Al [D-MN] (F000457)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,6 @@ Department of State Rewards Program Update and Technical Corrections Act of 2012
 - 2012-11-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 537.
 - 2012-12-19 — Passed Senate with an amendment by Voice Vote. (consideration: CR S8230-8231; text as passed: CR S8230-8231)
 - 2012-12-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(consideration: CR S8230-8231; text as passed: CR S8230-8231)
+- 2012-12-20 — Message on Senate action sent to the House.
+- 2012-12-20 — Received in the House.
+- 2012-12-20 — Referred to the House Committee on Foreign Affairs.
