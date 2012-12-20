@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1509
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 205(c)(2)(C) of the Social Security Act (42 U.S.C. 405(c)(2)(C)) is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clause (x), as added by section 2(a)(1) of the Social Security Number Protection Act of 2010, and clause (xi) as clauses (xi) and (xii), respectively; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
