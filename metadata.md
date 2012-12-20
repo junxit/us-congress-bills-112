@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 617
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 617
@@ -28,3 +28,7 @@ A resolution congratulating the recipient of the 2012 Heisman Memorial Trophy.
 
 - 2012-12-13 — Introduced in Senate
 - 2012-12-13 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S8043-8044)
+- 2012-12-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S8320)
+- 2012-12-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S8320)
+- 2012-12-20 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S8320)
+- 2012-12-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S8320)
