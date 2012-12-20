@@ -58,7 +58,7 @@ Section 215 of the National Oceanic and Atmospheric Administration Commissioned 
 
 ## § 4. Obligated service requirement
 
-- **(a)** *In general* Subtitle A of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (33 U.S.C. 3001 et seq.) is amended by adding at the end the following:
+- **(a)** *In general* Subtitle A of title II of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (33 U.S.C. 3001 et seq.) is amended by adding at the end the following:
   > ## § 216. Obligated service requirement
   >
   > - **(a)** *In general*
@@ -78,7 +78,7 @@ Section 215 of the National Oceanic and Atmospheric Administration Commissioned 
 
 ## § 5. Training and physical fitness
 
-- **(a)** *In general* Subtitle A of title II of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (33 U.S.C. 3001 et seq.), as amended by section 5, is further amended by adding at the end the following:
+- **(a)** *In general* Subtitle A of title II of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (33 U.S.C. 3001 et seq.), as amended by section 4(a), is further amended by adding at the end the following:
   > ## § 217. Training and physical fitness
   >
   > - **(a)** *Training* The Secretary may take such measures as may be necessary to ensure that officers are prepared to carry out their duties in the commissioned officer corps of the Administration and proficient in the skills necessary to carry out such duties. Such measures may include the following:
@@ -87,7 +87,7 @@ Section 215 of the National Oceanic and Atmospheric Administration Commissioned 
   >   - **(3)** Acquiring such equipment as may be necessary for training and instructional purposes.
   > - **(b)** *Physical fitness* The Secretary shall ensure that officers maintain a high physical state of readiness in preparation for functioning as a service in the Navy during times of war, including by establishing standards of physical fitness for officers that are substantially equivalent to those prescribed for officers in the Navy.
 
-- **(b)** *Clerical amendment* The table of sections in section 1 of the Act entitled “An Act to authorize the Hydrographic Service Improvement Act of 1998, and for other purposes” (Public Law 107–372), as amended by section 5(b), is further amended by inserting after the item relating to section 216, as added by such section 5(b), the following:
+- **(b)** *Clerical amendment* The table of sections in section 1 of the Act entitled “An Act to authorize the Hydrographic Service Improvement Act of 1998, and for other purposes” (Public Law 107–372), as amended by section 4(b), is further amended by inserting after the item relating to section 216, as added by such section 4(b), the following:
 
 ## § 6. Appointments
 
@@ -115,14 +115,15 @@ Section 215 of the National Oceanic and Atmospheric Administration Commissioned 
     >     - **(E)** The United States Merchant Marine Academy, Kings Point, New York.
     > - **(b)** *Reappointment*
     >   - **(1)** *In general* Except as provided in paragraph (2), an individual who previously served in the commissioned officer corps of the Administration may be appointed by the Secretary to the grade the individual held prior to separation.
-    >   - **(2)** *Reappointments to higher grades* An appointment under paragraph (1) to a position of importance and responsibility designated under section 228 may only be made by the President, by and with the advice and consent of the Senate.
+    >   - **(2)** *Reappointments to higher grades* An appointment under paragraph (1) to a position of importance and responsibility designated under section 228 may only be made by the President.
     > - **(c)** *Qualifications* An appointment under subsection (a) or (b) may not be given to an individual until the individual's mental, moral, physical, and professional fitness to perform the duties of an officer has been established under such regulations as the Secretary shall prescribe.
     > - **(d)** *Precedence of appointees* Appointees under this section shall take precedence in the grade to which appointed in accordance with the dates of their commissions as commissioned officers in such grade. Appointees whose dates of commission are the same shall take precedence with each other as the Secretary shall determine.
+    > - **(e)** *Inter-service transfers* For inter-service transfers (as described in the Department of Defense Directive 1300.4 (dated December 27, 2006)) the Secretary shall—
+    >   - **(1)** coordinate with the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating to promote and streamline inter-service transfers;
+    >   - **(2)** give preference to such inter-service transfers for recruitment purposes as determined appropriate by the Secretary; and
+    >   - **(3)** reappoint such inter-service transfers to the equivalent grade in the commissioned officer corps.
 
   - **(2)** *Clerical amendment* The table of sections in section 1 of the Act entitled “An Act to authorize the Hydrographic Service Improvement Act of 1998, and for other purposes” (Public Law 107–372) is amended by striking the item relating to section 221 and inserting the following:
-- **(b)** *Appointments to permanent grades* Section 226 of such Act (33 U.S.C. 3026) is amended by striking “Appointments” and all that follows and inserting the following:
-  > - **(a)** *Higher grades* Original appointments under section 221 in and promotions to the grades of lieutenant commander and above shall be made by the President, by and with the advice and consent of the Senate.
-  > - **(b)** *Lower grades* Original appointments under section 221 in and promotions to the grades of ensign through lieutenant shall be made by the President alone.
 
 ## § 7. Personnel boards
 
@@ -146,10 +147,10 @@ Section 229 of the National Oceanic and Atmospheric Administration Commissioned 
 
 > ## § 229. Temporary appointments
 >
-> - **(a)** *Appointments by President* Temporary appointments in the grade of ensign, lieutenant junior grade, or lieutenant may be made by the President alone.
-> - **(b)** *Termination* A temporary appointment to a position under subsection (a) shall terminate upon approval of a permanent appointment for such position made by the President alone.
+> - **(a)** *Appointments by President* Temporary appointments in the grade of ensign, lieutenant junior grade, or lieutenant may be made by the President.
+> - **(b)** *Termination* A temporary appointment to a position under subsection (a) shall terminate upon approval of a permanent appointment for such position made by the President.
 > - **(c)** *Order of precedence* Appointees under subsection (a) shall take precedence in the grade to which appointed in accordance with the dates of their appointments as officers in such grade. The order of precedence of appointees who are appointed on the same date shall be determined by the Secretary.
-> - **(d)** *Any one grade* When determined by the Secretary to be in the best interest of the commissioned officer corps, officers in any permanent grade may be temporarily promoted one grade by the President alone. Any such temporary promotion terminates upon the transfer of the officer to a new assignment.
+> - **(d)** *Any one grade* When determined by the Secretary to be in the best interest of the commissioned officer corps, officers in any permanent grade may be temporarily promoted one grade by the President. Any such temporary promotion terminates upon the transfer of the officer to a new assignment.
 
 ## § 9. Officer candidates
 
@@ -172,14 +173,14 @@ Section 229 of the National Oceanic and Atmospheric Administration Commissioned 
   > - **(f)** *Repayment* An officer candidate or former officer candidate who does not fulfill the terms of the obligation to serve as specified under section (d) shall be subject to the repayment provisions of section 216(b).
 
 - **(b)** *Clerical amendment* The table of sections in section 1 of the Act entitled “An Act to authorize the Hydrographic Service Improvement Act of 1998, and for other purposes” (Public Law 107–372) is amended by inserting after the item relating to section 233 the following:
-- **(c)** *Officer candidate defined* Section 212 of such Act (33 U.S.C. 3002) is amended—
+- **(c)** *Officer candidate defined* Section 212 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (33 U.S.C. 3002) is amended—
   - **(1)** by redesignating paragraphs (4) through (6) as paragraphs (5) through (7), respectively; and
-  - **(2)** by inserting after paragraph (4) the following:
-    > - **(5)** *Officer candidate* The term officer candidate means an individual who is enrolled in the basic officer training program of the Administration and is under consideration for appointment as an officer under section 221(a)(2)(A).
+  - **(2)** by inserting after paragraph (3) the following:
+    > - **(4)** *Officer candidate* The term officer candidate means an individual who is enrolled in the basic officer training program of the Administration and is under consideration for appointment as an officer under section 221(a)(2)(A).
 
 - **(d)** *Pay for officer candidates* Section 203 of title 37, United States Code, is amended by adding at the end the following:
   > - **(f)**
-  >   - **(1)** An officer candidate enrolled in the basic officer training program of the commissioned officer corps of the National Oceanic and Atmospheric Administration is entitled, while participating in such program, to monthly officer candidate pay at monthly rate equal to the basic pay of an enlisted member in the pay grade E–5 with less than two years service.
+  >   - **(1)** An officer candidate enrolled in the basic officer training program of the commissioned officer corps of the National Oceanic and Atmospheric Administration is entitled, while participating in such program, to monthly officer candidate pay at monthly rate equal to the basic pay of an enlisted member in the pay grade E–5 with less than 2 years service.
   >   - **(2)** An individual who graduates from such program shall receive credit for the time spent participating in such program as if such time were time served while on active duty as a commissioned officer. If the individual does not graduate from such program, such time shall not be considered creditable for active duty or pay.
 
 ## § 10. Involuntary retirement or separation
@@ -276,11 +277,17 @@ Section 261(a) of the National Oceanic and Atmospheric Administration Commission
   >     - **(B)** to reimburse the Secretary of Education for any reasonable administrative costs incurred by the Secretary in coordinating the program under this section with the administration of the student loan programs under parts B, D, and E of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq., 1087a et seq., 1087aa et seq.).
   > - **(g)** *Special allowance defined* In this section, the term special allowance means a special allowance that is payable under section 438 of the Higher Education Act of 1965 (20 U.S.C. 1087–1).
 
-- **(b)** *Conforming amendments* Sections 428(o), 455(l), and 464(j) of the Higher Education Act of 1965 ((20 U.S.C. 1078(o), 1087e(l), and 1087dd(j)) are each amended—
-  - **(1)** by striking the subsection heading and inserting “Armed Forces and NOAA Commissioned Officer Corps Student Loan Interest Payment Programs”; and
-  - **(2)** in paragraph (1)—
-    - **(A)** by inserting “or section 264 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002” after “Code,”; and
-    - **(B)** by inserting “or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively,” after “Armed Forces”.
+- **(b)** *Conforming amendments*
+  - **(1)** Section 428(o) of the Higher Education Act of 1965 (20 U.S.C. 1078(o)) is amended—
+    - **(A)** by striking the subsection heading and inserting “Armed Forces and NOAA Commissioned Officer Corps Student Loan Interest Payment Programs”; and
+    - **(B)** in paragraph (1)—
+      - **(i)** by inserting “or section 264 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002” after “Code,”; and
+      - **(ii)** by inserting “or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively,” after “Armed Forces”.
+  - **(2)** Sections 455(l) and 464(j) of the Higher Education Act of 1965 (20 U.S.C. 1087e(l) and 1087dd(j)) are each amended—
+    - **(A)** by striking the subsection heading and inserting “Armed Forces and NOAA Commissioned Officer Corps Student Loan Interest Payment Programs”; and
+    - **(B)** in paragraph (1)—
+      - **(i)** by inserting “or section 264 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002” after “Code,”; and
+      - **(ii)** by inserting “or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively” after “Armed Forces”.
 - **(c)** *Clerical amendment* The table of sections in section 1 of the Act entitled “An Act to authorize the Hydrographic Service Improvement Act of 1998, and for other purposes” (Public Law 107–372), as amended by section 13(b), is further amended by inserting after the item relating to section 267, as added by such section 13(b), the following:
 
 ## § 15. Student pre-commissioning education assistance program
@@ -331,7 +338,14 @@ Section 261(a) of the National Oceanic and Atmospheric Administration Commission
 
 - **(b)** *Clerical amendment* The table of sections in section 1 of the Act entitled “An Act to authorize the Hydrographic Service Improvement Act of 1998, and for other purposes” (Public Law 107–372), as amended by section 14(c), is further amended by inserting after the item relating to section 268, as added by such section 14(c), the following:
 
-## § 16. Applicability of certain provisions of title 37, United States Code
+## § 16. Limitation on educational assistance
+
+- **(a)** *In general* Each fiscal year, beginning with fiscal year 2013, the Secretary of Commerce shall ensure that the total amount expended by the Secretary under section 267 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (as added by section 13(a)), section 268 of such Act (as added by section 14(a)), and section 269 of such Act (as added by section 15(a)) does not exceed the amount by which—
+  - **(1)** the total amount the Secretary would pay in that fiscal year to officer candidates under section 203(f)(1) of title 37, United States Code (as added by section 9(d)), if such section entitled officers candidates to pay at monthly rates equal to the basic pay of a commissioned officer in the pay grade O–1 with less than 2 years of service; exceeds
+  - **(2)** the total amount the Secretary actually pays in that fiscal year to officer candidates under section 203(f)(1) of such title (as so added).
+- **(b)** *Officer candidate defined* In this section, the term officer candidate has the meaning given the term in section 212 of such Act (as added by section 9(c)).
+
+## § 17. Applicability of certain provisions of title 37, United States Code
 
 - **(a)** *In general* Subtitle E of title II of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (33 U.S.C. 3071 et seq.), as amended by sections 13 through 15, is further amended by adding at the end the following:
   > ## § 270. Applicability of certain provisions of title 37, United States Code
@@ -347,7 +361,7 @@ Section 261(a) of the National Oceanic and Atmospheric Administration Commission
 
 - **(b)** *Clerical amendment* The table of sections in section 1 of the Act entitled “An Act to authorize the Hydrographic Service Improvement Act of 1998, and for other purposes” (Public Law 107–372), as amended by section 15(b), is further amended by inserting after the item relating to section 269, as added by such section 15(b), the following:
 
-## § 17. Application of certain provisions of competitive service law
+## § 18. Application of certain provisions of competitive service law
 
 Section 3304(f) of title 5, United States Code, is amended—
 
@@ -355,42 +369,41 @@ Section 3304(f) of title 5, United States Code, is amended—
 - **(2)** in paragraph (2), by striking “or veteran” and inserting “, veteran, or member”; and
 - **(3)** in paragraph (4), by inserting “and members of the commissioned officer corps of the National Oceanic and Atmospheric Administration (or its predecessor organization the Coast and Geodetic Survey) separated from such uniformed service” after “separated from the armed forces”.
 
-## § 18. Eligibility of all members of uniformed services for Legion of Merit award
+## § 19. Eligibility of all members of uniformed services for Legion of Merit award
 
 Section 1121 of title 10, United States Code, is amended by striking “armed forces” and inserting “uniformed services”.
 
-## § 19. Application of Employment and Reemployment Rights of Members of the Uniformed Services to members of commissioned officer corps
+## § 20. Application of Employment and Reemployment Rights of Members of the Uniformed Services to members of commissioned officer corps
 
 Section 4303(16) of title 38, United States Code, is amended by inserting “the commissioned officer corps of the National Oceanic and Atmospheric Administration,” after “Public Health Service,”.
 
-## § 20. Protected communications for members of uniformed services and prohibition of retaliatory personnel actions
+## § 21. Protected communications for commissioned officer corps and prohibition of retaliatory personnel actions
 
-- **(a)** *In general* Section 1034 of title 10, United States Code, is amended—
-  - **(1)** in subsections (a) through (e), by striking “the armed forces” each places it appears and inserting “the uniformed services”;
-  - **(2)** in subsection (c)(5)—
-    - **(A)** by striking “Department of Defense, or” and inserting “Department of Defense (in the case of a member of the armed forces),”; and
-    - **(B)** by inserting “the Inspector General of the Department of Commerce (in the case of a member of the Commissioned Office Corps of the National Oceanic and Atmospheric Administration), or the Inspector General of the Department of Health and Human Services (in the case of a member of the commissioned corps of the Public Health Service)” after “Navy),”;
-  - **(3)** in subsection (e), in paragraphs (1) and (3), by striking “to the Secretary of Defense (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” both places it appears and inserting “to the Secretary of Defense (in the case of a member of the armed forces), to the Secretary of Homeland Security (in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy), to the Secretary of Commerce (in the case of a member of the Commissioned Office Corps of the National Oceanic and Atmospheric Administration), or the Secretary of Health and Human Services (in the case of a member of the commissioned corps of the Public Health Service)”;
-  - **(4)** in subsection (h)—
-    - **(A)** by striking “and” after “of Defense,”; and
-    - **(B)** by inserting “the Secretary of Commerce with respect to the commissioned officer corps of the National Oceanic and Atmospheric Administration, and the Secretary of Health and Human Services with respect to the commissioned corps of the Public Health Service” after “Navy,”; and
-  - **(5)** in subsection (i)—
-    - **(A)** in subparagraph (A), by inserting “, in the case of a member of the armed forces” before the period at the end; and
-    - **(B)** by striking subparagraph (C) and inserting the following:
-      > - **(C)** The Inspector General of the Department of Commerce, in the case of a member of the commissioned officer corps of the National Oceanic and Atmospheric Administration.
-      > - **(D)** The Inspector General of the Department of Health and Human Services, in the case of a member of the commissioned corps of the Public Health Service.
-      > - **(E)** Any officer of the uniformed services or employee of the Department of Defense, the Department of Commerce, or the Department of Health and Human Services who is assigned or detailed to serve as an Inspector General at any level in the Department of Defense, Department of Commerce, or Department of Health and Human Services.
+- **(a)** *In general* Subsection (a) of section 261 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (33 U.S.C. 3071(a)), as amended by section 12, is further amended—
+  - **(1)** by redesignating paragraphs (8) through (23) as paragraphs (9) through (24), respectively; and
+  - **(2)** by inserting after paragraph (7) the following:
+    > - **(8)** Section 1034, relating to protected communications and prohibition of retaliatory personnel actions.
 
-- **(b)** *Effective date* The amendments made by subsection (a) shall apply with respect to any unfavorable personnel action taken or threatened, and any withholding of or threat to withhold a favorable personnel action, on or after the date of the enactment of this Act.
+- **(b)** *Conforming amendment* Subsection (b) of such section is amended by adding at the end the following: “For purposes of paragraph (8) of subsection (a), the term “Inspector General” in section 1034 of such title 10 shall mean the Inspector General of the Department of Commerce.”.
 
-## § 21. Criminal penalties for wearing uniform without authority
+## § 22. Criminal penalties for wearing uniform without authority
 
 Section 702 of title 18, United States Code, is amended by striking “Service or any” and inserting “Service, the commissioned officer corps of the National Oceanic and Atmospheric Administration, or any”.
-
-## § 22. Report on status of officers in commissioned officer corps of National Oceanic and Atmospheric Administration and Public Health Service during Government shutdowns
-
-Not later than 60 days after the date of the enactment of this Act, the Attorney General shall submit to Congress a report that details whether officers of the commissioned officer corps of the National Oceanic and Atmospheric Administration and the Public Health Service are treated as performing an essential level of activity to protect life and property during any period of a lapse in appropriations.
 
 ## § 23. Technical correction
 
 Section 101(21)(C) of title 38, United States Code, is amended by inserting “in the commissioned officer corps” before “of the National”.
+
+## § 24. Report
+
+- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary of Commerce shall submit to Congress a report evaluating the current status and projected needs of the commissioned officer corps of the National Oceanic and Atmospheric Administration to operate sufficiently through fiscal year 2017.
+- **(b)** *Contents* The report required by subsection (a) shall include the following:
+  - **(1)** The average annual attrition rate of officers in the commissioned officer corps of the National Oceanic and Atmospheric Administration.
+  - **(2)** An estimate of the number of annual recruits that would reasonably be required to operate the commissioned officer corps sufficiently through fiscal year 2017.
+  - **(3)** The projected impact of this Act on annual recruitment numbers through fiscal year 2017.
+  - **(4)** Identification of areas of duplication or unnecessary redundancy in current activities of the commissioned officer corps that could otherwise be streamlined or eliminated to save costs.
+  - **(5)** Such other matters as the Secretary considers appropriate regarding the provisions of this Act and the amendments made by this Act.
+
+## § 25. Effective date
+
+Notwithstanding any other provision of this Act, sections 2 through 22 shall take effect on the date that is 90 days after the date on which the Secretary of Commerce submits to Congress the report required by section 25(a).
