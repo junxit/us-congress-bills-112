@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4062
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4062
@@ -82,3 +82,4 @@ To designate the facility of the United States Postal Service located at 1444 Ma
 - 2012-12-19 — Mr. Farenthold moved to suspend the rules and pass the bill.
 - 2012-12-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7326)
 - 2012-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7326)
+- 2012-12-20 — Received in the Senate.
