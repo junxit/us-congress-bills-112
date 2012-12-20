@@ -1,7 +1,7 @@
 ---
 measure: S. 3202
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3202
@@ -31,6 +31,10 @@ Dignified Burial and Other Veterans' Benefits Improvement Act of 2012
 - House — Budget Committee
 - House — Armed Services Committee
 
+## Recorded votes (1)
+
+- 2012-12-30 — [House 112-2-651](votes/house-112-2-0651.md) — On Motion to Suspend the Rules and Pass — **Passed** (393–0)
+
 ## Actions
 
 - 2012-05-17 — Introduced in Senate
@@ -52,3 +56,18 @@ Dignified Burial and Other Veterans' Benefits Improvement Act of 2012
 - 2012-12-20 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-12-20 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2012-12-20 — Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2012-12-30 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Miller (FL) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2012-12-30 — Considered as unfinished business. (consideration: CR H7466-7467)
+- 2012-12-30 — Considered under suspension of the rules. (consideration: CR H7442-7446)
+- 2012-12-30 — DEBATE - The House proceeded with forty minutes of debate on S. 3202.
+- 2012-12-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-30 — Mr. Miller (FL) moved to suspend the rules and pass the bill.
+- 2012-12-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 651). (text: CR H7442-7445)
+- 2012-12-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 651).(text: CR H7442-7445)
+- 2013-01-01 — Presented to President.
+- 2013-01-01 — Presented to President.
+- 2013-01-02 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2013-01-10 — Became Public Law No: 112-260.
+- 2013-01-10 — Became Public Law No: 112-260.
+- 2013-01-10 — Signed by President.
+- 2013-01-10 — Signed by President.
