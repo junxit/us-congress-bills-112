@@ -1,7 +1,7 @@
 ---
 measure: S. 3698
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
