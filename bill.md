@@ -1,11 +1,11 @@
 ---
-legis-num: S. RES. 627
+legis-num: S. Res. 627
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
-# S. RES. 627
+# S. Res. 627
 
 > Designating the Chairman of the Senate Committee on Appropriations.
 

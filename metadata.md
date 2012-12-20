@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 627
 congress: 112
-version: Agreed to Senate
+version: Engrossed in Senate
 ---
 
 # S.Res. 627
