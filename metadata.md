@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6633
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6633
@@ -46,3 +46,4 @@ To designate the United States courthouse located at 101 East Pecan Street in Sh
 - 2012-12-19 — Mr. Denham asked unanimous consent to discharge from committee and consider. (consideration: CR H7318)
 - 2012-12-19 — On passage Passed without objection. (text: CR H7318)
 - 2012-12-19 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7318)
+- 2012-12-20 — Received in the Senate.
