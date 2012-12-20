@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1845
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1845
@@ -111,3 +111,12 @@ Medicare IVIG Access and Strengthening Medicare and Repaying Taxpayers Act of 20
 - 2012-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 3 (Roll no. 634).(text: CR H7301-7303)
 - 2012-12-19 — The title of the measure was amended. Agreed to without objection.
 - 2012-12-20 — Received in the Senate, read twice.
+- 2012-12-21 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8380)
+- 2012-12-21 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8380)
+- 2012-12-27 — Message on Senate action sent to the House.
+- 2012-12-31 — Presented to President.
+- 2012-12-31 — Presented to President.
+- 2013-01-10 — Became Public Law No: 112-242.
+- 2013-01-10 — Became Public Law No: 112-242.
+- 2013-01-10 — Signed by President.
+- 2013-01-10 — Signed by President.
