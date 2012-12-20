@@ -1,7 +1,7 @@
 ---
 measure: H.R. 443
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 443
@@ -22,9 +22,10 @@ To provide for the conveyance of certain property from the United States to the 
 - House — Natural Resources Committee
 - Senate — Indian Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2011-12-15 — [House 112-1-936](votes/house-112-1-0936.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (407–4)
+- 2013-01-01 — [House 112-2-656](votes/house-112-2-0656.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (410–5)
 
 ## Actions
 
@@ -64,3 +65,17 @@ To provide for the conveyance of certain property from the United States to the 
 - 2012-12-20 — Senate amendment agreed to: Amendment SA 3423 agreed to in Senate by Unanimous Consent.
 - 2012-12-20 — Senate amendment proposed (on the floor): Amendment SA 3423 proposed by Senator Durbin for Senator Murkowski.(consideration: CR S8308; text: CR S8308)
 - 2012-12-20 — Senate amendment submitted
+- 2012-12-21 — Message on Senate action sent to the House.
+- 2012-12-31 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Grijalva objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2012-12-31 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 443.
+- 2012-12-31 — Mr. Young (AK) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H7491)
+- 2013-01-01 — Considered as unfinished business. (consideration: CR H7530)
+- 2013-01-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-01-01 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 410 - 5 (Roll no. 656). (text as House agreed to Senate amendment: CR 12/31/2012 H7491)
+- 2013-01-01 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 410 - 5 (Roll no. 656).(text as House agreed to Senate amendment: CR 12/31/2012 H7491)
+- 2013-01-03 — Presented to President.
+- 2013-01-03 — Presented to President.
+- 2013-01-14 — Became Public Law No: 112-263.
+- 2013-01-14 — Became Public Law No: 112-263.
+- 2013-01-14 — Signed by President.
+- 2013-01-14 — Signed by President.

@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 443
-congress: 112th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 443
 
-That the bill from the House of Representatives (H.R. 443) entitled “An Act to provide for the conveyance of certain property from the United States to the Maniilaq Association located in Kotzebue, Alaska.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To provide for the conveyance of certain property from the United States to the Maniilaq Association located in Kotzebue, Alaska.
 
 ## § 1. Conveyance of property
 
