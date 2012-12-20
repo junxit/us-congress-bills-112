@@ -1,7 +1,7 @@
 ---
 measure: S. 2318
 congress: 112
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2318
@@ -47,3 +47,17 @@ Department of State Rewards Program Update and Technical Corrections Act of 2012
 - 2012-12-20 — Message on Senate action sent to the House.
 - 2012-12-20 — Received in the House.
 - 2012-12-20 — Referred to the House Committee on Foreign Affairs.
+- 2012-12-30 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Ros-Lehtinen objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2012-12-30 — Considered under suspension of the rules. (consideration: CR H7461-7462)
+- 2012-12-30 — DEBATE - The House proceeded with forty minutes of debate on S. 2318.
+- 2012-12-30 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill.
+- 2013-01-01 — Considered as unfinished business. (consideration: CR H7559-7560)
+- 2013-01-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-01-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 12/30/2012 H7461)
+- 2013-01-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 12/30/2012 H7461)
+- 2013-01-03 — Presented to President.
+- 2013-01-03 — Presented to President.
+- 2013-01-15 — Became Public Law No: 112-283.
+- 2013-01-15 — Became Public Law No: 112-283.
+- 2013-01-15 — Signed by President.
+- 2013-01-15 — Signed by President.
