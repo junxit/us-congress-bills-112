@@ -1,7 +1,7 @@
 ---
 measure: H.R. 443
 congress: 112
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 443
@@ -56,3 +56,11 @@ To provide for the conveyance of certain property from the United States to the 
 - 2012-12-13 — Committee on Indian Affairs. Reported by Senator Akaka without amendment. With written report No. 112-250.
 - 2012-12-13 — Committee on Indian Affairs. Reported by Senator Akaka without amendment. With written report No. 112-250.
 - 2012-12-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 566.
+- 2012-12-20 — Amendment SA 3423 agreed to in Senate by Unanimous Consent.
+- 2012-12-20 — Amendment SA 3423 proposed by Senator Durbin for Senator Murkowski. (consideration: CR S8308; text: CR S8308) In the nature of a substitute.
+- 2012-12-20 — Measure laid before Senate by unanimous consent. (consideration: CR S8308)
+- 2012-12-20 — Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-20 — Senate amendment agreed to: Amendment SA 3423 agreed to in Senate by Unanimous Consent.
+- 2012-12-20 — Senate amendment proposed (on the floor): Amendment SA 3423 proposed by Senator Durbin for Senator Murkowski.(consideration: CR S8308; text: CR S8308)
+- 2012-12-20 — Senate amendment submitted
