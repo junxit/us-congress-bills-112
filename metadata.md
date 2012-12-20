@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6016
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6016
@@ -32,9 +32,10 @@ Government Employee Accountability Act
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 - Rep. Schilling, Robert T. [R-IL-17] (S001182)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -59,3 +60,4 @@ Government Employee Accountability Act
 - 2012-12-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 2 (Roll no. 638). (text: CR H7324-7325)
 - 2012-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 2 (Roll no. 638).(text: CR H7324-7325)
 - 2012-12-19 — The title of the measure was amended. Agreed to without objection.
+- 2012-12-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

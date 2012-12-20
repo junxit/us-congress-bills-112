@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6016
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+8 amendatory instructions. 2 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 5 U.S.C. § 3593
+
+> in subsection (b), by striking “or malfeasance” and inserting “malfeasance, or misappropriation of funds”.
+
+| | |
+|---|---|
+| Removed | `or malfeasance` |
+| Inserted | `malfeasance, or misappropriation of funds` |
+
+### 5 U.S.C. § 3594
+
+> Section 3594(a) of title 5, United States Code, is amended by striking “or malfeasance” and inserting “malfeasance, or misappropriation of funds”.
+
+| | |
+|---|---|
+| Removed | `or malfeasance` |
+| Inserted | `malfeasance, or misappropriation of funds` |
 
 ## Stated, not applied
 
@@ -31,11 +51,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Paragraph (1) of section 7501 of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 75 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `5 U.S.C. § 7501` | amend | Paragraph (1) of section 7501 of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Chapter 75 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | The table of sections at the beginning of chapter 75 of title 5, United States Code, is amended by adding after the item relating to section 7543 the following: | the bill names no machine-readable US Code section |
-| — | insert | in subsection (a), by inserting “misappropriation of funds,” after “malfeasance,”; and | the bill names no machine-readable US Code section |
-| — | amend | in subsection (b), by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | in subsection (a)(2), by inserting “misappropriation of funds,” after “malfeasance,”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b), by striking “or malfeasance” and inserting “malfeasance, or misappropriation of funds”. | the bill names no machine-readable US Code section |
-| — | replace | Section 3594(a) of title 5, United States Code, is amended by striking “or malfeasance” and inserting “malfeasance, or misappropriation of funds”. | the bill names no machine-readable US Code section |
+| `5 U.S.C. § 7543` | insert | in subsection (a), by inserting “misappropriation of funds,” after “malfeasance,”; and | the bill quotes the text inserted but describes where it goes |
+| `5 U.S.C. § 7543` | amend | in subsection (b), by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 3593` | insert | in subsection (a)(2), by inserting “misappropriation of funds,” after “malfeasance,”; and | the bill quotes the text inserted but describes where it goes |
