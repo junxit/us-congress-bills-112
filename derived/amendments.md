@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4118
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -41,12 +41,12 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 15 of the Small Business Act (15 U.S.C. 644) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking “and” at the end; and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (2) as paragraph (5), and inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(g)(1) The President shall” and inserting “(g)(1)(A) The President shall”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “$100,000” each place it appears and inserting “$200,000”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subparagraph (C); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of subparagraph (D) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1302 of such title is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
