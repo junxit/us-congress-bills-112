@@ -23,18 +23,18 @@ This Act may be cited as the “Contracting Oversight for Small Business Jobs Ac
   >   - **(2)** makes any materially false, fictitious, or fraudulent statement or representation; or
   >   - **(3)** makes or uses any false writing or document, including electronically, knowing the same to contain any materially false, fictitious, or fraudulent statement or entry;
 
-- **(b)** *Technical amendment* The table of sections for such chapter is amended by inserting after the item relating to the following section:
+- **(b)** *Technical amendment* The table of sections for such chapter is amended by inserting after the item relating to the following section: relating to section 1040 the following:
 
 ## § 3. Safe harbor for good faith compliance efforts
 
 - **(a)** *Small business fraud* Section 16(d) of the Small Business Act (15 U.S.C. 16(d)) is amended by inserting after paragraph (2) the following:
-  > - **(3)** This subsection shall not apply to any conduct in violation of subsection (a) if the defendant acted in reliance on a written advisory opinion from a licensed attorney who is not an employee of the defendant.
+  > - **(3)** *Limitation on liability* This subsection shall not apply to any conduct in violation of subsection (a) if the defendant acted in reliance on a written advisory opinion from a licensed attorney who is not an employee of the defendant.
 
 - **(b)** *Misrepresentation of status* Section 1041 of title 18, United States Code, as added by section 2 of this Act, is amended by inserting after subsection (a) the following:
   > - **(b)** *Exception* This section shall not apply to any conduct in violation of paragraph (2) or (3) of subsection (a) if the defendant acted in reliance on a written advisory opinion from a licensed attorney who is not an employee of the defendant.
 
 - **(c)** *Regulations* Not later than 270 days after the date of enactment of this Act, the Administrator of the Small Business Administration shall issue rules defining what constitutes an adequate advisory opinion for purposes of section 16(d)(3) of the Small Business Act.
-- **(d)** *Small business compliance guide* Not later than 270 days after the date of enactment of this Act, the Administrator of the Small Business Administration shall issue (pursuant to section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996) a compliance guide to assist business concerns in accurately determining their status as a small business concern.
+- **(d)** *Small business compliance guide* Not later than 270 days after the date of enactment of this Act, the Administrator of the Small Business Administration shall issue (pursuant to section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996) a compliance guide to assist business concerns in accurately determining their status as a small business concern. On the date that the Administrator issues the compliance guide under this section, the Administrator shall also issue a version of the compliance guide translated into Spanish and such translation may be provided in digital form by the Administrator.
 
 ## § 4. Office of Hearings and Appeals
 
@@ -60,7 +60,7 @@ This Act may be cited as the “Contracting Oversight for Small Business Jobs Ac
 
 ## § 5. Requirement fraudulent businesses be suspended or debarred
 
-- **(a)** *In general* Section 16(d)(2) of the Small Business Act (15 U.S.C. 645(d)(3)) is amended by striking “on the basis that such misrepresentation indicates a lack of business integrity that seriously and directly affects the present responsibility to perform any contract awarded by the Federal Government or a subcontract under such a contract” and inserting “if the misrepresentation is established by a preponderance of the evidence (in the case of debarment) or adequate evidence (in the case of suspension)”.
+- **(a)** *In general* Section 16(d)(2) 16(d)(2)(C) of the Small Business Act (15 U.S.C. 645(d)(3) 645(d)(2)(C)) is amended by striking “on the basis that such misrepresentation indicates a lack of business integrity that seriously and directly affects the present responsibility to perform any contract awarded by the Federal Government or a subcontract under such a contract” and inserting “if the misrepresentation is established by a preponderance of the evidence (in the case of debarment) or adequate evidence (in the case of suspension)”.
 - **(b)** *Revision to FAR* Not later than 270 days after the date of enactment of this Act, the Federal Acquisition Regulation shall be revised to implement the amendment made by this section.
 - **(c)** *Publication of procedures regarding suspension and debarment* Not later than 270 days after the date of enactment of this Act, the Administrator shall publish on the Administration's Web site the standard operating procedures for suspension and debarment in effect, and the name and contact information for the individual designated by the Administrator as the senior individual responsible for suspension and debarment proceedings.
 - **(d)** *Required regulations* Not later than 270 days after the date of enactment of this Act, the Administrator of the Small Business Administration shall issue regulations defining the term “adequate evidence” for purposes of section 16(d)(2) of the Small Business Act.
