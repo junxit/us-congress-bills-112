@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3197
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3197
@@ -26,9 +26,10 @@ To name the Department of Veterans Affairs medical center in Spokane, Washington
 - Rep. Reichert, David G. [R-WA-8] (R000578)
 - Rep. Hastings, Doc [R-WA-4] (H000329)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ To name the Department of Veterans Affairs medical center in Spokane, Washington
 - 2012-12-20 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-12-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 646). (text: CR 12/19/2012 H7330)
 - 2012-12-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 646).(text: CR 12/19/2012 H7330)
+- 2012-12-21 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
