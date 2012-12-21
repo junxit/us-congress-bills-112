@@ -9,12 +9,12 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 > To require a Government Accountability Office examination of transactions between large financial institutions and the Federal Government, and for other purposes.
 
-## § 1. Government accountability office study of transactions between large financial companies and the Federal Government
+## § 1. Government accountability office examination of transactions between large financial institutions and the Federal Government
 
 - **(a)** *Definitions* For purposes of this Act—
-  - **(1)** the term “covered institution” means any bank holding company having more than $500,000,000,000 in consolidated assets; and
+  - **(1)** the term “covered institution” means any financial company having more than $500,000,000,000 in consolidated assets; and
   - **(2)** the term “economic benefit” means the difference between actual loans terms offered, debt or equity prices, or asset values and a reasonable estimate of what such terms, prices, or values might have been, as determined by examining actual values of comparable transaction in the private markets or by estimating the values of comparable transactions priced to properly reflect associated risk.
-- **(b)** *GAO study* The Comptroller General of the United States (in this section referred to as the “Comptroller”) shall conduct a study of covered institutions, such as—
+- **(b)** *GAO Examination* The Comptroller General of the United States (in this section referred to as the “Comptroller”) shall conduct an examination of covered institutions, such as—
   - **(1)** the favorable pricing of the debt of such institutions, relative to their risk profile resulting from the perception that such institutions will receive Government support in the event of any financial stress;
   - **(2)** any favorable funding or economic treatment resulting from an increase in the credit rating for covered institutions, as a result of express, implied, or perceived Government support;
   - **(3)** any economic benefit to covered institutions resulting from the ownership of, or affiliation with, an insured depository institution;
@@ -24,25 +24,27 @@ chamber: IN THE SENATE OF THE UNITED STATES
       - **(i)** under the Emergency Economic Stabilization Act, such as—
         - **(I)** asset purchases by the United States Government;
         - **(II)** capital injections from the United States Government; or
-        - **(III)** housing programs; or
-      - **(ii)** by the purchase of the mortgage backed securities of the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation (in this Act referred to as “government-sponsored enterprises”), in order to lower interest rates, and the value of such securities in the absence of such purchases;
+        - **(III)** housing programs;
+      - **(ii)** by the purchase of the mortgage backed securities of the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation (in this Act referred to as “government-sponsored enterprises”), in order to lower interest rates, and the value of such securities in the absence of such purchases; or
+      - **(iii)** by the guarantee of money market mutual funds, as compared to the value of such funds in the absence of such guarantees;
     - **(B)** actions by the Board of Governors of the Federal Reserve System prior to the date of enactment of this Act, such as—
-      - **(i)** providing loans to financial institutions through the Term Auction Facility; and
-      - **(ii)** assistance through programs under section 13(3) of the Federal Reserve Act prior to the date of enactment of this Act, such as—
+      - **(i)** reducing the Federal funds rate;
+      - **(ii)** lowering the interest rate charged to banks for loans through its discount window and expanding the list of securities that banks could post in exchange for loans through the discount window, as compared to loans using terms and collateral under normal discount window lending conditions;
+      - **(iii)** providing loans to financial institutions through the Term Auction Facility; and
+      - **(iv)** assistance through programs under section 13(3) of the Federal Reserve Act prior to the date of enactment of this Act, such as—
         - **(I)** lending through the Commercial Paper Funding Facility;
         - **(II)** securities lending to primary dealers through the Primary Dealer Credit Facility and the Term Securities Lending Facility;
-        - **(III)** lending to institutions through the Term Asset-Backed Securities Loan Facility; or
-        - **(IV)** purchasing assets through the Maiden Lane facility; and
+        - **(III)** lending to institutions through the Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility;
+        - **(IV)** lending to institutions through the Term Asset-Backed Securities Loan Facility;
+        - **(V)** purchasing assets through the Maiden Lane facility; or
+        - **(VI)** any other asset purchases, including mortgage-backed securities backed by the government-sponsored enterprises, and debt issued by those enterprises; and
     - **(C)** actions by the Federal Deposit Insurance Corporation, such as—
-      - **(i)** guaranteeing debt or deposits through the Temporary Liquidity Guarantee Program; or
-      - **(ii)** pricing of assessments related to any such guarantees; and
+      - **(i)** guaranteeing debt or deposits through the Temporary Liquidity Guarantee Program;
+      - **(ii)** guaranteeing deposits through the Deposit Insurance Fund; or
+      - **(iii)** pricing of assessments related to any such guarantees; and
   - **(6)** any extraordinary assistance provided to American Insurance Group, but ultimately received by one of the covered institutions; and
   - **(7)** any Government actions that resulted in the payment or nonpayment of credit default swap contracts entered into by a covered institution.
 
 ## § 2. Report to Congress
 
-Not later than 1 year after the date of enactment of this Act, the Comptroller shall submit a report to Congress detailing the findings of the Comptroller in the study conducted under this Act. Such report shall be made electronically available to the public, except that any proprietary, sensitive, or confidential information shall be redacted in any release to the public.
-
-## § 3. Rule of construction
-
-Nothing in this Act may be construed to provide authority inconsistent with, or to otherwise affect, section 714 of title 31 United States Code.
+Not later than 1 year after the date of enactment of this Act, the Comptroller shall submit a report to Congress detailing the findings of the Comptroller in the study conducted under this Act. Such report shall be made electronically available to the public.
