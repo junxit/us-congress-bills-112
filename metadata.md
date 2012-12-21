@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6260
 congress: 112
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6260
@@ -88,3 +88,12 @@ To designate the facility of the United States Postal Service located at 211 Hop
 - 2012-12-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 12/19/2012 H7336)
 - 2012-12-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 12/19/2012 H7336)
 - 2012-12-21 — Received in the Senate, read twice.
+- 2012-12-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8454)
+- 2012-12-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8454)
+- 2012-12-28 — Message on Senate action sent to the House.
+- 2012-12-31 — Presented to President.
+- 2012-12-31 — Presented to President.
+- 2013-01-10 — Became Public Law No: 112-254.
+- 2013-01-10 — Became Public Law No: 112-254.
+- 2013-01-10 — Signed by President.
+- 2013-01-10 — Signed by President.
