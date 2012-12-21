@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 613
 congress: 112
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 613
@@ -16,7 +16,7 @@ A resolution urging the governments of Europe and the European Union to designat
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
-## Cosponsors (56)
+## Cosponsors (65)
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Risch, James E. [R-ID] (R000584)
@@ -74,6 +74,15 @@ A resolution urging the governments of Europe and the European Union to designat
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 - Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Toomey, Patrick [R-PA] (T000461)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Heller, Dean [R-NV] (H001041)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
 
 ## Committees (1)
 
@@ -83,3 +92,7 @@ A resolution urging the governments of Europe and the European Union to designat
 
 - 2012-12-11 — Introduced in Senate
 - 2012-12-11 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S7745)
+- 2012-12-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice.(text: CR S8379-8380)
+- 2012-12-21 — Resolution agreed to in Senate without amendment and with a preamble by Voice. (text: CR S8379-8380)
+- 2012-12-21 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S8379-8380)
+- 2012-12-21 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S8379-8380)
