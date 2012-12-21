@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3980
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-24 amendatory instructions. 0 executed, 24 stated and not applied.
+25 amendatory instructions. 0 executed, 25 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,5 +53,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(B) The breakout procurement center representative” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “sixty” and inserting “60”. | the bill names no machine-readable US Code section |
+| — | insert | Section 7(j)(10)(D)(i) of the Small Business Act (15 U.S.C. 636(j)(10)(D)(i)) is amended by inserting after “to assist such Program Participant.” the following: “The Business Opportunity Specialist shall have a Level I Federal Acquisitio… | the bill names no machine-readable US Code section |
 | — | replace | by striking “the various agencies” and inserting “a Federal department or agency”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period and inserting | the bill names no machine-readable US Code section |
