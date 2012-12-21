@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4081
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,9 +33,8 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | amend | Section 44 of the Small Business Act (15 U.S.C. 657q) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | Section 15(a) of the Small Business Act (15 U.S.C. 644(a)), is amended by striking “If a proposed procurement includes” and all that follows through “the matter shall be submitted for determination to the Secretary or the head of the app… | the bill names no machine-readable US Code section |
-| — | repeal | Paragraphs (2) through (4) of section 15(e) of the Small Business Act (15 U.S.C. 644(e)) are repealed. All references in law to such paragraphs, as in effect on the date that is one day prior to the effective date of this Act, shall be d… | the bill names no machine-readable US Code section |
+| — | repeal | Paragraphs (2) through (4) of section 15(e) of the Small Business Act (15 U.S.C. 644(e)) are repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Paragraph (1) of section 15(p) of the Small Business Act (15 U.S.C. 644(p)) is repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Paragraphs (2) through (4) of section 15(p) of the Small Business Act (15 U.S.C 644(p)) are repealed. All references in law to such paragraphs, as in effect on the date that is one day prior to the effective date of this Act, shall be de… | the bill names no machine-readable US Code section |
-| — | repeal | Paragraphs (1) and (2) of section 15(q) of the Small Business Act (15 U.S.C 644(q)) are repealed. All references in law to such paragraphs, as in effect on the date that is one day prior to the effective date of this Act, shall be deemed… | the bill names no machine-readable US Code section |
+| — | repeal | Paragraphs (1) and (2) of section 15(q) of the Small Business Act (15 U.S.C 644(q)) are repealed. | the bill names no machine-readable US Code section |
 | — | repeal | Subsection (o) of section 3 of the Small Business Act (15 U.S.C.) is repealed. | the bill names no machine-readable US Code section |
-| — | replace | Section 44(b) of the Small Business Act (15 U.S.C. 657q(b)) is amended by striking “appropriate” and inserting “the maximum practicable”. | the bill names no machine-readable US Code section |
