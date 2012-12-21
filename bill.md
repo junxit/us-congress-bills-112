@@ -26,7 +26,7 @@ The Small Business Act (15 U.S.C. 631 et seq.) is amended by adding at the end t
 >   - **(3)** *Competition*
 >     - **(A)** *Sole source* A contracting officer may award a sole source contract under this program if such concern is determined to be a responsible contractor with respect to performance of such contract opportunity and the contracting officer does not have a reasonable expectation that 2 or more early stage small business concerns will submit offers for the contracting opportunity and in the estimation of the contracting officer, the contract award can be made at a fair and reasonable price.
 >     - **(B)** *restricted competition* A contracting officer may award contracts on the basis of competition restricted to early stage small business concerns if the contracting officer has a reasonable expectation that not less than 2 early stage small business concerns will submit offers and that the award can be made at a fair market price.
->   - **(4)** *Contract value* Contracts shall be awarded under this program if its value is greater than $3,000 and less than half the upper threshold of Section 15(j)(1) of the Small Business Act.
+>   - **(4)** *Contract value* Contracts shall be awarded under this program if its value is greater than $3,000 and less than half the upper threshold of section 15(j)(1) of the Small Business Act.
 > - **(c)** *Eligibility* Only an early stage small business concern shall be eligible to compete for a contract to be awarded under the program. The Administrator shall certify that a small business concern is an early stage small business concern, or the Administrator shall approve a Federal agency, a State government, or a national certifying entity to certify that the business meets the eligibility criteria of an early stage small business concern.
 > - **(d)** *Technical assistance* The Administrator shall provide early stage small business concerns with technical assistance and counseling with regard to—
 >   - **(1)** applying for and competing for Federal contracts; and
@@ -41,3 +41,7 @@ The Small Business Act (15 U.S.C. 631 et seq.) is amended by adding at the end t
 >   - **(2)** *Early stage small business concern* The term early stage small business concern means a small business concern that—
 >     - **(A)** has not more than 15 employees; and
 >     - **(B)** has average annual receipts that total not more than $1,000,000, except if the concern is in an industry with an average annual revenue standard that is less than $1,000,000, as defined by the North American Industry Classification System.
+
+## § 3. Repeal of similar program
+
+Section 304 of the Small Business Administration Reauthorization and Amendments Act of 1994 (15 U.S.C. 644 note) is repealed.
