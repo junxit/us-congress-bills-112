@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3116
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,7 +21,7 @@ The table of contents for this Act is as follows:
 
 In this Act:
 
-- **(1)** *Appropriate congressional committees* The term appropriate congressional committee means the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate, and any committee of the House of Representatives or the Senate having legislative or oversight jurisdiction under the Rules of the House of Representatives or the Senate, respectively, over the matter concerned.
+- **(1)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate, and any committee of the House of Representatives or the Senate having legislative or oversight jurisdiction under the Rules of the House of Representatives or the Senate, respectively, over the matter concerned.
 - **(2)** *Department* The term Department means the Department of Homeland Security.
 - **(3)** *function* The term function includes authorities, powers, rights, privileges, immunities, programs, projects, activities, duties, and responsibilities.
 - **(4)** *local government* The term local government means—
