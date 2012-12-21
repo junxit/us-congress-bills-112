@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1509
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1509
@@ -70,9 +70,10 @@ Medicare Identity Theft Prevention Act of 2012
 - Rep. King, Peter T. [R-NY-3] (K000210)
 - Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -88,3 +89,4 @@ Medicare Identity Theft Prevention Act of 2012
 - 2012-12-20 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-12-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 12/19/2012 H7309-7310)
 - 2012-12-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 12/19/2012 H7309-7310)
+- 2012-12-21 — Received in the Senate and Read twice and referred to the Committee on Finance.

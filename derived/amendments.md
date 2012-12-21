@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1509
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | redesignate | by redesignating clause (x), as added by section 2(a)(1) of the Social Security Number Protection Act of 2010, and clause (xi) as clauses (xi) and (xii), respectively; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 405` | redesignate | by redesignating clause (x), as added by section 2(a)(1) of the Social Security Number Protection Act of 2010, and clause (xi) as clauses (xi) and (xii), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 405` | amend | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
