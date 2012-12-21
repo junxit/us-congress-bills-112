@@ -1,7 +1,7 @@
 ---
 measure: S. 1684
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-87 amendatory instructions. 0 executed, 87 stated and not applied.
+122 amendatory instructions. 0 executed, 122 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -43,7 +43,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subparagraph (A), by striking “or”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (5), by striking “The Secretary of Energy may” and inserting “Not later than 1 year after the date of enactment of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2011, the Secretary of Energy s… | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5), by striking “The Secretary of Energy may” and inserting “Not later than 1 year after the date of enactment of the Indian Tribal Energy Development and Self-Determination Act Amendments of 20112012, the Secretary of Ener… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “on the request of an Indian tribe, the Indian tribe” and inserting “on the request of an Indian tribe or a tribal energy development organization, the Indian tribe or tribal energy development organization”… | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2)(B), by inserting “or tribal energy development organization” after “Indian tribe”. | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A), by striking “or” after the semicolon at the end; | the bill names no machine-readable US Code section |
@@ -109,7 +109,37 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subclause (I), by striking “approved”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “approval of” in the first place it appears; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “subsection (a) or (b)” and inserting “subsection (a)(2)(A)(i) or (b)(2)(A)”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3) through (6) as paragraphs (4) through (7), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Part D of title III of the Energy Policy and Conservation Act (42 U.S.C. 6321 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 2601 of the Energy Policy Act of 1992 (25 U.S.C. 3501) is amended by striking paragraph (11) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “tribal energy resource development organizations” and inserting “tribal energy development organizations”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “tribal energy resource development organizations” each place it appears and inserting “tribal energy development organizations”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(2), by striking “tribal energy resource development organization” and inserting “tribal energy development organization”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2606(c)(3) of the Energy Policy Act of 1992 (25 U.S.C. 3506(c)(3)) is amended by striking “energy resource development” and inserting “energy development”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “(1) On the date” and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking “for approval”; | the bill names no machine-readable US Code section |
+| — | insert | in subclause (XIV), by inserting “and” after the semicolon at the end; | the bill names no machine-readable US Code section |
+| — | strike | by striking subclause (XV); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subclause (XVI) as subclause (XV); | the bill names no machine-readable US Code section |
+| — | replace | by striking “(3) The Secretary” and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking “for approval”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking “(4) If the Secretary” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(5) If an Indian tribe” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding subparagraph (A), by striking “approved” and inserting “in effect”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “(6)(A) In carrying out” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “approved” and inserting “in effect”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “an approved tribal energy resource agreement” and inserting “a tribal energy resource agreement in effect under this section”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii), by striking “approved by the Secretary” and inserting “in effect”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “(7)(A) In this paragraph” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “approved by the Secretary” and inserting “in effect”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “approved by the Secretary” and inserting “in effect”; and | the bill names no machine-readable US Code section |
+| — | strike | in subclause (I), by striking “approved”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “approval of” in the first place it appears; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “subsection (a) or (b)” and inserting “subsection (a)(2)(A)(i) or (b)(2)(A)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 7(a) of the Federal Power Act (16 U.S.C. 800(a)) is amended by striking “States and municipalities” and inserting “States, Indian tribes, and municipalities”. | the bill names no machine-readable US Code section |
+| — | replace | in section 2(a), by striking “In this section” and inserting “In this Act”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in section 2(a), by striking “In this section” and inserting “In this Act”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
@@ -118,3 +148,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “individuals for whom such a determination has been made” and inserting “low-income members of the Indian tribe”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “he” and inserting “the Secretary”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “In order” and inserting “Application.—In order”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Title XXVI of the Energy Policy Act of 1992 (25 U.S.C. 3501 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “, except a lease for” and inserting “, including a lease for”; | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
