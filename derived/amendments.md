@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5806
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | amend | The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101(b)) is amended by adding after the item relating to section 525 the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | amend | The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by adding after the item relating to section 525 the following new item: | the bill names no machine-readable US Code section |
