@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4212
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4212
@@ -16,7 +16,7 @@ Drywall Safety Act of 2012
 
 - Rep. Rigell, E. Scott [R-VA-2] (R000589)
 
-## Cosponsors (19)
+## Cosponsors (22)
 
 - Rep. Deutch, Theodore E. [D-FL-19] (D000610)
 - Rep. Posey, Bill [R-FL-15] (P000599)
@@ -37,6 +37,9 @@ Drywall Safety Act of 2012
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 - Rep. Markey, Edward J. [D-MA-7] (M000133)
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
 
 ## Committees (3)
 
@@ -60,3 +63,13 @@ Drywall Safety Act of 2012
 - 2012-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6134-6135)
 - 2012-09-19 — The title of the measure was amended. Agreed to without objection.
 - 2012-09-20 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2012-12-21 — Amendment SA 3432 agreed to in Senate by Unanimous Consent.
+- 2012-12-21 — Amendment SA 3432 proposed by Senator Reid for Senator Vitter. (consideration: CR S8377-8378; text: CR S8377-8378) In the nature of a substitute.
+- 2012-12-21 — Measure laid before Senate by unanimous consent. (consideration: CR S8377-8378)
+- 2012-12-21 — Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2012-12-21 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2012-12-21 — Senate amendment agreed to: Amendment SA 3432 agreed to in Senate by Unanimous Consent.
+- 2012-12-21 — Senate amendment proposed (on the floor): Amendment SA 3432 proposed by Senator Reid for Senator Vitter.(consideration: CR S8377-8378; text: CR S8377-8378)
+- 2012-12-21 — Senate amendment submitted
