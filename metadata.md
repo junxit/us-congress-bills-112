@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6364
 congress: 112
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6364
@@ -16,7 +16,7 @@ World War I Centennial Commission Act
 
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
@@ -32,6 +32,7 @@ World War I Centennial Commission Act
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 - Rep. Graves, Sam [R-MO-6] (G000546)
 - Rep. Hartzler, Vicky [R-MO-4] (H001053)
+- Sen. Blunt, Roy [R-MO] (B000575)
 
 ## Committees (2)
 
@@ -59,3 +60,11 @@ World War I Centennial Commission Act
 - 2012-12-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-701, Part I.
 - 2012-12-12 — The title of the measure was amended. Agreed to without objection.
 - 2012-12-13 — Received in the Senate, read twice.
+- 2012-12-21 — Amendment SA 3433 agreed to in Senate by Unanimous Consent.
+- 2012-12-21 — Amendment SA 3433 proposed by Senator Reid for Senator McCaskill. (consideration: CR S8378) In the nature of a substitute.
+- 2012-12-21 — Measure laid before Senate by unanimous consent. (consideration: CR S8378)
+- 2012-12-21 — Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-21 — Senate amendment agreed to: Amendment SA 3433 agreed to in Senate by Unanimous Consent.
+- 2012-12-21 — Senate amendment proposed (on the floor): Amendment SA 3433 proposed by Senator Reid for Senator McCaskill.(consideration: CR S8378)
+- 2012-12-21 — Senate amendment submitted

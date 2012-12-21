@@ -2,16 +2,18 @@
 legis-num: H.R. 6364
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 6364
 
-> To establish a commission to ensure a suitable observance of the centennial of World War I, to provide for the designation of memorials to the service of members of the United States Armed Forces in World War I, and for other purposes.
+That the bill from the House of Representatives (H.R. 6364) entitled “An Act to establish a commission to ensure a suitable observance of the centennial of World War I, to provide for the designation of memorials to the service of members of the United States Armed Forces in World War I, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Frank Buckles World War I Memorial Act”.
+- **(a)** *Short title* This Act may be cited as the “World War I Centennial Commission Act”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Findings
@@ -25,19 +27,14 @@ Congress makes the following findings:
 - **(5)** The events of 1914 through 1918 shaped the world, the United States, and the lives of millions of people.
 - **(6)** The centennial of World War I offers an opportunity for people in the United States to learn about and commemorate the sacrifices of their predecessors.
 - **(7)** Commemorative programs, activities, and sites allow people in the United States to learn about the history of World War I, the United States involvement in that war, and the war’s effects on the remainder of the 20th century, and to commemorate and honor the participation of the United States and its citizens in the war effort.
-- **(8)** While the other great conflicts of the 20th century, World War II, the Korean War, and the Vietnam War, have national memorials on the Mall in Washington, DC, there currently exists no national memorial honoring the service of the United States and its citizens in World War I.
-- **(9)** In 1921, the people of Kansas City, Missouri, dedicated a site in that city for a memorial to the service of Americans in World War I, a ceremony attended by General John J. Pershing and military leaders of Great Britain, France, Belgium, and Italy. In 1924, the cornerstone of the 217-foot Liberty Memorial Tower was laid. On Armistice Day 1926, President Calvin Coolidge delivered the key note address at the Memorial’s dedication ceremony. The Memorial and surrounding grounds were completed in 1938, with an inscription that reads “In Honor of Those Who Served in the World War in Defense of Liberty and Our Country.”.
-- **(10)** The 106th Congress recognized the Liberty Memorial as a national symbol of World War I.
-- **(11)** The 108th Congress designated the museum at the base of the Liberty Memorial as “America’s National World War I Museum”. The museum preserves the story of World War I, and educates and enlightens people about this significant event.
 
 ## § 3. Definitions
 
 In this Act—
 
-- **(1)** *America’s national world war I museum* The term “America’s National World War I Museum” means the Liberty Memorial Museum in Kansas City, Missouri, as recognized by Congress in section 1031(b) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 2045).
-- **(2)** *Centennial Commission* The term “Centennial Commission” means the World War I Centennial Commission established by section 4(a).
-- **(3)** *Memorial Foundation* The term “Memorial Foundation” means the World War I Memorial Foundation authorized to establish the National World War I Memorial in the District of Columbia under section 10.
-- **(4)** *Veterans service organization* The term “veterans service organization” means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under section 5902 of title 38, United States Code.
+- **(1)** *America’s national world war I museum* The term America’s National World War I Museum means the Liberty Memorial Museum in Kansas City, Missouri, as recognized by Congress in section 1031(b) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 2045).
+- **(2)** *Centennial commission* The term Centennial Commission means the World War I Centennial Commission established by section 4(a).
+- **(3)** *Veterans service organization* The term veterans service organization means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under section 5902 of title 38, United States Code.
 
 ## § 4. Establishment of World War I Centennial Commission
 
@@ -115,26 +112,6 @@ In this Act—
   - **(1)** *In general* Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Centennial Commission under this Act.
   - **(2)** *Exception* Section 14(a)(2) of such Act shall not apply to the Centennial Commission.
 
-## § 9. Designation of National World War I Museum and Memorial in Kansas City, Missouri
-
-- **(a)** *In general* The Liberty Memorial of Kansas City at America’s National World War I Museum in Kansas City, Missouri, is hereby designated as the “National World War I Museum and Memorial”.
-- **(b)** *Ceremonies* The Centennial Commission may plan, develop, and execute ceremonies to recognize the designation of the Liberty Memorial of Kansas City as the National World War I Museum and Memorial.
-
-## § 10. Establishment of National World War I Memorial in the District of Columbia
-
-- **(a)** *Authority to establish commemorative work* The World War I Memorial Foundation may establish a commemorative work on Federal land in the District of Columbia and its environs to consist of an appropriate sculptural or other commemorative elements to serve as the National World War I Memorial.
-- **(b)** *Limitation on size of memorial* The National World War I Memorial may not exceed 0.5 acres in size.
-- **(c)** *Compliance with standards for commemorative works*
-  - **(1)** *In general* Chapter 89 of title 40, United States Code, shall apply to the establishment of the National World War I Memorial in the District of Columbia and its environs.
-  - **(2)** *Exception from prohibition on additional commemorative works in reserve* Section 8908(c) of title 40, United States Code, does not apply with respect to the selection of the site for the National World War I Memorial.
-  - **(3)** *No infringement upon existing memorial* The site selected for the National World War I Memorial may not infringe upon or adversely impact the District of Columbia War Memorial.
-- **(d)** *Limitation on total cost* The total cost to design and construct the National World War I Memorial may not exceed $10,000,000.
-- **(e)** *Deposit of excess funds*
-  - **(1)** *Upon establishment of memorial* If, upon payment of all expenses for the establishment of the National World War I Memorial (including the maintenance and preservation amount required by section 8906(b)(1) of title 40, United States Code), there remains a balance of funds received for the establishment of the memorial, the Memorial Foundation shall transmit the amount of the balance to the account provided for in section 8906(b)(3) of such title.
-  - **(2)** *Upon expiration of authority to establish memorial* If, upon expiration of the authority for the National World War I Memorial under section 8903(e) of title 40, United States Code, there remains a balance of funds received for the establishment of the memorial, the Memorial Foundation shall transmit the amount of the balance to a separate account with the National Park Foundation for memorials, to be available to the Secretary of the Interior or Administrator of General Services (as appropriate) following the process provided in section 8906(b)(4) of such title for accounts established under section 8906(b)(3) of such title.
-- **(f)** *Ceremonies* The Centennial Commission may plan, develop, and execute ceremonies to recognize the establishment of the National World War I Memorial.
-- **(g)** *Memorial area defined* In this section, the term “District of Columbia and its environs” has the meaning given that term in section 8902(a)(2) of title 40, United States Code.
-
-## § 11. Prohibition on obligation of Federal funds
+## § 9. Prohibition on obligation of Federal funds
 
 No Federal funds may be obligated to carry out this Act.
