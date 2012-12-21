@@ -45,12 +45,12 @@ This Act may be cited as the “Government Efficiency through Small Business Con
   >     - **(ii)** *Procurement employees or program managers described* A procurement employee or program manager described in this clause is a senior procurement executive, senior program manager, or Director of Small and Disadvantaged Business Utilization of a Federal agency having contracting authority.
 
 - **(d)** *Enforcement; Determinations of the total value of contract awards* Section 15(g) of the Small Business Act (15 U.S.C. 644(g)), as amended by this Act, is further amended by adding at the end the following:
-  > - **(3)** *Enforcement* If the Administrator does not issue the report required in paragraph (2) on or before the date that is 120 days after the end of the prior fiscal year, the Administrator may not carry out or establish any pilot program until the date on which the Administrator issues the report.
+  > - **(3)** *Enforcement* If the Administrator does not issue the report required in subsection (h)(2) on or before the date that is 120 days after the end of the prior fiscal year, the Administrator may not carry out or establish any pilot program until the date on which the Administrator issues the report.
   > - **(4)** *Determinations of the total value of contract awards* For purposes of the goals established under paragraphs (1) and (2), the total value of contract awards for a fiscal year may not be determined in a manner that excludes the value of a contract based on—
   >   - **(A)** where the contract is awarded;
   >   - **(B)** where the contract is performed;
   >   - **(C)** whether the contract is mandated by Federal law to be performed by an entity other than a small business concern;
-  >   - **(D)** whether funding for the contract is made available in an appropriations Act, if the contract is subject to competition in the Contract Act; or
+  >   - **(D)** whether funding for the contract is made available in an appropriations Act, if the contract is subject to the Competition in Contracting Act of 1984; or
   >   - **(E)** whether the contract is subject to the Federal Acquisition Regulation.
 
 ## § 3. Reporting on goals for procurement contracts awarded to small business concerns
@@ -62,7 +62,7 @@ Subsection (h) of section 15 of the Small Business Act (15 U.S.C. 644) is amende
 >     - **(A)** the extent of the participation by small business concerns, small business concerns owned and controlled by veterans (including service-disabled veterans), qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women in the procurement contracts of such agency during such fiscal year;
 >     - **(B)** whether the agency achieved the goals established for the agency under subsection (g)(2)(A) with respect to such fiscal year; and
 >     - **(C)** any justifications for a failure to achieve such goals.
->   - **(2)** *Reports by Administrator* Not later than 60 days after receiving a report from each Federal agency under paragraph (1) with respect to a fiscal year, the Administrator shall submit to the President and Congress a report that includes—
+>   - **(2)** *Reports by Administrator* Not later than 60 days after receiving a report from each Federal agency under paragraph (1) with respect to a fiscal year, the Administrator shall submit to the President and Congress, and to make available on a public website, a report that includes—
 >     - **(A)** a copy of each report submitted to the Administrator under paragraph (1);
 >     - **(B)** a determination of whether each goal established by the President under subsection (g)(1) for such fiscal year was achieved;
 >     - **(C)** a determination of whether each goal established by the head of a Federal agency under subsection (g)(2)(A) for such fiscal year was achieved;
@@ -90,8 +90,9 @@ Subsection (h) of section 15 of the Small Business Act (15 U.S.C. 644) is amende
 >         - **(I)** in the aggregate;
 >         - **(II)** through sole source contracts;
 >         - **(III)** through competitions restricted to small business concerns;
->         - **(IV)** through competitions restricted to small business concerns owned and controlled by socially and economically disadvantaged individuals; and
->         - **(V)** through unrestricted competition;
+>         - **(IV)** through competitions restricted to small business concerns owned and controlled by socially and economically disadvantaged individuals;
+>         - **(V)** through unrestricted competition; and
+>         - **(VI)** by reason of that concern’s certification as a small business owned and controlled by socially and economically disadvantaged individuals;
 >       - **(v)** small business concerns owned by an Alaska Native Corporation—
 >         - **(I)** in the aggregate;
 >         - **(II)** through sole source contracts;
@@ -112,3 +113,7 @@ Subsection (h) of section 15 of the Small Business Act (15 U.S.C. 644) is amende
 - **(b)** *Sabbaticals* If a Federal agency does not achieve, with respect to a fiscal year, a goal established by the head of such agency under section 15(g)(2)(A) of the Small Business Act (15 U.S.C. 644(g)(2)(A)), a senior executive within that agency may not be granted, during the succeeding fiscal year, a sabbatical under section 3396(c) of title 5, United States Code.
 - **(c)** *Incentive awards* If a Federal agency does not achieve, with respect to a fiscal year, a goal established by the head of such agency under section 15(g)(2)(A) of the Small Business Act (15 U.S.C. 644(g)(2)(A)), a senior executive within that agency may not receive, during the succeeding fiscal year, any incentive award under subchapter I of chapter 45 of title 5, United States Code.
 - **(d)** *Senior executive defined* In this section, the term “senior executive” has the meaning given that term in section 3132(a) of title 5, United States Code.
+
+## § 5. Sense of Congress
+
+It is the sense of Congress that the contracting provisions of the Small Business Act shall apply to the leasing of buildings and office space by the United States, and shall not apply to any leasing transaction between private parties.
