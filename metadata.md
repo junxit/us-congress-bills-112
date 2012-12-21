@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6443
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6443
@@ -43,9 +43,10 @@ To designate the facility of the Department of Veterans Affairs located at 9800 
 - Rep. Southerland, Steve II [R-FL-2] (S001186)
 - Rep. Mack, Connie [R-FL-14] (M001155)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -65,3 +66,4 @@ To designate the facility of the Department of Veterans Affairs located at 9800 
 - 2012-12-20 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-12-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 647). (text: CR 12/19/2012 H7331)
 - 2012-12-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 647).(text: CR 12/19/2012 H7331)
+- 2012-12-21 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
