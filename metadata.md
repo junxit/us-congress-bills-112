@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6379
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6379
@@ -41,3 +41,4 @@ To designate the facility of the United States Postal Service located at 6239 Sa
 - 2012-12-20 — Motion to reconsider laid on the table Agreed to without objection.
 - 2012-12-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 12/19/2012 H7333)
 - 2012-12-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 12/19/2012 H7333)
+- 2012-12-21 — Received in the Senate, read twice.
