@@ -41,7 +41,9 @@ The Small Business Act (15 U.S.C. 631 et seq.) is amended—
   >     - **(G)** Reporting requirements during program participation.
   >     - **(H)** Postparticipation reporting requirements.
   >     - **(I)** The need for a mentor-protege pair, if accepted to participate as a pair in a mentor-protege program of any Federal department or agency, to be accepted to participate as a pair in all Federal mentor-protege programs.
-  >     - **(J)** Actions to be taken to ensure benefits for proteges.
+  >     - **(J)** Actions to be taken to ensure benefits for proteges., and to protect proteges against actions by the mentor that—
+  >       - **(i)** may adversely affect the proteges status as a small business; or
+  >       - **(ii)** provide disproportionate economic benefits to the mentor relative to those provided the protege.
   >   - **(4)** *Limitation on applicability* Notwithstanding the provisions of subsection (b)(1), the provisions of subsection (b)(1) shall apply to the following:
   >     - **(A)** Any mentor-protege program of the Department of Defense in effect on the date of enactment of the Building Better Business Partnerships Act of 2012.
   >     - **(B)** Any mentoring assistance provided under a Small Business Innovation Research Program or a Small Business Technology Transfer Program.
@@ -67,3 +69,13 @@ The Small Business Act (15 U.S.C. 631 et seq.) is amended—
   >   - **(3)** *Protege* The term protege means a small business concern that—
   >     - **(A)** is eligible to enter into Federal prime contracts and subcontracts; and
   >     - **(B)** satisfies any other requirements imposed by the Administrator.
+  > - **(e)** *Current Mentor Protege Agreements* Mentors and proteges with approved agreement in a program operating pursuant to subsection (b)(4)(C) shall be permitted to continue their relationship according to the terms specified in their agreement until the expiration date specified in the agreement.
+  > - **(f)** *Submission of Agency Plans* Agencies operating mentor protege programs pursuant to subsection (b)(4)(C) must submit the plans specified in subsection (b)(1)(A) to the Administrator within 6 months of the promulgation of rules required by subsection (b)(3). The Administrator shall provide initial comments on each plan within 60 days of receipt, and final approval or denial of each plan with 180 days of receipt.
+
+## § 3. Government Accountability Office Report
+
+Not later than the date that is 2 years after the agencies operating subject to section 45(b)(4)(C) of the Small Business Act have their plans approved or denied by the Administrator, the Comptroller General of the United States shall conduct a study to—
+
+- **(1)** update the study required by section 1345 of the Small Business Jobs Act of 2010 (Pub. Law 111-240);
+- **(2)** examine whether potential affiliation issues between mentors and proteges under the prior programs have been resolved by enactment of this Act; and
+- **(3)** examine whether the regulations issued pursuant to section 45(b)(3)(I) of the Small Business Act have increased opportunities for mentor-protege pairs, and if they have decreased the paperwork required for such pairs participating in programs at multiple agencies.
