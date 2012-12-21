@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6684
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6684
@@ -57,3 +57,4 @@ Spending Reduction Act of 2012
 - 2012-12-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7411)
 - 2012-12-20 — The previous question was ordered pursuant to the rule. (consideration: CR H7410)
 - 2012-12-20 — The resolution provides for consideration of the Senate amendment to H.J.Res. 66 and for consideration of H.R. 6684. The resolution makes in order a motion offered by the chair of the Committee on Ways and Means that the House concur in the Senate amendment to H.J.Res. 66 with the amendment printed in House Report 112-708. The resolution provides for one hour of debate in both instances. The Senate amendment, the motion, and H.R. 6684 shall be considered as read. The resolution provides for one motion to recommit for H.R. 6684.
+- 2012-12-21 — Received in the Senate.
