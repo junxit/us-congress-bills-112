@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6364
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6364
@@ -39,6 +39,10 @@ World War I Centennial Commission Act
 - House — Natural Resources Committee
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2012-12-31 — [House 112-2-654](votes/house-112-2-0654.md) — On Motion to Suspend the Rules and Concur in the Senate Amendment — **Passed** (401–5)
+
 ## Actions
 
 - 2012-09-10 — Introduced in House
@@ -68,3 +72,17 @@ World War I Centennial Commission Act
 - 2012-12-21 — Senate amendment agreed to: Amendment SA 3433 agreed to in Senate by Unanimous Consent.
 - 2012-12-21 — Senate amendment proposed (on the floor): Amendment SA 3433 proposed by Senator Reid for Senator McCaskill.(consideration: CR S8378)
 - 2012-12-21 — Senate amendment submitted
+- 2012-12-27 — Message on Senate action sent to the House.
+- 2012-12-31 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Norton objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2012-12-31 — Considered as unfinished business. (consideration: CR H7513-7514)
+- 2012-12-31 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 6364.
+- 2012-12-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-31 — Mr. Chaffetz moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H7495-7498)
+- 2012-12-31 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: 401 - 5 (Roll no. 654). (text as House agreed to Senate amendment: CR H7496-7497)
+- 2012-12-31 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: 401 - 5 (Roll no. 654).(text as House agreed to Senate amendment: CR H7496-7497)
+- 2013-01-02 — Presented to President.
+- 2013-01-02 — Presented to President.
+- 2013-01-14 — Became Public Law No: 112-272.
+- 2013-01-14 — Became Public Law No: 112-272.
+- 2013-01-14 — Signed by President.
+- 2013-01-14 — Signed by President.
