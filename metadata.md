@@ -1,7 +1,7 @@
 ---
 measure: S. 2251
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2251
@@ -29,3 +29,7 @@ A bill to designate the United States courthouse located at 709 West 9th Street,
 - 2012-03-29 — Introduced in Senate
 - 2012-03-29 — Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S2246)
 - 2012-03-29 — Sponsor introductory remarks on measure. (CR S2246)
+- 2012-07-25 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2012-12-27 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2012-12-27 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2012-12-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 576.
