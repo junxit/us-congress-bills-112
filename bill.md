@@ -1,7 +1,7 @@
 ---
 legis-num: S. 847
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -621,6 +621,648 @@ Section 6 of the Toxic Substances Control Act (15 U.S.C. 2605) is amended to rea
 >   - **(2)** includes all material facts known to, in the possession or control of, or reasonably ascertainable by, the manufacturer or processor.
 > - **(i)** *Effective date* In any rule or order under this section, the Administrator shall specify the date on which the rule or order shall take effect, which shall be as soon as practicable.
 
+## § 5. Minimum information sets and testing of chemical substances
+
+Section 4 of the Toxic Substances Control Act (15 U.S.C. 2603) is amended to read as follows:
+
+> ## § 4. Minimum information sets and testing of chemical substances
+>
+> - **(a)** *Minimum information sets*
+>   - **(1)** *Rule*
+>     - **(A)** *In general* Subject to subparagraphs (B) and (C), and not later than 1 year after the date of enactment of the Safe Chemicals Act of 2011, the Administrator shall establish, by rule, such minimum information sets as the Administrator determines to be appropriate to evaluate chemical substances under sections 5 and 6.
+>     - **(B)** *General requirements* The rule promulgated pursuant to subparagraph (A) shall—
+>       - **(i)** provide for varied or tiered information to be provided for different chemical substances;
+>       - **(ii)** identify the particular minimum information set that applies to a chemical substance;
+>       - **(iii)** require each minimum information set to include sufficient information for the Administrator to conduct a screening-level risk assessment of the chemical substance, including information on the characteristics, toxicological properties, environmental and biological fate and behavior, exposure, and use of a chemical substance;
+>       - **(iv)** specify information quality and reliability requirements applicable to the information submitted in the minimum information sets; and
+>       - **(v)** accommodate the use of alternative testing methods and testing strategies to generate information quickly, at low cost, and with reduced use of animal-based testing, including toxicity pathway-based risk assessment, in vitro studies, systems biology, computational toxicology, bioinformatics, and high-throughput screening, to the extent such methods and strategies would yield information of equivalent quality and reliability.
+>     - **(C)** *Specific requirements* The rule promulgated pursuant to subparagraph (A) shall establish minimum information sets sufficient for the Administrator to administer this Act, including to carry out—
+>       - **(i)** categorization of new chemical substances under section 5(b)(2), including the identification of information—
+>         - **(I)** sufficiently robust to generally support the categorization of a new chemical substance as a substance of very low concern under section 5(b)(2)(D)(iii)(II); and
+>         - **(II)** in the absence of which the Administrator shall designate a new chemical substance to be a substance with insufficient information under section 5(b)(2)(D)(iv);
+>       - **(ii)** categorization of existing chemical substances under section 6(b)(3), including the identification of information—
+>         - **(I)** sufficiently robust to generally support the categorization of an existing chemical substance as a substance of very low concern under section 6(b)(3)(B)(ii); and
+>         - **(II)** in the absence of which the Administrator shall designate an existing chemical substance to be a substance with insufficient information under section 6(b)(3)(B)(iv);
+>       - **(iii)** assignment of chemical substances to priority classes under section 6(b)(4);
+>       - **(iv)** safety standard determinations—
+>         - **(I)** for new uses of existing chemical substances under section 5(b)(2); and
+>         - **(II)** for chemical substances under section 6(d); and
+>       - **(v)** safety standard redeterminations under section 6(d)(5)(E).
+>   - **(2)** *Submission of minimum information set* Each manufacturer and processor of a chemical substance shall submit the minimum information set for the chemical substance to the Administrator—
+>     - **(A)** for new chemical substances, concurrent with the notice required under section (5)(b)(1)(A); and
+>     - **(B)** for existing chemical substances, as specified in section 6 or otherwise specified by the Administrator in the rule promulgated pursuant to paragraph (1)(A).
+>   - **(3)** *Prohibition* In addition to any other authorities available under this Act, the Administrator may, by order, take any action authorized under section 6(f) if a manufacturer or processor is in violation of paragraph (2).
+> - **(b)** *Testing*
+>   - **(1)** *General submissions*
+>     - **(A)** *In general* The Administrator may, by rule or order, require testing with respect to any chemical substance, and the submission of test results by a specified date, as appropriate for making any determination or carrying out any provision of this Act. Such testing may be required—
+>       - **(i)** to provide information in addition to the information specified in any applicable minimum information set under subsection (a); and
+>       - **(ii)** of persons to whom the Administrator decides not to apply a requirement to submit a minimum information set under subsection (a).
+>     - **(B)** *Effect on other authority* Nothing in this paragraph limits the authority of the Administrator under paragraph (2).
+>   - **(2)** *Sample submissions*
+>     - **(A)** *In general* The Administrator may, by rule or order, require the submission of a sample of any chemical substance in such manner as the Administrator determines enables the Administrator to conduct any tests necessary for making any determination or carrying out any provision of this Act.
+>     - **(B)** *Effect on other authority* Nothing in this paragraph limits the authority of the Administrator under paragraph (1).
+>   - **(3)** *Prohibition* In addition to any other authorities available under this Act, the Administrator may, by order, take any action authorized under section 6(f) if a manufacturer or processor is in violation of a rule or order under paragraph (1).
+>   - **(4)** *Exemption* If a manufacturer or processor ceases all manufacture or processing of a chemical substance pursuant to its submission of a declaration of cessation of manufacture or processing under section 8(b)(4) for the chemical substance, the manufacturer or processor shall be exempted from the requirements of this subsection.
+> - **(c)** *Test rules or orders*
+>   - **(1)** *In general* A rule or order issued under subsection (b) shall include—
+>     - **(A)** identification of the chemical substance for which testing is required under the rule or order;
+>     - **(B)** standards for the development of test information for that substance; and
+>     - **(C)** a specification of the period (which may not be of unreasonable duration) within which the persons required to conduct the testing shall submit to the Administrator information developed in accordance with the standards referred to in subparagraph (B).
+>   - **(2)** *Considerations*
+>     - **(A)** *In general* In determining the standards and period to be required under subparagraphs (B) and (C) of paragraph (1), the Administrator shall consider—
+>       - **(i)** the relative costs of the various test protocols and methodologies that may be required under the rule or order; and
+>       - **(ii)** the reasonably foreseeable availability of the facilities and personnel needed to perform the testing required under the rule.
+>     - **(B)** *Preliminary information* Any rule or order issued by the Administrator under this subsection may require a manufacturer or processor to submit preliminary information during the period described in paragraph (1)(C).
+>   - **(3)** *Types of health and environmental information*
+>     - **(A)** *In general* The Administrator may prescribe standards for the development of test information under this subsection for health and environmental information, including—
+>       - **(i)** information pertaining to carcinogenesis, mutagenesis, teratogenesis, behavioral disorders, or cumulative, synergistic, or any other effect that may be considered in a safety standard determination;
+>       - **(ii)** information pertaining to exposure to the chemical substance, including information regarding the presence of the chemical substance in human blood, fluids, or tissue; and
+>       - **(iii)** information pertaining to—
+>         - **(I)** bioaccumulation;
+>         - **(II)** persistence;
+>         - **(III)** acute toxicity;
+>         - **(IV)** subacute toxicity;
+>         - **(V)** chronic toxicity; and
+>         - **(VI)** any other characteristic that may present an adverse effect.
+>     - **(B)** *Methodologies*
+>       - **(i)** *In general* The Administrator may prescribe methodologies in standards for the development of test information, including—
+>         - **(I)** epidemiologic studies;
+>         - **(II)** biomonitoring or environmental monitoring studies;
+>         - **(III)** serial or hierarchical tests;
+>         - **(IV)** in vitro tests;
+>         - **(V)** whole animal tests, consistent with section 30; and
+>         - **(VI)** any other methodology deemed appropriate by the Administrator.
+>       - **(ii)** *Requirement* Prior to prescribing epidemiologic studies of employees, the Administrator shall consult with the Director of the National Institute for Occupational Safety and Health.
+>     - **(C)** *Review* Periodically, but not less frequently than once every 3 years, the Administrator shall—
+>       - **(i)** review the adequacy of the standards for development of information prescribed under subparagraph (A); and
+>       - **(ii)** if necessary, institute proceedings to make appropriate revisions of those standards.
+>   - **(4)** *Persons required to conduct tests and submit information*
+>     - **(A)** *In general* Except as provided in subparagraph (B), a rule or order under subsection (b) respecting a chemical substance shall specify the persons required to conduct tests and submit information to the Administrator on the substance.
+>     - **(B)** *Exception* The Administrator may permit 2 or more of the persons described in subparagraph (A) to designate 1 of the persons or a qualified third party to conduct the tests and submit the information on behalf of the persons making the designation.
+>     - **(C)** *Liability* All persons described in subparagraphs (A) and (B) shall remain liable for compliance with any requirements subject to the designation.
+>   - **(5)** *Expiration of rules and orders*
+>     - **(A)** *In general* Any rule or order under subsection (b) that requires the testing and submission of information for a particular chemical substance shall expire at the end of the applicable reimbursement period (as defined in subsection (d)(3)) unless, prior to that date, the Administrator withdraws the rule or order.
+>     - **(B)** *Category of chemical substances* A rule or order under subsection (b) that requires the testing and submission of information for a category of chemical substances shall expire with respect to a chemical substance included in the category at the end of the applicable reimbursement period (as defined in subsection (d)(3)) unless, prior to that date, the Administrator withdraws the rule or order with respect to the substance entirely.
+> - **(d)** *Exemptions*
+>   - **(1)** *In general* Any person required by a rule or order under subsections (a) or (b) to conduct tests and submit information for a chemical substance may apply to the Administrator (in such form and manner as the Administrator determines necessary) for an exemption from the requirement.
+>   - **(2)** *Action by Administrator* In accordance with paragraph (3) or (4), the Administrator shall exempt an applicant under paragraph (1), if, on receipt of the application, the Administrator determines that—
+>     - **(A)** the chemical substance for which the application was submitted is equivalent to a chemical substance for which—
+>       - **(i)** information has been submitted to the Administrator in accordance with a rule or order under subsection (a) or (b); or
+>       - **(ii)** information is being developed in accordance with the rule or order; and
+>     - **(B)** submission of information by the applicant for the substance would be duplicative of information that—
+>       - **(i)** has been submitted to the Administrator in accordance with the rule or order under subsection (a) or (b); or
+>       - **(ii)** is being developed in accordance with the rule or order.
+>   - **(3)** *Reimbursement due to exemption*
+>     - **(A)** *Definition of reimbursement period* In this paragraph, the term reimbursement period, with respect to any test information for a chemical substance, means a period that—
+>       - **(i)** begins on the date on which the test information is submitted in accordance with a rule or order issued under subsection (a) or (b); and
+>       - **(ii)** ends on the later of—
+>         - **(I)** 5 years after the date referred to in clause (i); and
+>         - **(II)** the date which, as determined by the Administrator, provides the applicant with a time period which is sufficient to develop the test information.
+>     - **(B)** *Reimbursement for previously submitted test information*
+>       - **(i)** *In general* Except as provided in clause (ii), for an exemption under paragraph (2)(B)(i), if the exemption is granted during the reimbursement period for the test information, the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined by the Administrator) to—
+>         - **(I)** the person who previously submitted the test information, for a portion of the costs incurred by the person in complying with the information submission requirement; and
+>         - **(II)** any other person who has been required under this subsection to contribute with respect to the costs, for a portion of the amount the person was required to contribute.
+>       - **(ii)** *Exception* Clause (i) shall not apply if there is agreement on the amount and method of reimbursement between an exempted person described in clause (i) and the persons described in subclauses (I) and (II) of that clause.
+>       - **(iii)** *Considerations* In promulgating rules for the determination of fair and equitable reimbursement to the persons described in subclauses (I) and (II) of clause (i) for costs incurred with respect to a chemical substance, the Administrator shall, after consultation with the Attorney General and the Federal Trade Commission, consider all relevant factors, including—
+>         - **(I)** the effect on the competitive position of the person required to provide reimbursement in relation to the person to be reimbursed; and
+>         - **(II)** the share of the market for the substance of the person required to provide reimbursement in relation to the share of the market of the persons to be reimbursed.
+>     - **(C)** *Reimbursement due to exemption for test information being developed in accordance with rule or order*
+>       - **(i)** *In general* Except as provided in clause (ii), for an exemption under paragraph (2)(B)(ii), the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined by the Administrator) to—
+>         - **(I)** each person who is developing the test information, for the portion of the costs incurred by each person in complying with the rule or order; and
+>         - **(II)** any other person who has been required under this subsection to contribute with respect to the costs of complying with the rule or order, for a portion of the amount the person was required to contribute.
+>       - **(ii)** *Exception* Clause (i) shall not apply if there is agreement on the amount and method of reimbursement between an exempted person described in clause (i) and the persons described in subclauses (I) and (II) of that clause.
+>       - **(iii)** *Considerations* In promulgating rules for the determination of fair and equitable reimbursement to the persons described in subclauses (I) and (II) of clause (i) for costs incurred with respect to a chemical substance, the Administrator shall, after consultation with the Attorney General and the Federal Trade Commission, consider the factors described in subparagraph (B)(iii).
+>       - **(iv)** *Lack of compliance* If any exemption is granted under paragraph (2) on the basis that 1 or more persons are developing test information pursuant to a rule or order promulgated or issued under subsection (a) or (b), and after the exemption is granted, the Administrator determines that no person has complied with the rule or order, the Administrator shall—
+>         - **(I)** after providing written notice and an opportunity for a hearing to the person who holds the exemption, by order, terminate the exemption; and
+>         - **(II)** notify in writing the person of the requirements of the rule or order with respect to which the exemption was granted.
+> - **(e)** *Notice*
+>   - **(1)** *In general* Not later than 15 days after the date of receipt of any test information pursuant to a rule or order under subsection (a) or (b), the Administrator shall publish in the Federal Register a notice of the receipt of the test information.
+>   - **(2)** *Requirements* Subject to section 14, each notice shall—
+>     - **(A)** identify the chemical substance for which information has been received;
+>     - **(B)** list—
+>       - **(i)** the commercial and consumer uses or intended commercial and consumer uses of the substance known to the Administrator; and
+>       - **(ii)** the information required by the applicable standards for the development of test information; and
+>     - **(C)** describe the nature of the test information developed.
+>   - **(3)** *Availability* Subject to section 14, the Administrator shall make the test information described in this subsection available on a publicly accessible Internet site.
+> - **(f)** *Requests from other agencies for additional information or testing*
+>   - **(1)** *In general* The head of a Federal agency may request the Administrator to seek the information on behalf of that agency if the head of that Federal agency determines that—
+>     - **(A)** information relating to a chemical substance, including information derived from new testing or monitoring, would assist that Federal agency in carrying out the duties or exercising the authority of that agency; but
+>     - **(B)** the requested information is not available to that agency.
+>   - **(2)** *Duty of Administrator* Not later than 60 days after the date of receipt of a request under paragraph (1), the Administrator shall—
+>     - **(A)** subject to section 14, make the information available to the requesting agency or institution;
+>     - **(B)** issue a request under section 8(k) to require—
+>       - **(i)** the submission of existing pertinent information to the Administrator; and
+>       - **(ii)** a copy of any such submission to be furnished to the requesting agency or institution;
+>     - **(C)** issue a rule or order under subsection (b)—
+>       - **(i)** to develop the information; and
+>       - **(ii)** to require the developed information to be furnished to the requesting agency or institution; or
+>     - **(D)** publish in the Federal Register the reason for which none of the actions described in this paragraph were taken.
+> - **(g)** *Certification* Each person who submits information under this section or under a rule or an order promulgated or issued by the Administrator under this section shall accompany the information with a certification signed by a responsible official that each statement contained in the submission—
+>   - **(1)** is accurate and reliable; and
+>   - **(2)** includes all material facts known to, in the possession or control of, or reasonably ascertainable by, the person.
+
+## § 6. New chemical substances and new uses of chemical substances
+
+Section 5 of the Toxic Substances Control Act (15 U.S.C. 2604) is amended to read as follows:
+
+> ## § 5. New chemical substances and new uses of chemical substances
+>
+> - **(a)** *Definitions* In this section:
+>   - **(1)** *Manufacture and process* The terms manufacture and process mean manufacture or process, respectively, for commercial purposes.
+>   - **(2)** *Test marketing* The term test marketing does not include any provision of a chemical substance or mixture, or an article containing a chemical substance or mixture, to an end consumer of the chemical substance, mixture, or article.
+> - **(b)** *New chemical substances*
+>   - **(1)** *Notices* Except as provided in subsection (h), no person may manufacture a new chemical substance, or process the chemical substance for a use that is proposed to meet the criteria described in section 6(h)(2)(B), unless—
+>     - **(A)** the person submits to the Administrator a notice, in accordance with subsection (g)(1)(A), of the intention of the person to manufacture or process the substance;
+>     - **(B)** the person complies with subsection (f); and
+>     - **(C)** the Administrator finds that—
+>       - **(i)** the new chemical substance is likely to meet the safety standard under section 6(d), which shall be limited to substances assigned by the Administrator to 1 of the categories described in paragraph (2)(D)(iii); or
+>       - **(ii)** the person has established by clear and convincing evidence that 1 or more uses of the new chemical substance meet the criteria described in section 6(h)(2)(B), in which case—
+>         - **(I)** the Administrator may by order allow the person to manufacture or process the substance only for such use or uses in accordance with subparagraph (A) of section 6(h)(2);
+>         - **(II)** the procedures and requirements specified in subparagraphs (A), (C), (D), and (E) of section 6(h)(2) shall apply; and
+>         - **(III)** the Administrator shall not, upon receipt of a notice of commencement for the chemical substance under subsection (d), add the chemical substance to the active inventory established under section 8(h)(1).
+>   - **(2)** *Categorization of new chemical substances*
+>     - **(A)** *Rule* Not later than 1 year after the date of enactment of the Safe Chemicals Act of 2011, the Administrator shall promulgate a rule that—
+>       - **(i)** designates the categories in accordance with subparagraph (D) and specifies the process and criteria the Administrator will use to categorize new chemical substances; and
+>       - **(ii)** describes criteria and factors the Administrator will use to assess weight of evidence and the quality and reliability of information used to inform categorization decisions.
+>     - **(B)** *Information sources* In categorizing a new chemical substance, the Administrator shall consider information on the substance available to the Administrator at the time the categorization decision is to be made, including information—
+>       - **(i)** received by the Administrator from the manufacturer or processor of the substance in accordance with subsection (f);
+>       - **(ii)** submitted to a governmental body in another jurisdiction, to the extent that the information is accessible to the Administrator;
+>       - **(iii)** derived through application of validated structure-activity relationship or other models developed by the Administrator to estimate the environmental and human health effects, environmental and biological fate and behavior, and exposure potential of chemical substances;
+>       - **(iv)** inferred based on the degree of similarity of the structure or properties of the new chemical substance to those of 1 or more other chemical substances for which reliable information exists that is relevant to predicting the potential environmental or human health effects, environmental or biological fate and behavior, or exposure potential of the new chemical substance; and
+>       - **(v)** any additional information the Administrator determines is needed to categorize the substance, including information identified as needed based on the analysis by the Administrator of estimated or inferred information described in clauses (iii) and (iv).
+>     - **(C)** *Timing* Not later than 90 days after the date of receipt of a notice under paragraph (1)(A), the Administrator shall assign the new chemical substance for which the notice was submitted to 1 of the categories described in subparagraph (D).
+>     - **(D)** *Categories*
+>       - **(i)** *In general* The rule promulgated pursuant to subparagraph (A) shall incorporate, establish criteria for, and further specify as needed, the categories described in this subparagraph, to 1 of which each new chemical substance for which a notice is submitted pursuant to paragraph (1) shall be assigned.
+>       - **(ii)** *Substances of very high concern*
+>         - **(I)** *In general* The Administrator shall designate as a substance of very high concern any new chemical substance that—
+>           - **(aa)** is toxic, persists in the environment, and is bioaccumulative; or
+>           - **(bb)** is highly hazardous.
+>         - **(II)** *Requirements*
+>           - **(aa)** *In general* The Administrator shall allow the submitter of a notice under paragraph (1)(A) for a new chemical substance assigned to the category described in this clause to manufacture or process the new chemical substance only in accordance with paragraph (1)(C)(ii).
+>           - **(bb)** *Prohibition* No other person may manufacture or process the chemical substance unless the person has submitted a notice pursuant to paragraph (1) and the requirements of paragraph (1)(C)(ii) have been met with respect to that notice.
+>       - **(iii)** *Substances likely to meet the safety standard*
+>         - **(I)** *In general*
+>           - **(aa)** The Administrator shall designate as a substance likely to meet the safety standard any new chemical substance that the Administrator determines, based on available information, would likely meet the safety standard under section 6(d)—
+>             - **(AA)** for uses and under conditions specified by the submitter of the notice for the new chemical substance pursuant to paragraph (1); or
+>             - **(BB)** for uses and under additional conditions that could be specified by the Administrator in making a safety standard determination for the substance.
+>           - **(bb)** The Administrator shall assign to the category described in item (aa) any new chemical substance that meets the criteria specified in subclause (II) or (III).
+>         - **(II)** *Substances of very low concern*
+>           - **(aa)** *In general* Within the category described in subclause (I), the Administrator shall designate as a substance of very low concern any new chemical substance that, based on robust information, the Administrator determines possesses intrinsic low-hazard properties so that no further action by the Administrator is warranted unless and until the Administrator receives new information that warrants a different categorization of the chemical substance.
+>           - **(bb)** *Basis of designation* In identifying new chemical substances to be placed in the category described in this subclause, the Administrator shall base the designation of a new chemical substance as a substance of very low concern on the applicable minimum information set required under section 4, unless the Administrator determines that such designation of a particular new chemical substance—
+>             - **(AA)** can be made to a high degree of confidence based on less information; or
+>             - **(BB)** requires information in addition to the full minimum information set to address conflicting or ambiguous findings, in which case the Administrator may require the development and submission of the additional information.
+>         - **(III)** *Substances to undergo safety standard determinations* Within the category described in subclause (I), the Administrator shall designate as a substance to undergo a safety standard determination any new chemical substance that the Administrator determines, based on a screening of available use, hazard, and exposure information, has information available for the chemical substance that is sufficiently robust to determine that the chemical substance does not meet the criteria for the categories described in subclause (II) or clause (ii) or (iv).
+>         - **(IV)** *Requirement* For a new chemical substance designated as likely to meet the safety standard pursuant to subclause (II) or (III), the Administrator shall, upon submission of a notice of commencement described in subsection (d)—
+>           - **(aa)** add the chemical substance to the active inventory described in section 8(h)(1); and
+>           - **(bb)** for a chemical substance designated to undergo a safety standard determination, at the discretion of the Administrator accounting for timing of the submission and workload considerations, add the chemical substance to the current batch or hold the substance until the next batch of substances to be prioritized in accordance with section 6(b)(4).
+>         - **(V)** *Manufacturing and processing* Pending the completion of a safety standard determination under section 6(d), a chemical substance designated as a substance likely to meet the safety standard may be manufactured or processed for uses and under conditions specified by the Administrator in determining that the chemical substance is likely to meet the safety standard—
+>           - **(aa)** by the submitter of the notice for the chemical substance submitted pursuant to paragraph (1)(A), upon submission of a notice for the chemical substance pursuant to subsection (d);
+>           - **(bb)** by other manufacturers of the chemical substance, once the chemical substance has been placed on the active inventory described in section 8(h)(1), upon submission of a declaration for the chemical substance pursuant to section 8(b)(1)(B); or
+>           - **(cc)** by processors of the substance, upon compliance with the requirements of section 8(e).
+>       - **(iv)** *Substances with insufficient information*
+>         - **(I)** *In general* The Administrator shall designate as a substance with insufficient information any new chemical substance for which the Administrator concludes, after gathering and screening available use, hazard, and exposure information, that needed information for the chemical substance is not available, is insufficient, or is not of sufficient quality and reliability to allow for an informed categorization decision.
+>         - **(II)** *Required submission* For substances designated under this clause, the Administrator shall require submission of the applicable minimum information set specified under section 4 as needed to inform categorization decisionmaking for new chemical substances.
+>         - **(III)** *Recategorization* Following submission of the applicable minimum information set for the chemical substance pursuant to subclause (II), the Administrator shall recategorize the chemical substance using the categories and process described in this paragraph.
+>         - **(IV)** *Prohibition* Notwithstanding paragraph (1)(C)(ii), no person may manufacture or process a chemical substance designated under this clause until and unless the information described in subclause (II) has been submitted and the Administrator has recategorized the substance, at which time the provisions applicable to the category to which the substance has been assigned shall apply.
+>       - **(v)** *Substances unlikely to meet the safety standard*
+>         - **(I)** *In general* The Administrator shall designate as a substance unlikely to meet the safety standard any new chemical substance that the Administrator determines, based on available information, would be unlikely to meet the safety standard under section 6(d)—
+>           - **(aa)** for uses and under conditions specified by the submitter of the notice for the chemical substance pursuant to paragraph (1); or
+>           - **(bb)** for other uses or under additional conditions that the Administrator may evaluate in making a safety standard determination for the chemical substance.
+>         - **(II)** *Prohibition* Except as provided under clause (ii), no person may manufacture or process a chemical substance designated under this clause.
+> - **(c)** *New uses of existing chemical substances*
+>   - **(1)** *New uses of existing chemical substances prior to safety standard determination*
+>     - **(A)** *In general* Except as provided in subparagraph (B), with respect to an existing chemical substance for which the Administrator has not made a safety standard determination under section 6(d), no person may manufacture or process the chemical substance—
+>       - **(i)** for a use that was not ongoing on the date of enactment of the Safe Chemicals Act of 2011; or
+>       - **(ii)** at a volume that is significantly increased from the volume as of the date of enactment of the Safe Chemicals Act of 2011.
+>     - **(B)** *Exception* A person may manufacture or process a chemical substance in a manner prohibited by subparagraph (A) if—
+>       - **(i)** the person submits to the Administrator the notice specified in subsection (g)(1)(B);
+>       - **(ii)** the person complies with subsection (f); and
+>       - **(iii)** such manufacturing or processing is consistent with subsection (b)(2)(D)(iii)(V).
+>     - **(C)** *Guidance* Not later than 90 days after the date of enactment of the Safe Chemicals Act of 2011, the Administrator shall issue guidance for the purpose of identifying what constitute new uses and significantly increased production volumes under this paragraph.
+>   - **(2)** *New uses of existing chemical substances that meet the safety standard*
+>     - **(A)** *In general* For an existing chemical substance for which the Administrator has determined under section 6(d) that the manufacturers and processors of the chemical substance have established that the substance meets the applicable safety standard, no person may manufacture, process, distribute in commerce, use, or dispose of the chemical substance, or a mixture or article containing the chemical substance for uses, at production volumes, or in manners other than those the Administrator specified in the safety standard determination, unless—
+>       - **(i)** the person submits to the Administrator a notice in accordance with subsection (g)(1)(C) of the intention of the person to manufacture, process, distribute in commerce, use, or dispose of the chemical substance, or a mixture or article containing the chemical substance, for the new use or at a new production volume, or in such other manner that is inconsistent with a specified condition or term in the safety standard determination made by the Administrator for that substance; and
+>       - **(ii)** the Administrator determines that the person submitting the notice has established that the chemical substance will continue to meet the safety standard if the allowed uses, production volumes, or other specified conditions or terms for that substance, are revised to encompass the new use, new production volume, or other manner of manufacturing, processing, distribution in commerce, use, or disposal.
+>     - **(B)** *Amendment to safety standard determination* If the conditions described in clauses (i) and (ii) of subparagraph (A) are satisfied, the Administrator shall, by order, amend the safety standard determination for the chemical substance to include the new use, production volume, or other manner of manufacturing or processing among the allowed uses, production volumes, or manners of manufacturing, processing, distribution in commerce, use, or disposal of the chemical substance.
+>     - **(C)** *Safety standard determination*
+>       - **(i)** *In general* Except as provided in clauses (ii) and (iii), not later than 180 days after the date of receipt of a notice pursuant to subparagraph (A)(i), the Administrator shall determine whether the person submitting the notice has established that the chemical substance will continue to meet the safety standard under section 6(d).
+>       - **(ii)** *Extension* The Administrator may extend the determination deadline under clause (i) by 1 or more additional periods not to exceed 1 year in the aggregate, in such manner as the Administrator determines necessary.
+>       - **(iii)** *Failure to make a timely determination* The failure of the Administrator to make a timely determination in accordance with this paragraph shall not be sufficient to satisfy subparagraph (A)(ii).
+> - **(d)** *Notice of commencement*
+>   - **(1)** *In general* Not later than 30 days after the date on which a manufacturer or processor commences manufacturing or processing of a new chemical substance, the manufacturer or processor shall submit to the Administrator a notice of commencement of manufacture or processing.
+>   - **(2)** *Requirements* The notice of commencement shall—
+>     - **(A)** be considered equivalent to the declaration required under subparagraph (A) or (C) of section 8(b)(2); and
+>     - **(B)** include the information described in section 8(b)(5).
+>   - **(3)** *Withdrawal* A person who has submitted a notice for a chemical substance under subsection (b) or (c), and has not commenced with manufacture or processing of the substance, may withdraw the notice.
+> - **(e)** *Chemical substances exhibiting special substance characteristics*
+>   - **(1)** *Determination* The Administrator shall determine by order or rule that a variant of a chemical substance exhibiting 1 or more special substance characteristics—
+>     - **(A)** is a use that is separate from any use of the chemical substance that does not exhibit the special substance characteristics; or
+>     - **(B)** is a distinct chemical substance.
+>   - **(2)** *Requirements for variants that are separate uses* In the case of a chemical substance that the Administrator determines to be a separate use based on the special substance characteristics of the chemical substance, the manufacturer or processor shall satisfy such further conditions as the Administrator establishes, by order or rule.
+>   - **(3)** *Requirements for variants that are distinct chemical substances* In the case of a chemical substance that the Administrator determines to be a distinct chemical substance based on the special substance characteristics of the chemical substance, and that is not listed on the active inventory established under section 8(h)(1), the manufacturer or processor shall comply with the requirements of subsection (b).
+> - **(f)** *Submission of data*
+>   - **(1)** *In general* A person shall submit to the Administrator data in accordance with the rule or order at the time that notice is submitted under subsection (b) or (c) if the person is required to submit to the Administrator—
+>     - **(A)** under subsection (b) or (c), a notice prior to beginning the manufacture or processing of a chemical substance; and
+>     - **(B)** under section 4(b), test data for the chemical substance prior to the submission of the notice.
+>   - **(2)** *Availability* Subject to section 14, the Administrator shall make any test data submitted under paragraph (1) available on a publicly accessible Internet site.
+>   - **(3)** *Timing* Except as provided under subsection (b)(2)(D)(iv), the Administrator may require a person subject to an information requirement for a chemical substance under this subsection or section 4 to submit the information—
+>     - **(A)** prior to and as a condition of the Administrator assigning the substance to a category;
+>     - **(B)** as a condition of commencement of manufacture or processing; or
+>     - **(C)** as a condition of exceeding a specified manufacturing volume or expanding use of the substance.
+> - **(g)** *Content and availability of notice*
+>   - **(1)** *Content*
+>     - **(A)** *New chemical substances* A notice under subsection (b)(1) shall include—
+>       - **(i)** the chemical identity and any special substance characteristics of the chemical substance;
+>       - **(ii)** the identity and primary business location of the manufacturer;
+>       - **(iii)** the information described in section 8(h)(5)(B)(ii);
+>       - **(iv)** the minimum information set described in section 4(a), where applicable; and
+>       - **(v)** a statement that—
+>         - **(I)** the new chemical substance is likely to meet the safety standard under section 6(d); or
+>         - **(II)** the 1 or more uses proposed for the new chemical substance meet the criteria described in section 6(h)(2)(B).
+>     - **(B)** *New uses of existing chemical substances prior to safety standard determination* A notice under subsection (c)(1) shall include all updates to the declaration described in section 8(b)(2) and information described in section 8(h)(5)(B)(ii) that is relevant to the new use, new production volume, or other new manner of manufacturing or processing.
+>     - **(C)** *New uses of existing chemical substances that meet the safety standard* A notice under subsection (c)(2) shall include—
+>       - **(i)** all updates to the declaration described in section 8(b)(2);
+>       - **(ii)** information described in section 8(h)(5)(B)(ii) that is relevant to the new use, new production volume, or other new manner of manufacturing or processing;
+>       - **(iii)** all updates to the minimum information set described in section 4(a) relevant to the new use, new production volume, or other new manner of manufacturing or processing; and
+>       - **(iv)** a statement that the chemical substance will continue to meet the safety standard if the allowed uses, production volumes, or other specified conditions or terms for that chemical substance are revised to encompass the new use, production volume, or other manner of manufacturing or processing.
+>   - **(2)** *Availability* Subject to section 14, the Administrator shall make the notices under paragraph (1) available on a publicly accessible Internet site.
+>   - **(3)** *Public information* Subject to section 14, not later than 5 days (excluding Saturdays, Sundays, and legal holidays) after the date of the receipt of a notice under subsection (b), (c), or (d), or of data under subsection (f), the Administrator shall make available on a publicly accessible Internet site a notice that—
+>     - **(A)** identifies the chemical substance for which notice or information has been received;
+>     - **(B)** lists the uses or intended uses of the chemical substance;
+>     - **(C)** for substances for which a notice is submitted under subsection (b)(1), is promptly updated to specify the category to which the Administrator has assigned the substance pursuant to subsection (b)(2) once the assignment has been made;
+>     - **(D)** in the case of the receipt of data under subsection (f), describes—
+>       - **(i)** the nature of the tests performed with respect to the chemical substance; and
+>       - **(ii)** any data that were received under subsection (f) or a rule or order under section 4; and
+>     - **(E)** references the availability of the minimum information set, where applicable.
+>   - **(4)** *List of notices* At the beginning of each month, the Administrator shall make available on a publicly accessible Internet site a list of each chemical substance for which a notice has been received under subsection (b), (c), or (d).
+> - **(h)** *Exemptions*
+>   - **(1)** *Intrinsically safe substances*
+>     - **(A)** *Exemption*
+>       - **(i)** *In general* If the Administrator determines that scientific consensus exists that the intrinsic properties of a new chemical substance are such that the chemical substance does not and would not pose any risk of injury to human health or the environment under any intended or reasonably anticipated levels of production, patterns of use, or exposures arising at any stage across the lifecycle of the chemical substance, the Administrator may, by order, exempt the chemical substance, or particular uses of such substances, from 1 or more of the requirements of this section.
+>       - **(ii)** *Basis of determination* A determination under clause (i)—
+>         - **(I)** shall be based on consideration of the intrinsic properties of the chemical substance; and
+>         - **(II)** shall not be based on findings or assumptions of low human or environmental exposure to such substances.
+>     - **(B)** *Notice of determination and exemption* Not later than 30 days after providing an exemption pursuant to subparagraph (A), the Administrator shall publish in the Federal Register a notice that—
+>       - **(i)** subject to section 14, provides the specific identity of the chemical substance or category;
+>       - **(ii)** if a particular use of the chemical substance is exempted under subparagraph (A), describes the particular use of the chemical substance that the Administrator has exempted; and
+>       - **(iii)** explains and documents the basis for the determination and exemption of the Administrator.
+>     - **(C)** *Reconsideration of exemption*
+>       - **(i)** *In general* The Administrator may reconsider and revoke or modify any exemption provided under subparagraph (A) at any time if the Administrator determines that—
+>         - **(I)** the conditions specified in subparagraph (A) are no longer met; or
+>         - **(II)** such action is necessary to protect human health or the environment or is otherwise in the public interest.
+>       - **(ii)** *Publication* In the event of a revocation or modification under clause (i), the Administrator shall publish a notice of the grounds for the revocation.
+>     - **(D)** *Prior regulatory exemptions*
+>       - **(i)** *Review*
+>         - **(I)** *In general* Not later than 180 days after the date of enactment of the Safe Chemicals Act of 2011, the Administrator shall review exemptions that were granted pursuant to subsection (h)(4) of this section as in effect on the day before that date of enactment.
+>         - **(II)** *Effect of exemption* An exemption described in subclause (I) shall continue to be in effect until the date on which the Administrator determines, by order, that—
+>           - **(aa)** the exemption is not appropriate under this section, at which time the exemption shall cease to be in effect; or
+>           - **(bb)** the exemption is appropriate under this section, at which time the Administrator may issue an order to modify or continue in effect the exemption pursuant to subparagraph (A).
+>       - **(ii)** *Polymeric chemical substances* Notwithstanding subparagraph (A) and any previously issued exemption applicable to polymeric chemical substances—
+>         - **(I)** subsection (d) shall apply to new polymeric chemical substances eligible for the previously issued exemption—
+>           - **(aa)** during the period prior to a determination by the Administrator pursuant to clause (i) applicable to such substances; and
+>           - **(bb)** after a determination by the Administrator pursuant to clause (i)(II)(bb) that continuation of the prior exemption is appropriate for some or all such substances, for such substances to which the continuation applies; and
+>         - **(II)** all of this section shall apply to new polymeric chemical substances eligible for the previously issued exemption after a determination by the Administrator pursuant to clause (i)(II)(aa) that continuation of the prior exemption is not appropriate for some or all such substances, for such substances to which the determination applies.
+>     - **(E)** *No limitation on authority* Nothing in this paragraph limits or otherwise affects the authority of the Administrator under any other provision of this Act.
+>   - **(2)** *Test marketing purposes* Subject to paragraph (6), the Administrator may, upon application, exempt any person from any requirement of subsection (b), (c), or (f) to permit the person to manufacture or process a chemical substance for test marketing purposes—
+>     - **(A)** upon a showing by the person, in a manner that the Administrator determines, that the manufacture, processing, distribution in commerce, use, and disposal of the chemical substance (including any combination of those activities) will not endanger human health or the environment; and
+>     - **(B)** under such restrictions as the Administrator considers appropriate.
+>   - **(3)** *Equivalent chemical substances*
+>     - **(A)** *In general* The Administrator shall, upon application, fully or partially exempt any person from the requirement to submit any data under subsection (b) or (f) if, on receipt of an application, the Administrator determines that—
+>       - **(i)** the chemical substance for which the application was submitted is equivalent to a chemical substance for which data has been submitted to the Administrator as required by this Act; and
+>       - **(ii)** submission of data by the applicant on the chemical substance would be duplicative of data which has been submitted to the Administrator in accordance with this Act.
+>     - **(B)** *Effective date* No exemption under this paragraph may take effect before the beginning of the reimbursement period applicable to the data.
+>     - **(C)** *Fair and equitable reimbursement*
+>       - **(i)** *Definition of reimbursement period* In this subparagraph, the term reimbursement period, with respect to any previously submitted data for a chemical substance, means a period—
+>         - **(I)** beginning on the date of the termination of the prohibition, imposed under this section, on the manufacture or processing of the chemical substance by the person who submitted the data to the Administrator; and
+>         - **(II)** ending on the later of—
+>           - **(aa)** the date that is 5 years after the date referred to in subclause (I); or
+>           - **(bb)** the expiration of the period, which begins on the date referred to in subclause (I) and is equal to the period that the Administrator determines to be necessary to develop the data.
+>       - **(ii)** *Reimbursement* Except as provided in clause (iii), if the Administrator exempts any person, under subparagraph (A), and the exemption is granted during the reimbursement period for that data, the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined by the Administrator)—
+>         - **(I)** to the person who previously submitted the data on which the exemption was based, for a portion of the costs incurred by the person in complying with the requirement under this title to submit the data; and
+>         - **(II)** to any other person who has been required under this subparagraph to contribute with respect to the costs, for a portion of the amount the person was required to contribute.
+>       - **(iii)** *Exception* Clause (ii) shall not apply if the person exempted under that clause and the persons described in subclauses (I) and (II) of that clause agree on the amount and method of reimbursement.
+>       - **(iv)** *Considerations* In promulgating rules for the determination of fair and equitable reimbursement to the persons described in subclauses (I) and (II) of clause (ii) for costs incurred with respect to a chemical substance, the Administrator shall, after consultation with the Attorney General and the Federal Trade Commission, consider all relevant factors, including—
+>         - **(I)** the effect on the competitive position of the person required to provide reimbursement in relation to the persons to be reimbursed; and
+>         - **(II)** the share of the market for the chemical substance of the person required to provide reimbursement to the share of the market of the persons to be reimbursed.
+>   - **(4)** *Small quantities solely for experimentation, research, and analysis*
+>     - **(A)** *In general* If the conditions described in subparagraph (B) are met, subsections (b), (c), and (f) shall not apply with respect to the manufacturing or processing of any chemical substance that is manufactured or processed, or proposed to be manufactured or processed, only in small quantities (as defined by the Administrator by rule) solely for purposes of—
+>       - **(i)** scientific experimentation or analysis; or
+>       - **(ii)** chemical research on, or analysis of the chemical substance or another chemical substance, including such research or analysis for the development of a product.
+>     - **(B)** *Conditions* All persons engaged in the experimentation, research, or analysis for a manufacturer or processor shall be notified (in such form and manner as the Administrator may prescribe) of any risk to human health that the manufacturer, processor, or the Administrator has reason to believe may be associated with that chemical substance.
+>   - **(5)** *Temporary existence* Subject to paragraph (6), the Administrator may, upon application, exempt from subsections (b), (c), and (f) the manufacturing or processing of any chemical substance—
+>     - **(A)** that exists temporarily as a result of a chemical reaction in the manufacturing or processing of a mixture or another chemical substance; and
+>     - **(B)** to which there is no, and will not be, human or environmental exposure.
+>   - **(6)** *Publication*
+>     - **(A)** *In general* As soon as practicable after the date of receipt of an application under paragraph (2) or (5), the Administrator shall publish in the Federal Register notice of the receipt of the application.
+>     - **(B)** *Requirements* The Administrator shall—
+>       - **(i)** give interested persons an opportunity to comment upon any application described in subparagraph (A);
+>       - **(ii)** not later than 45 days after the date of receipt of an application, approve or deny the application; and
+>       - **(iii)** publish in the Federal Register notice of the approval or denial of the application.
+> - **(i)** *Certification* Each submission required under this section or under a rule or an order promulgated or issued by the Administrator under this section shall be accompanied by a certification signed by a responsible official of the manufacturer or processor that each statement contained in the submission—
+>   - **(1)** is accurate and reliable; and
+>   - **(2)** includes all material facts required by the applicable provision of this section or rule or order under this section.
+
+## § 7. Batching, categorization, prioritization, safety standard determination, and risk management
+
+- **(a)** *In general* Section 6 of the Toxic Substances Control Act (15 U.S.C. 2605) is amended—
+  - **(1)** by striking subsection (f);
+  - **(2)** by redesignating subsection (e) as subsection (i);
+  - **(3)** by striking the section heading and designation and all that follows through subsection (d) and inserting the following:
+    > ## § 6. Batching, categorization, prioritization, safety standard determination, and risk management
+    >
+    > - **(a)** *Batching*
+    >   - **(1)** *In general* To ensure that an efficient and orderly process and pace is established for the determination of safety of chemical substances in commerce and the application of risk management measures as needed, the Administrator shall establish a system for assigning chemical substances into batches in accordance with this subsection.
+    >   - **(2)** *Requirements*
+    >     - **(A)** *Timing* Not later than 270 days after the date of enactment of the Safe Chemicals Act of 2011, and not less frequently than once every 5 years thereafter until all chemical substances listed on the active portion of the inventory established under section 8(h)(1) have been assigned to a batch, the Administrator shall assign chemical substances on the active portion of the inventory to batches of chemical substances under this subsection.
+    >     - **(B)** *Number* Each batch established under this subsection shall include a number of chemical substances approximately equal to the number of chemical substances for which reports are submitted to the Administrator under the chemical data reporting rule as of the date of enactment of the Safe Chemicals Act of 2011.
+    >     - **(C)** *Publication* The Administrator shall publish, subject to section 14, the list of chemical substances assigned to each batch promptly on designation of the chemical substances to the batch.
+    >   - **(3)** *Initial batch*
+    >     - **(A)** *In general* Subject to subparagraph (B), the initial batch of chemical substances designated under paragraph (2)(A) shall include the chemical substances for which reports are submitted to the Administrator under the chemical data reporting rule as of the date of enactment of the Safe Chemicals Act of 2011.
+    >     - **(B)** *Inclusions and exclusions* Notwithstanding subparagraph (A), the Administrator may—
+    >       - **(i)** include in the initial batch chemical substances that—
+    >         - **(I)** are manufactured at volumes below the threshold used under the chemical data reporting rule to designate chemical substances subject to basic reporting under that rule; but
+    >         - **(II)** are used or released into the environment in a manner that the Administrator determines warrants early evaluation; and
+    >       - **(ii)** exclude from the initial batch chemical substances that—
+    >         - **(I)** are reported to the Administrator under the chemical data reporting rule; but
+    >         - **(II)** are used or released into the environment in a manner that the Administrator determines does not warrant early evaluation.
+    >   - **(4)** *Subsequent batches* The Administrator shall assign chemical substances to subsequent batches in a manner that the Administrator determines reflects the extent to which the chemical substances warrant earlier or later evaluation.
+    > - **(b)** *Categorization and prioritization*
+    >   - **(1)** *Regulations* Not later than 1 year after the date of enactment of the Safe Chemicals Act of 2011, the Administrator shall promulgate regulations that—
+    >     - **(A)** establish the categories and specify the process and criteria the Administrator will use to categorize chemical substances, which shall be consistent with paragraph (3)(B), beginning with those chemical substances assigned to the initial batch described in subsection (a)(3);
+    >     - **(B)** designate the process and criteria the Administrator will use to prioritize chemical substances that are placed in the category of chemical substances to undergo safety standard determinations, which shall be consistent with the priorities described in paragraph (4);
+    >     - **(C)** describe how the categorization and prioritization process and criteria relate to, and take into account, the categorization and prioritization decisions made in other jurisdictions, including States and foreign governments; and
+    >     - **(D)** describe criteria and factors the Administrator will use to weigh evidence and assess the quality and reliability of information used to inform categorization and prioritization decisions.
+    >   - **(2)** *Information sources*
+    >     - **(A)** *In general* In making categorization and prioritization decisions, the Administrator shall take into consideration information regarding chemical substances that is available to the Administrator at the time the decisions are made, including information that is—
+    >       - **(i)** received by the Administrator from manufacturers or processors pursuant to requirements under section 8(b) and (c);
+    >       - **(ii)** included in any minimum information set required under section 4;
+    >       - **(iii)** submitted to the Administrator that is relevant to the categorization or prioritization of the chemical substance; and
+    >       - **(iv)** identified through an active search by the Administrator of information sources that are publicly available or otherwise accessible to the Administrator.
+    >     - **(B)** *Information from manufacturers and processors*
+    >       - **(i)** *In general* Subject to clause (ii), on designation by the Administrator under paragraph (3)(B)(iii) of a chemical substance safety standard determination, any manufacturer or processor of a designated chemical substance and any trade association or voluntary consortium that represents a manufacturer or processor of a designated chemical substance may provide to the Administrator information that—
+    >         - **(I)** relates to the chemical substances manufactured or processed by the applicable manufacturer or processor;
+    >         - **(II)** is in the possession of, or known to, the manufacturer, processor, trade association, or consortium; and
+    >         - **(III)** is not already available to the Administrator.
+    >       - **(ii)** *Requirement* If a manufacturer, processor, trade association, or consortium elects to provide information to the Administrator under clause (i), the manufacturer, processor, trade association, or consortium shall provide all relevant information in the possession of, or known to, the manufacturer, processor, trade association, or consortium for each chemical substance designated by the Administrator that is manufactured or processed by the applicable manufacturer or processor.
+    >       - **(iii)** *Method of submission* Information described in this subparagraph may be submitted to the Administrator by—
+    >         - **(I)** a manufacturer or processor—
+    >           - **(aa)** on an individual basis; or
+    >           - **(bb)** through a trade association or voluntary consortium; and
+    >         - **(II)** a trade association or voluntary consortium that has developed relevant information on behalf of the manufacturers or processors of designated chemical substances represented by the trade association or voluntary consortium.
+    >   - **(3)** *Categorization of chemical substances*
+    >     - **(A)** *Timing*
+    >       - **(i)** *Initial batch* Not later than 180 days after the date of promulgation of regulations pursuant to paragraph (1), the Administrator shall publish, subject to section 14, the category assignments for the initial batch of chemical substances identified under subsection (a)(3), using the categories described in subparagraph (B).
+    >       - **(ii)** *Subsequent batches* Not later than 180 days after the date on which the Administrator designates each subsequent batch of chemical substances under subsection (a)(2)(A), the Administrator shall publish the category assignments for the chemical substances in the batch.
+    >     - **(B)** *Categories* The regulation promulgated pursuant to paragraph (1) shall incorporate, establish criteria for, and further specify as needed, the following categories into which chemical substances in each batch shall be placed:
+    >       - **(i)** *Substances of very high concern*
+    >         - **(I)** *In general* The Administrator shall designate as substances of very high concern those chemical substances—
+    >           - **(aa)** for which there is evidence of widespread exposure and that—
+    >             - **(AA)** are toxic, persist in the environment, and are bioaccumulative; or
+    >             - **(BB)** are highly hazardous;
+    >           - **(bb)** that are subject to regulation under section 6 or 7 of this Act (as in effect on the day before the date of enactment of the Safe Chemicals Act of 2011); or
+    >           - **(cc)** that are subject to a voluntary phase-out, administered by the Administrator, that has been completed or is underway at the time the category designation is made.
+    >         - **(II)** *Information set* A minimum information set, as specified under section 4, need not be submitted or otherwise available for a chemical substance to be designated a substance of very high concern under this clause.
+    >       - **(ii)** *Substances of very low concern*
+    >         - **(I)** *In general* The Administrator shall designate as substances of very low concern those chemical substances that, based on robust information, the Administrator determines possess intrinsic low-hazard properties such that no further action by the Administrator is warranted, unless the Administrator receives new information that warrants a different categorization of the chemical substance.
+    >         - **(II)** *Factors for consideration* In designating chemical substances to be placed in the very low concern category under this clause, the Administrator shall—
+    >           - **(aa)** take into consideration whether chemical substances in commerce have received, as of the date of enactment of the Safe Chemicals Act of 2011, exemptions under section 5 of this Act (as in effect on the day before the date of enactment of the Safe Chemicals Act of 2011) based on anticipated low intrinsic hazard; and
+    >           - **(bb)** in general, base the designation on a minimum information set as required under section 4, unless the Administrator determines that such designation of a particular chemical substance—
+    >             - **(AA)** can be made to a high degree of confidence based on less information; or
+    >             - **(BB)** requires information in addition to the full minimum information set to address conflicting or ambiguous findings, in which case the Administrator may require the development and submission of the additional information.
+    >       - **(iii)** *Substances to undergo safety standard determinations* The Administrator shall designate as substances to undergo safety standard determinations those chemical substances that the Administrator determines—
+    >         - **(I)** based on a screening of available use, hazard, and exposure information, do not meet the criteria for the categories described in clauses (i) and (ii); and
+    >         - **(II)** are the subject of available information that is sufficiently robust to inform prioritization decisions to be made for the chemical substances under paragraph (4).
+    >       - **(iv)** *Substances with insufficient information*
+    >         - **(I)** *In general* The Administrator shall designate as substances with insufficient information those chemical substances for which the Administrator determines, after gathering and screening available use, hazard, and exposure information, that information is not available, is insufficient, or is not of sufficient quality and reliability to allow for an informed categorization decision.
+    >         - **(II)** *Minimum information set*
+    >           - **(aa)** *In general* For chemical substances designated under this clause, the Administrator shall require submission of the applicable minimum information set specified under section 4 as needed to inform categorization decisionmaking.
+    >           - **(bb)** *Timing* The minimum information set shall be submitted to the Administrator—
+    >             - **(AA)** not later than 5 years after the date of enactment of the Safe Chemicals Act of 2011 for the initial batch of chemical substances identified under subsection (a)(3); and
+    >             - **(BB)** not later than 5 years after the assignment of a chemical substance to the category under this clause for subsequent batches.
+    >         - **(III)** *Recategorization*
+    >           - **(aa)** *In general* After submission of the minimum information set for a chemical substance pursuant to subclause (I), the Administrator shall recategorize the chemical substance using the categories and process described in this paragraph.
+    >           - **(bb)** *Discretion of Administrator* The Administrator, taking into account the timing of the submission and workload considerations, may—
+    >             - **(AA)** add a chemical substance to a current batch; or
+    >             - **(BB)** hold the chemical substance until the next batch of chemical substances for recategorization.
+    >   - **(4)** *Prioritization of chemical substances*
+    >     - **(A)** *Timing*
+    >       - **(i)** *Initial batch* Not later than 270 days after the date of promulgation of regulations pursuant to paragraph (1), the Administrator shall publish, subject to section 14, the priority class assignments, using the priority classes described in subparagraph (B), for the chemical substances in the initial batch of chemical substances identified under subsection (a)(3) that the Administrator has assigned to the category of chemical substances to undergo safety standard determinations.
+    >       - **(ii)** *Subsequent batches* Not later than 270 days after the date on which the Administrator designates each subsequent batch of chemical substances under subsection (a)(2)(A), the Administrator shall publish the priority class assignments for the chemical substances in the batch that the Administrator has assigned to the category of chemical substances to undergo safety standard determinations.
+    >     - **(B)** *Criteria* The criteria used by the Administrator to assign chemical substances to priority classes shall take into account—
+    >       - **(i)** potential impacts of the chemical substance on human health and the environment;
+    >       - **(ii)** the hazard potential of the chemical substance, including classifications and designations of hazard characteristics by other authoritative entities;
+    >       - **(iii)** the potential for exposure to the chemical substance; and
+    >       - **(iv)** measurements of exposure for a given pathway of exposure, if available and reliable, in preference to less direct indicators of, or surrogates for, exposure potential for the same pathway.
+    >     - **(C)** *Priority classes* The regulations promulgated pursuant to paragraph (1) shall establish the following priority classes and criteria, and further specify the process the Administrator will use to assign to the priority classes the chemical substances in each batch that the Administrator has assigned to the category of chemical substances to undergo safety standard determinations:
+    >       - **(i)** *Priority Class 1*
+    >         - **(I)** *In general* In each batch, the Administrator shall designate as Priority Class 1 those chemical substances that the Administrator determines warrant safety standard determinations in the near term.
+    >         - **(II)** *Initial assignment* The Administrator shall in each batch initially designate as Priority Class 1 chemical substances that possess relatively greater hazard potential and for which there is evidence of more significant or widespread exposure.
+    >         - **(III)** *Reassignment* As safety standard determinations for the chemical substance are completed, the Administrator may designate as Priority Class 1 any chemical substance initially assigned to a lower priority class, including chemical substances—
+    >           - **(aa)** posing significant hazard concerns but of less or unknown exposure concern;
+    >           - **(bb)** posing significant exposure concern but of less or unknown hazard concern; or
+    >           - **(cc)** posing less hazard and exposure concerns.
+    >         - **(IV)** *Factors for consideration* In determining the number of chemical substances to be placed in Priority Class 1, the Administrator shall seek to balance considerations relating to—
+    >           - **(aa)** the number of chemical substances for which safety standard determinations need to be conducted;
+    >           - **(bb)** the resources available to the Administrator for conducting safety standard determinations; and
+    >           - **(cc)** the deadlines for completion of safety standard determinations specified in subsection (d)(4).
+    >       - **(ii)** *Priority Class 2*
+    >         - **(I)** *In general* The Administrator shall designate as Priority Class 2 those chemical substances that the Administrator determines are of lower priority than Priority Class 1 substances with respect to the timing for conducting safety standard determinations.
+    >         - **(II)** *Minimum information set*
+    >           - **(aa)** *In general* For chemical substances designated under this clause, the Administrator shall require submission of the applicable minimum information set specified under section 4 as needed to inform prioritization decisionmaking.
+    >           - **(bb)** *Timing* The minimum information set shall be submitted to the Administrator—
+    >             - **(AA)** not later than 5 years after the date of enactment of the Safe Chemicals Act of 2011 for chemical substances in the initial batch identified under subsection (a)(3) that are assigned to Priority Class 2; and
+    >             - **(BB)** not later than 5 years after the assignment of a chemical substance to Priority Class 2 under this clause for subsequent batches.
+    >         - **(III)** *Reprioritization* After submission of the minimum information set for a chemical substance under subclause (II), the Administrator shall, if warranted, recategorize or otherwise reprioritize the chemical substance using the priority classes and process described in this paragraph, together with other chemical substances in the batch undergoing prioritization at the time of the submission.
+    >         - **(IV)** *Reprioritization to Priority Class 1* As safety standard determinations are completed on Priority Class 1 chemical substances pursuant to subsection (d), the Administrator shall reprioritize Priority Class 2 substances as Priority Class 1 at a pace consistent with—
+    >           - **(aa)** the resources available to the Administrator for conducting safety standard determinations; and
+    >           - **(bb)** the deadlines for completion of safety standard determinations specified in subsection (d)(4).
+    >       - **(iii)** *Priority Class 3*
+    >         - **(I)** *In general* The Administrator shall designate as Priority Class 3 those chemical substances that the Administrator determines may be set aside for further assessment until such time as—
+    >           - **(aa)** safety standard determinations are completed on all Priority Class 1 and 2 substances; or
+    >           - **(bb)** new information arises that warrants reprioritization of such a substance to a higher priority class.
+    >         - **(II)** *Minimum information set*
+    >           - **(aa)** *In general* For a chemical substance designated under this clause, the Administrator shall not require submission of the applicable minimum information set specified under section 4 until such time as the chemical substance is reassigned to Priority Class 1 or 2.
+    >           - **(bb)** *Submission* On reassignment of a chemical substance to Priority Class 1 or 2 under item (aa), the minimum information set shall be submitted to the Administrator not later than 5 years after the date of the reassignment.
+    >         - **(III)** *Reprioritization* After submission of the minimum information set for a chemical substance pursuant to subclause (II), the Administrator shall reprioritize the chemical substance using the priority classes and process described in this paragraph, together with chemical substances in the batch undergoing prioritization at the time of the submission.
+    >         - **(IV)** *Reprioritization to Priority Classes 1 and 2* In conjunction with the reprioritization by the Administrator of Priority Class 2 substances as Priority Class 1, the Administrator shall reprioritize Priority Class 3 substances as Priority Class 1 or 2, at a pace consistent with—
+    >           - **(aa)** the resources available to the Administrator for conducting safety standard determinations; and
+    >           - **(bb)** the deadlines for completion of safety standard determinations specified in subsection (d)(4).
+    > - **(c)** *Treatment as final agency action; no judicial review; nondiscretionary duty*
+    >   - **(1)** *In general* The designation by the Administrator of batches of chemical substances pursuant to subsection (a), the assignment of chemical substances to categories pursuant to subsection (b)(3), and the assignment of chemical substances to priority classes pursuant to subsection (b)(4), including any determination of the Administrator to include a specific chemical substance in, or exclude a specific chemical substance from, a designated batch, category, or priority class under this section, shall not be—
+    >     - **(A)** considered to be a final agency action for the purpose of subchapter II of chapter 5, and chapter 7, of title 5, United States Code (commonly known as “the Administrative Procedure Act”); or
+    >     - **(B)** subject to judicial review.
+    >   - **(2)** *Failure to act* A failure by the Administrator to designate or publish a list of chemical substances assigned to a batch, category, or priority class in accordance with this subsection shall be—
+    >     - **(A)** considered to be a failure to perform a nondiscretionary duty; and
+    >     - **(B)** subject to judicial review.
+    > - **(d)** *Safety standard determinations for chemical substances*
+    >   - **(1)** *In general*
+    >     - **(A)** *Application* This paragraph applies to any determination or redetermination regarding whether a chemical substance meets the safety standards of this Act.
+    >     - **(B)** *Responsibilities*
+    >       - **(i)** *In general* For purposes of this Act, each manufacturer and processor of a chemical substance shall at all times bear the burden of proof in any legal proceeding relating to a decision of the Administrator regarding whether the chemical substance meets the safety standard.
+    >       - **(ii)** *Duties* For purposes of this Act—
+    >         - **(I)** it shall be the duty of the manufacturer or processor of a chemical substance to provide sufficient information for the Administrator to determine whether the chemical substance meets the safety standard; and
+    >         - **(II)** it shall be the duty of the Administrator to determine whether a chemical substance meets the safety standard.
+    >   - **(2)** *Assessment of risk*
+    >     - **(A)** *Assessment*
+    >       - **(i)** *In general* A chemical substance that undergoes a safety standard determination under this section may be manufactured, processed, or distributed in commerce only if the Administrator determines that the chemical substance—
+    >         - **(I)** meets the safety standard, taking into account any existing conditions or controls already in effect; or
+    >         - **(II)** can meet the safety standard for all or some uses through the imposition of additional conditions.
+    >       - **(ii)** *Requirement* Any assessment of risk used to support a determination that a chemical substance meets the safety standard under clause (i) shall be conducted by employees of the Environmental Protection Agency who are competent to conduct such assessments.
+    >     - **(B)** *Safety standard*
+    >       - **(i)** *In general* The Administrator shall base a determination of whether a safety standard for a chemical substance has been met under subparagraph (A) solely on considerations of human health and the environment, including the health of vulnerable populations.
+    >       - **(ii)** *Considerations* In making a safety standard determination under this subsection, for each chemical substance, the Administrator shall—
+    >         - **(I)** to the extent practicable, review and incorporate any available scientific information relating to the effect of cumulative exposure relevant to that chemical substance on human health and the environment; and
+    >         - **(II)** find that a chemical substance meets the safety standard only if the Administrator finds that there is a reasonable certainty that no harm will result to human health or the environment from aggregate exposure to the chemical substance.
+    >     - **(C)** *Financial interests* No person conducting an assessment described in subparagraph (A), or a peer review of such an assessment, may have a direct or indirect financial interest in the outcome of the assessment.
+    >     - **(D)** *Methodology*
+    >       - **(i)** *In general* Subject to clause (ii), the Administrator shall use the best available science when conducting an assessment described in subparagraph (A).
+    >       - **(ii)** *Considerations* For the purpose of determining the current best available science the Administrator shall base the determination on the recommendations of the National Academy of Sciences in the report entitled “Science and Decisions”.
+    >       - **(iii)** *Review* Not later than 5 years after the date of enactment of the Safe Chemicals Act of 2011, and not less frequently than once every 5 years thereafter, the Administrator shall review the methodology under this paragraph and may revise the methodology to reflect new scientific developments or understandings.
+    >     - **(E)** *Scope* An assessment described in subparagraph (A) shall address health or environmental impacts including potential or demonstrated cancer and noncancer endpoints.
+    >     - **(F)** *Transparency* In carrying out this subsection, the Administrator shall ensure that the approaches and resulting assessments are communicated in a manner that is transparent and understandable to—
+    >       - **(i)** the public; and
+    >       - **(ii)** risk managers.
+    >     - **(G)** *Manufacture or processing for export* In the case of a chemical substance that is manufactured or processed in whole or in part for export, in determining whether the chemical substance meets the safety standard under subparagraph (A)(i), the Administrator shall take into account any risk—
+    >       - **(i)** that the chemical substance may pose in the United States, including risks involving long-range transport of the chemical substance in the environment; or
+    >       - **(ii)** involving the import of articles and mixtures containing the chemical substance.
+    >     - **(H)** *Risk assessment not required* The Administrator shall not be required to conduct a risk assessment to determine that a manufacturer or processor has not met the burden of proof under paragraph (1)(B).
+    >     - **(I)** *No judicial review* A determination by the Administrator that a manufacturer or processor has not established that the chemical substance meets the applicable safety standard under this subsection shall not be subject to judicial review.
+    >   - **(3)** *Information for safety standard determinations*
+    >     - **(A)** *In general* In making a safety standard determination with respect to a chemical substance, the Administrator—
+    >       - **(i)** shall take into consideration information regarding the chemical substance that is already available to the Administrator at the time the determination is to be made, including information—
+    >         - **(I)** received by the Administrator from manufacturers or processors under this section or section 8;
+    >         - **(II)** contained in any minimum information sets previously required under section 4;
+    >         - **(III)** voluntarily submitted by manufacturers and processors in accordance with subsection (b)(2)(B);
+    >         - **(IV)** submitted by any other party to the Administrator that is relevant to the conduct of a safety standard determination of the chemical substance; or
+    >         - **(V)** identified through an active search by the Administrator of information sources that are publicly available or otherwise accessible to the Administrator;
+    >       - **(ii)** shall require information needed to complete the applicable minimum information set for the chemical substance required under section 4(a);
+    >       - **(iii)** may require, by regulation or order pursuant to section 4(b) or 8(e), manufacturers or processors of the chemical substance to develop and submit any additional information the Administrator determines is needed to conduct the safety standard determination of the chemical substance; and
+    >       - **(iv)** shall take into consideration, but not rely on, assessments of safety or analyses of the effectiveness of existing control measures—
+    >         - **(I)** submitted to the Administrator by any party; or
+    >         - **(II)** conducted by a governmental entity in another jurisdiction.
+    >   - **(4)** *Timing of safety standard determinations*
+    >     - **(A)** *Priority Class 1*
+    >       - **(i)** *In general* Beginning with chemical substances initially designated as Priority Class 1 under subsection (b)(4)(C)(i), the Administrator shall conduct safety standard determinations of all chemical substances assigned to the category of substances to undergo safety standard determinations pursuant to subsection (b)(3)(B)(iii).
+    >       - **(ii)** *Initial batch* Not later than 5 years after the date of enactment of the Safe Chemicals Act of 2011, the Administrator shall complete and publish safety standard determinations for all chemical substances designated as Priority Class 1 substances in the initial batch of chemical substances identified under subsection (a)(3).
+    >       - **(iii)** *Subsequent batches* Not later than 5 years after the date on which the Administrator designates chemical substances as Priority Class 1 in each subsequent batch of chemical substances under subsection (a)(2)(A), the Administrator shall complete and publish safety standard determinations for those Priority Class 1 substances in the batch.
+    >     - **(B)** *Priority Classes 2 and 3*
+    >       - **(i)** *In general* Each chemical substance initially designated as Priority Class 2 or 3 shall become subject to reprioritization and safety standard determinations in accordance with subsection (b)(4).
+    >       - **(ii)** *Reprioritization* Not later than 5 years after the date on which the Administrator designates a Priority Class 2 or 3 substance to be Priority Class 1, the Administrator shall complete and publish the safety standard determination on the chemical substance.
+    >     - **(C)** *Notice of overdue determination* If the Administrator fails to act by an applicable deadline under subparagraph (A) or (B), each manufacturer and processor of a chemical substance for which the Administrator has failed to act shall provide to the Administrator, the public, employees and recognized bargaining agents of any employees who are represented by bargaining agents of the manufacturer or processor, and each known customer who has purchased the chemical substance within a reasonable timeframe, as determined by the Administrator by regulation or order, a written notice that a determination by the Administrator of the safety of the chemical substance is pending.
+    >     - **(D)** *Failure of manufacturer or processor to meet duties* If a manufacturer or processor fails to meet any duty under this paragraph for a chemical substance, the Administrator, by order, may take any action authorized under subsection (f).
+    >   - **(5)** *Outcome of safety standard determinations*
+    >     - **(A)** *Determination*
+    >       - **(i)** *In general* In making a safety standard determination for a chemical substance, the Administrator, by order, shall determine or redetermine, as appropriate, whether the manufacturers and processors of the chemical substance have established that the chemical substance meets the safety standard.
+    >       - **(ii)** *Concurrent publication* The Administrator—
+    >         - **(I)** shall seek to publish safety standard determination and risk management decisions concurrently, to the maximum extent practicable; but
+    >         - **(II)** shall not unduly delay the issuance of any safety standard determination if more information or analysis is required to make a determination regarding risk management.
+    >       - **(iii)** *Other requirements* The Administrator—
+    >         - **(I)** may publish safety standard determinations for chemical substances individually or in groups; but
+    >         - **(II)** shall publish completed determinations—
+    >           - **(aa)** not less frequently than annually; and
+    >           - **(bb)** at a pace sufficient to demonstrate steady progress toward completing all such safety standard determinations within the required timeframe.
+    >       - **(iv)** *Public notice and comment* The Administrator shall provide reasonable public notice and opportunity for comment on all published safety standard determinations through any reasonable means of publication and solicitation of comments, including electronic means.
+    >     - **(B)** *Positive safety standard determination without new conditions* If the Administrator determines that a chemical substance meets the safety standard for all current uses and under conditions currently used, the Administrator shall specify in the order—
+    >       - **(i)** the allowed uses of the chemical substance, which shall be limited to the uses evaluated in the determination; and
+    >       - **(ii)** conditions on the specified uses that are currently used and are to be followed to ensure the safety standard is met, including conditions relating to the manufacture, processing, use, distribution in commerce, or disposal of a chemical substance or mixture or article containing the chemical substance.
+    >     - **(C)** *Positive safety standard determination with new conditions* If the Administrator determines that a chemical substance can only meet the safety standard for a subset of all current uses or only under conditions beyond those currently used, the Administrator shall specify in the order—
+    >       - **(i)** the allowed uses of the chemical substance, which shall be limited to the uses evaluated in the determination that the Administrator determines meet the safety standard; and
+    >       - **(ii)** all current and all newly required conditions on the specified uses needed to ensure the safety standard is met, including conditions relating to the manufacture, processing, use, distribution in commerce, or disposal of a chemical substance or mixture or article containing the chemical substance, and any conditions described in subsection (f).
+    >     - **(D)** *Effective date for positive safety standard determination*
+    >       - **(i)** *Without new conditions* Effective beginning on the date that is 90 days after the date of a determination by the Administrator under subparagraph (B), no person shall manufacture, process, or distribute in commerce the chemical substance subject to the determination, or any mixture or article containing the chemical substance, for any use or under any condition other than those specified in the determination order.
+    >       - **(ii)** *With new conditions* Effective beginning on the date that is 18 months after the date of a determination by the Administrator under subparagraph (C), except as provided in clause (iii), no person shall manufacture, process, or distribute in commerce the chemical substance subject to the determination, or any mixture or article containing the chemical substance, for any use or under any condition other than those specified in the determination order.
+    >       - **(iii)** *Exceptional circumstance* The Administrator may grant a manufacturer or processor of a chemical substance a 1-time extension of the deadline for complying with a restriction under clause (ii), for a period of not longer than 5 years after the date of the determination by the Administrator under subparagraph (C), if the manufacturer or processor demonstrates—
+    >         - **(I)** a compelling technological need to continue a restricted activity beyond the applicable 18-month time period; or
+    >         - **(II)** that a factor wholly beyond the control of the manufacturer or processor prevents compliance with the restriction within that 18-month time period.
+    >     - **(E)** *Redetermination*
+    >       - **(i)** *In general* The Administrator shall initiate a redetermination of whether a chemical substance meets the safety standard if new information or significant changes in manufacture, processing, use, or distribution in commerce of the chemical substance, or mixtures or articles containing the chemical substance, raise a credible question as to whether the chemical substance continues to meet the safety standard.
+    >       - **(ii)** *New methodologies* The Administrator may initiate a redetermination of whether a chemical substance meets the safety standard if significant changes have occurred in the methodologies used in the initial safety standard determination such that a redetermination using the newer methodologies would provide a significantly improved determination of the safety of the chemical substance.
+    >       - **(iii)** *New information* For a chemical substance for which a safety standard determination has been completed, the Administrator shall assess, on an ongoing basis, new information, including that obtained from reporting under section 8, to decide whether such information raises a credible question as to whether a chemical substance continues to meet the safety standard
+    >       - **(iv)** *Petition for redetermination*
+    >         - **(I)** *In general* Any person may petition the Administrator for a redetermination of whether a chemical substance continues to meet the safety standard.
+    >         - **(II)** *Basis* A person shall include in a petition under this clause a description of the basis for requesting the redetermination.
+    >         - **(III)** *Action by Administrator* On receipt of a petition under this clause, the Administrator shall—
+    >           - **(aa)** not later than 30 days after the date of receipt, publish in the Federal Register a notice of receipt of the petition that specifies the chemical identity of the chemical substance to which the petition pertains;
+    >           - **(bb)** make the petition available on request;
+    >           - **(cc)** provide a reasonable opportunity for public review and comment on the petition and give due consideration to any comments received;
+    >           - **(dd)** decide whether to make the requested redetermination; and
+    >           - **(ee)** not later than 180 days after the date of receipt, publish in the Federal Register the decision and the basis for the decision.
+    >       - **(v)** *Deadline for completion* Each redetermination carried out under this subparagraph shall be completed by not later than 3 years after the date of the decision to make the redetermination.
+    >     - **(F)** *Negative safety standard determination*
+    >       - **(i)** *Restriction* Except as provided in clause (ii) and subsection (h), effective beginning on the date that is 18 months after the date on which the Administrator makes a determination under this subsection that a chemical substance fails to meet the safety standard, regardless of whether additional restrictions on use or risk management conditions are imposed, no person shall manufacture, process, or distribute in commerce that chemical substance or any mixture or article containing the chemical substance.
+    >       - **(ii)** *Exceptional circumstance* The Administrator may grant a manufacturer or processor of a chemical substance a 1-time extension of the deadline for complying with the restriction under clause (i), for a period of not longer than 5 years after the date of the determination by the Administrator under this subparagraph, if the manufacturer or processor demonstrates—
+    >         - **(I)** a compelling technological need to continue a restricted activity beyond the applicable 18-month time period; or
+    >         - **(II)** that a factor wholly beyond the control of the manufacturer or processor prevents compliance with the restriction within that 18-month time period.
+    > - **(e)** *Expedited action for substances of very high concern*
+    >   - **(1)** *Use and exposure assessment*
+    >     - **(A)** *In general* Not later than 180 days after the date on which a chemical substance is assigned to the category of substances of very high concern under subsection (b)(3)(B)(i), the Administrator may require, by order pursuant to section 8(g), the submission by manufacturers or processors of the chemical substance of any additional information the Administrator determines to be necessary to conduct an expedited assessment of the known uses of, and exposures to, the chemical substance.
+    >     - **(B)** *Publication* Not later than 1 year after the date on which a chemical substance is assigned to the category of substances of very high concern under subsection (b)(3)(B)(i), the Administrator shall complete and publish an identification and assessment of the known uses of, and exposures to, the chemical substance.
+    >   - **(2)** *Exposure reduction*
+    >     - **(A)** *Use restrictions and other conditions* As soon as practicable, but not later than 18 months, after the date on which a chemical substance is assigned to the category of substances of very high concern under subsection (b)(3)(B)(i), the Administrator shall impose, by order, use restrictions and other conditions, including the conditions specified in subsection (f), on the manufacturing, processing, use, distribution in commerce, and disposal of the chemical substance that the Administrator determines to be necessary to achieve the maximum practicable reduction in human or environmental exposure to the chemical substance.
+    >     - **(B)** *Timing* Except as provided in subparagraph (C) and subsection (h), effective beginning on the date that is 18 months after the date of issuance by the Administrator of the order described in subparagraph (A), no person shall manufacture, process, or distribute in commerce the chemical substance subject to the determination, or any mixture or article containing the chemical substance, for any use or under any condition other than those specified in the order issued under subparagraph (A).
+    >     - **(C)** *Exceptional circumstance* The Administrator may grant a manufacturer or processor of a chemical substance a 1-time extension of the deadline for complying with the restriction under subparagraph (B), for a period of not longer than 5 years after the date of the determination by the Administrator under this paragraph, if the manufacturer or processor demonstrates—
+    >       - **(i)** a compelling technological need to continue a restricted activity beyond the applicable 18-month time period; or
+    >       - **(ii)** that a factor wholly beyond the control of the manufacturer or processor prevents compliance with the restriction within that 18-month time period.
+    >   - **(3)** *Residual risk assessment* Not later than 1 year after the deadline specified in paragraph (2)(B), or of an alternative deadline provided under paragraph (2)(C), the Administrator shall—
+    >     - **(A)** determine whether the chemical substance meets the safety standard for the chemical substance, taking into account the residual risk posed by continued exposure to the chemical substance; and
+    >     - **(B)** impose any additional restrictions on use or other conditions under subsection (f) that the Administrator determines to be necessary to ensure that the chemical substance meets the safety standard.
+    > - **(f)** *Risk management* In issuing an order under subsection (d) or (e), the Administrator may impose conditions on the manufacture, processing, use, distribution in commerce, or disposal of a chemical substance, or mixture or article containing a chemical substance, including a requirement—
+    >   - **(1)** limiting the quantity of the chemical substance (or mixture or article containing that chemical substance) that may be manufactured, processed, or distributed in commerce;
+    >   - **(2)**
+    >     - **(A)** prohibiting the manufacturing, processing, or distribution in commerce of the chemical substance (or mixture or article containing that chemical substance) for a particular use in a concentration in excess of a level specified by the Administrator; or
+    >     - **(B)** limiting the quantity of the chemical substance (or mixture or article containing that chemical substance) that may be manufactured, processed, or distributed in commerce for—
+    >       - **(i)** a particular use; or
+    >       - **(ii)** a particular use in a concentration in excess of a level specified by the Administrator;
+    >   - **(3)** that the chemical substance (or mixture, or article containing that chemical substance) be marked with, or accompanied by, clear and adequate warnings and instructions with respect to use, distribution in commerce, or disposal, or any combination of such activities, with the form and content of the warnings and instructions prescribed by the Administrator;
+    >   - **(4)** that manufacturers and processors of the chemical substance (or mixture or article containing that chemical substance)—
+    >     - **(A)** make and retain records of the processes used to manufacture or process the chemical substance (or mixture or article containing that chemical substance); and
+    >     - **(B)** monitor or conduct tests that are reasonable and necessary to ensure compliance with this Act;
+    >   - **(5)** prohibiting or otherwise regulating any manner or method of commercial use of the chemical substance (or mixture or article containing that chemical substance);
+    >   - **(6)** prohibiting or otherwise regulating any manner or method of disposal of the chemical substance, mixture, or article, by—
+    >     - **(A)** the manufacturer or processor of the chemical substance (or mixture or article containing that chemical substance); or
+    >     - **(B)** any other person that uses or disposes of the chemical substance (or mixture or article containing that chemical substance) for commercial purposes;
+    >   - **(7)** that the manufacturers and processors of the chemical substance, mixture, or article develop a risk reduction management plan, under subsection (h) or (e) of this section, to achieve a risk reduction specified by the Administrator; or
+    >   - **(8)** that the Administrator otherwise determines is appropriate.
+    > - **(g)** *Quality control orders*
+    >   - **(1)** *In general* If the Administrator has a reasonable basis to conclude that a particular manufacturer or processor is manufacturing or processing a chemical substance in a manner that may present a substantial endangerment to health or the environment, the Administrator may require, by order, that the manufacturer or processor submit to the Administrator a description of the quality control procedures followed in the manufacturing or processing of the chemical substance or mixture.
+    >   - **(2)** *Orders*
+    >     - **(A)** *In general* If the Administrator determines that quality control procedures described in paragraph (1) are inadequate to prevent a chemical substance from presenting a risk of injury to human health or the environment, the Administrator may order the manufacturer or processor to revise the quality control procedures to the extent necessary to remedy the inadequacy.
+    >     - **(B)** *Substantial endangerment* If the Administrator determines that quality control procedures described in paragraph (1) have resulted in the distribution in commerce of a chemical substance that may present a substantial endangerment to human health or the environment, the Administrator may order the manufacturer or processor—
+    >       - **(i)** to give notice of the endangerment to—
+    >         - **(I)** processors or distributors (or both) in commerce of the chemical substance or mixture; and
+    >         - **(II)** to the extent reasonably ascertainable, any other person in possession of or exposed to the chemical substance or mixture;
+    >       - **(ii)** to give public notice of the endangerment; and
+    >       - **(iii)** to provide for the replacement or repurchase, as prescribed by the Administrator, of the chemical substance as the Administrator determines to be necessary to adequately protect human health or the environment.
+    > - **(h)** *Exemptions to restrictions*
+    >   - **(1)** *Application* This subsection applies to the restrictions established under section 5(b)(1)(C)(ii)(I), subsection (d)(5), and subsection (e).
+    >   - **(2)** *Exemptions*
+    >     - **(A)** *In general*
+    >       - **(i)** *Request* A person who manufacturers, processes, distributes in commerce, uses, or disposes of a chemical substance, or a mixture or article containing a chemical substance may request an exemption from any restriction referred to in paragraph (1) to which they are subject for a specified use of the chemical substance.
+    >       - **(ii)** *Order* The Administrator may grant, by order, an exemption from any restriction referred to in paragraph (1) for a period of not longer than 5 years if the person has established by clear and convincing evidence that the uses to be exempted meet the exemption criteria described in subparagraph (B).
+    >     - **(B)** *Criteria* The Administrator may grant an exemption for the use of a chemical substance under subparagraph (A)(ii) if—
+    >       - **(i)** the exemption is in the paramount interest of national security;
+    >       - **(ii)** the lack of availability of the chemical substance would cause significant disruption in the national economy; or
+    >       - **(iii)** the use for which the exemption is sought is a critical or essential use for which—
+    >         - **(I)** no feasible safer alternative for the specified use of the chemical substance is available; or
+    >         - **(II)** the specified use of the chemical substance, as compared to all available alternatives, provides a substantial net benefit to human health, the environment, or public safety.
+    >     - **(C)** *Public notice* If the Administrator grants an exemption for a chemical substance under this paragraph—
+    >       - **(i)** the manufacturer or processor of the chemical substance shall provide a notice of the exemption to each known purchaser of—
+    >         - **(I)** the chemical substance; and
+    >         - **(II)** a mixture or article containing the chemical substance; and
+    >       - **(ii)** the Administrator shall provide the public with a notice of the exemption.
+    >     - **(D)** *Renewal* The Administrator may renew, by order, an exemption under this paragraph for 1 or more additional 5-year periods if the Administrator concludes, after providing public notice and an opportunity for comment, that the use of the chemical substance continues to meet the criteria described in subparagraph (B).
+    >     - **(E)** *Conditions*
+    >       - **(i)** *In general* The Administrator may impose, by order, any condition on an exemption issued under this paragraph that the Administrator determines to be necessary to ensure the protection of human health and the environment on the use of a chemical substance exempted under this paragraph.
+    >       - **(ii)** *Compliance* Effective immediately after the Administrator establishes conditions on an exempted use under clause (i), the manufacturing, processing, or distribution in commerce of the chemical substance, or any mixture or article containing the chemical substance, shall be prohibited except to the extent that the conditions are satisfied.
+    >   - **(3)** *Resale of used articles*
+    >     - **(A)** *In general* The restrictions referred to in paragraph (1) shall not apply to the resale of an article subject to a restriction under subsection (b) if the article has previously been used by an end consumer.
+    >     - **(B)** *Compliance* The Administrator may utilize the authorities contained in section 7 to address potential threats to public health and the environment from such articles.
+    >   - **(4)** *Extensions of effective dates for retail sale of articles to end consumers*
+    >     - **(A)** *In general* Except as provided in subparagraph (B), in the case of the retail sale to an end consumer of a chemical substance (or mixture or article containing that chemical substance) that is subject to a restriction described in paragraph (1), the Administrator may extend, by order, the effective date of the restriction by a period of not longer than 3 years, if the Administrator determines that the extension—
+    >       - **(i)** is necessary and appropriate to allow for depletion of the existing retail inventory; and
+    >       - **(ii)** will not present a substantial endangerment to human health or the environment.
+    >     - **(B)** *Exception* An extension under subparagraph (A) shall not apply to any retailer that the Administrator determines has failed to comply with an order requesting information issued by the Administrator pursuant to section 8.
+
 ## § 8. Imminent hazards
 
 Section 7 of the Toxic Substances Control Act (15 U.S.C. 2606) is amended to read as follows:
@@ -736,6 +1378,186 @@ Section 8 of the Toxic Substances Control Act (15 U.S.C. 2607) is amended to rea
 >   - **(1)** is accurate and reliable; and
 >   - **(2)** includes all material facts known to, in the possession or control of, or reasonably ascertainable by the manufacturer or processor.”
 > - **(i)** *Definition of manufacture and process* In this section, the terms manufacture and process mean manufacture and process, respectively, for commercial purposes.
+
+## § 9. Reporting and retention of information
+
+Section 8 of the Toxic Substances Control Act (15 U.S.C. 2607) is amended to read as follows:
+
+> ## § 8. Reporting and retention of information
+>
+> - **(a)** *Definitions* In this section:
+>   - **(1)** *Known to, or reasonably ascertainable by* The term known to, or reasonably ascertainable by has the meaning given the term in section 704.3 of title 40, Code of Federal Regulations (or successor regulations).
+>   - **(2)** *Manufacture and process* The terms manufacture and process mean manufacture and process, respectively, for commercial purposes.
+> - **(b)** *Declarations of chemical substances in commerce*
+>   - **(1)** *Scope and criteria*
+>     - **(A)** *Scope* The declarations described in this subsection shall apply only to chemical substances in commerce as of the date of enactment of the Safe Chemicals Act of 2011.
+>     - **(B)** *Criteria* The following criteria shall apply in identifying chemical substances to which the declarations described in this subsection apply:
+>       - **(i)** *Current commercial interest* A chemical substance in which a manufacturer or processor has a current commercial interest shall include only chemical substances that the manufacturer or processor—
+>         - **(I)** is currently manufacturing or processing; or
+>         - **(II)** has manufactured or processed in the recent past and expects to manufacture or process again in the near future.
+>       - **(ii)** *Potential commercial interest* A chemical substance in which a manufacturer or processor has a potential commercial interest shall include only a chemical substance that may serve as a reasonable substitute for a chemical substance in which the manufacturer or processor has declared a current commercial interest.
+>     - **(C)** *Guidance* Not later than 90 days after the date of enactment of the Safe Chemicals Act of 2011, the Administrator shall issue guidance further describing the criteria described in subparagraph (B) and specifying the supporting information manufacturers and processors are to include in declarations they submit pursuant to paragraph (2) or (3) for chemical substances in which they have a current or potential commercial interest.
+>   - **(2)** *Declaration of current commercial interest in a chemical substance*
+>     - **(A)** *In general* Notwithstanding any other provision of law, not later than 180 days after the date of enactment of the Safe Chemicals Act of 2011, each manufacturer of a chemical substance in which the manufacturer has a current commercial interest shall submit to the Administrator a declaration of the interest for the chemical substance.
+>     - **(B)** *Exclusions or exemptions* Declarations are required for all chemical substances in which a manufacturer has a current commercial interest, notwithstanding any exclusions or exemptions from other notification or reporting requirements provided in any other provision of this Act.
+>     - **(C)** *Processors* A processor of a chemical substance in which the processor has a current commercial interest that meets the criteria described in paragraph (1)(B)(i) may voluntarily submit to the Administrator a declaration for the chemical substance. Such a declaration shall be submitted not later than 1 year after the date of enactment of the Safe Chemicals Act of 2011.
+>   - **(3)** *Declaration of potential commercial interest in a chemical substance*
+>     - **(A)** A manufacturer or processor may voluntarily submit to the Administrator, not later than 180 days after the date of enactment of the Safe Chemicals Act of 2011, a declaration for a chemical substance in which the manufacturer or processor—
+>       - **(i)** does not have a current commercial interest; but
+>       - **(ii)** has a potential commercial interest that meets the criteria described in paragraph (1)(B)(ii).
+>     - **(B)** If a manufacturer or processor commences the manufacture or processing of a chemical substance for which it submitted a declaration under this paragraph, the manufacturer or processor shall comply with the requirements of subsection (h)(5)(B).
+>   - **(4)** *Declaration of cessation of manufacturing or processing* A former or current manufacturer or processor of a chemical substance in which the manufacturer or processor no longer has a commercial interest may voluntarily submit to the Administrator, not later than 180 days after the date of enactment of the Safe Chemicals Act of 2011, a declaration that the manufacturer or processor has ceased, or will cease not later than 180 days after the date on which the declaration is submitted, all production, importation, processing, and export of the chemical substance.
+>   - **(5)** *Contents* A declaration submitted under this subsection shall include for each chemical substance—
+>     - **(A)** the chemical identity and any special substance characteristics of the chemical substance;
+>     - **(B)** the identity and primary business location of the manufacturer or processor; and
+>     - **(C)** information supporting the declarant’s basis for meeting the applicable criteria under paragraph (1)(B).
+>   - **(6)** *Review by Administrator*
+>     - **(A)** *In general* The Administrator shall—
+>       - **(i)** review each declaration received under this subsection to determine whether the declaration conforms to the criteria and requirements of this subsection; and
+>       - **(ii)**
+>         - **(I)** for a chemical substance for which 1 or more conforming declarations are submitted under paragraph (2), add the chemical substance to the list of active chemical substances in the inventory established under subsection (h)(1);
+>         - **(II)** for a chemical substance for which the only conforming declarations submitted for the substance are submitted under paragraph (3), add the chemical substance to the list of inactive chemical substances in the inventory established under subsection (h)(5); and
+>         - **(III)** for a chemical substance for which the only conforming declarations submitted for the substance are submitted under paragraph (4), or for which no declaration has been submitted, remove the chemical substance from the inventories established under subsection (h).
+>     - **(B)** *Revisions* The Administrator shall allow a manufacturer or processor, as applicable, to promptly revise and resubmit any declaration submitted to the Administrator under this subsection if the Administrator determines that any omission or error in the original declaration was not intentional.
+> - **(c)** *Periodic reporting by manufacturers*
+>   - **(1)** *In general* The Administrator shall—
+>     - **(A)** maintain the periodic reporting program of the agency applicable to manufacturers of chemical substances set forth in part 711 of title 40, Code of Federal Regulations (as in effect on the date of enactment of the Safe Chemicals Act of 2011), unless such reporting requirements are superseded pursuant to subparagraph (B); or
+>     - **(B)** establish a new periodic reporting program consistent with this subsection.
+>   - **(2)** *Rulemaking*
+>     - **(A)** *In general* Not later than 180 days after the date of enactment of the Safe Chemicals Act of 2011, the Administrator shall specify, by rule—
+>       - **(i)** the chemical substances for which periodic reporting is required; and
+>       - **(ii)** the information a chemical manufacturer is required to submit to the Administrator for the chemical substances included under the periodic reporting program.
+>     - **(B)** *Exemptions* The rule promulgated under subparagraph (A) may exempt certain manufacturers, including small manufacturers, from—
+>       - **(i)** a requirement to participate in the periodic reporting program, if the Administrator determines that the participation of those manufacturers would not assist in the administration of this Act; or
+>       - **(ii)** specific reporting requirements, if the Administrator determines that the value of a particular reporting requirement, for the administration of this Act, would not be commensurate with the burden of the requirement on submitters.
+>     - **(C)** *Contents* The rule promulgated under subparagraph (A) shall, at a minimum, require each manufacturer of a chemical substance included in the periodic reporting program to submit to the Administrator—
+>       - **(i)** the chemical identity and any special substance characteristics of the chemical substance, the identity and primary business location of the manufacturer, and any updates to the supporting information submitted by the manufacturer in any declaration for an included chemical substance submitted under subsection (b);
+>       - **(ii)** a list of health and safety studies conducted or initiated by or for, known to, or reasonably ascertainable by, the manufacturer with respect to each included chemical substance;
+>       - **(iii)** a copy of each study described in clause (ii) in the possession or control of the manufacturer that has not previously been submitted to the Administrator; and
+>       - **(iv)** all other information specified by the Administrator in the rules promulgated under this subsection that is known to, in the possession or control of, or reasonably ascertainable by, the manufacturer or processor that has not previously been submitted to the Administrator regarding—
+>         - **(I)** the physical, chemical, and toxicological properties of the chemical substance;
+>         - **(II)** the manufacturer’s annual production volume of the chemical substance;
+>         - **(III)** the uses of, and exposure and fate information relating to the manufacturer’s production or import of the chemical substance; and
+>         - **(IV)** the name and location of each facility to which the manufacturer sends the chemical substance after manufacture for subsequent processing, distribution, or use.
+> - **(d)** *Records to support declarations and periodic reports*
+>   - **(1)** *In general* Each manufacturer and processor of a chemical substance that is distributed in commerce shall—
+>     - **(A)** maintain records of the information submitted to the Administrator under subsections (b) and (c), as well as supporting information; and
+>     - **(B)** submit those records or that information to the Administrator upon request by the Administrator.
+>   - **(2)** *Burden of proof* Each manufacturer and processor that submits to the Administrator a declaration under subsection (b) or a notice under subsection (h)(5)(B) shall at all times bear the burden of proving that the manufacturer or processor—
+>     - **(A)** has a current or potential commercial interest in the applicable chemical substance; or
+>     - **(B)** has ceased the production, importation, processing, and export of, the applicable chemical substance.
+> - **(e)** *Substance identification and information for chemical processors*
+>   - **(1)** *Rulemaking*
+>     - **(A)** *In general* Not later than 1 year after the date of enactment of the Safe Chemicals Act of 2011, the Administrator shall specify, by rule, the information that chemical processors are required to submit for chemical substances under this subsection as will assist the Administrator in the administration of this Act.
+>     - **(B)** *Exemptions* The rule promulgated under this paragraph may exempt certain processors, including small processors, from—
+>       - **(i)** a requirement to participate in the periodic reporting program, if the Administrator determines that the participation of those processors would not assist in the administration of this Act; or
+>       - **(ii)** specific reporting requirements, if the Administrator determines that the value of a particular reporting requirement, for the administration of this Act, would not be commensurate with the burden of the requirement on submitters.
+>   - **(2)** *Information requirements* The rule promulgated under paragraph (1) shall—
+>     - **(A)** specify the information that processors are required to submit for chemical substances that are—
+>       - **(i)** processed for use in 1 or more consumer or commercial product categories, as determined by the Administrator; and
+>       - **(ii)** intentionally added to 1 or more products during processing and not incidental to the end uses of the products;
+>     - **(B)** require each processor of a chemical substance identified under subparagraph (A) to submit the information specified in clauses (i) through (iii) of subparagraph (C) for the chemical substance, and to submit the information specified in clauses (iv) through (viii) of subparagraph (C)—
+>       - **(i)** separately for each applicable consumer and commercial product category; and
+>       - **(ii)** in aggregate form, taking into account the use by the processor of the chemical substance in all product categories;
+>     - **(C)** require each processor of a chemical substance identified under subparagraph (A) to identify in the submission of the processor—
+>       - **(i)** the corporate name and primary business location of the processor;
+>       - **(ii)** the chemical identity and any special substance characteristics of the chemical substance;
+>       - **(iii)** the applicable consumer or commercial product category or categories for which the processor processes the chemical substance;
+>       - **(iv)** the annual volume of the chemical substance processed by the submitter;
+>       - **(v)** any products intended for use by children aged 14 years or younger for use in which the processor processes the chemical substance;
+>       - **(vi)** the concentration range within which the maximum concentration of the substance used in each consumer and commercial product category falls;
+>       - **(vii)** the range within which the total number of commercial workers reasonably likely to be exposed to the chemical substance at the processing site falls; and
+>       - **(viii)** any other information regarding processing activities or product descriptors relating to the processor’s processing of the chemical substance identified by the Administrator as necessary to understand the potential exposure from processed chemical substances or products in which the chemical substances are used; and
+>     - **(D)** require each processor to periodically report the information described in subparagraphs (B) and (C) for the chemical substances described in subparagraph (A).
+>   - **(3)** *Records* The rules promulgated under paragraph (1) shall require processors of chemical substances to which those rules apply—
+>     - **(A)** to maintain records of the information described in paragraph (2); and
+>     - **(B)** to submit those records to the Administrator upon request by the Administrator.
+> - **(f)** *Updating of information*
+>   - **(1)** *In general* Each manufacturer or processor of a chemical substance that submits information to the Administrator under subsection (c) or (e) shall update the information—
+>     - **(A)** at a minimum every 4 years; and
+>     - **(B)** at any time that—
+>       - **(i)** the manufacturer or processor obtains knowledge of, comes into possession of, or generates significant new information regarding the production, processing, use, distribution, hazard, or exposure potential of the chemical substance; or
+>       - **(ii)** there is a significant change in the production, distribution in commerce, or use of the chemical substance by or known to the manufacturer or processor.
+>   - **(2)** *Guidance* Not later than 1 year after the date of enactment of the Safe Chemicals Act of 2011, the Administrator shall issue guidance on what constitutes significant new information regarding or significant changes in the production, distribution in commerce, or use of a chemical substance.
+> - **(g)** *Reports*
+>   - **(1)** *Requirement*
+>     - **(A)** *In general* Except as provided in paragraph (2), the Administrator may by rule or order require any person who manufactures, processes, distributes in commerce, uses, or disposes of a chemical substance, or a mixture or article containing the chemical substance to maintain records of and report by a specified date any existing information concerning the substance that, in the judgment of the Administrator, would assist the Administrator in—
+>       - **(i)** making a safety standard determination with respect to a chemical substance;
+>       - **(ii)** determining testing or information needs for a chemical substance;
+>       - **(iii)** assigning a chemical substance to a batch, category, or priority class pursuant to section 6;
+>       - **(iv)** evaluating, developing, and implementing risk management conditions for a chemical substance;
+>       - **(v)** assessing hazards, exposures, or risks related to the manufacture, use, distribution, processing, or disposal of a chemical substance;
+>       - **(vi)** determining compliance with any provision of this Act; or
+>       - **(vii)** any other aspect of administering this Act.
+>     - **(B)** *Characteristics* The Administrator may by rule or order require that any report or information submitted pursuant to this Act include chemical identity and special substance characteristics, as appropriate to the chemical substance that is the subject of the report or information.
+>     - **(C)** *Required information* The Administrator shall by rule or order specify or modify the information that is required to be submitted with a particular report or information submission to establish the chemical identity and special substance characteristics of the subject chemical substance (or mixture or article containing that chemical substance) for the purposes of the report or information submission.
+>   - **(2)** *Exemptions*
+>     - **(A)** *Small quantities for research or analysis* In the case of the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance in small quantities (as defined by the Administrator by rule) solely for purposes of scientific experimentation or analysis or chemical research (including any such research or analysis for the development of a product), the Administrator may promulgate a rule or order under paragraph (1) only to the extent that the Administrator determines that the maintenance of records, submission of reports, or both, is necessary for the effective enforcement of this Act.
+>     - **(B)** *Small business* The rules promulgated under this subsection may exempt certain small businesses from the rules promulgated under this subsection, if the Administrator determines that the participation of those small businesses would not assist in the administration of this Act.
+> - **(h)** *Inventories*
+>   - **(1)** *Active inventory* The Administrator shall compile, keep current, and, subject to section 14, publish a list of each chemical substance that is manufactured or processed in the United States.
+>   - **(2)** *Contents*
+>     - **(A)** *In general* The list shall consist of those chemical substances for which—
+>       - **(i)** a notice is submitted under section 5(d), consistent with the requirements of section 5(b); or
+>       - **(ii)** a valid declaration is submitted under paragraph (2) of subsection (b).
+>     - **(B)** *Exclusions* The list shall not include—
+>       - **(i)** any chemical substance for which the only declarations submitted are submitted under paragraph (3) or (4) of subsection (b), or for which no declaration has been submitted; or
+>       - **(ii)** any chemical substance for which an exemption has been granted under section 5(b)(1)(C)(ii) or section 6(h)(2).
+>   - **(3)** *Timing*
+>     - **(A)** *In general* Except as provided in paragraph (2)(B), for a chemical substance for which a notice is submitted under section 5(d), the chemical substance shall be included in the list established under paragraph (1) as of the earliest date (as determined by the Administrator) on which the substance was manufactured or processed in the United States.
+>     - **(B)** *Publication* The Administrator shall first publish a list under paragraph (1) not later than 1 year after the date of enactment of the Safe Chemicals Act of 2011.
+>   - **(4)** *Small quantities for research or analysis* The Administrator shall not include in the list established under paragraph (1) any chemical substance that is manufactured or processed only in small quantities (as defined by the Administrator by rule) solely for purposes of scientific experimentation or analysis or chemical research on, or analysis of, the substance or another substance, including research or analysis for the development of a product.
+>   - **(5)** *Inactive inventory*
+>     - **(A)** *In general* The Administrator shall compile, keep current, and, subject to section 14, publish an inactive list on which the Administrator shall include each chemical substance for which the only declarations submitted for the substance are submitted under subsection (b)(3).
+>     - **(B)** *Requirements* If a manufacturer or processor commences the manufacture or processing of a chemical substance on the inactive list, the manufacturer or processor shall—
+>       - **(i)** not less than 30 days before recommencing the manufacture or processing of the chemical substance, notify the Administrator; and
+>       - **(ii)** provide with the notification under clause (i)—
+>         - **(I)** the chemical identity and any special substance characteristics of the chemical substance;
+>         - **(II)** the identity and primary business location of the manufacturer;
+>         - **(III)** a list of health and safety studies conducted or initiated by or for, known to, or reasonably ascertainable by, the manufacturer or processor with respect to the chemical substance;
+>         - **(IV)** upon request of the Administrator, a copy of each study described in subclause (III) in the possession or control of the manufacturer that has not previously been submitted to the Administrator;
+>         - **(V)** the projected annual manufacturing or processing volume for the chemical substance for each of the subsequent 3 years;
+>         - **(VI)** the name and location of each facility to which the chemical substance is expected to be sent, after manufacture or processing, for subsequent processing, distribution in commerce, or use; and
+>         - **(VII)** all other existing information known to, in the possession or control of, or reasonably ascertainable by the manufacturer or processor that has not previously been submitted to the Administrator regarding—
+>           - **(aa)** the toxicological properties of the chemical substance; and
+>           - **(bb)** the uses of, and exposure and fate information relating to, the chemical substance.
+>     - **(C)** *Administrator actions* For any chemical substance for which the Administrator receives a valid notification under subparagraph (B), the Administrator shall promptly—
+>       - **(i)** move the chemical substance to the active inventory established under paragraph (1); and
+>       - **(ii)** add the chemical substance to the current batch of chemical substances identified pursuant to section 6(a), and categorize the chemical substance with other chemical substances in the batch, pursuant to section 6(b).
+>     - **(D)** *Administration* Disclosure of any information provided in the notice described in subparagraph (B) shall be subject to section 14.
+>   - **(6)** *Chemicals not listed on or removed from the inventories* If a manufacturer or processor seeks to commence the manufacture or processing of a chemical substance that is not listed on the inventories established under paragraph (1) or (5), or that has been removed from the inventories pursuant to subsection (b)(6)(A)(ii)(III), the manufacturer or processor shall comply with section 5.
+> - **(i)** *Public access to significant information*
+>   - **(1)** *Electronic database* Not later than 1 year after the date of enactment of the Safe Chemicals Act of 2011, the Administrator, through collaboration as appropriate, shall establish—
+>     - **(A)** an electronic, Internet-accessible database for the storing and sharing of information relating to the toxicity and use of, and exposure to, chemical substances; and
+>     - **(B)** procedures for use in maintaining and updating the database.
+>   - **(2)** *Public access* Not later than 18 months after the date of enactment of the Safe Chemicals Act of 2011 or for decisions made or information submitted after that 18-month period, not later than 90 days after the date on which a decision is made by the Administrator or information submitted under this title is received by the Administrator, the Administrator shall, subject to section 14, make available to the public via the Internet-accessible database described in paragraph (1) a description of all significant—
+>     - **(A)** decisions made by the Administrator under this title; and
+>     - **(B)** information submitted pursuant to this title.
+> - **(j)** *Records of significant adverse reactions*
+>   - **(1)** *In general* Any person that manufactures, processes, or distributes in commerce any chemical substance shall maintain, and on request submit to the Administrator, records of significant adverse reactions to human health or the environment, as determined by the Administrator by rule, alleged to have been caused by the substance or mixture.
+>   - **(2)** *Duration*
+>     - **(A)** *In general* Records of the adverse reactions to the health of employees shall be retained for a period of 30 years after the date on which the reactions were first reported to or known by the person maintaining the records.
+>     - **(B)** *Other records* Any record of other adverse reactions shall be retained for a period of 5 years after the date on which information contained in the record was first reported to or known by the person maintaining the record.
+>   - **(3)** *Contents* Records required to be maintained under this subsection shall include—
+>     - **(A)** records of consumer allegations of personal injury or harm to health;
+>     - **(B)** reports of occupational disease or injury; and
+>     - **(C)** reports or complaints of injury to the environment submitted to the manufacturer, processor, or distributor in commerce from any source.
+> - **(k)** *Information in the possession of other federal agencies*
+>   - **(1)** *Synopses*
+>     - **(A)** *In general* Notwithstanding any other provision of law, from time to time, each Federal agency and Federal institution shall submit to the Administrator a synopsis of the data and records in the possession or control of the agency or institution, respectively, that may be useful to the Administrator in carrying out this Act.
+>     - **(B)** *Format and content* Not later than 1 year after the date of enactment of the Safe Chemicals Act of 2011, the Administrator shall prescribe, by order, the format, content, and level of detail of the synopses.
+>     - **(C)** *Initial submission* Not later than 18 months after the date of enactment of the Safe Chemicals Act of 2011, each Federal agency and Federal institution shall make the initial submission of a synopsis of the agency and institution, respectively, to the Administrator.
+>     - **(D)** *Updates* At least once every 3 years, each Federal agency and Federal institution shall—
+>       - **(i)** update the synopsis of the agency and institution, respectively; and
+>       - **(ii)** submit the updated synopsis to the Administrator.
+>   - **(2)** *Requests by the administrator* Notwithstanding any other provision of law, on the request of the Administrator, any information in the possession or control of an agency or institution relating to a hazard of, use of, exposure to, or risk of, a chemical substance (or mixture or article containing that chemical substance) shall be submitted to the Administrator.
+> - **(l)** *Notice to administrator of substantial risks* Any person that manufactures, processes, or distributes in commerce a chemical substance and that obtains information that reasonably supports the conclusion that the substance presents a substantial risk of injury to health or the environment shall immediately inform the Administrator of the information unless the person has actual knowledge that the Administrator has been adequately informed of the information.
+> - **(m)** *Certification* Each submission required pursuant to this section or pursuant to a rule or an order promulgated or issued by the Administrator under this section, other than a submission under subsection (k), shall be accompanied by a certification signed by a responsible official of the manufacturer, processor, distributor, user, or disposer of a chemical substance that each statement contained in the submission—
+>   - **(1)** is accurate and reliable; and
+>   - **(2)** includes all material facts required by the applicable provision of this section or rule or order under this section.
+> - **(n)** *Administration*
+>   - **(1)** *In general* Nothing in this section limits the authority of the Administrator to require reporting under any other provision of this Act by any person who manufactures, processes, distributes in commerce, uses, or disposes of a chemical substance, or a mixture or article containing a chemical substance.
+>   - **(2)** *Violations* In addition to all other authorities available for the enforcement of this Act, the Administrator may, by order, take any action authorized under section 6(f) if a person who manufactures, processes, distributes in commerce, uses, or disposes of a chemical substance, or a mixture or article containing a chemical substance violates any provision of this section.
 
 ## § 10. Relationship to other Federal laws
 
@@ -932,6 +1754,126 @@ Section 14 of the Toxic Substances Control Act (15 U.S.C. 2613) is amended—
 - **(6)** in subsection (f) (as redesignated by paragraph (1)), by striking “subsection (a)” and inserting “subsection (c)”; and
 - **(7)** by adding at the end the following:
   > - **(h)** *Risk information for workers* The Administrator shall provide standards for, and facilitate the sharing of, chemical identity, safety standard determination, and health and safety data described in subsection (d) that pertains to chemical substances or mixtures, or articles containing chemical substances, that workers may come into contact with or otherwise be exposed to during the course of work, to and with those workers and representatives of each certified or recognized bargaining agent representing those employees.
+
+## § 14. Disclosure of data
+
+Section 14 of the Toxic Substances Control Act (15 U.S.C. 2613) is amended to read as follows:
+
+> ## § 14. Disclosure of data
+>
+> - **(a)** *Applicability*
+>   - **(1)** *In general* Subject to paragraph (2) and except as provided under subsections (b) and (e), any information reported to, or otherwise obtained by, the Administrator (or any representative of the Administrator) that is exempt from disclosure under subsection (a) of section 552 of title 5, United States Code, (commonly known as the “Freedom of Information Act”) under subsection (b)(4) of that section, shall not be disclosed by the Administrator or by any officer or employee of the United States, unless the designation of the information as exempt from disclosure is prohibited under Federal law.
+>   - **(2)** *Exemptions*
+>     - **(A)** *Mandatory exemptions* Notwithstanding any other provision of law, the Administrator shall disclose the information described in paragraph (1)—
+>       - **(i)** to any officer or employee of the United States—
+>         - **(I)** in connection with the official duties of that officer or employee under any law for the protection of human health or the environment; or
+>         - **(II)** for specific law enforcement purposes;
+>       - **(ii)** to a contractor with the United States and employees of that contractor if, in the opinion of the Administrator, the disclosure is necessary for the satisfactory performance by the contractor of a contract with the United States entered into on or after the date of enactment of the Safe Chemicals Act of 2011 for the performance of work in connection with this Act and under such conditions as the Administrator may specify;
+>       - **(iii)** if the Administrator determines that the disclosure is necessary to protect human health or the environment;
+>       - **(iv)** on request, to a State or tribal government for the purpose of development or potential development, administration, or enforcement of a law, if 1 or more applicable agreements ensure that the recipient government will take appropriate steps, and has adequate authority, to maintain the confidentiality of the information in accordance with procedures comparable to those which the Administrator uses to safeguard the information;
+>       - **(v)** on request, to public health or environmental health professionals or medical personnel if the Administrator determines that—
+>         - **(I)** disclosure is in the public interest;
+>         - **(II)** the recipient does not have a conflict of interest or competitive interest with respect to the submitter of the information; and
+>         - **(III)** 1 or more applicable agreements are in place to ensure that the recipient of the information provides comparable protections to those provided by the Administrator to maintain the confidentiality of the information.
+>     - **(B)** *Optional exemptions* Notwithstanding any other provision of law, the Administrator may disclose the information described in paragraph (1) if relevant, in any proceeding under this Act, except that disclosure in such a proceeding shall be made in such manner as to preserve confidentiality to the maximum extent practicable without impairing the proceeding.
+>   - **(3)** *Effect on other laws* In any proceeding under section 552(a) of title 5, United States Code (commonly referred to as the “Freedom of Information Act”), to obtain information, the disclosure of which has been denied pursuant to this section, the Administrator may not rely on subsection (b)(3) of that section to sustain the action of the Administrator.
+> - **(b)** *Categories of confidential business information*
+>   - **(1)** *Information that is always eligible for protection* Subject to subsection (a)(2) and any other applicable provision of Federal law, the Administrator shall review and approve a request that conforms to the requirements described in subsection (c)(2) to treat as confidential under this section the following information:
+>     - **(A)** Precise information describing the manufacture, processing, or distribution of a chemical substance or mixture.
+>     - **(B)** Marketing and sales information.
+>     - **(C)** Information identifying the customers of a manufacturer, processor, or distributor.
+>     - **(D)** Details of the full composition of a mixture of a particular manufacturer or processor.
+>     - **(E)** Precise information about the use, function, or application of a chemical substance or mixture in a process, mixture, or product of a particular manufacturer or processor.
+>     - **(F)** Precise production or import volumes of a particular manufacturer, processor, or distributor.
+>   - **(2)** *Information that may be eligible for protection*
+>     - **(A)** *In general* Subject to subsection (a) and any other applicable provision of Federal law, and except as provided in paragraphs (1) and (3), information submitted by a manufacturer, processor, or distributor to the Administrator may be protected if the manufacturer, processor, or distributor complies with subsection (c)(2) and the Administrator determines that a request to maintain the confidentiality of the information meets the applicable requirements of this subsection and any rule promulgated by the Administrator under subsection (c)(1).
+>     - **(B)** *Identities of certain chemical substances*
+>       - **(i)** *In general* Notwithstanding subparagraph (A), the Administrator shall not disclose precise information on the identity of a chemical substance if—
+>         - **(I)** the manufacturer or processor of the substance has, in accordance with subsection (c)(2)—
+>           - **(aa)** included in a notice under section 5(b) a request, including a justification and documentation for the request, that the identity of the substance be treated as confidential business information; or
+>           - **(bb)** submitted to the Administrator not later than 180 days after the date of enactment of the Safe Chemicals Act of 2011 a request, including a justification and documentation for the request, that the identity of a substance for which a notice has been submitted under section 5(b) as of the date of enactment of the Safe Chemicals Act of 2011 be treated as confidential business information; and
+>         - **(II)** the Administrator determines that—
+>           - **(aa)** the request complies with all applicable requirements of this section;
+>           - **(bb)** the chemical identity is not readily discoverable through reverse engineering;
+>           - **(cc)** the manufacturer or processor takes reasonable measures to protect the confidentiality of the chemical substance;
+>           - **(dd)** no other Federal statute requires disclosure;
+>           - **(ee)** disclosure of the identity of the chemical substance would cause financial or competitive harm to the manufacturer or processor;
+>           - **(ff)** the chemical substance is not, based on information that is initially available or that later becomes available to the Administrator, a known or probable reproductive, developmental, neurological, or immunological toxicant, carcinogen, or mutagen;
+>           - **(gg)** the chemical substance is not persistent, bioaccumulative, and toxic; and
+>           - **(hh)** if a safety standard determination has been made for a chemical substance, the Administrator determines that the chemical substance meets the applicable safety standard either under current conditions or under additional conditions required by the Administrator.
+>       - **(ii)** *Notice* In cases where all of the requirements specified in clause (i) are met—
+>         - **(I)** the notice required to be made public by the Administrator under section 5(f)(3) shall include a justification for the determination of the Administrator and identify the chemical substance by generic class unless the Administrator determines that more specific identification is required in the public interest; and
+>         - **(II)** as part of a claim to protect the identity of a chemical substance under subsection (c)(2), a manufacturer or processor may provide a “public name” for the chemical substance for use by the Administrator when sharing information on the chemical substance under this subsection. The public names should disclose a maximum amount of information on the chemical structure of the substance, while protecting those features of the chemical structure that are considered confidential and the disclosure of which would potentially harm the owner of that information.
+>       - **(iii)** *Duration of protection for chemical identity* Notwithstanding subsection (c)(1)(B)(iv), the identity of a chemical substance for which a request has been submitted pursuant to clause (i)(I) and meets the requirements of clause (i) shall be protected as confidential business information—
+>         - **(I)** for such period of time as the Administrator, after reviewing the request, determines to be reasonable; and
+>         - **(II)** upon expiration of a time period specified under this clause, for an additional 5-year period, if the Administrator, after reviewing the request, determines that the request for protection continues to meet the criteria established in this subparagraph.
+>       - **(iv)** *Publication requirement* The Administrator shall annually publish a notice that—
+>         - **(I)** includes an updated, cumulative list of each new chemical substance for which the Administrator has approved a request to protect information under this paragraph, identified by a unique identifier, other than the precise chemical identity, and including the period of time for which the protection applies; and
+>         - **(II)** for each chemical substance for which the protection provided under this paragraph has expired, provides the precise identity of the chemical substance, and provides public access to any information that had been submitted to the Administrator which concealed the identity of the chemical substance in accordance with this paragraph.
+>     - **(C)** *Impurities* Notwithstanding subparagraph (A), the Administrator may determine not to disclose information relating to the degree of purity or the identity of impurities present in a chemical substance or mixture if the Administrator determines that knowledge of the information would reveal processes used in the manufacturing or processing of the chemical substance or mixture.
+>   - **(3)** *Information that is never eligible for protection*
+>     - **(A)** *In general* Except as provided in paragraph (2), the Administrator shall disclose the following information:
+>       - **(i)** The identity of a chemical substance.
+>       - **(ii)** Any safety standard determination developed under section 6, including supporting analysis developed by the Administrator.
+>       - **(iii)** Any health and safety study data that is submitted under this Act with respect to—
+>         - **(I)** any chemical substance or mixture—
+>           - **(aa)** that has been offered for commercial distribution as of the date on which the study is to be disclosed; or
+>           - **(bb)** for which testing is required under section 4 or for which notification is required under section 5; and
+>         - **(II)** any data reported to, or otherwise obtained by, the Administrator from a health and safety study that relates to a chemical substance or mixture described in subclause (I).
+>       - **(iv)** Health and safety data in notices of substantial risk submitted pursuant to section 8(l) and in the underlying studies.
+>       - **(v)** General information describing the manufacturing volumes, expressed in ranges, and industrial, commercial, or consumer functions and uses of a chemical substance or mixture.
+>       - **(vi)** Any information indicating the presence of a chemical substance in consumer products intended for use, or reasonably expected to be used, by children aged 14 years or younger, if—
+>         - **(I)** the Administrator, or another authoritative body, has determined that the chemical substance—
+>           - **(aa)** is a known or probable reproductive, developmental, neurological, or immunological toxicant, carcinogen, or mutagen; or
+>           - **(bb)** is persistent, bioaccumulative, and toxic; or
+>         - **(II)** for a chemical substance for which a safety standard determination has been made, the Administrator has not found that the chemical substance meets the safety standard.
+>     - **(B)** *Prohibition* Nothing in this paragraph authorizes the release of any data that discloses a process used in the manufacturing or processing of a chemical substance or mixture, or in the case of a mixture, the release of data disclosing the portion of the mixture comprised by any of the chemical substances in the mixture.
+>     - **(C)** *Applicability of other laws* Except as provided in paragraph (2), if the Administrator receives a request for information under section 552(a) of title 5, United States Code, (commonly known as the “Freedom of Information Act”) for information described in subparagraph (A), which is not information described in subparagraph (B), the Administrator shall not deny the request under subsection (b)(4) of that section.
+> - **(c)** *Designation and treatment of confidential business information*
+>   - **(1)** *Duties of the administrator*
+>     - **(A)** *Rules* Not later than 1 year after the date of enactment of the Safe Chemicals Act of 2011, the Administrator shall promulgate rules that specify—
+>       - **(i)** the acceptable bases on which written requests to maintain confidentiality of information may be approved, which shall be consistent with the requirements of this section;
+>       - **(ii)** the nature of the documentation and justification that must accompany such a request; and
+>       - **(iii)** the types of information the Administrator determines warrant protection for an indefinite period of time, for which the term of confidentiality specified in subparagraph (B)(iv)(I) shall not apply.
+>     - **(B)** *Review of requests*
+>       - **(i)** *In general* Not later than 90 days after the date of receipt of information under paragraph (2), the Administrator shall review a request to maintain confidentiality of information submitted under this Act and determine whether to approve, modify, or deny that request based on the regulations promulgated by the Administrator under subparagraph (A).
+>       - **(ii)** *Process* The Administrator shall, in accordance with clause (i)—
+>         - **(I)** review all requests received to maintain confidentiality of submitted information; or
+>         - **(II)** if it is not feasible for the Administrator to review all of the requests—
+>           - **(aa)** review all requests relating to information described in subsection (b)(2)(B); and
+>           - **(bb)** review a representative subset that includes not less than 25 percent of all other requests received; and
+>         - **(III)** publish in the Federal Register on at least an annual basis a description of the number and types of requests received and reviewed by the Administrator.
+>       - **(iii)** *Denials* If a request to maintain confidentiality of submitted information is denied in accordance with subparagraph (D), the Administrator shall promptly make the information available to the public in accordance with section 8(i)(2).
+>       - **(iv)** *Approvals* If a request to maintain confidentiality of submitted information is approved, the Administrator shall—
+>         - **(I)** except with respect to requests subject to a rule issued pursuant to subparagraph (A)(iii) and requests submitted pursuant to subsection (b)(2)(B)(i)(I), specify a time period not to exceed 5 years for which the submitted information shall be kept confidential, unless the information otherwise becomes available to the public during the period; and
+>         - **(II)** upon the expiration of the protection period, make the information available to the public unless the manufacturer, processor, or distributor has submitted, documented, and justified to the satisfaction of the Administrator and in accordance with this subsection the basis for a renewal of the protection, for a time period not to exceed 5 years.
+>     - **(C)** *Authority of the administrator* Nothing in subparagraph (A) or (B) limits the authority of the Administrator to determine that particular information, previously treated as confidential, is no longer entitled to confidential treatment.
+>     - **(D)** *Notifications*
+>       - **(i)** *In general* Except as provided in clause (ii), if the Administrator proposes to release information for which a request for confidential treatment has been approved under this section, the Administrator shall electronically notify the manufacturer, processor, or distributor in commerce who submitted the request of the intent of the Administrator to release the information not less than 15 days prior to the release of the information.
+>       - **(ii)** *Administration* The Administrator shall release the information described in clause (i) in accordance with the disclosure and procedural requirements of section 552 of title 5, United States Code (commonly known as the ‘Freedom of Information Act’), except that—
+>         - **(I)** if the release of the information is to be made pursuant to a request made under section 552(a) of title 5, United States Code, the notice shall be given immediately upon approval of the request by the Administrator;
+>         - **(II)** if the Administrator determines that the release of information pursuant to subsection (a)(2)(A)(iii) is necessary to protect against imminent and substantial harm to human health or the environment, no notice shall be required; and
+>         - **(III)** the requirements of this subparagraph shall not apply to the release of information under—
+>           - **(aa)** clauses (i) through (iii) of subsection (a)(2)(A); or
+>           - **(bb)** subsection (b)(3)(A).
+>   - **(2)** *Duties of manufacturers, processors, and distributors*
+>     - **(A)** *In general* In submitting data under this Act, a manufacturer, processor, or distributor in commerce may—
+>       - **(i)** designate information, other than information described in subsection (b)(3), for which the manufacturer, processor, or distributor requests confidential treatment under subsection (a) or (b); and
+>       - **(ii)** submit the designated data separately from other data submitted under this Act.
+>     - **(B)** *Requirements* A designation under this paragraph shall be made in writing and in such manner as the Administrator may prescribe, and shall include—
+>       - **(i)** documentation and justification for each request for confidentiality, except for requests relating to the information described in subsection (b)(1);
+>       - **(ii)** the period of time for which maintenance of confidentiality of the information is requested except with respect to requests subject to a rule issued pursuant to subsection (c)(1)(A)(iii);
+>       - **(iii)** a certification that the information is not otherwise publicly available;
+>       - **(iv)** separate copies of all submitted information, with 1 copy containing and 1 copy excluding the information to which the request applies; and
+>       - **(v)** any additional information required by the Administrator.
+>     - **(C)** *Request for renewal* Prior to the expiration of the specified time period determined by the Administrator under paragraph (1)(B)(iv), a manufacturer, processor, or distributor may submit a request for renewal of protection for protected information. This request for renewal shall follow the same procedures and requirements as the initial submission under subparagraphs (A) and (B).
+> - **(d)** *Civil penalty for wrongful disclosure or wrongful requests for protection*
+>   - **(1)** *In general* Any officer or employee of the United States or former officer or employee of the United States, who, by virtue of employment or official position has obtained possession of, or has access to, material the disclosure of which is prohibited by subsection (a), and who knowing that disclosure of the material is prohibited by that subsection, willfully discloses the material in any manner to any person not entitled to receive the information, shall be subject to appropriate disciplinary action and subject to a civil money penalty of not more than $10,000 for each violation.
+>   - **(2)** *Applicability of other laws* Section 1905 of title 18, United States Code, shall not apply with respect to the publishing, divulging, disclosure, making known, or making available of, information reported or otherwise obtained under this Act.
+>   - **(3)** *Contractors* For the purposes of paragraph (1), any contractor with the United States who is furnished information as authorized by subsection (a)(2), including any employee of such a contractor, shall be considered to be an employee of the United States.
+>   - **(4)** *False requests* Any officer or employee of a company that submits information under this Act who willfully designates information as eligible for confidential treatment, knowing that the information is ineligible for such treatment, shall be subject to a civil money penalty of not more than $10,000 for each such violation.
+> - **(e)** *Access by congress* Notwithstanding this section or any other provision of law, all information reported to or otherwise obtained by the Administrator (or any representative of the Administrator) under this Act shall be made available, on written request of any duly authorized committee of Congress, to that committee.
+> - **(f)** *Risk information for workers* The Administrator shall facilitate the sharing of information that pertains to chemical substances or mixtures or articles containing chemical substances that workers may come into contact with or may otherwise be exposed to during the course of work with those workers and representatives of each certified or recognized bargaining agent representing those workers. Nothing in this subsection authorizes disclosure of information other than those disclosures that may be made pursuant to subsections (a) through (e).
 
 ## § 15. Prohibited acts
 
@@ -1149,11 +2091,11 @@ Section 28 of the Toxic Substances Control Act (15 U.S.C. 2627) is amended—
 
 Title I of the Toxic Substances Control Act (15 U.S.C. 2601 et seq.) is amended—
 
-- **(1)** by redesignating section 29 (15 U.S.C. 2628) as section 39;
-- **(2)** by redesignating section 30 (15 U.S.C. 2629) as section 38;
+- **(1)** by redesignating section 29 (15 U.S.C. 2628) as section 38;
+- **(2)** by redesignating section 30 (15 U.S.C. 2629) as section 37;
 - **(3)** by striking section 31 (Public Law 94–469; 100 Stat. 2989); and
-- **(4)** by amending section 39 (as redesignated by paragraph (1)) to read as follows:
-  > ## § 39. Authorization of appropriations
+- **(4)** by amending section 38 (as redesignated by paragraph (1)) to read as follows:
+  > ## § 38. Authorization of appropriations
   >
   > There are authorized to be appropriated to the Administrator to carry out this Act such sums as are necessary for each of fiscal years 2011 through 2018.
 

@@ -1,7 +1,7 @@
 ---
 measure: S. 847
 congress: 112
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-168 amendatory instructions. 0 executed, 168 stated and not applied.
+175 amendatory instructions. 0 executed, 175 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -52,7 +52,13 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 4 of the Toxic Substances Control Act (15 U.S.C. 2603) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 5 of the Toxic Substances Control Act (15 U.S.C. 2604) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 6 of the Toxic Substances Control Act (15 U.S.C. 2605) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 4 of the Toxic Substances Control Act (15 U.S.C. 2603) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 5 of the Toxic Substances Control Act (15 U.S.C. 2604) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (f); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (e) as subsection (i); | the bill names no machine-readable US Code section |
+| — | replace | by striking the section heading and designation and all that follows through subsection (d) and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 7 of the Toxic Substances Control Act (15 U.S.C. 2606) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 8 of the Toxic Substances Control Act (15 U.S.C. 2607) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 8 of the Toxic Substances Control Act (15 U.S.C. 2607) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraphs (1) and (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (3) as paragraph (4); | the bill names no machine-readable US Code section |
@@ -106,6 +112,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (B)(ii), by striking “(b)(1)” and inserting “(d)(1)(A)(iii)”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (f) (as redesignated by paragraph (1)), by striking “subsection (a)” and inserting “subsection (c)”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 14 of the Toxic Substances Control Act (15 U.S.C. 2613) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “use” and inserting “manufacture, process, distribute in commerce, use, or dispose of”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “or mixture” and inserting “, mixture, or article”; and | the bill names no machine-readable US Code section |
@@ -189,10 +196,10 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subsections (b), (c), and (d) as subsections (c), (d), and (e), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | in subsection (c)(2) (as redesignated by paragraph (2)), by striking “including cancer, birth defects, and gene mutations,”. | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating section 29 (15 U.S.C. 2628) as section 39; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating section 30 (15 U.S.C. 2629) as section 38; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating section 29 (15 U.S.C. 2628) as section 38; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating section 30 (15 U.S.C. 2629) as section 37; | the bill names no machine-readable US Code section |
 | — | strike | by striking section 31 (Public Law 94–469; 100 Stat. 2989); and | the bill names no machine-readable US Code section |
-| — | redesignate | by amending section 39 (as redesignated by paragraph (1)) to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | by amending section 38 (as redesignated by paragraph (1)) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | The Toxic Substances Control Act is amended by inserting after section 28 (15 U.S.C. 2627) the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the item relating to section 2 and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the item relating to section 4 and inserting the following: | the bill names no machine-readable US Code section |
