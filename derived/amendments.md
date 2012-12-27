@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3893
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -43,15 +43,15 @@ complete account of the bill's effect, which it is not.
 | — | amend | by amending subparagraph (E) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(8) The failure” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A) by striking “subsection, or” and inserting “subsection,”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B) by striking “subcontract,” and inserting “subcontract, or”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B) by striking “subcontract,” and inserting “subcontract, or”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(10) In the case of” and inserting the following: | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (B) by striking “, which shall be advisory in nature,”; and | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (B) by striking “, which shall be advisory in nature,”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C) by striking “, either on a contract-by-contract basis, or in the case contractors” and inserting “as a supplement to evaluations performed by the contracting agency, either on a contract-by-contract basis or, in the c… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 8(d) of such Act (15 U.S.C. 637(d)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 8(k)(1) of the Small Business Act (15 U.S.C. 637(k)(1)) is amended by striking “in the Commerce Business Daily” and inserting “on the appropriate Federal Web site (as determined by the Administrator)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3551(1) of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (A) by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The Small Business Act (15 U.S.C. 631 et seq.), as amended by this Act, is further amended by inserting after section 45 the following: | the bill names no machine-readable US Code section |
