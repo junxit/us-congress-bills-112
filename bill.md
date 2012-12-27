@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 2326
 
-> To designate the new United States courthouse in Buffalo, New York, as the “Robert H. Jackson United States Courthouse”.
+> To designate the new United States courthouse in Buffalo, New York, as the Robert H. Jackson United States Courthouse.
 
 ## § 1. Designation
 
