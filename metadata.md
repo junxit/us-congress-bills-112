@@ -1,7 +1,7 @@
 ---
 measure: S. 3709
 congress: 112
-version: Introduced in Senate
+version: Referred in House
 ---
 
 # S. 3709
@@ -21,6 +21,10 @@ A bill to require a Government Accountability Office examination of transactions
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Brown, Sherrod [D-OH] (B000944)
 
+## Committees (1)
+
+- House — Financial Services Committee
+
 ## Actions
 
 - 2012-12-21 — Amendment SA 3434 agreed to in Senate by Unanimous Consent.
@@ -33,3 +37,6 @@ A bill to require a Government Accountability Office examination of transactions
 - 2012-12-21 — Senate amendment agreed to: Amendment SA 3434 agreed to in Senate by Unanimous Consent.
 - 2012-12-21 — Senate amendment proposed (on the floor): Amendment SA 3434 proposed by Senator Reid for Senator Vitter.(consideration: CR S8378-8379; text: CR S8378-8379)
 - 2012-12-21 — Senate amendment submitted
+- 2012-12-27 — Message on Senate action sent to the House.
+- 2012-12-27 — Received in the House.
+- 2012-12-27 — Referred to the House Committee on Financial Services.
