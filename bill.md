@@ -2,11 +2,17 @@
 legis-num: H.R. 1
 congress: 112th CONGRESS
 session: 2d Session
-chamber: In the Senate of the United States,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 1
 
-That the bill from the House of Representatives (H.R. 1) entitled “An Act making appropriations for the Department of Defense and the other departments and agencies of the Government for the fiscal year ending September 30, 2011, and for other purposes.”, do pass with the following
+> Making appropriations for the Department of Defense and the other departments and agencies of the Government for the fiscal year ending September 30, 2011, and for other purposes.
 
-*Strike all after the enacting clause, and insert in lieu thereof:*
+## § 1. Table of contents
+
+The table of contents for this Act is as follows:
+
+## § 2. References
+
+Except as expressly provided otherwise, any reference to “this Act” contained in division A of this Act shall be treated as referring only to the provisions of that division.

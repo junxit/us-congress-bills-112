@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 112
-version: Engrossed Amendment Senate
+version: Public Print
 ---
 
 # H.R. 1
