@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1464
 congress: 112
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1464
@@ -91,3 +91,18 @@ North Korean Child Welfare Act of 2012
 - 2012-09-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5842-5843)
 - 2012-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5842-5843)
 - 2012-09-12 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2012-12-28 — Amendment SA 3442 agreed to in Senate by Unanimous Consent.
+- 2012-12-28 — Amendment SA 3442 proposed by Senator Reid for Senator Burr. (consideration: CR S8516; text: CR S8516) In the nature of a substitute.
+- 2012-12-28 — Amendment SA 3443 agreed to in Senate by Unanimous Consent.
+- 2012-12-28 — Amendment SA 3443 proposed by Senator Reid for Senator Burr. (consideration: CR S8516; text: CR S8516) To amend the title.
+- 2012-12-28 — Measure laid before Senate by unanimous consent. (consideration: CR S8516)
+- 2012-12-28 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2012-12-28 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2012-12-28 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2012-12-28 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2012-12-28 — Senate amendment agreed to: Amendment SA 3442 agreed to in Senate by Unanimous Consent.
+- 2012-12-28 — Senate amendment agreed to: Amendment SA 3443 agreed to in Senate by Unanimous Consent.
+- 2012-12-28 — Senate amendment proposed (on the floor): Amendment SA 3442 proposed by Senator Reid for Senator Burr.(consideration: CR S8516; text: CR S8516)
+- 2012-12-28 — Senate amendment proposed (on the floor): Amendment SA 3443 proposed by Senator Reid for Senator Burr.(consideration: CR S8516; text: CR S8516)
+- 2012-12-28 — Senate amendment submitted
+- 2012-12-28 — Senate amendment submitted

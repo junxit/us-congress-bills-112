@@ -2,49 +2,40 @@
 legis-num: H.R. 1464
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1464
 
-> To develop a strategy for assisting stateless children from North Korea, and for other purposes.
+That the bill from the House of Representatives (H.R. 1464) entitled “An Act to develop a strategy for assisting stateless children from North Korea, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “North Korean Refugee Adoption Act of 2012”.
+This Act may be cited as the “North Korean Child Welfare Act of 2012”.
 
-## § 2. Sense of Congress
+## § 2. Sense of congress
 
 It is the sense of Congress that—
 
-- **(1)** thousands of North Korean children do not have families and are threatened with starvation and disease if they remain in North Korea or as stateless refugees in surrounding countries;
-- **(2)** thousands of United States citizens would welcome the opportunity to adopt North Korean orphans living outside North Korea as de jure or de facto stateless refugees; and
-- **(3)** the Secretary of State and the Secretary of Homeland Security should make every effort to facilitate the immediate care, family reunification, and, if necessary and appropriate, the adoption of any eligible North Korean children living outside North Korea as de jure or de facto stateless refugees.
+- **(1)** hundreds of thousands of North Korean children suffer from malnutrition in North Korea, and North Korean children or children of one North Korean parent who are living outside of North Korea may face statelessness in neighboring countries; and
+- **(2)** the Secretary of State should advocate for the best interests of these children, including, when possible, facilitating immediate protection for those living outside North Korea through family reunification or, if appropriate and eligible in individual cases, domestic or international adoption.
 
 ## § 3. Definitions
 
 In this Act:
 
-- **(1)** *Foreign-sending country* The term foreign-sending country—
-  - **(A)** means—
-    - **(i)** the country of the orphan’s citizenship; or
-    - **(ii)** if the orphan is not permanently residing in the country of citizenship, the country of the orphan’s habitual residence; and
-  - **(B)** excludes any country to which the orphan—
-    - **(i)** travels temporarily; or
-    - **(ii)** travels as a prelude to, or in conjunction with, his or her adoption or immigration to the United States.
-- **(2)** *Hague country* The term Hague country means a country that is a signatory of the Convention on Protection of Children and Cooperation in Respect of Intercountry Adoption, done at The Hague on May 29, 1993.
-- **(3)** *Non-Hague country* The term non-Hague country means a country that is not a signatory of the Convention on Protection of Children and Cooperation in Respect of Intercountry Adoption, done at The Hague on May 29, 1993.
+- **(1)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+- **(2)** *Hague country* The term Hague country means a country where the Convention on Protection of Children and Cooperation in Respect of Intercountry Adoption, done at The Hague May 29, 1993, has entered into force and is fully implemented.
+- **(3)** *Non-hague country* The term non-Hague country means a country where the Convention on Protection of Children and Cooperation in Respect of Intercountry Adoption, done at The Hague May 29, 1993, has not entered into force.
 
-## § 4. Strategy on adoption of North Korean children by United States citizens
+## § 4. Briefings on the welfare of north korean children
 
-- **(a)** *In general* The Secretary of State, in consultation with the Secretary of Homeland Security, shall develop a comprehensive strategy for facilitating the adoption of North Korean children by United States citizens.
-- **(b)** *Considerations* In developing the strategy under this section, the Secretary shall—
-  - **(1)** consider the challenges that United States citizens would encounter in attempting to adopt children from North Korea who are currently living in Hague countries and non-Hague countries regardless of their legal status in such countries;
-  - **(2)** propose solutions to dealing with the situation in which a North Korean refugee child does not have access to a competent authority in the foreign-sending country;
-  - **(3)** propose solutions to dealing with North Korean refugee children who are not considered habitual residents of the countries in which they are located;
-  - **(4)** evaluate alternative mechanisms for foreign-sending countries to prove that North Korean refugee children are orphans when documentation, such as birth certificates, death certificates of birth parents, and orphanage documentation, is missing or destroyed;
-  - **(5)** provide suggestions for working with South Korea to establish pilot programs that identify, provide for the immediate care of, assist in the family reunification of, and assist in the international adoption of, orphaned North Korean children living within South Korea;
-  - **(6)** provide suggestions for working with international adoption agencies and aid organizations in Asia to identify and establish pilot programs for the identification, immediate care, family reunification, and international adoption of North Korean orphans living outside North Korea as de jure or de facto stateless refugees;
-  - **(7)** identify other nations in which large numbers of stateless, orphaned children are living who might be helped by international adoption; and
-  - **(8)** propose solutions for assisting orphaned children with Chinese fathers and North Korean mothers who are living in China and have no access to Chinese or North Korean resources.
-- **(c)** *Reporting requirement* Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall submit a written report to Congress that contains the details of the strategy developed under this section.
+- **(a)** *In general* The Secretary of State shall designate a representative to regularly brief the appropriate congressional committees in an unclassified setting on United States Government efforts to advocate for the best interests of North Korean children and children of one North Korean parent, including efforts to address, when appropriate, the adoption of such children living outside North Korea without parental care.
+- **(b)** *Contents* The Secretary’s designee shall be prepared to address in each briefing the following topics:
+  - **(1)** The analysis of the Department of State of the challenges facing North Korean children residing outside North Korea and challenges facing children of one North Korean parent in other countries who are fleeing persecution or are living as de jure or de facto stateless persons.
+  - **(2)** Department of State efforts to advocate for the best interest of North Korean children residing outside North Korea or children of one North Korean parent living in other countries who are fleeing persecution or are living as de jure or de facto stateless persons, including, when possible, efforts to address the immediate care and family reunification of these children, and, in individual cases where appropriate, the adoption of eligible North Korean children living outside North Korea and children of one North Korean parent living outside North Korea.
+  - **(3)** Department of State efforts to develop a comprehensive strategy to address challenges that United States citizens would encounter in attempting to adopt, via intercountry adoption, North Korean-origin children residing in other countries or children of one North Korean parent residing outside North Korea who are fleeing persecution or are living as de jure or de facto stateless persons, including efforts to overcome the complexities involved in determining jurisdiction for best interest determinations and adoption processing, if appropriate, of those who habitually reside in a Hague country or a non-Hague country.
+  - **(4)** Department of State diplomatic efforts to encourage countries in which North Korean children or children of one North Korean parent are fleeing persecution or reside as de jure or de facto stateless persons to resolve issues of statelessness of North Koreans residing in that country.
+  - **(5)** Department of State efforts to work with the Government of the Republic of Korea to establish pilot programs that identify, provide for the immediate care of, and assist in the family reunification of North Korean children and children of one North Korean parent living within South Korea and other countries who are fleeing persecution or are living as de jure or de facto stateless persons.
