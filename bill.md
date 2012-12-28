@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 1464
-congress: 112th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1464
 
-That the bill from the House of Representatives (H.R. 1464) entitled “An Act to develop a strategy for assisting stateless children from North Korea, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To express the sense of Congress regarding North Korean children and children of one North Korean parent and to require the Department of State regularly to brief appropriate congressional committees on efforts to advocate for and develop a strategy to provide assistance in the best interest of these children.
 
 ## § 1. Short title
 

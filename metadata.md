@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1464
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1464
@@ -106,3 +106,15 @@ North Korean Child Welfare Act of 2012
 - 2012-12-28 — Senate amendment proposed (on the floor): Amendment SA 3443 proposed by Senator Reid for Senator Burr.(consideration: CR S8516; text: CR S8516)
 - 2012-12-28 — Senate amendment submitted
 - 2012-12-28 — Senate amendment submitted
+- 2012-12-30 — Message on Senate action sent to the House.
+- 2013-01-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-01-01 — Ms. Ros-Lehtinen asked unanimous consent that the House agree to the Senate amendments. (consideration: CR H7520-7521)
+- 2013-01-01 — On motion that the House agree to the Senate amendments Agreed to without objection. (text as House agreed to Senate amendment: CR H7521)
+- 2013-01-01 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.(text as House agreed to Senate amendment: CR H7521)
+- 2013-01-01 — The title of the measure was amended. Agreed to without objection.
+- 2013-01-02 — Presented to President.
+- 2013-01-02 — Presented to President.
+- 2013-01-14 — Became Public Law No: 112-264.
+- 2013-01-14 — Became Public Law No: 112-264.
+- 2013-01-14 — Signed by President.
+- 2013-01-14 — Signed by President.
