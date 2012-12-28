@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1
@@ -16,12 +16,82 @@ Disaster Relief Appropriations Act, 2013
 
 - Rep. Rogers, Harold [R-KY-5] (R000395)
 
+## Cosponsors (67)
+
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Blunt, Roy [R-MO] (B000575)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Udall, Mark [D-CO] (U000038)
+- Sen. Udall, Tom [D-NM] (U000039)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Franken, Al [D-MN] (F000457)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+
 ## Committees (2)
 
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (105)
+## Recorded votes (121)
 
 - 2011-02-15 — [House 112-1-41](votes/house-112-1-0041.md) — On Agreeing to the Amendment — **Failed** (207–223)
 - 2011-02-15 — [House 112-1-42](votes/house-112-1-0042.md) — On Agreeing to the Amendment — **Failed** (72–358)
@@ -128,6 +198,22 @@ Disaster Relief Appropriations Act, 2013
 - 2011-02-19 — [House 112-1-145](votes/house-112-1-0145.md) — On Agreeing to the Amendment — **Agreed to** (235–187)
 - 2011-02-19 — [House 112-1-146](votes/house-112-1-0146.md) — On Motion to Recommit with Instructions — **Failed** (186–238)
 - 2011-02-19 — [House 112-1-147](votes/house-112-1-0147.md) — On Passage — **Passed** (235–189)
+- 2011-03-09 — [Senate 112-1-36](votes/senate-112-1-0036.md) — On Passage of the Bill — **Bill Defeated** (44–56)
+- 2011-03-09 — [Senate 112-1-37](votes/senate-112-1-0037.md) — On the Amendment — **Amendment Rejected** (42–58)
+- 2012-12-21 — [Senate 112-2-230](votes/senate-112-2-0230.md) — On the Cloture Motion — **Cloture Motion Agreed to** (91–1)
+- 2012-12-21 — [Senate 112-2-231](votes/senate-112-2-0231.md) — On the Motion — **Motion Rejected** (57–34)
+- 2012-12-28 — [Senate 112-2-237](votes/senate-112-2-0237.md) — On the Amendment — **Amendment Rejected** (52–43)
+- 2012-12-28 — [Senate 112-2-238](votes/senate-112-2-0238.md) — On the Motion — **Motion Rejected** (51–44)
+- 2012-12-28 — [Senate 112-2-239](votes/senate-112-2-0239.md) — On the Amendment — **Amendment Rejected** (44–51)
+- 2012-12-28 — [Senate 112-2-240](votes/senate-112-2-0240.md) — On the Amendment — **Amendment Rejected** (35–60)
+- 2012-12-28 — [Senate 112-2-241](votes/senate-112-2-0241.md) — On the Amendment — **Amendment Rejected** (40–55)
+- 2012-12-28 — [Senate 112-2-242](votes/senate-112-2-0242.md) — On the Amendment — **Amendment Rejected** (48–47)
+- 2012-12-28 — [Senate 112-2-243](votes/senate-112-2-0243.md) — On the Amendment — **Amendment Rejected** (42–52)
+- 2012-12-28 — [Senate 112-2-244](votes/senate-112-2-0244.md) — On the Amendment — **Amendment Rejected** (3–91)
+- 2012-12-28 — [Senate 112-2-245](votes/senate-112-2-0245.md) — On the Amendment — **Amendment Rejected** (46–49)
+- 2012-12-28 — [Senate 112-2-246](votes/senate-112-2-0246.md) — On the Motion — **Motion Rejected** (55–40)
+- 2012-12-28 — [Senate 112-2-247](votes/senate-112-2-0247.md) — On the Amendment — **Amendment Rejected** (41–54)
+- 2012-12-28 — [Senate 112-2-248](votes/senate-112-2-0248.md) — On Passage of the Bill — **Bill Passed** (62–32)
 
 ## Actions
 
@@ -1482,3 +1568,309 @@ Disaster Relief Appropriations Act, 2013
 - 2011-02-19 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings were postponed.
 - 2011-02-28 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2011-03-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 14.
+- 2011-03-04 — Cloture motion on the motion to proceed to the bill presented in Senate. (consideration: CR S1247-1248; text: CR S1247-1248)
+- 2011-03-04 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1247-1250; text: CR S1247)
+- 2011-03-04 — Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S1248)
+- 2011-03-04 — Senate amendment submitted
+- 2011-03-07 — Senate amendment submitted
+- 2011-03-08 — Cloture motion on the motion to proceed to the bill withdrawn by unanimous consent in Senate. (consideration: CR S1362)
+- 2011-03-08 — Senate amendment submitted
+- 2011-03-09 — Amendment SA 149 proposed by Senator Reid for Senator Inouye. (consideration: CR S1491) In the nature of a substitute.
+- 2011-03-09 — Amendment SA 149, under the order of 3/8/2011, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 42 - 58. Record Vote Number: 37.
+- 2011-03-09 — Measure laid before Senate by unanimous consent. (consideration: CR S1422-1494)
+- 2011-03-09 — Pursuant to the order of 3/8/2011, not having achieved 60 votes in the affirmative, the bill failed of passage by Yea-Nay Vote. 44 - 56. Record Vote Number: 36.
+- 2011-03-09 — Returned to the Calendar. Calendar No. 14.
+- 2011-03-09 — Roll call votes on amendments in Senate: Amendment SA 149, under the order of 3/8/2011, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 42 - 58. Record Vote Number: 37.
+- 2011-03-09 — Senate amendment not agreed to: Amendment SA 149, under the order of 3/8/2011, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 42 - 58. Record Vote Number: 37.
+- 2011-03-09 — Senate amendment proposed (on the floor): Amendment SA 149 proposed by Senator Reid for Senator Inouye.(consideration: CR S1491)
+- 2011-03-09 — Senate amendment submitted
+- 2011-03-09 — Senate amendment submitted
+- 2011-03-15 — Senate amendment submitted
+- 2012-12-13 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S8016; text: CR S8016)
+- 2012-12-17 — Amendment SA 3338 proposed by Senator Leahy for Senator Inouye. (consideration: CR S8052) In the nature of a substitute.
+- 2012-12-17 — Amendment SA 3339 proposed by Senator Leahy for Senator Inouye to Amendment SA 3338. (consideration: CR S8052; text: CR S8052) Of a perfecting nature.
+- 2012-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S8051-8063)
+- 2012-12-17 — Senate amendment proposed (on the floor): Amendment SA 3338 proposed by Senator Leahy for Senator Inouye.(consideration: CR S8052)
+- 2012-12-17 — Senate amendment proposed (on the floor): Amendment SA 3339 proposed by Senator Leahy for Senator Inouye to Amendment SA 3338.(consideration: CR S8052; text: CR S8052)
+- 2012-12-17 — Senate amendment submitted
+- 2012-12-17 — Senate amendment submitted
+- 2012-12-17 — Senate amendment submitted
+- 2012-12-17 — Senate amendment submitted
+- 2012-12-18 — Amendment SA 3350 proposed by Senator Tester to Amendment SA 3338. To provide additional funds for wildland fire management.
+- 2012-12-18 — Amendment SA 3355 proposed by Senator McCain to Amendment SA 3338. To strike funding for the emergency forest restoration program.
+- 2012-12-18 — Amendment SA 3367 proposed by Senator Merkley to Amendment SA 3338. To extend certain supplemental agriculture disaster assistance programs.
+- 2012-12-18 — Amendment SA 3371 proposed by Senator Coburn to Amendment SA 3338. To ensure that Federal disaster assistance is available for the most severe disasters, and for other purposes.
+- 2012-12-18 — Considered by Senate. (consideration: CR S8117)
+- 2012-12-18 — Considered by Senate. (consideration: CR S8117)
+- 2012-12-18 — Considered by Senate. (consideration: CR S8117-8132)
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-18 — Senate amendment submitted
+- 2012-12-19 — Amendment SA 3344 proposed by Senator Bingaman to Amendment SA 3395. (consideration: CR S8463) To provide for the approval of an agreement between the United States and the Republic of Palau in response to Super Typhoon Bopha.
+- 2012-12-19 — Amendment SA 3371 was divided into Divisions I, II, III, IV, V, VI, VII, VIII, and IX by Unanimous Consent.
+- 2012-12-19 — Amendment SA 3395 proposed by Senator Reid. (consideration: CR S8195) In the nature of a substitute.
+- 2012-12-19 — Amendment SA 3396 proposed by Senator Reid to Amendment SA 3395. (consideration: CR S8195; text: CR S8195) To change the enactment date.
+- 2012-12-19 — Amendment SA 3397 proposed by Senator Reid to Amendment SA 3396. (consideration: CR S8195; text: CR S8195) Of a perfecting nature.
+- 2012-12-19 — Amendment SA 3398 proposed by Senator Reid to language proposed to be stricken by amendment no. 3395. (consideration: CR S8195; text: CR S8195) To change the enactment date.
+- 2012-12-19 — Amendment SA 3399 proposed by Senator Reid to Amendment SA 3398. (consideration: CR S8195; text: CR S8195) Of a perfecting nature.
+- 2012-12-19 — Amendment SA 3400 proposed by Senator Reid. (consideration: CR S8195; text: CR S8195) To change the enactment date.
+- 2012-12-19 — Amendment SA 3401 proposed by Senator Reid to Amendment SA 3400 (the instructions of the motion to commit). (consideration: CR S8195; text: CR S8195) Of a perfecting nature.
+- 2012-12-19 — Amendment SA 3402 proposed by Senator Reid to Amendment SA 3401. (consideration: CR S8195; text: CR S8195) Of a perfecting nature.
+- 2012-12-19 — Cloture motion on Amendment SA 3395 presented in Senate. (consideration: CR S8195; text: CR S8195)
+- 2012-12-19 — Cloture motion on the bill presented in Senate. (consideration: CR S8195; text: CR S8195)
+- 2012-12-19 — Considered by Senate. (consideration: CR S8164)
+- 2012-12-19 — Considered by Senate. (consideration: CR S8164)
+- 2012-12-19 — Considered by Senate. (consideration: CR S8164)
+- 2012-12-19 — Considered by Senate. (consideration: CR S8164, S8178-8179; text as modified: CR S8178-8179)
+- 2012-12-19 — Considered by Senate. (consideration: CR S8164, S8194)
+- 2012-12-19 — Considered by Senate. (consideration: CR S8164, S8194-8195; text as modified: CR S8184-8185)
+- 2012-12-19 — Considered by Senate. (consideration: CR S8164-8165, S8169-8194, S8194-8196)
+- 2012-12-19 — Motion by Senator Reid to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 3400) made in Senate. (consideration: CR S8195)
+- 2012-12-19 — Proposed amendment SA 3338 withdrawn in Senate. (consideration: CR S8194)
+- 2012-12-19 — SA 3339 fell when SA 3338 withdrawn. (consideration: CR S8194)
+- 2012-12-19 — SA 3344 fell when SA 3338 withdrawn. (consideration: CR S8194)
+- 2012-12-19 — SA 3350 fell when SA 3338 withdrawn. (consideration: CR S8194)
+- 2012-12-19 — SA 3355 fell when SA 3338 withdrawn. (consideration: CR S8194)
+- 2012-12-19 — SA 3367 fell when SA 3338 withdrawn. (consideration: CR S8194)
+- 2012-12-19 — SA 3371 (Divisions, I, II, III, IV, V, VI, VII, VIII, and IX) fell when SA 3338 withdrawn. (consideration: CR S8194)
+- 2012-12-19 — Senate amendment proposed (on the floor): Amendment SA 3395 proposed by Senator Reid.(consideration: CR S8195)
+- 2012-12-19 — Senate amendment proposed (on the floor): Amendment SA 3396 proposed by Senator Reid to Amendment SA 3395.(consideration: CR S8195; text: CR S8195)
+- 2012-12-19 — Senate amendment proposed (on the floor): Amendment SA 3397 proposed by Senator Reid to Amendment SA 3396.(consideration: CR S8195; text: CR S8195)
+- 2012-12-19 — Senate amendment proposed (on the floor): Amendment SA 3398 proposed by Senator Reid to language proposed to be stricken by amendment no. 3395.(consideration: CR S8195; text: CR S8195)
+- 2012-12-19 — Senate amendment proposed (on the floor): Amendment SA 3399 proposed by Senator Reid to Amendment SA 3398.(consideration: CR S8195; text: CR S8195)
+- 2012-12-19 — Senate amendment proposed (on the floor): Amendment SA 3400 proposed by Senator Reid.(consideration: CR S8195; text: CR S8195)
+- 2012-12-19 — Senate amendment proposed (on the floor): Amendment SA 3401 proposed by Senator Reid to Amendment SA 3400 (the instructions of the motion to commit).(consideration: CR S8195; text: CR S8195)
+- 2012-12-19 — Senate amendment proposed (on the floor): Amendment SA 3402 proposed by Senator Reid to Amendment SA 3401.(consideration: CR S8195; text: CR S8195)
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-19 — Senate amendment submitted
+- 2012-12-20 — Considered by Senate. (consideration: CR S8236-8237)
+- 2012-12-20 — Considered by Senate. (consideration: CR S8237)
+- 2012-12-20 — Considered by Senate. (consideration: CR S8237)
+- 2012-12-20 — Considered by Senate. (consideration: CR S8237)
+- 2012-12-20 — Considered by Senate. (consideration: CR S8237)
+- 2012-12-20 — Considered by Senate. (consideration: CR S8237)
+- 2012-12-20 — Considered by Senate. (consideration: CR S8237)
+- 2012-12-20 — Considered by Senate. (consideration: CR S8237)
+- 2012-12-20 — Considered by Senate. (consideration: CR S8237)
+- 2012-12-20 — Senate amendment submitted
+- 2012-12-20 — Senate amendment submitted
+- 2012-12-20 — Senate amendment submitted
+- 2012-12-20 — Senate amendment submitted
+- 2012-12-20 — Senate amendment submitted
+- 2012-12-20 — Senate amendment submitted
+- 2012-12-20 — Senate amendment submitted
+- 2012-12-20 — Senate amendment submitted
+- 2012-12-20 — Senate amendment submitted
+- 2012-12-20 — Senate amendment submitted
+- 2012-12-20 — Senate amendment submitted
+- 2012-12-20 — Senate amendment submitted
+- 2012-12-20 — Senate amendment submitted
+- 2012-12-20 — Senate amendment submitted
+- 2012-12-20 — Senate amendment submitted
+- 2012-12-21 — Cloture on SA 3395 invoked in Senate by Yea-Nay Vote. 91 - 1. Record Vote Number: 230. (consideration: CR S8340-8341; text: CR S8340)
+- 2012-12-21 — Considered by Senate. (consideration: CR S8340-8342, S8342-8343, S8345-8346)
+- 2012-12-21 — Considered by Senate. (consideration: CR S8341)
+- 2012-12-21 — Considered by Senate. (consideration: CR S8341)
+- 2012-12-21 — Considered by Senate. (consideration: CR S8341)
+- 2012-12-21 — Considered by Senate. (consideration: CR S8341)
+- 2012-12-21 — Considered by Senate. (consideration: CR S8341)
+- 2012-12-21 — Considered by Senate. (consideration: CR S8341)
+- 2012-12-21 — Considered by Senate. (consideration: CR S8341, S8346)
+- 2012-12-21 — Considered by Senate. (consideration: CR S8341, S8346)
+- 2012-12-21 — Motion by Senator Reid to commit to Senate Committee on Appropriations with instructions to report back forthwith with amendment SA 3400 fell when cloture was invoked on SA 3395 in Senate. (consideration: CR S8340-8341)
+- 2012-12-21 — Motion to waive the Budget Act with respect to amendment SA 3395 (the section within the amendment regarding an emergency designation) rejected in Senate by Yea-Nay Vote. 57 - 34. Record Vote Number: 231.
+- 2012-12-21 — Point of order that the amendment violates section 314(e) of the CBA raised in Senate with respect to amendment SA 3395.
+- 2012-12-21 — Proposed amendment SA 3396 withdrawn in Senate. (consideration: CR S8346)
+- 2012-12-21 — Proposed amendment SA 3398 withdrawn in Senate. (consideration: CR S8346)
+- 2012-12-21 — Roll call votes on amendments in Senate: Cloture on SA 3395 invoked in Senate by Yea-Nay Vote. 91 - 1. Record Vote Number: 230.(consideration: CR S8340-8341; text: CR S8340)
+- 2012-12-21 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 3395 (the section within the amendment regarding an emergency designation) rejected in Senate by Yea-Nay Vote. 57 - 34. Record Vote Number: 231.
+- 2012-12-21 — SA 3397 fell when SA 3396 was withdrawn. (consideration: CR S8346)
+- 2012-12-21 — SA 3399 fell when SA 3398 was withdrawn. (consideration: CR S8346)
+- 2012-12-21 — SA 3400 fell when cloture invoked on SA3395. (consideration: CR S8340-8341)
+- 2012-12-21 — SA 3401 fell when SA 3400 fell. (consideration: CR S8340-8341)
+- 2012-12-21 — SA 3402 fell when SA 3401 fell. (consideration: CR S8340-8341)
+- 2012-12-21 — Senate amendment submitted
+- 2012-12-21 — Senate amendment submitted
+- 2012-12-21 — Senate amendment submitted
+- 2012-12-21 — Senate amendment submitted
+- 2012-12-21 — Senate amendment submitted
+- 2012-12-21 — Senate amendment submitted
+- 2012-12-21 — Senate amendment submitted
+- 2012-12-21 — The emergency designation within amendment SA 3395 was stricken.
+- 2012-12-27 — Amendment SA 3350 proposed by Senator Tester to Amendment SA 3395. (consideration: CR S8429-8430; text: CR S8429)
+- 2012-12-27 — Amendment SA 3367 proposed by Senator Merkley to Amendment SA 3395. (consideration: CR S8434-8437; text as further modified: CR S8434-8437)
+- 2012-12-27 — Amendment SA 3368 proposed by Senator Coburn to Amendment SA 3395. (consideration: CR S8432-8433; text: CR S8432) To clarify cost-sharing requirements for certain Corps of Engineers activities.
+- 2012-12-27 — Amendment SA 3369 proposed by Senator Coburn to Amendment SA 3395. (consideration: CR S8431; text: CR S8431) To reduce the amount that triggers the requirement to notify Congress of the recipients of certain grants and to require publication of the notice.
+- 2012-12-27 — Amendment SA 3370 proposed by Senator Coburn to Amendment SA 3395. (consideration: CR S8433-8434, S8442; text as modified: CR S8433) To ensure funding for victims of Hurricane Sandy is not spent on tax cheats, deceased individuals, or fisheries outside of the affected area.
+- 2012-12-27 — Amendment SA 3370 was divided into Divisions I and II by Unanimous Consent. (consideration: CR S8433-8434)
+- 2012-12-27 — Amendment SA 3371 proposed by Senator Coburn to Amendment SA 3395. (consideration: CR S8431; text: CR S8431)
+- 2012-12-27 — Amendment SA 3382 proposed by Senator Coburn to Amendment SA 3395. (consideration: CR S8431-8432, S8441; text: CR S8432) To require merit-based and competitive awards of disaster recovery contracts.
+- 2012-12-27 — Amendment SA 3383 proposed by Senator Coburn to Amendment SA 3395. (consideration: CR S8432, S8441-8442; text: CR S8432) To strike a provision relating to certain studies of the Corps of Engineers.
+- 2012-12-27 — Amendment SA 3391 proposed by Senator Coats to Amendment SA 3395. (consideration: CR S8425-8427) In the nature of a substitute.
+- 2012-12-27 — Amendment SA 3393 proposed by Senator Cardin to Amendment SA 3395. (consideration: CR S8429; text: CR S8429) Of a perfecting nature.
+- 2012-12-27 — Amendment SA 3403 proposed by Senator Mikulski for Senator Leahy to Amendment SA 3395. (consideration: CR S8442; text: CR S8442) To provide authority to transfer previously appropriated funds to increase security at United States embassies and other overseas posts.
+- 2012-12-27 — Amendment SA 3415 proposed by Senator Landrieu to Amendment SA 3395. (consideration: CR S8430-8431; text: CR S8430) To clarify the provision relating to emergency protective measures.
+- 2012-12-27 — Amendment SA 3426 proposed by Senator Mikulski for Senator Harkin to Amendment SA 3395. (consideration: CR S8442-8445; text: CR S8442) Of a perfecting nature.
+- 2012-12-27 — Considered by Senate. (consideration: CR S8425)
+- 2012-12-27 — Considered by Senate. (consideration: CR S8425-8427, S8429-8445)
+- 2012-12-27 — Senate amendment proposed (on the floor): Amendment SA 3350 proposed by Senator Tester to Amendment SA 3395.(consideration: CR S8429-8430; text: CR S8429)
+- 2012-12-27 — Senate amendment proposed (on the floor): Amendment SA 3367 proposed by Senator Merkley to Amendment SA 3395.(consideration: CR S8434-8437; text as further modified: CR S8434-8437)
+- 2012-12-27 — Senate amendment proposed (on the floor): Amendment SA 3368 proposed by Senator Coburn to Amendment SA 3395.(consideration: CR S8432-8433; text: CR S8432)
+- 2012-12-27 — Senate amendment proposed (on the floor): Amendment SA 3369 proposed by Senator Coburn to Amendment SA 3395.(consideration: CR S8431; text: CR S8431)
+- 2012-12-27 — Senate amendment proposed (on the floor): Amendment SA 3370 proposed by Senator Coburn to Amendment SA 3395.(consideration: CR S8433-8434, S8442; text as modified: CR S8433)
+- 2012-12-27 — Senate amendment proposed (on the floor): Amendment SA 3371 proposed by Senator Coburn to Amendment SA 3395.(consideration: CR S8431; text: CR S8431)
+- 2012-12-27 — Senate amendment proposed (on the floor): Amendment SA 3382 proposed by Senator Coburn to Amendment SA 3395.(consideration: CR S8431-8432, S8441; text: CR S8432)
+- 2012-12-27 — Senate amendment proposed (on the floor): Amendment SA 3383 proposed by Senator Coburn to Amendment SA 3395.(consideration: CR S8432, S8441-8442; text: CR S8432)
+- 2012-12-27 — Senate amendment proposed (on the floor): Amendment SA 3391 proposed by Senator Coats to Amendment SA 3395.(consideration: CR S8425-8427)
+- 2012-12-27 — Senate amendment proposed (on the floor): Amendment SA 3393 proposed by Senator Cardin to Amendment SA 3395.(consideration: CR S8429; text: CR S8429)
+- 2012-12-27 — Senate amendment proposed (on the floor): Amendment SA 3403 proposed by Senator Mikulski for Senator Leahy to Amendment SA 3395.(consideration: CR S8442; text: CR S8442)
+- 2012-12-27 — Senate amendment proposed (on the floor): Amendment SA 3415 proposed by Senator Landrieu to Amendment SA 3395.(consideration: CR S8430-8431; text: CR S8430)
+- 2012-12-27 — Senate amendment proposed (on the floor): Amendment SA 3426 proposed by Senator Mikulski for Senator Harkin to Amendment SA 3395.(consideration: CR S8442-8445; text: CR S8442)
+- 2012-12-28 — Amendment SA 3344 proposed by Senator Bingaman to Amendment SA 3395. (consideration: CR S8463; text: CR S8463)
+- 2012-12-28 — Amendment SA 3344, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 52 - 43. Record Vote Number: 237.
+- 2012-12-28 — Amendment SA 3348 agreed to in Senate by Voice Vote.
+- 2012-12-28 — Amendment SA 3348 proposed by Senator Mikulski for Senator Grassley to Amendment SA 3395. (consideration: CR S8462; text: CR S8462) To shift vehicles used for non-operational purposes by the Department of Justice and Department of Homeland Security in the District of Columbia to replace vehicles of those agencies damaged by Hurricane Sandy.
+- 2012-12-28 — Amendment SA 3355 proposed by Senator McCain to Amendment SA 3395. (consideration: CR S8476-8480, S8481-8482; text: CR S8476)
+- 2012-12-28 — Amendment SA 3355, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 46 - 49. Record Vote Number: 245.
+- 2012-12-28 — Amendment SA 3368, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 44 - 51. Record Vote Number: 239.
+- 2012-12-28 — Amendment SA 3369 agreed to in Senate by Voice Vote.
+- 2012-12-28 — Amendment SA 3370 Division I as modified agreed to in Senate by Voice Vote.
+- 2012-12-28 — Amendment SA 3370 Division II, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 35 - 60. Record Vote Number: 240.
+- 2012-12-28 — Amendment SA 3371, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 40 - 55. Record Vote Number: 241.
+- 2012-12-28 — Amendment SA 3373 proposed by Senator Lee to Amendment SA 3395. (consideration: CR S8472-8474; text as modified: CR S8472-8474) To amend the Internal Revenue Code of 1986 to provide special rules for the use of retirement funds in connection with federally declared disasters, to provide for certain regulatory relief in connection with federally declared disasters, and for other purposes.
+- 2012-12-28 — Amendment SA 3376 proposed by Senator Paul to Amendment SA 3395. (consideration: CR S8469-8472, S8480-8481; text: CR S8469) To provide for the nonapplication of the Davis-Bacon Act in the case of projects funded under this Act.
+- 2012-12-28 — Amendment SA 3376, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 42 - 52. Record Vote Number: 243.
+- 2012-12-28 — Amendment SA 3382, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 48 - 47. Record Vote Number: 242.
+- 2012-12-28 — Amendment SA 3391, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 41 - 54. Record Vote Number: 247.
+- 2012-12-28 — Amendment SA 3393 agreed to in Senate by Voice Vote.
+- 2012-12-28 — Amendment SA 3395 agreed to in Senate by Voice Vote. (consideration: CR S8462, S8483)
+- 2012-12-28 — Amendment SA 3403 agreed to in Senate by Voice Vote.
+- 2012-12-28 — Amendment SA 3410 proposed by Senator Paul to Amendment SA 3395. (consideration: CR S8469-8472, S8480, S8481; text: CR S8469) To offset the cost of the bill and to put the spending on budget as regular spending and not emergency.
+- 2012-12-28 — Amendment SA 3410, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 3 - 91. Record Vote Number: 244.
+- 2012-12-28 — Amendment SA 3415 agreed to in Senate by Voice Vote.
+- 2012-12-28 — Amendment SA 3421 as modified agreed to in Senate by Voice Vote.
+- 2012-12-28 — Amendment SA 3421 proposed by Senator Mikulski for Senator Feinstein to Amendment SA 3395. (consideration: CR S8462; text as modified: CR S8462) To make a technical correction to the construction language for the Corps of Engineers.
+- 2012-12-28 — Amendment SA 3426 agreed to in Senate by Voice Vote.
+- 2012-12-28 — Amendment SA 3440 agreed to in Senate by Unanimous Consent.
+- 2012-12-28 — Amendment SA 3440 proposed by Senator Reid for Senator Mikulski. (consideration: CR S8496; text: CR S8496) To amend the title.
+- 2012-12-28 — Cloture motion on the bill withdrawn by unanimous consent in Senate.
+- 2012-12-28 — Considered by Senate.
+- 2012-12-28 — Considered by Senate. (consideration: CR S8462)
+- 2012-12-28 — Considered by Senate. (consideration: CR S8462)
+- 2012-12-28 — Considered by Senate. (consideration: CR S8462)
+- 2012-12-28 — Considered by Senate. (consideration: CR S8462)
+- 2012-12-28 — Considered by Senate. (consideration: CR S8462)
+- 2012-12-28 — Considered by Senate. (consideration: CR S8462, S8464)
+- 2012-12-28 — Considered by Senate. (consideration: CR S8462, S8464-8465)
+- 2012-12-28 — Considered by Senate. (consideration: CR S8462, S8465-8467)
+- 2012-12-28 — Considered by Senate. (consideration: CR S8462, S8467-8467)
+- 2012-12-28 — Considered by Senate. (consideration: CR S8462, S8467-8468)
+- 2012-12-28 — Considered by Senate. (consideration: CR S8462, S8468)
+- 2012-12-28 — Considered by Senate. (consideration: CR S8462, S8482)
+- 2012-12-28 — Considered by Senate. (consideration: CR S8462, S8483)
+- 2012-12-28 — Considered by Senate. (consideration: CR S8462-8467, S8467-8497)
+- 2012-12-28 — Motion to waive all applicable budgetary discipline with respect to amendment SA 3350 (the section within the amendment regarding an emergency designation) rejected in Senate by Yea-Nay Vote. 51 - 44. Record Vote Number: 238.
+- 2012-12-28 — Motion to waive all applicable budgetary discipline with respect to amendment SA 3367 (the sections within the amendment regarding emergency designations) rejected in Senate by Yea-Nay Vote. 55 - 40. Record Vote Number: 246.
+- 2012-12-28 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 62 - 32. Record Vote Number: 248. (text: CR S8486-8496)
+- 2012-12-28 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 62 - 32. Record Vote Number: 248.(text: CR S8486-8496)
+- 2012-12-28 — Point of order that an emergency designation within the amendment violates the CBA raised in Senate with respect to amendment SA 3350.
+- 2012-12-28 — Point of order that emergency designations within the amendment violate the CBA raised in Senate with respect to amendment SA 3367.
+- 2012-12-28 — Proposed amendment SA 3350 withdrawn in Senate. (consideration: CR S8464)
+- 2012-12-28 — Proposed amendment SA 3367 withdrawn in Senate. (consideration: CR S8482-8483)
+- 2012-12-28 — Proposed amendment SA 3373 withdrawn in Senate. (consideration: CR S8474)
+- 2012-12-28 — Proposed amendment SA 3383 withdrawn in Senate. (consideration: CR S8468)
+- 2012-12-28 — Roll call votes on amendments in Senate: Amendment SA 3344, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 52 - 43. Record Vote Number: 237.
+- 2012-12-28 — Roll call votes on amendments in Senate: Amendment SA 3355, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 46 - 49. Record Vote Number: 245.
+- 2012-12-28 — Roll call votes on amendments in Senate: Amendment SA 3368, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 44 - 51. Record Vote Number: 239.
+- 2012-12-28 — Roll call votes on amendments in Senate: Amendment SA 3370 Division II, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 35 - 60. Record Vote Number: 240.
+- 2012-12-28 — Roll call votes on amendments in Senate: Amendment SA 3371, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 40 - 55. Record Vote Number: 241.
+- 2012-12-28 — Roll call votes on amendments in Senate: Amendment SA 3376, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 42 - 52. Record Vote Number: 243.
+- 2012-12-28 — Roll call votes on amendments in Senate: Amendment SA 3382, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 48 - 47. Record Vote Number: 242.
+- 2012-12-28 — Roll call votes on amendments in Senate: Amendment SA 3391, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 41 - 54. Record Vote Number: 247.
+- 2012-12-28 — Roll call votes on amendments in Senate: Amendment SA 3410, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 3 - 91. Record Vote Number: 244.
+- 2012-12-28 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 3350 (the section within the amendment regarding an emergency designation) rejected in Senate by Yea-Nay Vote. 51 - 44. Record Vote Number: 238.
+- 2012-12-28 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 3367 (the sections within the amendment regarding emergency designations) rejected in Senate by Yea-Nay Vote. 55 - 40. Record Vote Number: 246.
+- 2012-12-28 — Senate amendment agreed to: Amendment SA 3348 agreed to in Senate by Voice Vote.
+- 2012-12-28 — Senate amendment agreed to: Amendment SA 3369 agreed to in Senate by Voice Vote.
+- 2012-12-28 — Senate amendment agreed to: Amendment SA 3370 Division I as modified agreed to in Senate by Voice Vote.
+- 2012-12-28 — Senate amendment agreed to: Amendment SA 3393 agreed to in Senate by Voice Vote.
+- 2012-12-28 — Senate amendment agreed to: Amendment SA 3395 agreed to in Senate by Voice Vote.(consideration: CR S8462, S8483)
+- 2012-12-28 — Senate amendment agreed to: Amendment SA 3403 agreed to in Senate by Voice Vote.
+- 2012-12-28 — Senate amendment agreed to: Amendment SA 3415 agreed to in Senate by Voice Vote.
+- 2012-12-28 — Senate amendment agreed to: Amendment SA 3421 as modified agreed to in Senate by Voice Vote.
+- 2012-12-28 — Senate amendment agreed to: Amendment SA 3426 agreed to in Senate by Voice Vote.
+- 2012-12-28 — Senate amendment agreed to: Amendment SA 3440 agreed to in Senate by Unanimous Consent.
+- 2012-12-28 — Senate amendment not agreed to: Amendment SA 3344, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 52 - 43. Record Vote Number: 237.
+- 2012-12-28 — Senate amendment not agreed to: Amendment SA 3355, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 46 - 49. Record Vote Number: 245.
+- 2012-12-28 — Senate amendment not agreed to: Amendment SA 3368, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 44 - 51. Record Vote Number: 239.
+- 2012-12-28 — Senate amendment not agreed to: Amendment SA 3370 Division II, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 35 - 60. Record Vote Number: 240.
+- 2012-12-28 — Senate amendment not agreed to: Amendment SA 3371, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 40 - 55. Record Vote Number: 241.
+- 2012-12-28 — Senate amendment not agreed to: Amendment SA 3376, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 42 - 52. Record Vote Number: 243.
+- 2012-12-28 — Senate amendment not agreed to: Amendment SA 3382, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 48 - 47. Record Vote Number: 242.
+- 2012-12-28 — Senate amendment not agreed to: Amendment SA 3391, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 41 - 54. Record Vote Number: 247.
+- 2012-12-28 — Senate amendment not agreed to: Amendment SA 3410, under the order of 12/27/12, not having achieved 60 votes in the affirmative, the amendment was not agreed to in Senate by Yea-Nay Vote. 3 - 91. Record Vote Number: 244.
+- 2012-12-28 — Senate amendment proposed (on the floor): Amendment SA 3344 proposed by Senator Bingaman to Amendment SA 3395.(consideration: CR S8463; text: CR S8463)
+- 2012-12-28 — Senate amendment proposed (on the floor): Amendment SA 3348 proposed by Senator Mikulski for Senator Grassley to Amendment SA 3395.(consideration: CR S8462; text: CR S8462)
+- 2012-12-28 — Senate amendment proposed (on the floor): Amendment SA 3355 proposed by Senator McCain to Amendment SA 3395.(consideration: CR S8476-8480, S8481-8482; text: CR S8476)
+- 2012-12-28 — Senate amendment proposed (on the floor): Amendment SA 3373 proposed by Senator Lee to Amendment SA 3395.(consideration: CR S8472-8474; text as modified: CR S8472-8474)
+- 2012-12-28 — Senate amendment proposed (on the floor): Amendment SA 3376 proposed by Senator Paul to Amendment SA 3395.(consideration: CR S8469-8472, S8480-8481; text: CR S8469)
+- 2012-12-28 — Senate amendment proposed (on the floor): Amendment SA 3410 proposed by Senator Paul to Amendment SA 3395.(consideration: CR S8469-8472, S8480, S8481; text: CR S8469)
+- 2012-12-28 — Senate amendment proposed (on the floor): Amendment SA 3421 proposed by Senator Mikulski for Senator Feinstein to Amendment SA 3395.(consideration: CR S8462; text as modified: CR S8462)
+- 2012-12-28 — Senate amendment proposed (on the floor): Amendment SA 3440 proposed by Senator Reid for Senator Mikulski.(consideration: CR S8496; text: CR S8496)
+- 2012-12-28 — Senate amendment submitted
+- 2012-12-28 — The emergency designation within amendment SA 3350 was stricken.
+- 2012-12-28 — The emergency designations within amendment SA 3367 were stricken.
