@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6621
 congress: 112
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6621
@@ -15,6 +15,10 @@ To correct and improve certain provisions of the Leahy-Smith America Invents Act
 ## Sponsor
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
+
+## Cosponsors (1)
+
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (1)
 
@@ -38,3 +42,11 @@ To correct and improve certain provisions of the Leahy-Smith America Invents Act
 - 2012-12-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 308 - 89 (Roll no. 631). (text: CR H6842-6843)
 - 2012-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 308 - 89 (Roll no. 631).(text: CR H6842-6843)
 - 2012-12-19 — Received in the Senate, read twice.
+- 2012-12-28 — Amendment SA 3444 agreed to in Senate by Unanimous Consent.
+- 2012-12-28 — Amendment SA 3444 proposed by Senator Reid for Senator Leahy. (consideration: CR S8517-8518; text: CR S8517-8518) In the nature of a substitute.
+- 2012-12-28 — Measure laid before Senate by unanimous consent. (consideration: CR S8517-8518)
+- 2012-12-28 — Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2012-12-28 — Senate amendment agreed to: Amendment SA 3444 agreed to in Senate by Unanimous Consent.
+- 2012-12-28 — Senate amendment proposed (on the floor): Amendment SA 3444 proposed by Senator Reid for Senator Leahy.(consideration: CR S8517-8518; text: CR S8517-8518)
+- 2012-12-28 — Senate amendment submitted

@@ -2,12 +2,14 @@
 legis-num: H.R. 6621
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 6621
 
-> To correct and improve certain provisions of the Leahy-Smith America Invents Act and title 35, United States Code.
+That the bill from the House of Representatives (H.R. 6621) entitled “An Act to correct and improve certain provisions of the Leahy-Smith America Invents Act and title 35, United States Code.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Technical corrections
 
@@ -62,14 +64,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(2)** *Transition*
     - **(A)** *In general* The Secretary of Commerce shall, in the Secretary’s discretion, determine the time and manner in which the amendments made by paragraph (1) shall take effect, except that, in each year following the year in which this Act is enacted, 3 members shall be appointed to each Advisory Committee (to which such amendments apply) for 3-year terms that begin on December 1 of that year, in accordance with section 5(a) of title 35, United States Code, as amended by paragraph (1) of this subsection.
     - **(B)** *Deemed termination of terms* In order to implement the amendments made by paragraph (1), the Secretary of Commerce may determine that the term of an existing member of an Advisory Committee under section 5 of title 35, United States Code, shall be deemed to terminate on December 1 of a year beginning after the date of the enactment of this Act, regardless of whether December 1 is before or after the date on which such member’s term would terminate if this Act had not been enacted.
-- **(m)** *Report on pre-GATT applications* Using existing resources, not later than four months after the date of the enactment of this Act, the Director of the United States Patent and Trademark Office shall submit a report to the Committees on the Judiciary of the United States House of Representatives and the Senate that describes—
-  - **(1)** the total number of pending United States applications for patent that—
-    - **(A)** are not subject to an order under section 181 of title 35, United States Code; and
-    - **(B)** were filed before the effective date of the amendments made by section 532 of the Uruguay Round Agreements Act (Public Law 103–465; 108 Stat. 4983);
-  - **(2)** the filing date of each such application;
-  - **(3)** the filing date of the earliest application for which each such application claims the benefit of or a right of priority to its filing date;
-  - **(4)** the inventor and assignee named on each such application;
-  - **(5)** the amount of time that examination of each such application has been delayed because of a proceeding under section 135(a) of title 35, United States Code, an appeal to the Patent Trial and Appeal Board under section 134(a) of such title, a civil action in a United States District Court under section 145 or 146 of such title, or an appeal to the United States Court of Appeals for the Federal Circuit under section 141 of such title; and
-  - **(6)** other information about such applications that the Director believes is relevant to their pendency.
-- **(n)** *Clerical amendment* Section 123(a) of title 35, United States Code, is amended in the matter preceding paragraph (1) by inserting “of this title” after “For purposes”.
-- **(o)** *Effective date* Except as otherwise provided in this Act, the amendments made by this Act shall take effect on the date of the enactment of this Act and shall apply to proceedings commenced on or after such date of enactment.
+- **(m)** *Clerical amendment* Section 123(a) of title 35, United States Code, is amended in the matter preceding paragraph (1) by inserting “of this title” after “For purposes”.
+- **(n)** *Effective date* Except as otherwise provided in this Act, the amendments made by this Act shall take effect on the date of enactment of this Act, and shall apply to proceedings commenced on or after such date of enactment.
