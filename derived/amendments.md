@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6621
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | in subsection (a)(1)(C)((i), by striking “of such title” the second place it appears; and | the bill names no machine-readable US Code section |
+| — | strike | in subsection (a)(1)(C)(i), by striking “of such title” the second place it appears; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d)(2), by striking “subsection” and inserting “section”. | the bill names no machine-readable US Code section |
 | — | replace | Section 299(a) of title 35, United States Code, is amended in the matter preceding paragraph (1) by striking “or counterclaim defendants only if” and inserting “only if”. | the bill names no machine-readable US Code section |
 | — | strike | Section 311(c)(1) of title 35, United States Code, is amended by striking “or issuance of a reissue of a patent”. | the bill names no machine-readable US Code section |

@@ -1,21 +1,19 @@
 ---
 legis-num: H.R. 6621
-congress: 112th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 6621
 
-That the bill from the House of Representatives (H.R. 6621) entitled “An Act to correct and improve certain provisions of the Leahy-Smith America Invents Act and title 35, United States Code.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To correct and improve certain provisions of the Leahy-Smith America Invents Act and title 35, United States Code.
 
 ## § 1. Technical corrections
 
 - **(a)** *Advice of counsel* Notwithstanding section 35 of the Leahy-Smith America Invents Act (35 U.S.C. 1 note), section 298 of title 35, United States Code, shall apply to any civil action commenced on or after the date of the enactment of this Act.
 - **(b)** *Transitional program for covered business method patents* Section 18 of the Leahy-Smith America Invents Act (35 U.S.C. 321 note) is amended—
-  - **(1)** in subsection (a)(1)(C)((i), by striking “of such title” the second place it appears; and
+  - **(1)** in subsection (a)(1)(C)(i), by striking “of such title” the second place it appears; and
   - **(2)** in subsection (d)(2), by striking “subsection” and inserting “section”.
 - **(c)** *Joinder of parties* Section 299(a) of title 35, United States Code, is amended in the matter preceding paragraph (1) by striking “or counterclaim defendants only if” and inserting “only if”.
 - **(d)** *Dead zones*
