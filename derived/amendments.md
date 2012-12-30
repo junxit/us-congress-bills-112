@@ -1,7 +1,7 @@
 ---
 measure: S. 3250
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,9 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | in subsection (a), by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (c), by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 2 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135), as amended by section 2, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “and for carrying out subsection (o)” after “for grants under subsection (a)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new sentence: “For each of fiscal years 2013 through 2017, not less than 1 percent of the amount authorized to be appropriated under the previous sentence for such fiscal year shall be for carrying out … | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “2014” and inserting “2017”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “2014” and inserting “2018”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | repeal | Effective on December 31, 2018, subsections (a)(6) and (n) of section 2 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135(a)(6) and (n)) are repealed. | the bill names no machine-readable US Code section |
