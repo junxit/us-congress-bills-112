@@ -1,7 +1,7 @@
 ---
 measure: S. 2015
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2015
@@ -28,3 +28,8 @@ Powell Shooting Range Land Conveyance Act
 
 - 2011-12-16 — Introduced in Senate
 - 2011-12-16 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2012-03-22 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 112-642.
+- 2012-12-30 — Passed Senate without amendment by Unanimous Consent.
+- 2012-12-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2012-12-30 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S8552, S8552-8556)
+- 2012-12-30 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S8552, S8552-8556)
