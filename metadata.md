@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8
 congress: 112
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 8
