@@ -1,7 +1,7 @@
 ---
 measure: S. 1047
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 703 of the Reclamation Projects Authorization and Adjustment Act of 1992 (Public Law 102–575; 106 Stat. 4656) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “The treatment plant” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Drainage Tunnel” and inserting “Drainage Tunnel (which includes any surface water diverted into the Leadville Mine Drainage Tunnel and water collected by the dewatering relief well installed in June 2008)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “(a) The Secretary” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Neither” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Secretary shall have” and inserting the following: | the bill names no machine-readable US Code section |

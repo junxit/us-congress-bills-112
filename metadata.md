@@ -1,7 +1,7 @@
 ---
 measure: S. 1047
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1047
@@ -30,3 +30,5 @@ Leadville Mine Drainage Tunnel Act of 2011
 - 2012-01-13 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 12/17/2011 without amendment. With written report No. 112-122.
 - 2012-01-13 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 12/17/2011 without amendment. With written report No. 112-122.
 - 2012-01-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 284.
+- 2012-12-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8552-8556; text as passed Senate: CR S8553-8554)
+- 2012-12-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8552-8556; text as passed Senate: CR S8553-8554)
