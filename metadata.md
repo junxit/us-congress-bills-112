@@ -1,7 +1,7 @@
 ---
 measure: S. 114
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 114
@@ -29,3 +29,17 @@ San Antonio Missions National Historical Park Boundary Expansion Act of 2012
 - 2012-01-13 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 12/17/2011 with an amendment in the nature of a substitute. With written report No. 112-103.
 - 2012-01-13 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 12/17/2011 with an amendment in the nature of a substitute. With written report No. 112-103.
 - 2012-01-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 265.
+- 2012-12-30 — Amendment SA 3446 agreed to in Senate by Unanimous Consent.
+- 2012-12-30 — Amendment SA 3446 proposed by Senator Durbin for Senator Hutchison. (consideration: CR S8555-8556; text: CR S8555-8556) In the nature of a substitute.
+- 2012-12-30 — Amendment SA 3447 agreed to in Senate by Unanimous Consent. (consideration: CR S8556; text: CR S8556)
+- 2012-12-30 — Amendment SA 3447 proposed by Senator Durbin for Senator Hutchison. To amend the title.
+- 2012-12-30 — Measure laid before Senate by unanimous consent. (consideration: CR S8552-8556)
+- 2012-12-30 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2012-12-30 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2012-12-30 — Senate amendment agreed to: Amendment SA 3446 agreed to in Senate by Unanimous Consent.
+- 2012-12-30 — Senate amendment agreed to: Amendment SA 3447 agreed to in Senate by Unanimous Consent.(consideration: CR S8556; text: CR S8556)
+- 2012-12-30 — Senate amendment proposed (on the floor): Amendment SA 3446 proposed by Senator Durbin for Senator Hutchison.(consideration: CR S8555-8556; text: CR S8555-8556)
+- 2012-12-30 — Senate amendment proposed (on the floor): Amendment SA 3447 proposed by Senator Durbin for Senator Hutchison.
+- 2012-12-30 — Senate amendment submitted
+- 2012-12-30 — Senate amendment submitted
+- 2012-12-30 — The committee substitute as amended agreed to by Unanimous Consent. (text of measure as reported in Senate: CR S8555)
