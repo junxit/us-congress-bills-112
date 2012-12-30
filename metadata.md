@@ -1,7 +1,7 @@
 ---
 measure: S. 1421
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1421
@@ -16,7 +16,7 @@ A bill to authorize the Peace Corps Commemorative Foundation to establish a comm
 
 - Sen. Portman, Rob [R-OH] (P000449)
 
-## Cosponsors (14)
+## Cosponsors (22)
 
 - Sen. Udall, Mark [D-CO] (U000038)
 - Sen. Conrad, Kent [D-ND] (C000705)
@@ -32,6 +32,14 @@ A bill to authorize the Peace Corps Commemorative Foundation to establish a comm
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Brown, Scott P. [R-MA] (B001268)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Committees (1)
 
@@ -46,3 +54,5 @@ A bill to authorize the Peace Corps Commemorative Foundation to establish a comm
 - 2012-01-13 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 12/17/2011 without amendment. With written report No. 112-127.
 - 2012-01-13 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 12/17/2011 without amendment. With written report No. 112-127.
 - 2012-01-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 288.
+- 2012-12-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8552-8556; text as passed Senate: CR S8554)
+- 2012-12-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8552-8556; text as passed Senate: CR S8554)
