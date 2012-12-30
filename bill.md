@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 6586
-congress: 112th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 6586
 
-That the bill from the House of Representatives (H.R. 6586) entitled “An Act to extend the application of certain space launch liability provisions through 2014. ”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To extend the application of certain space launch liability provisions through 2014.
 
 ## § 1. Short title
 
