@@ -1,7 +1,7 @@
 ---
 measure: S. 3563
 congress: 112
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3563
@@ -28,3 +28,7 @@ A bill to amend the Energy Policy Act of 2005 to modify the Pilot Project office
 
 - 2012-09-19 — Introduced in Senate
 - 2012-09-19 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2012-12-30 — Passed Senate without amendment by Unanimous Consent. (text: CR S8552)
+- 2012-12-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S8552)
+- 2012-12-30 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S8552, S8552-8556)
+- 2012-12-30 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.(consideration: CR S8552, S8552-8556)
