@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 8
-congress: 112th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Twelfth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 8
 
-That the bill from the House of Representatives (H.R. 8) entitled “An Act to extend certain tax relief provisions enacted in 2001 and 2003, and to provide for expedited consideration of a bill providing for comprehensive tax reform, and for other purposes. ”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> Entitled the “American Taxpayer Relief Act of 2012”.
 
 ## § 1. Short title, etc
 

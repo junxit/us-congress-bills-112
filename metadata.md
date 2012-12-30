@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8
@@ -16,7 +16,7 @@ American Taxpayer Relief Act of 2012
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 
-## Cosponsors (28)
+## Cosponsors (29)
 
 - Rep. Herger, Wally [R-CA-2] (H000528)
 - Rep. Johnson, Sam [R-TX-3] (J000174)
@@ -46,17 +46,20 @@ American Taxpayer Relief Act of 2012
 - Rep. Kline, John [R-MN-2] (K000363)
 - Rep. Scott, Tim [R-SC-1] (S001184)
 - Rep. Calvert, Ken [R-CA-44] (C000059)
+- Sen. McConnell, Mitch [R-KY] (M000355)
 
 ## Committees (2)
 
 - House — Budget Committee
 - House — Ways and Means Committee
 
-## Recorded votes (3)
+## Recorded votes (5)
 
 - 2012-08-01 — [House 112-2-543](votes/house-112-2-0543.md) — On Agreeing to the Amendment — **Failed** (170–257)
 - 2012-08-01 — [House 112-2-544](votes/house-112-2-0544.md) — On Motion to Recommit with Instructions — **Failed** (181–246)
 - 2012-08-01 — [House 112-2-545](votes/house-112-2-0545.md) — On Passage — **Passed** (256–171)
+- 2013-01-01 — [House 112-2-659](votes/house-112-2-0659.md) — On Motion to Concur in the Senate Amendments — **Passed** (257–167)
+- 2013-01-01 — [Senate 112-2-251](votes/senate-112-2-0251.md) — On Passage of the Bill — **Bill Passed** (89–8)
 
 ## Actions
 
@@ -87,3 +90,30 @@ American Taxpayer Relief Act of 2012
 - 2012-08-01 — The previous question was ordered on the amendment (A001) pursuant to the rule. (consideration: CR H5594)
 - 2012-09-10 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2012-09-11 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 502.
+- 2012-12-31 — Senate amendment submitted
+- 2012-12-31 — Senate amendment submitted
+- 2013-01-01 — Amendment SA 3448 agreed to in Senate by Unanimous Consent.
+- 2013-01-01 — Amendment SA 3448 proposed by Senator Reid. (consideration: CR 12/31/2012 S8584-8585) In the nature of a substitute.
+- 2013-01-01 — Amendment SA 3450 agreed to in Senate by Unanimous Consent.
+- 2013-01-01 — Amendment SA 3450 proposed by Senator Pryor for Senator Reid. (consideration: CR 12/31/2012 S8586; text: CR 12/31/2012 S8586) To amend the title.
+- 2013-01-01 — DEBATE - Pursuant to the provisions of H.Res. 844, the House proceeded with 1 hour of debate on the Senate amendments to H.R. 8.
+- 2013-01-01 — Measure laid before Senate by unanimous consent. (consideration: CR 12/31/2012 S8584-8586)
+- 2013-01-01 — Message on Senate action sent to the House.
+- 2013-01-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-01-01 — On motion that the House agree to the Senate amendments Agreed to by recorded vote: 257 - 167 (Roll no. 659). (text as House agreed to Senate amendment: CR H7536-7551)
+- 2013-01-01 — Passed Senate, under the order of 1/1/2013, having achieved 60 votes in the affirmative, with an amendment and an amendment to the Title by Yea-Nay Vote. 89 - 8. Record Vote Number: 251.
+- 2013-01-01 — Passed/agreed to in Senate: Passed Senate, under the order of 1/1/2013, having achieved 60 votes in the affirmative, with an amendment and an amendment to the Title by Yea-Nay Vote. 89 - 8. Record Vote Number: 251.
+- 2013-01-01 — Pursuant to the provisions of H. Res. 844, the House moved to agree to the Senate amendments. (consideration: CR H7536-7559)
+- 2013-01-01 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by recorded vote: 257 - 167 (Roll no. 659).(text as House agreed to Senate amendment: CR H7536-7551)
+- 2013-01-01 — Rules Committee Resolution H. Res. 844 Reported to House. Rule provides for consideration of Senate amendments to H.R. 8 to H.R. 8 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions. The resolution makes in order a motion offered by the chair of the Committee on Ways and Means or his designee that the House concur in the Senate amendments to H.R. 8. The resolution waives all points of order against consideration of the motion and the Senate amendments and provides that they shall be considered as read.
+- 2013-01-01 — Senate amendment agreed to: Amendment SA 3448 agreed to in Senate by Unanimous Consent.
+- 2013-01-01 — Senate amendment agreed to: Amendment SA 3450 agreed to in Senate by Unanimous Consent.
+- 2013-01-01 — Senate amendment proposed (on the floor): Amendment SA 3448 proposed by Senator Reid.(consideration: CR 12/31/2012 S8584-8585)
+- 2013-01-01 — Senate amendment proposed (on the floor): Amendment SA 3450 proposed by Senator Pryor for Senator Reid.(consideration: CR 12/31/2012 S8586; text: CR 12/31/2012 S8586)
+- 2013-01-01 — The previous question was ordered pursuant to the rule. (consideration: H7558)
+- 2013-01-02 — Became Public Law No: 112-240.
+- 2013-01-02 — Became Public Law No: 112-240.
+- 2013-01-02 — Presented to President.
+- 2013-01-02 — Presented to President.
+- 2013-01-02 — Signed by President.
+- 2013-01-02 — Signed by President.

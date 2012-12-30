@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8
 congress: 112
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -82,7 +82,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 30B(g)(2) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 30D(c)(2) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 55(c)(3) is amended by striking “26(a), 30C(d)(2),” and inserting “30C(d)(2)”. | the bill names no machine-readable US Code section |
-| — | redesignate | Section 904 is amended by striking subsection (i) and by redesignating subsections (j) , (k), and (l) as subsections (i), (j), and (k), respectively. | the bill names no machine-readable US Code section |
+| — | redesignate | Section 904 is amended by striking subsection (i) and by redesignating subsections (j), (k), and (l) as subsections (i), (j), and (k), respectively. | the bill names no machine-readable US Code section |
 | — | amend | Section 1400C(d) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Subparagraph (D) of section 62(a)(2) is amended by striking “or 2011” and inserting “2011, 2012, or 2013”. | the bill names no machine-readable US Code section |
 | — | replace | Subparagraph (E) of section 108(a)(1) is amended by striking “January 1, 2013” and inserting “January 1, 2014”. | the bill names no machine-readable US Code section |
@@ -151,7 +151,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “January 1, 2012” and inserting “January 1, 2014”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “and 2011” and inserting “, 2011, 2012, and 2013” in the heading thereof. | the bill names no machine-readable US Code section |
 | — | add-at-end | Paragraph (3) of section 1202(a) is amended by adding at the end the following new flush sentence: | the bill names no machine-readable US Code section |
-| — | amend | Paragraph (4) of section 1202(a) is amended by adding at the end the following new flush sentence: | the bill names no machine-readable US Code section |
+| — | add-at-end | Paragraph (4) of section 1202(a) is amended by adding at the end the following new flush sentence: | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (2) of section 1367(a) is amended by striking “December 31, 2011” and inserting “December 31, 2013”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (C) as subparagraph (D), and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (B) the following new subparagraph: | the bill names no machine-readable US Code section |
@@ -208,7 +208,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Subparagraph (C) of section 48(a)(5) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of clause (i)(II), | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of clause (ii) and inserting a comma, and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new clauses: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new clauses: | the bill names no machine-readable US Code section |
 | — | replace | Paragraphs (1) and (2) of subsection (a) of section 1603 of division B of the American Recovery and Reinvestment Act of 2009 are each amended by striking “placed in service” and inserting “originally placed in service by such person”. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (g) of section 45L is amended by striking “December 31, 2011” and inserting “December 31, 2013”. | the bill names no machine-readable US Code section |
 | — | replace | Clause (i) of section 45L(c)(1)(A) is amended by striking “2003 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section”and inserting “2006 International Ener… | the bill names no machine-readable US Code section |
@@ -225,7 +225,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “December 31, 2011, and” and inserting “December 31, 2013,”, | the bill names no machine-readable US Code section |
 | — | strike | by striking “or alternative fuel mixture”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting “, and”, and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 4007(a)(2) of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) is amended by striking “January 2, 2013” and inserting “January 1, 2014”. | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (H), by striking “and” at the end; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (I) the following: | the bill names no machine-readable US Code section |
@@ -300,7 +300,7 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 1834(k) of the Social Security Act (42 U.S.C. 1395m(k)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1833(t)(16) of the Social Security Act (42 U.S.C. 1395l(t)(16)) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking “and subsequent years” and inserting “, 2012, and 2013”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new sentence: “With respect to fee schedules established for 2014 and subsequent years, in such methodology, the Secretary shall use a 90 percent utilization rate.”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new sentence: “With respect to fee schedules established for 2014 and subsequent years, in such methodology, the Secretary shall use a 90 percent utilization rate.”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(2)(B)(v)(III), by striking “change in the utilization rate applicable to 2011, as described in” and inserting “changes in the utilization rate applicable to 2011 and 2014, as described in the first and second sentence, … | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (F), in the matter preceding clause (i), by striking “subparagraph (G)” and inserting “subparagraphs (G) and (H)”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
@@ -367,13 +367,13 @@ complete account of the bill's effect, which it is not.
 | — | strike | in the matter preceding clause (i), by striking the first “under”; and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clauses (i) through (iii) as subparagraphs (A), (B), and (C), respectively, and indenting appropriately; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking “use such sums as are necessary from the Trust Fund to”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2), by striking “use such sums as are necessary from the Trust Fund to”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1), by striking “use up to $50,000,000 per year from the Trust Fund to”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2)(A), by striking “use such sums as are necessary from the Trust Fund to”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (i), by inserting “or, in the case of subsections (c) through (f), September 30, 2013” after “2011,”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “that” before “the Russian Federation” and inserting “whether”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “strategic” before “arms control obligations”. | the bill names no machine-readable US Code section |
