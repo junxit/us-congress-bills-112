@@ -1,7 +1,7 @@
 ---
 measure: S. 140
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 140
@@ -33,3 +33,5 @@ Sleeping Bear Dunes National Lakeshore Conservation and Recreation Act
 - 2012-01-13 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 12/17/2011 without amendment. With written report No. 112-104.
 - 2012-01-13 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 12/17/2011 without amendment. With written report No. 112-104.
 - 2012-01-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 266.
+- 2012-12-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8552-8556; text as passed Senate: CR S8555)
+- 2012-12-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8552-8556; text as passed Senate: CR S8555)
