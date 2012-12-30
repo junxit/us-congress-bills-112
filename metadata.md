@@ -1,7 +1,7 @@
 ---
 measure: S. 499
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 499
@@ -33,3 +33,5 @@ Bonneville Unit Clean Hydropower Facilitation Act
 - 2012-01-13 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 12/17/2011 without amendment. With written report No. 112-110.
 - 2012-01-13 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 12/17/2011 without amendment. With written report No. 112-110.
 - 2012-01-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 272.
+- 2012-12-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8552-8556; text as passed Senate: CR S8554-8555)
+- 2012-12-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8552-8556; text as passed Senate: CR S8554-8555)
