@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6586
 congress: 112
-version: Received in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 50915(f) of title 51, United States Code, is amended by striking “December 31, 2012” and inserting “December 31, 2014” . | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 203 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18313) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 50915(f) of title 51, United States Code, is amended by striking “December 31, 2012” and inserting “December 31, 2013”. | the bill names no machine-readable US Code section |
+| — | strike | by striking “, or for the purchase of goods or services relating to human space flight, that are”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “prior to July 1, 2016” and inserting “prior to December 31, 2020”. | the bill names no machine-readable US Code section |

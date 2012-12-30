@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6586
 congress: 112
-version: Received in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6586
