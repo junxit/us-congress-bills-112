@@ -1,7 +1,7 @@
 ---
 measure: S. 3667
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3667
@@ -20,9 +20,10 @@ A bill to rename section 219(c) of the Internal Revenue Code of 1986 as the Kay 
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Finance Committee
+- House — Ways and Means Committee
 
 ## Actions
 
@@ -33,3 +34,6 @@ A bill to rename section 219(c) of the Internal Revenue Code of 1986 as the Kay 
 - 2012-12-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S8454)
 - 2012-12-27 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S8454)
 - 2012-12-27 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S8454)
+- 2012-12-28 — Message on Senate action sent to the House.
+- 2012-12-30 — Received in the House.
+- 2012-12-30 — Referred to the House Committee on Ways and Means.
