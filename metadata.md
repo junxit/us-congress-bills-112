@@ -1,7 +1,7 @@
 ---
 measure: S. 140
 congress: 112
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 140
@@ -20,9 +20,10 @@ Sleeping Bear Dunes National Lakeshore Conservation and Recreation Act
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ Sleeping Bear Dunes National Lakeshore Conservation and Recreation Act
 - 2012-01-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 266.
 - 2012-12-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8552-8556; text as passed Senate: CR S8555)
 - 2012-12-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8552-8556; text as passed Senate: CR S8555)
+- 2012-12-31 — Message on Senate action sent to the House.
+- 2012-12-31 — Received in the House.
+- 2012-12-31 — Referred to the House Committee on Natural Resources.
