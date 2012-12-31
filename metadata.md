@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4194
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4194
@@ -25,3 +25,11 @@ To amend the Alaska Native Claims Settlement Act to provide that Alexander Creek
 - 2012-03-08 — Introduced in House
 - 2012-03-08 — Introduced in House
 - 2012-03-08 — Referred to the House Committee on Natural Resources.
+- 2012-03-19 — Referred to the Subcommittee Indian and Alaska Native Affairs.
+- 2012-03-20 — Subcommittee Hearings Held.
+- 2012-08-01 — Committee Consideration and Mark-up Session Held.
+- 2012-08-01 — Ordered to be Reported by Voice Vote.
+- 2012-08-01 — Subcommittee Indian and Alaska Native Affairs Discharged.
+- 2012-12-31 — Placed on the Union Calendar, Calendar No. 538.
+- 2012-12-31 — Reported by the Committee on Natural Resources. H. Rept. 112-736.
+- 2012-12-31 — Reported by the Committee on Natural Resources. H. Rept. 112-736.
