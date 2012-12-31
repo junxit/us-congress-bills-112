@@ -1,7 +1,7 @@
 ---
 measure: H.R. 752
 congress: 112
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 752
@@ -31,3 +31,11 @@ Molalla River Wild and Scenic Rivers Act
 - 2011-02-17 — Introduced in House
 - 2011-02-17 — Introduced in House
 - 2011-02-17 — Referred to the House Committee on Natural Resources.
+- 2011-02-22 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2012-03-08 — Subcommittee Hearings Held.
+- 2012-12-05 — Committee Consideration and Mark-up Session Held.
+- 2012-12-05 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2012-12-05 — Subcommittee on National Parks, Forests and Public Lands Discharged.
+- 2012-12-31 — Placed on the Union Calendar, Calendar No. 537.
+- 2012-12-31 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-735.
+- 2012-12-31 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 112-735.

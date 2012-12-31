@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 752
 congress: 112th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,13 +18,14 @@ This Act may be cited as the “Molalla River Wild and Scenic Rivers Act”.
 Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by adding at the end the following:
 
 > - **(___)** *Molalla river, Oregon*
->   - **(A)** *In general* The following segments in the State of Oregon, to be administered by the Secretary of the Interior as a recreational river:
->     - **(i)** *Molalla river* The approximately 15.1-mile segment from the southern boundary line of T. 7 S., R. 4 E., sec. 19, downstream to the edge of the Bureau of Land Management boundary in T. 6 S., R. 3 E., sec. 7.
->     - **(ii)** *Table Rock Fork Molalla River* The approximately 6.2-mile segment from the easternmost Bureau of Land Management boundary line in the NE1/4 sec. 4, T. 7 S., R. 4 E., downstream to the confluence with the Molalla River.
->   - **(B)** *Withdrawal* Subject to valid existing rights, the Federal land within the boundaries of the river segments designated by subparagraph (A) is withdrawn from all forms of—
->     - **(i)** entry, appropriation, or disposal under the public land laws;
->     - **(ii)** location, entry, and patent under the mining laws; and
->     - **(iii)** disposition under all laws relating to mineral and geothermal leasing or mineral materials.
+>   - **(A)** The following segments in the State of Oregon, to be administered by the Secretary of the Interior as a recreational river:
+>     - **(i)** The approximately 15.1-mile segment from the southern boundary line of T. 7 S., R. 4 E., sec. 19, downstream to the edge of the Bureau of Land Management boundary in T. 6 S., R. 3 E., sec. 7.
+>     - **(ii)** The approximately 6.2-mile segment from the easternmost Bureau of Land Management boundary line in the NE1/4 sec. 4, T. 7 S., R. 4 E., downstream to the confluence with the Molalla River.
+>   - **(B)** The Secretary of the Interior may not acquire by condemnation any land or interest in land within the boundaries of the river segments designated by subparagraph (A).
+>   - **(C)** Nothing in this paragraph—
+>     - **(i)** establishes or authorizes the establishment of a protective perimeter or buffer zone around the boundaries of the river segments designated by subparagraph (A); or
+>     - **(ii)** prohibits an activity from being conducted outside such boundaries, including an activity that can be seen or heard from within such boundaries.
+>   - **(D)** Private or non-Federal public property shall not be included within the boundaries of the river segments designated by subparagraph (A), unless the owner of that property has consented in writing to having that property included in such boundaries.
 
 ## § 3. Technical corrections
 
