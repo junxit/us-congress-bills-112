@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6649
 congress: 112
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6649
@@ -29,3 +29,9 @@ Naval Vessels Transfer Act of 2012
 - 2012-12-11 — Introduced in House
 - 2012-12-11 — Introduced in House
 - 2012-12-11 — Referred to the House Committee on Foreign Affairs.
+- 2012-12-31 — Considered under suspension of the rules. (consideration: CR H7508-7511)
+- 2012-12-31 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6649.
+- 2012-12-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2012-12-31 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
+- 2012-12-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7508)
+- 2012-12-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7508)
