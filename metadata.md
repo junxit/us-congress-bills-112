@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3159
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3159
@@ -97,3 +97,4 @@ Foreign Aid Transparency and Accountability Act of 2012
 - 2012-12-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 649). (text: CR H7458-7459)
 - 2012-12-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 649).(text: CR H7458-7459)
 - 2012-12-30 — The title of the measure was amended. Agreed to without objection.
+- 2012-12-31 — Received in the Senate.
