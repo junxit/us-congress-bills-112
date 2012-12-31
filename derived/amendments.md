@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4019
 congress: 112
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -34,5 +34,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 6906 of title 31, United States Code, is amended by striking “2012” and inserting “2017”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end of subparagraph (I); | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of subparagraph (J) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 6903 of title 31, United States Code, is amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
