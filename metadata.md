@@ -1,7 +1,7 @@
 ---
 measure: S. 302
 congress: 112
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 302
@@ -34,3 +34,8 @@ A bill to authorize the Secretary of the Interior to issue right-of-way permits 
 - 2012-01-13 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 12/17/2011 without amendment. With written report No. 112-107.
 - 2012-01-13 — Committee on Energy and Natural Resources. Reported by Senator Bingaman under authority of the order of the Senate of 12/17/2011 without amendment. With written report No. 112-107.
 - 2012-01-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 269.
+- 2013-01-01 — Held at the desk.
+- 2013-01-01 — Message on Senate action sent to the House.
+- 2013-01-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR 12/31/2012 S8609; text as passed Senate: CR 12/31/2012 S8609)
+- 2013-01-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR 12/31/2012 S8609; text as passed Senate: CR 12/31/2012 S8609)
+- 2013-01-01 — Received in the House.
