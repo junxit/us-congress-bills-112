@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6612
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6612
@@ -26,9 +26,10 @@ To redesignate the Dryden Flight Research Center as the Neil A. Armstrong Flight
 - Rep. Rohrabacher, Dana [R-CA-46] (R000409)
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ To redesignate the Dryden Flight Research Center as the Neil A. Armstrong Flight
 - 2012-12-31 — Mr. Hall moved to suspend the rules and pass the bill.
 - 2012-12-31 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 653). (text: CR H7485)
 - 2012-12-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 0 (Roll no. 653).(text: CR H7485)
+- 2013-01-01 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
