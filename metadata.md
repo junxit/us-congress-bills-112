@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6649
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6649
@@ -35,3 +35,4 @@ Naval Vessels Transfer Act of 2012
 - 2012-12-31 — Ms. Ros-Lehtinen moved to suspend the rules and pass the bill, as amended.
 - 2012-12-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7508)
 - 2012-12-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7508)
+- 2013-01-01 — Received in the Senate.
