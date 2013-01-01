@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 834
 congress: 112th CONGRESS
-session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2nd Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 834
