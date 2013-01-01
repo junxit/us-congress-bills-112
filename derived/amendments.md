@@ -1,7 +1,7 @@
 ---
 measure: H.R. 459
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | Subsection (b) of section 714 of title 31, United States Code, is amended by striking all after “in writing.”. | the bill names no machine-readable US Code section |
-| — | strike | Section 714 of title 31, United States Code, is amended by striking subsection (f). | the bill names no machine-readable US Code section |
+| `31 U.S.C. § 714` | strike | Subsection (b) of section 714 of title 31, United States Code, is amended by striking all after “in writing.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 714` | strike | Section 714 of title 31, United States Code, is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 459
 congress: 112
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 459
@@ -327,3 +327,6 @@ Federal Reserve Transparency Act of 2012
 - 2012-07-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 327 - 98 (Roll no. 513).
 - 2012-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 327 - 98 (Roll no. 513).
 - 2012-07-25 — The title of the measure was amended. Agreed to without objection.
+- 2012-07-26 — Received in the Senate.
+- 2012-12-30 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2013-01-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 580.
