@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 145
 congress: 112
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 145
@@ -47,3 +47,4 @@ Calling for universal condemnation of the North Korean missile launch of Decembe
 - 2013-01-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2013-01-01 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR 12/31/2012 H7498)
 - 2013-01-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR 12/31/2012 H7498)
+- 2013-01-02 — Received in the Senate.
