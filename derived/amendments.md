@@ -1,7 +1,7 @@
 ---
 measure: S. 3250
 congress: 112
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 

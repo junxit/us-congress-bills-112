@@ -2,12 +2,14 @@
 legis-num: S. 3250
 congress: 112th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 3250
 
-> To amend the DNA Analysis Backlog Elimination Act of 2000 to provide for Debbie Smith grants for auditing sexual assault evidence backlogs and to establish a Sexual Assault Forensic Evidence Registry, and for other purposes.
+That the bill from the Senate (S. 3250) entitled “An Act to amend the DNA Analysis Backlog Elimination Act of 2000 to provide for Debbie Smith grants for auditing sexual assault evidence backlogs and to establish a Sexual Assault Forensic Evidence Registry, and for other purposes.”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -19,7 +21,7 @@ Section 2 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135) 
 
 - **(1)** in subsection (a), by adding at the end the following new paragraph:
   > - **(6)** To conduct an audit consistent with subsection (n) of the samples of sexual assault evidence that are in the possession of the State or unit of local government and are awaiting testing.
-  > - **(7)** To ensure that the collection and processing of DNA evidence by law enforcement agencies from crimes, including sexual assault and other violent crimes against persons, is carried out in an appropriate and timely manner and in accordance with the protocols and practices developed under subsection (o)(1).
+  > - **(7)** To ensure that the collection and processing of sexual assault evidence that is awaiting testing is carried out in an appropriate and timely manner and in accordance with the advisory guidelines developed under subsection (o)(1).
 
 - **(2)** in subsection (c), by adding at the end the following new paragraph:
   > - **(4)** *Allocation of grant awards for audits* For each of fiscal years 2014 through 2017, not less than 5 percent, but not more than 7 percent, of the grant amounts distributed under paragraph (1) shall, if sufficient applications to justify such amounts are received by the Attorney General, be awarded for purposes described in subsection (a)(6), provided that none of the funds required to be distributed under this paragraph shall decrease or otherwise limit the availability of funds required to be awarded to States or units of local government under paragraph (3).
@@ -76,20 +78,18 @@ Section 2 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135) 
   >     - **(C)** *Possession*
   >       - **(i)** *In general* The term possession, used with respect to possession of a sample of sexual assault evidence by a State or unit of local government, includes possession by an individual who is acting as an agent of the State or unit of local government for the collection of the sample.
   >       - **(ii)** *Rule of construction* Nothing in clause (i) shall be construed to create or amend any Federal rights or privileges for non-governmental vendor laboratories described in regulations promulgated under section 210303 of the DNA Identification Act of 1994 (42 U.S.C. 14131).
-  > - **(o)** *Establishment of protocols, technical assistance, and definitions*
-  >   - **(1)** *Protocols and practices* Not later than 18 months after the date of enactment of the SAFER Act of 2012, the Director, in consultation with Federal, State, and local law enforcement agencies and government laboratories, shall develop and publish a description of protocols and practices the Director considers appropriate for the accurate, timely, and effective collection and processing of DNA evidence, including protocols and practices specific to sexual assault cases, which shall address appropriate steps in the investigation of cases that might involve DNA evidence, including—
+  > - **(o)** *Establishment of advisory guidelines, technical assistance, and definitions*
+  >   - **(1)** *Advisory guidelines* Not later than 18 months after the date of enactment of the SAFER Act of 2012, the Attorney General, in consultation with Federal, State, and local law enforcement agencies and government laboratories, shall develop and publish a report containing advisory guidelines the Attorney General considers appropriate for the accurate, timely, and effective collection and processing of sexual assault evidence that is awaiting testing, which shall address appropriate steps in the investigation of cases that might involve sexual assault evidence that is awaiting testing, including only—
   >     - **(A)** how to determine—
-  >       - **(i)** which evidence is to be collected by law enforcement personnel and forwarded for testing;
-  >       - **(ii)** the preferred order in which evidence from the same case is to be tested; and
-  >       - **(iii)** what information to take into account when establishing the order in which evidence from different cases is to be tested;
+  >       - **(i)** which evidence is to be collected by law enforcement personnel and forwarded for testing; and
+  >       - **(ii)** what information to take into account when establishing the order in which evidence from different cases is to be tested;
   >     - **(B)** the establishment of a reasonable period of time in which evidence is to be forwarded by emergency response providers, law enforcement personnel, and prosecutors to a laboratory for testing;
-  >     - **(C)** the establishment of reasonable periods of time in which each stage of analytical laboratory testing is to be completed;
-  >     - **(D)** systems to encourage communication within a State or unit of local government among emergency response providers, law enforcement personnel, prosecutors, courts, defense counsel, crime laboratory personnel, and crime victims regarding the status of crime scene evidence to be tested; and
-  >     - **(E)** standards for conducting the audit of the backlog for DNA case work in sexual assault cases required under subsection (n).
-  >   - **(2)** *Technical assistance and training* The Director shall make available technical assistance and training to support States and units of local government in adopting and implementing the protocols and practices developed under paragraph (1) on and after the date on which the protocols and practices are published.
+  >     - **(C)** systems to encourage communication within a State or unit of local government among emergency response providers, law enforcement personnel, prosecutors, courts, crime laboratory personnel, and crime victims regarding the status of sexual assault evidence to be tested; and
+  >     - **(D)** standards for conducting the audit of the backlog of sexual assault evidence that is awaiting testing required under subsection (n).
+  >   - **(2)** *Technical assistance and training* The Attorney General shall make available technical assistance and training to support States and units of local government in adopting and implementing the guidelines developed under paragraph (1) on and after the date on which the guidelines are published.
   >   - **(3)** *Definitions* In this subsection, the terms awaiting testing and possession have the meanings given those terms in subsection (n).
 
-## § 3. Reports to congress
+## § 3. Reports to Congress
 
 Not later than 90 days after the end of each fiscal year for which a grant is made for the purpose described in section 2(a)(6) of the DNA Analysis Backlog Elimination Act of 2000, as amended by section 2, the Attorney General shall submit to Congress a report that—
 
@@ -117,7 +117,7 @@ All grants awarded by the Department of Justice that are authorized under this A
   - **(B)** seek to recoup the costs of the repayment to the fund from the grant recipient that was erroneously awarded grant funds.
 - **(5)** *Defined term* In this section, the term unresolved audit finding means an audit report finding in the final audit report of the Inspector General of the Department of Justice that the grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within a 12-month period beginning on the date when the final audit report is issued.
 - **(6)** *Nonprofit organization requirements*
-  - **(A)** *Definition* For purposes of this section and the grant programs described in this Act, the term “nonprofit organization” means an organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Code.
+  - **(A)** *Definition* For purposes of this section and the grant programs described in this Act, the term nonprofit organization means an organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Code.
   - **(B)** *Prohibition* The Attorney General shall not award a grant under any grant program described in this Act to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of the Internal Revenue Code of 1986.
   - **(C)** *Disclosure* Each nonprofit organization that is awarded a grant under a grant program described in this Act and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subsection available for public inspection.
 - **(7)** *Administrative expenses* Unless otherwise explicitly provided in authorizing legislation, not more than 7.5 percent of the amounts authorized to be appropriated under this Act may be used by the Attorney General for salaries and administrative expenses of the Department of Justice.
@@ -128,7 +128,7 @@ All grants awarded by the Department of Justice that are authorized under this A
 - **(9)** *Prohibition on lobbying activity*
   - **(A)** *In general* Amounts authorized to be appropriated under this Act may not be utilized by any grant recipient to—
     - **(i)** lobby any representative of the Department of Justice regarding the award of grant funding; or
-    - **(ii)** lobby any representative of a Federal, state, local, or tribal government regarding the award of grant funding.
+    - **(ii)** lobby any representative of a Federal, State, local, or tribal government regarding the award of grant funding.
   - **(B)** *Penalty* If the Attorney General determines that any recipient of a grant under this Act has violated subparagraph (A), the Attorney General shall—
     - **(i)** require the grant recipient to repay the grant in full; and
     - **(ii)** prohibit the grant recipient from receiving another grant under this Act for not less than 5 years.

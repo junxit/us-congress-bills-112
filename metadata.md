@@ -1,7 +1,7 @@
 ---
 measure: S. 3250
 congress: 112
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 3250
@@ -52,3 +52,19 @@ To amend the DNA Analysis Backlog Elimination Act of 2000 to provide for Debbie 
 - 2012-12-30 — Senate amendment agreed to: Amendment SA 3445 agreed to in Senate by Unanimous Consent.
 - 2012-12-30 — Senate amendment proposed (on the floor): Amendment SA 3445 proposed by Senator Durbin for Senator Cornyn.
 - 2012-12-30 — Senate amendment submitted
+- 2012-12-31 — Held at the desk.
+- 2012-12-31 — Message on Senate action sent to the House.
+- 2012-12-31 — Received in the House.
+- 2013-01-02 — Amendment (A003) offered by Mr. Smith (TX).
+- 2013-01-02 — Amendment agreed to by House: On agreeing to the Smith (TX) amendment (A003) Agreed to without objection.
+- 2013-01-02 — Considered by unanimous consent. (consideration: CR H7580-7584)
+- 2013-01-02 — House amendment agreed to: On agreeing to the Smith (TX) amendment (A003) Agreed to without objection.
+- 2013-01-02 — House amendment offered
+- 2013-01-02 — House amendment offered/reported by: Amendment (A003) offered by Mr. Smith (TX).
+- 2013-01-02 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2013-01-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2013-01-02 — Mr. Smith (TX) asked unanimous consent to take from the Speaker's table and consider.
+- 2013-01-02 — On agreeing to the Smith (TX) amendment (A003) Agreed to without objection.
+- 2013-01-02 — On passage Passed without objection.
+- 2013-01-02 — Passed/agreed to in House: On passage Passed without objection.
+- 2013-01-02 — The title of the measure was amended. Agreed to without objection.
