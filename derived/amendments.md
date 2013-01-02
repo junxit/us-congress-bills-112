@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6655
 congress: 112
-version: Referred in Senate
+version: Reference Change Senate
 derived: true
 ---
 

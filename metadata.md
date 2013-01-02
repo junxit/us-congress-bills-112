@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6655
 congress: 112
-version: Referred in Senate
+version: Reference Change Senate
 ---
 
 # H.R. 6655
@@ -36,9 +36,11 @@ Protect our Kids Act of 2012
 - Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
 - Rep. Reichert, David G. [R-WA-8] (R000578)
 
-## Committees (1)
+## Committees (3)
 
 - House — Ways and Means Committee
+- Senate — Health, Education, Labor, and Pensions Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +60,11 @@ Protect our Kids Act of 2012
 - 2012-12-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 330 - 77 (Roll no. 636). (text: CR H7313-7314)
 - 2012-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 330 - 77 (Roll no. 636).(text: CR H7313-7314)
 - 2012-12-19 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2013-01-02 — Message on Senate action sent to the House.
+- 2013-01-02 — Passed Senate without amendment by Voice Vote.
+- 2013-01-02 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2013-01-02 — Referred to the Committee on Finance.
+- 2013-01-02 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S8666-8667)
+- 2013-01-02 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S8666-8667)
+- 2013-01-02 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S8666-8667)
+- 2013-01-02 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S8666-8667)
