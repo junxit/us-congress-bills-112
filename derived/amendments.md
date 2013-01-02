@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6655
 congress: 112
-version: Reference Change Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -22,13 +22,13 @@ document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
-## Executed
+## Stated, not applied
 
-### 42 U.S.C. § 603
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
 
-> Section 403(b)(2) of the Social Security Act (42 U.S.C. 603(b)(2)) is amended by striking “for fiscal years 2011 and 2012” and all that follows through the end of the paragraph and inserting “for fiscal years 2013 and 2014 such sums as are necessary for payment to the Fund in a total amount not to exceed $612,000,000 for each fiscal year, of which $2,000,000 shall be reserved for carrying out the activities of the commission established by the Protect our Kids Act of 2012 to reduce fatalities resulting from child abuse and neglect.”
-
-| | |
-|---|---|
-| Removed | `for fiscal years 2011 and 2012` |
-| Inserted | `for fiscal years 2013 and 2014 such sums as are necessary for payment to the Fund in a total amount not to exceed $612,000,000 for each fiscal year, of which $2,000,000 shall be reserved for carrying out the activities of the commission established by the Protect our Kids Act of 2012 to reduce fatalities resulting from child abuse and neglect.` |
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | replace | Section 403(b)(2) of the Social Security Act (42 U.S.C. 603(b)(2)) is amended by striking “for fiscal years 2011 and 2012” and all that follows through the end of the paragraph and inserting “for fiscal years 2013 and 2014 such sums as a… | the bill names no machine-readable US Code section |

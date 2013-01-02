@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6655
 congress: 112
-version: Reference Change Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6655
@@ -68,3 +68,9 @@ Protect our Kids Act of 2012
 - 2013-01-02 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S8666-8667)
 - 2013-01-02 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S8666-8667)
 - 2013-01-02 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S8666-8667)
+- 2013-01-03 — Presented to President.
+- 2013-01-03 — Presented to President.
+- 2013-01-14 — Became Public Law No: 112-275.
+- 2013-01-14 — Became Public Law No: 112-275.
+- 2013-01-14 — Signed by President.
+- 2013-01-14 — Signed by President.
