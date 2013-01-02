@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 844
 congress: 112
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 844
@@ -15,6 +15,10 @@ Providing for consideration of the Senate amendments to the bill (H.R. 8) to ext
 ## Sponsor
 
 - Rep. Dreier, David [R-CA-26] (D000492)
+
+## Committees (1)
+
+- House — Rules Committee
 
 ## Recorded votes (1)
 
