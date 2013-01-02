@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6726
 congress: 112
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6726
@@ -39,10 +39,11 @@ Congressional Pay Freeze and Fiscal Responsibility Act
 - Rep. Hensarling, Jeb [R-TX-5] (H001036)
 - Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
 
-## Committees (2)
+## Committees (3)
 
 - House — Committee on House Administration
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -62,3 +63,4 @@ Congressional Pay Freeze and Fiscal Responsibility Act
 - 2013-01-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 287 - 129 (Roll no. 655).(text: CR H7521)
 - 2013-01-01 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2013-01-01 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2013-01-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
